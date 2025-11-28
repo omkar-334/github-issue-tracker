@@ -97,14 +97,43 @@ jobs:
 
               RESP=$(curl -s -H "Authorization: token $TOKEN" "$URL")
 
-              # verify JSON
+              # verify JSON and check for errors
               if ! echo "$RESP" | jq empty >/dev/null 2>&1; then
                 echo "Bad JSON for $repo page $PAGE — skipping"
                 break
               fi
+              
+              # Check if response is an array (success) or error object
+              if ! echo "$RESP" | jq -e 'type == "array"' >/dev/null 2>&1; then
+                ERROR_MSG=$(echo "$RESP" | jq -r '.message // "Unknown error"' 2>/dev/null || echo "Invalid response format")
+                echo "API error for $repo page $PAGE: $ERROR_MSG"
+                # If rate limited, wait and retry
+                if echo "$RESP" | jq -e '.message | contains("rate limit")' >/dev/null 2>&1; then
+                  echo "Rate limited, waiting 60 seconds..."
+                  sleep 60
+                  continue
+                fi
+                break
+              fi
 
               # extract non-PR issues only and add repo field
-              echo "$RESP" | jq --arg repo "$repo" '[.[] | select(.pull_request | not) | . + {repo: $repo}]' > page.json
+              # Filter: only objects (not strings), exclude PRs, add repo field
+              echo "$RESP" | jq --arg repo "$repo" '
+                if type == "array" then
+                  [.[] | 
+                    select(type == "object") | 
+                    select(.pull_request == null) | 
+                    . + {repo: $repo}]
+                else
+                  []
+                end' > page.json
+              
+              # Verify page.json is valid
+              if ! jq empty page.json >/dev/null 2>&1; then
+                echo "Error processing issues for $repo page $PAGE"
+                break
+              fi
+              
               COUNT=$(jq 'length' page.json)
 
               if [ "$COUNT" -eq 0 ]; then
@@ -144,27 +173,18 @@ jobs:
             
             REPO=$(echo "$issue" | jq -r '.repo // empty')
             ISSUE_NUM=$(echo "$issue" | jq -r '.number // empty')
-            BODY=$(echo "$issue" | jq -r '.body // ""')
             
-            # Check issue body for PR references
+            # Only check GitHub's timeline API for actual linked PRs (cross-references)
             HAS_PR=false
             PR_URL=""
             
-            # Check body for PR patterns
-            if [ -n "$BODY" ] && [ "$BODY" != "null" ]; then
-              if echo "$BODY" | grep -qiE "(closes|fixes|resolves).*#\d+|github\.com.*pull/\d+"; then
-                HAS_PR=true
-                # Try to extract PR URL from body
-                PR_URL=$(echo "$BODY" | grep -oiE "https://github\.com/[^/]+/[^/]+/pull/\d+" | head -1 || echo "")
-              fi
-            fi
-            
-            # Check issue timeline for linked PRs (if not found in body)
-            if [ "$HAS_PR" = "false" ] && [ -n "$REPO" ] && [ -n "$ISSUE_NUM" ]; then
+            # Check issue timeline for linked PRs (GitHub's official linking mechanism)
+            if [ -n "$REPO" ] && [ -n "$ISSUE_NUM" ]; then
               TIMELINE=$(curl -s -H "Authorization: token $TOKEN" \
                 "https://api.github.com/repos/$REPO/issues/$ISSUE_NUM/timeline" 2>/dev/null || echo "[]")
               
               if echo "$TIMELINE" | jq empty >/dev/null 2>&1; then
+                # Look for cross-referenced PRs in timeline
                 PR_REFS=$(echo "$TIMELINE" | jq '[.[] | select(.source?.issue?.pull_request != null)]' 2>/dev/null || echo "[]")
                 if [ "$(echo "$PR_REFS" | jq 'length' 2>/dev/null)" -gt 0 ]; then
                   HAS_PR=true
