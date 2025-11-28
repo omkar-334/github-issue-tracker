@@ -161,124 +161,98 @@ jobs:
         id: process
         run: |
           ALL_TMP="${{ steps.fetch.outputs.all_tmp }}"
-          TOKEN="${{ secrets.GITHUB_TOKEN }}"
           
-          # Transform GitHub API format to our format and detect PR links
-          # Process each issue to check for linked PRs
-          TRANSFORMED=$(mktemp)
-          echo "[]" > "$TRANSFORMED"
+          # Transform GitHub API format to our format (no PR checking)
+          # Use file-based jq operations to avoid "Argument list too long" errors
+          jq '[.[] | {
+            repo: .repo,
+            id: .id,
+            number: .number,
+            title: .title,
+            url: .html_url,
+            created_at: .created_at,
+            user: .user.login,
+            labels: [.labels[]?.name // empty],
+            has_linked_pr: false,
+            linked_pr_url: "",
+            archived: false
+          }]' "$ALL_TMP" > transformed.json
           
-          jq -c '.[]' "$ALL_TMP" | while IFS= read -r issue; do
-            if [ -z "$issue" ]; then continue; fi
-            
-            REPO=$(echo "$issue" | jq -r '.repo // empty')
-            ISSUE_NUM=$(echo "$issue" | jq -r '.number // empty')
-            
-            # Only check GitHub's timeline API for actual linked PRs (cross-references)
-            HAS_PR=false
-            PR_URL=""
-            
-            # Check issue timeline for linked PRs (GitHub's official linking mechanism)
-            if [ -n "$REPO" ] && [ -n "$ISSUE_NUM" ]; then
-              TIMELINE=$(curl -s -H "Authorization: token $TOKEN" \
-                "https://api.github.com/repos/$REPO/issues/$ISSUE_NUM/timeline" 2>/dev/null || echo "[]")
-              
-              if echo "$TIMELINE" | jq empty >/dev/null 2>&1; then
-                # Look for cross-referenced PRs in timeline
-                PR_REFS=$(echo "$TIMELINE" | jq '[.[] | select(.source?.issue?.pull_request != null)]' 2>/dev/null || echo "[]")
-                if [ "$(echo "$PR_REFS" | jq 'length' 2>/dev/null)" -gt 0 ]; then
-                  HAS_PR=true
-                  PR_URL=$(echo "$PR_REFS" | jq -r '.[0].source.issue.html_url // ""' 2>/dev/null || echo "")
-                fi
-              fi
-            fi
-            
-            # Transform to our format
-            TRANSFORMED_ISSUE=$(echo "$issue" | jq --argjson has_pr "$HAS_PR" --arg pr_url "$PR_URL" '{
-              repo: .repo,
-              id: .id,
-              number: .number,
-              title: .title,
-              url: .html_url,
-              created_at: .created_at,
-              user: .user.login,
-              labels: [.labels[]?.name // empty],
-              has_linked_pr: $has_pr,
-              linked_pr_url: $pr_url,
-              archived: false
-            }')
-            
-            # Add to transformed array
-            jq --argjson new "$TRANSFORMED_ISSUE" '. + [$new]' "$TRANSFORMED" > tmp_transformed.json
-            mv tmp_transformed.json "$TRANSFORMED"
-          done
-          
-          # Final transformed file
-          mv "$TRANSFORMED" transformed.json
+          COUNT=$(jq 'length' transformed.json)
+          echo "Transformed $COUNT issues"
 
-          # load existing (for dedupe)
+          # load existing (for dedupe) - use file-based operations to avoid argument list too long
           if [ -f issues/index.json ]; then
-            EXIST=$(jq '.issues // []' issues/index.json)
+            jq '.issues // []' issues/index.json > existing.json
           else
-            EXIST="[]"
+            echo "[]" > existing.json
           fi
 
-          # merge old + new → dedupe by .id
-          MERGED=$(jq -s 'add | unique_by(.id)' <(echo "$EXIST") transformed.json)
+          # merge old + new → dedupe by .id (using files to avoid command-line length limits)
+          jq -s 'add | unique_by(.id)' existing.json transformed.json > merged.json
 
           # archive threshold (1 year)
           CUTOFF=$(date -u -d '1 year ago' +%Y-%m-%d 2>/dev/null || date -u -v-1y +%Y-%m-%d 2>/dev/null || date -u +%Y-%m-%d)
 
-          # Mark old issues as archived and split
-          ACTIVE=$(echo "$MERGED" | jq --arg cutoff "$CUTOFF" '[.[] | 
+          # Mark old issues as archived and split (using file-based operations)
+          jq --arg cutoff "$CUTOFF" '[.[] | 
             if (.created_at | split("T")[0]) < $cutoff then 
               .archived = true 
             else 
               .archived = false 
-            end]')
+            end]' merged.json > with_archive.json
           
           # Separate active and archived
-          ACTIVE_ONLY=$(echo "$ACTIVE" | jq '[.[] | select(.archived == false)]')
-          ARCHIVE_ONLY=$(echo "$ACTIVE" | jq '[.[] | select(.archived == true)]')
+          jq '[.[] | select(.archived == false)]' with_archive.json > active.json
+          jq '[.[] | select(.archived == true)]' with_archive.json > archive_new.json
 
-          # Merge with existing archive
+          # Merge with existing archive (if exists)
           if [ -f issues/archived.json ]; then
-            EXISTING_ARCHIVE=$(jq '.' issues/archived.json 2>/dev/null || echo "[]")
-            ARCHIVE_ONLY=$(jq -s 'add | unique_by(.id)' <(echo "$EXISTING_ARCHIVE") <(echo "$ARCHIVE_ONLY"))
+            jq -s 'add | unique_by(.id)' issues/archived.json archive_new.json > issues/archived.json
+          else
+            cp archive_new.json issues/archived.json
           fi
-          
-          # save archive
-          echo "$ARCHIVE_ONLY" | jq '.' > issues/archived.json
 
           # paginated files: one per YYYY-MM
-          # Use jq to process each issue safely (handles JSON with newlines)
-          echo "$ACTIVE_ONLY" | jq -c '.[]' | while IFS= read -r issue; do
+          # Process issues one by one using file-based operations to avoid argument limits
+          mkdir -p issues
+          
+          # Process each issue and add to appropriate YYYY-MM file
+          jq -c '.[]' active.json | while IFS= read -r issue; do
             if [ -z "$issue" ]; then continue; fi
+            
+            # Extract year-month from created_at
             DATE=$(echo "$issue" | jq -r '.created_at // empty')
-            if [ -z "$DATE" ]; then continue; fi
+            if [ -z "$DATE" ] || [ "$DATE" = "null" ]; then continue; fi
+            
             YM=$(echo "$DATE" | cut -d'T' -f1 | cut -d'-' -f1-2)
             if [ -z "$YM" ]; then continue; fi
-            mkdir -p issues
+            
             FILE="issues/$YM.json"
-            if [ ! -f "$FILE" ]; then echo "[]" > "$FILE"; fi
-            # Merge safely using jq
-            jq --argjson new "$issue" '. + [$new] | unique_by(.id)' "$FILE" > tmp.json && mv tmp.json "$FILE"
+            
+            # Initialize file if it doesn't exist
+            if [ ! -f "$FILE" ]; then
+              echo "[]" > "$FILE"
+            fi
+            
+            # Add issue to file (using file-based jq to avoid argument limits)
+            echo "$issue" | jq -s '.[0] + [.[1]] | unique_by(.id)' "$FILE" - > tmp_paginated.json
+            mv tmp_paginated.json "$FILE"
           done
 
-          # rebuild index.json
-          COUNT=$(echo "$ACTIVE_ONLY" | jq 'length')
-          INDEX=$(jq -n \
+          # rebuild index.json (using file-based operation)
+          COUNT=$(jq 'length' active.json)
+          jq -n \
               --arg updated "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-              --argjson issues "$ACTIVE_ONLY" \
+              --slurpfile issues active.json \
               --argjson count "$COUNT" \
-              '{issues: $issues, last_updated: $updated, total_count: $count}')
-
-          echo "$INDEX" > issues/index.json
+              '{issues: $issues[0], last_updated: $updated, total_count: $count}' > issues/index.json
 
           echo "active_count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Processed $COUNT active issues"
           
-          # Cleanup
-          rm -f transformed.json page.json tmp.json "$ALL_TMP"
+          # Cleanup temporary files
+          rm -f transformed.json existing.json merged.json with_archive.json active.json archive_new.json page.json tmp.json "$ALL_TMP"
 
       - name: Commit & push
         run: |
