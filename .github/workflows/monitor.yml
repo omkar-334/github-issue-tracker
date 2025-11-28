@@ -1,0 +1,447 @@
+name: Monitor Issues
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Every 10 minutes
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    # Skip if the push was made by this workflow itself (prevents infinite loops)
+    if: github.event_name != 'push' || github.event.head_commit.author.name != 'GitHub Action'
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Fetch and process issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p issues
+          new_issues_found=false
+          new_issues_list=""
+          current_date=$(date -u +%Y-%m-%d)
+          one_year_ago=$(date -u -d '1 year ago' +%Y-%m-%d 2>/dev/null || date -u -v-1y +%Y-%m-%d 2>/dev/null || date -u +%Y-%m-%d)
+          
+          # Read repos from repos.json
+          repos_count=$(jq '.repos | length' repos.json)
+          
+          if [ "$repos_count" -eq 0 ]; then
+            echo "No repositories to monitor"
+            exit 0
+          fi
+          
+          # Load existing issues index for deduplication
+          if [ -f issues/index.json ]; then
+            existing_issues=$(jq '.issues // []' issues/index.json)
+          else
+            existing_issues="[]"
+          fi
+          
+          # Get set of existing issue IDs for deduplication (as JSON array)
+          existing_ids=$(echo "$existing_issues" | jq '[.[].id]')
+          
+          # Process each repository
+          for i in $(seq 0 $((repos_count - 1))); do
+            repo=$(jq -r ".repos[$i].name" repos.json)
+            last_id=$(jq -r ".repos[$i].last_issue_id // empty" repos.json)
+            
+            if [ -z "$repo" ] || [ "$repo" == "null" ]; then
+              continue
+            fi
+            
+            echo "Processing $repo (last_id: $last_id)"
+            
+            # Determine if this is first run (no last_id) or incremental update
+            if [ -z "$last_id" ] || [ "$last_id" == "null" ]; then
+              # FIRST RUN: Fetch ALL issues by paginating through all pages
+              echo "First run for $repo - fetching ALL issues..."
+              all_issues_data="[]"
+              page=1
+              per_page=100
+              
+              while true; do
+                response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                  "https://api.github.com/repos/$repo/issues?state=all&per_page=$per_page&page=$page&sort=created&direction=desc")
+                
+                # Check if response is valid JSON
+                if ! echo "$response" | jq empty 2>/dev/null; then
+                  echo "Error fetching issues for $repo (page $page)"
+                  break
+                fi
+                
+                # Get issues (exclude PRs)
+                page_issues=$(echo "$response" | jq '[.[] | select(.pull_request == null)]')
+                page_count=$(echo "$page_issues" | jq 'length')
+                
+                if [ "$page_count" -eq 0 ]; then
+                  # No more issues
+                  break
+                fi
+                
+                # Merge with existing issues
+                all_issues_data=$(echo "$all_issues_data" | jq --argjson new "$page_issues" '. + $new')
+                echo "Fetched page $page: $page_count issues (total so far: $(echo "$all_issues_data" | jq 'length'))"
+                
+                # Check if we got fewer than per_page (last page)
+                if [ "$page_count" -lt "$per_page" ]; then
+                  break
+                fi
+                
+                page=$((page + 1))
+                # Rate limiting: small delay between pages
+                sleep 1
+              done
+              
+              issues_data="$all_issues_data"
+              issues_count=$(echo "$issues_data" | jq 'length')
+              echo "Total issues fetched for $repo: $issues_count"
+            else
+              # INCREMENTAL RUN: Only fetch new issues since last run
+              echo "Incremental run for $repo - fetching new issues since last_id: $last_id"
+              
+              # Fetch recent issues (last 30 days to catch any missed updates)
+              since_param="&since=$(date -u -d '30 days ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-30d +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u +%Y-%m-%dT%H:%M:%SZ)"
+              per_page=100
+              
+              response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                "https://api.github.com/repos/$repo/issues?state=all&per_page=$per_page&sort=created&direction=desc$since_param")
+              
+              # Check if response is valid JSON
+              if ! echo "$response" | jq empty 2>/dev/null; then
+                echo "Error fetching issues for $repo"
+                continue
+              fi
+              
+              # Process issues (exclude pull requests)
+              issues_data=$(echo "$response" | jq '[.[] | select(.pull_request == null)]')
+              issues_count=$(echo "$issues_data" | jq 'length')
+            fi
+            
+            # Initialize max_id from last_id (or 0 if first run)
+            if [ -z "$last_id" ] || [ "$last_id" == "null" ]; then
+              max_id=0
+            else
+              max_id=$last_id
+            fi
+            latest_issue_time=""
+            
+            # Process each issue
+            for j in $(seq 0 $((issues_count - 1))); do
+              issue=$(echo "$issues_data" | jq ".[$j]")
+              issue_id=$(echo "$issue" | jq -r '.id // empty')
+              issue_num=$(echo "$issue" | jq -r '.number // empty')
+              created=$(echo "$issue" | jq -r '.created_at // ""')
+              
+              if [ -z "$issue_id" ] || [ "$issue_id" == "null" ]; then
+                continue
+              fi
+              
+              issue_id_num=$(echo "$issue_id" | jq -r 'tonumber')
+              
+              # Always track max ID (for updating last_issue_id in repos.json)
+              if [ "$issue_id_num" -gt "$max_id" ]; then
+                max_id=$issue_id_num
+              fi
+              
+              # Track latest issue time
+              if [ -n "$created" ] && [ "$created" != "null" ]; then
+                if [ -z "$latest_issue_time" ] || [ "$created" \> "$latest_issue_time" ]; then
+                  latest_issue_time="$created"
+                fi
+              fi
+              
+              # Check if new issue (only add if it's new)
+              # For first run, add all issues. For incremental, only add if ID > last_id
+              if [ -z "$last_id" ] || [ "$last_id" == "null" ]; then
+                # First run: add all issues (will be deduplicated by existing_ids check)
+                should_add=true
+              else
+                # Incremental run: only add if ID > last_id
+                last_id_num=$last_id
+                if [ "$issue_id_num" -gt "$last_id_num" ]; then
+                  should_add=true
+                else
+                  should_add=false
+                fi
+              fi
+              
+              if [ "$should_add" = "true" ]; then
+                # Check for duplicate (deduplication)
+                issue_exists=$(echo "$existing_ids" | jq --argjson id "$issue_id_num" 'contains([$id])')
+                
+                if [ "$issue_exists" = "true" ]; then
+                  echo "Issue $issue_id_num already exists, skipping"
+                  continue
+                fi
+                
+                title=$(echo "$issue" | jq -r '.title // ""')
+                url=$(echo "$issue" | jq -r '.html_url // ""')
+                user=$(echo "$issue" | jq -r '.user.login // ""')
+                labels=$(echo "$issue" | jq -r '[.labels[]?.name] // []')
+                body=$(echo "$issue" | jq -r '.body // ""')
+                
+                # Check for linked PR (search for PR references in issue body and comments)
+                has_linked_pr=false
+                pr_url=""
+                
+                # Check issue body for PR references
+                if [ -n "$body" ] && [ "$body" != "null" ]; then
+                  # Look for patterns like "closes #123" or "fixes #123" or "https://github.com/.../pull/123"
+                  if echo "$body" | grep -qiE "(closes|fixes|resolves).*#\d+|github\.com.*pull/\d+"; then
+                    has_linked_pr=true
+                  fi
+                fi
+                
+                # Check issue timeline for linked PRs (with error handling)
+                timeline_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                  "https://api.github.com/repos/$repo/issues/$issue_num/timeline" 2>/dev/null)
+                
+                if [ -n "$timeline_response" ] && echo "$timeline_response" | jq empty 2>/dev/null; then
+                  timeline_data=$(echo "$timeline_response" | jq '[.[] | select(.source?.type == "issue" or .event == "cross-referenced")]' 2>/dev/null)
+                  
+                  if [ "$(echo "$timeline_data" | jq 'length' 2>/dev/null)" -gt 0 ]; then
+                    # Check if any cross-reference is a PR
+                    pr_refs=$(echo "$timeline_data" | jq '[.[] | select(.source?.issue?.pull_request != null)]' 2>/dev/null)
+                    if [ "$(echo "$pr_refs" | jq 'length' 2>/dev/null)" -gt 0 ]; then
+                      has_linked_pr=true
+                      pr_url=$(echo "$pr_refs" | jq -r '.[0].source.issue.html_url // ""' 2>/dev/null)
+                    fi
+                  fi
+                fi
+                
+                # Extract year-month for pagination (YYYY-MM format)
+                issue_year_month=$(echo "$created" | cut -d'T' -f1 | cut -d'-' -f1-2)
+                
+                # Determine if issue should be archived (older than 1 year)
+                issue_date=$(echo "$created" | cut -d'T' -f1)
+                is_archived=false
+                # Compare dates (YYYY-MM-DD format allows string comparison)
+                if [ -n "$issue_date" ] && [ -n "$one_year_ago" ] && [ "$issue_date" \< "$one_year_ago" ]; then
+                  is_archived=true
+                fi
+                
+                # Create issue object
+                issue_obj=$(jq -n \
+                  --arg repo "$repo" \
+                  --argjson id "$issue_id_num" \
+                  --arg num "$issue_num" \
+                  --arg title "$title" \
+                  --arg url "$url" \
+                  --arg created "$created" \
+                  --arg user "$user" \
+                  --argjson labels "$labels" \
+                  --argjson has_pr "$has_linked_pr" \
+                  --arg pr_url "$pr_url" \
+                  --argjson archived "$is_archived" \
+                  '{
+                    "repo": $repo,
+                    "id": $id,
+                    "number": ($num | tonumber),
+                    "title": $title,
+                    "url": $url,
+                    "created_at": $created,
+                    "user": $user,
+                    "labels": $labels,
+                    "has_linked_pr": $has_pr,
+                    "linked_pr_url": $pr_url,
+                    "archived": $archived
+                  }')
+                
+                # Add to existing issues (incremental update)
+                existing_issues=$(echo "$existing_issues" | jq --argjson new_issue "$issue_obj" '. += [$new_issue]')
+                
+                # Add to paginated file by year-month
+                paginated_file="issues/${issue_year_month}.json"
+                if [ -f "$paginated_file" ]; then
+                  jq --argjson new_issue "$issue_obj" '. += [$new_issue]' "$paginated_file" > "${paginated_file}.tmp" && mv "${paginated_file}.tmp" "$paginated_file"
+                else
+                  echo "$issue_obj" | jq -s '.' > "$paginated_file"
+                fi
+                
+                echo "New issue: $repo #$issue_num - $title (PR: $has_linked_pr, Archived: $is_archived)"
+                new_issues_found=true
+                new_issues_list="${new_issues_list}\n- $repo #$issue_num: $title ($url)"
+              fi
+            done
+            
+            # Update repos.json with new last_issue_id and timestamp
+            if [ -n "$max_id" ] && [ "$max_id" != "null" ]; then
+              jq --argjson idx "$i" \
+                 --argjson new_id "$max_id" \
+                 --arg time "$latest_issue_time" \
+                 ".repos[$idx].last_issue_id = \$new_id | 
+                  .repos[$idx].last_issue_time = (if \$time != \"\" then \$time else .repos[$idx].last_issue_time // empty end)" \
+                 repos.json > repos.json.tmp && mv repos.json.tmp repos.json
+            fi
+          done
+          
+          # Archive issues older than 1 year
+          echo "Archiving issues older than 1 year..."
+          archived_issues="[]"
+          
+          # Process each paginated file
+          for file in issues/*.json; do
+            if [ -f "$file" ] && [ "$(basename "$file")" != "index.json" ] && [ "$(basename "$file")" != "archived.json" ]; then
+              # Filter out archived issues and move to archive
+              # Compare dates properly (YYYY-MM-DD format)
+              file_content=$(jq --arg cutoff "$one_year_ago" \
+                '[.[] | select((.created_at | split("T")[0]) < $cutoff)]' "$file" 2>/dev/null)
+              
+              if [ "$(echo "$file_content" | jq 'length' 2>/dev/null)" -gt 0 ]; then
+                # Add to archived
+                archived_issues=$(echo "$archived_issues" | jq --argjson archived "$file_content" '. + $archived' 2>/dev/null || echo "$archived_issues")
+                
+                # Remove from active file
+                jq --arg cutoff "$one_year_ago" \
+                  '[.[] | select((.created_at | split("T")[0]) >= $cutoff)]' "$file" > "${file}.tmp" 2>/dev/null && mv "${file}.tmp" "$file" || rm -f "${file}.tmp"
+              fi
+            fi
+          done
+          
+          # Save archived issues
+          if [ "$(echo "$archived_issues" | jq 'length')" -gt 0 ]; then
+            if [ -f issues/archived.json ]; then
+              jq --argjson new_archived "$archived_issues" '. + $new_archived' issues/archived.json > issues/archived.json.tmp && mv issues/archived.json.tmp issues/archived.json
+            else
+              echo "$archived_issues" | jq '.' > issues/archived.json
+            fi
+            echo "Archived $(echo "$archived_issues" | jq 'length') issues"
+          fi
+          
+          # Update index.json with all active issues (for quick lookup)
+          # Use the existing_issues we've been building (includes all new issues)
+          # Then merge with any existing issues from paginated files that weren't updated
+          all_active_issues="$existing_issues"
+          
+          # Also load from paginated files to catch any issues that weren't in the index
+          if find issues -name "*.json" ! -name "index.json" ! -name "archived.json" 2>/dev/null | grep -q .; then
+            paginated_issues=$(find issues -name "*.json" ! -name "index.json" ! -name "archived.json" -exec jq '.' {} \; 2>/dev/null | jq -s 'add | unique_by(.id)' 2>/dev/null || echo "[]")
+            # Merge and deduplicate
+            all_active_issues=$(echo "$all_active_issues" | jq --argjson paginated "$paginated_issues" '. + $paginated | unique_by(.id)')
+          fi
+          
+          # Filter out archived issues
+          all_active_issues=$(echo "$all_active_issues" | jq '[.[] | select(.archived != true)]')
+          
+          # Create index with metadata
+          issue_count=$(echo "$all_active_issues" | jq 'length')
+          index_data=$(jq -n \
+            --argjson issues "$all_active_issues" \
+            --arg updated "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --argjson count "$issue_count" \
+            '{
+              "issues": $issues,
+              "last_updated": $updated,
+              "total_count": $count
+            }')
+          
+          echo "$index_data" > issues/index.json
+          echo "Updated index.json with $issue_count active issues"
+          
+          # Store new issues info for email step
+          echo "new_issues_found=$new_issues_found" >> $GITHUB_ENV
+          if [ "$new_issues_found" = "true" ]; then
+            issues_list_formatted=$(echo -e "$new_issues_list" | sed 's/^- /• /g')
+            echo "new_issues_list<<EOF" >> $GITHUB_ENV
+            echo "$issues_list_formatted" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add issues/ repos.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "commit_sha=" >> $GITHUB_ENV
+          else
+            # Commit changes
+            git commit -m "Update issues and repos.json from monitor"
+            
+            # Get commit SHA and update repos.json
+            commit_sha=$(git rev-parse HEAD)
+            echo "commit_sha=$commit_sha" >> $GITHUB_ENV
+            
+            # Update repos.json with commit SHA for repos that had new issues
+            repos_count=$(jq '.repos | length' repos.json)
+            for i in $(seq 0 $((repos_count - 1))); do
+              # Only update if this repo had activity (has last_issue_id)
+              has_id=$(jq -r ".repos[$i].last_issue_id // empty" repos.json)
+              if [ -n "$has_id" ] && [ "$has_id" != "null" ]; then
+                jq --argjson idx "$i" \
+                   --arg commit "$commit_sha" \
+                   ".repos[$idx].last_commit = \$commit" \
+                   repos.json > repos.json.tmp && mv repos.json.tmp repos.json
+              fi
+            done
+            
+            # If repos.json was updated, commit again
+            if ! git diff --quiet repos.json; then
+              git add repos.json
+              git commit -m "Update repos.json with commit SHA"
+            fi
+            
+            git push
+          fi
+
+      - name: Check email configuration
+        id: check_email
+        run: |
+          if [ -n "${{ secrets.EMAIL_TO }}" ]; then
+            echo "email_configured=true" >> $GITHUB_OUTPUT
+          else
+            echo "email_configured=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send email notification
+        if: env.new_issues_found == 'true' && steps.check_email.outputs.email_configured == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          subject: New GitHub Issues Detected
+          to: ${{ secrets.EMAIL_TO }}
+          from: GitHub Issue Monitor
+          body: |
+            New issues have been detected in your monitored repositories:
+            
+            ${{ env.new_issues_list }}
+            
+            View dashboard: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          html_body: |
+            <h2>New GitHub Issues Detected</h2>
+            <p>New issues have been detected in your monitored repositories:</p>
+            <pre>${{ env.new_issues_list }}</pre>
+            <p><a href="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/">View Dashboard</a></p>
+        continue-on-error: true
+      
+      - name: Log new issues (if email not configured)
+        if: env.new_issues_found == 'true' && steps.check_email.outputs.email_configured == 'false'
+        run: |
+          echo "⚠️ Email not configured. New issues found:"
+          echo "${{ env.new_issues_list }}"
+          echo ""
+          echo "To enable email notifications, set these secrets:"
+          echo "- EMAIL_TO: Your email address"
+          echo "- SMTP_HOST: SMTP server (e.g., smtp.gmail.com)"
+          echo "- SMTP_PORT: SMTP port (e.g., 587)"
+          echo "- SMTP_USER: SMTP username"
+          echo "- SMTP_PASS: SMTP password"
+

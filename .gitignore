@@ -1,0 +1,7 @@
+# This is a separate Git repository
+# The .gitignore here is for the backend repo itself
+
+# Ignore any local test files
+*.log
+.DS_Store
+
