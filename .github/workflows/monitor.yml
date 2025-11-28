@@ -34,8 +34,14 @@ jobs:
           current_date=$(date -u +%Y-%m-%d)
           one_year_ago=$(date -u -d '1 year ago' +%Y-%m-%d 2>/dev/null || date -u -v-1y +%Y-%m-%d 2>/dev/null || date -u +%Y-%m-%d)
           
-          # Read repos from repos.json
-          repos_count=$(jq '.repos | length' repos.json)
+          # Read repos from repos.txt (one per line, skip empty lines and comments)
+          if [ ! -f repos.txt ]; then
+            echo "repos.txt not found"
+            exit 1
+          fi
+          
+          repos=$(grep -v '^[[:space:]]*#' repos.txt | grep -v '^[[:space:]]*$' | tr '\n' ' ')
+          repos_count=$(echo "$repos" | wc -w)
           
           if [ "$repos_count" -eq 0 ]; then
             echo "No repositories to monitor"
@@ -53,13 +59,15 @@ jobs:
           existing_ids=$(echo "$existing_issues" | jq '[.[].id]')
           
           # Process each repository
-          for i in $(seq 0 $((repos_count - 1))); do
-            repo=$(jq -r ".repos[$i].name" repos.json)
-            last_id=$(jq -r ".repos[$i].last_issue_id // empty" repos.json)
-            
-            if [ -z "$repo" ] || [ "$repo" == "null" ]; then
+          for repo in $repos; do
+            # Skip empty or invalid repos
+            if [ -z "$repo" ] || [ "$repo" == "#" ]; then
               continue
             fi
+            
+            # Get last_issue_id from existing issues for this repo
+            # Find max issue ID for this repository from existing issues
+            last_id=$(echo "$existing_issues" | jq -r --arg repo "$repo" '[.[] | select(.repo == $repo) | .id] | max // empty')
             
             echo "Processing $repo (last_id: $last_id)"
             
@@ -150,7 +158,7 @@ jobs:
               
               issue_id_num=$(echo "$issue_id" | jq -r 'tonumber')
               
-              # Always track max ID (for updating last_issue_id in repos.json)
+              # Always track max ID (for determining if new issues exist)
               if [ "$issue_id_num" -gt "$max_id" ]; then
                 max_id=$issue_id_num
               fi
@@ -276,15 +284,9 @@ jobs:
               fi
             done
             
-            # Update repos.json with new last_issue_id and timestamp
-            if [ -n "$max_id" ] && [ "$max_id" != "null" ]; then
-              jq --argjson idx "$i" \
-                 --argjson new_id "$max_id" \
-                 --arg time "$latest_issue_time" \
-                 ".repos[$idx].last_issue_id = \$new_id | 
-                  .repos[$idx].last_issue_time = (if \$time != \"\" then \$time else .repos[$idx].last_issue_time // empty end)" \
-                 repos.json > repos.json.tmp && mv repos.json.tmp repos.json
-            fi
+            # Note: last_issue_id is now calculated from issues, no need to update repos.txt
+            # The max_id is tracked in memory and used for filtering, but not persisted
+            echo "Completed processing $repo (max_id seen: $max_id)"
           done
           
           # Archive issues older than 1 year
@@ -364,37 +366,18 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add issues/ repos.json
+          git add issues/ repos.txt
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
             echo "commit_sha=" >> $GITHUB_ENV
           else
             # Commit changes
-            git commit -m "Update issues and repos.json from monitor"
+            git commit -m "Update issues from monitor"
             
-            # Get commit SHA and update repos.json
+            # Get commit SHA for notifications
             commit_sha=$(git rev-parse HEAD)
             echo "commit_sha=$commit_sha" >> $GITHUB_ENV
-            
-            # Update repos.json with commit SHA for repos that had new issues
-            repos_count=$(jq '.repos | length' repos.json)
-            for i in $(seq 0 $((repos_count - 1))); do
-              # Only update if this repo had activity (has last_issue_id)
-              has_id=$(jq -r ".repos[$i].last_issue_id // empty" repos.json)
-              if [ -n "$has_id" ] && [ "$has_id" != "null" ]; then
-                jq --argjson idx "$i" \
-                   --arg commit "$commit_sha" \
-                   ".repos[$idx].last_commit = \$commit" \
-                   repos.json > repos.json.tmp && mv repos.json.tmp repos.json
-              fi
-            done
-            
-            # If repos.json was updated, commit again
-            if ! git diff --quiet repos.json; then
-              git add repos.json
-              git commit -m "Update repos.json with commit SHA"
-            fi
             
             git push
           fi

@@ -17,7 +17,7 @@ This is the **backend repository** for the GitHub Issue Tracker. This guide cove
 ┌─────────────────────────────────┐
 │   Backend (This Repo)          │
 │   - GitHub Actions workflows    │
-│   - repos.json                  │
+│   - repos.txt                   │
 │   - issues/ (JSON files)        │
 └─────────────────────────────────┘
 ```
@@ -29,7 +29,7 @@ tracker-backend/
 ├── .github/
 │   └── workflows/
 │       └── monitor.yml      # Monitors issues every 10 minutes
-├── repos.json               # List of monitored repositories
+├── repos.txt               # List of monitored repositories (one per line)
 ├── issues/                  # Issue data (auto-generated)
 │   ├── index.json
 │   ├── 2025-11.json
