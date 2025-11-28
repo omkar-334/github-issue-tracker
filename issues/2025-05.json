@@ -1,0 +1,896 @@
+[
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3032850397,
+    "number": 3347,
+    "title": "Broken links detected in docs 🔗",
+    "url": "https://github.com/pytorch/tutorials/issues/3347",
+    "created_at": "2025-05-01T00:18:14Z",
+    "user": "github-actions[bot]",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3034259874,
+    "number": 5609,
+    "title": "Wav2Vec2 pipeline feature extractor normalizes input over batch dimension, is it a feature or bug in design?",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5609",
+    "created_at": "2025-05-01T16:54:37Z",
+    "user": "ivan-alles",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3035342423,
+    "number": 9050,
+    "title": "Add Unlabeled Image Dataset for Unsupervised Training",
+    "url": "https://github.com/pytorch/vision/issues/9050",
+    "created_at": "2025-05-02T07:07:58Z",
+    "user": "mduszyk",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3039120873,
+    "number": 3547,
+    "title": "`datasets` Iterable Dataset sharding support",
+    "url": "https://github.com/huggingface/accelerate/issues/3547",
+    "created_at": "2025-05-05T09:34:31Z",
+    "user": "ValMystletainn",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3040265681,
+    "number": 9059,
+    "title": "`download=True` argument for `VOCDetection` will always download and rewrite the dataset again",
+    "url": "https://github.com/pytorch/vision/issues/9059",
+    "created_at": "2025-05-05T17:05:23Z",
+    "user": "tttyuntian",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3041882921,
+    "number": 1775,
+    "title": "DebertaV2TokenizerFast and XLMRobertaTokenizerFast has overlapping offsets/CharSpans which leads to char_to_token() pointing to unexpected token",
+    "url": "https://github.com/huggingface/tokenizers/issues/1775",
+    "created_at": "2025-05-06T07:53:43Z",
+    "user": "ligz08",
+    "labels": [
+      "good second issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3042584801,
+    "number": 3350,
+    "title": "Hard examples mining with multi GPU",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3350",
+    "created_at": "2025-05-06T11:56:30Z",
+    "user": "ckobus",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3042960908,
+    "number": 1825,
+    "title": "[BUG] TFT + categorical features seems not to be compatible with DDP in some situations.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1825",
+    "created_at": "2025-05-06T14:02:11Z",
+    "user": "mkuiack",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3044925672,
+    "number": 9060,
+    "title": "encode_jpeg generates corrupted JPEG data when using CUDA",
+    "url": "https://github.com/pytorch/vision/issues/9060",
+    "created_at": "2025-05-07T07:03:29Z",
+    "user": "nagadomi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3045268620,
+    "number": 1826,
+    "title": "[BUG] Passing weights to TimeSeriesDataset",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1826",
+    "created_at": "2025-05-07T09:04:19Z",
+    "user": "preeyaa",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3049482915,
+    "number": 3355,
+    "title": "ValueError when using DatasetDict of IterableDataset with Sentence Transformers",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3355",
+    "created_at": "2025-05-08T16:11:10Z",
+    "user": "AwaleSajil",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3051755882,
+    "number": 1828,
+    "title": "[BUG] TFT integration tests fail on python 3.13 and windows",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1828",
+    "created_at": "2025-05-09T10:38:32Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3052545274,
+    "number": 3357,
+    "title": "Add a utility to easily find the underlying `PreTrainedModel` subclass",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3357",
+    "created_at": "2025-05-09T15:39:09Z",
+    "user": "tomaarsen",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3054402852,
+    "number": 3358,
+    "title": "GPU Memory Issues when training sentence-transformer model on CoIR dataset",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3358",
+    "created_at": "2025-05-10T17:41:59Z",
+    "user": "gnatesan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3054502681,
+    "number": 3359,
+    "title": "\"sentence-transformers/paraphrase-multilingual-mpnet-base-v2\" with onnx backend",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3359",
+    "created_at": "2025-05-10T20:18:06Z",
+    "user": "Aml-Hassan-Abd-El-hamid",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3056396463,
+    "number": 1777,
+    "title": "Suggestion to Clarify WordPiece Documentation",
+    "url": "https://github.com/huggingface/tokenizers/issues/1777",
+    "created_at": "2025-05-12T10:00:16Z",
+    "user": "pietrolesci",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3056626432,
+    "number": 1829,
+    "title": "[ENH] Refactor the `data_module` layer in `ptf-v2`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1829",
+    "created_at": "2025-05-12T11:25:01Z",
+    "user": "phoeenniixx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3057940839,
+    "number": 1831,
+    "title": "[ENH] Design Questions for `ptf-v2`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1831",
+    "created_at": "2025-05-12T19:35:54Z",
+    "user": "phoeenniixx",
+    "labels": [
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3063264202,
+    "number": 9064,
+    "title": "Add SSDlite Mobilenetv4",
+    "url": "https://github.com/pytorch/vision/issues/9064",
+    "created_at": "2025-05-14T00:59:21Z",
+    "user": "ghost",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3065174307,
+    "number": 1835,
+    "title": "[ENH] Restructure codebase: Create separate modules for shared architecture layers.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1835",
+    "created_at": "2025-05-15T06:58:32Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3066646480,
+    "number": 5613,
+    "title": "How to save the fine-tune checkpoint",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5613",
+    "created_at": "2025-05-15T15:26:39Z",
+    "user": "asrays",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3068034055,
+    "number": 3364,
+    "title": "Shape error when num_negatives greater than the number of candidates in MultipleNegativesRankingLoss",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3364",
+    "created_at": "2025-05-16T06:07:25Z",
+    "user": "sasakiyori",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3068103576,
+    "number": 9070,
+    "title": "`BICUBIC` works against the doc of `ElasticTransform()`",
+    "url": "https://github.com/pytorch/vision/issues/9070",
+    "created_at": "2025-05-16T06:46:13Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3068982464,
+    "number": 9071,
+    "title": "`NEAREST_EXACT` and `BICUBIC` work against the doc of `RandAugment()`",
+    "url": "https://github.com/pytorch/vision/issues/9071",
+    "created_at": "2025-05-16T13:13:49Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3069031683,
+    "number": 9072,
+    "title": "`NEAREST_EXACT` and `BICUBIC` work against the doc of `TrivialAugmentWide()`",
+    "url": "https://github.com/pytorch/vision/issues/9072",
+    "created_at": "2025-05-16T13:33:52Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3069079980,
+    "number": 9073,
+    "title": "`NEAREST_EXACT` and `BICUBIC` work against the doc of `AutoAugment()`",
+    "url": "https://github.com/pytorch/vision/issues/9073",
+    "created_at": "2025-05-16T13:53:47Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3069178360,
+    "number": 9074,
+    "title": "`interpolation` parameter of `AugMix()` wrongly explains `Default is InterpolationMode.NEAREST` instead of `InterpolationMode.BILINEAR`",
+    "url": "https://github.com/pytorch/vision/issues/9074",
+    "created_at": "2025-05-16T14:33:08Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3069411217,
+    "number": 5614,
+    "title": "NLLB-200 & LLama 4: confusion about Nordic languages",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5614",
+    "created_at": "2025-05-16T16:17:02Z",
+    "user": "mindplay-dk",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3071582562,
+    "number": 21300,
+    "title": "keras.layers.Normalization#adapt() does not support keras.utils.PyDataset as input.",
+    "url": "https://github.com/keras-team/keras/issues/21300",
+    "created_at": "2025-05-18T09:06:37Z",
+    "user": "limzikiki",
+    "labels": [
+      "stat:contributions welcome",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3071914456,
+    "number": 21301,
+    "title": "evaluate() shows incorrect metric values in progress bar vs returned results",
+    "url": "https://github.com/keras-team/keras/issues/21301",
+    "created_at": "2025-05-18T16:43:28Z",
+    "user": "ielenik",
+    "labels": [
+      "stat:awaiting keras-eng",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3071953644,
+    "number": 3366,
+    "title": "[ISSUE] PYTHONOPTIMIZE=2 seems not work with SentenceTransformers",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3366",
+    "created_at": "2025-05-18T17:51:17Z",
+    "user": "IchiruTake",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3072049810,
+    "number": 9076,
+    "title": "Make `_get_perspective_coeffs` device agnostic",
+    "url": "https://github.com/pytorch/vision/issues/9076",
+    "created_at": "2025-05-18T20:46:59Z",
+    "user": "ptrblck",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3072899337,
+    "number": 3910,
+    "title": "'CUDA error: an illegal memory access was encountered' when using forced_align on cuda device > 0",
+    "url": "https://github.com/pytorch/audio/issues/3910",
+    "created_at": "2025-05-19T07:55:42Z",
+    "user": "Approximetal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3073716396,
+    "number": 3911,
+    "title": "`UnpicklingError: Weights only load failed. This file can still be loaded` occured on document's code of [tacotron2_pipeline_tutorial.html]",
+    "url": "https://github.com/pytorch/audio/issues/3911",
+    "created_at": "2025-05-19T12:43:22Z",
+    "user": "f2janyway",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3074652925,
+    "number": 3367,
+    "title": "`ModuleNotFoundError` when loading custom Sentence Transformers model from private hub",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3367",
+    "created_at": "2025-05-19T18:12:44Z",
+    "user": "Ahmad-Abd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3076376769,
+    "number": 1838,
+    "title": "[ENH] Testing Framework for `ptf-v2`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1838",
+    "created_at": "2025-05-20T09:41:18Z",
+    "user": "phoeenniixx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3076390293,
+    "number": 1839,
+    "title": "[BUG] Test dataset error during inference for deployment",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1839",
+    "created_at": "2025-05-20T09:45:58Z",
+    "user": "mrgreen3325",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3076609350,
+    "number": 3914,
+    "title": "`import_fairseq_model` example produces mismatched features and reference output",
+    "url": "https://github.com/pytorch/audio/issues/3914",
+    "created_at": "2025-05-20T11:02:49Z",
+    "user": "xefonon",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3076761780,
+    "number": 1840,
+    "title": "[ENH] avoid \"load from repo\" with stallion data, replace in testing",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1840",
+    "created_at": "2025-05-20T11:57:08Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3077368749,
+    "number": 3368,
+    "title": "Mistake in CoSENTLoss documentation",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3368",
+    "created_at": "2025-05-20T15:08:32Z",
+    "user": "pashok3d",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3078778037,
+    "number": 9079,
+    "title": "Build pytorch trunk from source and build vision from source makes `import torchvision;` fail",
+    "url": "https://github.com/pytorch/vision/issues/9079",
+    "created_at": "2025-05-21T03:25:05Z",
+    "user": "ChuanqiXu9",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3079210969,
+    "number": 1842,
+    "title": "[BUG] Error when training Tide with more than 1 unknown reals",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1842",
+    "created_at": "2025-05-21T07:22:41Z",
+    "user": "mrgreen3325",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3079331823,
+    "number": 21313,
+    "title": "Special optimization for torch backend",
+    "url": "https://github.com/keras-team/keras/issues/21313",
+    "created_at": "2025-05-21T08:08:23Z",
+    "user": "pass-lin",
+    "labels": [
+      "stat:contributions welcome",
+      "type:feature",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3082657757,
+    "number": 3370,
+    "title": "Repo id must use alphanumeric chars or '-', '_', '.', '--' and '..' are forbidden, '-' and '.' cannot start or end the name, max length is 96: 'C:\\Downloads\\albert'",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3370",
+    "created_at": "2025-05-22T09:17:54Z",
+    "user": "Ayn1631",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3083091317,
+    "number": 3371,
+    "title": "Encode() raises KeyError with pandas Series with non-default index",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3371",
+    "created_at": "2025-05-22T11:45:03Z",
+    "user": "jteijema",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3084615275,
+    "number": 1845,
+    "title": "[ENH] Request for model refit",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1845",
+    "created_at": "2025-05-22T21:46:43Z",
+    "user": "jobs-git",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3084921632,
+    "number": 3364,
+    "title": "[BUG] - Broken links in `tutorials/intermediate_source /fx_conv_bn_fuser.py`",
+    "url": "https://github.com/pytorch/tutorials/issues/3364",
+    "created_at": "2025-05-23T01:49:24Z",
+    "user": "GdoongMathew",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3086747344,
+    "number": 3918,
+    "title": "`io.UnsupportedOperation: seek` when using `torchaudio.io.StreamWriter` with a File-like object",
+    "url": "https://github.com/pytorch/audio/issues/3918",
+    "created_at": "2025-05-23T15:24:45Z",
+    "user": "digicosmos86",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3089272885,
+    "number": 1779,
+    "title": "Possible (minor) inconsistency in`unk_token` argument between WordPiece and UnigramLM",
+    "url": "https://github.com/huggingface/tokenizers/issues/1779",
+    "created_at": "2025-05-25T12:37:43Z",
+    "user": "pietrolesci",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3090787524,
+    "number": 1846,
+    "title": "[ENH] Improve performance by 2000% by directly batching without using dataloader",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1846",
+    "created_at": "2025-05-26T10:50:36Z",
+    "user": "jobs-git",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3091084885,
+    "number": 5615,
+    "title": "Add an option to disable appending eos to the end of each document while preprocessing",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5615",
+    "created_at": "2025-05-26T12:41:29Z",
+    "user": "surprisedPikachu007",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3091253663,
+    "number": 3375,
+    "title": "MTEB leaderboard metric generation for finetuned model",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3375",
+    "created_at": "2025-05-26T13:35:58Z",
+    "user": "riyaj8888",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3091748022,
+    "number": 3919,
+    "title": "Loading audio file with torchaudio fails  (memory crash)",
+    "url": "https://github.com/pytorch/audio/issues/3919",
+    "created_at": "2025-05-25T07:37:15Z",
+    "user": "noorbraik",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3093365715,
+    "number": 3367,
+    "title": "💡 [REQUEST] - Proposal: Add Tutorial on Differentiable Decision Forests (DNDF-style)",
+    "url": "https://github.com/pytorch/tutorials/issues/3367",
+    "created_at": "2025-05-27T10:01:23Z",
+    "user": "Tunahanyrd",
+    "labels": [
+      "tutorial-proposal"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3094168358,
+    "number": 1784,
+    "title": "Add cp313t tests, mark extension modules as compatible, and ship free-threaded wheels",
+    "url": "https://github.com/huggingface/tokenizers/issues/1784",
+    "created_at": "2025-05-27T14:33:38Z",
+    "user": "ngoldbaum",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3094168881,
+    "number": 1849,
+    "title": "[BUG] Slow model training with GPU",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1849",
+    "created_at": "2025-05-27T14:33:49Z",
+    "user": "jobs-git",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3099255602,
+    "number": 3378,
+    "title": "offset mapping from tokenize method",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3378",
+    "created_at": "2025-05-29T05:47:33Z",
+    "user": "riyajatar37003",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3100464987,
+    "number": 1857,
+    "title": "[BUG] training data time_idx should be end-align",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1857",
+    "created_at": "2025-05-29T14:04:02Z",
+    "user": "workhours",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3101254893,
+    "number": 1858,
+    "title": "[ENH] Add metadata pytest fixtures to reduce code duplication in tests",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1858",
+    "created_at": "2025-05-29T19:14:48Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3101952333,
+    "number": 1860,
+    "title": "[ENH] re-implement the logic of data loading to ensure good performance",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1860",
+    "created_at": "2025-05-30T02:56:56Z",
+    "user": "workhours",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3102140087,
+    "number": 1862,
+    "title": "[ENH] refactoring varying integration test parameters to v1 test framework",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1862",
+    "created_at": "2025-05-30T05:37:50Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3102965124,
+    "number": 1863,
+    "title": "ValueError: Trainer is already configured with a `LearningRateFinder` callback.Please remove it if you want to use the Tuner.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1863",
+    "created_at": "2025-05-30T11:32:09Z",
+    "user": "TristanPy",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3104235948,
+    "number": 3380,
+    "title": "Excessive memory consumed by CrossEncoderRerankingEvaluator when run on multiple GPUs",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3380",
+    "created_at": "2025-05-30T20:42:23Z",
+    "user": "rupeshgx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3105783809,
+    "number": 1865,
+    "title": "[API] handling mandatory `add_relative_time_idx`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1865",
+    "created_at": "2025-05-31T17:12:04Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

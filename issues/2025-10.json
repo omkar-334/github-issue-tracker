@@ -1,0 +1,1928 @@
+[
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3471488873,
+    "number": 3605,
+    "title": "Broken links detected in docs 🔗",
+    "url": "https://github.com/pytorch/tutorials/issues/3605",
+    "created_at": "2025-10-01T00:18:21Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "incorrect link"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3471647829,
+    "number": 3803,
+    "title": "should_reduce_batch_size function not returning expected output for out of memory exception on H100 NVL MIG",
+    "url": "https://github.com/huggingface/accelerate/issues/3803",
+    "created_at": "2025-10-01T01:31:37Z",
+    "user": "mshannon-sil",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3475815896,
+    "number": 3536,
+    "title": "Wrong defaults used when loading older non-mean-pooled models via subclass",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3536",
+    "created_at": "2025-10-02T03:09:38Z",
+    "user": "kddubey",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3477437210,
+    "number": 4113,
+    "title": "Add save functionality to CTCDecoder",
+    "url": "https://github.com/pytorch/audio/issues/4113",
+    "created_at": "2025-10-02T12:58:56Z",
+    "user": "FredHaa",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3477757778,
+    "number": 3607,
+    "title": "Feedback about Warm-up: numpy -  on the Polynomial (Mis)Fit Example in the Tensors Tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3607",
+    "created_at": "2025-10-02T14:29:56Z",
+    "user": "camargocr",
+    "labels": [
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3480195189,
+    "number": 21711,
+    "title": "Note the available backends in docstring of `keras.preprocessing.image.smart_resize()`",
+    "url": "https://github.com/keras-team/keras/issues/21711",
+    "created_at": "2025-10-03T08:04:59Z",
+    "user": "ILCSFNO",
+    "labels": [
+      "type:docs-bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3480484202,
+    "number": 4114,
+    "title": "[STABLE ABI] Porting audio to Torch Stable ABI",
+    "url": "https://github.com/pytorch/audio/issues/4114",
+    "created_at": "2025-10-03T09:41:49Z",
+    "user": "pearu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3480520645,
+    "number": 32354,
+    "title": "Dark mode on documentation may not work as intended",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32354",
+    "created_at": "2025-10-03T09:53:08Z",
+    "user": "DeaMariaLeon",
+    "labels": [
+      "frontend"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3482050552,
+    "number": 1979,
+    "title": "[ENH] Add Support for Feature Scaling in D2 DataModule Layer.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1979",
+    "created_at": "2025-10-03T18:05:57Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "enhancement",
+      "module:datasets&dataloaders"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3482523342,
+    "number": 8896,
+    "title": "[ENH] define scenarios for detectors",
+    "url": "https://github.com/sktime/sktime/issues/8896",
+    "created_at": "2025-10-03T20:51:51Z",
+    "user": "fkiraly",
+    "labels": [
+      "module:detection",
+      "module:tests",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3483973584,
+    "number": 8905,
+    "title": "[DOC] add new benchmarking features to benchmarking documentation",
+    "url": "https://github.com/sktime/sktime/issues/8905",
+    "created_at": "2025-10-04T17:15:12Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "module:metrics&benchmarking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3483989257,
+    "number": 8906,
+    "title": "[DOC] Update references to `pytorch_forecasting`'s documentation",
+    "url": "https://github.com/sktime/sktime/issues/8906",
+    "created_at": "2025-10-04T17:35:02Z",
+    "user": "achieveordie",
+    "labels": [
+      "good first issue",
+      "documentation",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3484449326,
+    "number": 3540,
+    "title": "Should there be a scaling method for MarginMSE?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3540",
+    "created_at": "2025-10-05T06:01:57Z",
+    "user": "yjoonjang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3484470782,
+    "number": 7798,
+    "title": "Audio dataset is not decoding on 4.1.1",
+    "url": "https://github.com/huggingface/datasets/issues/7798",
+    "created_at": "2025-10-05T06:37:50Z",
+    "user": "thewh1teagle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3484628520,
+    "number": 32379,
+    "title": "RFC: Add deflation process to PLSSVD",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32379",
+    "created_at": "2025-10-05T09:53:59Z",
+    "user": "sotagg",
+    "labels": [
+      "New Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3485087525,
+    "number": 32384,
+    "title": "RFC: is optimizing `DecisionTree*`/`ExtraTree*` worth the effort/extra complexity?",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32384",
+    "created_at": "2025-10-05T19:20:24Z",
+    "user": "cakedev0",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3485745640,
+    "number": 32393,
+    "title": "⚠️ CI failed on Wheel builder (last failure: Nov 27, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32393",
+    "created_at": "2025-10-06T05:34:00Z",
+    "user": "scikit-learn-bot",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3485848736,
+    "number": 32394,
+    "title": "Attribute error from `sklearn.base.is_regressor` due to missing `__sklearn_tags__` on nightly builds",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32394",
+    "created_at": "2025-10-06T06:28:13Z",
+    "user": "cbourjau",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3488025032,
+    "number": 32405,
+    "title": "Make `make_classification` draw from the same distribution regardless of `n_samples`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32405",
+    "created_at": "2025-10-06T16:12:24Z",
+    "user": "ArturoAmorQ",
+    "labels": [
+      "New Feature",
+      "module:datasets"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3489058479,
+    "number": 2813,
+    "title": "[FEAT] Integrate LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models",
+    "url": "https://github.com/huggingface/peft/issues/2813",
+    "created_at": "2025-10-06T20:53:55Z",
+    "user": "mbaddar1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3489527579,
+    "number": 8928,
+    "title": "[ENH] framework for torch based classifiers and regressors",
+    "url": "https://github.com/sktime/sktime/issues/8928",
+    "created_at": "2025-10-07T00:17:09Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "module:classification",
+      "module:regression",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3492698433,
+    "number": 8933,
+    "title": "[BUG] test_reduce.py::test_multioutput_direct_equivalence_tabular_linear_regression failing for no reason",
+    "url": "https://github.com/sktime/sktime/issues/8933",
+    "created_at": "2025-10-07T19:11:18Z",
+    "user": "Astrael1",
+    "labels": [
+      "bug",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3493637049,
+    "number": 32430,
+    "title": "⚠️ CI failed on Linux_free_threaded.pylatest_free_threaded (last failure: Nov 25, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32430",
+    "created_at": "2025-10-08T02:56:57Z",
+    "user": "scikit-learn-bot",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3495369577,
+    "number": 32434,
+    "title": "CI Migrate Azure CI to GitHub Actions",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32434",
+    "created_at": "2025-10-08T13:06:02Z",
+    "user": "lesteve",
+    "labels": [
+      "Build / CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3496478300,
+    "number": 9237,
+    "title": "torchvision.io.decode_image JXL support",
+    "url": "https://github.com/pytorch/vision/issues/9237",
+    "created_at": "2025-10-08T18:34:14Z",
+    "user": "yggdrasil75",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3497454119,
+    "number": 7802,
+    "title": "[Docs] Missing documentation for `Dataset.from_dict`",
+    "url": "https://github.com/huggingface/datasets/issues/7802",
+    "created_at": "2025-10-09T02:54:41Z",
+    "user": "aaronshenhao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3498534596,
+    "number": 7804,
+    "title": "Support scientific data formats",
+    "url": "https://github.com/huggingface/datasets/issues/7804",
+    "created_at": "2025-10-09T10:18:24Z",
+    "user": "lhoestq",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3499419886,
+    "number": 32459,
+    "title": "BUG RidgeCV with gcv_mode=\"svd\" is unstable when alpha is very small",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32459",
+    "created_at": "2025-10-09T14:25:46Z",
+    "user": "antoinebaker",
+    "labels": [
+      "Bug",
+      "Needs Investigation",
+      "Numerical Stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3499567741,
+    "number": 3610,
+    "title": "Feedback about Quickstart",
+    "url": "https://github.com/pytorch/tutorials/issues/3610",
+    "created_at": "2025-10-09T15:08:36Z",
+    "user": "rjdamiano",
+    "labels": [
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3499584803,
+    "number": 8945,
+    "title": "[BUG] ForecastKnownValues does not work for hierarchical data with exactly 1 level",
+    "url": "https://github.com/sktime/sktime/issues/8945",
+    "created_at": "2025-10-09T15:14:15Z",
+    "user": "RobKuebler",
+    "labels": [
+      "bug",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3500390551,
+    "number": 1982,
+    "title": "[ENH] python 3.14 compatibility",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1982",
+    "created_at": "2025-10-09T19:33:23Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3500415890,
+    "number": 4116,
+    "title": "`Wav2Vec2Model` can't be exported with `torch.onnx.export()`",
+    "url": "https://github.com/pytorch/audio/issues/4116",
+    "created_at": "2025-10-09T19:44:12Z",
+    "user": "Tomas542",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3500741658,
+    "number": 7811,
+    "title": "SIGSEGV when Python exits due to near null deref",
+    "url": "https://github.com/huggingface/datasets/issues/7811",
+    "created_at": "2025-10-09T22:00:11Z",
+    "user": "iankronquist",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3500782738,
+    "number": 8952,
+    "title": "[ENH] ensure inner model predict kwargs for deep classifiers and regressors are exposed in `__init__`",
+    "url": "https://github.com/sktime/sktime/issues/8952",
+    "created_at": "2025-10-09T22:22:00Z",
+    "user": "viotemp1",
+    "labels": [
+      "module:classification",
+      "module:regression",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3503723654,
+    "number": 21735,
+    "title": "📝 2025 Developer Survey is now live!",
+    "url": "https://github.com/keras-team/keras/issues/21735",
+    "created_at": "2025-10-10T16:47:55Z",
+    "user": "divyashreepathihalli",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3503784764,
+    "number": 3611,
+    "title": "Feedback about Quickstart",
+    "url": "https://github.com/pytorch/tutorials/issues/3611",
+    "created_at": "2025-10-10T17:06:21Z",
+    "user": "BhavneetSingh7",
+    "labels": [
+      "question",
+      "core",
+      "module: xpu",
+      "windows"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3505297247,
+    "number": 3545,
+    "title": "Getting different result compared to paper when evaluating SparseEncoder (splade-v3)",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3545",
+    "created_at": "2025-10-11T06:34:08Z",
+    "user": "yjoonjang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3506440703,
+    "number": 3546,
+    "title": "Bug: `ImportError` from `from sentence_transformers import SentenceTransformer`  — `.backend` issue",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3546",
+    "created_at": "2025-10-11T23:12:49Z",
+    "user": "chonknick",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3506716060,
+    "number": 8966,
+    "title": "[BUG] `HMM` detector mutates `self` in `transform` and `predict`",
+    "url": "https://github.com/sktime/sktime/issues/8966",
+    "created_at": "2025-10-12T06:04:15Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "module:detection"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3507169851,
+    "number": 5637,
+    "title": "All albanian models are broken",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5637",
+    "created_at": "2025-10-12T13:11:45Z",
+    "user": "tuwid",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3507182380,
+    "number": 3547,
+    "title": "Unit test (test_safetensors) fails in Windows but passes in Linux",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3547",
+    "created_at": "2025-10-12T13:18:50Z",
+    "user": "kaushikacharya",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3510239504,
+    "number": 32492,
+    "title": "CI Intermittent segmentation fault on Windows arm64 Wheels in Python 3.13 free-threaded (seems related to warnings being thread-unsafe)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32492",
+    "created_at": "2025-10-13T14:11:58Z",
+    "user": "lesteve",
+    "labels": [
+      "Build / CI",
+      "Low Priority",
+      "arch:arm",
+      "free-threading",
+      "OS:Windows"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3510689376,
+    "number": 5638,
+    "title": "How to modify the Levenshtein Transformer into an autoregressive architecture?",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5638",
+    "created_at": "2025-10-13T16:28:02Z",
+    "user": "Eternity5188",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3511132268,
+    "number": 21741,
+    "title": "[Feature Request] Implement multiple optimizer",
+    "url": "https://github.com/keras-team/keras/issues/21741",
+    "created_at": "2025-10-12T23:14:57Z",
+    "user": "atiaisaac",
+    "labels": [
+      "type:feature",
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3511472087,
+    "number": 3813,
+    "title": "Supporting new hardware",
+    "url": "https://github.com/huggingface/accelerate/issues/3813",
+    "created_at": "2025-10-13T21:00:52Z",
+    "user": "haifeng-jin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3511975917,
+    "number": 3814,
+    "title": "Deadlock when running multi tasks",
+    "url": "https://github.com/huggingface/accelerate/issues/3814",
+    "created_at": "2025-10-14T01:07:29Z",
+    "user": "RuizhePang",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3512022745,
+    "number": 32495,
+    "title": "Incorrect warning about data conversion when using `pairwise_distances_argmin` with `jaccard` and bool arrays",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32495",
+    "created_at": "2025-10-14T01:31:02Z",
+    "user": "IgnacioJPickering",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3514189750,
+    "number": 2834,
+    "title": "FSDP QLORA doesn't work with multiple adapters",
+    "url": "https://github.com/huggingface/peft/issues/2834",
+    "created_at": "2025-10-14T14:24:44Z",
+    "user": "ojh31",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3514380313,
+    "number": 32500,
+    "title": "Reuse the `pre-commit` linter config in the CI runners",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32500",
+    "created_at": "2025-10-14T15:11:41Z",
+    "user": "ogrisel",
+    "labels": [
+      "Build / CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3516582408,
+    "number": 1876,
+    "title": "Add an API for tokens to ids",
+    "url": "https://github.com/huggingface/tokenizers/issues/1876",
+    "created_at": "2025-10-15T06:43:16Z",
+    "user": "winstxnhdw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3517086110,
+    "number": 7819,
+    "title": "Cannot download opus dataset",
+    "url": "https://github.com/huggingface/datasets/issues/7819",
+    "created_at": "2025-10-15T09:06:19Z",
+    "user": "liamsun2019",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3518641452,
+    "number": 2371,
+    "title": "Unable to convert models",
+    "url": "https://github.com/huggingface/optimum/issues/2371",
+    "created_at": "2025-10-15T15:53:29Z",
+    "user": "serialhex",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3519903270,
+    "number": 3549,
+    "title": "accelerate package not automatically installed when needed?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3549",
+    "created_at": "2025-10-16T00:12:34Z",
+    "user": "Andrew-Chen-Wang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3519938577,
+    "number": 8975,
+    "title": "[ENH] Unify Direct Reduction and Recursive Reduction",
+    "url": "https://github.com/sktime/sktime/issues/8975",
+    "created_at": "2025-10-16T00:40:09Z",
+    "user": "felipeangelimvieira",
+    "labels": [
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3520913195,
+    "number": 7821,
+    "title": "Building a dataset with large variable size arrays results in error ArrowInvalid: Value X too large to fit in C integer type",
+    "url": "https://github.com/huggingface/datasets/issues/7821",
+    "created_at": "2025-10-16T08:45:17Z",
+    "user": "kkoutini",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3524858245,
+    "number": 8976,
+    "title": "[ENH] Add Validation loss/train-dev-test splits in deep learning estimators",
+    "url": "https://github.com/sktime/sktime/issues/8976",
+    "created_at": "2025-10-17T07:25:51Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3525242728,
+    "number": 3617,
+    "title": "Feedback to remove unused import `ParameterAlias` from benchmark tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3617",
+    "created_at": "2025-10-17T09:27:15Z",
+    "user": "vishalgoyal316",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3526070099,
+    "number": 32526,
+    "title": "Investigate using abi3 wheels (Stable ABI + limited C API)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32526",
+    "created_at": "2025-10-17T12:53:26Z",
+    "user": "lesteve",
+    "labels": [
+      "Build / CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3527626755,
+    "number": 8978,
+    "title": "[ENH] unstable dependency resolution in CI - `tensorflow` related test failure on `main` in python 3.10 CI",
+    "url": "https://github.com/sktime/sktime/issues/8978",
+    "created_at": "2025-10-17T21:31:33Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3528293356,
+    "number": 9246,
+    "title": "[CUDA][Suggestion] ROI Pool half-precision build error due to ambiguous comparison",
+    "url": "https://github.com/pytorch/vision/issues/9246",
+    "created_at": "2025-10-18T08:18:11Z",
+    "user": "kimchioverfit",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3529467853,
+    "number": 1877,
+    "title": "encode bytes directly",
+    "url": "https://github.com/huggingface/tokenizers/issues/1877",
+    "created_at": "2025-10-19T03:30:39Z",
+    "user": "tsengalb99",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3530329790,
+    "number": 8984,
+    "title": "[BUG] `test_external_data` CI step fails to set up with `uv`",
+    "url": "https://github.com/sktime/sktime/issues/8984",
+    "created_at": "2025-10-19T18:37:30Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3530494972,
+    "number": 2376,
+    "title": "Support qwen2_5_vl for ONNX export",
+    "url": "https://github.com/huggingface/optimum/issues/2376",
+    "created_at": "2025-10-19T22:08:28Z",
+    "user": "ayan4m1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3531435215,
+    "number": 4121,
+    "title": "Packaging Regression in v2.9.0: torchaudio.load fails on non-shared Python builds",
+    "url": "https://github.com/pytorch/audio/issues/4121",
+    "created_at": "2025-10-20T07:58:04Z",
+    "user": "Manamama",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3534779075,
+    "number": 2855,
+    "title": "When using the ZeRO3 configuration of deepspeed, the target_parameters cannot obtain the shape of the parameters",
+    "url": "https://github.com/huggingface/peft/issues/2855",
+    "created_at": "2025-10-21T04:01:45Z",
+    "user": "qiu-xiao-0330",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3535803596,
+    "number": 9248,
+    "title": "SanitizeBoundingBoxes does not support Semantic Segmentation mask",
+    "url": "https://github.com/pytorch/vision/issues/9248",
+    "created_at": "2025-10-21T09:48:57Z",
+    "user": "leenheart",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3541643220,
+    "number": 9249,
+    "title": "Non-local versions of torch are only available for linux(/mac) aarch64",
+    "url": "https://github.com/pytorch/vision/issues/9249",
+    "created_at": "2025-10-22T17:04:55Z",
+    "user": "konstin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3542897229,
+    "number": 3818,
+    "title": "Duplicate W&B initialization in offline mode",
+    "url": "https://github.com/huggingface/accelerate/issues/3818",
+    "created_at": "2025-10-23T02:19:38Z",
+    "user": "ShuyUSTC",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3542920412,
+    "number": 2861,
+    "title": "[FEAT] Integrate WoRA (Filtering-WoRA) into PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2861",
+    "created_at": "2025-10-23T02:36:20Z",
+    "user": "JT-Sun",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3544453298,
+    "number": 12536,
+    "title": "AssertionError in Context Parallelism during WanImageToVideoPipeline inference: Tensor size along sharding dimension not divisible by mesh size",
+    "url": "https://github.com/huggingface/diffusers/issues/12536",
+    "created_at": "2025-10-23T12:21:47Z",
+    "user": "leeguandong",
+    "labels": [
+      "context-parallel"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3544719679,
+    "number": 2864,
+    "title": "Deal with weight tying consistently",
+    "url": "https://github.com/huggingface/peft/issues/2864",
+    "created_at": "2025-10-23T13:30:39Z",
+    "user": "BenjaminBossan",
+    "labels": [
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3545867528,
+    "number": 8988,
+    "title": "[ENH] interfacing Chronos 2",
+    "url": "https://github.com/sktime/sktime/issues/8988",
+    "created_at": "2025-10-23T17:45:16Z",
+    "user": "fkiraly",
+    "labels": [
+      "good first issue",
+      "interfacing algorithms",
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3547207777,
+    "number": 21771,
+    "title": "`TerminateOnNaN` callback triggers `on_train_end()`, causing unintended side effects in other callbacks",
+    "url": "https://github.com/keras-team/keras/issues/21771",
+    "created_at": "2025-10-24T01:22:43Z",
+    "user": "PhilLord0000",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3547748553,
+    "number": 32561,
+    "title": "DOC: Add user guide entry for sample weights",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32561",
+    "created_at": "2025-10-24T05:43:59Z",
+    "user": "lucyleeow",
+    "labels": [
+      "Documentation",
+      "Hard"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3548584085,
+    "number": 7829,
+    "title": "Memory leak / Large memory usage with num_workers = 0 and numerous dataset within DatasetDict",
+    "url": "https://github.com/huggingface/datasets/issues/7829",
+    "created_at": "2025-10-24T09:51:38Z",
+    "user": "raphaelsty",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3548737712,
+    "number": 21773,
+    "title": "Memory changed when changing the value of `crop_to_aspect_ratio` in case that this arg actually not work",
+    "url": "https://github.com/keras-team/keras/issues/21773",
+    "created_at": "2025-10-24T10:27:52Z",
+    "user": "ILCSFNO",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3549609259,
+    "number": 12540,
+    "title": "SanaCombinedTimestepGuidanceEmbeddings do not work with SanaPipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12540",
+    "created_at": "2025-10-24T13:50:15Z",
+    "user": "frutiemax92",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3550130964,
+    "number": 8993,
+    "title": "[BUG] fh is relative when initialized with a pandas RangeIndex or pandas Index",
+    "url": "https://github.com/sktime/sktime/issues/8993",
+    "created_at": "2025-10-24T16:08:03Z",
+    "user": "corradomio",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3550185457,
+    "number": 8994,
+    "title": "[BUG] fh_in_fit breaks the standard library interface",
+    "url": "https://github.com/sktime/sktime/issues/8994",
+    "created_at": "2025-10-24T16:25:01Z",
+    "user": "corradomio",
+    "labels": [
+      "API design",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3550289604,
+    "number": 1879,
+    "title": "rust tokenizer",
+    "url": "https://github.com/huggingface/tokenizers/issues/1879",
+    "created_at": "2025-10-24T17:03:04Z",
+    "user": "gogo2464",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3550616900,
+    "number": 4122,
+    "title": "MelScale should retain n_stft as an attribute",
+    "url": "https://github.com/pytorch/audio/issues/4122",
+    "created_at": "2025-10-24T18:50:19Z",
+    "user": "sammlapp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3552960809,
+    "number": 12542,
+    "title": "add custom output_params to export_to_video",
+    "url": "https://github.com/huggingface/diffusers/issues/12542",
+    "created_at": "2025-10-25T20:40:07Z",
+    "user": "eyaler",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3553298082,
+    "number": 9005,
+    "title": "[ENH] All parameters should be primitive types or list/dict of parameters",
+    "url": "https://github.com/sktime/sktime/issues/9005",
+    "created_at": "2025-10-26T05:11:38Z",
+    "user": "corradomio",
+    "labels": [
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3553321193,
+    "number": 9006,
+    "title": "[ENH] Integration of sktime with other libraries",
+    "url": "https://github.com/sktime/sktime/issues/9006",
+    "created_at": "2025-10-26T05:50:40Z",
+    "user": "corradomio",
+    "labels": [
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3553793542,
+    "number": 21785,
+    "title": "`keras.ops.` in `tf.data` regardless of backends",
+    "url": "https://github.com/keras-team/keras/issues/21785",
+    "created_at": "2025-10-26T11:27:54Z",
+    "user": "innat",
+    "labels": [
+      "type:feature",
+      "stat:awaiting keras-eng"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3556206842,
+    "number": 9010,
+    "title": "[BUG] PeakTimeFeature not working for multiindex inputs",
+    "url": "https://github.com/sktime/sktime/issues/9010",
+    "created_at": "2025-10-27T10:57:07Z",
+    "user": "marrov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3556637965,
+    "number": 2873,
+    "title": "Can I use Lora fine-tuning twice?",
+    "url": "https://github.com/huggingface/peft/issues/2873",
+    "created_at": "2025-10-27T12:51:45Z",
+    "user": "tohokulgq",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3556745931,
+    "number": 12550,
+    "title": "Fal Flashpack",
+    "url": "https://github.com/huggingface/diffusers/issues/12550",
+    "created_at": "2025-10-27T13:17:16Z",
+    "user": "vgabbo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3556789550,
+    "number": 3621,
+    "title": "Feedback about Getting Started with Distributed Data Parallel",
+    "url": "https://github.com/pytorch/tutorials/issues/3621",
+    "created_at": "2025-10-27T13:26:13Z",
+    "user": "mdouze",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3557580341,
+    "number": 9251,
+    "title": "roi_align onnx export fails while seemingly supported in torchvision code",
+    "url": "https://github.com/pytorch/vision/issues/9251",
+    "created_at": "2025-10-27T16:21:07Z",
+    "user": "timstokman",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3557645150,
+    "number": 9011,
+    "title": "[ENH] Moving to `lockfile` to ensure consistent and deterministic package installation",
+    "url": "https://github.com/sktime/sktime/issues/9011",
+    "created_at": "2025-10-27T16:35:04Z",
+    "user": "Abelarm",
+    "labels": [
+      "maintenance",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3557649883,
+    "number": 32585,
+    "title": "BUG: `QuantileTransformer(ignore_implicit_zeros=True)` sub-sampling behavior is incorrect",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32585",
+    "created_at": "2025-10-27T16:36:07Z",
+    "user": "cakedev0",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3558620569,
+    "number": 3622,
+    "title": "[BUG] - Minor: incorrect description in the Build the Neural Network tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3622",
+    "created_at": "2025-10-27T20:55:26Z",
+    "user": "vaharoni",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3558802959,
+    "number": 7834,
+    "title": "Audio.cast_column() or Audio.decode_example() causes Colab kernel crash (std::bad_alloc)",
+    "url": "https://github.com/huggingface/datasets/issues/7834",
+    "created_at": "2025-10-27T22:02:00Z",
+    "user": "rachidio",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3558997774,
+    "number": 32590,
+    "title": "Add shrinkage support with `solver=\"svd\"` in `LinearDiscriminantAnalysis` and `QuadraticDiscriminantAnalysis`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32590",
+    "created_at": "2025-10-27T23:12:11Z",
+    "user": "dherrera1911",
+    "labels": [
+      "New Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3559226774,
+    "number": 4123,
+    "title": "ffmpeg libraries now must be installed, breaking on users machines",
+    "url": "https://github.com/pytorch/audio/issues/4123",
+    "created_at": "2025-10-28T00:35:26Z",
+    "user": "jonahclarsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3560069027,
+    "number": 12553,
+    "title": "Reason to move from OpenCV to ffmpeg",
+    "url": "https://github.com/huggingface/diffusers/issues/12553",
+    "created_at": "2025-10-28T06:49:48Z",
+    "user": "Wovchena",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3560688933,
+    "number": 3556,
+    "title": "Evaluator runs on all devices",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3556",
+    "created_at": "2025-10-28T09:55:39Z",
+    "user": "ShreyGanatra",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3561084627,
+    "number": 3624,
+    "title": "Will you release the TorchRL C++ API in the future? Similar to the PyTorch C++ API. We look forward to using the TorchRL C++ API in the future.",
+    "url": "https://github.com/pytorch/tutorials/issues/3624",
+    "created_at": "2025-10-28T11:20:47Z",
+    "user": "hyl20012",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3561115889,
+    "number": 3625,
+    "title": "Will you release the TorchRL C++ API in the future, similar to the PyTorch C++ API?",
+    "url": "https://github.com/pytorch/tutorials/issues/3625",
+    "created_at": "2025-10-28T11:27:52Z",
+    "user": "hyl20012",
+    "labels": [
+      "question",
+      "Reinforcement Learning"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3561509530,
+    "number": 3557,
+    "title": "Using megablocks causes RuntimeError: 0 active drivers ([]). There should only be one.",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3557",
+    "created_at": "2025-10-28T13:11:35Z",
+    "user": "KIC",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3561539384,
+    "number": 21793,
+    "title": "keras.optimizers.Muon Fails with AttributeError on variable.path in Keras 3 / TF 2.16-2.20",
+    "url": "https://github.com/keras-team/keras/issues/21793",
+    "created_at": "2025-10-28T13:19:12Z",
+    "user": "Ivanlh20",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3563353174,
+    "number": 9014,
+    "title": "[BUG] `ClaSPSegmentation` API non-conformance",
+    "url": "https://github.com/sktime/sktime/issues/9014",
+    "created_at": "2025-10-28T21:00:56Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "module:detection"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3564202066,
+    "number": 2878,
+    "title": "peft \" target_modules='all-linear' \" have different behavior between x86 and aarch ?",
+    "url": "https://github.com/huggingface/peft/issues/2878",
+    "created_at": "2025-10-29T03:43:02Z",
+    "user": "HuangChiEn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3565105129,
+    "number": 3820,
+    "title": "AssertionError: found no DeviceMesh from dtensor args for c10d.broadcast_.default",
+    "url": "https://github.com/huggingface/accelerate/issues/3820",
+    "created_at": "2025-10-29T09:33:44Z",
+    "user": "juraev",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3565136156,
+    "number": 1987,
+    "title": "[BUG] Torch doesn't support the conversion of non-writeable numpy array",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1987",
+    "created_at": "2025-10-29T09:42:13Z",
+    "user": "cngmid",
+    "labels": [
+      "bug",
+      "module:datasets&dataloaders"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3565403310,
+    "number": 21799,
+    "title": "ERROR:tf2onnx.tfonnx:Tensorflow op [sequential_1/bidirectional_1/forward_lstm_1/CudnnRNNV3: CudnnRNNV3] is not supported",
+    "url": "https://github.com/keras-team/keras/issues/21799",
+    "created_at": "2025-10-29T10:55:05Z",
+    "user": "josephgiting",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3566429419,
+    "number": 12559,
+    "title": "nms不存在！！！我在win系统下边实现这个examples/instruct_pix2pix的报错RuntimeError: operator torchvision::nms does not exist",
+    "url": "https://github.com/huggingface/diffusers/issues/12559",
+    "created_at": "2025-10-29T14:57:58Z",
+    "user": "CSolaris",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3566934378,
+    "number": 9253,
+    "title": "Patch versions of the wheel available in the CPU only pypi registry",
+    "url": "https://github.com/pytorch/vision/issues/9253",
+    "created_at": "2025-10-29T16:42:44Z",
+    "user": "aandrestrumid",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3567267435,
+    "number": 3627,
+    "title": "Update Compiled Autograd tutorial and pages",
+    "url": "https://github.com/pytorch/tutorials/issues/3627",
+    "created_at": "2025-10-29T18:12:15Z",
+    "user": "xmfan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3567437397,
+    "number": 9021,
+    "title": "[ENH] integrating `tsfel` feature extraction library",
+    "url": "https://github.com/sktime/sktime/issues/9021",
+    "created_at": "2025-10-29T19:00:58Z",
+    "user": "fkiraly",
+    "labels": [
+      "good first issue",
+      "module:transformations",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3568426035,
+    "number": 21800,
+    "title": "RuntimeError in `test_step` with multi-GPU: Model input shape mismatch",
+    "url": "https://github.com/keras-team/keras/issues/21800",
+    "created_at": "2025-10-30T00:10:40Z",
+    "user": "innat",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3569083988,
+    "number": 21801,
+    "title": "`plot_model` `rankdir=\"LR\"` does not show U-shape plot for a UNet",
+    "url": "https://github.com/keras-team/keras/issues/21801",
+    "created_at": "2025-10-30T06:15:02Z",
+    "user": "khteh",
+    "labels": [
+      "stat:awaiting response from contributor",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3569220464,
+    "number": 2880,
+    "title": "Bug in fine-tuning for Qwen2.5-VL with LoRA",
+    "url": "https://github.com/huggingface/peft/issues/2880",
+    "created_at": "2025-10-30T07:12:30Z",
+    "user": "Bytes-Lin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3569403952,
+    "number": 3821,
+    "title": "KeyError: \"A parameter in the optimizer couldn't be switched to its sharded version\" occurs under specific Accelerate configuration",
+    "url": "https://github.com/huggingface/accelerate/issues/3821",
+    "created_at": "2025-10-30T08:16:38Z",
+    "user": "sdjasj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3569453779,
+    "number": 5639,
+    "title": "Numpy v2 port?",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5639",
+    "created_at": "2025-10-30T08:30:57Z",
+    "user": "katyo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3569516503,
+    "number": 3822,
+    "title": "`TypeError: NoneType object is not callable` occurs when using `fsdp_auto_wrap_policy=NO_WRAP` with `fsdp_activation_checkpointing=true`",
+    "url": "https://github.com/huggingface/accelerate/issues/3822",
+    "created_at": "2025-10-30T08:45:38Z",
+    "user": "sdjasj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3569739961,
+    "number": 3629,
+    "title": "Feedback about Tensors",
+    "url": "https://github.com/pytorch/tutorials/issues/3629",
+    "created_at": "2025-10-30T09:29:18Z",
+    "user": "Zhunzh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3570178849,
+    "number": 32611,
+    "title": "Array API support for LogisticRegression with LBFGS",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32611",
+    "created_at": "2025-10-30T10:57:15Z",
+    "user": "ogrisel",
+    "labels": [
+      "High Priority",
+      "Array API"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3570621428,
+    "number": 2380,
+    "title": "Trying to export a qwen3 model, that is a custom or unsupported architecture for the task text-generation-with-past, but no custom onnx configuration was passed as `custom_onnx_configs`.",
+    "url": "https://github.com/huggingface/optimum/issues/2380",
+    "created_at": "2025-10-30T12:47:46Z",
+    "user": "chenjieling123",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3571088180,
+    "number": 1881,
+    "title": "Provide byte-level offsets for effective alignment in Cross-Tokenizer On-Policy Distillation",
+    "url": "https://github.com/huggingface/tokenizers/issues/1881",
+    "created_at": "2025-10-30T14:33:31Z",
+    "user": "JqzChandler",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3571356203,
+    "number": 32614,
+    "title": "StackingRegressor is incompatible with TimeSeriesSplit as cv parameter, raising \"ValueError: cross_val_predict only works for partitions\"",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32614",
+    "created_at": "2025-10-30T15:34:54Z",
+    "user": "nothing-ends-adrian",
+    "labels": [
+      "Needs Info"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3571681950,
+    "number": 2882,
+    "title": "[FEAT] Integrate LoRA-One into PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2882",
+    "created_at": "2025-10-30T16:57:49Z",
+    "user": "YuanheZ",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3573153956,
+    "number": 12564,
+    "title": "[Proposals Welcome] Fal Flashpack integration for faster model loading",
+    "url": "https://github.com/huggingface/diffusers/issues/12564",
+    "created_at": "2025-10-31T02:25:55Z",
+    "user": "yiyixuxu",
+    "labels": [
+      "help wanted",
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3573372024,
+    "number": 12565,
+    "title": "Wan2.1 i2v running issue",
+    "url": "https://github.com/huggingface/diffusers/issues/12565",
+    "created_at": "2025-10-31T04:34:34Z",
+    "user": "luren55",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3574016449,
+    "number": 3824,
+    "title": "load_checkpoint_and_dispatch not work",
+    "url": "https://github.com/huggingface/accelerate/issues/3824",
+    "created_at": "2025-10-31T09:08:18Z",
+    "user": "ziliangok",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3574261095,
+    "number": 3631,
+    "title": "Feedback about Audio I/O",
+    "url": "https://github.com/pytorch/tutorials/issues/3631",
+    "created_at": "2025-10-31T10:07:35Z",
+    "user": "Christian-lyc",
+    "labels": [
+      "page-feedback"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3574647935,
+    "number": 21804,
+    "title": "`0.5` is special for `delta` in `keras.losses.Huber()` or not",
+    "url": "https://github.com/keras-team/keras/issues/21804",
+    "created_at": "2025-10-31T11:52:34Z",
+    "user": "ILCSFNO",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3574891043,
+    "number": 9026,
+    "title": "[ENH] fork `seasonal` in order to fix incompatibility with newer `scipy`",
+    "url": "https://github.com/sktime/sktime/issues/9026",
+    "created_at": "2025-10-31T13:07:50Z",
+    "user": "fkiraly",
+    "labels": [
+      "module:transformations",
+      "enhancement",
+      "module:parameter-estimators"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3575131436,
+    "number": 9027,
+    "title": "[BUG] sktime cron jobs run on all forks/clones every week",
+    "url": "https://github.com/sktime/sktime/issues/9027",
+    "created_at": "2025-10-31T14:12:28Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "bug",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3575488915,
+    "number": 12567,
+    "title": "generate noise when using Ulysses Attention",
+    "url": "https://github.com/huggingface/diffusers/issues/12567",
+    "created_at": "2025-10-31T15:50:38Z",
+    "user": "TmacAaron",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3576324162,
+    "number": 2884,
+    "title": "[Question/Bug] How to safely continue LoRA fine-tuning under DeepSpeed ZeRO-3 (multi-stage training with modules_to_save)",
+    "url": "https://github.com/huggingface/peft/issues/2884",
+    "created_at": "2025-10-31T20:13:12Z",
+    "user": "XiangZhang-zx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3576437359,
+    "number": 3632,
+    "title": "Feedback about PyTorch: Tensors and autograd",
+    "url": "https://github.com/pytorch/tutorials/issues/3632",
+    "created_at": "2025-10-31T20:51:39Z",
+    "user": "kerbs23",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

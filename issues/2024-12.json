@@ -1,0 +1,258 @@
+[
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2713116685,
+    "number": 5570,
+    "title": "wav2vec/unsupervised/scripts/prepare_timit.sh add root directory path to already added root directory path.",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5570",
+    "created_at": "2024-12-02T19:25:05Z",
+    "user": "ih7012",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2715064645,
+    "number": 2277,
+    "title": "Warning/Exception for torchtext.data.metrics.bleu_score",
+    "url": "https://github.com/pytorch/text/issues/2277",
+    "created_at": "2024-12-03T13:40:07Z",
+    "user": "Rajinish0",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2720511569,
+    "number": 1696,
+    "title": "How to determine the splicing logic in post_processor based on the sentence to be tokenized?",
+    "url": "https://github.com/huggingface/tokenizers/issues/1696",
+    "created_at": "2024-12-05T14:05:13Z",
+    "user": "gongel",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2723403542,
+    "number": 5571,
+    "title": "VideoCLIP help on demo script",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5571",
+    "created_at": "2024-12-06T16:03:59Z",
+    "user": "dnitti-psee",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2724144448,
+    "number": 2278,
+    "title": "Sheh",
+    "url": "https://github.com/pytorch/text/issues/2278",
+    "created_at": "2024-12-06T23:38:52Z",
+    "user": "Ha1947",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2724184849,
+    "number": 2120,
+    "title": "GPTQ kernel inference not compatible with some models",
+    "url": "https://github.com/huggingface/optimum/issues/2120",
+    "created_at": "2024-12-07T00:14:27Z",
+    "user": "Qubitium",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2731043813,
+    "number": 1698,
+    "title": "Tokenizer Training Errors: pyo3_runtime.PanicException: called `Result::unwrap()` on an `Err` value: TryFromIntError(())",
+    "url": "https://github.com/huggingface/tokenizers/issues/1698",
+    "created_at": "2024-12-10T19:47:32Z",
+    "user": "Chimaco37",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2732983901,
+    "number": 5572,
+    "title": "Wav2vec-U Gan train WER UER loss  are not satisfactory  wav2vec-u wav2vec-u 2.0 gan",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5572",
+    "created_at": "2024-12-11T13:28:11Z",
+    "user": "XR1988",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2735432632,
+    "number": 1700,
+    "title": "if split_special_tokens==True，fast_tokenizer is slower than slow_tokenizer",
+    "url": "https://github.com/huggingface/tokenizers/issues/1700",
+    "created_at": "2024-12-12T10:02:11Z",
+    "user": "gongel",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2739434358,
+    "number": 1703,
+    "title": "Cannot find package 'tokenizers-linux-x64-musl' - Alpine support",
+    "url": "https://github.com/huggingface/tokenizers/issues/1703",
+    "created_at": "2024-12-14T01:24:37Z",
+    "user": "PylotLight",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 2743785502,
+    "number": 3300,
+    "title": "[Feature Request] add a memory logging manager",
+    "url": "https://github.com/huggingface/accelerate/issues/3300",
+    "created_at": "2024-12-17T02:29:52Z",
+    "user": "sayakpaul",
+    "labels": [
+      "feature request",
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2750840732,
+    "number": 3865,
+    "title": "TypeError: unsupported operand type(s) for //: 'NoneType' and 'int'",
+    "url": "https://github.com/pytorch/audio/issues/3865",
+    "created_at": "2024-12-19T16:19:58Z",
+    "user": "kabyanil",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 2752822436,
+    "number": 1081,
+    "title": "PyPI Readme Rendering",
+    "url": "https://github.com/skorch-dev/skorch/issues/1081",
+    "created_at": "2024-12-20T14:11:35Z",
+    "user": "Ball-Man",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2761622854,
+    "number": 5576,
+    "title": "MMS TTS tutorial",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5576",
+    "created_at": "2024-12-28T08:06:46Z",
+    "user": "ARTHARKING55",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 2761644189,
+    "number": 1083,
+    "title": "Unable to use packed sequence for GridSearchCV",
+    "url": "https://github.com/skorch-dev/skorch/issues/1083",
+    "created_at": "2024-12-28T09:21:54Z",
+    "user": "nafraw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2761891850,
+    "number": 3867,
+    "title": "Add support for Pseudo Quadrature Mirror Filter",
+    "url": "https://github.com/pytorch/audio/issues/3867",
+    "created_at": "2024-12-28T19:57:04Z",
+    "user": "uis246",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2762992528,
+    "number": 2140,
+    "title": "KeyError: 'swinv2 model type is not supported yet in NormalizedConfig.",
+    "url": "https://github.com/huggingface/optimum/issues/2140",
+    "created_at": "2024-12-30T10:29:14Z",
+    "user": "Billybeast2003",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2763007059,
+    "number": 2141,
+    "title": "VisionEncoderDecoderModel ONNX Conversion - Swinv2-Xlm-roberta-base",
+    "url": "https://github.com/huggingface/optimum/issues/2141",
+    "created_at": "2024-12-24T19:55:11Z",
+    "user": "Billybeast2003",
+    "labels": [
+      "bug",
+      "onnx"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3282068583,
+    "number": 3503,
+    "title": "Broken links detected in docs 🔗",
+    "url": "https://github.com/pytorch/tutorials/issues/3503",
+    "created_at": "2025-08-01T00:20:53Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "incorrect link"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3282855127,
+    "number": 7717,
+    "title": "Cached dataset is not used when explicitly passing the cache_dir parameter",
+    "url": "https://github.com/huggingface/datasets/issues/7717",
+    "created_at": "2025-08-01T07:12:41Z",
+    "user": "padmalcom",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3285719107,
+    "number": 21544,
+    "title": "OpenVINOKerasTensor does not implement the full expected API of KerasTensor",
+    "url": "https://github.com/keras-team/keras/issues/21544",
+    "created_at": "2025-08-02T08:13:57Z",
+    "user": "RyanSaxe",
+    "labels": [
+      "type:Bug",
+      "backend:OpenVino"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3285928491,
+    "number": 7719,
+    "title": "Specify dataset columns types in typehint",
+    "url": "https://github.com/huggingface/datasets/issues/7719",
+    "created_at": "2025-08-02T13:22:31Z",
+    "user": "Samoed",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3286638585,
+    "number": 3506,
+    "title": "Feedback about 在 Google Colab 中运行教程",
+    "url": "https://github.com/pytorch/tutorials/issues/3506",
+    "created_at": "2025-08-03T03:51:11Z",
+    "user": "KevinAllen66",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3287150513,
+    "number": 7720,
+    "title": "Datasets 4.0 map function causing column not found",
+    "url": "https://github.com/huggingface/datasets/issues/7720",
+    "created_at": "2025-08-03T12:52:34Z",
+    "user": "Darejkal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3287452569,
+    "number": 9162,
+    "title": "CocoDetection wrapped with wrap_dataset_for_transforms_v2 returns image_id even if not in target_keys",
+    "url": "https://github.com/pytorch/vision/issues/9162",
+    "created_at": "2025-08-03T19:02:34Z",
+    "user": "rumpg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3288736478,
+    "number": 9163,
+    "title": "RuntimeError: \"could not create a primitive\" on torch 2.7.0 and torchvision 0.22.0 (works on 2.6.0 and 0.21.0)",
+    "url": "https://github.com/pytorch/vision/issues/9163",
+    "created_at": "2025-08-04T09:42:28Z",
+    "user": "wz7475",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3288973974,
+    "number": 21547,
+    "title": "Adding a `predict_proba` method on SKLearnClassifier",
+    "url": "https://github.com/keras-team/keras/issues/21547",
+    "created_at": "2025-08-04T11:02:23Z",
+    "user": "divakaivan",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3289426104,
+    "number": 7721,
+    "title": "Bad split error message when using percentages",
+    "url": "https://github.com/huggingface/datasets/issues/7721",
+    "created_at": "2025-08-04T13:20:25Z",
+    "user": "padmalcom",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3289741064,
+    "number": 7722,
+    "title": "Out of memory even though using load_dataset(..., streaming=True)",
+    "url": "https://github.com/huggingface/datasets/issues/7722",
+    "created_at": "2025-08-04T14:41:55Z",
+    "user": "padmalcom",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3289774816,
+    "number": 3507,
+    "title": "Feedback about Optimizing Model Parameters Page",
+    "url": "https://github.com/pytorch/tutorials/issues/3507",
+    "created_at": "2025-08-04T14:50:13Z",
+    "user": "madhaven",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3289943261,
+    "number": 7723,
+    "title": "Don't remove `trust_remote_code` arg!!!",
+    "url": "https://github.com/huggingface/datasets/issues/7723",
+    "created_at": "2025-08-04T15:42:07Z",
+    "user": "autosquid",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3292315241,
+    "number": 7724,
+    "title": "Can not stepinto load_dataset.py?",
+    "url": "https://github.com/huggingface/datasets/issues/7724",
+    "created_at": "2025-08-05T09:28:51Z",
+    "user": "micklexqg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3293894004,
+    "number": 9165,
+    "title": "`error: 'Python.h' file not found` building on Windows with Python installed to `C:\\Program Files\\Python312`",
+    "url": "https://github.com/pytorch/vision/issues/9165",
+    "created_at": "2025-08-05T17:29:05Z",
+    "user": "ScottTodd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3295718578,
+    "number": 7727,
+    "title": "config paths that start with ./ are not valid as hf:// accessed repos, but are valid when accessed locally",
+    "url": "https://github.com/huggingface/datasets/issues/7727",
+    "created_at": "2025-08-06T08:21:37Z",
+    "user": "doctorpangloss",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3296224344,
+    "number": 9166,
+    "title": "Lanczos interpolation support in resize",
+    "url": "https://github.com/pytorch/vision/issues/9166",
+    "created_at": "2025-08-06T10:54:29Z",
+    "user": "MHRDYN7",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3296729950,
+    "number": 9167,
+    "title": "Jitter brightness, contrast, and saturation for multichannel (2/>3) input with v2.ColorJitter",
+    "url": "https://github.com/pytorch/vision/issues/9167",
+    "created_at": "2025-08-06T13:30:14Z",
+    "user": "siemdejong",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3296868821,
+    "number": 9168,
+    "title": "CI: Enable GitHub Actions App for ppc64le (Power architecture) CI support",
+    "url": "https://github.com/pytorch/vision/issues/9168",
+    "created_at": "2025-08-06T14:07:51Z",
+    "user": "sandeepgupta12",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3297223439,
+    "number": 1938,
+    "title": "[ENH] Implementation of DUET",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1938",
+    "created_at": "2025-08-06T15:51:12Z",
+    "user": "jobs-git",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "feature request",
+      "module:models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3298157987,
+    "number": 3514,
+    "title": "intermediate_source/dqn_with_rnn_tutorial.py failing with 2.8 release",
+    "url": "https://github.com/pytorch/tutorials/issues/3514",
+    "created_at": "2025-08-06T21:35:08Z",
+    "user": "sekyondaMeta",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3298854904,
+    "number": 7728,
+    "title": "NonMatchingSplitsSizesError and ExpectedMoreSplitsError",
+    "url": "https://github.com/huggingface/datasets/issues/7728",
+    "created_at": "2025-08-07T04:04:50Z",
+    "user": "efsotr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3298866427,
+    "number": 3484,
+    "title": "Using KLDiv with CMNRL",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3484",
+    "created_at": "2025-08-07T04:10:02Z",
+    "user": "yjoonjang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3300672954,
+    "number": 7729,
+    "title": "OSError: libcudart.so.11.0: cannot open shared object file: No such file or directory",
+    "url": "https://github.com/huggingface/datasets/issues/7729",
+    "created_at": "2025-08-07T14:07:23Z",
+    "user": "SaleemMalikAI",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3303637075,
+    "number": 7731,
+    "title": "Add the possibility of a backend for audio decoding",
+    "url": "https://github.com/huggingface/datasets/issues/7731",
+    "created_at": "2025-08-08T11:08:56Z",
+    "user": "intexcor",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3303904316,
+    "number": 1941,
+    "title": "[ENH] add negative test cases in `TestAllMetrics`.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1941",
+    "created_at": "2025-08-08T12:36:12Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "enhancement",
+      "module:metrics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3304673383,
+    "number": 7732,
+    "title": "webdataset: key errors when `field_name` has upper case characters",
+    "url": "https://github.com/huggingface/datasets/issues/7732",
+    "created_at": "2025-08-08T16:56:42Z",
+    "user": "YassineYousfi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3305289588,
+    "number": 5633,
+    "title": "Is there a path for Commercial license for a fine-tuned version of NLLB-200?",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5633",
+    "created_at": "2025-08-08T21:46:07Z",
+    "user": "nohaelprince",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3306933996,
+    "number": 9173,
+    "title": "We should have a customizable tool that preprocesses your data (cleaning, parsing, sampling, pipeline engineering etc.)",
+    "url": "https://github.com/pytorch/vision/issues/9173",
+    "created_at": "2025-08-09T22:32:41Z",
+    "user": "Brokttv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3314648064,
+    "number": 21574,
+    "title": "Is their a way to create custom tensor-like types in Keras (similar to torch.Tensor or tf.experimental.ExtensionType)",
+    "url": "https://github.com/keras-team/keras/issues/21574",
+    "created_at": "2025-08-12T14:49:49Z",
+    "user": "AyoubMDL",
+    "labels": [
+      "type:support",
+      "stat:awaiting keras-eng"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3317692434,
+    "number": 9183,
+    "title": "SSL verification error while downloading MNIST dataset",
+    "url": "https://github.com/pytorch/vision/issues/9183",
+    "created_at": "2025-08-13T09:43:27Z",
+    "user": "sujitwarrier11",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3319014658,
+    "number": 2338,
+    "title": "RuntimeError converting Whisper model",
+    "url": "https://github.com/huggingface/optimum/issues/2338",
+    "created_at": "2025-08-13T16:02:52Z",
+    "user": "dave-shore",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3320224318,
+    "number": 1845,
+    "title": "Trouble installing tokenizers (python) on AWS lambda arm64 image.",
+    "url": "https://github.com/huggingface/tokenizers/issues/1845",
+    "created_at": "2025-08-13T23:52:31Z",
+    "user": "crawftv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3325353779,
+    "number": 1945,
+    "title": "Slicing predictions for using `plot_prediction()` method with Temporal Fusion Transformer",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1945",
+    "created_at": "2025-08-15T13:53:33Z",
+    "user": "nicoliKim",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3327475137,
+    "number": 1847,
+    "title": "memory allocation of 21474836480 bytes failed",
+    "url": "https://github.com/huggingface/tokenizers/issues/1847",
+    "created_at": "2025-08-16T17:30:36Z",
+    "user": "lostmsu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3328948690,
+    "number": 7738,
+    "title": "Allow saving multi-dimensional ndarray with dynamic shapes",
+    "url": "https://github.com/huggingface/datasets/issues/7738",
+    "created_at": "2025-08-18T02:23:51Z",
+    "user": "ryan-minato",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3331148965,
+    "number": 3522,
+    "title": "Feedback about Datasets & DataLoaders",
+    "url": "https://github.com/pytorch/tutorials/issues/3522",
+    "created_at": "2025-08-18T15:21:00Z",
+    "user": "giladfelsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3331537762,
+    "number": 7739,
+    "title": "Replacement of \"Sequence\" feature with \"List\" breaks backward compatibility",
+    "url": "https://github.com/huggingface/datasets/issues/7739",
+    "created_at": "2025-08-18T17:28:38Z",
+    "user": "evmaki",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3334804311,
+    "number": 3523,
+    "title": "Code examples missing in MaskedTensor Overview tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3523",
+    "created_at": "2025-08-19T14:54:04Z",
+    "user": "bdol",
+    "labels": [
+      "bug",
+      "build issue",
+      "website"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3335523563,
+    "number": 3492,
+    "title": "Support for listwise loss functions in bi-encoder",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3492",
+    "created_at": "2025-08-19T20:00:38Z",
+    "user": "madhumitha-mohan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3336158200,
+    "number": 1949,
+    "title": "[ENH] Does TimeSeriesDataSet  supports passing in file list?",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1949",
+    "created_at": "2025-08-20T00:41:29Z",
+    "user": "Neronjust2017",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3336704928,
+    "number": 7742,
+    "title": "module 'pyarrow' has no attribute 'PyExtensionType'",
+    "url": "https://github.com/huggingface/datasets/issues/7742",
+    "created_at": "2025-08-20T06:14:33Z",
+    "user": "mnedelko",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3337151534,
+    "number": 3493,
+    "title": "Support for jinaai/jina-reranker-m0",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3493",
+    "created_at": "2025-08-20T08:44:15Z",
+    "user": "wirthual",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3339603267,
+    "number": 3526,
+    "title": "[BUG] - DDP tutorial leads to deprecated tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3526",
+    "created_at": "2025-08-20T21:32:08Z",
+    "user": "Tialo",
+    "labels": [
+      "bug",
+      "incorrect link"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3341379806,
+    "number": 21605,
+    "title": "Compatibility issue between `add_loss` and `TimeDistributed` when using JAX backend",
+    "url": "https://github.com/keras-team/keras/issues/21605",
+    "created_at": "2025-08-21T11:32:43Z",
+    "user": "AmedeoBiolatti",
+    "labels": [
+      "stat:awaiting keras-eng",
+      "type:Bug",
+      "backend:jax"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3344069579,
+    "number": 9187,
+    "title": "Unexpected difference in torchvision.transforms.Normalize results when using DataLoader with num_workers>=1 and pin_memory=True.",
+    "url": "https://github.com/pytorch/vision/issues/9187",
+    "created_at": "2025-08-22T04:07:08Z",
+    "user": "Chen-Bo-Yang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3345286773,
+    "number": 7745,
+    "title": "Audio mono argument no longer supported, despite class documentation",
+    "url": "https://github.com/huggingface/datasets/issues/7745",
+    "created_at": "2025-08-22T12:15:41Z",
+    "user": "jheitz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3345391211,
+    "number": 7746,
+    "title": "Fix: Canonical 'multi_news' dataset is broken and should be updated to a Parquet version",
+    "url": "https://github.com/huggingface/datasets/issues/7746",
+    "created_at": "2025-08-22T12:52:03Z",
+    "user": "Awesome075",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3349298049,
+    "number": 1851,
+    "title": "SentencePieceBPE + Unicode NFD preprocessing leads to noise ?",
+    "url": "https://github.com/huggingface/tokenizers/issues/1851",
+    "created_at": "2025-08-24T08:28:08Z",
+    "user": "PonteIneptique",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3351267496,
+    "number": 3498,
+    "title": "Qwen3 produces `nan` embeddings (SDPA + macOS)",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3498",
+    "created_at": "2025-08-25T10:18:24Z",
+    "user": "alvarobartt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3351788926,
+    "number": 9188,
+    "title": "InterpolationMode.NEAREST_EXACT and InterpolationMode.NEAREST are the same for tv_tensors.Mask",
+    "url": "https://github.com/pytorch/vision/issues/9188",
+    "created_at": "2025-08-25T13:06:35Z",
+    "user": "Alek96",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3354144648,
+    "number": 1854,
+    "title": "Question: bert normalizer CJK handling",
+    "url": "https://github.com/huggingface/tokenizers/issues/1854",
+    "created_at": "2025-08-26T05:17:18Z",
+    "user": "xiaoshihou514",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3356255314,
+    "number": 1953,
+    "title": "[ENH] extension templates for neural network classes",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1953",
+    "created_at": "2025-08-26T15:59:13Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3358369976,
+    "number": 7751,
+    "title": "Dill version update",
+    "url": "https://github.com/huggingface/datasets/issues/7751",
+    "created_at": "2025-08-27T07:38:30Z",
+    "user": "Navanit-git",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3358919865,
+    "number": 1855,
+    "title": "Breaking change in 0.21.2",
+    "url": "https://github.com/huggingface/tokenizers/issues/1855",
+    "created_at": "2025-08-27T10:54:16Z",
+    "user": "phil-opp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3359293524,
+    "number": 21617,
+    "title": "Discrepancy in ops.correlate for tensorflow",
+    "url": "https://github.com/keras-team/keras/issues/21617",
+    "created_at": "2025-08-27T13:05:22Z",
+    "user": "wesselvannierop",
+    "labels": [
+      "stat:contributions welcome",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3360636591,
+    "number": 3530,
+    "title": "Feedback about Introduction to Distributed Pipeline Parallelism",
+    "url": "https://github.com/pytorch/tutorials/issues/3530",
+    "created_at": "2025-08-27T19:37:30Z",
+    "user": "hpcpony",
+    "labels": [
+      "website",
+      "distributed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3360671476,
+    "number": 9195,
+    "title": "DataLoader multiprocessing fails when dataset stores a module object (TypeError: cannot pickle 'module' object)",
+    "url": "https://github.com/pytorch/vision/issues/9195",
+    "created_at": "2025-08-27T19:51:44Z",
+    "user": "nehdiii",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3360832674,
+    "number": 1957,
+    "title": "[ENH] refactor `_loss_mapping` to tags of metrics, entirely",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1957",
+    "created_at": "2025-08-27T20:56:46Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "module:test_framework",
+      "module:metrics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3362167543,
+    "number": 9197,
+    "title": "Request: Provide +cpu wheels for ARM64 (aarch64) in official TorchVision releases",
+    "url": "https://github.com/pytorch/vision/issues/9197",
+    "created_at": "2025-08-28T07:28:11Z",
+    "user": "DHolmanCoding",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3364327272,
+    "number": 1959,
+    "title": "[ENH] add first batch of foundation models into `PTF` for v2.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1959",
+    "created_at": "2025-08-28T18:44:59Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "enhancement",
+      "module:models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3365166619,
+    "number": 3505,
+    "title": "Hyperparameters of original cross-encoder/ms-marco-MiniLM series models?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3505",
+    "created_at": "2025-08-29T01:53:11Z",
+    "user": "Liwen-Hu3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3365516382,
+    "number": 21624,
+    "title": "Add feature to extract_patches for volume data",
+    "url": "https://github.com/keras-team/keras/issues/21624",
+    "created_at": "2025-08-29T05:27:34Z",
+    "user": "innat",
+    "labels": [
+      "stat:contributions welcome",
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3369093480,
+    "number": 21629,
+    "title": "Several tests of `keras/src/ops/numpy_test.py::NumpyDtypeTest` fail with `AssertionError`",
+    "url": "https://github.com/keras-team/keras/issues/21629",
+    "created_at": "2025-08-30T12:46:56Z",
+    "user": "GaetanLepage",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3369416498,
+    "number": 4074,
+    "title": "[STABLE ABI] Porting lfilter.cpp",
+    "url": "https://github.com/pytorch/audio/issues/4074",
+    "created_at": "2025-08-30T19:13:55Z",
+    "user": "pearu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3369467017,
+    "number": 4077,
+    "title": "[STABLE ABI] Porting iir_cuda.cu",
+    "url": "https://github.com/pytorch/audio/issues/4077",
+    "created_at": "2025-08-30T20:14:16Z",
+    "user": "pearu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3369741161,
+    "number": 1962,
+    "title": "[BUG]",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1962",
+    "created_at": "2025-08-31T03:25:52Z",
+    "user": "workhours",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

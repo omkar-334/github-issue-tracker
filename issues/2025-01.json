@@ -1,0 +1,482 @@
+[
+  {
+    "repo": "huggingface/optimum",
+    "id": 2764969850,
+    "number": 2144,
+    "title": "Qwen RuntimeError: The serialized model is larger than the 2GiB",
+    "url": "https://github.com/huggingface/optimum/issues/2144",
+    "created_at": "2025-01-01T09:59:58Z",
+    "user": "santoshk17",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2765321329,
+    "number": 3868,
+    "title": "Use system-provided libsox",
+    "url": "https://github.com/pytorch/audio/issues/3868",
+    "created_at": "2025-01-02T00:05:51Z",
+    "user": "uis246",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2765742197,
+    "number": 2145,
+    "title": "cannot quantize bge onnx model(embedding model) without performace loss",
+    "url": "https://github.com/huggingface/optimum/issues/2145",
+    "created_at": "2025-01-02T09:59:15Z",
+    "user": "chuangzhidan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2767193553,
+    "number": 3211,
+    "title": "💡 [REQUEST] - Making the tutorial more coherent",
+    "url": "https://github.com/pytorch/tutorials/issues/3211",
+    "created_at": "2025-01-03T08:46:30Z",
+    "user": "LunaticMaestro",
+    "labels": [
+      "nlp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 2770460413,
+    "number": 1084,
+    "title": "Support for Datasets with elements of different length",
+    "url": "https://github.com/skorch-dev/skorch/issues/1084",
+    "created_at": "2025-01-06T11:32:06Z",
+    "user": "BrokenDuck",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2771312637,
+    "number": 5588,
+    "title": "TypeError: cannot unpack non-iterable NoneType object when loading roberta.large from Fairseq Hub",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5588",
+    "created_at": "2025-01-06T19:37:48Z",
+    "user": "samvel-karapetyan",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2771423233,
+    "number": 1749,
+    "title": "[DOC] Fix Linting issue and update docstring to Numpy Style By Module",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1749",
+    "created_at": "2025-01-06T20:49:36Z",
+    "user": "fnhirwa",
+    "labels": [
+      "documentation",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 2772061506,
+    "number": 2310,
+    "title": "Comparison of Different Fine-Tuning Techniques for Conversational AI",
+    "url": "https://github.com/huggingface/peft/issues/2310",
+    "created_at": "2025-01-07T07:07:50Z",
+    "user": "ImamaDev",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2778630982,
+    "number": 3870,
+    "title": "SQUIM running in real-time",
+    "url": "https://github.com/pytorch/audio/issues/3870",
+    "created_at": "2025-01-09T19:43:35Z",
+    "user": "balkce",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2779612517,
+    "number": 3226,
+    "title": "[BUG] - <title> TypeError when using len(train_dataloader.dataset) in Quickstart PyTorch tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3226",
+    "created_at": "2025-01-10T08:46:43Z",
+    "user": "hoangziet",
+    "labels": [
+      "bug",
+      "intro",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2785313132,
+    "number": 1752,
+    "title": "[BUG] TimeSeriesDataSet.to_dataloader batch_size, RuntimeError",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1752",
+    "created_at": "2025-01-13T20:27:58Z",
+    "user": "gbilleyPeco",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2786556114,
+    "number": 2156,
+    "title": "--dtype fp16 does not decrease the model size",
+    "url": "https://github.com/huggingface/optimum/issues/2156",
+    "created_at": "2025-01-14T08:37:23Z",
+    "user": "chansonzhang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2788782436,
+    "number": 1754,
+    "title": "[BUG] Temporal Fusion Transformer trained on GPU then loaded on CPU does not propagate map_location into the loss metrics as expected",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1754",
+    "created_at": "2025-01-15T04:00:57Z",
+    "user": "arizzuto",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2792435149,
+    "number": 5590,
+    "title": "Where is the implementation of the whole moe in example/translation/translation_moe",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5590",
+    "created_at": "2025-01-16T11:16:04Z",
+    "user": "MastrOrigami",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2792605107,
+    "number": 3871,
+    "title": "Torchaudio package on conda-forge is missing dynamic libs",
+    "url": "https://github.com/pytorch/audio/issues/3871",
+    "created_at": "2025-01-16T12:29:15Z",
+    "user": "andrew-aladjev",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2799867071,
+    "number": 3236,
+    "title": "2:4 Sparsity acceleration does not deliver any benefit.",
+    "url": "https://github.com/pytorch/tutorials/issues/3236",
+    "created_at": "2025-01-20T16:47:16Z",
+    "user": "Moritz-Tho123",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2801283140,
+    "number": 3872,
+    "title": "Torchaudio installed through PIP not detecting ffmpeg from conda-forge channel",
+    "url": "https://github.com/pytorch/audio/issues/3872",
+    "created_at": "2025-01-21T09:54:03Z",
+    "user": "Kavinraj-N",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2801769729,
+    "number": 1726,
+    "title": "Thread safe?",
+    "url": "https://github.com/huggingface/tokenizers/issues/1726",
+    "created_at": "2025-01-21T12:53:32Z",
+    "user": "drupol",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2802357157,
+    "number": 5591,
+    "title": "question",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5591",
+    "created_at": "2025-01-21T16:54:33Z",
+    "user": "contens3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2803266055,
+    "number": 2167,
+    "title": "Support for exaone models",
+    "url": "https://github.com/huggingface/optimum/issues/2167",
+    "created_at": "2025-01-22T03:16:01Z",
+    "user": "Zhaeong",
+    "labels": [
+      "feature-request",
+      "onnx"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2803415346,
+    "number": 2279,
+    "title": "Could we have Android (Termux) Support?",
+    "url": "https://github.com/pytorch/text/issues/2279",
+    "created_at": "2025-01-22T05:22:38Z",
+    "user": "TunifyBasic",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2804953479,
+    "number": 5592,
+    "title": "Licence",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5592",
+    "created_at": "2025-01-22T17:25:28Z",
+    "user": "giutau5",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2806634805,
+    "number": 5593,
+    "title": "Convert mms-tts-eng etc to .ptl or .tflite",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5593",
+    "created_at": "2025-01-23T11:19:30Z",
+    "user": "woheller69",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 2806843497,
+    "number": 2342,
+    "title": "CI: Add gptqmodel to the CI",
+    "url": "https://github.com/huggingface/peft/issues/2342",
+    "created_at": "2025-01-23T12:57:29Z",
+    "user": "BenjaminBossan",
+    "labels": [
+      "wip"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2810704614,
+    "number": 2168,
+    "title": "OnnxRuntime Support for Text2Video and Img2Video Pipelines",
+    "url": "https://github.com/huggingface/optimum/issues/2168",
+    "created_at": "2025-01-25T02:28:50Z",
+    "user": "jdp8",
+    "labels": [
+      "onnxruntime",
+      "diffusers"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2811049983,
+    "number": 3263,
+    "title": "module 'torch' has no attribute 'accelerator'",
+    "url": "https://github.com/pytorch/tutorials/issues/3263",
+    "created_at": "2025-01-25T15:55:05Z",
+    "user": "shandatascience",
+    "labels": [
+      "bug",
+      "intro",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2811090463,
+    "number": 1759,
+    "title": "[BUG] AssertionError: target None has to be real",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1759",
+    "created_at": "2025-01-25T17:26:03Z",
+    "user": "ZHUGUODONG1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2811386641,
+    "number": 1760,
+    "title": "AssertionError: Time difference between steps has been idenfied as larger than 1 - set allow_missing_timesteps=True",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1760",
+    "created_at": "2025-01-26T08:09:47Z",
+    "user": "sathmikaDev",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2811622945,
+    "number": 2280,
+    "title": "OS Error - WinError 127 torchtext - Pytorch CUDA 12.1 error",
+    "url": "https://github.com/pytorch/text/issues/2280",
+    "created_at": "2025-01-26T15:31:48Z",
+    "user": "GodRishUniverse",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2811691928,
+    "number": 1761,
+    "title": "static_reals Parameter bug",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1761",
+    "created_at": "2025-01-26T17:39:46Z",
+    "user": "Arjein",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2811947894,
+    "number": 2282,
+    "title": "combining TEXT.build_vocab with BERT Embedding",
+    "url": "https://github.com/pytorch/text/issues/2282",
+    "created_at": "2025-01-27T02:11:21Z",
+    "user": "muhalfian",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2819974756,
+    "number": 5594,
+    "title": "Gradio",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5594",
+    "created_at": "2025-01-30T06:00:55Z",
+    "user": "Eyobs-droid",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2823367123,
+    "number": 1730,
+    "title": "Slow compile times",
+    "url": "https://github.com/huggingface/tokenizers/issues/1730",
+    "created_at": "2025-01-31T12:44:28Z",
+    "user": "414owen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

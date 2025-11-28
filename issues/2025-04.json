@@ -1,0 +1,690 @@
+[
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2962850298,
+    "number": 5602,
+    "title": "Documentation of Monte-Varlo DropOut at inference time",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5602",
+    "created_at": "2025-04-01T09:24:36Z",
+    "user": "Kensuke-Mitsuzawa",
+    "labels": [
+      "needs triage",
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2965144610,
+    "number": 1759,
+    "title": "AttributeError: module 'decoders' has no attribute 'DecodeStream'",
+    "url": "https://github.com/huggingface/tokenizers/issues/1759",
+    "created_at": "2025-04-02T04:26:22Z",
+    "user": "scattw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2965519272,
+    "number": 21120,
+    "title": "clone_model(recursive=True) supports one level of nesting only",
+    "url": "https://github.com/keras-team/keras/issues/21120",
+    "created_at": "2025-04-02T08:02:23Z",
+    "user": "martin-gorner",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2969087550,
+    "number": 5603,
+    "title": "WeightsUnpickler error: Unsupported global: GLOBAL numpy._core.multiarray._reconstruct was not an allowed global by default.",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5603",
+    "created_at": "2025-04-03T10:25:52Z",
+    "user": "sa-paul",
+    "labels": [
+      "bug",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2971205955,
+    "number": 1808,
+    "title": "[BUG] `concat_sequences` Stacks Batches as Time Steps for Single-Step Predictions",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1808",
+    "created_at": "2025-04-04T03:57:05Z",
+    "user": "jarrodconnolly",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2973850616,
+    "number": 21137,
+    "title": "keras.ops.print: `tf.print`; `jax.debug.print`; …",
+    "url": "https://github.com/keras-team/keras/issues/21137",
+    "created_at": "2025-04-05T04:29:19Z",
+    "user": "SamuelMarks",
+    "labels": [
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2974428064,
+    "number": 1809,
+    "title": "Optimization proposal for InterpretableMultiHeadAttention in TFT",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1809",
+    "created_at": "2025-04-05T18:42:24Z",
+    "user": "RubenPanero",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2974686581,
+    "number": 1810,
+    "title": "[BUG]model.predict(..., return_y=True) causes error if the last batch is unequal to the batch size",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1810",
+    "created_at": "2025-04-06T04:44:27Z",
+    "user": "novusshu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2983444426,
+    "number": 1760,
+    "title": "normalizers.Replace able to support regex group capture",
+    "url": "https://github.com/huggingface/tokenizers/issues/1760",
+    "created_at": "2025-04-09T17:25:39Z",
+    "user": "nrv",
+    "labels": [
+      "Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2985094572,
+    "number": 21150,
+    "title": "Memory Usage Monitoring Callback",
+    "url": "https://github.com/keras-team/keras/issues/21150",
+    "created_at": "2025-04-10T09:43:45Z",
+    "user": "DimiChatzipavlis",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2985566121,
+    "number": 2288,
+    "title": "OSError: /usr/local/lib/python3.11/dist-packages/torchtext/lib/libtorchtext.so: undefined symbol: _ZN5torch3jit17parseSchemaOrNameERKSs",
+    "url": "https://github.com/pytorch/text/issues/2288",
+    "created_at": "2025-04-10T11:55:25Z",
+    "user": "SanjayDevarajan03",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2988008615,
+    "number": 21154,
+    "title": "Custom layer with parameter ending in _mask is dysfunctional",
+    "url": "https://github.com/keras-team/keras/issues/21154",
+    "created_at": "2025-04-11T08:51:12Z",
+    "user": "martin-gorner",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2988606221,
+    "number": 2289,
+    "title": "torchtext error with CUDA 12.8 , NVIDIA RTX 5090 in Windows 11",
+    "url": "https://github.com/pytorch/text/issues/2289",
+    "created_at": "2025-04-11T12:56:31Z",
+    "user": "donhuvy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2991322071,
+    "number": 3898,
+    "title": "forcing other not allowed frequencies to be accepted",
+    "url": "https://github.com/pytorch/audio/issues/3898",
+    "created_at": "2025-04-13T15:31:41Z",
+    "user": "andrewessel",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2991492758,
+    "number": 3323,
+    "title": "💡 [REQUEST] - Declare warning in tutorial that following distributed tutorial may expose tcp ports.",
+    "url": "https://github.com/pytorch/tutorials/issues/3323",
+    "created_at": "2025-04-13T21:28:09Z",
+    "user": "Nebulised",
+    "labels": [
+      "distributed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2991632581,
+    "number": 1817,
+    "title": "[BUG] TimeseriesDataset _set_target_normalizer no longer functions as expected for a setter function.",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1817",
+    "created_at": "2025-04-14T01:15:14Z",
+    "user": "arizzuto",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2993060717,
+    "number": 3899,
+    "title": "Segmentation fault (core dumped)  in torchaudio.io.AudioEffector",
+    "url": "https://github.com/pytorch/audio/issues/3899",
+    "created_at": "2025-04-14T13:20:04Z",
+    "user": "LiChenda",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2994890222,
+    "number": 21167,
+    "title": "ZeroDivisionError: integer modulo by zero | multi-device setup",
+    "url": "https://github.com/keras-team/keras/issues/21167",
+    "created_at": "2025-04-15T02:57:53Z",
+    "user": "innat",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2997471188,
+    "number": 3326,
+    "title": "reasoning_about_shapes.py failing with",
+    "url": "https://github.com/pytorch/tutorials/issues/3326",
+    "created_at": "2025-04-15T19:58:35Z",
+    "user": "svekars",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2999163866,
+    "number": 9020,
+    "title": "AttributeError: module 'torch.library' has no attribute 'register_fake'",
+    "url": "https://github.com/pytorch/vision/issues/9020",
+    "created_at": "2025-04-16T10:16:31Z",
+    "user": "WangXinYi111",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3000773416,
+    "number": 3329,
+    "title": "[ONNX] Update tutorials",
+    "url": "https://github.com/pytorch/tutorials/issues/3329",
+    "created_at": "2025-04-16T21:23:28Z",
+    "user": "justinchuby",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3001215258,
+    "number": 3332,
+    "title": "Tutorial mention of batch samples as features?",
+    "url": "https://github.com/pytorch/tutorials/issues/3332",
+    "created_at": "2025-04-17T02:35:14Z",
+    "user": "monaja",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3006222717,
+    "number": 9025,
+    "title": "Setting a 1D tensor to `ToImage()` gets an empty error message",
+    "url": "https://github.com/pytorch/vision/issues/9025",
+    "created_at": "2025-04-19T05:56:00Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3007145633,
+    "number": 1765,
+    "title": "Patching version 0.10.3 to fix invalid_reference_casting for legacy projects",
+    "url": "https://github.com/huggingface/tokenizers/issues/1765",
+    "created_at": "2025-04-20T17:53:57Z",
+    "user": "KTRosenberg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3008604330,
+    "number": 3334,
+    "title": "[BUG] - seq2seq notebook doesnt work with updated dataset anymore",
+    "url": "https://github.com/pytorch/tutorials/issues/3334",
+    "created_at": "2025-04-21T14:55:16Z",
+    "user": "4ydan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3009609884,
+    "number": 9029,
+    "title": "Rotation sampling grid is undesireably low-res",
+    "url": "https://github.com/pytorch/vision/issues/9029",
+    "created_at": "2025-04-22T01:29:15Z",
+    "user": "danielgordon10",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 3009695359,
+    "number": 2290,
+    "title": "images",
+    "url": "https://github.com/pytorch/text/issues/2290",
+    "created_at": "2025-04-22T02:40:04Z",
+    "user": "Wawan-gaming",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3013353406,
+    "number": 1768,
+    "title": "How to debug tokenizers with python?",
+    "url": "https://github.com/huggingface/tokenizers/issues/1768",
+    "created_at": "2025-04-23T09:37:20Z",
+    "user": "JinJieGan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3013738107,
+    "number": 9036,
+    "title": "Update on TorchVision’s future focus",
+    "url": "https://github.com/pytorch/vision/issues/9036",
+    "created_at": "2025-04-23T11:50:07Z",
+    "user": "NicolasHug",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3015963882,
+    "number": 5605,
+    "title": "I tried to convert the model to gguf via llama.cpp",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5605",
+    "created_at": "2025-04-24T04:31:49Z",
+    "user": "Dovegs",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3017467084,
+    "number": 3902,
+    "title": "Update on TorchAudio’s future",
+    "url": "https://github.com/pytorch/audio/issues/3902",
+    "created_at": "2025-04-24T14:20:40Z",
+    "user": "scotts",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3017689755,
+    "number": 21207,
+    "title": "remat : The custom_gradient decorator currently supports keywords arguments only when eager execution is enabled.",
+    "url": "https://github.com/keras-team/keras/issues/21207",
+    "created_at": "2025-04-24T15:38:15Z",
+    "user": "innat",
+    "labels": [
+      "stat:awaiting keras-eng",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3019455874,
+    "number": 2241,
+    "title": "Exported ONNX model files are much larger than expected, compared to the ones created by an older version",
+    "url": "https://github.com/huggingface/optimum/issues/2241",
+    "created_at": "2025-04-25T09:06:20Z",
+    "user": "whitphx",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3019622100,
+    "number": 21210,
+    "title": "Alias `KerasTensor` as `Tensor`",
+    "url": "https://github.com/keras-team/keras/issues/21210",
+    "created_at": "2025-04-25T10:13:41Z",
+    "user": "rivershah",
+    "labels": [
+      "type:feature",
+      "stat:awaiting keras-eng"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3020153353,
+    "number": 2516,
+    "title": "Call for contribution: KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models",
+    "url": "https://github.com/huggingface/peft/issues/2516",
+    "created_at": "2025-04-25T13:59:34Z",
+    "user": "BenjaminBossan",
+    "labels": [
+      "wip"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3025045200,
+    "number": 3347,
+    "title": "Size Mismatch",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3347",
+    "created_at": "2025-04-28T14:00:45Z",
+    "user": "BellChai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3025211099,
+    "number": 5606,
+    "title": "can't install on google colab",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5606",
+    "created_at": "2025-04-28T14:53:02Z",
+    "user": "cgiturtle",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3026462615,
+    "number": 5607,
+    "title": "Question about fine-tuning NLLB for Mi'kmaq language (Indigenous Canadian language)",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5607",
+    "created_at": "2025-04-28T23:06:18Z",
+    "user": "bearsharktopus-dev",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3028689299,
+    "number": 9042,
+    "title": "Make the C++ backend of the torchvision wheel usable for C++ development",
+    "url": "https://github.com/pytorch/vision/issues/9042",
+    "created_at": "2025-04-29T15:04:25Z",
+    "user": "agirault",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3029903394,
+    "number": 3348,
+    "title": "NoDuplicatesBatchSampler __len__ method returns higher number of batches than the actual one",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3348",
+    "created_at": "2025-04-30T01:52:16Z",
+    "user": "chunlexiong-ai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3029990140,
+    "number": 9043,
+    "title": "Setting the tensors and ndarrays of the 2, 3 and 4 channels of `int64` and `int32` to `ToPILImage()` with `None` for `mode` argument gets errors",
+    "url": "https://github.com/pytorch/vision/issues/9043",
+    "created_at": "2025-04-30T03:11:34Z",
+    "user": "hyperkai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3030622837,
+    "number": 3542,
+    "title": "RuntimeError: Tensor on device meta is not on the expected device cuda:0!",
+    "url": "https://github.com/huggingface/accelerate/issues/3542",
+    "created_at": "2025-04-30T09:01:06Z",
+    "user": "nitinmukesh",
+    "labels": [
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3030765315,
+    "number": 9046,
+    "title": "ssd lite models cannot use cocoeval such as map and ap but faster rccn models can run well.",
+    "url": "https://github.com/pytorch/vision/issues/9046",
+    "created_at": "2025-04-30T09:53:32Z",
+    "user": "muhamadnursyami",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3030766316,
+    "number": 21228,
+    "title": "Keras 3 may not work with PyTorch DirectML",
+    "url": "https://github.com/keras-team/keras/issues/21228",
+    "created_at": "2025-04-30T09:53:56Z",
+    "user": "TaiXeflar",
+    "labels": [
+      "stat:contributions welcome",
+      "stale",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3031075563,
+    "number": 5608,
+    "title": "Fine-tuning facebook/mms-tts-{lang_code} model using Fairseq",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5608",
+    "created_at": "2025-04-30T12:05:12Z",
+    "user": "IbratDO",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3032676290,
+    "number": 21234,
+    "title": "LayerNormalization with rms_scaling documentation is different from implementation",
+    "url": "https://github.com/keras-team/keras/issues/21234",
+    "created_at": "2025-04-30T22:18:34Z",
+    "user": "mzhukova",
+    "labels": [
+      "type:docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3033933783,
+    "number": 3348,
+    "title": "Issues with documentation",
+    "url": "https://github.com/pytorch/tutorials/issues/3348",
+    "created_at": "2025-04-30T06:18:29Z",
+    "user": "acampove",
+    "labels": [
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3158725682,
+    "number": 1803,
+    "title": "Proposal for Optimizing transformers.BertTokenizerFast",
+    "url": "https://github.com/huggingface/tokenizers/issues/1803",
+    "created_at": "2025-04-02T08:48:30Z",
+    "user": "springkim",
+    "labels": [
+      "Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "repo": "pytorch/text",
+    "id": 2826168715,
+    "number": 2283,
+    "title": "import torchtext fails",
+    "url": "https://github.com/pytorch/text/issues/2283",
+    "created_at": "2025-02-03T01:20:48Z",
+    "user": "JuanVargas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2834100301,
+    "number": 2284,
+    "title": "torch text is not being imported",
+    "url": "https://github.com/pytorch/text/issues/2284",
+    "created_at": "2025-02-05T22:35:56Z",
+    "user": "Arpon-programmer",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2834356208,
+    "number": 3877,
+    "title": "[binary builds] torchaudio Windows cuda nightly builds are failing since 01.29.2025",
+    "url": "https://github.com/pytorch/audio/issues/3877",
+    "created_at": "2025-02-06T02:12:51Z",
+    "user": "atalman",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2843620160,
+    "number": 1766,
+    "title": "[ENH] rework `TimeSeriesDataSet` using `LightningDataModule` - experimental",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1766",
+    "created_at": "2025-02-10T20:58:49Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2844934594,
+    "number": 1767,
+    "title": "Does TFT model use the ground truth of target during testing?",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1767",
+    "created_at": "2025-02-11T10:16:31Z",
+    "user": "zzhuqshun",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2850709175,
+    "number": 1768,
+    "title": "[BUG] TFT training loop unable to run with Mac MPS",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1768",
+    "created_at": "2025-02-13T11:04:18Z",
+    "user": "JeremyKulcsarDS",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2850883642,
+    "number": 2188,
+    "title": "no __version__ attribute",
+    "url": "https://github.com/huggingface/optimum/issues/2188",
+    "created_at": "2025-02-13T12:20:54Z",
+    "user": "umbilnm",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2851787885,
+    "number": 2189,
+    "title": "PEFT to ONNX conversion",
+    "url": "https://github.com/huggingface/optimum/issues/2189",
+    "created_at": "2025-02-13T18:21:05Z",
+    "user": "morteza89",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 2853431222,
+    "number": 1095,
+    "title": "Implement sklearn API Metadata routing",
+    "url": "https://github.com/skorch-dev/skorch/issues/1095",
+    "created_at": "2025-02-14T11:30:02Z",
+    "user": "DCoupry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2856534714,
+    "number": 3880,
+    "title": "Biquad functions not seemingly compatible with autocast with bfloat16",
+    "url": "https://github.com/pytorch/audio/issues/3880",
+    "created_at": "2025-02-17T02:09:59Z",
+    "user": "pokepress",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2861036201,
+    "number": 3882,
+    "title": "Regarding the issue of building torchaudio from source on Nvidia Jetson AGX Orin 64G",
+    "url": "https://github.com/pytorch/audio/issues/3882",
+    "created_at": "2025-02-18T16:50:20Z",
+    "user": "formioq",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2866493063,
+    "number": 1771,
+    "title": "[ENH] building a systematic test suite for models",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1771",
+    "created_at": "2025-02-20T15:21:29Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 2867249985,
+    "number": 1096,
+    "title": "Transfer skorch models from CUDA to CPU for inference",
+    "url": "https://github.com/skorch-dev/skorch/issues/1096",
+    "created_at": "2025-02-20T20:55:40Z",
+    "user": "lukethomrichardson",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2868175749,
+    "number": 1738,
+    "title": "ERROR occurs when running \"tokenizer._tokenizer.model.clear_cache()\"",
+    "url": "https://github.com/huggingface/tokenizers/issues/1738",
+    "created_at": "2025-02-21T06:52:20Z",
+    "user": "nixonjin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2868388784,
+    "number": 1772,
+    "title": "[BUG] `best_tft.plot_prediction(new_x, new_raw_predictions, idx=idx, show_future_observed=False)` is not working for me",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1772",
+    "created_at": "2025-02-21T08:42:21Z",
+    "user": "ash1407",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2871249478,
+    "number": 1778,
+    "title": "[API] Review `pytorch-timeseries` for dataset and dataloader design and models",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1778",
+    "created_at": "2025-02-22T19:43:45Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2871698598,
+    "number": 1779,
+    "title": "[API] Review `tsai` for dataset and dataloader design and models",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1779",
+    "created_at": "2025-02-22T21:27:30Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2873299270,
+    "number": 1781,
+    "title": "[BUG] failures are not listed at end of CI log",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1781",
+    "created_at": "2025-02-23T16:06:51Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2877793665,
+    "number": 2200,
+    "title": "Bug exporting Whisper?",
+    "url": "https://github.com/huggingface/optimum/issues/2200",
+    "created_at": "2025-02-25T09:45:02Z",
+    "user": "AlArgente",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2878770590,
+    "number": 3887,
+    "title": "Add Positional Encoding in Conformer Implementation",
+    "url": "https://github.com/pytorch/audio/issues/3887",
+    "created_at": "2025-02-25T15:29:40Z",
+    "user": "Deep-unlearning",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2885714298,
+    "number": 2202,
+    "title": "Issue when converting Exaone 3.0 7.8B model",
+    "url": "https://github.com/huggingface/optimum/issues/2202",
+    "created_at": "2025-02-27T22:10:50Z",
+    "user": "Zhaeong",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2887586110,
+    "number": 5597,
+    "title": "overfitting in speech recognition task",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5597",
+    "created_at": "2025-02-28T16:26:46Z",
+    "user": "itsmekhoathekid",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

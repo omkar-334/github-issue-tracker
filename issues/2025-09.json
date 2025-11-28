@@ -1,0 +1,845 @@
+[
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3375440162,
+    "number": 3510,
+    "title": "Question on model loading",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3510",
+    "created_at": "2025-09-02T10:34:56Z",
+    "user": "KennethEnevoldsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3377253538,
+    "number": 9203,
+    "title": "torchvision.ops.nms doesn't work with cuda12.9",
+    "url": "https://github.com/pytorch/vision/issues/9203",
+    "created_at": "2025-09-02T19:31:47Z",
+    "user": "zhumakhan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 3379159836,
+    "number": 1120,
+    "title": "Precision of model when using GridSearchCV?",
+    "url": "https://github.com/skorch-dev/skorch/issues/1120",
+    "created_at": "2025-09-03T09:52:25Z",
+    "user": "nafraw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3381322879,
+    "number": 3512,
+    "title": "[BUG] Error in serialization when writing results to csv using Sparse Encoder Information Retrieval evaluator",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3512",
+    "created_at": "2025-09-03T21:15:22Z",
+    "user": "nadshe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3381831487,
+    "number": 7753,
+    "title": "datasets massively slows data reads, even in memory",
+    "url": "https://github.com/huggingface/datasets/issues/7753",
+    "created_at": "2025-09-04T01:45:24Z",
+    "user": "lrast",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3385555058,
+    "number": 9206,
+    "title": "TORCHVISION and TORCH ARM Wheels Date Mismatch",
+    "url": "https://github.com/pytorch/vision/issues/9206",
+    "created_at": "2025-09-04T21:39:53Z",
+    "user": "nWEIdia",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3385999383,
+    "number": 5634,
+    "title": "Add support for Python 3.12+",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5634",
+    "created_at": "2025-09-05T01:37:55Z",
+    "user": "akki",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3387076693,
+    "number": 7756,
+    "title": "datasets.map(f, num_proc=N) hangs with N>1 when run on import",
+    "url": "https://github.com/huggingface/datasets/issues/7756",
+    "created_at": "2025-09-05T10:32:01Z",
+    "user": "arjunguha",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3389535011,
+    "number": 7757,
+    "title": "Add support for `.conll` file format in datasets",
+    "url": "https://github.com/huggingface/datasets/issues/7757",
+    "created_at": "2025-09-06T07:25:39Z",
+    "user": "namesarnav",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3389939699,
+    "number": 4094,
+    "title": "Gammatone Filterbanks and Gammatone Spectrogram",
+    "url": "https://github.com/pytorch/audio/issues/4094",
+    "created_at": "2025-09-06T11:00:11Z",
+    "user": "SammyZT",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3391402299,
+    "number": 2349,
+    "title": "RuntimeError: ScalarType ComplexDouble is an unexpected tensor scalar type",
+    "url": "https://github.com/huggingface/optimum/issues/2349",
+    "created_at": "2025-09-07T09:21:07Z",
+    "user": "capyun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3392575638,
+    "number": 3515,
+    "title": "Not able to export Qwen/Qwen3-Embedding-0.6B with Openvino backend",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3515",
+    "created_at": "2025-09-08T04:41:49Z",
+    "user": "santhoshtr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3395282235,
+    "number": 21642,
+    "title": "Request for non-cumulative prediction options",
+    "url": "https://github.com/keras-team/keras/issues/21642",
+    "created_at": "2025-09-08T18:45:17Z",
+    "user": "ErfanMowlaei",
+    "labels": [
+      "type:bug/performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3395590783,
+    "number": 7758,
+    "title": "Option for Anonymous Dataset link",
+    "url": "https://github.com/huggingface/datasets/issues/7758",
+    "created_at": "2025-09-08T20:20:10Z",
+    "user": "egrace479",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3397033293,
+    "number": 2351,
+    "title": "ONNX export fails for Qwen/Qwen3-4B-Thinking-2507 with RuntimeError",
+    "url": "https://github.com/huggingface/optimum/issues/2351",
+    "created_at": "2025-09-09T07:25:53Z",
+    "user": "MrBobertus",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3398099513,
+    "number": 7759,
+    "title": "Comment/feature request: Huggingface 502s from GHA",
+    "url": "https://github.com/huggingface/datasets/issues/7759",
+    "created_at": "2025-09-09T11:59:20Z",
+    "user": "Scott-Simmons",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3398841774,
+    "number": 21647,
+    "title": "'jit_compile=True' raises InternalTorchDynamoError with EfficientNetV2 models on torch backend.",
+    "url": "https://github.com/keras-team/keras/issues/21647",
+    "created_at": "2025-09-09T14:58:39Z",
+    "user": "Doch88",
+    "labels": [
+      "type:Bug",
+      "backend:torch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3400720279,
+    "number": 21653,
+    "title": "Pin progress bars at the top while training",
+    "url": "https://github.com/keras-team/keras/issues/21653",
+    "created_at": "2025-09-10T03:11:01Z",
+    "user": "abheesht17",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3401799485,
+    "number": 7760,
+    "title": "Hugging Face Hub Dataset Upload CAS Error",
+    "url": "https://github.com/huggingface/datasets/issues/7760",
+    "created_at": "2025-09-10T10:01:19Z",
+    "user": "n-bkoe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3402932023,
+    "number": 21655,
+    "title": "ValueError: Invalid dtype: property object - `ops.prod` with `layers.Dense`",
+    "url": "https://github.com/keras-team/keras/issues/21655",
+    "created_at": "2025-09-10T15:29:08Z",
+    "user": "innat",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3403019367,
+    "number": 3551,
+    "title": "[BUG] unable to compile f3 in torch.compile tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3551",
+    "created_at": "2025-09-10T15:59:05Z",
+    "user": "tttiago",
+    "labels": [
+      "bug",
+      "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3407980515,
+    "number": 1863,
+    "title": "WordPiece can't always avoid <unk> even with ByteLevel pretokenization.",
+    "url": "https://github.com/huggingface/tokenizers/issues/1863",
+    "created_at": "2025-09-11T20:42:22Z",
+    "user": "craigschmidt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3411611165,
+    "number": 7766,
+    "title": "cast columns to Image/Audio/Video with `storage_options`",
+    "url": "https://github.com/huggingface/datasets/issues/7766",
+    "created_at": "2025-09-12T18:51:01Z",
+    "user": "ain-soph",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3411654444,
+    "number": 7767,
+    "title": "Custom `dl_manager` in `load_dataset`",
+    "url": "https://github.com/huggingface/datasets/issues/7767",
+    "created_at": "2025-09-12T19:06:23Z",
+    "user": "ain-soph",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3413235057,
+    "number": 9215,
+    "title": "MixUp and CutMix transforms for semantic segmentation",
+    "url": "https://github.com/pytorch/vision/issues/9215",
+    "created_at": "2025-09-13T11:23:35Z",
+    "user": "vedantdalimkar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3416103662,
+    "number": 21666,
+    "title": "`.compile` throws `ValueError: Could not interpret optimizer identifier: <keras.src.optimizers.adam.Adam object at 0x7f419cfc5010>`",
+    "url": "https://github.com/keras-team/keras/issues/21666",
+    "created_at": "2025-09-15T03:13:19Z",
+    "user": "khteh",
+    "labels": [
+      "type:support",
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3416183589,
+    "number": 5636,
+    "title": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss xmlns:g=\"http://base.google.com/ns/1.0\" version=\"2.0\">   <channel>     <title>Your Facebook Page Product Catalog</title>     <link>https://www.yourwebsite.com</link>     <description>Products for Facebook Shop</description>          <item>       <g:id>product-123</g:id>       <g:title>Example T-Shirt</g:title>       <g:description>Comfortable cotton t-shirt in various sizes.</g:description>       <g:link>https://www.yourwebsite.com/product/example-t-shirt</g:link>       <g:image_link>https://www.yourwebsite.com/images/tshirt.jpg</g:image_link>       <g:condition>new</g:condition>       <g:availability>in stock</g:availability>       <g:price>19.99 USD</g:price>       <g:brand>Example Brand</g:brand>       <g:gtin>1234567890123</g:gtin>       <g:google_product_category>Apparel & Accessories > Clothing > Tops</g:google_product_category>     </item>          <!-- Add more <item> elements for additional products -->        </channel> </rss>",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5636",
+    "created_at": "2025-09-15T04:00:14Z",
+    "user": "Dacharles3310",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3417353751,
+    "number": 7772,
+    "title": "Error processing scalar columns using tensorflow.",
+    "url": "https://github.com/huggingface/datasets/issues/7772",
+    "created_at": "2025-09-15T10:36:31Z",
+    "user": "khteh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3422109800,
+    "number": 9221,
+    "title": "`PILToTensor` input shape description is wrong/confusing",
+    "url": "https://github.com/pytorch/vision/issues/9221",
+    "created_at": "2025-09-16T12:35:32Z",
+    "user": "nicolasdumitru",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3422555075,
+    "number": 3517,
+    "title": "Let Evaluators return or store the generated embeddings.",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3517",
+    "created_at": "2025-09-16T14:31:09Z",
+    "user": "benHeid",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3423715774,
+    "number": 3569,
+    "title": "Feedback about What is torch.nn really?",
+    "url": "https://github.com/pytorch/tutorials/issues/3569",
+    "created_at": "2025-09-16T20:51:42Z",
+    "user": "robertbcalhoun",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3425273496,
+    "number": 9222,
+    "title": "Ignore index functionality missing in MixUp",
+    "url": "https://github.com/pytorch/vision/issues/9222",
+    "created_at": "2025-09-17T08:35:36Z",
+    "user": "vedantdalimkar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3427323569,
+    "number": 21676,
+    "title": "Differences in Model Weight Behavior Between Keras 2.15 and Keras 3",
+    "url": "https://github.com/keras-team/keras/issues/21676",
+    "created_at": "2025-09-17T18:18:25Z",
+    "user": "edwardyehuang",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3427513065,
+    "number": 1970,
+    "title": "[ENH] Add support for `nn` losses to `ptf-v2`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1970",
+    "created_at": "2025-09-17T19:19:16Z",
+    "user": "phoeenniixx",
+    "labels": [
+      "enhancement",
+      "module:metrics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3432436220,
+    "number": 3518,
+    "title": "MultipleNegativesRankingLoss applies Sigmoid to logits before CE by default - rationale vs. InfoNCE literature?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3518",
+    "created_at": "2025-09-19T02:05:45Z",
+    "user": "roycho96",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3432981465,
+    "number": 3519,
+    "title": "tokenizers isn't listed in dependencies in pyproject.toml",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3519",
+    "created_at": "2025-09-19T06:04:27Z",
+    "user": "yurivict",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3433232858,
+    "number": 3520,
+    "title": "tests fail with: ModuleNotFoundError: No module named 'tests.utils'",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3520",
+    "created_at": "2025-09-19T07:31:29Z",
+    "user": "yurivict",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3436086380,
+    "number": 3579,
+    "title": "💡 The Warmstarting model tutorial needs to be updated",
+    "url": "https://github.com/pytorch/tutorials/issues/3579",
+    "created_at": "2025-09-19T22:31:51Z",
+    "user": "sanyalsunny111",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3437441111,
+    "number": 3580,
+    "title": "Issue: Incorrect `requires_grad` in the last diagram",
+    "url": "https://github.com/pytorch/tutorials/issues/3580",
+    "created_at": "2025-09-20T19:30:15Z",
+    "user": "gggboy-9527",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3437654226,
+    "number": 3581,
+    "title": "Feedback about Parametrizations Tutorial",
+    "url": "https://github.com/pytorch/tutorials/issues/3581",
+    "created_at": "2025-09-21T00:21:09Z",
+    "user": "pentanol2",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3441092241,
+    "number": 3522,
+    "title": "Custom Cross Encoder model training",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3522",
+    "created_at": "2025-09-22T13:46:06Z",
+    "user": "ShreyGanatra",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3441737824,
+    "number": 3583,
+    "title": "Dynamic Quantization Tutorial is missing",
+    "url": "https://github.com/pytorch/tutorials/issues/3583",
+    "created_at": "2025-09-22T14:37:02Z",
+    "user": "Daniel-Ehrhardt",
+    "labels": [
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3445233323,
+    "number": 3584,
+    "title": "Feedback about Asynchronous Saving with Distributed Checkpoint (DCP)",
+    "url": "https://github.com/pytorch/tutorials/issues/3584",
+    "created_at": "2025-09-23T13:07:21Z",
+    "user": "lebrice",
+    "labels": [
+      "module: distributed_checkpoint",
+      "page-feedback"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3445508776,
+    "number": 3523,
+    "title": "AttributeError: 'Transformer' object has no attribute 'model_forward_params'",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3523",
+    "created_at": "2025-09-23T14:21:51Z",
+    "user": "AmitPoonia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3448673563,
+    "number": 21690,
+    "title": "GPU/TPU/memory not releasing",
+    "url": "https://github.com/keras-team/keras/issues/21690",
+    "created_at": "2025-09-24T10:04:29Z",
+    "user": "pctablet505",
+    "labels": [
+      "stat:awaiting keras-eng",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3449065118,
+    "number": 32263,
+    "title": "marimo for WASM notebooks",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32263",
+    "created_at": "2025-09-24T11:43:17Z",
+    "user": "koaning",
+    "labels": [
+      "Documentation",
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3450543613,
+    "number": 1868,
+    "title": "How to set the cache_dir in the Rust implementation?",
+    "url": "https://github.com/huggingface/tokenizers/issues/1868",
+    "created_at": "2025-09-24T18:50:38Z",
+    "user": "sambaPython24",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3450913796,
+    "number": 7788,
+    "title": "`Dataset.to_sql` doesn't utilize `num_proc`",
+    "url": "https://github.com/huggingface/datasets/issues/7788",
+    "created_at": "2025-09-24T20:34:47Z",
+    "user": "tcsmaster",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3451133155,
+    "number": 9227,
+    "title": "\"Undefined symbol\" error when using `decode_heic`.",
+    "url": "https://github.com/pytorch/vision/issues/9227",
+    "created_at": "2025-09-24T22:02:08Z",
+    "user": "djpetti",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3453566553,
+    "number": 3526,
+    "title": "numpy not available",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3526",
+    "created_at": "2025-09-25T13:10:08Z",
+    "user": "gg4u",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3457249841,
+    "number": 32279,
+    "title": "Wheels CI hang with macOS x86_64 (aka Intel) with scipy 1.16.2",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32279",
+    "created_at": "2025-09-26T11:54:04Z",
+    "user": "lesteve",
+    "labels": [
+      "Bug",
+      "Build / CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3458633226,
+    "number": 9233,
+    "title": "Fails to build with ffmpeg 8",
+    "url": "https://github.com/pytorch/vision/issues/9233",
+    "created_at": "2025-09-26T18:07:35Z",
+    "user": "lfos",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3458728390,
+    "number": 1974,
+    "title": "[ENH] Work Items for `ptf-v2`",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1974",
+    "created_at": "2025-09-26T18:42:59Z",
+    "user": "phoeenniixx",
+    "labels": [
+      "enhancement",
+      "API design"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3459496971,
+    "number": 7793,
+    "title": "Cannot load dataset, fails with nested data conversions not implemented for chunked array outputs",
+    "url": "https://github.com/huggingface/datasets/issues/7793",
+    "created_at": "2025-09-27T01:03:12Z",
+    "user": "neevparikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3459974152,
+    "number": 3531,
+    "title": "Can't use Deepspeed in Sentence-transformers",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3531",
+    "created_at": "2025-09-27T08:24:43Z",
+    "user": "mrpeerat",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3461913303,
+    "number": 3598,
+    "title": "Feedback about Tensors",
+    "url": "https://github.com/pytorch/tutorials/issues/3598",
+    "created_at": "2025-09-28T13:52:25Z",
+    "user": "d4v1d-0l4v3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3462052153,
+    "number": 32289,
+    "title": "DOC: specify behavior of `_weighted_percentile` with `average=True`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32289",
+    "created_at": "2025-09-28T15:09:33Z",
+    "user": "cakedev0",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3465971011,
+    "number": 21700,
+    "title": "Nested outputs structures and corresponding nested losses are supported, but not nested metrics",
+    "url": "https://github.com/keras-team/keras/issues/21700",
+    "created_at": "2025-09-29T17:44:43Z",
+    "user": "hertschuh",
+    "labels": [
+      "stat:contributions welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3469594379,
+    "number": 3801,
+    "title": "os.env/torch.cuda.empty_cache are not thread safe",
+    "url": "https://github.com/huggingface/accelerate/issues/3801",
+    "created_at": "2025-09-30T13:50:18Z",
+    "user": "Qubitium",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3471288105,
+    "number": 1871,
+    "title": "Add Middle-Truncation Option to Tokenizer",
+    "url": "https://github.com/huggingface/tokenizers/issues/1871",
+    "created_at": "2025-09-30T22:40:10Z",
+    "user": "mxngjxa",
+    "labels": [
+      "Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

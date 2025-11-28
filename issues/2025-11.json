@@ -1,0 +1,4265 @@
+[
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3576990063,
+    "number": 12568,
+    "title": "Context parallel bug when using QwenImage",
+    "url": "https://github.com/huggingface/diffusers/issues/12568",
+    "created_at": "2025-11-01T01:38:15Z",
+    "user": "sayakpaul",
+    "labels": [
+      "Good second issue",
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3576996824,
+    "number": 12569,
+    "title": "[feature] implement TaylorSeer",
+    "url": "https://github.com/huggingface/diffusers/issues/12569",
+    "created_at": "2025-11-01T01:43:00Z",
+    "user": "sayakpaul",
+    "labels": [
+      "contributions-welcome",
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3576999996,
+    "number": 12570,
+    "title": "[feature] help us implement unified attention",
+    "url": "https://github.com/huggingface/diffusers/issues/12570",
+    "created_at": "2025-11-01T01:45:29Z",
+    "user": "sayakpaul",
+    "labels": [
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3577016584,
+    "number": 21806,
+    "title": "LSTM model failed on macos",
+    "url": "https://github.com/keras-team/keras/issues/21806",
+    "created_at": "2025-11-01T01:57:21Z",
+    "user": "Lizhen0909",
+    "labels": [
+      "stat:awaiting response from contributor",
+      "stale",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3577114550,
+    "number": 2885,
+    "title": "PeftModel.from_pretrained and merge_and_unload don't work good for me",
+    "url": "https://github.com/huggingface/peft/issues/2885",
+    "created_at": "2025-11-01T03:17:54Z",
+    "user": "shahelaojieraozhi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3577267768,
+    "number": 3825,
+    "title": "Error generating example: 'weight' must be 2-D in model.generate()",
+    "url": "https://github.com/huggingface/accelerate/issues/3825",
+    "created_at": "2025-11-01T05:19:20Z",
+    "user": "yurkoff-mv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3577501753,
+    "number": 21808,
+    "title": "Failed to apply Splash kernel for flash attention.",
+    "url": "https://github.com/keras-team/keras/issues/21808",
+    "created_at": "2025-11-01T08:25:18Z",
+    "user": "telecomadm1145",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3578131362,
+    "number": 3826,
+    "title": "Accelerate save_state() error using FSDP2/TP",
+    "url": "https://github.com/huggingface/accelerate/issues/3826",
+    "created_at": "2025-11-01T15:43:13Z",
+    "user": "gmintoco",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3578138076,
+    "number": 3827,
+    "title": "Accelerate mixed torch.Tensor and DTensor error when using TE FP8 and FSDP/TP",
+    "url": "https://github.com/huggingface/accelerate/issues/3827",
+    "created_at": "2025-11-01T15:51:49Z",
+    "user": "gmintoco",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3578267102,
+    "number": 21813,
+    "title": "[Feature Request] Add AdaptivePooling - Avg/Max",
+    "url": "https://github.com/keras-team/keras/issues/21813",
+    "created_at": "2025-11-01T18:05:31Z",
+    "user": "innat",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3578403434,
+    "number": 12572,
+    "title": "Chroma inpainting pipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12572",
+    "created_at": "2025-11-01T20:18:16Z",
+    "user": "rodjjo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3579051268,
+    "number": 32631,
+    "title": "CI cp313t intermittent failure `UserWarning: sklearn.utils.parallel.delayed should be used with sklearn.utils.parallel.Parallel`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32631",
+    "created_at": "2025-11-02T07:25:07Z",
+    "user": "lesteve",
+    "labels": [
+      "Build / CI",
+      "free-threading"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3579360444,
+    "number": 9033,
+    "title": "[BUG] `test_pred_int_tag` fails on some edge cases where it should pass",
+    "url": "https://github.com/sktime/sktime/issues/9033",
+    "created_at": "2025-11-02T09:57:13Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3579369852,
+    "number": 3558,
+    "title": "Support of `LiquidAI/LFM2-ColBERT-350M`",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3558",
+    "created_at": "2025-11-02T10:04:00Z",
+    "user": "MohamedAliRashad",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3580872005,
+    "number": 3829,
+    "title": "Does Accelerate automatically set the DataLoader’s sampler to a DistributedSampler?",
+    "url": "https://github.com/huggingface/accelerate/issues/3829",
+    "created_at": "2025-11-03T07:17:29Z",
+    "user": "caixxiong",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3581687706,
+    "number": 2886,
+    "title": "[FEAT] Integrate QeRL (NVFP4 + LoRA + Noise scheduler) into PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2886",
+    "created_at": "2025-11-03T11:42:37Z",
+    "user": "Aaronhuang-778",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3582121192,
+    "number": 9037,
+    "title": "[DOC] Add a clear example showing ForecastingPipeline with transformer + forecaster combination",
+    "url": "https://github.com/sktime/sktime/issues/9037",
+    "created_at": "2025-11-03T13:41:46Z",
+    "user": "Harihara04sudhan",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3582487671,
+    "number": 9039,
+    "title": "[ENH] Add scoring by index capability to `evaluate`",
+    "url": "https://github.com/sktime/sktime/issues/9039",
+    "created_at": "2025-11-03T15:09:18Z",
+    "user": "marrov",
+    "labels": [
+      "feature request",
+      "enhancement",
+      "module:metrics&benchmarking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3582856661,
+    "number": 3559,
+    "title": "Disable all progress bars - how?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3559",
+    "created_at": "2025-11-03T16:38:06Z",
+    "user": "rq-aszasz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3583124124,
+    "number": 3830,
+    "title": "Torchao fp8 fails if using accelerate config file with Trainer",
+    "url": "https://github.com/huggingface/accelerate/issues/3830",
+    "created_at": "2025-11-03T17:53:33Z",
+    "user": "shimizust",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3584337698,
+    "number": 2889,
+    "title": "`autocast_adapter_dtype=False` doesn't work when the model is quantized",
+    "url": "https://github.com/huggingface/peft/issues/2889",
+    "created_at": "2025-11-04T01:25:45Z",
+    "user": "qgallouedec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3584450005,
+    "number": 2383,
+    "title": "qwen3 static quantization error: Load model from augmented_model.onnx failed:Protobuf parsing failed",
+    "url": "https://github.com/huggingface/optimum/issues/2383",
+    "created_at": "2025-11-04T02:18:02Z",
+    "user": "lansexinhu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3585221337,
+    "number": 2892,
+    "title": "Using trl SFTTrainer creates empty adapter.safetensors file while saving when training with LoRA and Deepspeed Zero3",
+    "url": "https://github.com/huggingface/peft/issues/2892",
+    "created_at": "2025-11-04T08:09:23Z",
+    "user": "maximus-21",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3585504222,
+    "number": 12588,
+    "title": "Allowing other timestep_spacing heuristics for repaint scheduler. Leading in general is a problematic default.",
+    "url": "https://github.com/huggingface/diffusers/issues/12588",
+    "created_at": "2025-11-04T09:10:15Z",
+    "user": "MarkTension",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3585690814,
+    "number": 12589,
+    "title": "[feature] implement TeaCache",
+    "url": "https://github.com/huggingface/diffusers/issues/12589",
+    "created_at": "2025-11-04T09:46:26Z",
+    "user": "sayakpaul",
+    "labels": [
+      "contributions-welcome",
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3586417274,
+    "number": 9041,
+    "title": "[DOC] Add Tutorial Notebook: Causal Forecasting with `make_causal_pricing`, `DoubleMLForecaster` and `OosForecaster`",
+    "url": "https://github.com/sktime/sktime/issues/9041",
+    "created_at": "2025-11-04T12:40:38Z",
+    "user": "geetu040",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3587162078,
+    "number": 3561,
+    "title": "Confusing message when not having enough space on device",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3561",
+    "created_at": "2025-11-04T15:47:56Z",
+    "user": "KennethEnevoldsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 3589010133,
+    "number": 5640,
+    "title": "CPU OOM when pretraining hubert",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5640",
+    "created_at": "2025-11-05T03:19:55Z",
+    "user": "VJJJJJJ1",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3590615868,
+    "number": 21822,
+    "title": "Add RandomResizedCrop",
+    "url": "https://github.com/keras-team/keras/issues/21822",
+    "created_at": "2025-11-05T11:41:17Z",
+    "user": "innat",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3591156149,
+    "number": 9257,
+    "title": "Type hints of torchvision are not constistent with implementation",
+    "url": "https://github.com/pytorch/vision/issues/9257",
+    "created_at": "2025-11-05T13:43:43Z",
+    "user": "dimidagd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3591599629,
+    "number": 2898,
+    "title": "LORA adapter with new embedding tokens has size and load issue",
+    "url": "https://github.com/huggingface/peft/issues/2898",
+    "created_at": "2025-11-05T15:22:43Z",
+    "user": "imohitmayank",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3591796975,
+    "number": 2899,
+    "title": "Prompt tuning for VLMs like Qwen2.5VL",
+    "url": "https://github.com/huggingface/peft/issues/2899",
+    "created_at": "2025-11-05T16:12:11Z",
+    "user": "Martin9797",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3592290885,
+    "number": 3562,
+    "title": "ONNX backend does not work when cache_folder is specified and local_files_only is True",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3562",
+    "created_at": "2025-11-05T18:24:39Z",
+    "user": "lcorcodilos",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3592491160,
+    "number": 12597,
+    "title": "[i8n-pt] Updating, improving and expanding current PT translation",
+    "url": "https://github.com/huggingface/diffusers/issues/12597",
+    "created_at": "2025-11-05T19:27:53Z",
+    "user": "cdutr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3593024327,
+    "number": 12599,
+    "title": "Moving to CUDA after loading is extremely slow",
+    "url": "https://github.com/huggingface/diffusers/issues/12599",
+    "created_at": "2025-11-05T22:19:20Z",
+    "user": "francois-rozet",
+    "labels": [
+      "enhancement",
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3594607534,
+    "number": 12600,
+    "title": "Add KV Cache for Autoregressive Inference",
+    "url": "https://github.com/huggingface/diffusers/issues/12600",
+    "created_at": "2025-11-06T08:03:55Z",
+    "user": "DN6",
+    "labels": [
+      "contributions-welcome",
+      "advanced",
+      "consider-for-modular-diffusers",
+      "modular-diffusers"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3594688135,
+    "number": 3563,
+    "title": "Set the eos_token_id to 151645, the output of model.tokenizer is 151643",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3563",
+    "created_at": "2025-11-06T08:28:14Z",
+    "user": "springchuntian",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3594821795,
+    "number": 32661,
+    "title": "DOC Create triage guide in maintainer documentation",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32661",
+    "created_at": "2025-11-06T09:06:00Z",
+    "user": "betatim",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3596764912,
+    "number": 3833,
+    "title": "notebook_launcher Kaggle RuntimeError: CUDA error: initialization error",
+    "url": "https://github.com/huggingface/accelerate/issues/3833",
+    "created_at": "2025-11-06T17:18:28Z",
+    "user": "dinhngoc267",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 3598668379,
+    "number": 1122,
+    "title": "NeuralNetClassifier doesn't fit to a `skorch.dataset.Dataset` with the default `train_split`",
+    "url": "https://github.com/skorch-dev/skorch/issues/1122",
+    "created_at": "2025-11-07T04:35:37Z",
+    "user": "edschofield",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3598847583,
+    "number": 12603,
+    "title": "[feature] Add context parallel cp_plan support to many mainstream models",
+    "url": "https://github.com/huggingface/diffusers/issues/12603",
+    "created_at": "2025-11-07T05:54:49Z",
+    "user": "DefTruth",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3599335576,
+    "number": 12605,
+    "title": "dispatch_attention_fn silently ignores attn_mask for certain backends",
+    "url": "https://github.com/huggingface/diffusers/issues/12605",
+    "created_at": "2025-11-07T08:54:04Z",
+    "user": "zzlol63",
+    "labels": [
+      "bug",
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3600268407,
+    "number": 12610,
+    "title": "Quanto + Group Offload causes device mismatch error (weights on cpu, mat1 on gpu)",
+    "url": "https://github.com/huggingface/diffusers/issues/12610",
+    "created_at": "2025-11-07T13:07:13Z",
+    "user": "bghira",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3601748125,
+    "number": 3564,
+    "title": "CachedMultipleNegativesRankingLoss + MPS is broken",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3564",
+    "created_at": "2025-11-07T19:37:51Z",
+    "user": "morrisalp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3603269688,
+    "number": 32675,
+    "title": "Feature Request: Add explained variance ratios for X and Y to `PLSRegression`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32675",
+    "created_at": "2025-11-08T09:40:11Z",
+    "user": "paucablop",
+    "labels": [
+      "New Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3603474351,
+    "number": 12613,
+    "title": "wan 2.2 cause nan in latent in i2v",
+    "url": "https://github.com/huggingface/diffusers/issues/12613",
+    "created_at": "2025-11-08T11:57:35Z",
+    "user": "chaowenguo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3604964782,
+    "number": 9049,
+    "title": "[BUG] sigmoid hidden activation in CNN network, classifier & regressor",
+    "url": "https://github.com/sktime/sktime/issues/9049",
+    "created_at": "2025-11-09T13:13:04Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3605128083,
+    "number": 1990,
+    "title": "[ENH] Sub-Optimal `FullAttention` Implementations Taken from TSLib",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1990",
+    "created_at": "2025-11-09T15:37:56Z",
+    "user": "anasashb",
+    "labels": [
+      "enhancement",
+      "feature request",
+      "module:models",
+      "module:layers"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3606562812,
+    "number": 9264,
+    "title": "Don't assume tv_tensors.Image for pure tensors",
+    "url": "https://github.com/pytorch/vision/issues/9264",
+    "created_at": "2025-11-10T07:38:27Z",
+    "user": "nlgranger",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3607407512,
+    "number": 3643,
+    "title": "Feedback about NLP From Scratch: Translation with a Sequence to Sequence Network and Attention",
+    "url": "https://github.com/pytorch/tutorials/issues/3643",
+    "created_at": "2025-11-10T10:51:53Z",
+    "user": "pahujam",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3608858695,
+    "number": 12624,
+    "title": "please add strength to wanimagetovideopipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12624",
+    "created_at": "2025-11-10T16:47:16Z",
+    "user": "chaowenguo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3611065812,
+    "number": 12630,
+    "title": "AttributeError: 'GPT2Model' object has no attribute '_get_initial_cache_position' in AudioLDM2Pipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12630",
+    "created_at": "2025-11-11T07:31:16Z",
+    "user": "chaowenguo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3611147196,
+    "number": 12632,
+    "title": "stable_diffusion_xl_img2img failed due to dtype missmatch",
+    "url": "https://github.com/huggingface/diffusers/issues/12632",
+    "created_at": "2025-11-11T07:57:17Z",
+    "user": "jiqing-feng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3611179156,
+    "number": 12633,
+    "title": "DDIMScheduler.step() logic mismatches set_timesteps() list when using timestep_spacing='linspace'",
+    "url": "https://github.com/huggingface/diffusers/issues/12633",
+    "created_at": "2025-11-11T08:08:45Z",
+    "user": "cbprfCsun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3611548955,
+    "number": 12635,
+    "title": "The Diffusers MVP 🚀",
+    "url": "https://github.com/huggingface/diffusers/issues/12635",
+    "created_at": "2025-11-11T09:54:56Z",
+    "user": "sayakpaul",
+    "labels": [
+      "diffusers-mvp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3611821713,
+    "number": 7861,
+    "title": "Performance Issue: save_to_disk() 200-1200% slower due to unconditional flatten_indices()",
+    "url": "https://github.com/huggingface/datasets/issues/7861",
+    "created_at": "2025-11-11T11:05:38Z",
+    "user": "KCKawalkar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3613471954,
+    "number": 33251,
+    "title": "IPv6 support for JAX worker",
+    "url": "https://github.com/jax-ml/jax/issues/33251",
+    "created_at": "2025-11-11T18:44:14Z",
+    "user": "tyiu-google",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3613837702,
+    "number": 3838,
+    "title": "GPT-OSS fails to load with FSPD2",
+    "url": "https://github.com/huggingface/accelerate/issues/3838",
+    "created_at": "2025-11-11T20:40:55Z",
+    "user": "qgallouedec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3614601441,
+    "number": 12638,
+    "title": "How to design network with DiT blocks that are friendly to Tensorrt fp16 conversion?",
+    "url": "https://github.com/huggingface/diffusers/issues/12638",
+    "created_at": "2025-11-12T02:23:37Z",
+    "user": "JohnHerry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3615376593,
+    "number": 12641,
+    "title": "Potential incorrect indentation for logging in train_dreambooth.py",
+    "url": "https://github.com/huggingface/diffusers/issues/12641",
+    "created_at": "2025-11-12T07:45:28Z",
+    "user": "Men1scus",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3615549581,
+    "number": 3568,
+    "title": "Speed degradation over training",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3568",
+    "created_at": "2025-11-12T08:43:03Z",
+    "user": "ZeusFSX",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3616433158,
+    "number": 32697,
+    "title": "CI Collect coverage results on the CUDA CI",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32697",
+    "created_at": "2025-11-12T12:53:41Z",
+    "user": "betatim",
+    "labels": [
+      "Build / CI",
+      "Array API"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3617135459,
+    "number": 2907,
+    "title": "Integrate: LoRA vs Full Fine-tuning: An Illusion of Equivalence",
+    "url": "https://github.com/huggingface/peft/issues/2907",
+    "created_at": "2025-11-12T15:49:11Z",
+    "user": "BenjaminBossan",
+    "labels": [
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3617144248,
+    "number": 3839,
+    "title": "fix: allow for flattening and unflattening optimizer state dict using flatten_optimizer_state_dict",
+    "url": "https://github.com/huggingface/accelerate/issues/3839",
+    "created_at": "2025-11-12T15:51:16Z",
+    "user": "kmehant",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3617945584,
+    "number": 32700,
+    "title": "MNT: Trees/forests: `\"friedman_mse\"` criterion isn't different from normal `\"mse\"` criterion",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32700",
+    "created_at": "2025-11-12T19:38:20Z",
+    "user": "cakedev0",
+    "labels": [
+      "API",
+      "module:tree"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3617996620,
+    "number": 3646,
+    "title": "Feedback about NLP From Scratch: Classifying Names with a Character-Level RNN",
+    "url": "https://github.com/pytorch/tutorials/issues/3646",
+    "created_at": "2025-11-12T19:53:13Z",
+    "user": "mgrynychyn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3618699031,
+    "number": 9267,
+    "title": "Missing SHA256 hashes for Windows wheels in torchvision 0.24.1 (CUDA 12.8) on download.pytorch.org",
+    "url": "https://github.com/pytorch/vision/issues/9267",
+    "created_at": "2025-11-12T23:55:31Z",
+    "user": "plumiume",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3618731743,
+    "number": 9268,
+    "title": "Hash mismatch for 0.24.1+cu128 whl",
+    "url": "https://github.com/pytorch/vision/issues/9268",
+    "created_at": "2025-11-13T00:08:29Z",
+    "user": "sean-darkvision",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3618836821,
+    "number": 7863,
+    "title": "Support hosting lance / vortex / iceberg / zarr datasets on huggingface hub",
+    "url": "https://github.com/huggingface/datasets/issues/7863",
+    "created_at": "2025-11-13T00:51:07Z",
+    "user": "pavanramkumar",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3619137823,
+    "number": 7864,
+    "title": "add_column and add_item erroneously(?) require new_fingerprint parameter",
+    "url": "https://github.com/huggingface/datasets/issues/7864",
+    "created_at": "2025-11-13T02:56:49Z",
+    "user": "echthesia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3619154514,
+    "number": 12645,
+    "title": "Why Qwen-Image inference speed may slower than comfyui",
+    "url": "https://github.com/huggingface/diffusers/issues/12645",
+    "created_at": "2025-11-13T03:02:38Z",
+    "user": "hanggun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3619391782,
+    "number": 12646,
+    "title": "【 EasyAnimate 】 pipine_ easyanimate_inpaint.Py, line 1191: image_1atents used without assigning a value, causing the program to crash",
+    "url": "https://github.com/huggingface/diffusers/issues/12646",
+    "created_at": "2025-11-13T04:37:36Z",
+    "user": "KittenHaerin",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3619968917,
+    "number": 9269,
+    "title": "Connection timed out for VOCSegmentation dataset",
+    "url": "https://github.com/pytorch/vision/issues/9269",
+    "created_at": "2025-11-13T07:51:55Z",
+    "user": "harshitAgr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3620054427,
+    "number": 3569,
+    "title": "datasets 4.0.0 compatibility",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3569",
+    "created_at": "2025-11-13T08:14:44Z",
+    "user": "mengerj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3620401260,
+    "number": 9060,
+    "title": "[DOC] Ambigous usage of `\"changing_value\"` in deprecation documentation",
+    "url": "https://github.com/sktime/sktime/issues/9060",
+    "created_at": "2025-11-13T09:46:17Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3620625919,
+    "number": 1885,
+    "title": "Feature request: Characters delimiter argument",
+    "url": "https://github.com/huggingface/tokenizers/issues/1885",
+    "created_at": "2025-11-13T10:40:29Z",
+    "user": "VasLem",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3620894801,
+    "number": 12650,
+    "title": "Question about the `# Copied from` system",
+    "url": "https://github.com/huggingface/diffusers/issues/12650",
+    "created_at": "2025-11-13T11:53:22Z",
+    "user": "delmalih",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3620931722,
+    "number": 7867,
+    "title": "NonMatchingSplitsSizesError when loading partial dataset files",
+    "url": "https://github.com/huggingface/datasets/issues/7867",
+    "created_at": "2025-11-13T12:03:23Z",
+    "user": "QingGo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3621323458,
+    "number": 32704,
+    "title": "RFC: Allow training random forests with histograms on binned feature values",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32704",
+    "created_at": "2025-11-13T13:52:36Z",
+    "user": "ogrisel",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3621844598,
+    "number": 32707,
+    "title": "BUG: tree/forest regressor: impurity decrease calculation is wrong for criterion \"friedman_mse\"",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32707",
+    "created_at": "2025-11-13T16:09:02Z",
+    "user": "cakedev0",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3622771440,
+    "number": 33309,
+    "title": "0.8.0 regression in indexing vmap over refs",
+    "url": "https://github.com/jax-ml/jax/issues/33309",
+    "created_at": "2025-11-13T20:48:53Z",
+    "user": "davidmarttila",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3623586188,
+    "number": 33322,
+    "title": "Discrepancies between Ref and array indexing.",
+    "url": "https://github.com/jax-ml/jax/issues/33322",
+    "created_at": "2025-11-14T02:13:57Z",
+    "user": "justinjfu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3623661779,
+    "number": 32710,
+    "title": "⚠️ CI failed on Linux_Runs.pylatest_conda_forge_mkl (last failure: Nov 25, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32710",
+    "created_at": "2025-11-14T02:53:05Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3623795991,
+    "number": 12656,
+    "title": "[Bug] Positional Embedding Index Out-of-Bounds in AuraFlow",
+    "url": "https://github.com/huggingface/diffusers/issues/12656",
+    "created_at": "2025-11-14T04:00:41Z",
+    "user": "ikuto32",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3624758333,
+    "number": 12662,
+    "title": "question on stable_audio_transformer.py",
+    "url": "https://github.com/huggingface/diffusers/issues/12662",
+    "created_at": "2025-11-14T09:26:01Z",
+    "user": "JohnHerry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3626824236,
+    "number": 33338,
+    "title": "Perf regression when upgrading from 0.7.2 to 0.8.0 under some cases.",
+    "url": "https://github.com/jax-ml/jax/issues/33338",
+    "created_at": "2025-11-14T19:09:01Z",
+    "user": "vanbasten23",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3626858525,
+    "number": 9271,
+    "title": "voc segmentation dataset source is unavailable",
+    "url": "https://github.com/pytorch/vision/issues/9271",
+    "created_at": "2025-11-14T13:45:21Z",
+    "user": "yeeislazy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3627207453,
+    "number": 21851,
+    "title": "Compiled torch model has much worse performance than non-compiled version.",
+    "url": "https://github.com/keras-team/keras/issues/21851",
+    "created_at": "2025-11-14T21:22:54Z",
+    "user": "blechn",
+    "labels": [
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "skorch-dev/skorch",
+    "id": 3627282100,
+    "number": 1123,
+    "title": "Quarterly release?",
+    "url": "https://github.com/skorch-dev/skorch/issues/1123",
+    "created_at": "2025-11-14T21:45:22Z",
+    "user": "bruAristimunha",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3627646335,
+    "number": 33344,
+    "title": "MosaicTPU build failure",
+    "url": "https://github.com/jax-ml/jax/issues/33344",
+    "created_at": "2025-11-15T00:38:17Z",
+    "user": "wsmoses",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3628669500,
+    "number": 32718,
+    "title": "BUG: trees: `criterion=\"friedman_mse\"` is buggy for multi-output",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32718",
+    "created_at": "2025-11-15T12:49:20Z",
+    "user": "cakedev0",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3628800676,
+    "number": 12667,
+    "title": "Any Wan version crashes",
+    "url": "https://github.com/huggingface/diffusers/issues/12667",
+    "created_at": "2025-11-15T14:47:50Z",
+    "user": "tin2tin",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3628964089,
+    "number": 12668,
+    "title": "Complex numbers in Qwen Image pipeline incompatible with torch.compile",
+    "url": "https://github.com/huggingface/diffusers/issues/12668",
+    "created_at": "2025-11-15T17:08:58Z",
+    "user": "dxqb",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3629071388,
+    "number": 32719,
+    "title": "Failure to insert instantiated class of estimator in Pipeline produces an unclear error message",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32719",
+    "created_at": "2025-11-15T18:32:11Z",
+    "user": "peter-avg",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3629701098,
+    "number": 3648,
+    "title": "Feedback about A guide on good usage of non_blocking and pin_memory() in PyTorch",
+    "url": "https://github.com/pytorch/tutorials/issues/3648",
+    "created_at": "2025-11-16T02:51:27Z",
+    "user": "shashkat",
+    "labels": [
+      "Reinforcement Learning"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3630447311,
+    "number": 12669,
+    "title": "Flux1-Dev inference with single file ComfyUI/SD-Forge Safetensors",
+    "url": "https://github.com/huggingface/diffusers/issues/12669",
+    "created_at": "2025-11-16T11:57:48Z",
+    "user": "ddpasa",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3630499357,
+    "number": 9273,
+    "title": "CPU segfault in `torchvision.ops.roi_align` when ROIs contain NaN due to missing finite-value checks in `roi_align_forward_kernel.cpp`",
+    "url": "https://github.com/pytorch/vision/issues/9273",
+    "created_at": "2025-11-16T12:43:18Z",
+    "user": "yyds1233",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3631263917,
+    "number": 9073,
+    "title": "[ENH] Add evaluate(...) utility for detectors (detection model evaluation)",
+    "url": "https://github.com/sktime/sktime/issues/9073",
+    "created_at": "2025-11-16T23:22:39Z",
+    "user": "arnavk23",
+    "labels": [
+      "module:detection",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3631909963,
+    "number": 12673,
+    "title": "QwenImagepipeline imcompatable with group offloading with record_stream=True",
+    "url": "https://github.com/huggingface/diffusers/issues/12673",
+    "created_at": "2025-11-17T06:18:08Z",
+    "user": "chaowenguo",
+    "labels": [
+      "bug",
+      "group-offloading"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3632429308,
+    "number": 7868,
+    "title": "Data duplication with `split_dataset_by_node` and `interleaved_dataset`",
+    "url": "https://github.com/huggingface/datasets/issues/7868",
+    "created_at": "2025-11-17T09:15:24Z",
+    "user": "ValMystletainn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3633011730,
+    "number": 4132,
+    "title": "How can I use one streamwriter to write multiple videos?",
+    "url": "https://github.com/pytorch/audio/issues/4132",
+    "created_at": "2025-11-17T11:55:56Z",
+    "user": "Z-NAVY",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3633272185,
+    "number": 33359,
+    "title": "Upgrade jax_rocm60_plugin to ROCm 7.1",
+    "url": "https://github.com/jax-ml/jax/issues/33359",
+    "created_at": "2025-11-17T13:08:49Z",
+    "user": "reneleonhardt",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3633700597,
+    "number": 33364,
+    "title": "jaxopt compilation took hours on certain machines",
+    "url": "https://github.com/jax-ml/jax/issues/33364",
+    "created_at": "2025-11-17T14:58:43Z",
+    "user": "rupengli",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3634084995,
+    "number": 33370,
+    "title": "jax.scipy.special.lpmn_values uses a cubic algorithm",
+    "url": "https://github.com/jax-ml/jax/issues/33370",
+    "created_at": "2025-11-17T16:33:22Z",
+    "user": "csubich",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3634195187,
+    "number": 9077,
+    "title": "[ENH] Catalogues for Different Benchmarking Studies and Competitions",
+    "url": "https://github.com/sktime/sktime/issues/9077",
+    "created_at": "2025-11-17T17:00:58Z",
+    "user": "jgyasu",
+    "labels": [
+      "enhancement",
+      "module:metrics&benchmarking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3634466348,
+    "number": 42249,
+    "title": "`parse_response` should drop EOS",
+    "url": "https://github.com/huggingface/transformers/issues/42249",
+    "created_at": "2025-11-17T18:14:56Z",
+    "user": "qgallouedec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3636013486,
+    "number": 33388,
+    "title": "dot_general_cost_rule incorrect for multiple contracting dims",
+    "url": "https://github.com/jax-ml/jax/issues/33388",
+    "created_at": "2025-11-18T03:59:56Z",
+    "user": "sssshhhhhh",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3636144422,
+    "number": 42251,
+    "title": "Finetuning issue with V-JEPA 2",
+    "url": "https://github.com/huggingface/transformers/issues/42251",
+    "created_at": "2025-11-18T05:08:13Z",
+    "user": "MattLiutt",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3636808734,
+    "number": 7869,
+    "title": "Why does dataset merge fail when tools have different parameters?",
+    "url": "https://github.com/huggingface/datasets/issues/7869",
+    "created_at": "2025-11-18T08:33:04Z",
+    "user": "hitszxs",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3638126979,
+    "number": 42257,
+    "title": "Lfm2 fails with beam search",
+    "url": "https://github.com/huggingface/transformers/issues/42257",
+    "created_at": "2025-11-18T13:06:08Z",
+    "user": "popovaan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3640053033,
+    "number": 9081,
+    "title": "[BUG] `ARIMA` and `AutoARIMA` estimator failing `test_predict_time_index_with_X`",
+    "url": "https://github.com/sktime/sktime/issues/9081",
+    "created_at": "2025-11-18T20:58:17Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3640076970,
+    "number": 12683,
+    "title": "[FEATURE] [WAN2.2] Add support to train LoRA for WanVacePipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12683",
+    "created_at": "2025-11-18T21:21:51Z",
+    "user": "SlimRG",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3640083123,
+    "number": 2916,
+    "title": "ParamWrapper initialization fails when DeepSpeed ZeRO-3 is enabled",
+    "url": "https://github.com/huggingface/peft/issues/2916",
+    "created_at": "2025-11-18T21:32:30Z",
+    "user": "jonnyli1125",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3640389037,
+    "number": 42269,
+    "title": "local_files_only=True in pipeline() does not prevent model downloads in transformers==4.57.1",
+    "url": "https://github.com/huggingface/transformers/issues/42269",
+    "created_at": "2025-11-18T23:31:58Z",
+    "user": "nmahavishnu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3641171473,
+    "number": 1886,
+    "title": "Discussion: Alternatives to owned `String` in `Token` to reduce memory allocations",
+    "url": "https://github.com/huggingface/tokenizers/issues/1886",
+    "created_at": "2025-11-19T05:51:41Z",
+    "user": "ChieloNewctle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3641407054,
+    "number": 33403,
+    "title": "0.8.1 regression: \"You have to use Shardy for RaggedDot. If not, the behavior is undefined.\"",
+    "url": "https://github.com/jax-ml/jax/issues/33403",
+    "created_at": "2025-11-19T07:22:11Z",
+    "user": "pcmoritz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3641695933,
+    "number": 21861,
+    "title": "[Torch backend] Layer loses keyword arguments when wrapped by RematScope",
+    "url": "https://github.com/keras-team/keras/issues/21861",
+    "created_at": "2025-11-19T08:50:06Z",
+    "user": "pass-lin",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3642221794,
+    "number": 42279,
+    "title": "`python -OO -c 'import transformers.pipelines'` crashes",
+    "url": "https://github.com/huggingface/transformers/issues/42279",
+    "created_at": "2025-11-19T11:09:12Z",
+    "user": "TimDarcet",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3642641715,
+    "number": 42281,
+    "title": "Clarification needed: patch for CVE-2025-3777 (improper URL validation in image_utils.py)",
+    "url": "https://github.com/huggingface/transformers/issues/42281",
+    "created_at": "2025-11-19T13:02:58Z",
+    "user": "Archana-Shinde1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3643571145,
+    "number": 3575,
+    "title": "How to override model's `max_seq_length`?",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3575",
+    "created_at": "2025-11-19T16:42:27Z",
+    "user": "Samoed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3643607371,
+    "number": 7871,
+    "title": "Reqwest Error: HTTP status client error (429 Too Many Requests)",
+    "url": "https://github.com/huggingface/datasets/issues/7871",
+    "created_at": "2025-11-19T16:52:24Z",
+    "user": "yanan1116",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3643681893,
+    "number": 7872,
+    "title": "IterableDataset does not use features information in to_pandas",
+    "url": "https://github.com/huggingface/datasets/issues/7872",
+    "created_at": "2025-11-19T17:12:59Z",
+    "user": "bonext",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3644934246,
+    "number": 33432,
+    "title": "Mostly duplicate checkpoint docs.",
+    "url": "https://github.com/jax-ml/jax/issues/33432",
+    "created_at": "2025-11-20T00:49:53Z",
+    "user": "lockwo",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3645004589,
+    "number": 42291,
+    "title": "Can we disable IPython progress bar and use normal tqdm bar?",
+    "url": "https://github.com/huggingface/transformers/issues/42291",
+    "created_at": "2025-11-20T01:26:11Z",
+    "user": "weathon",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3645369666,
+    "number": 21862,
+    "title": "Q: is it possible (any examples?) to train two different models on two different GPUs, in different threads of the same process?",
+    "url": "https://github.com/keras-team/keras/issues/21862",
+    "created_at": "2025-11-20T04:14:56Z",
+    "user": "mw66",
+    "labels": [
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3645963271,
+    "number": 1887,
+    "title": "Failed to build installable wheels",
+    "url": "https://github.com/huggingface/tokenizers/issues/1887",
+    "created_at": "2025-11-20T07:56:31Z",
+    "user": "BrandonStudio",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3647528237,
+    "number": 3651,
+    "title": "Torchscript Documentation inaccessible, even if older version of pytorch docs is selected.",
+    "url": "https://github.com/pytorch/tutorials/issues/3651",
+    "created_at": "2025-11-20T14:26:07Z",
+    "user": "randolf-scholz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3647991187,
+    "number": 32752,
+    "title": "DOC: Clarify tie-breaking logic for equivalent splits in decision tree documentation",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32752",
+    "created_at": "2025-11-20T16:12:50Z",
+    "user": "cakedev0",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3648073171,
+    "number": 32753,
+    "title": "LocalOutlierFactor with Mahalanobis distance returns different results based on `n_jobs` parameter",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32753",
+    "created_at": "2025-11-20T16:32:34Z",
+    "user": "sroener",
+    "labels": [
+      "Bug",
+      "Needs Investigation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3648912183,
+    "number": 33448,
+    "title": "[hijax] .lower cache not sensitive to qdd state",
+    "url": "https://github.com/jax-ml/jax/issues/33448",
+    "created_at": "2025-11-20T20:14:56Z",
+    "user": "mattjj",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3648958801,
+    "number": 9281,
+    "title": "TVTensor-KeyPoints with support for keypoint visibility for training Keypoint R-CNN",
+    "url": "https://github.com/pytorch/vision/issues/9281",
+    "created_at": "2025-11-20T20:27:50Z",
+    "user": "pieterblok",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3649204860,
+    "number": 42312,
+    "title": "Timm doesnt work well with AutoModelForImageClassification, num_labels doesn't work as expected.",
+    "url": "https://github.com/huggingface/transformers/issues/42312",
+    "created_at": "2025-11-20T21:42:40Z",
+    "user": "lucian-student",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3649407135,
+    "number": 42313,
+    "title": "[v5, Mistral models broken] Embeddings are automatically tied",
+    "url": "https://github.com/huggingface/transformers/issues/42313",
+    "created_at": "2025-11-20T22:37:56Z",
+    "user": "patrickvonplaten",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3649536558,
+    "number": 2923,
+    "title": "timm: ConvNormAct",
+    "url": "https://github.com/huggingface/peft/issues/2923",
+    "created_at": "2025-11-20T23:18:31Z",
+    "user": "lucian-student",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3650593111,
+    "number": 42316,
+    "title": "v4.41.2 default_data_collator import torch bug",
+    "url": "https://github.com/huggingface/transformers/issues/42316",
+    "created_at": "2025-11-21T07:43:26Z",
+    "user": "AdrianMoen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3650963706,
+    "number": 42320,
+    "title": "`sdpa_mask_recent_torch` can cause Torch Compile C++ Errors",
+    "url": "https://github.com/huggingface/transformers/issues/42320",
+    "created_at": "2025-11-21T09:50:10Z",
+    "user": "KyleMylonakisProtopia",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3652196881,
+    "number": 33466,
+    "title": "NVML/NVLink warnings on local setup with JAX 0.8.1",
+    "url": "https://github.com/jax-ml/jax/issues/33466",
+    "created_at": "2025-11-21T15:48:57Z",
+    "user": "chriskirwan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3652906788,
+    "number": 7877,
+    "title": "work around `tempfile` silently ignoring `TMPDIR` if the dir doesn't exist",
+    "url": "https://github.com/huggingface/datasets/issues/7877",
+    "created_at": "2025-11-21T19:51:48Z",
+    "user": "stas00",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3652933863,
+    "number": 12695,
+    "title": "Hunyuan v1.5 Support",
+    "url": "https://github.com/huggingface/diffusers/issues/12695",
+    "created_at": "2025-11-21T20:02:19Z",
+    "user": "ghunkins",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3653774988,
+    "number": 12697,
+    "title": "Magcache Support.",
+    "url": "https://github.com/huggingface/diffusers/issues/12697",
+    "created_at": "2025-11-22T03:34:50Z",
+    "user": "Meatfucker",
+    "labels": [
+      "contributions-welcome",
+      "advanced"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3653833679,
+    "number": 9282,
+    "title": "Make VisionDataset generic following Dataset",
+    "url": "https://github.com/pytorch/vision/issues/9282",
+    "created_at": "2025-11-22T04:20:09Z",
+    "user": "Glinte",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3654213950,
+    "number": 12699,
+    "title": "the quality of video downgrade very much when calling pipe for 50 different prompts in wan 2.2 with lighting lora",
+    "url": "https://github.com/huggingface/diffusers/issues/12699",
+    "created_at": "2025-11-22T08:21:34Z",
+    "user": "chaowenguo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3654569919,
+    "number": 32763,
+    "title": "Add class_weight support to Naive Bayes models (GaussianNB, MultinomialNB, BernoulliNB)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32763",
+    "created_at": "2025-11-22T11:23:08Z",
+    "user": "Aaraviitkgp",
+    "labels": [
+      "New Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3655119969,
+    "number": 9101,
+    "title": "[ENH] Feature request: rolling-window naive strategy in `NaiveForecaster`",
+    "url": "https://github.com/sktime/sktime/issues/9101",
+    "created_at": "2025-11-22T22:04:14Z",
+    "user": "ahmedkansulum",
+    "labels": [
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3655232379,
+    "number": 9103,
+    "title": "[ENH] Hidden layer droput uniformization in the deep learning models.",
+    "url": "https://github.com/sktime/sktime/issues/9103",
+    "created_at": "2025-11-22T23:50:39Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "good first issue",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3655818327,
+    "number": 33489,
+    "title": "More documentation of out of bounds behavior for `jnp.take`",
+    "url": "https://github.com/jax-ml/jax/issues/33489",
+    "created_at": "2025-11-23T10:39:22Z",
+    "user": "unalmis",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3655890256,
+    "number": 32767,
+    "title": "ElasticNetCV alpha_grid does not take positive constraint into account",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32767",
+    "created_at": "2025-11-23T11:56:21Z",
+    "user": "JasonLiJT",
+    "labels": [
+      "Bug",
+      "module:linear_model"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3656205807,
+    "number": 3581,
+    "title": "MultipleNegativesRankingLoss issue",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3581",
+    "created_at": "2025-11-23T16:31:30Z",
+    "user": "yfdjchvlgv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3656256776,
+    "number": 3846,
+    "title": "The test dependency torchpippy is merged into PyTorch and the repository is archived",
+    "url": "https://github.com/huggingface/accelerate/issues/3846",
+    "created_at": "2025-11-23T17:21:37Z",
+    "user": "yurivict",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3656274634,
+    "number": 42344,
+    "title": "How to fine-tune SAM 3D models?",
+    "url": "https://github.com/huggingface/transformers/issues/42344",
+    "created_at": "2025-11-23T17:40:57Z",
+    "user": "bruno686",
+    "labels": [
+      "New model"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3656446471,
+    "number": 58926,
+    "title": "[Core] Spill tasks to another node when Object Store is overflowing on a node",
+    "url": "https://github.com/ray-project/ray/issues/58926",
+    "created_at": "2025-11-23T20:50:21Z",
+    "user": "alexeykudinkin",
+    "labels": [
+      "enhancement",
+      "P1",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3657185692,
+    "number": 9108,
+    "title": "[BUG] Input mis-handling in GRU and possibly other PyTorch models in sktime",
+    "url": "https://github.com/sktime/sktime/issues/9108",
+    "created_at": "2025-11-24T05:52:30Z",
+    "user": "RecreationalMath",
+    "labels": [
+      "bug",
+      "module:classification"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3657249446,
+    "number": 7879,
+    "title": "python core dump when downloading dataset",
+    "url": "https://github.com/huggingface/datasets/issues/7879",
+    "created_at": "2025-11-24T06:22:53Z",
+    "user": "hansewetz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3658501843,
+    "number": 12706,
+    "title": "[Feature] Ulysses Attention for any sequence length w/o padding",
+    "url": "https://github.com/huggingface/diffusers/issues/12706",
+    "created_at": "2025-11-24T11:42:00Z",
+    "user": "DefTruth",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3659443140,
+    "number": 58933,
+    "title": "[Serve | Autoscaler] Autoscaler seemingly kills all nodes when kubernetes list pods times out for KubeRay deployment",
+    "url": "https://github.com/ray-project/ray/issues/58933",
+    "created_at": "2025-11-24T15:37:25Z",
+    "user": "smit-kiri",
+    "labels": [
+      "bug",
+      "P0",
+      "serve",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3659471952,
+    "number": 33503,
+    "title": "ERROR: Building with --config=cuda but TensorFlow is not configured to build with GPU support",
+    "url": "https://github.com/jax-ml/jax/issues/33503",
+    "created_at": "2025-11-24T15:44:13Z",
+    "user": "adamjstewart",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3659783058,
+    "number": 12709,
+    "title": "Meituan Longcat Video",
+    "url": "https://github.com/huggingface/diffusers/issues/12709",
+    "created_at": "2025-11-24T17:11:07Z",
+    "user": "alerikaisattera",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3660027137,
+    "number": 58937,
+    "title": "[Serve] Duplicated arguments for vLLM frontend and engine",
+    "url": "https://github.com/ray-project/ray/issues/58937",
+    "created_at": "2025-11-24T18:20:43Z",
+    "user": "soodoshll",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3660138787,
+    "number": 58941,
+    "title": "[CORE] set default label-filter or resource requirement",
+    "url": "https://github.com/ray-project/ray/issues/58941",
+    "created_at": "2025-11-24T18:56:01Z",
+    "user": "Liquidmasl",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3660180932,
+    "number": 32781,
+    "title": "Address sanitizer",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32781",
+    "created_at": "2025-11-24T19:09:48Z",
+    "user": "da-woods",
+    "labels": [
+      "Build / CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3660240936,
+    "number": 58942,
+    "title": "[Data] - Add Logical Plan Query Optimizations",
+    "url": "https://github.com/ray-project/ray/issues/58942",
+    "created_at": "2025-11-24T19:27:35Z",
+    "user": "goutamvenkat-anyscale",
+    "labels": [
+      "performance",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3660294822,
+    "number": 58944,
+    "title": "[core] Reduce the time ray.remote takes.",
+    "url": "https://github.com/ray-project/ray/issues/58944",
+    "created_at": "2025-11-24T19:46:37Z",
+    "user": "israbbani",
+    "labels": [
+      "performance",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3660486106,
+    "number": 42370,
+    "title": "PreTrainedTokenizerBase.pad() broken on tensordict.TensorDict",
+    "url": "https://github.com/huggingface/transformers/issues/42370",
+    "created_at": "2025-11-24T20:51:18Z",
+    "user": "ligz08",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3660616450,
+    "number": 42371,
+    "title": "Please use the new API settings to control TF32 behavior, ...",
+    "url": "https://github.com/huggingface/transformers/issues/42371",
+    "created_at": "2025-11-24T21:38:12Z",
+    "user": "wasertech",
+    "labels": [
+      "Good First Issue",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3660667012,
+    "number": 33514,
+    "title": "`jax.experimental.sparse.CSR` accepts wrong shapes",
+    "url": "https://github.com/jax-ml/jax/issues/33514",
+    "created_at": "2025-11-24T21:59:22Z",
+    "user": "johannahaffner",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3660925096,
+    "number": 58956,
+    "title": "[serve]",
+    "url": "https://github.com/ray-project/ray/issues/58956",
+    "created_at": "2025-11-24T23:45:43Z",
+    "user": "lbluque",
+    "labels": [
+      "enhancement",
+      "triage",
+      "serve",
+      "usability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3660928510,
+    "number": 21868,
+    "title": "RandomCrop does nothing at validation/inference",
+    "url": "https://github.com/keras-team/keras/issues/21868",
+    "created_at": "2025-11-24T23:47:50Z",
+    "user": "ma7555",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3661348492,
+    "number": 58959,
+    "title": "[Serve] Allow customize Ray Serve auto scaler scale down logic",
+    "url": "https://github.com/ray-project/ray/issues/58959",
+    "created_at": "2025-11-25T03:19:17Z",
+    "user": "manhld0206",
+    "labels": [
+      "enhancement",
+      "serve",
+      "usability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3661658315,
+    "number": 42375,
+    "title": "SAM3 single image inference with multiple text prompt",
+    "url": "https://github.com/huggingface/transformers/issues/42375",
+    "created_at": "2025-11-25T06:20:09Z",
+    "user": "iariav",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3661707865,
+    "number": 58964,
+    "title": "[Core] startup crash",
+    "url": "https://github.com/ray-project/ray/issues/58964",
+    "created_at": "2025-11-25T06:41:56Z",
+    "user": "wciq1208",
+    "labels": [
+      "bug",
+      "P0",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3662083211,
+    "number": 42381,
+    "title": "ValueError: Unrecognized model in OrdalieTech/Solon-embeddings-large-0.1. Should have a `model_type` key in its config.json",
+    "url": "https://github.com/huggingface/transformers/issues/42381",
+    "created_at": "2025-11-25T08:54:07Z",
+    "user": "vador31",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3662277596,
+    "number": 9122,
+    "title": "[BUG] ColumnwiseTransformer does not work with scikit-learn transformers",
+    "url": "https://github.com/sktime/sktime/issues/9122",
+    "created_at": "2025-11-25T09:47:58Z",
+    "user": "rustamzh",
+    "labels": [
+      "bug",
+      "module:transformations"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3662584612,
+    "number": 33521,
+    "title": "Complex casting warning not needed",
+    "url": "https://github.com/jax-ml/jax/issues/33521",
+    "created_at": "2025-11-25T11:05:28Z",
+    "user": "inversecrime",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3662855434,
+    "number": 21870,
+    "title": "Q: Torch memory usage vs Tensorflow",
+    "url": "https://github.com/keras-team/keras/issues/21870",
+    "created_at": "2025-11-25T12:22:51Z",
+    "user": "teaglin",
+    "labels": [
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3663128114,
+    "number": 9124,
+    "title": "[ENH] Reduce HF API calls when downloading datasets for a benchmarking study",
+    "url": "https://github.com/sktime/sktime/issues/9124",
+    "created_at": "2025-11-25T13:41:04Z",
+    "user": "jgyasu",
+    "labels": [
+      "enhancement",
+      "module:datasets&loaders",
+      "module:metrics&benchmarking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3663137007,
+    "number": 3661,
+    "title": "Feedback about Tensors",
+    "url": "https://github.com/pytorch/tutorials/issues/3661",
+    "created_at": "2025-11-25T13:43:41Z",
+    "user": "lin-in1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3663671573,
+    "number": 58973,
+    "title": "[serve] TypeError: argparse.Namespace() got multiple values for keyword argument 'tokens_only'",
+    "url": "https://github.com/ray-project/ray/issues/58973",
+    "created_at": "2025-11-25T16:03:17Z",
+    "user": "kevin-bates",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3663725953,
+    "number": 42398,
+    "title": "LlamaRMSNorm and equivalent module implementations using torch ops",
+    "url": "https://github.com/huggingface/transformers/issues/42398",
+    "created_at": "2025-11-25T16:17:25Z",
+    "user": "mstojkovicTT",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3663795443,
+    "number": 42401,
+    "title": "The `get_(text|image|audio|video)_features` methods have inconsistent output formats, needs aligning for Sentence Transformers",
+    "url": "https://github.com/huggingface/transformers/issues/42401",
+    "created_at": "2025-11-25T16:37:20Z",
+    "user": "tomaarsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3663973751,
+    "number": 42405,
+    "title": "Integrate FA4 (Flash Attention for Blackwell) into HF Transformers",
+    "url": "https://github.com/huggingface/transformers/issues/42405",
+    "created_at": "2025-11-25T17:33:50Z",
+    "user": "sambhavnoobcoder",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3664032548,
+    "number": 58975,
+    "title": "Ray Server LLM fails for voxtral",
+    "url": "https://github.com/ray-project/ray/issues/58975",
+    "created_at": "2025-11-25T17:55:42Z",
+    "user": "Blaze-DSP",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3664154529,
+    "number": 58976,
+    "title": "[Dashboard] Tasks with retries alternate randomly between any of their runs (Both FAILED and RUNNING/SUCCEEDED).",
+    "url": "https://github.com/ray-project/ray/issues/58976",
+    "created_at": "2025-11-25T18:32:59Z",
+    "user": "kevin-amaral-fgp",
+    "labels": [
+      "bug",
+      "P1",
+      "dashboard",
+      "usability",
+      "core",
+      "observability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3664577369,
+    "number": 33543,
+    "title": "Support `Layout.tiling` in `with_layout_constraint`",
+    "url": "https://github.com/jax-ml/jax/issues/33543",
+    "created_at": "2025-11-25T21:00:45Z",
+    "user": "yuwei-qin",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3665235151,
+    "number": 58991,
+    "title": "[Air] WandbLoggerCallback: support capture of checkpoints on remote file systems",
+    "url": "https://github.com/ray-project/ray/issues/58991",
+    "created_at": "2025-11-26T01:28:20Z",
+    "user": "calbach",
+    "labels": [
+      "enhancement",
+      "tune",
+      "triage",
+      "usability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3665759503,
+    "number": 58996,
+    "title": "[Data] Add polars usage in Ray Data docs",
+    "url": "https://github.com/ray-project/ray/issues/58996",
+    "created_at": "2025-11-26T04:54:49Z",
+    "user": "owenowenisme",
+    "labels": [
+      "docs",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3666041928,
+    "number": 3854,
+    "title": "Missing `fsdp_min_num_params` leads to type conversion failure in FSDP config",
+    "url": "https://github.com/huggingface/accelerate/issues/3854",
+    "created_at": "2025-11-26T06:33:12Z",
+    "user": "sdjasj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3666095692,
+    "number": 3855,
+    "title": "KeyError in optimizer.state_dict() under FSDP2 when using Adagrad optimizer",
+    "url": "https://github.com/huggingface/accelerate/issues/3855",
+    "created_at": "2025-11-26T06:51:25Z",
+    "user": "sdjasj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666253454,
+    "number": 169111,
+    "title": "`torch.compile(backend=\"tvm\", fullgraph=True, dynamic=True)` fails on PyTorch 2.9.0 with `RuntimeError: Tracer cannot infer type ... Only tensors ... supported, but got SymInt`",
+    "url": "https://github.com/pytorch/pytorch/issues/169111",
+    "created_at": "2025-11-26T07:37:43Z",
+    "user": "tinywisdom",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666376862,
+    "number": 169112,
+    "title": "`torch.compile(fullgraph=True, dynamic=True)` on CUDA fails when using `torch.utils.dlpack.to_dlpack` / `from_dlpack` (`torch._C._to_dlpack` skipped by Dynamo)",
+    "url": "https://github.com/pytorch/pytorch/issues/169112",
+    "created_at": "2025-11-26T08:13:38Z",
+    "user": "tinywisdom",
+    "labels": [
+      "module: dlpack",
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666384957,
+    "number": 169113,
+    "title": "Bottleneck in create_read_items_for_chunk_list when resharding checkpoints at scale",
+    "url": "https://github.com/pytorch/pytorch/issues/169113",
+    "created_at": "2025-11-26T08:15:55Z",
+    "user": "mansiag05",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3666454182,
+    "number": 12719,
+    "title": "how to use quantization and device_map=balance to run qwen-image on kaggle T4 * 2",
+    "url": "https://github.com/huggingface/diffusers/issues/12719",
+    "created_at": "2025-11-26T08:35:46Z",
+    "user": "chaowenguo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666457073,
+    "number": 169118,
+    "title": "AOTI codegen flips the order of buffer mutation and torch.cond",
+    "url": "https://github.com/pytorch/pytorch/issues/169118",
+    "created_at": "2025-11-26T08:36:32Z",
+    "user": "larryliu0820",
+    "labels": [
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666490291,
+    "number": 169119,
+    "title": "`torch.compile(backend=\"cudagraphs\", fullgraph=True, cuda)` fails for sparse CSR → COO (`torch.compile does not support sparse Tensors`)",
+    "url": "https://github.com/pytorch/pytorch/issues/169119",
+    "created_at": "2025-11-26T08:45:54Z",
+    "user": "tinywisdom",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3666614659,
+    "number": 169120,
+    "title": "Higher-order ops like cond, scan should work with func torch (torch.func.functional_call)",
+    "url": "https://github.com/pytorch/pytorch/issues/169120",
+    "created_at": "2025-11-26T09:16:39Z",
+    "user": "BillHuang2001",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3666676599,
+    "number": 42417,
+    "title": "FSDP2 + LoRA `model.generate` raise `aten.embedding.default: got mixed torch.Tensor and DTensor` error",
+    "url": "https://github.com/huggingface/transformers/issues/42417",
+    "created_at": "2025-11-26T09:32:37Z",
+    "user": "Xiao-Chenguang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3666820769,
+    "number": 12720,
+    "title": "how to quantization wan 2.2 vace after loading lora?",
+    "url": "https://github.com/huggingface/diffusers/issues/12720",
+    "created_at": "2025-11-26T10:11:38Z",
+    "user": "chaowenguo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3666838719,
+    "number": 58999,
+    "title": "[Serve] [Autoscaling] Policy state not supported for custom application level autoscaling policy",
+    "url": "https://github.com/ray-project/ray/issues/58999",
+    "created_at": "2025-11-26T10:15:53Z",
+    "user": "greenfish8090",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "usability",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3666846881,
+    "number": 59000,
+    "title": "[Data] Lacks a job-level timeout",
+    "url": "https://github.com/ray-project/ray/issues/59000",
+    "created_at": "2025-11-26T10:18:19Z",
+    "user": "allendang001",
+    "labels": [
+      "enhancement",
+      "triage",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3666888741,
+    "number": 42418,
+    "title": "Custom nn.Parameter initialization in PreTrainedModel subclasses is overwritten by post_init()/from_pretrained() causing NaNs/Zeros",
+    "url": "https://github.com/huggingface/transformers/issues/42418",
+    "created_at": "2025-11-26T10:29:57Z",
+    "user": "Noietch",
+    "labels": [
+      "Usage",
+      "Feature request",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3667030808,
+    "number": 59001,
+    "title": "[Serve][Autoscaling] Last scale-up and scale-down time not given for application level autoscaling policy",
+    "url": "https://github.com/ray-project/ray/issues/59001",
+    "created_at": "2025-11-26T11:13:42Z",
+    "user": "greenfish8090",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "usability",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3667397297,
+    "number": 12722,
+    "title": "How to run qwen-image in kaggle gpu T4 * 2 successfully?",
+    "url": "https://github.com/huggingface/diffusers/issues/12722",
+    "created_at": "2025-11-26T12:53:30Z",
+    "user": "chaowenguo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3667479166,
+    "number": 33558,
+    "title": "returning a constant 'pinned_host' with jax.export cause JaxRuntimeError",
+    "url": "https://github.com/jax-ml/jax/issues/33558",
+    "created_at": "2025-11-26T13:15:31Z",
+    "user": "Vikisix",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3667561864,
+    "number": 7880,
+    "title": "Spurious label column created when audiofolder/imagefolder directories match split names",
+    "url": "https://github.com/huggingface/datasets/issues/7880",
+    "created_at": "2025-11-26T13:36:24Z",
+    "user": "neha222222",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3667592873,
+    "number": 42422,
+    "title": "Performance Improvement: Remove implicit CPU-GPU syncs triggered in modeling.py files",
+    "url": "https://github.com/huggingface/transformers/issues/42422",
+    "created_at": "2025-11-26T13:45:10Z",
+    "user": "Dhruv88",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3667664527,
+    "number": 7882,
+    "title": "Inconsistent loading of LFS-hosted files in epfml/FineWeb-HQ dataset",
+    "url": "https://github.com/huggingface/datasets/issues/7882",
+    "created_at": "2025-11-26T14:06:02Z",
+    "user": "Oligou",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3668182561,
+    "number": 7883,
+    "title": "Data.to_csv() cannot be recognized by pylance",
+    "url": "https://github.com/huggingface/datasets/issues/7883",
+    "created_at": "2025-11-26T16:16:56Z",
+    "user": "xi4ngxin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3668332455,
+    "number": 169133,
+    "title": "vLLM tlparse sometimes missing compilation_metrics",
+    "url": "https://github.com/pytorch/pytorch/issues/169133",
+    "created_at": "2025-11-26T16:59:44Z",
+    "user": "zou3519",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3668347045,
+    "number": 59008,
+    "title": "[Serve]Application Level Autoscaling Context State Management",
+    "url": "https://github.com/ray-project/ray/issues/59008",
+    "created_at": "2025-11-26T17:03:37Z",
+    "user": "vaishdho1",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3668491371,
+    "number": 59009,
+    "title": "[Data, LLM] RuntimeError: no running event loop",
+    "url": "https://github.com/ray-project/ray/issues/59009",
+    "created_at": "2025-11-26T17:45:32Z",
+    "user": "justinrmiller",
+    "labels": [
+      "bug",
+      "triage",
+      "data",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3668522912,
+    "number": 59010,
+    "title": "[Data] Remove dead `FastFileMetadataProvider`",
+    "url": "https://github.com/ray-project/ray/issues/59010",
+    "created_at": "2025-11-26T17:56:43Z",
+    "user": "bveeramani",
+    "labels": [
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3668670489,
+    "number": 59011,
+    "title": "[RLlib] Allow `Callable[[], RLlibCallback]` as valid callback (type)",
+    "url": "https://github.com/ray-project/ray/issues/59011",
+    "created_at": "2025-11-26T18:47:20Z",
+    "user": "Daraan",
+    "labels": [
+      "question",
+      "enhancement",
+      "triage",
+      "rllib",
+      "usability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3669062521,
+    "number": 3666,
+    "title": "Feedback about What is torch.nn really?",
+    "url": "https://github.com/pytorch/tutorials/issues/3666",
+    "created_at": "2025-11-26T21:16:14Z",
+    "user": "bogpetre",
+    "labels": [
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3669087363,
+    "number": 2927,
+    "title": "Add LoRA-GA (Low-Rank Adaptation with Gradient Approximation) to PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2927",
+    "created_at": "2025-11-26T21:28:04Z",
+    "user": "sambhavnoobcoder",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3669090711,
+    "number": 59015,
+    "title": "[Data] Update loading-data documentation with download expressions",
+    "url": "https://github.com/ray-project/ray/issues/59015",
+    "created_at": "2025-11-26T21:29:53Z",
+    "user": "srinathk10",
+    "labels": [
+      "P1",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669332729,
+    "number": 169145,
+    "title": "[debug mode] inputs hash of in place mutation",
+    "url": "https://github.com/pytorch/pytorch/issues/169145",
+    "created_at": "2025-11-26T23:18:14Z",
+    "user": "yushangdi",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669340824,
+    "number": 169146,
+    "title": "bad numerics for variable length attention with cudnn",
+    "url": "https://github.com/pytorch/pytorch/issues/169146",
+    "created_at": "2025-11-26T23:23:57Z",
+    "user": "liangel-02",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669440466,
+    "number": 169150,
+    "title": "[debug mode] do not hash collectives",
+    "url": "https://github.com/pytorch/pytorch/issues/169150",
+    "created_at": "2025-11-27T00:31:07Z",
+    "user": "yushangdi",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669456573,
+    "number": 169152,
+    "title": "[debug mode] support pipeline parallelism",
+    "url": "https://github.com/pytorch/pytorch/issues/169152",
+    "created_at": "2025-11-27T00:43:50Z",
+    "user": "yushangdi",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3669476442,
+    "number": 59021,
+    "title": "[Data] Zip operator needs to be tagged as requiring materialization",
+    "url": "https://github.com/ray-project/ray/issues/59021",
+    "created_at": "2025-11-27T00:54:12Z",
+    "user": "srinathk10",
+    "labels": [
+      "triage",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669559095,
+    "number": 169154,
+    "title": "AOTIModelPackageLoader occupies too much disk space when launching multiple instances",
+    "url": "https://github.com/pytorch/pytorch/issues/169154",
+    "created_at": "2025-11-27T01:40:33Z",
+    "user": "CaoE",
+    "labels": [
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3669575130,
+    "number": 59022,
+    "title": "How to run with non privileged container?",
+    "url": "https://github.com/ray-project/ray/issues/59022",
+    "created_at": "2025-11-27T01:50:36Z",
+    "user": "lixd",
+    "labels": [
+      "bug",
+      "question",
+      "triage",
+      "usability",
+      "core",
+      "security",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669607511,
+    "number": 169157,
+    "title": "AOTI does not support fallback kernels with parameters of types other than int and tensor.",
+    "url": "https://github.com/pytorch/pytorch/issues/169157",
+    "created_at": "2025-11-27T02:10:26Z",
+    "user": "CaoE",
+    "labels": [
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3669640750,
+    "number": 12728,
+    "title": "torch.compile + channels_last support for Wan 2.2 (T2V / I2V) fails with RuntimeError + Dynamo Unsupported behavior",
+    "url": "https://github.com/huggingface/diffusers/issues/12728",
+    "created_at": "2025-11-27T02:30:40Z",
+    "user": "Passenger12138",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3669774854,
+    "number": 59025,
+    "title": "[Core] Fast tail-log implementation for job supervisor to avoid hang with large stdout logs",
+    "url": "https://github.com/ray-project/ray/issues/59025",
+    "created_at": "2025-11-27T04:00:30Z",
+    "user": "yancanmao",
+    "labels": [
+      "performance",
+      "core",
+      "observability",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3669802489,
+    "number": 12730,
+    "title": "Debugging snippet still remains in Flux2Pipeline",
+    "url": "https://github.com/huggingface/diffusers/issues/12730",
+    "created_at": "2025-11-27T04:19:10Z",
+    "user": "nuclearboy95",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3669868980,
+    "number": 169163,
+    "title": "Silent failure of torch.stack",
+    "url": "https://github.com/pytorch/pytorch/issues/169163",
+    "created_at": "2025-11-27T05:00:46Z",
+    "user": "jidan064",
+    "labels": [
+      "module: cuda",
+      "module: 64-bit",
+      "module: correctness (silent)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3669973202,
+    "number": 42440,
+    "title": "Gemma3ForConditionalGeneration is not torch.compile compatible",
+    "url": "https://github.com/huggingface/transformers/issues/42440",
+    "created_at": "2025-11-27T05:56:18Z",
+    "user": "jood-canva",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3670165625,
+    "number": 59028,
+    "title": "[Core][RDT] Allow specifying a backend for NIXL",
+    "url": "https://github.com/ray-project/ray/issues/59028",
+    "created_at": "2025-11-27T07:19:04Z",
+    "user": "erezzarum",
+    "labels": [
+      "enhancement",
+      "triage",
+      "usability",
+      "train",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3670282561,
+    "number": 59029,
+    "title": "[Data] `read_parquet` trigger serialization error with filesystem=`HfFileSystem`",
+    "url": "https://github.com/ray-project/ray/issues/59029",
+    "created_at": "2025-11-27T08:00:37Z",
+    "user": "owenowenisme",
+    "labels": [
+      "bug",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3670430383,
+    "number": 1890,
+    "title": "Upstream `RefMutGuard` / `RefMutContainer` to PyO3",
+    "url": "https://github.com/huggingface/tokenizers/issues/1890",
+    "created_at": "2025-11-27T08:44:20Z",
+    "user": "davidhewitt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3670433076,
+    "number": 169170,
+    "title": "Optimizer __repr__ Performance & Stability Improvement",
+    "url": "https://github.com/pytorch/pytorch/issues/169170",
+    "created_at": "2025-11-27T08:45:12Z",
+    "user": "gaurav-redhat",
+    "labels": [
+      "module: optimizer",
+      "triaged",
+      "enhancement",
+      "topic: performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3670544926,
+    "number": 59032,
+    "title": "[data] ignore_nulls don't work in `unique` aggregation",
+    "url": "https://github.com/ray-project/ray/issues/59032",
+    "created_at": "2025-11-27T09:16:53Z",
+    "user": "my-vegetable-has-exploded",
+    "labels": [
+      "bug",
+      "triage",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3670560682,
+    "number": 59033,
+    "title": "[Ray Data] Async UDF actor leaks in map_batches",
+    "url": "https://github.com/ray-project/ray/issues/59033",
+    "created_at": "2025-11-27T09:21:24Z",
+    "user": "codingl2k1",
+    "labels": [
+      "bug",
+      "triage",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3670577914,
+    "number": 169174,
+    "title": "Does torch.masked_select preserve the original order of the selected elements?",
+    "url": "https://github.com/pytorch/pytorch/issues/169174",
+    "created_at": "2025-11-27T09:26:45Z",
+    "user": "wanglin03",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3670624159,
+    "number": 105209,
+    "title": "compile tflite fatal error: 'google/protobuf/runtime_version.h' file not found",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105209",
+    "created_at": "2025-11-27T09:39:06Z",
+    "user": "alexliyang",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3670702340,
+    "number": 169178,
+    "title": "ResNet18 exported with dynamo=True gives zero accuracy on ImageNet-1K",
+    "url": "https://github.com/pytorch/pytorch/issues/169178",
+    "created_at": "2025-11-27T10:03:04Z",
+    "user": "andrey-churkin",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3670857145,
+    "number": 169179,
+    "title": "torch.compile: Sliced assign doesn't reliably propagate requires_grad",
+    "url": "https://github.com/pytorch/pytorch/issues/169179",
+    "created_at": "2025-11-27T10:46:54Z",
+    "user": "dxqb",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3670898407,
+    "number": 59035,
+    "title": "Ray Data GPU scheduling error: fractional GPU quantity (5.3333) computed during actor creation",
+    "url": "https://github.com/ray-project/ray/issues/59035",
+    "created_at": "2025-11-27T10:58:51Z",
+    "user": "Young-zj",
+    "labels": [
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3670928009,
+    "number": 105217,
+    "title": "ImageProcessor runs slowly and takes 200ms to process images with the shape of FP32 [1920,1080,3]",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105217",
+    "created_at": "2025-11-27T11:06:45Z",
+    "user": "U-c207Pr4f57t9",
+    "labels": [
+      "comp:lite"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3671121307,
+    "number": 42451,
+    "title": "[kernels] When multiple device exist in `kernel_mapping`, calling `add_to_mapping()` will repeatedly overwrite the `repo_name`.",
+    "url": "https://github.com/huggingface/transformers/issues/42451",
+    "created_at": "2025-11-27T11:55:22Z",
+    "user": "zheliuyu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3671136402,
+    "number": 169182,
+    "title": "Kineto library not installed",
+    "url": "https://github.com/pytorch/pytorch/issues/169182",
+    "created_at": "2025-11-27T11:58:37Z",
+    "user": "Flamefire",
+    "labels": [
+      "module: build",
+      "module: cpp-extensions",
+      "triaged",
+      "module: aotinductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3671256265,
+    "number": 169184,
+    "title": "[RFC] Speed-up checkout operations in CI with treeless checkouts",
+    "url": "https://github.com/pytorch/pytorch/issues/169184",
+    "created_at": "2025-11-27T12:24:43Z",
+    "user": "zklaus",
+    "labels": [
+      "module: ci",
+      "triaged",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3671603058,
+    "number": 42454,
+    "title": "StaticCache crashes when the batch-size changes",
+    "url": "https://github.com/huggingface/transformers/issues/42454",
+    "created_at": "2025-11-27T13:37:58Z",
+    "user": "mobicham",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3671607799,
+    "number": 169186,
+    "title": "from_dlpack fails to create tensors on other devices",
+    "url": "https://github.com/pytorch/pytorch/issues/169186",
+    "created_at": "2025-11-27T13:38:52Z",
+    "user": "amacati",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3671812143,
+    "number": 169187,
+    "title": "torch.export.load fails for quantized exported programs",
+    "url": "https://github.com/pytorch/pytorch/issues/169187",
+    "created_at": "2025-11-27T14:20:34Z",
+    "user": "eladc4",
+    "labels": [
+      "oncall: pt2",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3671820253,
+    "number": 169188,
+    "title": "`torch.compile(backend=\"tvm\")` produces wrong result on simple `nn.Parameter` addition (eager = 2.0, compiled = 0.0)",
+    "url": "https://github.com/pytorch/pytorch/issues/169188",
+    "created_at": "2025-11-27T14:22:06Z",
+    "user": "tinywisdom",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3671835498,
+    "number": 9131,
+    "title": "[ENH] Add Python 3.13 Dockerfile support",
+    "url": "https://github.com/sktime/sktime/issues/9131",
+    "created_at": "2025-11-27T14:25:26Z",
+    "user": "crocmons",
+    "labels": [
+      "maintenance",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3671837683,
+    "number": 1992,
+    "title": "[ENH] Wishlist of forecasters and integrations",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1992",
+    "created_at": "2025-11-27T14:25:58Z",
+    "user": "fkiraly",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "module:models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3671984350,
+    "number": 59037,
+    "title": "[RLlib] Wasted compute on double evaluation",
+    "url": "https://github.com/ray-project/ray/issues/59037",
+    "created_at": "2025-11-27T15:00:13Z",
+    "user": "matthieu-zimmer",
+    "labels": [
+      "bug",
+      "triage",
+      "rllib",
+      "performance",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3672285097,
+    "number": 42460,
+    "title": "Loading a checkpoint with tied weights results in `ValueError: This checkpoint seem corrupted.`",
+    "url": "https://github.com/huggingface/transformers/issues/42460",
+    "created_at": "2025-11-27T16:14:34Z",
+    "user": "tomaarsen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3672539426,
+    "number": 169191,
+    "title": "dim broadcast in masked tensor between mask and data.",
+    "url": "https://github.com/pytorch/pytorch/issues/169191",
+    "created_at": "2025-11-27T17:37:00Z",
+    "user": "YagaoDirac",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3672558378,
+    "number": 12738,
+    "title": "ZImagePipeline fails with batch sizes above 1 with Assertion Error",
+    "url": "https://github.com/huggingface/diffusers/issues/12738",
+    "created_at": "2025-11-27T17:43:57Z",
+    "user": "Meatfucker",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3672588695,
+    "number": 32805,
+    "title": "RFC: `Bagging` estimators: avoid changing `max_samples` default behavior in 1.8",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32805",
+    "created_at": "2025-11-27T17:55:13Z",
+    "user": "cakedev0",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3672844115,
+    "number": 42464,
+    "title": "Add SAM 3D Objects Encoder",
+    "url": "https://github.com/huggingface/transformers/issues/42464",
+    "created_at": "2025-11-27T19:48:28Z",
+    "user": "Aznix07",
+    "labels": [
+      "New model"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3673007733,
+    "number": 32807,
+    "title": "release notes for 1.8.0 look suspiciously empty",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32807",
+    "created_at": "2025-11-27T21:08:56Z",
+    "user": "Remi-Gau",
+    "labels": [
+      "Build / CI",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3673036160,
+    "number": 169195,
+    "title": "[Inductor]  cpu triton backend fails with combo kernels on argmax/argmin ops",
+    "url": "https://github.com/pytorch/pytorch/issues/169195",
+    "created_at": "2025-11-27T21:23:17Z",
+    "user": "karthickai",
+    "labels": [
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3673095163,
+    "number": 2928,
+    "title": "Inference mode with Module_to_save LoRA",
+    "url": "https://github.com/huggingface/peft/issues/2928",
+    "created_at": "2025-11-27T21:56:53Z",
+    "user": "NguyenRichard",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3673173851,
+    "number": 2929,
+    "title": "Supported `transformers` versions are not clear",
+    "url": "https://github.com/huggingface/peft/issues/2929",
+    "created_at": "2025-11-27T22:53:57Z",
+    "user": "abdulfatir",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3673189096,
+    "number": 59050,
+    "title": "[<Ray component: Core|RLlib|etc...>] Ray 2.52 still uses python ^3.9",
+    "url": "https://github.com/ray-project/ray/issues/59050",
+    "created_at": "2025-11-27T23:08:39Z",
+    "user": "kylewamer",
+    "labels": [
+      "bug",
+      "triage",
+      "usability",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3673286287,
+    "number": 169197,
+    "title": "AOTI autotune failed due to device mismatch",
+    "url": "https://github.com/pytorch/pytorch/issues/169197",
+    "created_at": "2025-11-28T00:27:17Z",
+    "user": "larryliu0820",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3673418710,
+    "number": 59055,
+    "title": "[Serve] Support hard node label constraints in deployment scheduling",
+    "url": "https://github.com/ray-project/ray/issues/59055",
+    "created_at": "2025-11-28T02:27:10Z",
+    "user": "ktyxx",
+    "labels": [
+      "question",
+      "enhancement",
+      "triage",
+      "serve",
+      "usability",
+      "tech-debt",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3673469856,
+    "number": 3859,
+    "title": "Optimizer Adagrad not working with Accelerate",
+    "url": "https://github.com/huggingface/accelerate/issues/3859",
+    "created_at": "2025-11-28T03:08:31Z",
+    "user": "sdjasj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3673505254,
+    "number": 105257,
+    "title": "Autograph could not transform function and running as-is",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105257",
+    "created_at": "2025-11-28T03:35:14Z",
+    "user": "pritamdodeja",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3673665029,
+    "number": 3860,
+    "title": "Accelerate and DataLoaders",
+    "url": "https://github.com/huggingface/accelerate/issues/3860",
+    "created_at": "2025-11-28T05:32:55Z",
+    "user": "Bhoy1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3674061576,
+    "number": 169208,
+    "title": "Segmentation fault in torch.native_batch_norm with empty running_var tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/169208",
+    "created_at": "2025-11-28T08:32:46Z",
+    "user": "qiqicliff",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3674154882,
+    "number": 169210,
+    "title": "Segmentation Fault when Converting QInt32Storage to bfloat16",
+    "url": "https://github.com/pytorch/pytorch/issues/169210",
+    "created_at": "2025-11-28T09:08:03Z",
+    "user": "qiqicliff",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3674295909,
+    "number": 59063,
+    "title": "[Core, NPU] `torch.npu.is_available()` Returns False When Running Under 'ray job summit'",
+    "url": "https://github.com/ray-project/ray/issues/59063",
+    "created_at": "2025-11-28T09:55:13Z",
+    "user": "lowdy1",
+    "labels": [
+      "bug",
+      "triage",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3674305778,
+    "number": 169213,
+    "title": "CPU bad-free in `torch.nn.utils.rnn.pad_packed_sequence` / `unpack_sequence`",
+    "url": "https://github.com/pytorch/pytorch/issues/169213",
+    "created_at": "2025-11-28T09:58:13Z",
+    "user": "yyds1233",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3674458700,
+    "number": 42469,
+    "title": "now transformers is support Rust ,why not to develop java /scala3",
+    "url": "https://github.com/huggingface/transformers/issues/42469",
+    "created_at": "2025-11-28T10:46:40Z",
+    "user": "mullerhai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3674491844,
+    "number": 1897,
+    "title": "Support splitting to chunks during encode",
+    "url": "https://github.com/huggingface/tokenizers/issues/1897",
+    "created_at": "2025-11-28T10:57:04Z",
+    "user": "xrl1",
+    "labels": [
+      "Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3674584167,
+    "number": 1993,
+    "title": "Roadmap 2026",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1993",
+    "created_at": "2025-11-28T11:27:50Z",
+    "user": "fkiraly",
+    "labels": [
+      "roadmap"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3674779509,
+    "number": 105281,
+    "title": "quantization of transpose_conv ops in QuantizationDebugger seems invalid",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105281",
+    "created_at": "2025-11-28T12:34:35Z",
+    "user": "TeahyungKim",
+    "labels": [
+      "TFLiteConverter"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3674934786,
+    "number": 3861,
+    "title": "NCCL timeout for validation",
+    "url": "https://github.com/huggingface/accelerate/issues/3861",
+    "created_at": "2025-11-28T13:27:02Z",
+    "user": "FlamingSteamedBread",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3674961463,
+    "number": 105292,
+    "title": "Segmentation fault when using tf.raw_ops.AsString with large widthvalue",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105292",
+    "created_at": "2025-11-28T13:36:07Z",
+    "user": "qiqicliff",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675058939,
+    "number": 105297,
+    "title": "Segmentation fault when setting intra_op_parallelism_threadsto INT_MAX",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105297",
+    "created_at": "2025-11-28T14:10:39Z",
+    "user": "qiqicliff",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675105326,
+    "number": 105298,
+    "title": "from google.cloud import storage",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105298",
+    "created_at": "2025-11-28T14:27:48Z",
+    "user": "Sxlgxdx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675257875,
+    "number": 105302,
+    "title": "Segmentation fault in tf.raw_ops.TensorListSetItemwith extremely large index value",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105302",
+    "created_at": "2025-11-28T15:24:46Z",
+    "user": "qiqicliff",
+    "labels": [
+      "type:bug",
+      "comp:ops"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675279135,
+    "number": 105303,
+    "title": "Double free or corruption in SparseMatrixSparseCholeskywith extreme permutation values",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105303",
+    "created_at": "2025-11-28T15:32:59Z",
+    "user": "qiqicliff",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3675365828,
+    "number": 59064,
+    "title": "Ray Serve LLM placement groups conflict with vLLM v1 RayDistributedExecutor",
+    "url": "https://github.com/ray-project/ray/issues/59064",
+    "created_at": "2025-11-28T16:10:22Z",
+    "user": "dmvevents",
+    "labels": [
+      "serve",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3675535545,
+    "number": 32814,
+    "title": "Potential improvements for changelog/website situation during RC -> final transition",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32814",
+    "created_at": "2025-11-28T17:27:58Z",
+    "user": "lesteve",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3675670463,
+    "number": 12742,
+    "title": "Zero tensor in transformer_z_image",
+    "url": "https://github.com/huggingface/diffusers/issues/12742",
+    "created_at": "2025-11-28T18:47:49Z",
+    "user": "lime-j",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675928488,
+    "number": 105313,
+    "title": "Real Estate DAYS-AND-YEARS.MX",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105313",
+    "created_at": "2025-11-28T21:03:05Z",
+    "user": "Sxlgxdx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "id": 3675928853,
+    "number": 105314,
+    "title": "Younameisbitch",
+    "url": "https://github.com/tensorflow/tensorflow/issues/105314",
+    "created_at": "2025-11-28T21:03:24Z",
+    "user": "Sxlgxdx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3676086708,
+    "number": 42489,
+    "title": "PEFT training with gradient checkpointing fails",
+    "url": "https://github.com/huggingface/transformers/issues/42489",
+    "created_at": "2025-11-28T23:05:38Z",
+    "user": "qgallouedec",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3676098111,
+    "number": 169224,
+    "title": "[flex_attention] CPU support",
+    "url": "https://github.com/pytorch/pytorch/issues/169224",
+    "created_at": "2025-11-28T23:19:10Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3676102629,
+    "number": 42490,
+    "title": "Import warning when loading a local model from a path that ends with a slash",
+    "url": "https://github.com/huggingface/transformers/issues/42490",
+    "created_at": "2025-11-28T23:25:01Z",
+    "user": "kk-89",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

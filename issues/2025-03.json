@@ -1,0 +1,494 @@
+[
+  {
+    "repo": "huggingface/optimum",
+    "id": 2889442182,
+    "number": 2204,
+    "title": "Failed to export Llama with past-key-values to ONNX",
+    "url": "https://github.com/huggingface/optimum/issues/2204",
+    "created_at": "2025-03-02T09:45:59Z",
+    "user": "ahmedehabessa",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2891083417,
+    "number": 5599,
+    "title": "Language id or code",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5599",
+    "created_at": "2025-03-03T12:15:30Z",
+    "user": "Cafarli",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2892184445,
+    "number": 1741,
+    "title": "Cannot import name '__version__' from 'tokenizers.tokenizers'",
+    "url": "https://github.com/huggingface/tokenizers/issues/1741",
+    "created_at": "2025-03-03T19:59:06Z",
+    "user": "ArthurAardvark",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2894621583,
+    "number": 1788,
+    "title": "[BUG] plot_prediction_actual_by_variable mixes up variables for time_varying_known_categoricals",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1788",
+    "created_at": "2025-03-04T15:17:17Z",
+    "user": "mkuiack",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2901321042,
+    "number": 1789,
+    "title": "[ENH] Is there a way to pass an entire embedding to time_varying_unknown_reals without splitting it into individual components?",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1789",
+    "created_at": "2025-03-06T20:07:25Z",
+    "user": "LinearBasis",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2901582526,
+    "number": 1790,
+    "title": "Allow for different weights for different targets",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1790",
+    "created_at": "2025-03-06T22:40:21Z",
+    "user": "gaobhub",
+    "labels": [
+      "enhancement",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2910623476,
+    "number": 1792,
+    "title": "How to Use the TFT Model for Binary Classification on Time Series Data",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1792",
+    "created_at": "2025-03-11T13:45:41Z",
+    "user": "Hspix",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2910657404,
+    "number": 2212,
+    "title": "ORT whisper on TensorrtExecutionProvider is slower than PyTorch",
+    "url": "https://github.com/huggingface/optimum/issues/2212",
+    "created_at": "2025-03-11T13:57:04Z",
+    "user": "huggingfacename",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2916064546,
+    "number": 8966,
+    "title": "deform_conv2d on MPS.",
+    "url": "https://github.com/pytorch/vision/issues/8966",
+    "created_at": "2025-03-13T06:59:08Z",
+    "user": "bukhalmae145",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2916082267,
+    "number": 2215,
+    "title": "not able to convert DeepSeek-R1 into Onnx using optimum-cli",
+    "url": "https://github.com/huggingface/optimum/issues/2215",
+    "created_at": "2025-03-13T07:07:10Z",
+    "user": "volcano619",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2916126586,
+    "number": 8967,
+    "title": "Failed to install vision based on python 3.13t(free-threaded) on Windows OS",
+    "url": "https://github.com/pytorch/vision/issues/8967",
+    "created_at": "2025-03-13T07:28:42Z",
+    "user": "jameszhouyi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2916198824,
+    "number": 1794,
+    "title": "[MNT] Upgrade to `torch>2.2.2` because of CVE-2024-5480",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1794",
+    "created_at": "2025-03-13T08:00:10Z",
+    "user": "RobKuebler",
+    "labels": [
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2916270742,
+    "number": 1795,
+    "title": "[BUG]: Error while assuming fixed number of dimensions in QuantileLoss.loss",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1795",
+    "created_at": "2025-03-13T08:29:30Z",
+    "user": "bobbyx27",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2924263267,
+    "number": 3892,
+    "title": "No support for Blackwell GPUs on cu128",
+    "url": "https://github.com/pytorch/audio/issues/3892",
+    "created_at": "2025-03-17T09:02:33Z",
+    "user": "AlargerCorgi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2926436611,
+    "number": 1751,
+    "title": "Proposal: Add Golang Bindings for tokenizers",
+    "url": "https://github.com/huggingface/tokenizers/issues/1751",
+    "created_at": "2025-03-17T21:32:54Z",
+    "user": "Nav31",
+    "labels": [
+      "Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 2928997249,
+    "number": 2434,
+    "title": "Request for integrate sine-LoRA",
+    "url": "https://github.com/huggingface/peft/issues/2434",
+    "created_at": "2025-03-18T15:49:34Z",
+    "user": "yipingji",
+    "labels": [
+      "wip"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2930130677,
+    "number": 2218,
+    "title": "Caching xenova repo onnx files - filename parameter not working",
+    "url": "https://github.com/huggingface/optimum/issues/2218",
+    "created_at": "2025-03-18T22:25:45Z",
+    "user": "gidzr",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2930158047,
+    "number": 8985,
+    "title": "torchvision 0.21.0+cu126 RuntimeError: operator torchvision::nms does not exist",
+    "url": "https://github.com/pytorch/vision/issues/8985",
+    "created_at": "2025-03-19T01:09:11Z",
+    "user": "AndrewTsao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2932840330,
+    "number": 3302,
+    "title": "[BUG] OSError: /usr/local/lib/python3.10/dist-packages/fbgemm_gpu/fbgemm_gpu_config.so: undefined symbol against PyTorch 2.7",
+    "url": "https://github.com/pytorch/tutorials/issues/3302",
+    "created_at": "2025-03-19T18:59:21Z",
+    "user": "AlannaBurke",
+    "labels": [
+      "bug",
+      "2.7"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2932865203,
+    "number": 8986,
+    "title": "Speed up JPEG decoding by allowing resize during decode",
+    "url": "https://github.com/pytorch/vision/issues/8986",
+    "created_at": "2025-03-19T19:08:46Z",
+    "user": "gyf304",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2933120976,
+    "number": 3303,
+    "title": "[BUG] - advanced_source/semi_structured_sparse.py fails against 2.7",
+    "url": "https://github.com/pytorch/tutorials/issues/3303",
+    "created_at": "2025-03-19T20:41:53Z",
+    "user": "svekars",
+    "labels": [
+      "bug",
+      "2.7"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2936220092,
+    "number": 3893,
+    "title": "ffmpeg extension fails with unexpected options: threads for encoders that natively do not support threading.",
+    "url": "https://github.com/pytorch/audio/issues/3893",
+    "created_at": "2025-03-20T17:40:42Z",
+    "user": "JacekDuszenko",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2937082010,
+    "number": 21078,
+    "title": "How Do I Track a List of Objects for Export?",
+    "url": "https://github.com/keras-team/keras/issues/21078",
+    "created_at": "2025-03-21T02:25:34Z",
+    "user": "rlcauvin",
+    "labels": [
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "id": 2945718810,
+    "number": 5601,
+    "title": "roberta-base wrong number of parameters",
+    "url": "https://github.com/facebookresearch/fairseq/issues/5601",
+    "created_at": "2025-03-25T08:31:43Z",
+    "user": "mumu12641",
+    "labels": [
+      "question",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2945990006,
+    "number": 3895,
+    "title": "add map option to io.StreamWriter audio track",
+    "url": "https://github.com/pytorch/audio/issues/3895",
+    "created_at": "2025-03-25T10:07:43Z",
+    "user": "AngeloGiacco",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 2948742339,
+    "number": 3896,
+    "title": "NVENC encoder video quality issue",
+    "url": "https://github.com/pytorch/audio/issues/3896",
+    "created_at": "2025-03-26T08:16:59Z",
+    "user": "JerryZhang19",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2950650728,
+    "number": 21092,
+    "title": "Outdated code",
+    "url": "https://github.com/keras-team/keras/issues/21092",
+    "created_at": "2025-03-26T19:48:17Z",
+    "user": "lmntrx-sys",
+    "labels": [
+      "stat:contributions welcome",
+      "type:docs-bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 2950778671,
+    "number": 1806,
+    "title": "[BUG] MultiNormalizer on __sklearn_is_fitted__ function call returns [false/true, false/true, ...] list",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/1806",
+    "created_at": "2025-03-26T21:00:24Z",
+    "user": "Simone99",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2952390189,
+    "number": 21097,
+    "title": "`sparse_categorical_crossentropy` ignores feature channel (and axis parameter) when checking tensor dimensions [torch backend])",
+    "url": "https://github.com/keras-team/keras/issues/21097",
+    "created_at": "2025-03-27T10:23:33Z",
+    "user": "enricoschroeder",
+    "labels": [
+      "type:Bug",
+      "backend:torch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2953908635,
+    "number": 9008,
+    "title": "Torchvision bounding boxes do not match the images, becuase the bboxes are from the pre-cropped, pre-resized version.",
+    "url": "https://github.com/pytorch/vision/issues/9008",
+    "created_at": "2025-03-27T17:34:15Z",
+    "user": "yaoshiang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2956489905,
+    "number": 21105,
+    "title": "custom_gradient not working with JAX backend",
+    "url": "https://github.com/keras-team/keras/issues/21105",
+    "created_at": "2025-03-28T15:29:09Z",
+    "user": "larschristensen",
+    "labels": [
+      "type:Bug",
+      "backend:jax"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 2958204983,
+    "number": 21108,
+    "title": "Keras on Mac (M4) is giving inconsistent results compared to running on NVIDIA GPUs",
+    "url": "https://github.com/keras-team/keras/issues/21108",
+    "created_at": "2025-03-29T16:23:09Z",
+    "user": "To3No7",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 2958657709,
+    "number": 9010,
+    "title": "torchvision causes av frame generation to hang",
+    "url": "https://github.com/pytorch/vision/issues/9010",
+    "created_at": "2025-03-29T22:30:55Z",
+    "user": "oliverdain",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 2958947512,
+    "number": 3308,
+    "title": "💡 [REQUEST] - <title>Pruning tutorial: clarify how to achieve comparable performance to non-pruned?",
+    "url": "https://github.com/pytorch/tutorials/issues/3308",
+    "created_at": "2025-03-30T15:49:41Z",
+    "user": "drscotthawley",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]
