@@ -1,12 +1,12 @@
 [
   {
     "repo": "jax-ml/jax",
-    "id": 2365361287,
-    "number": 22011,
-    "title": "`lax.cond` sometimes inserts a nonlinear `lax.stop_gradient` into its JVP rule.",
-    "url": "https://github.com/jax-ml/jax/issues/22011",
-    "created_at": "2024-06-20T22:17:14Z",
-    "user": "patrick-kidger",
+    "id": 1574206613,
+    "number": 14327,
+    "title": "Time difference using jit",
+    "url": "https://github.com/jax-ml/jax/issues/14327",
+    "created_at": "2023-02-07T12:04:42Z",
+    "user": "GiantElephant123",
     "labels": [
       "bug"
     ],
