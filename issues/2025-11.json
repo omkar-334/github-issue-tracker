@@ -13594,5 +13594,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3676398174,
+    "number": 30798,
+    "title": "[TST] Upcoming dependency test failures",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30798",
+    "created_at": "2025-11-29T06:07:09Z",
+    "user": "github-actions[bot]",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
