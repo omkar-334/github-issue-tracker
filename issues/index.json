@@ -37658,8 +37658,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3676316784,
+      "number": 42491,
+      "title": "The LoRA model trained with qwen3_moe on hf4.x cannot be used on the current main branch (hf5.x).",
+      "url": "https://github.com/huggingface/transformers/issues/42491",
+      "created_at": "2025-11-29T03:57:15Z",
+      "user": "B-201",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T03:54:14Z",
-  "total_count": 2556
+  "last_updated": "2025-11-29T04:12:23Z",
+  "total_count": 2557
 }
