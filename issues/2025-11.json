@@ -13756,5 +13756,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3676718622,
+    "number": 10355,
+    "title": "Cannot use global TypedList",
+    "url": "https://github.com/numba/numba/issues/10355",
+    "created_at": "2025-11-29T12:36:24Z",
+    "user": "ricardoV94",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3676722587,
+    "number": 169236,
+    "title": "[MPS] nn.ConvTranspose{1,2,3}d ignore validation check for output_padding < stride (Silent Failure)",
+    "url": "https://github.com/pytorch/pytorch/issues/169236",
+    "created_at": "2025-11-29T12:42:28Z",
+    "user": "lingebeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
