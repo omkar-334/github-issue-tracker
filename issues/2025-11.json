@@ -13853,5 +13853,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3676899792,
+    "number": 17281,
+    "title": "[Bug]: Database connection leak",
+    "url": "https://github.com/BerriAI/litellm/issues/17281",
+    "created_at": "2025-11-29T16:27:36Z",
+    "user": "LoadingZhang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
