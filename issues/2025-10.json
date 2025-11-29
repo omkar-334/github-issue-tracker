@@ -269,6 +269,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3476456558,
+    "number": 3397,
+    "title": "[Bug] - Recent update broke trainer ; endless loop during tokenization",
+    "url": "https://github.com/unslothai/unsloth/issues/3397",
+    "created_at": "2025-10-02T07:46:28Z",
+    "user": "David-AU-github",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3476869035,
     "number": 7185,
