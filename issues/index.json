@@ -33484,6 +33484,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3663629008,
+      "number": 17084,
+      "title": "[Bug]: Gemini file upload with experimental responses api",
+      "url": "https://github.com/BerriAI/litellm/issues/17084",
+      "created_at": "2025-11-25T15:50:31Z",
+      "user": "dempo93",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3663671573,
       "number": 58973,
@@ -38037,6 +38053,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-29T15:14:39Z",
-  "total_count": 2582
+  "last_updated": "2025-11-29T15:38:03Z",
+  "total_count": 2583
 }
