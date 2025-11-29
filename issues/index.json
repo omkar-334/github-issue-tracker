@@ -1796,6 +1796,21 @@
       "archived": false
     },
     {
+      "repo": "sktime/sktime",
+      "id": 2842193996,
+      "number": 7802,
+      "title": "[DOC] reviewer guide and clear link to risk matrix in guide and gov docs",
+      "url": "https://github.com/sktime/sktime/issues/7802",
+      "created_at": "2025-02-10T11:57:02Z",
+      "user": "fkiraly",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2843620160,
       "number": 1766,
@@ -38147,6 +38162,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-29T17:38:46Z",
-  "total_count": 2589
+  "last_updated": "2025-11-29T18:21:13Z",
+  "total_count": 2590
 }
