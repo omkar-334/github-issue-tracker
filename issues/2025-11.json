@@ -13579,5 +13579,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3676376020,
+    "number": 42492,
+    "title": "'Automatic Speech Recognition' pipeline not working for Phi4 Multimodal Instruct",
+    "url": "https://github.com/huggingface/transformers/issues/42492",
+    "created_at": "2025-11-29T05:32:24Z",
+    "user": "palladium123",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

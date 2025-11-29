@@ -17906,6 +17906,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3483628548,
+      "number": 41341,
+      "title": "Cannot install latest transformers version 4.57.0 in free-threaded python version 3.14",
+      "url": "https://github.com/huggingface/transformers/issues/41341",
+      "created_at": "2025-10-04T12:07:45Z",
+      "user": "fleonce",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3483904768,
       "number": 7191,
@@ -37673,8 +37688,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3676376020,
+      "number": 42492,
+      "title": "'Automatic Speech Recognition' pipeline not working for Phi4 Multimodal Instruct",
+      "url": "https://github.com/huggingface/transformers/issues/42492",
+      "created_at": "2025-11-29T05:32:24Z",
+      "user": "palladium123",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T05:15:33Z",
-  "total_count": 2557
+  "last_updated": "2025-11-29T05:41:27Z",
+  "total_count": 2559
 }
