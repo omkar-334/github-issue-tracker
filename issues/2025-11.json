@@ -13914,5 +13914,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3677098506,
+    "number": 34145,
+    "title": "ClearToolUsesEdit add option to select specific tools instead of having to exclude tools",
+    "url": "https://github.com/langchain-ai/langchain/issues/34145",
+    "created_at": "2025-11-29T21:09:22Z",
+    "user": "valentingoelz",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
