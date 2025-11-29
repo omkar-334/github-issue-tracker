@@ -14193,6 +14193,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3396094909,
+      "number": 162435,
+      "title": "DISABLED test_fw_bw_graph_correctness_xpu (__main__.TestFlexAttentionXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/162435",
+      "created_at": "2025-09-09T00:05:47Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3396314259,
       "number": 2925,
@@ -20476,6 +20493,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3529953113,
+      "number": 165858,
+      "title": "DISABLED test_2d_reduction_multi_kernel_xpu (__main__.TritonBlockPointerTestGPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/165858",
+      "created_at": "2025-10-19T10:48:43Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3529988314,
       "number": 2698,
@@ -23567,6 +23601,108 @@
       "user": "SicariusSicariiStuff",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573820430,
+      "number": 166704,
+      "title": "DISABLED test_flop_counter_op_options0_xpu_float16 (__main__.TestSchedulerXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166704",
+      "created_at": "2025-10-31T08:13:16Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573823337,
+      "number": 166705,
+      "title": "DISABLED test_flop_counter_op_options0_xpu_float32 (__main__.TestSchedulerXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166705",
+      "created_at": "2025-10-31T08:14:18Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573836960,
+      "number": 166706,
+      "title": "DISABLED test_flop_counter_op_options1_xpu_float16 (__main__.TestSchedulerXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166706",
+      "created_at": "2025-10-31T08:18:45Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573838978,
+      "number": 166707,
+      "title": "DISABLED test_flop_counter_op_options1_xpu_float32 (__main__.TestSchedulerXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166707",
+      "created_at": "2025-10-31T08:19:29Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573910365,
+      "number": 166709,
+      "title": "DISABLED test_dtype_aware_codegen_op_name_sqrt_load_upcast_to_fp32_False_bfloat16_xpu (__main__.TestCaseXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166709",
+      "created_at": "2025-10-31T08:39:57Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3573911602,
+      "number": 166710,
+      "title": "DISABLED test_dtype_aware_codegen_op_name_sqrt_load_upcast_to_fp32_False_float16_xpu (__main__.TestCaseXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/166710",
+      "created_at": "2025-10-31T08:40:21Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -28169,6 +28305,57 @@
       "user": "ikuto32",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3623982866,
+      "number": 167808,
+      "title": "DISABLED test_lite_mode_not_decompose_dynamic_shapes_xpu (__main__.DynamicShapesCodegenGPUTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/167808",
+      "created_at": "2025-11-14T05:44:48Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3623985536,
+      "number": 167809,
+      "title": "DISABLED test_lite_mode_not_decompose_dynamic_shapes_xpu (__main__.DynamicShapesGPUTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/167809",
+      "created_at": "2025-11-14T05:46:01Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3623999927,
+      "number": 167810,
+      "title": "DISABLED test_lite_mode_not_decompose_xpu (__main__.GPUTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/167810",
+      "created_at": "2025-11-14T05:50:48Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -37362,8 +37549,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3676149466,
+      "number": 17273,
+      "title": "[Bug]: MCP server re-connection on every tool call causing potential latency",
+      "url": "https://github.com/BerriAI/litellm/issues/17273",
+      "created_at": "2025-11-29T00:26:22Z",
+      "user": "uc4w6c",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T00:03:03Z",
-  "total_count": 2538
+  "last_updated": "2025-11-29T02:05:31Z",
+  "total_count": 2550
 }

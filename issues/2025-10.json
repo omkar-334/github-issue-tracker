@@ -3161,6 +3161,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3529953113,
+    "number": 165858,
+    "title": "DISABLED test_2d_reduction_multi_kernel_xpu (__main__.TritonBlockPointerTestGPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/165858",
+    "created_at": "2025-10-19T10:48:43Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3529988314,
     "number": 2698,
@@ -6252,6 +6269,108 @@
     "user": "SicariusSicariiStuff",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573820430,
+    "number": 166704,
+    "title": "DISABLED test_flop_counter_op_options0_xpu_float16 (__main__.TestSchedulerXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166704",
+    "created_at": "2025-10-31T08:13:16Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573823337,
+    "number": 166705,
+    "title": "DISABLED test_flop_counter_op_options0_xpu_float32 (__main__.TestSchedulerXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166705",
+    "created_at": "2025-10-31T08:14:18Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573836960,
+    "number": 166706,
+    "title": "DISABLED test_flop_counter_op_options1_xpu_float16 (__main__.TestSchedulerXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166706",
+    "created_at": "2025-10-31T08:18:45Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573838978,
+    "number": 166707,
+    "title": "DISABLED test_flop_counter_op_options1_xpu_float32 (__main__.TestSchedulerXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166707",
+    "created_at": "2025-10-31T08:19:29Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573910365,
+    "number": 166709,
+    "title": "DISABLED test_dtype_aware_codegen_op_name_sqrt_load_upcast_to_fp32_False_bfloat16_xpu (__main__.TestCaseXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166709",
+    "created_at": "2025-10-31T08:39:57Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3573911602,
+    "number": 166710,
+    "title": "DISABLED test_dtype_aware_codegen_op_name_sqrt_load_upcast_to_fp32_False_float16_xpu (__main__.TestCaseXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/166710",
+    "created_at": "2025-10-31T08:40:21Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

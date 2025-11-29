@@ -4268,6 +4268,57 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3623982866,
+    "number": 167808,
+    "title": "DISABLED test_lite_mode_not_decompose_dynamic_shapes_xpu (__main__.DynamicShapesCodegenGPUTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/167808",
+    "created_at": "2025-11-14T05:44:48Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3623985536,
+    "number": 167809,
+    "title": "DISABLED test_lite_mode_not_decompose_dynamic_shapes_xpu (__main__.DynamicShapesGPUTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/167809",
+    "created_at": "2025-11-14T05:46:01Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3623999927,
+    "number": 167810,
+    "title": "DISABLED test_lite_mode_not_decompose_xpu (__main__.GPUTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/167810",
+    "created_at": "2025-11-14T05:50:48Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3624114109,
     "number": 3339,
@@ -13452,6 +13503,21 @@
     "created_at": "2025-11-28T23:47:32Z",
     "user": "tsh356",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3676149466,
+    "number": 17273,
+    "title": "[Bug]: MCP server re-connection on every tool call causing potential latency",
+    "url": "https://github.com/BerriAI/litellm/issues/17273",
+    "created_at": "2025-11-29T00:26:22Z",
+    "user": "uc4w6c",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

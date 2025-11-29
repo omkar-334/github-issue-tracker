@@ -635,6 +635,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3396094909,
+    "number": 162435,
+    "title": "DISABLED test_fw_bw_graph_correctness_xpu (__main__.TestFlexAttentionXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/162435",
+    "created_at": "2025-09-09T00:05:47Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3396314259,
     "number": 2925,
