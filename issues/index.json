@@ -3605,6 +3605,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 2985803645,
+      "number": 9882,
+      "title": "[Bug]: Bedrock guardrails analysing (and blocking) old+system messages",
+      "url": "https://github.com/BerriAI/litellm/issues/9882",
+      "created_at": "2025-04-10T14:00:00Z",
+      "user": "athewsey",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "april 2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 2986798759,
       "number": 3163,
@@ -38244,6 +38261,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-29T21:14:02Z",
-  "total_count": 2595
+  "last_updated": "2025-11-29T21:36:57Z",
+  "total_count": 2596
 }
