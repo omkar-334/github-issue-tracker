@@ -13930,5 +13930,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3677174173,
+    "number": 9142,
+    "title": "[ENH]Add vectorized multiseries support to NaiveForecaster (panel/hierarchical)",
+    "url": "https://github.com/sktime/sktime/issues/9142",
+    "created_at": "2025-11-29T22:57:35Z",
+    "user": "ahmedkansulum",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
