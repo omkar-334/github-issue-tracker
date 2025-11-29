@@ -11227,6 +11227,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 3276799103,
+      "number": 12022,
+      "title": "_flash_attention_3 in dispatch_attention_fn is not compatible with the latest flash-atten interface.",
+      "url": "https://github.com/huggingface/diffusers/issues/12022",
+      "created_at": "2025-07-30T12:13:50Z",
+      "user": "hmzjwhmzjw",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3276977395,
       "number": 3497,
@@ -38261,6 +38276,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-29T21:36:57Z",
-  "total_count": 2596
+  "last_updated": "2025-11-29T22:14:51Z",
+  "total_count": 2597
 }
