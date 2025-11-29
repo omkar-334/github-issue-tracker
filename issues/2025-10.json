@@ -5964,6 +5964,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3569980157,
+    "number": 166628,
+    "title": "[WinError 1114] A dynamic link library (DLL) initialization routine failed",
+    "url": "https://github.com/pytorch/pytorch/issues/166628",
+    "created_at": "2025-10-30T10:14:41Z",
+    "user": "denizsafak",
+    "labels": [
+      "module: binaries",
+      "module: windows",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3570178849,
     "number": 32611,

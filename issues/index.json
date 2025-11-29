@@ -23406,6 +23406,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3569980157,
+      "number": 166628,
+      "title": "[WinError 1114] A dynamic link library (DLL) initialization routine failed",
+      "url": "https://github.com/pytorch/pytorch/issues/166628",
+      "created_at": "2025-10-30T10:14:41Z",
+      "user": "denizsafak",
+      "labels": [
+        "module: binaries",
+        "module: windows",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 3570178849,
       "number": 32611,
@@ -38051,8 +38068,37 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3676866410,
+      "number": 12749,
+      "title": "An Idea for partial sequential cpu offloading",
+      "url": "https://github.com/huggingface/diffusers/issues/12749",
+      "created_at": "2025-11-29T15:41:10Z",
+      "user": "rodjjo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3676867574,
+      "number": 34143,
+      "title": "ChatGoogleGenerativeAIError: 400 - contents is not specified",
+      "url": "https://github.com/langchain-ai/langchain/issues/34143",
+      "created_at": "2025-11-29T15:42:54Z",
+      "user": "pavankumarbalijepalli",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T15:38:03Z",
-  "total_count": 2583
+  "last_updated": "2025-11-29T16:18:06Z",
+  "total_count": 2586
 }
