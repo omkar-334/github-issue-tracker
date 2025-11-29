@@ -509,6 +509,23 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 2760316976,
+    "number": 22194,
+    "title": "RFC: stats: sunsetting `scipy.stats.mstats`",
+    "url": "https://github.com/scipy/scipy/issues/22194",
+    "created_at": "2024-12-27T02:43:35Z",
+    "user": "mdhaber",
+    "labels": [
+      "scipy.stats",
+      "deprecated",
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchchat",
     "id": 2761127837,
     "number": 1444,
