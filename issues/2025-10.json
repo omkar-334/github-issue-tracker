@@ -2971,6 +2971,22 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3526390449,
+    "number": 57839,
+    "title": "[KubeRay] \"Gang Scheduling with RayJob and Kueue\" tutorial only works without workers",
+    "url": "https://github.com/ray-project/ray/issues/57839",
+    "created_at": "2025-10-17T14:28:07Z",
+    "user": "fg91",
+    "labels": [
+      "triage",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3526517955,
     "number": 3476,

@@ -2137,6 +2137,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3427683277,
+    "number": 56633,
+    "title": "[Serve] model multiplexing and batching does not work together",
+    "url": "https://github.com/ray-project/ray/issues/56633",
+    "created_at": "2025-09-17T20:17:09Z",
+    "user": "patches11",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3427838250,
     "number": 2928,
