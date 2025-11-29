@@ -15879,6 +15879,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3431179483,
+      "number": 14409,
+      "title": "Publish tokenizer nightly wheel to pip",
+      "url": "https://github.com/pytorch/executorch/issues/14409",
+      "created_at": "2025-09-18T16:47:14Z",
+      "user": "larryliu0820",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3431226591,
       "number": 30585,
@@ -16346,6 +16359,19 @@
       "url": "https://github.com/huggingface/sentence-transformers/issues/3523",
       "created_at": "2025-09-23T14:21:51Z",
       "user": "AmitPoonia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3446280277,
+      "number": 14525,
+      "title": "Improve error message for unset/missing inputs",
+      "url": "https://github.com/pytorch/executorch/issues/14525",
+      "created_at": "2025-09-23T18:31:08Z",
+      "user": "GregoryComer",
       "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -19167,6 +19193,19 @@
       "labels": [
         "Documentation"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3504766822,
+      "number": 15031,
+      "title": "Shut down AWS device farm benchmark jobs",
+      "url": "https://github.com/pytorch/executorch/issues/15031",
+      "created_at": "2025-10-10T23:30:40Z",
+      "user": "GregoryComer",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -37868,8 +37907,51 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3676672666,
+      "number": 9139,
+      "title": "[ENH] Add MeanSquaredLogarithmicError (MSLE) metric",
+      "url": "https://github.com/sktime/sktime/issues/9139",
+      "created_at": "2025-11-29T11:52:50Z",
+      "user": "alphaleporus",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3676676216,
+      "number": 17275,
+      "title": "STRIX_LLM configuration fails with BadRequestError or AuthenticationError using OpenRouter/Gemini APIs",
+      "url": "https://github.com/BerriAI/litellm/issues/17275",
+      "created_at": "2025-11-29T11:57:49Z",
+      "user": "Mirzabaig313",
+      "labels": [
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3676691111,
+      "number": 169235,
+      "title": "[MPS] nn.MaxUnpool1/2/3d fails to check shape consistency between input and indices (Silent Failure)",
+      "url": "https://github.com/pytorch/pytorch/issues/169235",
+      "created_at": "2025-11-29T12:13:56Z",
+      "user": "lingebeng",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T11:36:36Z",
-  "total_count": 2570
+  "last_updated": "2025-11-29T12:29:24Z",
+  "total_count": 2576
 }

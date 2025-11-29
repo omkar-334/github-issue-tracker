@@ -2289,6 +2289,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3431179483,
+    "number": 14409,
+    "title": "Publish tokenizer nightly wheel to pip",
+    "url": "https://github.com/pytorch/executorch/issues/14409",
+    "created_at": "2025-09-18T16:47:14Z",
+    "user": "larryliu0820",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3431226591,
     "number": 30585,
@@ -2756,6 +2769,19 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3523",
     "created_at": "2025-09-23T14:21:51Z",
     "user": "AmitPoonia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3446280277,
+    "number": 14525,
+    "title": "Improve error message for unset/missing inputs",
+    "url": "https://github.com/pytorch/executorch/issues/14525",
+    "created_at": "2025-09-23T18:31:08Z",
+    "user": "GregoryComer",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

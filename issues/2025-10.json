@@ -1774,6 +1774,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3504766822,
+    "number": 15031,
+    "title": "Shut down AWS device farm benchmark jobs",
+    "url": "https://github.com/pytorch/executorch/issues/15031",
+    "created_at": "2025-10-10T23:30:40Z",
+    "user": "GregoryComer",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3505045085,
     "number": 1855,
