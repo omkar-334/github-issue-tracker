@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 2362484276,
+    "number": 59053,
+    "title": "BUG: `Series.clip` does not work with scalar numpy arrays.",
+    "url": "https://github.com/pandas-dev/pandas/issues/59053",
+    "created_at": "2024-06-19T14:07:23Z",
+    "user": "randolf-scholz",
+    "labels": [
+      "Bug",
+      "Needs Discussion",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
