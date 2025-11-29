@@ -13868,5 +13868,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3676951911,
+    "number": 34144,
+    "title": "Langchain-ollama error for strict parameter with gpt oss 20b cloud model",
+    "url": "https://github.com/langchain-ai/langchain/issues/34144",
+    "created_at": "2025-11-29T17:37:14Z",
+    "user": "MeetSolanki530",
+    "labels": [
+      "bug",
+      "ollama"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

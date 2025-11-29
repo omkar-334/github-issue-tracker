@@ -12357,6 +12357,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3319534348,
+      "number": 13593,
+      "title": "[Bug]: Random Invalid Model Name Errors",
+      "url": "https://github.com/BerriAI/litellm/issues/13593",
+      "created_at": "2025-08-13T19:09:09Z",
+      "user": "decent-engineer-decent-datascientist",
+      "labels": [
+        "bug",
+        "awaiting: user response",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "plotly/plotly.py",
       "id": 3319900575,
       "number": 5324,
@@ -38112,8 +38129,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3676951911,
+      "number": 34144,
+      "title": "Langchain-ollama error for strict parameter with gpt oss 20b cloud model",
+      "url": "https://github.com/langchain-ai/langchain/issues/34144",
+      "created_at": "2025-11-29T17:37:14Z",
+      "user": "MeetSolanki530",
+      "labels": [
+        "bug",
+        "ollama"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T17:13:40Z",
-  "total_count": 2587
+  "last_updated": "2025-11-29T17:38:46Z",
+  "total_count": 2589
 }

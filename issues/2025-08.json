@@ -1061,6 +1061,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3319534348,
+    "number": 13593,
+    "title": "[Bug]: Random Invalid Model Name Errors",
+    "url": "https://github.com/BerriAI/litellm/issues/13593",
+    "created_at": "2025-08-13T19:09:09Z",
+    "user": "decent-engineer-decent-datascientist",
+    "labels": [
+      "bug",
+      "awaiting: user response",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3319900575,
     "number": 5324,
