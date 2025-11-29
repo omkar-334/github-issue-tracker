@@ -8664,6 +8664,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3659958340,
+    "number": 168991,
+    "title": "[CUDA] `torch.tensor(-float(\"inf\"), dtype=torch.float16, device=\"cuda:0\")` breaks stream capture",
+    "url": "https://github.com/pytorch/pytorch/issues/168991",
+    "created_at": "2025-11-24T18:03:02Z",
+    "user": "galv",
+    "labels": [
+      "triaged",
+      "module: cuda graphs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3660027137,
     "number": 58937,
@@ -13603,6 +13619,19 @@
     "url": "https://github.com/matplotlib/matplotlib/issues/30798",
     "created_at": "2025-11-29T06:07:09Z",
     "user": "github-actions[bot]",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3676461764,
+    "number": 12745,
+    "title": "ZImagePipeline Add Lora",
+    "url": "https://github.com/huggingface/diffusers/issues/12745",
+    "created_at": "2025-11-29T07:29:45Z",
+    "user": "snz2",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
