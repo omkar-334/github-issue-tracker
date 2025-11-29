@@ -13549,5 +13549,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3676297639,
+    "number": 4602,
+    "title": "openai-compatible responses and chat completions endpoints in vllm_serve.py",
+    "url": "https://github.com/huggingface/trl/issues/4602",
+    "created_at": "2025-11-29T03:23:16Z",
+    "user": "cmunley1",
+    "labels": [
+      "✨ enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
