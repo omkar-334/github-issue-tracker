@@ -13636,5 +13636,23 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3676494534,
+    "number": 169232,
+    "title": "[Graph Partition] Wrong graph signature",
+    "url": "https://github.com/pytorch/pytorch/issues/169232",
+    "created_at": "2025-11-29T08:03:56Z",
+    "user": "BoyuanFeng",
+    "labels": [
+      "triaged",
+      "module: cuda graphs",
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

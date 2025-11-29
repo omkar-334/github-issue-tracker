@@ -22934,6 +22934,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3566241264,
+      "number": 41935,
+      "title": "Missing `config.json` and `preprocessor_config.json` in `kyutai/moshiko-pytorch-bf16 model` repo",
+      "url": "https://github.com/huggingface/transformers/issues/41935",
+      "created_at": "2025-10-29T14:20:23Z",
+      "user": "akshatvishu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3566429419,
       "number": 12559,
@@ -37761,8 +37776,26 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3676494534,
+      "number": 169232,
+      "title": "[Graph Partition] Wrong graph signature",
+      "url": "https://github.com/pytorch/pytorch/issues/169232",
+      "created_at": "2025-11-29T08:03:56Z",
+      "user": "BoyuanFeng",
+      "labels": [
+        "triaged",
+        "module: cuda graphs",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T07:36:53Z",
-  "total_count": 2563
+  "last_updated": "2025-11-29T08:20:24Z",
+  "total_count": 2565
 }
