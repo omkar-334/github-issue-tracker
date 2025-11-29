@@ -13782,5 +13782,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3676768642,
+    "number": 169237,
+    "title": "Large discrepancy between CPU and GPU norms for identical float32 tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/169237",
+    "created_at": "2025-11-29T13:38:30Z",
+    "user": "vinith2",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

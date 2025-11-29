@@ -8701,6 +8701,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3203594677,
+      "number": 157648,
+      "title": "RuntimeError: operator torchvision::nms does not exist",
+      "url": "https://github.com/pytorch/pytorch/issues/157648",
+      "created_at": "2025-07-04T19:49:24Z",
+      "user": "ralphrmartin",
+      "labels": [
+        "low priority",
+        "triaged",
+        "module: hub",
+        "has workaround"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3203851667,
       "number": 3426,
@@ -37976,8 +37994,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3676768642,
+      "number": 169237,
+      "title": "Large discrepancy between CPU and GPU norms for identical float32 tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/169237",
+      "created_at": "2025-11-29T13:38:30Z",
+      "user": "vinith2",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T13:04:42Z",
-  "total_count": 2578
+  "last_updated": "2025-11-29T13:42:28Z",
+  "total_count": 2580
 }
