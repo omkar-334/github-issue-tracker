@@ -29473,6 +29473,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3631558946,
+      "number": 167956,
+      "title": "Dynamo: Incorrect ObservedTypeError: ConstantVariable(str: \"unhashable type: <class 'torch._dynamo.variables.user_defined.UserDefinedObjectVariable'>\")",
+      "url": "https://github.com/pytorch/pytorch/issues/167956",
+      "created_at": "2025-11-17T03:12:11Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3631741451,
       "number": 3603,
@@ -38196,8 +38213,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3677037254,
+      "number": 12752,
+      "title": "Z-Image img2img pipeline",
+      "url": "https://github.com/huggingface/diffusers/issues/12752",
+      "created_at": "2025-11-29T19:37:27Z",
+      "user": "CalamitousFelicitousness",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T19:36:36Z",
-  "total_count": 2592
+  "last_updated": "2025-11-29T20:17:08Z",
+  "total_count": 2594
 }
