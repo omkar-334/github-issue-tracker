@@ -1,5 +1,18 @@
 [
   {
+    "repo": "keras-team/keras-rs",
+    "id": 2888797708,
+    "number": 36,
+    "title": "Add `temperature`, `lambda_weights` to pairwise losses",
+    "url": "https://github.com/keras-team/keras-rs/issues/36",
+    "created_at": "2025-03-01T10:26:11Z",
+    "user": "abheesht17",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2889442182,
     "number": 2204,
@@ -9,6 +22,36 @@
     "user": "ahmedehabessa",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2889462496,
+    "number": 2122,
+    "title": "Add Pure Keras 3 CRF Layer with Native Loss and Viterbi Decoding for Sequence Labeling",
+    "url": "https://github.com/keras-team/keras-hub/issues/2122",
+    "created_at": "2025-03-02T10:28:19Z",
+    "user": "gcuder",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 2890868682,
+    "number": 1468,
+    "title": "Discontinuous mentions in the coref model",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1468",
+    "created_at": "2025-03-03T10:46:43Z",
+    "user": "501Good",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -44,6 +87,19 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2893975693,
+    "number": 13763,
+    "title": "\"from IPython.core.display import HTML, display\" no more supported for latest IPython",
+    "url": "https://github.com/explosion/spaCy/issues/13763",
+    "created_at": "2025-03-04T11:45:05Z",
+    "user": "ZhihuiLuo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2894621583,
     "number": 1788,
@@ -53,6 +109,37 @@
     "user": "mkuiack",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2895213321,
+    "number": 2125,
+    "title": "`model.safetensors` doesn't exist in preset directory",
+    "url": "https://github.com/keras-team/keras-hub/issues/2125",
+    "created_at": "2025-03-04T19:23:10Z",
+    "user": "omkar-334",
+    "labels": [
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2899058437,
+    "number": 2128,
+    "title": "Allow computer vision task models to run without tf.data",
+    "url": "https://github.com/keras-team/keras-hub/issues/2128",
+    "created_at": "2025-03-06T01:45:02Z",
+    "user": "mattdangerw",
+    "labels": [
+      "stat:contributions welcome",
+      "team-created"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -90,6 +177,45 @@
     "archived": false
   },
   {
+    "repo": "keras-team/autokeras",
+    "id": 2902516126,
+    "number": 1942,
+    "title": "Could not locate class 'AddOneDimension'",
+    "url": "https://github.com/keras-team/autokeras/issues/1942",
+    "created_at": "2025-03-07T09:47:52Z",
+    "user": "hisoka176",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2902817679,
+    "number": 3082,
+    "title": "Running container rootless does not work anymore",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3082",
+    "created_at": "2025-03-07T12:00:11Z",
+    "user": "scriptator",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2904825118,
+    "number": 3088,
+    "title": "[Upstream dependence changes] The behavior about env var in `hf-hub` has changed.",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3088",
+    "created_at": "2025-03-08T14:33:56Z",
+    "user": "HairlessVillager",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2910623476,
     "number": 1792,
@@ -112,6 +238,47 @@
     "user": "huggingfacename",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2911022632,
+    "number": 3097,
+    "title": "Multi-node inference",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3097",
+    "created_at": "2025-03-11T15:40:08Z",
+    "user": "hrbigelow",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2913556675,
+    "number": 3102,
+    "title": "Moondream2 | TGI Model support | Intel GPU",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3102",
+    "created_at": "2025-03-12T10:58:32Z",
+    "user": "rskasturi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2913672622,
+    "number": 2135,
+    "title": "`SentencePieceTokenizer` errors with `jax-metal`",
+    "url": "https://github.com/keras-team/keras-hub/issues/2135",
+    "created_at": "2025-03-12T11:41:58Z",
+    "user": "t-kalinowski",
+    "labels": [
+      "type:Bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -189,6 +356,101 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2916323069,
+    "number": 3104,
+    "title": "Sharding Error with max_total_tokens and max_input_tokens options in Gemma3-27B-it model",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3104",
+    "created_at": "2025-03-13T08:44:55Z",
+    "user": "calycekr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2917298201,
+    "number": 3110,
+    "title": "NotImplementedError: Vlm do not work with prefix caching yet",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3110",
+    "created_at": "2025-03-13T14:07:38Z",
+    "user": "AndriiBihun",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2918778206,
+    "number": 2324,
+    "title": "Black Texture on Degenerate Surface Regions",
+    "url": "https://github.com/3b1b/manim/issues/2324",
+    "created_at": "2025-03-14T01:43:30Z",
+    "user": "TiagoMLucio",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2920591127,
+    "number": 3114,
+    "title": "Tool use does not work on Neuron backend",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3114",
+    "created_at": "2025-03-14T15:44:17Z",
+    "user": "LouisHernandez17",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2920770037,
+    "number": 2141,
+    "title": "Unexpected warnings presented for default masking behavior",
+    "url": "https://github.com/keras-team/keras-hub/issues/2141",
+    "created_at": "2025-03-14T16:51:58Z",
+    "user": "jasonbcox",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2921925045,
+    "number": 2325,
+    "title": "Request to Update Outdated v1.7.2 Release Tag to Reflect Latest Commit on Master Branch",
+    "url": "https://github.com/3b1b/manim/issues/2325",
+    "created_at": "2025-03-15T09:10:06Z",
+    "user": "L0L1P0P1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2924225388,
+    "number": 3115,
+    "title": "does tgi support Gemma 3 models?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3115",
+    "created_at": "2025-03-17T08:51:50Z",
+    "user": "Behnamhb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2924263267,
     "number": 3892,
@@ -217,6 +479,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2928216103,
+    "number": 3123,
+    "title": "Support for priority based queueing in the backend queue",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3123",
+    "created_at": "2025-03-18T11:41:49Z",
+    "user": "ziadmoubayed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 2928997249,
     "number": 2434,
@@ -226,6 +501,34 @@
     "user": "yipingji",
     "labels": [
       "wip"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2929022943,
+    "number": 13773,
+    "title": "Unable to use picamera2 after downloading Spacy on raspberry pi",
+    "url": "https://github.com/explosion/spaCy/issues/13773",
+    "created_at": "2025-03-18T15:56:58Z",
+    "user": "Rob-Nafous",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/autokeras",
+    "id": 2929756521,
+    "number": 1943,
+    "title": "Bug: Could not locate class 'SigmoidPostprocessor'",
+    "url": "https://github.com/keras-team/autokeras/issues/1943",
+    "created_at": "2025-03-18T20:21:12Z",
+    "user": "breissie",
+    "labels": [
+      "bug report"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -318,6 +621,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2936444957,
+    "number": 3130,
+    "title": "gemma-3-27b-it runs out of memory during warmup",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3130",
+    "created_at": "2025-03-20T19:24:06Z",
+    "user": "davidkartchner",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2937082010,
     "number": 21078,
@@ -328,6 +644,60 @@
     "labels": [
       "type:support"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2939854087,
+    "number": 3133,
+    "title": "Support for Mistral Small 3.1",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3133",
+    "created_at": "2025-03-22T01:08:38Z",
+    "user": "meetzuber",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 2942607644,
+    "number": 4644,
+    "title": "Distribute inference on a TPU",
+    "url": "https://github.com/google/flax/issues/4644",
+    "created_at": "2025-03-24T09:32:12Z",
+    "user": "zaidalyafeai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 2942725856,
+    "number": 13533,
+    "title": "Multiple regressions in the handling of forms & form validation",
+    "url": "https://github.com/fastapi/fastapi/issues/13533",
+    "created_at": "2025-03-24T10:13:27Z",
+    "user": "MarinPostma",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2943242346,
+    "number": 3135,
+    "title": "When using --quantize fp8 model hangs and does not response at all with \"ERROR: Arch conditional MMA instruction used without targeting appropriate compute capability. Aborting.\"",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3135",
+    "created_at": "2025-03-24T13:18:08Z",
+    "user": "tamastarjanyi",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -422,6 +792,21 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-tuner",
+    "id": 2952692200,
+    "number": 1039,
+    "title": "keras-tuner doesn't seem to support legacy keras (tf_keras), when using tf 2.16+ and TF_USE_LEGACY_KERAS=\"1\"",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1039",
+    "created_at": "2025-03-27T11:55:34Z",
+    "user": "juanmirocks",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2953908635,
     "number": 9008,
@@ -429,6 +814,34 @@
     "url": "https://github.com/pytorch/vision/issues/9008",
     "created_at": "2025-03-27T17:34:15Z",
     "user": "yaoshiang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2954741442,
+    "number": 2172,
+    "title": "Add Qwen VL to KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2172",
+    "created_at": "2025-03-28T00:48:02Z",
+    "user": "kanpuriyanawab",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2956395042,
+    "number": 3143,
+    "title": "Unable to load ibm-granite/granite-vision-3.2-2b (LlavaNextForConditionalGeneration config mismatch)",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3143",
+    "created_at": "2025-03-28T14:51:44Z",
+    "user": "Vinno97",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -451,6 +864,21 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2958043478,
+    "number": 2176,
+    "title": "`Add LayoutLMv3 Model`",
+    "url": "https://github.com/keras-team/keras-hub/issues/2176",
+    "created_at": "2025-03-29T14:12:05Z",
+    "user": "carrycooldude",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2958204983,
     "number": 21108,
@@ -461,6 +889,19 @@
     "labels": [
       "type:Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 2958429990,
+    "number": 4666,
+    "title": "Using flax.linen.intercept_methods on an nnx module",
+    "url": "https://github.com/google/flax/issues/4666",
+    "created_at": "2025-03-29T19:11:30Z",
+    "user": "gardberg",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -487,6 +928,68 @@
     "created_at": "2025-03-30T15:49:41Z",
     "user": "drscotthawley",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/autokeras",
+    "id": 2960638100,
+    "number": 1944,
+    "title": "Bug: Getting NotImplemented error for AutoModel fit",
+    "url": "https://github.com/keras-team/autokeras/issues/1944",
+    "created_at": "2025-03-31T14:15:20Z",
+    "user": "HarshithMjh",
+    "labels": [
+      "bug report"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/tokenizers",
+    "id": 2961191893,
+    "number": 40,
+    "title": "[Feature request] Java binding for tokenizers",
+    "url": "https://github.com/meta-pytorch/tokenizers/issues/40",
+    "created_at": "2025-03-31T18:04:37Z",
+    "user": "kirklandsign",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2961496358,
+    "number": 1519,
+    "title": "torchtune as an optional dependency: Lazy Import",
+    "url": "https://github.com/pytorch/torchchat/issues/1519",
+    "created_at": "2025-03-31T20:22:46Z",
+    "user": "Jack-Khuu",
+    "labels": [
+      "good first issue",
+      "actionable",
+      "triaged",
+      "torchtune"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2961544825,
+    "number": 1520,
+    "title": "Enable torchao.experimental EmbeddingQuantization",
+    "url": "https://github.com/pytorch/torchchat/issues/1520",
+    "created_at": "2025-03-31T20:48:15Z",
+    "user": "Jack-Khuu",
+    "labels": [
+      "Quantization",
+      "triaged"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

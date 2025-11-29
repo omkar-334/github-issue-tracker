@@ -28,6 +28,60 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3282903626,
+    "number": 1640,
+    "title": "ENH: A human can review and edit the output from the LLM before proceeding tool call",
+    "url": "https://github.com/huggingface/smolagents/issues/1640",
+    "created_at": "2025-08-01T07:33:07Z",
+    "user": "coyoteXujie",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3283084386,
+    "number": 3306,
+    "title": "ModuleNotFoundError: No module named 'punica_sgmv'",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3306",
+    "created_at": "2025-08-01T08:43:19Z",
+    "user": "xxz7909",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-rs",
+    "id": 3284065506,
+    "number": 137,
+    "title": "🗺️ KerasRS Roadmap 🗺️",
+    "url": "https://github.com/keras-team/keras-rs/issues/137",
+    "created_at": "2025-08-01T14:06:07Z",
+    "user": "abheesht17",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3284890301,
+    "number": 7055,
+    "title": "[BUG] DefaultPlacementNew issues on some architectures",
+    "url": "https://github.com/cython/cython/issues/7055",
+    "created_at": "2025-08-01T19:13:01Z",
+    "user": "matthewturk",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3285719107,
     "number": 21544,
@@ -72,6 +126,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/lighteval",
+    "id": 3287138735,
+    "number": 888,
+    "title": "[BUG] : Typo in _continuous_greedy_until causes error with stop_sequence field",
+    "url": "https://github.com/huggingface/lighteval/issues/888",
+    "created_at": "2025-08-03T12:37:43Z",
+    "user": "huaanrui",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3287150513,
     "number": 7720,
@@ -85,6 +154,32 @@
     "archived": false
   },
   {
+    "repo": "cython/cython",
+    "id": 3287354354,
+    "number": 7068,
+    "title": "[ENH] More efficient handling of exceptions from `cdef void nogil` functions",
+    "url": "https://github.com/cython/cython/issues/7068",
+    "created_at": "2025-08-03T17:01:54Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3287370781,
+    "number": 7069,
+    "title": "[BUG] AttributeError: 'IntNode' object has no attribute 'result_code'",
+    "url": "https://github.com/cython/cython/issues/7069",
+    "created_at": "2025-08-03T17:18:00Z",
+    "user": "navytux",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3287452569,
     "number": 9162,
@@ -92,6 +187,19 @@
     "url": "https://github.com/pytorch/vision/issues/9162",
     "created_at": "2025-08-03T19:02:34Z",
     "user": "rumpg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3288589593,
+    "number": 7072,
+    "title": "[ENH] Improve Cython Strings/Unicode Documentation",
+    "url": "https://github.com/cython/cython/issues/7072",
+    "created_at": "2025-08-04T08:52:44Z",
+    "user": "Spill-Tea",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -120,6 +228,34 @@
     "user": "divakaivan",
     "labels": [
       "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3289137114,
+    "number": 7073,
+    "title": "[BUG] Cython array reports wrong size",
+    "url": "https://github.com/cython/cython/issues/7073",
+    "created_at": "2025-08-04T11:57:46Z",
+    "user": "axeldavy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3289232254,
+    "number": 892,
+    "title": "[BUG] Logs are missing some fields, truncation likely buggy",
+    "url": "https://github.com/huggingface/lighteval/issues/892",
+    "created_at": "2025-08-04T12:25:04Z",
+    "user": "clefourrier",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -180,6 +316,66 @@
     "archived": false
   },
   {
+    "repo": "huggingface/lighteval",
+    "id": 3289948412,
+    "number": 893,
+    "title": "[BUG] TriviaQA numbers are off",
+    "url": "https://github.com/huggingface/lighteval/issues/893",
+    "created_at": "2025-08-04T15:44:02Z",
+    "user": "jxmorris12",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3291216782,
+    "number": 895,
+    "title": "[BUG] Model Parallelism is incorrectly disabled on single multi-GPU machines",
+    "url": "https://github.com/huggingface/lighteval/issues/895",
+    "created_at": "2025-08-05T01:24:44Z",
+    "user": "huaanrui",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3291224195,
+    "number": 896,
+    "title": "[BUG]  Automatic batch size detection causes distributed deadlock in model parallel mode",
+    "url": "https://github.com/huggingface/lighteval/issues/896",
+    "created_at": "2025-08-05T01:29:33Z",
+    "user": "huaanrui",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3291234545,
+    "number": 897,
+    "title": "[BUG] TransformersModel.from_model provides an incompletely initialized object compared to __init__",
+    "url": "https://github.com/huggingface/lighteval/issues/897",
+    "created_at": "2025-08-05T01:35:22Z",
+    "user": "huaanrui",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3292315241,
     "number": 7724,
@@ -193,6 +389,47 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3292329956,
+    "number": 2902,
+    "title": "Support OLMo-2-1124-7B?",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2902",
+    "created_at": "2025-08-05T09:32:46Z",
+    "user": "yangdongchao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3292933115,
+    "number": 7075,
+    "title": "[BUG] TestBuiltinCompatibility fails when installing ipython after installation and running the tests",
+    "url": "https://github.com/cython/cython/issues/7075",
+    "created_at": "2025-08-05T12:30:25Z",
+    "user": "stratakis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3293605189,
+    "number": 2378,
+    "title": "Clarification Needed on Custom Configuration Documentation",
+    "url": "https://github.com/3b1b/manim/issues/2378",
+    "created_at": "2025-08-05T16:00:31Z",
+    "user": "azhuchkov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3293894004,
     "number": 9165,
@@ -201,6 +438,47 @@
     "created_at": "2025-08-05T17:29:05Z",
     "user": "ScottTodd",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3294223246,
+    "number": 3309,
+    "title": "Support for gpt-oss-120b and gpt-oss-20b model.",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3309",
+    "created_at": "2025-08-05T19:40:19Z",
+    "user": "imran3180",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3294644913,
+    "number": 2903,
+    "title": "Support gpt-oss-120b and gpt-oss-20b",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2903",
+    "created_at": "2025-08-05T22:51:06Z",
+    "user": "SLR722",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3295051159,
+    "number": 1649,
+    "title": "BUG: The LocalPythonExecutor currently lacks support for the yield keyword",
+    "url": "https://github.com/huggingface/smolagents/issues/1649",
+    "created_at": "2025-08-06T03:27:39Z",
+    "user": "kingdomad",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -226,6 +504,19 @@
     "url": "https://github.com/pytorch/vision/issues/9166",
     "created_at": "2025-08-06T10:54:29Z",
     "user": "MHRDYN7",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3296566266,
+    "number": 13860,
+    "title": "\"whitelisting\" lemmatised as \"whiteliste\"",
+    "url": "https://github.com/explosion/spaCy/issues/13860",
+    "created_at": "2025-08-06T12:44:03Z",
+    "user": "chrisjbryant",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -276,6 +567,22 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3298076121,
+    "number": 5309,
+    "title": "FigureWidget `shapes` property is empty, even when it's populated in `_props`",
+    "url": "https://github.com/plotly/plotly.py/issues/5309",
+    "created_at": "2025-08-06T21:07:04Z",
+    "user": "scott-8",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3298157987,
     "number": 3514,
@@ -283,6 +590,19 @@
     "url": "https://github.com/pytorch/tutorials/issues/3514",
     "created_at": "2025-08-06T21:35:08Z",
     "user": "sekyondaMeta",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3298225315,
+    "number": 2907,
+    "title": "DistributedCheckpointer argument conflicts",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2907",
+    "created_at": "2025-08-06T22:07:13Z",
+    "user": "jdwillard19",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -315,6 +635,22 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 3299397688,
+    "number": 2352,
+    "title": "Loading weights from HF does not copy over \"head\" weights",
+    "url": "https://github.com/keras-team/keras-hub/issues/2352",
+    "created_at": "2025-08-07T07:42:11Z",
+    "user": "abheesht17",
+    "labels": [
+      "type:Bug",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3300672954,
     "number": 7729,
@@ -337,6 +673,21 @@
     "user": "intexcor",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3303830433,
+    "number": 2533,
+    "title": "Schema validation error",
+    "url": "https://github.com/openai/openai-python/issues/2533",
+    "created_at": "2025-08-08T12:13:28Z",
+    "user": "DamyanBG",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -372,6 +723,52 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3304721679,
+    "number": 2537,
+    "title": "GPT5 Models | Tool choices other than 'auto' are not supported with model",
+    "url": "https://github.com/openai/openai-python/issues/2537",
+    "created_at": "2025-08-08T17:14:55Z",
+    "user": "hayescode",
+    "labels": [
+      "bug",
+      "API-feedback"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3304958867,
+    "number": 2538,
+    "title": "Unexpected Token Count Mismatch in tiktoken Integration with openai-python",
+    "url": "https://github.com/openai/openai-python/issues/2538",
+    "created_at": "2025-08-08T19:02:52Z",
+    "user": "LuminaX-alt",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3304969438,
+    "number": 2539,
+    "title": "httpx.PoolTimeout occurs frequently when using SyncClient for multiple sequential requests",
+    "url": "https://github.com/openai/openai-python/issues/2539",
+    "created_at": "2025-08-08T19:06:56Z",
+    "user": "LuminaX-alt",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3305289588,
     "number": 5633,
@@ -401,6 +798,179 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3307161431,
+    "number": 2544,
+    "title": "usage.prompt_tokens_details=None",
+    "url": "https://github.com/openai/openai-python/issues/2544",
+    "created_at": "2025-08-10T04:33:41Z",
+    "user": "tommy-fcy",
+    "labels": [
+      "bug",
+      "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3307315895,
+    "number": 2545,
+    "title": "Add shell auto-completion support for OpenAI CLI (bash, zsh, fish, powershell)",
+    "url": "https://github.com/openai/openai-python/issues/2545",
+    "created_at": "2025-08-10T08:17:55Z",
+    "user": "LuminaX-alt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3307883137,
+    "number": 5314,
+    "title": "Plots from Colab don’t show in Nbviewer",
+    "url": "https://github.com/plotly/plotly.py/issues/5314",
+    "created_at": "2025-08-10T19:12:41Z",
+    "user": "mklilley",
+    "labels": [
+      "bug",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3308263183,
+    "number": 7083,
+    "title": "[ENH] Support passing nullopt to wrapped functions that have std::optional arguments",
+    "url": "https://github.com/cython/cython/issues/7083",
+    "created_at": "2025-08-11T02:34:15Z",
+    "user": "jrenaud90",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3308290587,
+    "number": 3271,
+    "title": "DistributedModelParallel sets \"requires_grad\" to False for EmbeddingCollection with sharding_types=[\"row_wise\"], compute_kernels=[\"fused\"],",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3271",
+    "created_at": "2025-08-11T02:55:57Z",
+    "user": "farapart",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3309811380,
+    "number": 1672,
+    "title": "ENH: Prompt caching",
+    "url": "https://github.com/huggingface/smolagents/issues/1672",
+    "created_at": "2025-08-11T12:26:55Z",
+    "user": "Owe1n",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3310534109,
+    "number": 7085,
+    "title": "[ENH] Include (link) a host of C++ files with extern from or extern from-like syntax in a single line",
+    "url": "https://github.com/cython/cython/issues/7085",
+    "created_at": "2025-08-11T15:22:45Z",
+    "user": "Source61",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3310606428,
+    "number": 7086,
+    "title": "[BUG] Confusing extra pyx compile warnings for cython -Wextra vs. cythonize -s show_all_warnings=True",
+    "url": "https://github.com/cython/cython/issues/7086",
+    "created_at": "2025-08-11T15:43:08Z",
+    "user": "thormick",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3311166485,
+    "number": 5316,
+    "title": "Adding N annotations takes O(N^2) time",
+    "url": "https://github.com/plotly/plotly.py/issues/5316",
+    "created_at": "2025-08-11T18:27:39Z",
+    "user": "amari-ca",
+    "labels": [
+      "bug",
+      "P2",
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3311501416,
+    "number": 2554,
+    "title": "text_tokens and image_tokens not documented or typed",
+    "url": "https://github.com/openai/openai-python/issues/2554",
+    "created_at": "2025-08-11T20:05:34Z",
+    "user": "abhinav-pola",
+    "labels": [
+      "bug",
+      "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3312359848,
+    "number": 3058,
+    "title": "FSDP2 + offload_params + max_grad_norm (gradient_clipping) doesn't work",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3058",
+    "created_at": "2025-08-12T03:15:52Z",
+    "user": "winglian",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3314369323,
+    "number": 918,
+    "title": "[FT] Pass reasoning effort to `litellm` endpoint.",
+    "url": "https://github.com/huggingface/lighteval/issues/918",
+    "created_at": "2025-08-12T13:49:52Z",
+    "user": "gardarjuto",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3314648064,
     "number": 21574,
@@ -411,6 +981,34 @@
     "labels": [
       "type:support",
       "stat:awaiting keras-eng"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3317164537,
+    "number": 3278,
+    "title": "invoke_on_rank_and_broadcast_result stuck",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3278",
+    "created_at": "2025-08-13T07:03:30Z",
+    "user": "121547456",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3317664710,
+    "number": 10175,
+    "title": "More border handling options (mode) for stencil computations",
+    "url": "https://github.com/numba/numba/issues/10175",
+    "created_at": "2025-08-13T09:35:09Z",
+    "user": "MariusCausemann",
+    "labels": [
+      "feature_request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -447,6 +1045,38 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3319083157,
+    "number": 5323,
+    "title": "Sided twin violins render boxplot whiskers incorrectly",
+    "url": "https://github.com/plotly/plotly.py/issues/5323",
+    "created_at": "2025-08-13T16:24:17Z",
+    "user": "rabyj",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3319900575,
+    "number": 5324,
+    "title": "null values reset stacking in express barchart",
+    "url": "https://github.com/plotly/plotly.py/issues/5324",
+    "created_at": "2025-08-13T21:05:49Z",
+    "user": "bhogan-mitre",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3320224318,
     "number": 1845,
@@ -455,6 +1085,37 @@
     "created_at": "2025-08-13T23:52:31Z",
     "user": "crawftv",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3321903522,
+    "number": 5326,
+    "title": "Streamline xanchor and yanchor names for center/middle",
+    "url": "https://github.com/plotly/plotly.py/issues/5326",
+    "created_at": "2025-08-14T11:37:16Z",
+    "user": "mmarras",
+    "labels": [
+      "feature",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3323167359,
+    "number": 3069,
+    "title": "Dataloader OOM during pretraining",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3069",
+    "created_at": "2025-08-14T18:19:28Z",
+    "user": "Blyzi",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -475,6 +1136,67 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3325430313,
+    "number": 2561,
+    "title": "Error \"Item ‘rs_ABCD’ of type ‘reasoning’ was provided without its required...\" when using CodeInterpreter",
+    "url": "https://github.com/openai/openai-python/issues/2561",
+    "created_at": "2025-08-15T14:27:43Z",
+    "user": "fitzjalen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3325615596,
+    "number": 5328,
+    "title": "labelalias should have the option to not affect hover labels or unified hover title",
+    "url": "https://github.com/plotly/plotly.py/issues/5328",
+    "created_at": "2025-08-15T15:40:41Z",
+    "user": "00rebe",
+    "labels": [
+      "feature",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3326200844,
+    "number": 10182,
+    "title": "Poor performance for stencils in parallel",
+    "url": "https://github.com/numba/numba/issues/10182",
+    "created_at": "2025-08-15T20:02:12Z",
+    "user": "MariusCausemann",
+    "labels": [
+      "ParallelAccelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3326745348,
+    "number": 2382,
+    "title": "Extra color rendering outside VMobjects caused by gradient",
+    "url": "https://github.com/3b1b/manim/issues/2382",
+    "created_at": "2025-08-16T02:06:44Z",
+    "user": "AStarySky",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3327475137,
     "number": 1847,
@@ -482,6 +1204,50 @@
     "url": "https://github.com/huggingface/tokenizers/issues/1847",
     "created_at": "2025-08-16T17:30:36Z",
     "user": "lostmsu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-rs",
+    "id": 3327849449,
+    "number": 143,
+    "title": "Multi-host training does not work for distributed embeddings",
+    "url": "https://github.com/keras-team/keras-rs/issues/143",
+    "created_at": "2025-08-17T02:19:12Z",
+    "user": "abheesht17",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3328747051,
+    "number": 3077,
+    "title": "fsdp with `cpu_ram_efficient_loading=false` results in NaN loss and gradient values",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3077",
+    "created_at": "2025-08-17T23:15:53Z",
+    "user": "Co1lin",
+    "labels": [
+      "bug",
+      "fp8"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3328905836,
+    "number": 1687,
+    "title": "[Question] Open Deep Research future plans?",
+    "url": "https://github.com/huggingface/smolagents/issues/1687",
+    "created_at": "2025-08-18T01:49:21Z",
+    "user": "mcdaqc",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -497,6 +1263,37 @@
     "user": "ryan-minato",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3329913360,
+    "number": 2364,
+    "title": "Add LTX-Video",
+    "url": "https://github.com/keras-team/keras-hub/issues/2364",
+    "created_at": "2025-08-18T09:22:30Z",
+    "user": "innat",
+    "labels": [
+      "type:feature",
+      "keras-team-review-pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3330935337,
+    "number": 2365,
+    "title": "Implement DINOv3",
+    "url": "https://github.com/keras-team/keras-hub/issues/2365",
+    "created_at": "2025-08-18T14:19:02Z",
+    "user": "BhavyaGoyal777",
+    "labels": [
+      "type:feature"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -524,6 +1321,78 @@
     "created_at": "2025-08-18T17:28:38Z",
     "user": "evmaki",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3332401210,
+    "number": 5330,
+    "title": "Secondary y-axis causes empty space on the right",
+    "url": "https://github.com/plotly/plotly.py/issues/5330",
+    "created_at": "2025-08-18T23:23:47Z",
+    "user": "arman258",
+    "labels": [
+      "bug",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3332767365,
+    "number": 1694,
+    "title": "BUG: The gpt oss generated format cannot be processed correctly",
+    "url": "https://github.com/huggingface/smolagents/issues/1694",
+    "created_at": "2025-08-19T03:36:20Z",
+    "user": "whfeLingYu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3333105284,
+    "number": 7095,
+    "title": "Test (+document) clang-cl on Windows",
+    "url": "https://github.com/cython/cython/issues/7095",
+    "created_at": "2025-08-19T06:38:46Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3333864845,
+    "number": 2916,
+    "title": "How to train Qwen3 with W_per_channel_Sym-A_per_token_Sym？",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2916",
+    "created_at": "2025-08-19T10:42:58Z",
+    "user": "taishan1994",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3333889377,
+    "number": 1695,
+    "title": "BUG: Regarding multi-agents, when the management agent calls the sub-agent, the sub-agent's memory will be cleared",
+    "url": "https://github.com/huggingface/smolagents/issues/1695",
+    "created_at": "2025-08-19T10:50:44Z",
+    "user": "whfeLingYu",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -587,6 +1456,19 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 3337131774,
+    "number": 13863,
+    "title": "Section 6 of Course Chapter 3 (german version) doesn't accept correct answer",
+    "url": "https://github.com/explosion/spaCy/issues/13863",
+    "created_at": "2025-08-20T08:38:25Z",
+    "user": "tohuuuuu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3337151534,
     "number": 3493,
@@ -594,6 +1476,62 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3493",
     "created_at": "2025-08-20T08:44:15Z",
     "user": "wirthual",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3337725658,
+    "number": 3088,
+    "title": "Qwen 3 conversation with train on inputs false",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3088",
+    "created_at": "2025-08-20T11:23:27Z",
+    "user": "arunpatala",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3338667980,
+    "number": 3089,
+    "title": "Improve config reference ordering",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3089",
+    "created_at": "2025-08-20T15:56:45Z",
+    "user": "djsaunde",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3338713701,
+    "number": 1703,
+    "title": "BUG: Stop sequences not working properly in TransformersModel",
+    "url": "https://github.com/huggingface/smolagents/issues/1703",
+    "created_at": "2025-08-20T16:12:14Z",
+    "user": "MaxBourdon",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-rs",
+    "id": 3339005678,
+    "number": 145,
+    "title": "`DistributedEmbedding`: Add a way to record FDO stats and update input config (`max_ids`, `max_unique_ids`, etc.)",
+    "url": "https://github.com/keras-team/keras-rs/issues/145",
+    "created_at": "2025-08-20T17:36:50Z",
+    "user": "abheesht17",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -616,6 +1554,34 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3340172113,
+    "number": 1704,
+    "title": "BUG: Sometimes I need show the python code directly rather than execute",
+    "url": "https://github.com/huggingface/smolagents/issues/1704",
+    "created_at": "2025-08-21T03:43:09Z",
+    "user": "SimengBian",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3340704877,
+    "number": 3305,
+    "title": "Allow missing keys in EmbeddingBagCollection forward",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3305",
+    "created_at": "2025-08-21T07:56:09Z",
+    "user": "rayhuang90",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3341379806,
     "number": 21605,
@@ -633,6 +1599,19 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3344057019,
+    "number": 2917,
+    "title": "H2D takes large time overhead",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2917",
+    "created_at": "2025-08-22T04:00:51Z",
+    "user": "iqiancheng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3344069579,
     "number": 9187,
@@ -641,6 +1620,50 @@
     "created_at": "2025-08-22T04:07:08Z",
     "user": "Chen-Bo-Yang",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3344343366,
+    "number": 13864,
+    "title": "Deprecated IPython.core.display",
+    "url": "https://github.com/explosion/spaCy/issues/13864",
+    "created_at": "2025-08-22T06:42:29Z",
+    "user": "reonokiy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3344490831,
+    "number": 933,
+    "title": "[BUG] VLLM Code Generate hangs",
+    "url": "https://github.com/huggingface/lighteval/issues/933",
+    "created_at": "2025-08-22T07:36:35Z",
+    "user": "berserkr",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3344544430,
+    "number": 7102,
+    "title": "[ENH] Returning ctuples with exception value",
+    "url": "https://github.com/cython/cython/issues/7102",
+    "created_at": "2025-08-22T07:54:25Z",
+    "user": "scoder",
+    "labels": [
+      "enhancement",
+      "Cython Language Feature"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -672,6 +1695,38 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3346530683,
+    "number": 2580,
+    "title": "`ImageGenerationCall` does not have all fields that API returns",
+    "url": "https://github.com/openai/openai-python/issues/2580",
+    "created_at": "2025-08-22T19:56:47Z",
+    "user": "Shulyaka",
+    "labels": [
+      "bug",
+      "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3346629528,
+    "number": 5332,
+    "title": "<223 height breaks 3 axis plots",
+    "url": "https://github.com/plotly/plotly.py/issues/5332",
+    "created_at": "2025-08-22T20:30:17Z",
+    "user": "DerianSeto",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3349298049,
     "number": 1851,
@@ -680,6 +1735,21 @@
     "created_at": "2025-08-24T08:28:08Z",
     "user": "PonteIneptique",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3349914442,
+    "number": 1713,
+    "title": "BUG: Web search tools can hang indefinitely",
+    "url": "https://github.com/huggingface/smolagents/issues/1713",
+    "created_at": "2025-08-24T21:17:05Z",
+    "user": "dzungvpham",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -713,6 +1783,48 @@
     "archived": false
   },
   {
+    "repo": "cython/cython",
+    "id": 3352459544,
+    "number": 7106,
+    "title": "[BUG] maybe-uninitialized compiler warning in __Pyx_PyUnicode_AsStringAndSize",
+    "url": "https://github.com/cython/cython/issues/7106",
+    "created_at": "2025-08-25T16:26:10Z",
+    "user": "dgrunwald-qt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3352543677,
+    "number": 2387,
+    "title": "Feature: Add Workflow for Manual Version Bumps",
+    "url": "https://github.com/3b1b/manim/issues/2387",
+    "created_at": "2025-08-25T16:54:57Z",
+    "user": "taj54",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3352787863,
+    "number": 2584,
+    "title": "AzureOpenAi is unable to process chat.completions when the API version is set to preview.",
+    "url": "https://github.com/openai/openai-python/issues/2584",
+    "created_at": "2025-08-25T18:24:57Z",
+    "user": "hsuyuming",
+    "labels": [
+      "bug",
+      "Azure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3354144648,
     "number": 1854,
@@ -721,6 +1833,36 @@
     "created_at": "2025-08-26T05:17:18Z",
     "user": "xiaoshihou514",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3354844353,
+    "number": 1717,
+    "title": "✨ support microsandbox as Executor",
+    "url": "https://github.com/huggingface/smolagents/issues/1717",
+    "created_at": "2025-08-26T09:17:19Z",
+    "user": "also-good",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3355566459,
+    "number": 3105,
+    "title": "[New model] InternVL 35",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3105",
+    "created_at": "2025-08-26T13:04:33Z",
+    "user": "NanoCode012",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -742,6 +1884,38 @@
     "archived": false
   },
   {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3357153227,
+    "number": 3108,
+    "title": "Better multidataset support",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3108",
+    "created_at": "2025-08-26T21:17:18Z",
+    "user": "djsaunde",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3357708278,
+    "number": 5335,
+    "title": "subplots:  colspan >1 to the left of a normal subplot puts the right subplot in the wrong place",
+    "url": "https://github.com/plotly/plotly.py/issues/5335",
+    "created_at": "2025-08-27T01:35:24Z",
+    "user": "rl-utility-man",
+    "labels": [
+      "bug",
+      "P2",
+      "community"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3358369976,
     "number": 7751,
@@ -749,6 +1923,19 @@
     "url": "https://github.com/huggingface/datasets/issues/7751",
     "created_at": "2025-08-27T07:38:30Z",
     "user": "Navanit-git",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3358511801,
+    "number": 7111,
+    "title": "[BUG] AttributeError: 'MergedDictNode' object has no attribute 'as_python_dict'",
+    "url": "https://github.com/cython/cython/issues/7111",
+    "created_at": "2025-08-27T08:29:39Z",
+    "user": "Berserker66",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -778,6 +1965,21 @@
     "labels": [
       "stat:contributions welcome",
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3360179554,
+    "number": 3111,
+    "title": "Move the construction of the LoraConfig and LoraModel to a separate builder",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3111",
+    "created_at": "2025-08-27T17:12:01Z",
+    "user": "ved1beta",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -830,6 +2032,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3361280909,
+    "number": 1724,
+    "title": "BUG: MCP tools calls gets logged inside the Python Code intepreter",
+    "url": "https://github.com/huggingface/smolagents/issues/1724",
+    "created_at": "2025-08-28T00:20:07Z",
+    "user": "jacopotagliabue",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3362167543,
     "number": 9197,
@@ -838,6 +2055,34 @@
     "created_at": "2025-08-28T07:28:11Z",
     "user": "DHolmanCoding",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3362555651,
+    "number": 2920,
+    "title": "Lora Qwen-MoE adapter_model.pt merge to base model weight",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2920",
+    "created_at": "2025-08-28T09:25:20Z",
+    "user": "iqiancheng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3363792349,
+    "number": 940,
+    "title": "[FT] Support confidence reporting and sampling",
+    "url": "https://github.com/huggingface/lighteval/issues/940",
+    "created_at": "2025-08-28T15:32:23Z",
+    "user": "clefourrier",
+    "labels": [
+      "science-team"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -888,6 +2133,73 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3365720725,
+    "number": 1732,
+    "title": "Error while parsing tool call from model output: The model output does not contain any JSON blob.",
+    "url": "https://github.com/huggingface/smolagents/issues/1732",
+    "created_at": "2025-08-29T07:00:11Z",
+    "user": "aneesarom",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3365999644,
+    "number": 10207,
+    "title": "fixup `gitlog2changelog` duplicate authors",
+    "url": "https://github.com/numba/numba/issues/10207",
+    "created_at": "2025-08-29T08:37:34Z",
+    "user": "esc",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3366168258,
+    "number": 3316,
+    "title": "It seems no one is maintaining this project.",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3316",
+    "created_at": "2025-08-29T09:23:44Z",
+    "user": "mengxiaosen-patsnap",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3367709300,
+    "number": 3317,
+    "title": "Endpoint failed to start due to ShardFailed on hugging face inference endpoint",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3317",
+    "created_at": "2025-08-29T18:32:23Z",
+    "user": "relativity-codes",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3368769852,
+    "number": 3121,
+    "title": "uv-first",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3121",
+    "created_at": "2025-08-30T05:32:26Z",
+    "user": "djsaunde",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3369093480,
     "number": 21629,
@@ -929,6 +2241,19 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3369612752,
+    "number": 2922,
+    "title": "Can we distill from baseline teacher to baseline student without doing LoRA-tuning of student? ",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2922",
+    "created_at": "2025-08-31T00:07:39Z",
+    "user": "asmitamohanty",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3369741161,
     "number": 1962,
@@ -936,6 +2261,49 @@
     "url": "https://github.com/sktime/pytorch-forecasting/issues/1962",
     "created_at": "2025-08-31T03:25:52Z",
     "user": "workhours",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3370001894,
+    "number": 3318,
+    "title": "Infinite tool call loop: `HuggingFaceModel` and `text-generation-inference`",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3318",
+    "created_at": "2025-08-31T08:23:46Z",
+    "user": "baughmann",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3370173315,
+    "number": 4921,
+    "title": "Feature Request: Automatic Mixed Precision",
+    "url": "https://github.com/google/flax/issues/4921",
+    "created_at": "2025-08-31T11:38:46Z",
+    "user": "Artoriuz",
+    "labels": [
+      "needs-discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3370473088,
+    "number": 1739,
+    "title": "BUG: e2b executor is not composable with MCP tools",
+    "url": "https://github.com/huggingface/smolagents/issues/1739",
+    "created_at": "2025-08-31T16:33:02Z",
+    "user": "jacopotagliabue",
     "labels": [
       "bug"
     ],

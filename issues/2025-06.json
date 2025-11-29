@@ -42,6 +42,52 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3106859949,
+    "number": 10090,
+    "title": "reference leak",
+    "url": "https://github.com/numba/numba/issues/10090",
+    "created_at": "2025-06-01T08:25:47Z",
+    "user": "Sunayuki",
+    "labels": [
+      "bug - memory leak"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3107439458,
+    "number": 10091,
+    "title": "Numpy vecdot support",
+    "url": "https://github.com/numba/numba/issues/10091",
+    "created_at": "2025-06-01T15:41:54Z",
+    "user": "Bob-vdV",
+    "labels": [
+      "feature_request",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3110162636,
+    "number": 10093,
+    "title": "`numpy.histogram` behaves differently with it using `njit`",
+    "url": "https://github.com/numba/numba/issues/10093",
+    "created_at": "2025-06-02T13:18:24Z",
+    "user": "apiqwe",
+    "labels": [
+      "bug - numerically incorrect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3110877965,
     "number": 3382,
@@ -49,6 +95,19 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3382",
     "created_at": "2025-06-02T16:37:41Z",
     "user": "Garrafao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3111387402,
+    "number": 2779,
+    "title": "Proposal: reuse methods in recipes",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2779",
+    "created_at": "2025-06-02T19:36:41Z",
+    "user": "Andrei-Aksionov",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -81,6 +140,81 @@
     "labels": [
       "bug",
       "build issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3112279447,
+    "number": 3030,
+    "title": "[Bug]: ManagedCollisionEmbeddingCollection returns all-zero embeddings after applying apply_optimizer_in_backward with RowWiseAdagrad",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3030",
+    "created_at": "2025-06-03T03:44:55Z",
+    "user": "rayhuang90",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3114469396,
+    "number": 10095,
+    "title": "`numpy.median` behaves differently with it using `njit`",
+    "url": "https://github.com/numba/numba/issues/10095",
+    "created_at": "2025-06-03T15:30:25Z",
+    "user": "apiqwe",
+    "labels": [
+      "numpy",
+      "bug - incorrect behavior"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3114475996,
+    "number": 10096,
+    "title": "`numpy.percentile` behaves differently with it using `njit`",
+    "url": "https://github.com/numba/numba/issues/10096",
+    "created_at": "2025-06-03T15:32:34Z",
+    "user": "apiqwe",
+    "labels": [
+      "numpy",
+      "bug - numerically incorrect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3114968205,
+    "number": 2752,
+    "title": "GRPO Single GPU / colocate with TRL==0.18.x",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2752",
+    "created_at": "2025-06-03T18:15:10Z",
+    "user": "withblues",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3115775643,
+    "number": 2352,
+    "title": "Axes lines dissapear when indicating multiple axis numbers",
+    "url": "https://github.com/3b1b/manim/issues/2352",
+    "created_at": "2025-06-04T00:02:33Z",
+    "user": "abdallahsoliman00",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -174,6 +308,19 @@
     "archived": false
   },
   {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3118255761,
+    "number": 2757,
+    "title": "KTO user_defined.default config error",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2757",
+    "created_at": "2025-06-04T15:32:15Z",
+    "user": "SalmanMohammadi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3119573879,
     "number": 5618,
@@ -184,6 +331,62 @@
     "labels": [
       "question",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3119681469,
+    "number": 2758,
+    "title": "Improve streaming dataset support / handling",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2758",
+    "created_at": "2025-06-05T02:59:21Z",
+    "user": "djsaunde",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3120814810,
+    "number": 13830,
+    "title": "SpanCat - Custom SpanCat NER model with whitespace issues",
+    "url": "https://github.com/explosion/spaCy/issues/13830",
+    "created_at": "2025-06-05T11:18:03Z",
+    "user": "david-kld",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3120968581,
+    "number": 10098,
+    "title": "`cache=True` failures with locally defined functions",
+    "url": "https://github.com/numba/numba/issues/10098",
+    "created_at": "2025-06-05T12:09:34Z",
+    "user": "aseyboldt",
+    "labels": [
+      "bug - ice"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3120973662,
+    "number": 10099,
+    "title": "Add error messages to list/set dtype assertions",
+    "url": "https://github.com/numba/numba/issues/10099",
+    "created_at": "2025-06-05T12:10:58Z",
+    "user": "Bob-vdV",
+    "labels": [
+      "feature_request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -203,6 +406,73 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 3122310577,
+    "number": 13831,
+    "title": "Trying to fine tune a transformer with spacy, getting a weird error despite copy-pasting from docs",
+    "url": "https://github.com/explosion/spaCy/issues/13831",
+    "created_at": "2025-06-05T19:00:54Z",
+    "user": "jrdcodesbio",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3122856809,
+    "number": 2792,
+    "title": "Qwen2/2.5/3 max_seq_len and EOS Masking",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2792",
+    "created_at": "2025-06-05T22:20:05Z",
+    "user": "haydn-jones",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3124734688,
+    "number": 3257,
+    "title": "if use chat.completions, text+image inference return incorrect output because of template issue",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3257",
+    "created_at": "2025-06-06T13:06:20Z",
+    "user": "sywangyi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3124840536,
+    "number": 6944,
+    "title": "[ENH] Allow cpdef & cdef args to be 'not None' and 'or None'",
+    "url": "https://github.com/cython/cython/issues/6944",
+    "created_at": "2025-06-06T13:47:19Z",
+    "user": "jpe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3124891478,
+    "number": 6945,
+    "title": "[BUG] Argument annotations are ignored in .pxd files",
+    "url": "https://github.com/cython/cython/issues/6945",
+    "created_at": "2025-06-06T14:06:09Z",
+    "user": "jpe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3125470684,
     "number": 1876,
@@ -212,6 +482,23 @@
     "user": "jobs-git",
     "labels": [
       "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3125699253,
+    "number": 10104,
+    "title": "Unexpected behavior of `np.arange` when input is uint64 with 54+ bits",
+    "url": "https://github.com/numba/numba/issues/10104",
+    "created_at": "2025-06-06T19:37:24Z",
+    "user": "JoshuaB47",
+    "labels": [
+      "good second issue",
+      "bug - incorrect behavior",
+      "bug - numerically incorrect"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -244,6 +531,19 @@
     "archived": false
   },
   {
+    "repo": "cython/cython",
+    "id": 3128031908,
+    "number": 6954,
+    "title": "[BUG] Deleting bytearray elements works without the GIL",
+    "url": "https://github.com/cython/cython/issues/6954",
+    "created_at": "2025-06-08T07:25:00Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3128269938,
     "number": 3387,
@@ -251,6 +551,49 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3387",
     "created_at": "2025-06-08T11:48:35Z",
     "user": "daegonYu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3128949828,
+    "number": 2805,
+    "title": "[BE] Update runners to test on Python 3.12",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2805",
+    "created_at": "2025-06-09T02:26:59Z",
+    "user": "joecummings",
+    "labels": [
+      "better engineering"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3129063837,
+    "number": 2355,
+    "title": "Code Class not work",
+    "url": "https://github.com/3b1b/manim/issues/2355",
+    "created_at": "2025-06-09T03:56:23Z",
+    "user": "0x20e",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3129249250,
+    "number": 3259,
+    "title": "Enable passing arguments to chat templates",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3259",
+    "created_at": "2025-06-09T06:04:27Z",
+    "user": "alexshtf",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -266,6 +609,21 @@
     "user": "PranavBhatP",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3130439140,
+    "number": 4774,
+    "title": "nnx.jit() cannot specify backend or device due to out_shardings",
+    "url": "https://github.com/google/flax/issues/4774",
+    "created_at": "2025-06-09T14:11:47Z",
+    "user": "wookayin",
+    "labels": [
+      "Priority: P1 - soon"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -370,6 +728,19 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/tokenizers",
+    "id": 3137788177,
+    "number": 83,
+    "title": "Package tokenizers into swift PM",
+    "url": "https://github.com/meta-pytorch/tokenizers/issues/83",
+    "created_at": "2025-06-11T18:41:40Z",
+    "user": "larryliu0820",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3137943684,
     "number": 3393,
@@ -377,6 +748,48 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3393",
     "created_at": "2025-06-11T19:52:56Z",
     "user": "ccdv-ai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3137968819,
+    "number": 2816,
+    "title": "Switch remainder of recipe tests over to HF format checkpoints",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2816",
+    "created_at": "2025-06-11T20:04:55Z",
+    "user": "joecummings",
+    "labels": [
+      "community help wanted",
+      "better engineering"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3138053364,
+    "number": 2817,
+    "title": "Numerical Mismatch between Torchtune and HuggingFace models",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2817",
+    "created_at": "2025-06-11T20:41:27Z",
+    "user": "athms",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3138242180,
+    "number": 4778,
+    "title": "Deprecation of `nnx.Remat` and usage of `nnx.remat`",
+    "url": "https://github.com/google/flax/issues/4778",
+    "created_at": "2025-06-11T22:11:46Z",
+    "user": "lraedel",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -445,6 +858,19 @@
     "archived": false
   },
   {
+    "repo": "google/flax",
+    "id": 3142785755,
+    "number": 4779,
+    "title": "Better type Module.apply signature - PR discussion",
+    "url": "https://github.com/google/flax/issues/4779",
+    "created_at": "2025-06-13T08:50:59Z",
+    "user": "Daraan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3142876492,
     "number": 3395,
@@ -453,6 +879,52 @@
     "created_at": "2025-06-13T09:22:07Z",
     "user": "ixn3rd3mxn",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3144054104,
+    "number": 2825,
+    "title": "opt_in_bwd + fsdp_cpu_offloading yields nan loss on step 2",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2825",
+    "created_at": "2025-06-13T16:07:53Z",
+    "user": "felipemello1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3144536526,
+    "number": 10118,
+    "title": "`TypeError` using `uint`s with `np.arange` without explicit `dtype` param",
+    "url": "https://github.com/numba/numba/issues/10118",
+    "created_at": "2025-06-13T19:21:12Z",
+    "user": "JoshuaB47",
+    "labels": [
+      "bug - numerically incorrect",
+      "bug - typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3145355702,
+    "number": 2791,
+    "title": "Phi 3.5 Vision support - multi-modal support",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2791",
+    "created_at": "2025-06-14T03:24:20Z",
+    "user": "aidando73",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -488,6 +960,36 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 3149633519,
+    "number": 2301,
+    "title": "Add Matcha-TTS",
+    "url": "https://github.com/keras-team/keras-hub/issues/2301",
+    "created_at": "2025-06-16T11:25:35Z",
+    "user": "alexhartl",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3149938939,
+    "number": 2830,
+    "title": "OOM handling and recovery",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2830",
+    "created_at": "2025-06-16T13:03:16Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3152857097,
     "number": 21390,
@@ -502,6 +1004,19 @@
       "type:Bug",
       "backend:torch"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3153291268,
+    "number": 1408,
+    "title": "[DRAFT] [Megathread] Removing the sklearn extensions from the openml-python code base",
+    "url": "https://github.com/openml/openml-python/issues/1408",
+    "created_at": "2025-06-17T12:17:05Z",
+    "user": "LennartPurucker",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -536,6 +1051,75 @@
     "archived": false
   },
   {
+    "repo": "cython/cython",
+    "id": 3154853961,
+    "number": 6972,
+    "title": "[ENH] Better integrate/document Python capsule API",
+    "url": "https://github.com/cython/cython/issues/6972",
+    "created_at": "2025-06-17T21:51:25Z",
+    "user": "matusvalo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3154878231,
+    "number": 2833,
+    "title": "Torchao FP8 not working with LoRA",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2833",
+    "created_at": "2025-06-17T22:05:19Z",
+    "user": "kailashg26",
+    "labels": [
+      "discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3156986853,
+    "number": 2358,
+    "title": "TexText does not display",
+    "url": "https://github.com/3b1b/manim/issues/2358",
+    "created_at": "2025-06-18T13:53:33Z",
+    "user": "bigboyconst",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3157043890,
+    "number": 3272,
+    "title": "Support for Falcon-H1 models",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3272",
+    "created_at": "2025-06-18T14:09:36Z",
+    "user": "alexshtf",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3157095784,
+    "number": 1416,
+    "title": "Remove slow test workaround hack",
+    "url": "https://github.com/openml/openml-python/issues/1416",
+    "created_at": "2025-06-18T14:24:56Z",
+    "user": "LennartPurucker",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3157441352,
     "number": 3396,
@@ -543,6 +1127,19 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3396",
     "created_at": "2025-06-18T16:05:31Z",
     "user": "jwilson-mdmi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3157476254,
+    "number": 2836,
+    "title": "Collective operation timeout / SIGABRT in FullFinetuneRecipeDistributed on single-node 8-GPU run",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2836",
+    "created_at": "2025-06-18T16:15:35Z",
+    "user": "happypanda94",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -562,6 +1159,19 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3157943647,
+    "number": 3114,
+    "title": "Which lightning strategy to use with torchrec optimizers?",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3114",
+    "created_at": "2025-06-18T19:25:10Z",
+    "user": "JacobHelwig",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3157986578,
     "number": 1896,
@@ -571,6 +1181,21 @@
     "user": "jobs-git",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3160247192,
+    "number": 10123,
+    "title": "Numba exhibits strange behavior when doing bitwise operations",
+    "url": "https://github.com/numba/numba/issues/10123",
+    "created_at": "2025-06-19T12:54:07Z",
+    "user": "wangshiphys",
+    "labels": [
+      "bug - typing"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -622,6 +1247,71 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3163334226,
+    "number": 5238,
+    "title": "re-write test for missing FigureWidget",
+    "url": "https://github.com/plotly/plotly.py/issues/5238",
+    "created_at": "2025-06-20T13:20:56Z",
+    "user": "gvwilson",
+    "labels": [
+      "feature",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3163336153,
+    "number": 5239,
+    "title": "move from Circle CI to GitHub Actions",
+    "url": "https://github.com/plotly/plotly.py/issues/5239",
+    "created_at": "2025-06-20T13:21:39Z",
+    "user": "gvwilson",
+    "labels": [
+      "feature",
+      "P2",
+      "infrastructure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3163596479,
+    "number": 2818,
+    "title": "Slow training on Ray as Compared to Accelerate multi node",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2818",
+    "created_at": "2025-06-20T14:50:43Z",
+    "user": "solidate",
+    "labels": [
+      "bug",
+      "waiting for reporter"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3163949165,
+    "number": 5241,
+    "title": "Plotly 5.x recommends `pip install -U kaleido` which is no longer compatible",
+    "url": "https://github.com/plotly/plotly.py/issues/5241",
+    "created_at": "2025-06-20T17:16:00Z",
+    "user": "mofojed",
+    "labels": [
+      "feature",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3164359234,
     "number": 3400,
@@ -629,6 +1319,19 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3400",
     "created_at": "2025-06-20T20:56:20Z",
     "user": "andreawynn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3165329524,
+    "number": 6981,
+    "title": "[BUG] Regression 3.0.12 -> 3.1.0+  generated source contains duplicate definitions",
+    "url": "https://github.com/cython/cython/issues/6981",
+    "created_at": "2025-06-21T18:54:43Z",
+    "user": "bjodah",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -692,6 +1395,151 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3167242736,
+    "number": 5246,
+    "title": "Cannot import make_subplots",
+    "url": "https://github.com/plotly/plotly.py/issues/5246",
+    "created_at": "2025-06-23T08:20:27Z",
+    "user": "ayclqt",
+    "labels": [
+      "bug",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3167600185,
+    "number": 3275,
+    "title": "New metric `tgi_kv_cache_usage`",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3275",
+    "created_at": "2025-06-23T10:12:54Z",
+    "user": "zhengkezhou1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3167775565,
+    "number": 821,
+    "title": "Simplify suite system in tasks",
+    "url": "https://github.com/huggingface/lighteval/issues/821",
+    "created_at": "2025-06-23T11:08:16Z",
+    "user": "clefourrier",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3167780975,
+    "number": 822,
+    "title": "Documenting how to launch multilingual tasks",
+    "url": "https://github.com/huggingface/lighteval/issues/822",
+    "created_at": "2025-06-23T11:10:13Z",
+    "user": "clefourrier",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3167783250,
+    "number": 823,
+    "title": "Remove extended tasks system and move everything to a \"custom task\" folder - add the extended task system as custom task",
+    "url": "https://github.com/huggingface/lighteval/issues/823",
+    "created_at": "2025-06-23T11:11:01Z",
+    "user": "clefourrier",
+    "labels": [
+      "refacto"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3167786718,
+    "number": 824,
+    "title": "[FEAT] Managing multiturn evaluations",
+    "url": "https://github.com/huggingface/lighteval/issues/824",
+    "created_at": "2025-06-23T11:12:15Z",
+    "user": "clefourrier",
+    "labels": [
+      "prio",
+      "science-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3168393565,
+    "number": 825,
+    "title": "[FT]  Tokenizing the data right before launching the evaluation job and saving it to the cache",
+    "url": "https://github.com/huggingface/lighteval/issues/825",
+    "created_at": "2025-06-23T14:22:54Z",
+    "user": "clefourrier",
+    "labels": [
+      "science-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3168521634,
+    "number": 5247,
+    "title": "Log messages appearing twice with Python Logging after pio.renderers.default = \"notebook\"",
+    "url": "https://github.com/plotly/plotly.py/issues/5247",
+    "created_at": "2025-06-23T15:00:17Z",
+    "user": "anstiwar",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3168540365,
+    "number": 826,
+    "title": "Adapt RULER eval to use chat template",
+    "url": "https://github.com/huggingface/lighteval/issues/826",
+    "created_at": "2025-06-23T15:06:10Z",
+    "user": "clefourrier",
+    "labels": [
+      "science-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3169802857,
+    "number": 3132,
+    "title": "Working with uneven number of batches per rank/worker in inference",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/3132",
+    "created_at": "2025-06-24T00:11:35Z",
+    "user": "bkumar4-sc",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3170581914,
     "number": 1900,
@@ -701,6 +1549,50 @@
     "user": "PranavBhatP",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3170606869,
+    "number": 5248,
+    "title": "The border disappears after adding zorder.",
+    "url": "https://github.com/plotly/plotly.py/issues/5248",
+    "created_at": "2025-06-24T06:53:22Z",
+    "user": "linyang-cq",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3171041153,
+    "number": 2846,
+    "title": "Error when running torchtune qwen3 MoE  no grouped_mm on SM89",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2846",
+    "created_at": "2025-06-24T08:53:12Z",
+    "user": "iqiancheng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3172905858,
+    "number": 6990,
+    "title": "Disambiguate CYTHON_USE_TYPE_SLOTS",
+    "url": "https://github.com/cython/cython/issues/6990",
+    "created_at": "2025-06-24T18:24:16Z",
+    "user": "da-woods",
+    "labels": [
+      "PyPy"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -723,6 +1615,47 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3176865921,
+    "number": 10128,
+    "title": "Race condition in GUFunc caching can lead to segmentation faults",
+    "url": "https://github.com/numba/numba/issues/10128",
+    "created_at": "2025-06-25T20:25:49Z",
+    "user": "ArvidJB",
+    "labels": [
+      "bug - incorrect behavior"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3177119528,
+    "number": 834,
+    "title": "[FT] Problems with CorpusLevelMetricGrouping",
+    "url": "https://github.com/huggingface/lighteval/issues/834",
+    "created_at": "2025-06-25T22:18:57Z",
+    "user": "LeonMalteW",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3177995436,
+    "number": 3277,
+    "title": "Rubbish responses by Llama-3.3-70B-Instruct when message API is enabled.",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3277",
+    "created_at": "2025-06-26T06:49:31Z",
+    "user": "alexshtf",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3178349495,
     "number": 9122,
@@ -731,6 +1664,109 @@
     "created_at": "2025-06-26T08:51:34Z",
     "user": "shin04",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3178828935,
+    "number": 3279,
+    "title": "Models no more supported with neuron backend in optimum-neuron 0.2.0",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3279",
+    "created_at": "2025-06-26T11:40:26Z",
+    "user": "sebv004",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3181660559,
+    "number": 10130,
+    "title": "Pylance reports error \"Stub file not found for numba\"",
+    "url": "https://github.com/numba/numba/issues/10130",
+    "created_at": "2025-06-27T07:15:54Z",
+    "user": "remss",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 3181948094,
+    "number": 1042,
+    "title": "how to use keras tuner for tuning batch size and number of epochs?",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1042",
+    "created_at": "2025-06-27T08:43:12Z",
+    "user": "inginfor",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 3181953105,
+    "number": 1043,
+    "title": "how apply keras tuner with fine tuning?",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1043",
+    "created_at": "2025-06-27T08:44:45Z",
+    "user": "inginfor",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3183627555,
+    "number": 2313,
+    "title": "Add Qwen-2.5-Coder to Keras-Hub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2313",
+    "created_at": "2025-06-27T17:43:59Z",
+    "user": "laxmareddyp",
+    "labels": [
+      "type:feature",
+      "stat:contributions welcome",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3183640362,
+    "number": 2314,
+    "title": "Add Magistral to Keras-Hub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2314",
+    "created_at": "2025-06-27T17:49:21Z",
+    "user": "laxmareddyp",
+    "labels": [
+      "type:feature",
+      "stat:contributions welcome",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3184222817,
+    "number": 844,
+    "title": "[BUG] System Prompt option now missing?",
+    "url": "https://github.com/huggingface/lighteval/issues/844",
+    "created_at": "2025-06-27T22:31:57Z",
+    "user": "teknium1",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -772,6 +1808,53 @@
     "created_at": "2025-06-29T09:51:19Z",
     "user": "leejuyuu",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3186056612,
+    "number": 2856,
+    "title": "Bug Report: DTensor/torch.Tensor Mixed Type Error in Llama4 LoRA Fine-tuning",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2856",
+    "created_at": "2025-06-29T11:01:17Z",
+    "user": "ronyadgar",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3186938476,
+    "number": 5256,
+    "title": "go.Contour doesn't render correctly in animation frames when multiple traces are present",
+    "url": "https://github.com/plotly/plotly.py/issues/5256",
+    "created_at": "2025-06-30T02:46:10Z",
+    "user": "linyang-cq",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3188933110,
+    "number": 2858,
+    "title": "ImportError when running dev/grpo_full_finetune_distributed: batched_rewards function was removed",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2858",
+    "created_at": "2025-06-30T15:30:56Z",
+    "user": "HayrapetyanZhirayr",
+    "labels": [
+      "bug",
+      "high-priority"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

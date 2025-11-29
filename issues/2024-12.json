@@ -1,5 +1,20 @@
 [
   {
+    "repo": "keras-team/keras-tuner",
+    "id": 2711387277,
+    "number": 1031,
+    "title": "Alarming RAM Usage Spike during Hyperband Search",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1031",
+    "created_at": "2024-12-02T10:29:45Z",
+    "user": "LorenzoMonti",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2713116685,
     "number": 5570,
@@ -29,6 +44,37 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2717368488,
+    "number": 13705,
+    "title": " Improving Korean NER model accuracy by including particles in entity annotations",
+    "url": "https://github.com/explosion/spaCy/issues/13705",
+    "created_at": "2024-12-04T11:07:11Z",
+    "user": "peacefulluo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2718879249,
+    "number": 1399,
+    "title": "Executorch Slows Down after second or third response in Torchchat",
+    "url": "https://github.com/pytorch/torchchat/issues/1399",
+    "created_at": "2024-12-04T09:56:02Z",
+    "user": "infil00p",
+    "labels": [
+      "bug",
+      "Mobile - Android",
+      "ExecuTorch",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2720511569,
     "number": 1696,
@@ -36,6 +82,32 @@
     "url": "https://github.com/huggingface/tokenizers/issues/1696",
     "created_at": "2024-12-05T14:05:13Z",
     "user": "gongel",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2722050310,
+    "number": 13709,
+    "title": "Unable to fine-tune previously trained transformer based spaCy NER.",
+    "url": "https://github.com/explosion/spaCy/issues/13709",
+    "created_at": "2024-12-06T04:46:11Z",
+    "user": "jlustgarten",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2722066769,
+    "number": 13710,
+    "title": "Unable to finetune transformer based ner model after initial tuning",
+    "url": "https://github.com/explosion/spaCy/issues/13710",
+    "created_at": "2024-12-06T04:55:54Z",
+    "user": "jlustgarten",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -86,6 +158,51 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-cv",
+    "id": 2727627840,
+    "number": 2509,
+    "title": "Division of data into training and validation set  & COCO Metric Callback not working with Keras CV implementation as expected",
+    "url": "https://github.com/keras-team/keras-cv/issues/2509",
+    "created_at": "2024-12-09T16:26:38Z",
+    "user": "alinaivanovaoff",
+    "labels": [
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2727689516,
+    "number": 2015,
+    "title": "How to export `Tokenizer`-s?",
+    "url": "https://github.com/keras-team/keras-hub/issues/2015",
+    "created_at": "2024-12-09T16:50:52Z",
+    "user": "fdtomasi",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2730661406,
+    "number": 2263,
+    "title": "Python < 3.10 - TypeError: 'staticmethod' object is not callable",
+    "url": "https://github.com/3b1b/manim/issues/2263",
+    "created_at": "2024-12-10T16:53:25Z",
+    "user": "jeertmans",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2731043813,
     "number": 1698,
@@ -94,6 +211,22 @@
     "created_at": "2024-12-10T19:47:32Z",
     "user": "Chimaco37",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2731744121,
+    "number": 1416,
+    "title": "MacOS test falsely uses MPS, fails and is misreported as passing",
+    "url": "https://github.com/pytorch/torchchat/issues/1416",
+    "created_at": "2024-12-11T03:45:46Z",
+    "user": "mikekgfb",
+    "labels": [
+      "bug",
+      "CI Infra"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -115,6 +248,34 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2733366452,
+    "number": 2018,
+    "title": "`CLIPTokenizer` does not work as expected",
+    "url": "https://github.com/keras-team/keras-hub/issues/2018",
+    "created_at": "2024-12-11T16:00:01Z",
+    "user": "fdtomasi",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/autokeras",
+    "id": 2733700559,
+    "number": 1939,
+    "title": "Autokeras maintenance clarification",
+    "url": "https://github.com/keras-team/autokeras/issues/1939",
+    "created_at": "2024-12-11T18:34:37Z",
+    "user": "Humbulani1234",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2735432632,
     "number": 1700,
@@ -123,6 +284,52 @@
     "created_at": "2024-12-12T10:02:11Z",
     "user": "gongel",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-cv",
+    "id": 2736028342,
+    "number": 2511,
+    "title": "Resume yolov8 training if it’s interrupted",
+    "url": "https://github.com/keras-team/keras-cv/issues/2511",
+    "created_at": "2024-12-12T14:11:15Z",
+    "user": "alinaivanovaoff",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2736791320,
+    "number": 2271,
+    "title": "`window.focus()` offsets the window position",
+    "url": "https://github.com/3b1b/manim/issues/2271",
+    "created_at": "2024-12-12T20:11:58Z",
+    "user": "Splines",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2739425685,
+    "number": 1424,
+    "title": "Misaligned AOTI input; potential perf gains by fixing?",
+    "url": "https://github.com/pytorch/torchchat/issues/1424",
+    "created_at": "2024-12-14T01:11:30Z",
+    "user": "Jack-Khuu",
+    "labels": [
+      "bug",
+      "actionable",
+      "Compile / AOTI",
+      "triaged"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -157,6 +364,51 @@
     "archived": false
   },
   {
+    "repo": "3b1b/manim",
+    "id": 2743979996,
+    "number": 2281,
+    "title": "DashedVMobject was displayed abnormal",
+    "url": "https://github.com/3b1b/manim/issues/2281",
+    "created_at": "2024-12-17T05:38:18Z",
+    "user": "sundebug",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 2748894266,
+    "number": 1440,
+    "title": "Weird tokenization in Spanish",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1440",
+    "created_at": "2024-12-18T22:51:45Z",
+    "user": "CrackedBeefcake",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 2749373076,
+    "number": 1032,
+    "title": "Tuning leads to `All-NaN axis encountered` after long time",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1032",
+    "created_at": "2024-12-19T06:20:34Z",
+    "user": "GhostDog98",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2750840732,
     "number": 3865,
@@ -170,6 +422,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/torchchat",
+    "id": 2750899551,
+    "number": 1430,
+    "title": "[KNOWN BUG] Broken Support for TextOnly Models from torchtune ",
+    "url": "https://github.com/pytorch/torchchat/issues/1430",
+    "created_at": "2024-12-19T16:41:44Z",
+    "user": "Jack-Khuu",
+    "labels": [
+      "bug",
+      "Known Gaps",
+      "triaged",
+      "torchtune"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 2752822436,
     "number": 1081,
@@ -178,6 +448,80 @@
     "created_at": "2024-12-20T14:11:35Z",
     "user": "Ball-Man",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2753907535,
+    "number": 13724,
+    "title": "AssertionError when using nlp.rehearse() with `en_core_web_trf`",
+    "url": "https://github.com/explosion/spaCy/issues/13724",
+    "created_at": "2024-12-21T11:15:50Z",
+    "user": "jama1017",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2755748445,
+    "number": 2027,
+    "title": "Add ModernBERT to KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2027",
+    "created_at": "2024-12-23T10:45:00Z",
+    "user": "gcuder",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2756269793,
+    "number": 2283,
+    "title": "audioop was   deprecated since version 3.11, removed in version 3.13. ",
+    "url": "https://github.com/3b1b/manim/issues/2283",
+    "created_at": "2024-12-23T15:20:32Z",
+    "user": "sundebug",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 2757125603,
+    "number": 1033,
+    "title": "[Enhancement] tuner.search_space_summary() should return string object instead implicitly of printing to stdout.",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1033",
+    "created_at": "2024-12-24T03:58:53Z",
+    "user": "GhostDog98",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2761127837,
+    "number": 1444,
+    "title": "We still don't use BFDOT on macOS CPU because Apple compiler used for PyTorch wheel is outdated",
+    "url": "https://github.com/pytorch/torchchat/issues/1444",
+    "created_at": "2024-12-27T17:40:21Z",
+    "user": "swolchok",
+    "labels": [
+      "performance",
+      "Known Gaps",
+      "MPS/Metal",
+      "triaged"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -220,6 +564,36 @@
     "created_at": "2024-12-28T19:57:04Z",
     "user": "uis246",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2762309859,
+    "number": 2285,
+    "title": "manim",
+    "url": "https://github.com/3b1b/manim/issues/2285",
+    "created_at": "2024-12-29T16:02:58Z",
+    "user": "Lucky-hk",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2762426184,
+    "number": 2286,
+    "title": "Docs: Installation for MacOS + conda says to use Python 3.8, but installation fails unless a newer version of python is used",
+    "url": "https://github.com/3b1b/manim/issues/2286",
+    "created_at": "2024-12-29T22:24:17Z",
+    "user": "jcowles",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

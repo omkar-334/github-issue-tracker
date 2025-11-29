@@ -13,6 +13,32 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3032972763,
+    "number": 3203,
+    "title": "Different result between `/chat/completions` and `/generate` endpoint",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3203",
+    "created_at": "2025-05-01T01:50:38Z",
+    "user": "ibndias",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3033561737,
+    "number": 3205,
+    "title": "Conflicting short argument -p",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3205",
+    "created_at": "2025-05-01T10:00:43Z",
+    "user": "leejuyuu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3034259874,
     "number": 5609,
@@ -42,6 +68,64 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/stanza",
+    "id": 3035796650,
+    "number": 1480,
+    "title": "[QUESTION]Missing documentation",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1480",
+    "created_at": "2025-05-02T11:25:03Z",
+    "user": "Denis-Kazakov",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3037459993,
+    "number": 3208,
+    "title": "Can I use TGI in a Supercomputer?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3208",
+    "created_at": "2025-05-03T15:13:24Z",
+    "user": "sleepingcat4",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3037822308,
+    "number": 10060,
+    "title": "Numba np.exp overload 6x slower than numpy",
+    "url": "https://github.com/numba/numba/issues/10060",
+    "created_at": "2025-05-04T07:03:41Z",
+    "user": "ricardoV94",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3037861428,
+    "number": 2343,
+    "title": "SVGMobject sets stroke widths to 0.0 by default",
+    "url": "https://github.com/3b1b/manim/issues/2343",
+    "created_at": "2025-05-04T08:35:10Z",
+    "user": "idg10",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/accelerate",
     "id": 3039120873,
     "number": 3547,
@@ -57,6 +141,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3039975530,
+    "number": 3209,
+    "title": "Upgrade torch to 2.7 to support Blackwell GPUs",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3209",
+    "created_at": "2025-05-05T15:04:14Z",
+    "user": "CrashTimeV",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3040265681,
     "number": 9059,
@@ -64,6 +161,19 @@
     "url": "https://github.com/pytorch/vision/issues/9059",
     "created_at": "2025-05-05T17:05:23Z",
     "user": "tttyuntian",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3041221493,
+    "number": 13812,
+    "title": "Why is this tokenization weird?",
+    "url": "https://github.com/explosion/spaCy/issues/13812",
+    "created_at": "2025-05-06T01:23:01Z",
+    "user": "lingvisa",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -143,6 +253,173 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3046517013,
+    "number": 2691,
+    "title": "Update ReadMe Optimization Flags",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2691",
+    "created_at": "2025-05-07T16:17:51Z",
+    "user": "pbontrager",
+    "labels": [
+      "documentation",
+      "good first issue",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3046537124,
+    "number": 2692,
+    "title": "[Feature Request] Add Liger CE Loss",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2692",
+    "created_at": "2025-05-07T16:26:45Z",
+    "user": "pbontrager",
+    "labels": [
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3046547842,
+    "number": 2693,
+    "title": "Optimize Distributed LinearCrossEntropyLoss",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2693",
+    "created_at": "2025-05-07T16:31:36Z",
+    "user": "pbontrager",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3046557452,
+    "number": 2694,
+    "title": "Fix Compile LinearCrossEntropyLoss",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2694",
+    "created_at": "2025-05-07T16:35:41Z",
+    "user": "pbontrager",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3046948378,
+    "number": 10066,
+    "title": "Provide wheel for Windows ARM64",
+    "url": "https://github.com/numba/numba/issues/10066",
+    "created_at": "2025-05-07T19:19:59Z",
+    "user": "khmyznikov",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3047296722,
+    "number": 2957,
+    "title": "CUDA error: an Illegal memory access was encountered",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/2957",
+    "created_at": "2025-05-07T22:24:00Z",
+    "user": "ali-fani-sd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3047305133,
+    "number": 4740,
+    "title": "Improve Gemma example",
+    "url": "https://github.com/google/flax/issues/4740",
+    "created_at": "2025-05-07T22:31:15Z",
+    "user": "cgarciae",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3047341375,
+    "number": 2695,
+    "title": "Add a knowledge distillation full finetune distributed recipe",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2695",
+    "created_at": "2025-05-07T22:56:53Z",
+    "user": "joecummings",
+    "labels": [
+      "enhancement",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3047685461,
+    "number": 3213,
+    "title": "Whether it supports Huawei Atlas300 graphics card?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3213",
+    "created_at": "2025-05-08T03:18:30Z",
+    "user": "fxb392",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3047764674,
+    "number": 3214,
+    "title": "Strange output when using Structured output with Gemma 3 12b it",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3214",
+    "created_at": "2025-05-08T04:25:34Z",
+    "user": "zacksiri",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchrec",
+    "id": 3048238930,
+    "number": 2958,
+    "title": "ManagedCollisionEmbeddingBagCollectionSharder cannot support CPU",
+    "url": "https://github.com/meta-pytorch/torchrec/issues/2958",
+    "created_at": "2025-05-08T08:34:50Z",
+    "user": "YuandongXu-hotstar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3049468862,
+    "number": 3215,
+    "title": "Phi 4 Reasoning Not able to Start",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3215",
+    "created_at": "2025-05-08T16:05:20Z",
+    "user": "zacksiri",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3049482915,
     "number": 3355,
@@ -150,6 +427,80 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3355",
     "created_at": "2025-05-08T16:11:10Z",
     "user": "AwaleSajil",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3049506486,
+    "number": 2699,
+    "title": "Add support for Qwen 2.5 VL 7B",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2699",
+    "created_at": "2025-05-08T16:20:33Z",
+    "user": "joecummings",
+    "labels": [
+      "enhancement",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3049510567,
+    "number": 2700,
+    "title": "Log config to output only on rank zero",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2700",
+    "created_at": "2025-05-08T16:22:33Z",
+    "user": "joecummings",
+    "labels": [
+      "good first issue",
+      "best practice",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3049525265,
+    "number": 2701,
+    "title": "Open call for projects built with torchtune! 🚀",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2701",
+    "created_at": "2025-05-08T16:28:13Z",
+    "user": "joecummings",
+    "labels": [
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3050392951,
+    "number": 2709,
+    "title": "Activation offloading and Llama4",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2709",
+    "created_at": "2025-05-08T23:49:22Z",
+    "user": "ebsmothers",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3051211387,
+    "number": 3216,
+    "title": "Model request: RecurrentGemma",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3216",
+    "created_at": "2025-05-09T07:08:42Z",
+    "user": "redbrain",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -171,6 +522,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3051932061,
+    "number": 3219,
+    "title": "Docker Image that works on RTX 5090",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3219",
+    "created_at": "2025-05-09T11:58:08Z",
+    "user": "shawnrushefsky",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3052545274,
     "number": 3357,
@@ -180,6 +544,36 @@
     "user": "tomaarsen",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3052849065,
+    "number": 2713,
+    "title": "Drop Python 3.9 Support",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2713",
+    "created_at": "2025-05-09T18:01:06Z",
+    "user": "joecummings",
+    "labels": [
+      "discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3052944964,
+    "number": 2715,
+    "title": "Migrate typing to PEP 585 and PEP 604",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2715",
+    "created_at": "2025-05-09T18:52:13Z",
+    "user": "joecummings",
+    "labels": [
+      "best practice"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -212,6 +606,49 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3054533457,
+    "number": 10070,
+    "title": "Error with `.flat` on Left Hand Side of Assignment",
+    "url": "https://github.com/numba/numba/issues/10070",
+    "created_at": "2025-05-10T21:39:40Z",
+    "user": "RoyiAvital",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3054770441,
+    "number": 13817,
+    "title": "arabic model not found",
+    "url": "https://github.com/explosion/spaCy/issues/13817",
+    "created_at": "2025-05-11T06:35:09Z",
+    "user": "abduljaleel02",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3055206014,
+    "number": 10071,
+    "title": "implement support for `math.fma()`",
+    "url": "https://github.com/numba/numba/issues/10071",
+    "created_at": "2025-05-11T20:29:53Z",
+    "user": "clairvoyante",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3056396463,
     "number": 1777,
@@ -238,6 +675,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3057370557,
+    "number": 3225,
+    "title": "Launching a container with an unprivileged user",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3225",
+    "created_at": "2025-05-12T15:31:23Z",
+    "user": "chyundunovDatamonsters",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3057940839,
     "number": 1831,
@@ -253,6 +703,64 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3060364503,
+    "number": 2725,
+    "title": "Integrate Muon optimizer",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2725",
+    "created_at": "2025-05-13T14:54:10Z",
+    "user": "joecummings",
+    "labels": [
+      "enhancement",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3061439823,
+    "number": 2730,
+    "title": "Use ``LRScheduler.load_state_dict()``",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2730",
+    "created_at": "2025-05-13T23:32:03Z",
+    "user": "joecummings",
+    "labels": [
+      "best practice",
+      "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3062628809,
+    "number": 3226,
+    "title": "Quantized Qwen3",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3226",
+    "created_at": "2025-05-14T10:28:04Z",
+    "user": "stevaras2",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3063188018,
+    "number": 3227,
+    "title": "Gemma3: CUDA error: an illegal memory access was encountered",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3227",
+    "created_at": "2025-05-14T13:45:44Z",
+    "user": "sebastianliebscher",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3063264202,
     "number": 9064,
@@ -260,6 +768,34 @@
     "url": "https://github.com/pytorch/vision/issues/9064",
     "created_at": "2025-05-14T00:59:21Z",
     "user": "ghost",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3063563097,
+    "number": 2731,
+    "title": "[RFC] Automatically download models as part of tune run",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2731",
+    "created_at": "2025-05-14T15:43:59Z",
+    "user": "ebsmothers",
+    "labels": [
+      "discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3063771888,
+    "number": 2732,
+    "title": "Feature request: support different input/output formats in the same recipe",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2732",
+    "created_at": "2025-05-14T17:10:23Z",
+    "user": "andrewor14",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -281,6 +817,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3065388375,
+    "number": 3228,
+    "title": "Error when launching Llama 4 Scout",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3228",
+    "created_at": "2025-05-15T08:21:21Z",
+    "user": "ukito-pl",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3066646480,
     "number": 5613,
@@ -292,6 +841,34 @@
       "question",
       "needs triage"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3067543976,
+    "number": 2739,
+    "title": "async GRPO discarding data and wandb not logging rewards",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2739",
+    "created_at": "2025-05-15T23:00:25Z",
+    "user": "salman-abdullah",
+    "labels": [
+      "triage review"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3067722881,
+    "number": 4751,
+    "title": "Multi-host migration of `nnx.pmap` to `nnx.shard_map`",
+    "url": "https://github.com/google/flax/issues/4751",
+    "created_at": "2025-05-16T01:45:13Z",
+    "user": "jaketae",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -388,6 +965,21 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3070892427,
+    "number": 2746,
+    "title": "I'm experimenting unexpected loss values when running old recipes on the same datasets",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2746",
+    "created_at": "2025-05-17T15:46:21Z",
+    "user": "nouranali",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3071582562,
     "number": 21300,
@@ -398,6 +990,36 @@
     "labels": [
       "stat:contributions welcome",
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3071614338,
+    "number": 2349,
+    "title": "Transform Failure",
+    "url": "https://github.com/3b1b/manim/issues/2349",
+    "created_at": "2025-05-18T09:57:37Z",
+    "user": "dell2716",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3071843300,
+    "number": 2689,
+    "title": "use native torch_empty_cache_steps",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2689",
+    "created_at": "2025-05-18T14:52:28Z",
+    "user": "winglian",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -446,6 +1068,21 @@
     "archived": false
   },
   {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3072138905,
+    "number": 2690,
+    "title": "Support data_parallel_size for vllm-serve command",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2690",
+    "created_at": "2025-05-18T23:43:15Z",
+    "user": "winglian",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3072899337,
     "number": 3910,
@@ -480,6 +1117,60 @@
     "created_at": "2025-05-19T18:12:44Z",
     "user": "Ahmad-Abd",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3075112317,
+    "number": 2750,
+    "title": "Integrate new ``OptimizerInBackward`` in rest of torchtune codebase",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2750",
+    "created_at": "2025-05-19T22:00:16Z",
+    "user": "joecummings",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3075412665,
+    "number": 3233,
+    "title": "Docker image For llama cpp backend?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3233",
+    "created_at": "2025-05-20T02:07:46Z",
+    "user": "vrdn-23",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 3075453709,
+    "number": 1543,
+    "title": "[IMPORTANT] torchchat sunset",
+    "url": "https://github.com/pytorch/torchchat/issues/1543",
+    "created_at": "2025-05-20T02:41:03Z",
+    "user": "Jack-Khuu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3075993728,
+    "number": 2692,
+    "title": "Issues training model with KD/logprobs",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2692",
+    "created_at": "2025-05-20T07:32:31Z",
+    "user": "sankexin",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -554,6 +1245,35 @@
     "archived": false
   },
   {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3078390520,
+    "number": 2752,
+    "title": "torchao dependency not listed",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2752",
+    "created_at": "2025-05-20T22:47:59Z",
+    "user": "cshimmin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3078555025,
+    "number": 2701,
+    "title": "FSDP V1 crashes on save with 4-bit optimizer",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2701",
+    "created_at": "2025-05-21T00:51:55Z",
+    "user": "selalipop",
+    "labels": [
+      "bug",
+      "waiting for reporter"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3078778037,
     "number": 9079,
@@ -599,6 +1319,37 @@
     "archived": false
   },
   {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3081635266,
+    "number": 2702,
+    "title": "CLI Args should also handle nested options",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2702",
+    "created_at": "2025-05-21T23:28:43Z",
+    "user": "Rexhaif",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 3082184483,
+    "number": 1494,
+    "title": "Lemmatizer lowercase words in some languages / some POS tags?",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1494",
+    "created_at": "2025-05-22T06:17:29Z",
+    "user": "AngledLuffa",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3082657757,
     "number": 3370,
@@ -619,6 +1370,60 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3371",
     "created_at": "2025-05-22T11:45:03Z",
     "user": "jteijema",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3083465155,
+    "number": 2758,
+    "title": "`chat_dataset(...)` should use newer `masking_strategy` arg",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2758",
+    "created_at": "2025-05-22T13:51:37Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3083678940,
+    "number": 2759,
+    "title": "`torchtune` fails to start when the checkpointer dir does not contain the initial model weights",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2759",
+    "created_at": "2025-05-22T14:58:16Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3083717158,
+    "number": 2760,
+    "title": "Perf / accuracy metrics comparison with Nemo for SFT / reasoning distillation scenario",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2760",
+    "created_at": "2025-05-22T15:10:25Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3084046139,
+    "number": 3241,
+    "title": "Separate Health and Ready Endpoints",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3241",
+    "created_at": "2025-05-22T17:14:14Z",
+    "user": "okwilkins",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -663,6 +1468,52 @@
     "created_at": "2025-05-23T15:24:45Z",
     "user": "digicosmos86",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3087997402,
+    "number": 2719,
+    "title": "Save De-duplicated Set During Pre-processing",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2719",
+    "created_at": "2025-05-24T04:01:47Z",
+    "user": "xzuyn",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3088645096,
+    "number": 2270,
+    "title": "Add Cohere and Cohere2 to KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2270",
+    "created_at": "2025-05-24T18:14:57Z",
+    "user": "harshaljanjani",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3088727321,
+    "number": 2720,
+    "title": "Expand optimized LoRA kernels to lm_head & embed_tokens",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2720",
+    "created_at": "2025-05-24T20:59:21Z",
+    "user": "hcsolakoglu",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -754,6 +1605,37 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3093519384,
+    "number": 10083,
+    "title": "prange step size support",
+    "url": "https://github.com/numba/numba/issues/10083",
+    "created_at": "2025-05-27T10:59:19Z",
+    "user": "lesshaste",
+    "labels": [
+      "feature_request",
+      "ParallelAccelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3093972203,
+    "number": 10084,
+    "title": "Drop Python 3.10",
+    "url": "https://github.com/numba/numba/issues/10084",
+    "created_at": "2025-05-27T13:34:24Z",
+    "user": "jack-mcivor",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3094168358,
     "number": 1784,
@@ -782,6 +1664,83 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3094266671,
+    "number": 10085,
+    "title": "Support `copy=False` in `astype()` (was: \"Drop in performance due to useless cast\")",
+    "url": "https://github.com/numba/numba/issues/10085",
+    "created_at": "2025-05-27T15:02:19Z",
+    "user": "ricardoV94",
+    "labels": [
+      "feature_request",
+      "good second issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3094703124,
+    "number": 10086,
+    "title": "NumbaPerformanceWarning when array is indeed contiguous",
+    "url": "https://github.com/numba/numba/issues/10086",
+    "created_at": "2025-05-27T17:45:35Z",
+    "user": "ricardoV94",
+    "labels": [
+      "feature_request",
+      "good first issue",
+      "good second issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3094778636,
+    "number": 3243,
+    "title": "Attempting to build 2x shard system but compute is not properly identified 2x L40s GPU's",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3243",
+    "created_at": "2025-05-27T18:17:02Z",
+    "user": "SigmazGFX",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 3096994182,
+    "number": 1496,
+    "title": "[QUESTION] Hebrew Root",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1496",
+    "created_at": "2025-05-28T11:19:26Z",
+    "user": "GeorgeS2019",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3098731511,
+    "number": 2738,
+    "title": "GRPO + QLora + DS3 fails while merging model with adapters",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2738",
+    "created_at": "2025-05-28T22:54:21Z",
+    "user": "dhruvmullick",
+    "labels": [
+      "bug",
+      "waiting on upstream"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3099255602,
     "number": 3378,
@@ -790,6 +1749,34 @@
     "created_at": "2025-05-29T05:47:33Z",
     "user": "riyajatar37003",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3099623022,
+    "number": 3247,
+    "title": "Load Chat Template from `chat_template.jinja`",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3247",
+    "created_at": "2025-05-29T08:41:02Z",
+    "user": "dhbrojas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3099685403,
+    "number": 2740,
+    "title": "for grpo , TypeError: None is not a callable object",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2740",
+    "created_at": "2025-05-29T09:06:21Z",
+    "user": "sankexin",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -818,6 +1805,19 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3101512568,
+    "number": 3248,
+    "title": "Neuron backend mismatched static batch size",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3248",
+    "created_at": "2025-05-29T21:17:51Z",
+    "user": "jimburtoft",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -866,6 +1866,34 @@
     "archived": false
   },
   {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3103692644,
+    "number": 2743,
+    "title": "fsdp_offload_params cause \"RuntimeError: CUDA error: invalid argument\" error but no offload works",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2743",
+    "created_at": "2025-05-30T16:32:05Z",
+    "user": "Nero10578",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3103784842,
+    "number": 2775,
+    "title": "Torchtune dataset cache memory error despite providing dataset file path",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2775",
+    "created_at": "2025-05-30T17:19:58Z",
+    "user": "zabir110",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3104235948,
     "number": 3380,
@@ -874,6 +1902,34 @@
     "created_at": "2025-05-30T20:42:23Z",
     "user": "rupeshgx",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3104458930,
+    "number": 3251,
+    "title": "Bug in Importing configuration files",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3251",
+    "created_at": "2025-05-30T23:25:53Z",
+    "user": "ameyanjarlekar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3105098272,
+    "number": 2744,
+    "title": "FSDP Torchao 8bit optimizer cause save checkpoint error only at the end",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/2744",
+    "created_at": "2025-05-31T07:47:57Z",
+    "user": "Nero10578",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -16,6 +16,19 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2963059130,
+    "number": 13782,
+    "title": "Can't load model from config file: no [nlp] section found",
+    "url": "https://github.com/explosion/spaCy/issues/13782",
+    "created_at": "2025-04-01T10:49:12Z",
+    "user": "micuentadecasa",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2965144610,
     "number": 1759,
@@ -39,6 +52,34 @@
     "labels": [
       "type:Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2965965086,
+    "number": 2194,
+    "title": "Implement Depth Estimation Pipeline",
+    "url": "https://github.com/keras-team/keras-hub/issues/2194",
+    "created_at": "2025-04-02T10:37:17Z",
+    "user": "Sohaib-Ahmed21",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2966670090,
+    "number": 13785,
+    "title": "Infixes Update Not Applying Properly to Tokenizer",
+    "url": "https://github.com/explosion/spaCy/issues/13785",
+    "created_at": "2025-04-02T14:58:15Z",
+    "user": "Rayan-Allali",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -75,6 +116,22 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 2971583743,
+    "number": 10026,
+    "title": "`np.signbit` behaves differently with it using `njit` on `nan` and `inf`",
+    "url": "https://github.com/numba/numba/issues/10026",
+    "created_at": "2025-04-04T07:56:02Z",
+    "user": "apiqwe",
+    "labels": [
+      "bug - incorrect behavior",
+      "bug - numerically incorrect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2973850616,
     "number": 21137,
@@ -103,6 +160,21 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 2974609173,
+    "number": 10029,
+    "title": "structref property automatically",
+    "url": "https://github.com/numba/numba/issues/10029",
+    "created_at": "2025-04-06T01:21:50Z",
+    "user": "yxdragon",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2974686581,
     "number": 1810,
@@ -118,6 +190,75 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2974938515,
+    "number": 13790,
+    "title": "I can't open spaCy lessons",
+    "url": "https://github.com/explosion/spaCy/issues/13790",
+    "created_at": "2025-04-06T12:55:26Z",
+    "user": "Bla-bla-bla-bla-bla",
+    "labels": [
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2981475646,
+    "number": 3153,
+    "title": "Could not run Llama 4 Scout with TGI in 2xH200",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3153",
+    "created_at": "2025-04-09T04:08:28Z",
+    "user": "Bihan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2982147540,
+    "number": 3155,
+    "title": "stream_options null causing error response",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3155",
+    "created_at": "2025-04-09T09:18:07Z",
+    "user": "tamastarjanyi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 2982634140,
+    "number": 10037,
+    "title": "Inlining loop operations wrapped into a structure result in a malfunctioning code",
+    "url": "https://github.com/numba/numba/issues/10037",
+    "created_at": "2025-04-09T12:14:00Z",
+    "user": "ZzEeKkAa",
+    "labels": [
+      "bug - miscompile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2983134097,
+    "number": 3158,
+    "title": "Unable to quantize llama-3.1-8B-Instruct or llama-3.3-70B-Instruct with text-generation-server",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3158",
+    "created_at": "2025-04-09T15:11:30Z",
+    "user": "ruckc",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2983444426,
     "number": 1760,
@@ -128,6 +269,19 @@
     "labels": [
       "Feature Request"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2983704798,
+    "number": 3159,
+    "title": "Depricated system cuda?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3159",
+    "created_at": "2025-04-09T19:22:51Z",
+    "user": "SquadUpSquid",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -161,6 +315,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2986798759,
+    "number": 3163,
+    "title": "Tokenizer loading fails for mistralai/Ministral-8B-Instruct-2410 using TGI on GCP Vertex AI",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3163",
+    "created_at": "2025-04-10T20:24:02Z",
+    "user": "pavlonator",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2988008615,
     "number": 21154,
@@ -183,6 +350,47 @@
     "url": "https://github.com/pytorch/text/issues/2289",
     "created_at": "2025-04-11T12:56:31Z",
     "user": "donhuvy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2988770425,
+    "number": 3165,
+    "title": "BatchPrefillWithPagedKVCacheWrapper.plan() got an unexpected keyword argument 'head_dim'",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3165",
+    "created_at": "2025-04-11T14:04:07Z",
+    "user": "ruckc",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 2989596112,
+    "number": 10040,
+    "title": "Platform-dependent Compilation Failure",
+    "url": "https://github.com/numba/numba/issues/10040",
+    "created_at": "2025-04-11T19:39:55Z",
+    "user": "hameerabbasi",
+    "labels": [
+      "no action required"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2990418180,
+    "number": 2336,
+    "title": "Using Rotate_Vector in VectorField cause dimensions problem",
+    "url": "https://github.com/3b1b/manim/issues/2336",
+    "created_at": "2025-04-12T11:23:05Z",
+    "user": "mryuans",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -245,6 +453,21 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 2993721026,
+    "number": 10041,
+    "title": "DCE remove getattr in inlined loop body",
+    "url": "https://github.com/numba/numba/issues/10041",
+    "created_at": "2025-04-14T17:36:16Z",
+    "user": "sklam",
+    "labels": [
+      "bug - miscompile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2994890222,
     "number": 21167,
@@ -255,6 +478,61 @@
     "labels": [
       "type:Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2994970102,
+    "number": 3173,
+    "title": "Extended queuing time when using guidance (structured generation) and grammar",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3173",
+    "created_at": "2025-04-15T03:32:44Z",
+    "user": "jazken",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 2995429273,
+    "number": 10042,
+    "title": "`np.full` behaves differently with it using `njit`",
+    "url": "https://github.com/numba/numba/issues/10042",
+    "created_at": "2025-04-15T07:22:40Z",
+    "user": "apiqwe",
+    "labels": [
+      "numpy",
+      "bug - numerically incorrect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2995862277,
+    "number": 3175,
+    "title": "RuntimeError on CUDA capture with FP8 when deploying Llama-4-Maverick on TGI 3.2.3 with using H100 GPUS",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3175",
+    "created_at": "2025-04-15T09:55:27Z",
+    "user": "nskpro-cmd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2996448372,
+    "number": 3177,
+    "title": "Token count discrepancy when using Qwen2.5-VL with multiple images",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3177",
+    "created_at": "2025-04-15T13:32:20Z",
+    "user": "JjjFangg",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -275,6 +553,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 2999105126,
+    "number": 3180,
+    "title": "deepseek-r1-awq overflow",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3180",
+    "created_at": "2025-04-16T09:53:10Z",
+    "user": "taishan1994",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2999163866,
     "number": 9020,
@@ -288,6 +579,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3000421554,
+    "number": 3181,
+    "title": "Zero config not working for VLMs",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3181",
+    "created_at": "2025-04-16T18:29:54Z",
+    "user": "loganlebanoff",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3000773416,
     "number": 3329,
@@ -295,6 +599,19 @@
     "url": "https://github.com/pytorch/tutorials/issues/3329",
     "created_at": "2025-04-16T21:23:28Z",
     "user": "justinchuby",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/tokenizers",
+    "id": 3001060545,
+    "number": 52,
+    "title": "Distinguish between public and internal headers",
+    "url": "https://github.com/meta-pytorch/tokenizers/issues/52",
+    "created_at": "2025-04-17T00:24:00Z",
+    "user": "kirklandsign",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -355,6 +672,22 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 3009264427,
+    "number": 13804,
+    "title": "Spacy Language components initialization extremely slow during cli training due to corpus train size.",
+    "url": "https://github.com/explosion/spaCy/issues/13804",
+    "created_at": "2025-04-21T20:39:59Z",
+    "user": "smamidik",
+    "labels": [
+      "feat / ux",
+      "feat / training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3009609884,
     "number": 9029,
@@ -375,6 +708,34 @@
     "url": "https://github.com/pytorch/text/issues/2290",
     "created_at": "2025-04-22T02:40:04Z",
     "user": "Wawan-gaming",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3010354581,
+    "number": 2224,
+    "title": "Add sam2",
+    "url": "https://github.com/keras-team/keras-hub/issues/2224",
+    "created_at": "2025-04-22T08:33:09Z",
+    "user": "innat",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/autokeras",
+    "id": 3012986639,
+    "number": 1945,
+    "title": "All operation names should be unique.",
+    "url": "https://github.com/keras-team/autokeras/issues/1945",
+    "created_at": "2025-04-23T07:29:06Z",
+    "user": "zhen1996",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -402,6 +763,21 @@
     "created_at": "2025-04-23T11:50:07Z",
     "user": "NicolasHug",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 3014459237,
+    "number": 1478,
+    "title": "Build Pyodide (web assembly) wheel",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1478",
+    "created_at": "2025-04-23T15:44:46Z",
+    "user": "reynoldsnlp",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -436,6 +812,34 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 3017599303,
+    "number": 13806,
+    "title": "sample did not work",
+    "url": "https://github.com/explosion/spaCy/issues/13806",
+    "created_at": "2025-04-24T15:05:22Z",
+    "user": "donhuvy",
+    "labels": [
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3017667373,
+    "number": 3190,
+    "title": "Does tgi support RTX 5090 yet?",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3190",
+    "created_at": "2025-04-24T15:29:17Z",
+    "user": "bino282",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3017689755,
     "number": 21207,
@@ -447,6 +851,19 @@
       "stat:awaiting keras-eng",
       "type:Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3017733062,
+    "number": 3191,
+    "title": "Extremely high calculated token count for VLM (Qwen 2.5 VL",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3191",
+    "created_at": "2025-04-24T15:54:59Z",
+    "user": "boris-lok-pentadoc",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -498,6 +915,77 @@
     "archived": false
   },
   {
+    "repo": "numba/numba",
+    "id": 3020962193,
+    "number": 10053,
+    "title": "Star and slash special parameters don't work correctly",
+    "url": "https://github.com/numba/numba/issues/10053",
+    "created_at": "2025-04-25T20:21:24Z",
+    "user": "bbb23exposed",
+    "labels": [
+      "bug - incorrect behavior"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3021508620,
+    "number": 10054,
+    "title": "ValueError: not enough values to unpack (expected 1, got 0)",
+    "url": "https://github.com/numba/numba/issues/10054",
+    "created_at": "2025-04-26T05:25:31Z",
+    "user": "bbb23exposed",
+    "labels": [
+      "bug - failure to compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3022563224,
+    "number": 3195,
+    "title": "Failure to install https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3195",
+    "created_at": "2025-04-27T01:48:36Z",
+    "user": "vishnuchalla",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3022681786,
+    "number": 2232,
+    "title": "Add Phi-4 model",
+    "url": "https://github.com/keras-team/keras-hub/issues/2232",
+    "created_at": "2025-04-27T04:12:13Z",
+    "user": "yrahul3910",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3023321468,
+    "number": 13809,
+    "title": "vscode doesn't like  displacy.render(sentence1, style=\"dep\")",
+    "url": "https://github.com/explosion/spaCy/issues/13809",
+    "created_at": "2025-04-27T21:03:40Z",
+    "user": "kundeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3025045200,
     "number": 3347,
@@ -527,6 +1015,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/torchchat",
+    "id": 3025797442,
+    "number": 1536,
+    "title": "Improve Tokenizer New Type Onboarding",
+    "url": "https://github.com/pytorch/torchchat/issues/1536",
+    "created_at": "2025-04-28T18:31:33Z",
+    "user": "zhenyan-zhang-meta",
+    "labels": [
+      "good first issue",
+      "actionable",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3026462615,
     "number": 5607,
@@ -538,6 +1043,19 @@
       "question",
       "needs triage"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3027836012,
+    "number": 3199,
+    "title": "Qwen 3 support",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3199",
+    "created_at": "2025-04-29T10:33:42Z",
+    "user": "maziyarpanahi",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -637,6 +1155,21 @@
     "labels": [
       "question",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3032440818,
+    "number": 10057,
+    "title": "Bug in np.searchsorted for complex types",
+    "url": "https://github.com/numba/numba/issues/10057",
+    "created_at": "2025-04-30T20:29:29Z",
+    "user": "sklam",
+    "labels": [
+      "bug - failure to compile"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

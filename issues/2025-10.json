@@ -28,6 +28,234 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3471673518,
+    "number": 29850,
+    "title": "BUG: _ScaledFloatTestDType setup in tests is thread-unsafe",
+    "url": "https://github.com/numpy/numpy/issues/29850",
+    "created_at": "2025-10-01T01:44:10Z",
+    "user": "bwhitt7",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3471696289,
+    "number": 29851,
+    "title": "BUG: TestLstsqMatrix, residuals not calculated properly for square tests",
+    "url": "https://github.com/numpy/numpy/issues/29851",
+    "created_at": "2025-10-01T01:57:13Z",
+    "user": "bwhitt7",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3471944974,
+    "number": 8878,
+    "title": "Does MIPROv2 support not generating examples? Besides GEPA, what other optimizers can be used without optimizing examples?",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8878",
+    "created_at": "2025-10-01T04:12:09Z",
+    "user": "oashua",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3471960640,
+    "number": 8879,
+    "title": "[Bug]  dspy.Embedder  throws KeyError  when using a custom Embedding Function (using requests)",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8879",
+    "created_at": "2025-10-01T04:21:44Z",
+    "user": "darsonik",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3472158119,
+    "number": 2673,
+    "title": "Don't Mutate Function Input For Text",
+    "url": "https://github.com/openai/openai-python/issues/2673",
+    "created_at": "2025-10-01T06:03:52Z",
+    "user": "peter-zhong-replit",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3472726393,
+    "number": 10257,
+    "title": "Fix complex math test failures on 3.14",
+    "url": "https://github.com/numba/numba/issues/10257",
+    "created_at": "2025-10-01T09:17:19Z",
+    "user": "esc",
+    "labels": [
+      "bug - numerically incorrect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3472942270,
+    "number": 10258,
+    "title": "TypyingError when combining variadic and optional arguments",
+    "url": "https://github.com/numba/numba/issues/10258",
+    "created_at": "2025-10-01T10:21:51Z",
+    "user": "ricardoV94",
+    "labels": [
+      "bug - typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3473832813,
+    "number": 5356,
+    "title": "Tick labels for geographic plots",
+    "url": "https://github.com/plotly/plotly.py/issues/5356",
+    "created_at": "2025-10-01T14:24:40Z",
+    "user": "etpof",
+    "labels": [
+      "feature",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3475105167,
+    "number": 5360,
+    "title": "`mplexporter` tests should run in CI (and failing tests should be fixed)",
+    "url": "https://github.com/plotly/plotly.py/issues/5360",
+    "created_at": "2025-10-01T21:03:11Z",
+    "user": "emilykl",
+    "labels": [
+      "bug",
+      "P2",
+      "testing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3475409064,
+    "number": 8885,
+    "title": "[Feature] Generic Streaming Adapters",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8885",
+    "created_at": "2025-10-01T22:48:21Z",
+    "user": "RevanthGundala",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3475490032,
+    "number": 2424,
+    "title": "Gemma3 when run with mixed_float16 generates blank response",
+    "url": "https://github.com/keras-team/keras-hub/issues/2424",
+    "created_at": "2025-10-01T23:24:42Z",
+    "user": "gaurides",
+    "labels": [
+      "Gemma"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3475511117,
+    "number": 1781,
+    "title": "How to add supervised finetuning mask in torchtitan?",
+    "url": "https://github.com/pytorch/torchtitan/issues/1781",
+    "created_at": "2025-10-01T23:36:12Z",
+    "user": "kailashg26",
+    "labels": [
+      "post training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3475513939,
+    "number": 3111,
+    "title": "FLUX FP8 Training Error",
+    "url": "https://github.com/pytorch/ao/issues/3111",
+    "created_at": "2025-10-01T23:37:13Z",
+    "user": "faruknane",
+    "labels": [
+      "bug",
+      "float8"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3475548425,
+    "number": 3112,
+    "title": "[mxfp8 moe traing] to_mxfp8_a2a_dequant flat perf vs high precision a2a",
+    "url": "https://github.com/pytorch/ao/issues/3112",
+    "created_at": "2025-10-02T00:02:27Z",
+    "user": "danielvegamyhre",
+    "labels": [
+      "mx",
+      "moe"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/tokenizers",
+    "id": 3475659199,
+    "number": 131,
+    "title": "Use prompt template from HF tokenizer",
+    "url": "https://github.com/meta-pytorch/tokenizers/issues/131",
+    "created_at": "2025-10-02T01:19:41Z",
+    "user": "metascroy",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3475815896,
     "number": 3536,
@@ -35,6 +263,34 @@
     "url": "https://github.com/huggingface/sentence-transformers/issues/3536",
     "created_at": "2025-10-02T03:09:38Z",
     "user": "kddubey",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3476869035,
+    "number": 7185,
+    "title": "What if `Py_LIMITED_API` is larger than `PY_VERSION_HEX`?",
+    "url": "https://github.com/cython/cython/issues/7185",
+    "created_at": "2025-10-02T09:56:57Z",
+    "user": "dalcinl",
+    "labels": [
+      "Build System"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3477306372,
+    "number": 1002,
+    "title": "[FT] Upgrade the VLLM dependency to 0.10.2+",
+    "url": "https://github.com/huggingface/lighteval/issues/1002",
+    "created_at": "2025-10-02T12:18:24Z",
+    "user": "JIElite",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -54,6 +310,23 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3477494608,
+    "number": 5362,
+    "title": "Animations: let 'Play' button support different durations for different frames",
+    "url": "https://github.com/plotly/plotly.py/issues/5362",
+    "created_at": "2025-10-02T13:16:45Z",
+    "user": "sducouedic",
+    "labels": [
+      "feature",
+      "P3",
+      "community"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3477757778,
     "number": 3607,
@@ -63,6 +336,52 @@
     "user": "camargocr",
     "labels": [
       "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3478167157,
+    "number": 8891,
+    "title": "[Bug] Multimodal Memory Usage",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8891",
+    "created_at": "2025-10-02T16:37:01Z",
+    "user": "isaacbmiller",
+    "labels": [
+      "bug",
+      "adapters"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3478947855,
+    "number": 3196,
+    "title": "Training loss differs based on batch size",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3196",
+    "created_at": "2025-10-02T21:14:53Z",
+    "user": "dstnluong-google",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3480157044,
+    "number": 1004,
+    "title": "[BUG] truthfulqa requires extended_tasks dependencies because registry eagerly imports all extended tasks",
+    "url": "https://github.com/huggingface/lighteval/issues/1004",
+    "created_at": "2025-10-03T07:51:08Z",
+    "user": "mcavdar",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -112,6 +431,36 @@
     "archived": false
   },
   {
+    "repo": "google/flax",
+    "id": 3481230715,
+    "number": 4995,
+    "title": "How to construct freezable Parameters?",
+    "url": "https://github.com/google/flax/issues/4995",
+    "created_at": "2025-10-03T13:59:54Z",
+    "user": "pfackeldey",
+    "labels": [
+      "needs-discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3481833733,
+    "number": 8899,
+    "title": "[Bug] Documentation for XMLAdapter missing",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8899",
+    "created_at": "2025-10-03T17:05:14Z",
+    "user": "stargazer33",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3482050552,
     "number": 1979,
@@ -122,6 +471,36 @@
     "labels": [
       "enhancement",
       "module:datasets&dataloaders"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3482072454,
+    "number": 8900,
+    "title": "[Bug] Unable to run DSPy on AzureOpenAI",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8900",
+    "created_at": "2025-10-03T18:12:12Z",
+    "user": "ajayarunachalam",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3482288830,
+    "number": 10261,
+    "title": "Numerically incorrect failure in conjunction with IntEnum",
+    "url": "https://github.com/numba/numba/issues/10261",
+    "created_at": "2025-10-03T19:22:02Z",
+    "user": "NiankSoft",
+    "labels": [
+      "bug - incorrect behavior"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -139,6 +518,37 @@
       "module:detection",
       "module:tests",
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3482957915,
+    "number": 2677,
+    "title": "Incompatibility of assistant with tool_calls and tool role in the /v1/responses endpoint",
+    "url": "https://github.com/openai/openai-python/issues/2677",
+    "created_at": "2025-10-04T00:31:37Z",
+    "user": "fsrocha-filipe",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3483904768,
+    "number": 7191,
+    "title": "[BUG] Fails to preprocess an array of struct inside another struct",
+    "url": "https://github.com/cython/cython/issues/7191",
+    "created_at": "2025-10-04T15:59:11Z",
+    "user": "pulkin",
+    "labels": [
+      "defect",
+      "Type Analysis"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -178,6 +588,23 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3484024265,
+    "number": 23732,
+    "title": "BUG: interpolate: RBFInterpolator gets twice faster with `OPENBLAS_NUM_THREADS=1`",
+    "url": "https://github.com/scipy/scipy/issues/23732",
+    "created_at": "2025-10-04T18:23:12Z",
+    "user": "ev-br",
+    "labels": [
+      "defect",
+      "scipy.interpolate",
+      "Pythran"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3484449326,
     "number": 3540,
@@ -204,6 +631,23 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3484535787,
+    "number": 4204,
+    "title": "The error of training qwen3-30b-a3b using SFT.",
+    "url": "https://github.com/huggingface/trl/issues/4204",
+    "created_at": "2025-10-05T08:15:39Z",
+    "user": "Zhengsh123",
+    "labels": [
+      "🏋 SFT",
+      "🚀 deepspeed",
+      "⚡accelerate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3484628520,
     "number": 32379,
@@ -213,6 +657,52 @@
     "user": "sotagg",
     "labels": [
       "New Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3484703399,
+    "number": 4205,
+    "title": "vllm importance sampling correction causes tensor size mismatch",
+    "url": "https://github.com/huggingface/trl/issues/4205",
+    "created_at": "2025-10-05T11:12:52Z",
+    "user": "wangxiaodong1021",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3484851386,
+    "number": 8901,
+    "title": "[Bug] ChatAdapter fails to parse field markers not separated by newlines",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8901",
+    "created_at": "2025-10-05T14:23:03Z",
+    "user": "enitrat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3484936444,
+    "number": 2680,
+    "title": "Major types are not exposed in openai.types ChatCompletion, Response, ResponseUsage",
+    "url": "https://github.com/openai/openai-python/issues/2680",
+    "created_at": "2025-10-05T16:12:12Z",
+    "user": "ievgennaida",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -229,6 +719,45 @@
     "labels": [
       "RFC"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3485129881,
+    "number": 29881,
+    "title": "ENH: Add optional overflow warning or automatic dtype promotion in `np.sum`",
+    "url": "https://github.com/numpy/numpy/issues/29881",
+    "created_at": "2025-10-05T20:16:48Z",
+    "user": "morgen-code",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3485190569,
+    "number": 7194,
+    "title": "MSVC raises `warning C4551: function call missing argument list`",
+    "url": "https://github.com/cython/cython/issues/7194",
+    "created_at": "2025-10-05T21:36:29Z",
+    "user": "leofang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3485263382,
+    "number": 2399,
+    "title": "Error when rendering /optics_puzzles/e_field.py with stable ManimGL",
+    "url": "https://github.com/3b1b/manim/issues/2399",
+    "created_at": "2025-10-05T23:17:38Z",
+    "user": "IJuanikorenab",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -264,6 +793,67 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/dspy",
+    "id": 3485850123,
+    "number": 8905,
+    "title": "[Feature] GEPA should be able to evolve all components of the signature, not just docstring",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8905",
+    "created_at": "2025-10-06T06:28:54Z",
+    "user": "LakshyAAAgrawal",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3485909708,
+    "number": 8906,
+    "title": "[Bug] GEPA cannot save DSPy programs created from base modules like Predict and ChainOfThought",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8906",
+    "created_at": "2025-10-06T06:52:19Z",
+    "user": "LakshyAAAgrawal",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3486491330,
+    "number": 10263,
+    "title": "NumPy 2.4",
+    "url": "https://github.com/numba/numba/issues/10263",
+    "created_at": "2025-10-06T09:57:50Z",
+    "user": "esc",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3486722696,
+    "number": 3122,
+    "title": "Access to compact internal representation for `target_dtype=torch.uint4`",
+    "url": "https://github.com/pytorch/ao/issues/3122",
+    "created_at": "2025-10-06T11:02:12Z",
+    "user": "mseeger",
+    "labels": [
+      "question",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3488025032,
     "number": 32405,
@@ -293,6 +883,34 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3489103713,
+    "number": 1796,
+    "title": "ENH: Model thoughts for ToolCallingAgent",
+    "url": "https://github.com/huggingface/smolagents/issues/1796",
+    "created_at": "2025-10-06T21:06:55Z",
+    "user": "OscarGarciaF",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3489186245,
+    "number": 3125,
+    "title": "Fix test_quantize_pt2e_qat.py::test_mixing_qat_ptq in CI",
+    "url": "https://github.com/pytorch/ao/issues/3125",
+    "created_at": "2025-10-06T21:30:41Z",
+    "user": "jainapurva",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3489527579,
     "number": 8928,
@@ -304,6 +922,68 @@
       "module:classification",
       "module:regression",
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3491098323,
+    "number": 10266,
+    "title": "Numba downcasts 0d array operations to scalar",
+    "url": "https://github.com/numba/numba/issues/10266",
+    "created_at": "2025-10-07T11:29:22Z",
+    "user": "ricardoV94",
+    "labels": [
+      "bug - typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3491513196,
+    "number": 3264,
+    "title": "Bug: ...",
+    "url": "https://github.com/browser-use/browser-use/issues/3264",
+    "created_at": "2025-10-07T13:30:04Z",
+    "user": "KanavGupta01",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3491776226,
+    "number": 3203,
+    "title": "OOM for causal lm evaluation and missing logging",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3203",
+    "created_at": "2025-10-07T14:37:51Z",
+    "user": "maximrepidgey",
+    "labels": [
+      "bug",
+      "waiting for reporter"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3492034231,
+    "number": 29890,
+    "title": "BUG: Running test suite in parallel with AddressSanitizer results in errors and crashes",
+    "url": "https://github.com/numpy/numpy/issues/29890",
+    "created_at": "2025-10-07T15:44:47Z",
+    "user": "bwhitt7",
+    "labels": [
+      "00 - Bug",
+      "39 - free-threading"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -326,6 +1006,62 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/dspy",
+    "id": 3492988563,
+    "number": 8913,
+    "title": "[Bug] Runtime error scheduling new features",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8913",
+    "created_at": "2025-10-07T20:48:46Z",
+    "user": "mwilliamsempower",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3493122385,
+    "number": 4223,
+    "title": "[RFC] Moving Most TRL Trainers to the experimental Submodule to Streamline the Core",
+    "url": "https://github.com/huggingface/trl/issues/4223",
+    "created_at": "2025-10-07T21:39:49Z",
+    "user": "qgallouedec",
+    "labels": [
+      "✨ enhancement",
+      "🙋 help from community wanted",
+      "🏋 DPO",
+      "🏋 PPO",
+      "🏋 SFT",
+      "🏋 KTO",
+      "🏋 Reward",
+      "🏋 GKD",
+      "🏋 RLOO",
+      "🏋 Online DPO",
+      "🏋 XPO",
+      "🏋 ORPO",
+      "🏋 PRM",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3493470953,
+    "number": 8916,
+    "title": "[Question] Recommended path for uploading base64 (non-text) files to model providers via Responses API",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8916",
+    "created_at": "2025-10-08T00:58:56Z",
+    "user": "AlexIzydorczyk",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3493637049,
     "number": 32430,
@@ -336,6 +1072,32 @@
     "labels": [
       "Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3493720476,
+    "number": 30642,
+    "title": "[Bug]: InsetIndicator rectangle and connectors forced to share clip_on property",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30642",
+    "created_at": "2025-10-08T03:50:53Z",
+    "user": "juseg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3493769688,
+    "number": 8918,
+    "title": "[Bug] DSPy does not build on aws arm64",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8918",
+    "created_at": "2025-10-08T04:23:37Z",
+    "user": "isaacbmiller",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -356,6 +1118,22 @@
     "archived": false
   },
   {
+    "repo": "cython/cython",
+    "id": 3496042748,
+    "number": 7196,
+    "title": "[BUG] Compiler crash on generator closure",
+    "url": "https://github.com/cython/cython/issues/7196",
+    "created_at": "2025-10-08T16:02:34Z",
+    "user": "refack",
+    "labels": [
+      "defect",
+      "Type Analysis"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3496478300,
     "number": 9237,
@@ -363,6 +1141,47 @@
     "url": "https://github.com/pytorch/vision/issues/9237",
     "created_at": "2025-10-08T18:34:14Z",
     "user": "yggdrasil75",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3496895107,
+    "number": 29898,
+    "title": "ENH: Add tests for linalg.getattr deprecation mechanism",
+    "url": "https://github.com/numpy/numpy/issues/29898",
+    "created_at": "2025-10-08T21:05:05Z",
+    "user": "anikchand461",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3496983391,
+    "number": 8920,
+    "title": "[Feature] GEPA should issue a warning if the user metric doesn't return a feedback text",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8920",
+    "created_at": "2025-10-08T21:42:39Z",
+    "user": "LakshyAAAgrawalP",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3497437887,
+    "number": 3134,
+    "title": "Implement NVFP4Tensor.fill_",
+    "url": "https://github.com/pytorch/ao/issues/3134",
+    "created_at": "2025-10-09T02:43:44Z",
+    "user": "andrewor14",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -382,6 +1201,53 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 3498252572,
+    "number": 2430,
+    "title": "Add YOLACT - Instance Segmentation",
+    "url": "https://github.com/keras-team/keras-hub/issues/2430",
+    "created_at": "2025-10-09T08:58:06Z",
+    "user": "innat",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3498344662,
+    "number": 1842,
+    "title": "More robust distributed loss",
+    "url": "https://github.com/pytorch/torchtitan/issues/1842",
+    "created_at": "2025-10-09T09:23:48Z",
+    "user": "lkhphuc",
+    "labels": [
+      "high priority",
+      "triage review"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3498350313,
+    "number": 5370,
+    "title": "autosizing issue since upgrade from 5.24.1 to 6.3.0",
+    "url": "https://github.com/plotly/plotly.py/issues/5370",
+    "created_at": "2025-10-09T09:25:32Z",
+    "user": "FlorianPix",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3498534596,
     "number": 7804,
@@ -390,6 +1256,39 @@
     "created_at": "2025-10-09T10:18:24Z",
     "user": "lhoestq",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3498543842,
+    "number": 8923,
+    "title": "[Feature] Include Pydantic Field Descriptions in Prompts",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8923",
+    "created_at": "2025-10-09T10:21:27Z",
+    "user": "soliblue",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3499158564,
+    "number": 5371,
+    "title": "remove Orca",
+    "url": "https://github.com/plotly/plotly.py/issues/5371",
+    "created_at": "2025-10-09T13:21:45Z",
+    "user": "gvwilson",
+    "labels": [
+      "P1",
+      "infrastructure",
+      "documentation",
+      "dependencies"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -443,6 +1342,51 @@
     "archived": false
   },
   {
+    "repo": "browser-use/browser-use",
+    "id": 3500070300,
+    "number": 3292,
+    "title": "Table row clicking fails - <tr> and <td> elements not in clickable index",
+    "url": "https://github.com/browser-use/browser-use/issues/3292",
+    "created_at": "2025-10-09T17:39:40Z",
+    "user": "muthu-punamalai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3500152117,
+    "number": 3137,
+    "title": "README should highlight our huggingface models",
+    "url": "https://github.com/pytorch/ao/issues/3137",
+    "created_at": "2025-10-09T18:07:51Z",
+    "user": "andrewor14",
+    "labels": [
+      "topic: documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3500159657,
+    "number": 3293,
+    "title": "Bug: Pydantic validation error when using multiple custom controllers with param_model in browser-use 0.6.3",
+    "url": "https://github.com/browser-use/browser-use/issues/3293",
+    "created_at": "2025-10-09T18:10:34Z",
+    "user": "muthu-punamalai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3500390551,
     "number": 1982,
@@ -472,6 +1416,22 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3500578958,
+    "number": 5373,
+    "title": "Refactor `add_vline()`, `add_hline()`, `add_hrect()`, `add_vrect()` to use Plotly.js `shape.label` attribute",
+    "url": "https://github.com/plotly/plotly.py/issues/5373",
+    "created_at": "2025-10-09T20:45:13Z",
+    "user": "emilykl",
+    "labels": [
+      "feature",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3500741658,
     "number": 7811,
@@ -496,6 +1456,201 @@
       "module:classification",
       "module:regression",
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3500799504,
+    "number": 23748,
+    "title": "BUG: scipy.sparse.linalg.lsmr() uninitialised variable if maxiter=0 and show=True",
+    "url": "https://github.com/scipy/scipy/issues/23748",
+    "created_at": "2025-10-09T22:29:27Z",
+    "user": "ntessore",
+    "labels": [
+      "defect",
+      "scipy.sparse.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3501112877,
+    "number": 8926,
+    "title": "[Help wanted] Add docstring to public APIs",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8926",
+    "created_at": "2025-10-10T02:01:40Z",
+    "user": "chenmoneygithub",
+    "labels": [
+      "good first issue",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3501382342,
+    "number": 3335,
+    "title": "'Qwen2Model' object has no attribute 'model'",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3335",
+    "created_at": "2025-10-10T05:09:52Z",
+    "user": "Sunhill666",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3501667452,
+    "number": 30647,
+    "title": "[Doc]: `xlim_changed` and `ylim_changed` not listed with other events",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30647",
+    "created_at": "2025-10-10T07:13:50Z",
+    "user": "cmp0xff",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3501981498,
+    "number": 3144,
+    "title": "NotImplementedError: Int4PreshuffledTensor dispatch: attempting to run unimplemented operator/function:",
+    "url": "https://github.com/pytorch/ao/issues/3144",
+    "created_at": "2025-10-10T08:57:13Z",
+    "user": "seungduk-yanolja",
+    "labels": [
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3502114882,
+    "number": 4249,
+    "title": "Disable w&b by default",
+    "url": "https://github.com/huggingface/trl/issues/4249",
+    "created_at": "2025-10-10T09:41:17Z",
+    "user": "getStRiCtd",
+    "labels": [
+      "✨ enhancement",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3502292679,
+    "number": 7201,
+    "title": "Use of `_PyDict_NewPresized()` is not optimal",
+    "url": "https://github.com/cython/cython/issues/7201",
+    "created_at": "2025-10-10T10:32:13Z",
+    "user": "methane",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3502313178,
+    "number": 29918,
+    "title": "BUG: test_sq_cases fails on powerpc64",
+    "url": "https://github.com/numpy/numpy/issues/29918",
+    "created_at": "2025-10-10T10:37:32Z",
+    "user": "OPNA2608",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3502639936,
+    "number": 7202,
+    "title": "[BUG] Cython >= 3.1.0 regression on PyPy3.11 7.3.20, affecting httptools",
+    "url": "https://github.com/cython/cython/issues/7202",
+    "created_at": "2025-10-10T12:15:29Z",
+    "user": "mgorny",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3503152520,
+    "number": 2686,
+    "title": "Allow setting reasoning effort via environment variable",
+    "url": "https://github.com/openai/openai-python/issues/2686",
+    "created_at": "2025-10-10T14:19:53Z",
+    "user": "matheusgalvao1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3503325975,
+    "number": 30649,
+    "title": "[ENH]: Improve how we manage the \"current version\" metadata",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30649",
+    "created_at": "2025-10-10T15:05:03Z",
+    "user": "tacaswell",
+    "labels": [
+      "New feature",
+      "Documentation: website",
+      "Documentation: build"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3503634554,
+    "number": 23754,
+    "title": "Tracker: Array API support in `scipy.interpolate` ",
+    "url": "https://github.com/scipy/scipy/issues/23754",
+    "created_at": "2025-10-10T16:26:48Z",
+    "user": "ev-br",
+    "labels": [
+      "enhancement",
+      "scipy.interpolate",
+      "array types"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3503683457,
+    "number": 4256,
+    "title": "Use VLLM for Evaluation?",
+    "url": "https://github.com/huggingface/trl/issues/4256",
+    "created_at": "2025-10-10T16:37:59Z",
+    "user": "SpaceHunterInf",
+    "labels": [
+      "❓ question",
+      "⚡accelerate"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -533,6 +1688,90 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3503962105,
+    "number": 3434,
+    "title": "[Bug] FastModel Doesn't Support MultiGPU Finetuning.",
+    "url": "https://github.com/unslothai/unsloth/issues/3434",
+    "created_at": "2025-10-10T17:57:12Z",
+    "user": "Vinayyyy7",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3503963555,
+    "number": 8930,
+    "title": "[Feature] Add reference documentation",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8930",
+    "created_at": "2025-10-10T17:57:28Z",
+    "user": "onel",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3504055715,
+    "number": 3435,
+    "title": "CUDA out of memory Error",
+    "url": "https://github.com/unslothai/unsloth/issues/3435",
+    "created_at": "2025-10-10T18:23:29Z",
+    "user": "NiklasWillecke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3504300137,
+    "number": 7206,
+    "title": "[BUG] Compiler crash attempting construction with named initialisation",
+    "url": "https://github.com/cython/cython/issues/7206",
+    "created_at": "2025-10-10T19:41:22Z",
+    "user": "CypherGrue",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3504585470,
+    "number": 23757,
+    "title": "DOC: Website flaky the last few days",
+    "url": "https://github.com/scipy/scipy/issues/23757",
+    "created_at": "2025-10-10T21:47:08Z",
+    "user": "gaborbernat",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3505045085,
+    "number": 1855,
+    "title": "After applying commit 6a3a9da, the training job runs out of GPU memory (OOM).",
+    "url": "https://github.com/pytorch/torchtitan/issues/1855",
+    "created_at": "2025-10-11T02:40:42Z",
+    "user": "limou102",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3505297247,
     "number": 3545,
@@ -541,6 +1780,65 @@
     "created_at": "2025-10-11T06:34:08Z",
     "user": "yjoonjang",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3505940880,
+    "number": 2931,
+    "title": "lr_scheduler bug",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2931",
+    "created_at": "2025-10-11T14:57:47Z",
+    "user": "kingbackyang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3506192148,
+    "number": 3439,
+    "title": "[Bug] Getting Qwen3ForCausalLM.forward() got multiple values for argument 'input_ids' with GRPO",
+    "url": "https://github.com/unslothai/unsloth/issues/3439",
+    "created_at": "2025-10-11T18:00:58Z",
+    "user": "adi-kmt",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3506220439,
+    "number": 3303,
+    "title": "Make viewport / window size manipulation optional",
+    "url": "https://github.com/browser-use/browser-use/issues/3303",
+    "created_at": "2025-10-11T18:30:40Z",
+    "user": "webpolis",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3506378092,
+    "number": 23761,
+    "title": "BUG: interpolate.RBFInterpolator: numerically unstable when two y points are very close, leading to extreme errors",
+    "url": "https://github.com/scipy/scipy/issues/23761",
+    "created_at": "2025-10-11T21:46:46Z",
+    "user": "carlini",
+    "labels": [
+      "defect",
+      "scipy.interpolate"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -575,6 +1873,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 3506935169,
+    "number": 1810,
+    "title": "Introduce translation guidelines",
+    "url": "https://github.com/huggingface/smolagents/issues/1810",
+    "created_at": "2025-10-12T10:32:36Z",
+    "user": "suryabdev",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3507169851,
     "number": 5637,
@@ -604,6 +1915,114 @@
     "archived": false
   },
   {
+    "repo": "pytorch/ao",
+    "id": 3507406992,
+    "number": 3157,
+    "title": "Is there no tutorial for dynamic quantization of BERT model in torch.ao?",
+    "url": "https://github.com/pytorch/ao/issues/3157",
+    "created_at": "2025-10-12T15:47:06Z",
+    "user": "Esttelle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3507956884,
+    "number": 8934,
+    "title": "Streaming deadlocks with async tools - sync_send_to_stream blocks event loop",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8934",
+    "created_at": "2025-10-12T22:12:57Z",
+    "user": "AndreRatzenberger",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3508338754,
+    "number": 2689,
+    "title": "Chatkit",
+    "url": "https://github.com/openai/openai-python/issues/2689",
+    "created_at": "2025-10-13T03:35:42Z",
+    "user": "chunshengding",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3509051153,
+    "number": 3442,
+    "title": "[Bug] 微调qwe3-4B模型，内存占用将近60G，训练集只有7M，请教一下为什么？",
+    "url": "https://github.com/unslothai/unsloth/issues/3442",
+    "created_at": "2025-10-13T08:45:46Z",
+    "user": "WZNoone",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3509083711,
+    "number": 2932,
+    "title": "Why torchtune QAT don't support more than 1 node?",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2932",
+    "created_at": "2025-10-13T08:54:49Z",
+    "user": "felixslu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3509814577,
+    "number": 3443,
+    "title": "OOM-ing on Nvidia Jetson Orin Nano",
+    "url": "https://github.com/unslothai/unsloth/issues/3443",
+    "created_at": "2025-10-13T12:11:37Z",
+    "user": "rlleshi",
+    "labels": [
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3510174221,
+    "number": 13882,
+    "title": "Bug: vocab.length not decremented when memory_zone clears transient lexemes",
+    "url": "https://github.com/explosion/spaCy/issues/13882",
+    "created_at": "2025-10-13T13:53:45Z",
+    "user": "TonyStark7862",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3510221013,
+    "number": 2690,
+    "title": "Include response information in ContentFilterFinishReasonError",
+    "url": "https://github.com/openai/openai-python/issues/2690",
+    "created_at": "2025-10-13T14:06:45Z",
+    "user": "FloTeu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3510239504,
     "number": 32492,
@@ -623,6 +2042,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3510518240,
+    "number": 23768,
+    "title": "BUG: sparse: cs{cr}_{array,matrix}’s `sum(axis=0|1)` doesn’t interpret `dtype` as it should",
+    "url": "https://github.com/scipy/scipy/issues/23768",
+    "created_at": "2025-10-13T15:34:21Z",
+    "user": "flying-sheep",
+    "labels": [
+      "defect",
+      "scipy.sparse"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3510689376,
     "number": 5638,
@@ -633,6 +2068,21 @@
     "labels": [
       "question",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3510695168,
+    "number": 3444,
+    "title": "[Bug] Added some tokens to the tokenizer and added modules_to_save = [\"embed_tokens\", \"lm_head\"], MERGE MODEL PERFORMANCE IS BAD.",
+    "url": "https://github.com/unslothai/unsloth/issues/3444",
+    "created_at": "2025-10-13T16:30:12Z",
+    "user": "diazr04",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -663,6 +2113,47 @@
     "created_at": "2025-10-13T21:00:52Z",
     "user": "haifeng-jin",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3511479444,
+    "number": 13883,
+    "title": "sentence segmentation handling of guillemets",
+    "url": "https://github.com/explosion/spaCy/issues/13883",
+    "created_at": "2025-10-13T21:03:55Z",
+    "user": "joprice",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3511543370,
+    "number": 29941,
+    "title": "DEV: `spin build --help` should mention caveats about debug builds",
+    "url": "https://github.com/numpy/numpy/issues/29941",
+    "created_at": "2025-10-13T21:33:17Z",
+    "user": "ngoldbaum",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3511608004,
+    "number": 29943,
+    "title": "BUG: Potential data races in TestAsCtypesType when ran in parallel threads",
+    "url": "https://github.com/numpy/numpy/issues/29943",
+    "created_at": "2025-10-13T22:07:56Z",
+    "user": "bwhitt7",
+    "labels": [
+      "00 - Bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -699,6 +2190,115 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3512142196,
+    "number": 3447,
+    "title": "[Feature] Add support for Seed-OSS-36B-wosyn",
+    "url": "https://github.com/unslothai/unsloth/issues/3447",
+    "created_at": "2025-10-14T02:42:16Z",
+    "user": "DusKing1",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3512146995,
+    "number": 3448,
+    "title": "[Feature] Added support for KAT-Dev-72B-Exp",
+    "url": "https://github.com/unslothai/unsloth/issues/3448",
+    "created_at": "2025-10-14T02:45:28Z",
+    "user": "DusKing1",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3512371224,
+    "number": 4271,
+    "title": "_get_train_sampler in RLOOTrainer, GRPOTrainer...",
+    "url": "https://github.com/huggingface/trl/issues/4271",
+    "created_at": "2025-10-14T05:06:01Z",
+    "user": "yigexu",
+    "labels": [
+      "🐛 bug",
+      "🏋 RLOO",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3512427065,
+    "number": 1816,
+    "title": "BUG: Duplicate action_step yield and NameError when max_steps=0",
+    "url": "https://github.com/huggingface/smolagents/issues/1816",
+    "created_at": "2025-10-14T05:34:34Z",
+    "user": "AhnJoonSung",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3514040517,
+    "number": 3449,
+    "title": "[Bug] NameError: name 'has_images' is not defined",
+    "url": "https://github.com/unslothai/unsloth/issues/3449",
+    "created_at": "2025-10-14T13:48:06Z",
+    "user": "QoutiOussama13",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3514096197,
+    "number": 5378,
+    "title": "legend.maxheight not honored in Jupyter / notebook renderer though works in browser",
+    "url": "https://github.com/plotly/plotly.py/issues/5378",
+    "created_at": "2025-10-14T14:01:37Z",
+    "user": "vavavavavavavavava",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3514099396,
+    "number": 3450,
+    "title": "[Bug] NameError: name 'slice_indices' is not defined - qwen 2 kaggle.",
+    "url": "https://github.com/unslothai/unsloth/issues/3450",
+    "created_at": "2025-10-14T14:02:25Z",
+    "user": "ProBuro",
+    "labels": [
+      "fixed - pending confirmation",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3514189750,
     "number": 2834,
@@ -727,6 +2327,155 @@
     "archived": false
   },
   {
+    "repo": "browser-use/browser-use",
+    "id": 3514625695,
+    "number": 3335,
+    "title": "Feature Request: Add n1n.ai API as a model provider",
+    "url": "https://github.com/browser-use/browser-use/issues/3335",
+    "created_at": "2025-10-14T16:16:46Z",
+    "user": "n1n-api",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3514752589,
+    "number": 23774,
+    "title": "ENH: linalg: Performance difference between `numpy.linalg` and `scipy.linalg`",
+    "url": "https://github.com/scipy/scipy/issues/23774",
+    "created_at": "2025-10-14T16:53:08Z",
+    "user": "BasilLiekens",
+    "labels": [
+      "enhancement",
+      "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3514885613,
+    "number": 3452,
+    "title": "[FIXED] `Output 0 of UnslothFusedLossBackward is a view and is being modified inplace`",
+    "url": "https://github.com/unslothai/unsloth/issues/3452",
+    "created_at": "2025-10-14T17:35:52Z",
+    "user": "orenong",
+    "labels": [
+      "fixed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3515091146,
+    "number": 5379,
+    "title": "Plotly.express.imshow shows letters behind numbers when number is small (i.e 1.19e-07)",
+    "url": "https://github.com/plotly/plotly.py/issues/5379",
+    "created_at": "2025-10-14T18:52:43Z",
+    "user": "Mebu98",
+    "labels": [
+      "bug",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3515418940,
+    "number": 5027,
+    "title": "Python 3.14 compatibility issue",
+    "url": "https://github.com/google/flax/issues/5027",
+    "created_at": "2025-10-14T20:36:17Z",
+    "user": "burnpanck",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3515479112,
+    "number": 30651,
+    "title": "[MNT]: Add copyright information for google's \"turbo\" colormap?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30651",
+    "created_at": "2025-10-14T20:56:56Z",
+    "user": "anabelle2001",
+    "labels": [
+      "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3516176643,
+    "number": 3453,
+    "title": "[Bug] Error when loading model from local path: 'GptOssTopKRouter' has no attribute 'weight'",
+    "url": "https://github.com/unslothai/unsloth/issues/3453",
+    "created_at": "2025-10-15T03:15:47Z",
+    "user": "ifmain",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3516371312,
+    "number": 5030,
+    "title": "Provide a supported way to convert str keys from orbax checkpoints back to int keys",
+    "url": "https://github.com/google/flax/issues/5030",
+    "created_at": "2025-10-15T05:17:11Z",
+    "user": "pcmoritz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3516372983,
+    "number": 1879,
+    "title": "[qwen3] Loss is extremely hight when initialized with seed checkpoint",
+    "url": "https://github.com/pytorch/torchtitan/issues/1879",
+    "created_at": "2025-10-15T05:18:02Z",
+    "user": "wwwjn",
+    "labels": [
+      "high priority",
+      "triage review"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3516418889,
+    "number": 3454,
+    "title": "[Bug] Merged Model collapse while LoRA model works well",
+    "url": "https://github.com/unslothai/unsloth/issues/3454",
+    "created_at": "2025-10-15T05:42:59Z",
+    "user": "yzeng58",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3516582408,
     "number": 1876,
@@ -735,6 +2484,54 @@
     "created_at": "2025-10-15T06:43:16Z",
     "user": "winstxnhdw",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3516755600,
+    "number": 1019,
+    "title": "[EVAL] MultiChallenge",
+    "url": "https://github.com/huggingface/lighteval/issues/1019",
+    "created_at": "2025-10-15T07:34:03Z",
+    "user": "lewtun",
+    "labels": [
+      "help wanted",
+      "new-task"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3516872054,
+    "number": 3456,
+    "title": "[Bug] Remove the SFT patch due bug fixed on the SFT",
+    "url": "https://github.com/unslothai/unsloth/issues/3456",
+    "created_at": "2025-10-15T08:05:57Z",
+    "user": "steveepreston",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3516904060,
+    "number": 4280,
+    "title": "help! activation_offloading True got Backward pass ValueError",
+    "url": "https://github.com/huggingface/trl/issues/4280",
+    "created_at": "2025-10-15T08:15:26Z",
+    "user": "YooSungHyun",
+    "labels": [
+      "🐛 bug",
+      "⚡ PEFT",
+      "🚀 deepspeed"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -753,6 +2550,69 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3517313491,
+    "number": 3459,
+    "title": "[Bug] Qwen2.5-VL-7B + Unsloth + Accelerate DDP: Model Loading Delays and 'find_unused_parameters' RuntimeError",
+    "url": "https://github.com/unslothai/unsloth/issues/3459",
+    "created_at": "2025-10-15T10:08:57Z",
+    "user": "weijizeal",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3518229846,
+    "number": 23783,
+    "title": "ENH: multiple vectors input to RegularGridInterpolator.__call__",
+    "url": "https://github.com/scipy/scipy/issues/23783",
+    "created_at": "2025-10-15T14:08:06Z",
+    "user": "bjarthur",
+    "labels": [
+      "enhancement",
+      "scipy.interpolate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3518246871,
+    "number": 23784,
+    "title": "BUG: sparse: `check_format` does not check for out of bounds `.data` size for csr matrices",
+    "url": "https://github.com/scipy/scipy/issues/23784",
+    "created_at": "2025-10-15T14:11:55Z",
+    "user": "DriesSchaumont",
+    "labels": [
+      "defect",
+      "scipy.sparse"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3518315412,
+    "number": 23785,
+    "title": "DOC: ndimage.convolve \"weights\" parameter is ambiguously documented",
+    "url": "https://github.com/scipy/scipy/issues/23785",
+    "created_at": "2025-10-15T14:26:23Z",
+    "user": "richard-lane",
+    "labels": [
+      "scipy.ndimage",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3518641452,
     "number": 2371,
@@ -763,6 +2623,93 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3518772268,
+    "number": 8946,
+    "title": "[Bug] ColBERT is down",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8946",
+    "created_at": "2025-10-15T16:26:33Z",
+    "user": "jakubgajski",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3518881287,
+    "number": 8947,
+    "title": "[Feature] Parallel tool execution",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8947",
+    "created_at": "2025-10-15T17:05:12Z",
+    "user": "quancore",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3519014340,
+    "number": 8948,
+    "title": "[Feature] Make Signature and Prediction Type Checker Friendly",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8948",
+    "created_at": "2025-10-15T17:49:36Z",
+    "user": "TyTodd",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3519034276,
+    "number": 3180,
+    "title": "building torchao in a fresh conda env does not work",
+    "url": "https://github.com/pytorch/ao/issues/3180",
+    "created_at": "2025-10-15T17:56:45Z",
+    "user": "vkuzo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3519167744,
+    "number": 3460,
+    "title": "[Feature] local_files_only: bool = False,",
+    "url": "https://github.com/unslothai/unsloth/issues/3460",
+    "created_at": "2025-10-15T18:41:30Z",
+    "user": "lucian-student",
+    "labels": [
+      "feature request",
+      "inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3519634905,
+    "number": 1020,
+    "title": "Vision Language Model Support?",
+    "url": "https://github.com/huggingface/lighteval/issues/1020",
+    "created_at": "2025-10-15T21:27:18Z",
+    "user": "ByungKwanLee",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -797,6 +2744,39 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3520135934,
+    "number": 4294,
+    "title": "A customized trainer for tree-level optimization",
+    "url": "https://github.com/huggingface/trl/issues/4294",
+    "created_at": "2025-10-16T02:58:53Z",
+    "user": "martinjingyu",
+    "labels": [
+      "✨ enhancement",
+      "❓ question",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3520665166,
+    "number": 23791,
+    "title": "Tracking issue: Stable ABI support",
+    "url": "https://github.com/scipy/scipy/issues/23791",
+    "created_at": "2025-10-16T07:27:34Z",
+    "user": "rgommers",
+    "labels": [
+      "enhancement",
+      "C/C++"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3520913195,
     "number": 7821,
@@ -805,6 +2785,82 @@
     "created_at": "2025-10-16T08:45:17Z",
     "user": "kkoutini",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3521813502,
+    "number": 3217,
+    "title": "DPO Training Fails with Tool Role Messages - KeyError: 'tool'",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3217",
+    "created_at": "2025-10-16T13:05:32Z",
+    "user": "Ofir408",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 3522161740,
+    "number": 1519,
+    "title": "How the TokenizeProcessor batching work on unpunctuted input?",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1519",
+    "created_at": "2025-10-16T14:30:10Z",
+    "user": "liad-inon",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3522353104,
+    "number": 3218,
+    "title": "Wrong epoch when turning on `context_parallel_size `",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3218",
+    "created_at": "2025-10-16T15:16:08Z",
+    "user": "cyc00518",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3523520020,
+    "number": 1900,
+    "title": "checkpoint.initial_load_in_hf should overwrite everything and load from hf weights.",
+    "url": "https://github.com/pytorch/torchtitan/issues/1900",
+    "created_at": "2025-10-16T21:08:59Z",
+    "user": "wukaixingxp",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3524361864,
+    "number": 3470,
+    "title": "[Feature] Compute WER/CER metrics with Gemma3",
+    "url": "https://github.com/unslothai/unsloth/issues/3470",
+    "created_at": "2025-10-17T03:46:50Z",
+    "user": "thewh1teagle",
+    "labels": [
+      "feature request"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -820,6 +2876,22 @@
     "labels": [
       "module:forecasting",
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3524968425,
+    "number": 30658,
+    "title": "[MNT]: First contributor workflow fails for first contributors",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30658",
+    "created_at": "2025-10-17T08:05:09Z",
+    "user": "heinrich5991",
+    "labels": [
+      "status: upstream fix required",
+      "Maintenance"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -854,6 +2926,125 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3526227510,
+    "number": 23800,
+    "title": "BUG: special: sph_harm_y returns (0+0j) for valid l, m, theta, phi (SciPy 1.16.2)",
+    "url": "https://github.com/scipy/scipy/issues/23800",
+    "created_at": "2025-10-17T13:38:44Z",
+    "user": "fiammante",
+    "labels": [
+      "defect",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3526270748,
+    "number": 2695,
+    "title": "Include `type_to_response_format_param` in public API",
+    "url": "https://github.com/openai/openai-python/issues/2695",
+    "created_at": "2025-10-17T13:52:57Z",
+    "user": "s-banach",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3526358397,
+    "number": 3475,
+    "title": "[FIXED] `ImportError: cannot import name '_Ink' from 'PIL._typing' (/usr/local/lib/python3.12/dist-packages/PIL/_typing.py)`",
+    "url": "https://github.com/unslothai/unsloth/issues/3475",
+    "created_at": "2025-10-17T14:18:29Z",
+    "user": "danielhanchen",
+    "labels": [
+      "fixed",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3526517955,
+    "number": 3476,
+    "title": "[Bug] Qwen3VL-8B  Trying to backward through the graph a second time.... Error",
+    "url": "https://github.com/unslothai/unsloth/issues/3476",
+    "created_at": "2025-10-17T15:10:23Z",
+    "user": "wangxiaodong1021",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3526540273,
+    "number": 3477,
+    "title": "[Feature] Finetune Qwen2.5-VL with videos.",
+    "url": "https://github.com/unslothai/unsloth/issues/3477",
+    "created_at": "2025-10-17T15:16:25Z",
+    "user": "madhav1ag",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3526694469,
+    "number": 30659,
+    "title": "[Bug]: transforming FancyArrowPatch with connectionstyle to 3D has unexpected result",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30659",
+    "created_at": "2025-10-17T16:05:26Z",
+    "user": "trogod",
+    "labels": [
+      "topic: mplot3d",
+      "Community support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3527059166,
+    "number": 3479,
+    "title": "No config file found - are you sure the `model_name` is correct? If you're using a model on your local device, confirm if the folder location exists. If you're using a HuggingFace online model, check if it exists.",
+    "url": "https://github.com/unslothai/unsloth/issues/3479",
+    "created_at": "2025-10-17T18:10:49Z",
+    "user": "WajahatAliBasharat073",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3527563727,
+    "number": 1914,
+    "title": "Benchmark SymmMem's all_to_all_vdev_2d on NVL72",
+    "url": "https://github.com/pytorch/torchtitan/issues/1914",
+    "created_at": "2025-10-17T21:07:12Z",
+    "user": "syed-ahmed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3527626755,
     "number": 8978,
@@ -864,6 +3055,22 @@
     "labels": [
       "bug",
       "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3527968563,
+    "number": 23806,
+    "title": "Review scipy-release repo",
+    "url": "https://github.com/scipy/scipy/issues/23806",
+    "created_at": "2025-10-18T02:23:02Z",
+    "user": "andyfaff",
+    "labels": [
+      "Official binaries",
+      "RFC"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -883,6 +3090,34 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3528310701,
+    "number": 30022,
+    "title": "DOC: Confusing advanced indexing when mixing tuple, integer, and range",
+    "url": "https://github.com/numpy/numpy/issues/30022",
+    "created_at": "2025-10-18T08:27:27Z",
+    "user": "rocketcollider",
+    "labels": [
+      "04 - Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3529349346,
+    "number": 7233,
+    "title": "[ENH] Compiling ./Demos on WIndows 10 fails to cheese.obj : error LNK2001: unresolved external symbol find_cheeses",
+    "url": "https://github.com/cython/cython/issues/7233",
+    "created_at": "2025-10-18T23:51:34Z",
+    "user": "MironAtHome",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3529467853,
     "number": 1877,
@@ -891,6 +3126,68 @@
     "created_at": "2025-10-19T03:30:39Z",
     "user": "tsengalb99",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3529542688,
+    "number": 3480,
+    "title": "[Bug] Cannot load Nvidia Nemotron Nano models",
+    "url": "https://github.com/unslothai/unsloth/issues/3480",
+    "created_at": "2025-10-19T05:46:36Z",
+    "user": "sudo-0x2a",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3529649352,
+    "number": 3481,
+    "title": "[Bug] Why is the pad token of all QWEN VL models in Unsloth \"<|vision_pad|>\", while QWEN officially uses \"pad_token\": \"<|endoftext|>\"",
+    "url": "https://github.com/unslothai/unsloth/issues/3481",
+    "created_at": "2025-10-19T07:55:29Z",
+    "user": "ywy366607",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3529988314,
+    "number": 2698,
+    "title": "Realtime - mismatching event type for audio transcript event",
+    "url": "https://github.com/openai/openai-python/issues/2698",
+    "created_at": "2025-10-19T11:37:31Z",
+    "user": "tbarbugli",
+    "labels": [
+      "bug",
+      "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3530142481,
+    "number": 23814,
+    "title": "ENH: sparse.linalg.minres: support complex hermitian matrices",
+    "url": "https://github.com/scipy/scipy/issues/23814",
+    "created_at": "2025-10-19T14:51:50Z",
+    "user": "floatingCatty",
+    "labels": [
+      "enhancement",
+      "scipy.sparse.linalg"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -925,6 +3222,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3531128131,
+    "number": 3482,
+    "title": "Unsloth QLoRA: DPO loss inconsistency with different gradient accumulation steps",
+    "url": "https://github.com/unslothai/unsloth/issues/3482",
+    "created_at": "2025-10-20T05:42:55Z",
+    "user": "ShotaMatsumoto1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3531435215,
     "number": 4121,
@@ -933,6 +3245,95 @@
     "created_at": "2025-10-20T07:58:04Z",
     "user": "Manamama",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3532001345,
+    "number": 8956,
+    "title": "[Feature] Distributed GEPA optimization with Modal",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8956",
+    "created_at": "2025-10-20T10:55:31Z",
+    "user": "gregm711",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3532187511,
+    "number": 3485,
+    "title": "reinforce(gspo)  training  didn't  yield any improments",
+    "url": "https://github.com/unslothai/unsloth/issues/3485",
+    "created_at": "2025-10-20T12:03:32Z",
+    "user": "chuangzhidan",
+    "labels": [
+      "help wanted",
+      "unsure bug?"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3532341985,
+    "number": 2699,
+    "title": "Inconcistency between Responses API and Chat Completions API on rate limit errors",
+    "url": "https://github.com/openai/openai-python/issues/2699",
+    "created_at": "2025-10-20T12:55:57Z",
+    "user": "aloumakos",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3532862016,
+    "number": 23827,
+    "title": "`test_multivariate` and `test_exponential_integral` failures on a fresh macOS M4 Homebrew-based env",
+    "url": "https://github.com/scipy/scipy/issues/23827",
+    "created_at": "2025-10-20T15:19:43Z",
+    "user": "rlucas7",
+    "labels": [
+      "Build issues"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3533466136,
+    "number": 8957,
+    "title": "[Help Wanted] MCP guide with real-world use case",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8957",
+    "created_at": "2025-10-20T18:26:11Z",
+    "user": "chenmoneygithub",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3534199690,
+    "number": 10277,
+    "title": "Support for namedtuple default arguments",
+    "url": "https://github.com/numba/numba/issues/10277",
+    "created_at": "2025-10-20T22:51:13Z",
+    "user": "adrian-valente",
+    "labels": [
+      "feature_request"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -951,6 +3352,82 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3534902854,
+    "number": 4314,
+    "title": "torch.utils.checkpoint.CheckpointError when using LoRA + fsdp2 Context Parallel",
+    "url": "https://github.com/huggingface/trl/issues/4314",
+    "created_at": "2025-10-21T05:13:38Z",
+    "user": "zxgx",
+    "labels": [
+      "⚡ PEFT",
+      "🏋 RLOO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3535459356,
+    "number": 7245,
+    "title": "PyLongCompare is redundant with PyLongBinop",
+    "url": "https://github.com/cython/cython/issues/7245",
+    "created_at": "2025-10-21T08:12:41Z",
+    "user": "scoder",
+    "labels": [
+      "cleanup"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3535600657,
+    "number": 8958,
+    "title": "[Bug] Responses API always falls back to JSON mode which breaks with web search",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8958",
+    "created_at": "2025-10-21T08:49:42Z",
+    "user": "casper-hansen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3535603164,
+    "number": 1023,
+    "title": "[BUG] Cache management failed for tasks using MetricGrouping",
+    "url": "https://github.com/huggingface/lighteval/issues/1023",
+    "created_at": "2025-10-21T08:50:28Z",
+    "user": "colinzuo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3535630122,
+    "number": 1024,
+    "title": "[BUG] LightevalTaskConfig doesn't support comparison, but Cache management uses sorted on it",
+    "url": "https://github.com/huggingface/lighteval/issues/1024",
+    "created_at": "2025-10-21T08:58:18Z",
+    "user": "colinzuo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3535803596,
     "number": 9248,
@@ -964,6 +3441,323 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3536000409,
+    "number": 12841,
+    "title": "SelectboxColumn and MultiselectColumn should have the same arguments as their respective standalone widgets",
+    "url": "https://github.com/streamlit/streamlit/issues/12841",
+    "created_at": "2025-10-21T10:55:22Z",
+    "user": "itsToggle",
+    "labels": [
+      "type:enhancement",
+      "feature:st.column_config"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3536290619,
+    "number": 23833,
+    "title": "BUG: linalg: GIL re-enabled when importing `scipy.linalg` on the macOS arm64 conda-forge build",
+    "url": "https://github.com/scipy/scipy/issues/23833",
+    "created_at": "2025-10-21T12:19:05Z",
+    "user": "ogrisel",
+    "labels": [
+      "defect",
+      "scipy.linalg",
+      "3rd party binaries",
+      "free-threading"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3536392781,
+    "number": 30037,
+    "title": "BUG: MaskedArray.mean (and sum) do not propagate subclass metadata via _update_from, unlike var/std",
+    "url": "https://github.com/numpy/numpy/issues/30037",
+    "created_at": "2025-10-21T12:46:26Z",
+    "user": "myscience",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3536666451,
+    "number": 3371,
+    "title": "Bug:  AWS Bedrock Integration Issues with browser-use",
+    "url": "https://github.com/browser-use/browser-use/issues/3371",
+    "created_at": "2025-10-21T13:48:59Z",
+    "user": "Rai-shwith",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3536982126,
+    "number": 30038,
+    "title": "BUG: quantile - dim of q: error message is inconsistent with behavior",
+    "url": "https://github.com/numpy/numpy/issues/30038",
+    "created_at": "2025-10-21T15:06:17Z",
+    "user": "cakedev0",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3537133171,
+    "number": 10279,
+    "title": "Problem with structured array with datetime/timedelta element",
+    "url": "https://github.com/numba/numba/issues/10279",
+    "created_at": "2025-10-21T15:46:50Z",
+    "user": "sklam",
+    "labels": [
+      "bug - failure to compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3538002413,
+    "number": 7246,
+    "title": "[ENH] Handle properly redeclaration of variable in pure python mode",
+    "url": "https://github.com/cython/cython/issues/7246",
+    "created_at": "2025-10-21T20:03:11Z",
+    "user": "matusvalo",
+    "labels": [
+      "Pure Python Mode"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3538033406,
+    "number": 8960,
+    "title": "[Feature] BootstrapFewShot run bootstraps in parallel",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8960",
+    "created_at": "2025-10-21T20:16:17Z",
+    "user": "holdenrohrer",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3538151877,
+    "number": 12844,
+    "title": "Prevent updates of disabled inputs in `AppTest`",
+    "url": "https://github.com/streamlit/streamlit/issues/12844",
+    "created_at": "2025-10-21T21:02:43Z",
+    "user": "michue-work",
+    "labels": [
+      "type:enhancement",
+      "feature:app-testing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3538604397,
+    "number": 3491,
+    "title": "Bitdistill",
+    "url": "https://github.com/unslothai/unsloth/issues/3491",
+    "created_at": "2025-10-22T00:27:15Z",
+    "user": "rezzie-rich",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3538930795,
+    "number": 30046,
+    "title": "ENH: Replace nan-ignoring functions with an ignore_nan flag to their normal counterparts",
+    "url": "https://github.com/numpy/numpy/issues/30046",
+    "created_at": "2025-10-22T03:05:51Z",
+    "user": "carlosgmartin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3539171169,
+    "number": 23839,
+    "title": "Wheels for next release",
+    "url": "https://github.com/scipy/scipy/issues/23839",
+    "created_at": "2025-10-22T05:24:16Z",
+    "user": "andyfaff",
+    "labels": [
+      "Official binaries"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3539278701,
+    "number": 1026,
+    "title": "[BUG] Cache management failed for tasks using sample_params to update function attrs",
+    "url": "https://github.com/huggingface/lighteval/issues/1026",
+    "created_at": "2025-10-22T06:18:54Z",
+    "user": "colinzuo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3539416160,
+    "number": 3380,
+    "title": "Cannot select the dropdown",
+    "url": "https://github.com/browser-use/browser-use/issues/3380",
+    "created_at": "2025-10-22T07:12:53Z",
+    "user": "lewis-ing",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3540099200,
+    "number": 30670,
+    "title": "[MNT]: Inconsistent type annotation",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30670",
+    "created_at": "2025-10-22T09:55:07Z",
+    "user": "ABarpanda",
+    "labels": [
+      "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3540847593,
+    "number": 3226,
+    "title": "question of blockwise quant fp8 training",
+    "url": "https://github.com/pytorch/ao/issues/3226",
+    "created_at": "2025-10-22T13:18:40Z",
+    "user": "rakkit",
+    "labels": [
+      "float8",
+      "moe"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3541144392,
+    "number": 3382,
+    "title": "Interaction Issue: unable to restore context back to root window after changing field inside iframe",
+    "url": "https://github.com/browser-use/browser-use/issues/3382",
+    "created_at": "2025-10-22T14:34:36Z",
+    "user": "bizzzd",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3541220489,
+    "number": 3493,
+    "title": "[Feature] Add support for fish tts fishaudio/openaudio-s1-mini",
+    "url": "https://github.com/unslothai/unsloth/issues/3493",
+    "created_at": "2025-10-22T14:54:32Z",
+    "user": "CypherpunkSamurai",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3541296268,
+    "number": 1929,
+    "title": "why not using set_requires_all_reduce for hsdp",
+    "url": "https://github.com/pytorch/torchtitan/issues/1929",
+    "created_at": "2025-10-22T15:14:12Z",
+    "user": "samsja",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3541346635,
+    "number": 10280,
+    "title": "First class function either cannot be cached or is 'missing Environment'",
+    "url": "https://github.com/numba/numba/issues/10280",
+    "created_at": "2025-10-22T15:26:48Z",
+    "user": "ca5446001-tech",
+    "labels": [
+      "feature_request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3541581178,
+    "number": 8962,
+    "title": "[Feature] GEPA optimize field descriptions",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8962",
+    "created_at": "2025-10-22T16:41:49Z",
+    "user": "ValeKnappich",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3541643220,
     "number": 9249,
@@ -972,6 +3766,80 @@
     "created_at": "2025-10-22T17:04:55Z",
     "user": "konstin",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3541834123,
+    "number": 1830,
+    "title": "BUG: InterpreterError: Forbidden function evaluation: 'open' is not among the explicitly allowed tools",
+    "url": "https://github.com/huggingface/smolagents/issues/1830",
+    "created_at": "2025-10-22T18:07:08Z",
+    "user": "arturoPMM",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3542014654,
+    "number": 30673,
+    "title": "[ENH]: Add custom hatch styling to grouped_bar",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30673",
+    "created_at": "2025-10-22T18:55:10Z",
+    "user": "story645",
+    "labels": [
+      "New feature",
+      "topic: hatch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3542559180,
+    "number": 3495,
+    "title": "[Feature] FastVisionModel",
+    "url": "https://github.com/unslothai/unsloth/issues/3495",
+    "created_at": "2025-10-22T22:30:16Z",
+    "user": "Vinayyyy7",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3542636957,
+    "number": 3229,
+    "title": "Deprecation for  `_default` in FqnToConfig",
+    "url": "https://github.com/pytorch/ao/issues/3229",
+    "created_at": "2025-10-22T23:18:38Z",
+    "user": "jcaip",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3542815343,
+    "number": 10281,
+    "title": "`AssertionError: unreachable` when trying to compile function call with keyword arguments and unsupported inline generator",
+    "url": "https://github.com/numba/numba/issues/10281",
+    "created_at": "2025-10-23T01:20:12Z",
+    "user": "otaithleigh",
+    "labels": [
+      "bug - ice"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1003,6 +3871,23 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3543558980,
+    "number": 12850,
+    "title": "DateColumn (st.column_config.DateColumn) always defaults to mm/dd/yyyy when text editing.",
+    "url": "https://github.com/streamlit/streamlit/issues/12850",
+    "created_at": "2025-10-23T07:47:38Z",
+    "user": "jofalck",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "feature:st.data_editor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3544453298,
     "number": 12536,
@@ -1012,6 +3897,21 @@
     "user": "leeguandong",
     "labels": [
       "context-parallel"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3544455301,
+    "number": 23848,
+    "title": "DEV: add useful tasks/environments to Pixi workspace",
+    "url": "https://github.com/scipy/scipy/issues/23848",
+    "created_at": "2025-10-23T12:22:15Z",
+    "user": "lucascolley",
+    "labels": [
+      "DX"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1028,6 +3928,34 @@
     "labels": [
       "contributions-welcome"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3544856065,
+    "number": 3498,
+    "title": "[Bug]  Unsloth + Qwen2.5-VL Multi-Image Training Error",
+    "url": "https://github.com/unslothai/unsloth/issues/3498",
+    "created_at": "2025-10-23T14:05:15Z",
+    "user": "YiftachDiv",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3544958888,
+    "number": 5046,
+    "title": "Give RngStream the same interface as Jax's stateful RNGs",
+    "url": "https://github.com/google/flax/issues/5046",
+    "created_at": "2025-10-23T14:29:54Z",
+    "user": "samanklesaria",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1051,6 +3979,75 @@
     "archived": false
   },
   {
+    "repo": "pytorch/ao",
+    "id": 3546631765,
+    "number": 3232,
+    "title": "nvfp4: why do we need to call weight.contiguous for Qwen3 during lm-eval?",
+    "url": "https://github.com/pytorch/ao/issues/3232",
+    "created_at": "2025-10-23T21:20:54Z",
+    "user": "vkuzo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3546634636,
+    "number": 3233,
+    "title": "nvfp4: add padding to handle tensor parallel, size might not be divisible by 16",
+    "url": "https://github.com/pytorch/ao/issues/3233",
+    "created_at": "2025-10-23T21:21:34Z",
+    "user": "vkuzo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3546635921,
+    "number": 3234,
+    "title": "nvfp4: doesn't work with vLLM + lm-eval",
+    "url": "https://github.com/pytorch/ao/issues/3234",
+    "created_at": "2025-10-23T21:21:53Z",
+    "user": "vkuzo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3546844258,
+    "number": 3501,
+    "title": "[Bug] Fine-tuning `unsloth/Qwen3-4B-Instruct-2507`fails when loading with 8bit",
+    "url": "https://github.com/unslothai/unsloth/issues/3501",
+    "created_at": "2025-10-23T22:36:25Z",
+    "user": "mapa17",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3547206484,
+    "number": 3502,
+    "title": "[Bug] add_new_tokens -> Embedding matrix size did not get resized properly",
+    "url": "https://github.com/unslothai/unsloth/issues/3502",
+    "created_at": "2025-10-24T01:22:00Z",
+    "user": "alsoalter85",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3547207777,
     "number": 21771,
@@ -1066,6 +4063,35 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3547275765,
+    "number": 12853,
+    "title": "Add `Copy to clipboard` for `st.dataframe` and `st.table`",
+    "url": "https://github.com/streamlit/streamlit/issues/12853",
+    "created_at": "2025-10-24T01:56:52Z",
+    "user": "ghilesmeddour",
+    "labels": [
+      "type:enhancement",
+      "feature:st.dataframe"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3547307388,
+    "number": 3236,
+    "title": "Quantized OpenVLA 7B (4-bit) runs slower than default model",
+    "url": "https://github.com/pytorch/ao/issues/3236",
+    "created_at": "2025-10-24T02:09:19Z",
+    "user": "arunmadhusud",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3547748553,
     "number": 32561,
@@ -1076,6 +4102,22 @@
     "labels": [
       "Documentation",
       "Hard"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3547852147,
+    "number": 12854,
+    "title": "Add st.container to hover at the specified position (height-width) of its parent component",
+    "url": "https://github.com/streamlit/streamlit/issues/12854",
+    "created_at": "2025-10-24T06:26:02Z",
+    "user": "lix8886",
+    "labels": [
+      "type:enhancement",
+      "feature:st.container"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1110,6 +4152,36 @@
     "archived": false
   },
   {
+    "repo": "pytorch/torchtitan",
+    "id": 3548787858,
+    "number": 1932,
+    "title": "grouped_mm illegal memory access when the input tensor size > 16*4096*8*4096 for llama4",
+    "url": "https://github.com/pytorch/torchtitan/issues/1932",
+    "created_at": "2025-10-24T10:40:59Z",
+    "user": "yoonniverse",
+    "labels": [
+      "module: torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3549354859,
+    "number": 3505,
+    "title": "error while inferencing throgh streamlit as prevoius ly two days ago same code working",
+    "url": "https://github.com/unslothai/unsloth/issues/3505",
+    "created_at": "2025-10-24T12:51:53Z",
+    "user": "aniket21715",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3549609259,
     "number": 12540,
@@ -1120,6 +4192,35 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3549991497,
+    "number": 23854,
+    "title": "BUG: interpolate: LinearNDInterpolator slow for large thread counts",
+    "url": "https://github.com/scipy/scipy/issues/23854",
+    "created_at": "2025-10-24T15:27:40Z",
+    "user": "insalt-glitch",
+    "labels": [
+      "defect",
+      "scipy.interpolate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-rs",
+    "id": 3550006309,
+    "number": 166,
+    "title": "Potentially limit `max_ids_per_partition`, `max_unique_ids_per_partition` for stacked tables",
+    "url": "https://github.com/keras-team/keras-rs/issues/166",
+    "created_at": "2025-10-24T15:32:46Z",
+    "user": "abheesht17",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1140,6 +4241,21 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 3550177058,
+    "number": 30679,
+    "title": "[ENH]: A \"CenteredAsinhNorm\" would be useful",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30679",
+    "created_at": "2025-10-24T16:22:07Z",
+    "user": "sidneymau",
+    "labels": [
+      "New feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3550185457,
     "number": 8994,
@@ -1151,6 +4267,34 @@
       "API design",
       "module:forecasting"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3550195655,
+    "number": 30069,
+    "title": "BUG: weighted quantile returns incorrect result when reducing over multiple axes",
+    "url": "https://github.com/numpy/numpy/issues/30069",
+    "created_at": "2025-10-24T16:28:04Z",
+    "user": "cakedev0",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3550262625,
+    "number": 3243,
+    "title": "TorchAO Missing 3.13T (free-threading) Wheels",
+    "url": "https://github.com/pytorch/ao/issues/3243",
+    "created_at": "2025-10-24T16:53:03Z",
+    "user": "Qubitium",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1177,6 +4321,149 @@
     "created_at": "2025-10-24T18:50:19Z",
     "user": "sammlapp",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3550732587,
+    "number": 12856,
+    "title": "rotate pages in st.pdf()",
+    "url": "https://github.com/streamlit/streamlit/issues/12856",
+    "created_at": "2025-10-24T19:22:15Z",
+    "user": "MustafaKiwaPI",
+    "labels": [
+      "type:enhancement",
+      "feature:st.pdf"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3550851215,
+    "number": 1028,
+    "title": "How to evaluate MMLU-Pro",
+    "url": "https://github.com/huggingface/lighteval/issues/1028",
+    "created_at": "2025-10-24T20:03:10Z",
+    "user": "qhz991029",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3551346226,
+    "number": 1029,
+    "title": "[BUG] Python API doesn't seem to work with lighteval|gsm8k|<few-shot-number>",
+    "url": "https://github.com/huggingface/lighteval/issues/1029",
+    "created_at": "2025-10-24T23:56:44Z",
+    "user": "Saravana-Ace",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3551351760,
+    "number": 5053,
+    "title": "nnx.remat (and other transformations) is easily misused.",
+    "url": "https://github.com/google/flax/issues/5053",
+    "created_at": "2025-10-25T00:00:34Z",
+    "user": "liudangyi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3551481120,
+    "number": 4339,
+    "title": "Packing with VLMs",
+    "url": "https://github.com/huggingface/trl/issues/4339",
+    "created_at": "2025-10-25T01:26:03Z",
+    "user": "jiosephlee",
+    "labels": [
+      "✨ enhancement",
+      "🏋 SFT"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3551862016,
+    "number": 1935,
+    "title": "SimpleFSDP AC HOP mutation issue when tracing token dispatch",
+    "url": "https://github.com/pytorch/torchtitan/issues/1935",
+    "created_at": "2025-10-25T05:32:46Z",
+    "user": "BoyuanFeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3552446128,
+    "number": 7258,
+    "title": "Replace `PyTuple_Pack` (and our list equivalent) with PyTuple_FromArray",
+    "url": "https://github.com/cython/cython/issues/7258",
+    "created_at": "2025-10-25T12:39:06Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3552635288,
+    "number": 7261,
+    "title": "[BUG] memoryview reverse iteration isn't optimized",
+    "url": "https://github.com/cython/cython/issues/7261",
+    "created_at": "2025-10-25T15:32:55Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3552682124,
+    "number": 5381,
+    "title": "Explicit node coordinates (x/y positions) not fully respected in Sankey diagram",
+    "url": "https://github.com/plotly/plotly.py/issues/5381",
+    "created_at": "2025-10-25T16:19:22Z",
+    "user": "DanielYang59",
+    "labels": [
+      "bug",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3552814005,
+    "number": 3507,
+    "title": "[Feature] VLLM with GPT OSS",
+    "url": "https://github.com/unslothai/unsloth/issues/3507",
+    "created_at": "2025-10-25T18:27:50Z",
+    "user": "OrlandoWhite88",
+    "labels": [
+      "feature request"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1242,6 +4529,127 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3554116510,
+    "number": 3511,
+    "title": "CUDA Runtime Error on WSL2 Docker: “unknown error” during GPU buffer allocation",
+    "url": "https://github.com/unslothai/unsloth/issues/3511",
+    "created_at": "2025-10-26T15:32:36Z",
+    "user": "jainpradeep",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3554303994,
+    "number": 23867,
+    "title": "BUG: `special.comb(0, 0, repetition=False) == 0` , not 1",
+    "url": "https://github.com/scipy/scipy/issues/23867",
+    "created_at": "2025-10-26T18:43:15Z",
+    "user": "jorenham",
+    "labels": [
+      "defect",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3554481670,
+    "number": 23868,
+    "title": "BUG: stats: docstrings of several discrete distr. methods show unsupported 'scale' parameter",
+    "url": "https://github.com/scipy/scipy/issues/23868",
+    "created_at": "2025-10-26T21:52:46Z",
+    "user": "WarrenWeckesser",
+    "labels": [
+      "defect",
+      "scipy.stats"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3554570060,
+    "number": 12861,
+    "title": "Display empty expanders based on user controlled parameter",
+    "url": "https://github.com/streamlit/streamlit/issues/12861",
+    "created_at": "2025-10-26T23:46:56Z",
+    "user": "okapiadmin",
+    "labels": [
+      "type:enhancement",
+      "feature:st.expander"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3554698028,
+    "number": 8979,
+    "title": "[Feature] I have implemented REFRAG: Retrieval-Enhanced Fine-Grained Retrieval Augmented Generation in DSPy",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8979",
+    "created_at": "2025-10-27T01:23:36Z",
+    "user": "marcusjihansson",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3555316309,
+    "number": 1936,
+    "title": "Is it possible to train Vision-Language Model with different parallelism plan for vision and language parts of the model?",
+    "url": "https://github.com/pytorch/torchtitan/issues/1936",
+    "created_at": "2025-10-27T06:47:47Z",
+    "user": "airlsyn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3555503547,
+    "number": 7266,
+    "title": "Discard init-time-only constants after use",
+    "url": "https://github.com/cython/cython/issues/7266",
+    "created_at": "2025-10-27T07:52:31Z",
+    "user": "scoder",
+    "labels": [
+      "enhancement",
+      "Code Generation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3555576893,
+    "number": 4343,
+    "title": "Refactoring out the logps and importance comptuation out of generate_and_score in GRPOTrainer",
+    "url": "https://github.com/huggingface/trl/issues/4343",
+    "created_at": "2025-10-27T08:15:45Z",
+    "user": "wirmius",
+    "labels": [
+      "✨ enhancement",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3556206842,
     "number": 9010,
@@ -1296,6 +4704,128 @@
     "archived": false
   },
   {
+    "repo": "browser-use/browser-use",
+    "id": 3557013856,
+    "number": 3437,
+    "title": "Interaction Issue: Checkbox sometimes clicked twice",
+    "url": "https://github.com/browser-use/browser-use/issues/3437",
+    "created_at": "2025-10-27T14:15:09Z",
+    "user": "bizzzd",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3557068175,
+    "number": 12865,
+    "title": "Fullscreen menu partially hidden in fixed height containers.",
+    "url": "https://github.com/streamlit/streamlit/issues/12865",
+    "created_at": "2025-10-27T14:27:41Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:bug",
+      "feature:st.dataframe",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.vega_lite_chart",
+      "feature:st.map",
+      "feature:st.container",
+      "feature:st.image"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3557149626,
+    "number": 12868,
+    "title": "Incorrect error message for width",
+    "url": "https://github.com/streamlit/streamlit/issues/12868",
+    "created_at": "2025-10-27T14:45:27Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.info"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3557197630,
+    "number": 30079,
+    "title": "BUG: Slogdet divide by 0 runtime warning in accelerate",
+    "url": "https://github.com/numpy/numpy/issues/30079",
+    "created_at": "2025-10-27T14:56:20Z",
+    "user": "rlucas7",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3557336878,
+    "number": 12869,
+    "title": "`st.text_area` jumps back to content height from resized height when user types again.",
+    "url": "https://github.com/streamlit/streamlit/issues/12869",
+    "created_at": "2025-10-27T15:25:27Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P4",
+      "feature:st.text_area"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3557362718,
+    "number": 12870,
+    "title": "`st.exception` lacks responsiveness at small widths",
+    "url": "https://github.com/streamlit/streamlit/issues/12870",
+    "created_at": "2025-10-27T15:30:37Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.exception"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3557395989,
+    "number": 12871,
+    "title": "Allow resizing `st.text_area` when height=”stretch”",
+    "url": "https://github.com/streamlit/streamlit/issues/12871",
+    "created_at": "2025-10-27T15:37:08Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:enhancement",
+      "feature:st.text_area"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3557580341,
     "number": 9251,
@@ -1304,6 +4834,21 @@
     "created_at": "2025-10-27T16:21:07Z",
     "user": "timstokman",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3557640535,
+    "number": 2449,
+    "title": "Add `MaskRCNN` - Instance Segmentation Model",
+    "url": "https://github.com/keras-team/keras-hub/issues/2449",
+    "created_at": "2025-10-27T16:34:05Z",
+    "user": "innat",
+    "labels": [
+      "type:feature"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1340,6 +4885,82 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3557655875,
+    "number": 12873,
+    "title": "508 Compliance - Add Alt=\"\" tag to decorative elements",
+    "url": "https://github.com/streamlit/streamlit/issues/12873",
+    "created_at": "2025-10-27T16:37:52Z",
+    "user": "dessig-ia",
+    "labels": [
+      "type:enhancement",
+      "area:accessibility"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3557782430,
+    "number": 4347,
+    "title": "cuda oom when finetuning mllama with lora and sfttrainer",
+    "url": "https://github.com/huggingface/trl/issues/4347",
+    "created_at": "2025-10-27T17:10:50Z",
+    "user": "osaidr",
+    "labels": [
+      "🐛 bug",
+      "⚡ PEFT",
+      "🚀 deepspeed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3557896666,
+    "number": 3518,
+    "title": "[Bug] Recurring matrix dimensions mismatch issue during GRPO training on 2 Nvidia A100s through GCP.",
+    "url": "https://github.com/unslothai/unsloth/issues/3518",
+    "created_at": "2025-10-27T17:42:31Z",
+    "user": "prakritishetty",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3558171493,
+    "number": 5054,
+    "title": "Tensorflow test dependency needs upgrade to support orbax",
+    "url": "https://github.com/google/flax/issues/5054",
+    "created_at": "2025-10-27T18:54:53Z",
+    "user": "samanklesaria",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3558534220,
+    "number": 1940,
+    "title": "B200 Llama4 Compile dp2ep=4, pp=2 (interleave 1f1b), full AC fails when compiling token dispatch",
+    "url": "https://github.com/pytorch/torchtitan/issues/1940",
+    "created_at": "2025-10-27T20:29:43Z",
+    "user": "xmfan",
+    "labels": [
+      "module: torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3558620569,
     "number": 3622,
@@ -1349,6 +4970,38 @@
     "user": "vaharoni",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3558740023,
+    "number": 10290,
+    "title": "numba.pndindex does not work for 1D",
+    "url": "https://github.com/numba/numba/issues/10290",
+    "created_at": "2025-10-27T21:35:58Z",
+    "user": "SUSYUSTC",
+    "labels": [
+      "bug",
+      "ParallelAccelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3558773704,
+    "number": 12876,
+    "title": "Support text highlighting in st.pdf",
+    "url": "https://github.com/streamlit/streamlit/issues/12876",
+    "created_at": "2025-10-27T21:50:38Z",
+    "user": "asaini",
+    "labels": [
+      "type:enhancement",
+      "feature:st.pdf"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1391,6 +5044,35 @@
     "created_at": "2025-10-28T00:35:26Z",
     "user": "jonahclarsen",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3559229909,
+    "number": 13887,
+    "title": "Custom suggester based on POS tags: Shape mismatch for blis.gemm",
+    "url": "https://github.com/explosion/spaCy/issues/13887",
+    "created_at": "2025-10-28T00:37:40Z",
+    "user": "qacollective",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3559874440,
+    "number": 30085,
+    "title": "BUG: Running test suite in parallel causes ThreadSanitizer data races",
+    "url": "https://github.com/numpy/numpy/issues/30085",
+    "created_at": "2025-10-28T05:23:32Z",
+    "user": "bwhitt7",
+    "labels": [
+      "00 - Bug",
+      "39 - free-threading"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1451,6 +5133,19 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3561353676,
+    "number": 5382,
+    "title": "Feature Request: Implement Bagplot (Bivariate Boxplot) for 2D and 3D Data Visualization",
+    "url": "https://github.com/plotly/plotly.py/issues/5382",
+    "created_at": "2025-10-28T12:28:37Z",
+    "user": "LuSchnitt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3561509530,
     "number": 3557,
@@ -1479,6 +5174,144 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3561590945,
+    "number": 4358,
+    "title": "GRPOConfig.max_prompt_length does not truncate prompts for a conversational dataset with vllm (since v0.25.0)",
+    "url": "https://github.com/huggingface/trl/issues/4358",
+    "created_at": "2025-10-28T13:30:29Z",
+    "user": "muupan",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3561872719,
+    "number": 10292,
+    "title": "Jitclass __class__ won't construct a new instance",
+    "url": "https://github.com/numba/numba/issues/10292",
+    "created_at": "2025-10-28T14:29:53Z",
+    "user": "c200chromebook",
+    "labels": [
+      "jitclass",
+      "bug - segfault"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3561964384,
+    "number": 3447,
+    "title": "Cannot run 'browser-use --mcp'; \"CLI addon is not installed\" error persists despite multiple installation attempts (including venv/uvx)",
+    "url": "https://github.com/browser-use/browser-use/issues/3447",
+    "created_at": "2025-10-28T14:51:23Z",
+    "user": "surendransuri",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3562186366,
+    "number": 10297,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/numba/numba/issues/10297",
+    "created_at": "2025-10-28T15:40:35Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "Task"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3562216144,
+    "number": 12880,
+    "title": "widget values not updating if key is specified",
+    "url": "https://github.com/streamlit/streamlit/issues/12880",
+    "created_at": "2025-10-28T15:47:29Z",
+    "user": "rhelouREV",
+    "labels": [
+      "type:enhancement",
+      "area:widgets",
+      "status:intended-behavior"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3562558910,
+    "number": 3252,
+    "title": "Add support for parameter quantization to all configs",
+    "url": "https://github.com/pytorch/ao/issues/3252",
+    "created_at": "2025-10-28T17:11:37Z",
+    "user": "jcaip",
+    "labels": [
+      "tracker"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3562801783,
+    "number": 30087,
+    "title": "Mailmap maintenance for 2.4.0",
+    "url": "https://github.com/numpy/numpy/issues/30087",
+    "created_at": "2025-10-28T18:16:23Z",
+    "user": "charris",
+    "labels": [
+      "17 - Task"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3562966446,
+    "number": 30089,
+    "title": "BUG: Windows-ARM64 tests failing in `linalg.cond`",
+    "url": "https://github.com/numpy/numpy/issues/30089",
+    "created_at": "2025-10-28T18:59:43Z",
+    "user": "broesler",
+    "labels": [
+      "00 - Bug",
+      "27 - OpenBLAS"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/tokenizers",
+    "id": 3563264623,
+    "number": 153,
+    "title": "Replace custom HF tokenizer with C++ bindings for HF tokenizer",
+    "url": "https://github.com/meta-pytorch/tokenizers/issues/153",
+    "created_at": "2025-10-28T20:30:33Z",
+    "user": "jackzhxng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3563353174,
     "number": 9014,
@@ -1495,6 +5328,38 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/dspy",
+    "id": 3563820671,
+    "number": 8988,
+    "title": "[Feature] Add majority_kconvenience helper to simplify repeated majority sampling",
+    "url": "https://github.com/stanfordnlp/dspy/issues/8988",
+    "created_at": "2025-10-28T23:58:08Z",
+    "user": "Ardbiu",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3564032011,
+    "number": 12886,
+    "title": "Number input, decimal numbers issue",
+    "url": "https://github.com/streamlit/streamlit/issues/12886",
+    "created_at": "2025-10-29T02:02:05Z",
+    "user": "madhukarjadhav736",
+    "labels": [
+      "type:bug",
+      "status:awaiting-user-response",
+      "feature:st.number_input"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3564202066,
     "number": 2878,
@@ -1502,6 +5367,32 @@
     "url": "https://github.com/huggingface/peft/issues/2878",
     "created_at": "2025-10-29T03:43:02Z",
     "user": "HuangChiEn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3564356936,
+    "number": 1962,
+    "title": "NVFP4 MoE Training Status",
+    "url": "https://github.com/pytorch/torchtitan/issues/1962",
+    "created_at": "2025-10-29T05:00:34Z",
+    "user": "syed-ahmed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3564976884,
+    "number": 2935,
+    "title": "After performing quantization on llama3_2 using tune run quantize --config custom_quantization.yaml, how should I proceed with inference?",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2935",
+    "created_at": "2025-10-29T08:58:41Z",
+    "user": "Begoogh",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1552,6 +5443,66 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3565701747,
+    "number": 30096,
+    "title": "DEP: Deprecate np.fix",
+    "url": "https://github.com/numpy/numpy/issues/30096",
+    "created_at": "2025-10-29T12:17:48Z",
+    "user": "Nitroxyz",
+    "labels": [
+      "04 - Documentation",
+      "07 - Deprecation",
+      "sprintable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3566056226,
+    "number": 2715,
+    "title": "examples/realtime/push_to_talk_app.py is grossly outdated",
+    "url": "https://github.com/openai/openai-python/issues/2715",
+    "created_at": "2025-10-29T13:41:44Z",
+    "user": "master0v",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3566193588,
+    "number": 3521,
+    "title": "[Feature] Support for out-of-source quantizers",
+    "url": "https://github.com/unslothai/unsloth/issues/3521",
+    "created_at": "2025-10-29T14:10:52Z",
+    "user": "Giuseppe5",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3566214938,
+    "number": 5385,
+    "title": "Bug: texttemplate and hovertemplate show inconsistent values when categoryarray is used in Heatmap",
+    "url": "https://github.com/plotly/plotly.py/issues/5385",
+    "created_at": "2025-10-29T14:15:17Z",
+    "user": "JohnorJohnny",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3566429419,
     "number": 12559,
@@ -1567,6 +5518,52 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3566549496,
+    "number": 3524,
+    "title": "[Bug] Issue when generate response from unsloth/gpt-oss-20b",
+    "url": "https://github.com/unslothai/unsloth/issues/3524",
+    "created_at": "2025-10-29T15:21:11Z",
+    "user": "tsaichris",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3566645531,
+    "number": 23886,
+    "title": "DOC: cluster: move linkage matrix explanation",
+    "url": "https://github.com/scipy/scipy/issues/23886",
+    "created_at": "2025-10-29T15:38:16Z",
+    "user": "pas-calc",
+    "labels": [
+      "scipy.cluster",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3566648053,
+    "number": 5059,
+    "title": "Feature request: Semantic checkpoint in training loop",
+    "url": "https://github.com/google/flax/issues/5059",
+    "created_at": "2025-10-29T15:38:41Z",
+    "user": "elly99-AI",
+    "labels": [
+      "needs-discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3566934378,
     "number": 9253,
@@ -1575,6 +5572,34 @@
     "created_at": "2025-10-29T16:42:44Z",
     "user": "aandrestrumid",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3566972724,
+    "number": 30703,
+    "title": "[Bug]: spurious test failures",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30703",
+    "created_at": "2025-10-29T16:55:04Z",
+    "user": "MeggyCal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3567074978,
+    "number": 3526,
+    "title": "[Bug] ROCm hip_global.cpp Module Error.",
+    "url": "https://github.com/unslothai/unsloth/issues/3526",
+    "created_at": "2025-10-29T17:29:42Z",
+    "user": "CarlosR759",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1612,6 +5637,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3568333367,
+    "number": 3527,
+    "title": "[Bug] Loss difference while Full FT with unsloth v.s. trl",
+    "url": "https://github.com/unslothai/unsloth/issues/3527",
+    "created_at": "2025-10-29T23:24:44Z",
+    "user": "Aprilhuu",
+    "labels": [
+      "fixed - pending confirmation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3568426035,
     "number": 21800,
@@ -1621,6 +5661,113 @@
     "user": "innat",
     "labels": [
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568757555,
+    "number": 4374,
+    "title": "Road to v1",
+    "url": "https://github.com/huggingface/trl/issues/4374",
+    "created_at": "2025-10-30T03:13:34Z",
+    "user": "qgallouedec",
+    "labels": [
+      "👶 good first issue",
+      "🧒 good second issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568803624,
+    "number": 4379,
+    "title": "Remove or populate \"Training customization\"",
+    "url": "https://github.com/huggingface/trl/issues/4379",
+    "created_at": "2025-10-30T03:41:02Z",
+    "user": "qgallouedec",
+    "labels": [
+      "📚 documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568822494,
+    "number": 4382,
+    "title": "Populate \"Speeding Up Training\"",
+    "url": "https://github.com/huggingface/trl/issues/4382",
+    "created_at": "2025-10-30T03:54:34Z",
+    "user": "qgallouedec",
+    "labels": [
+      "📚 documentation",
+      "⚡accelerate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568830724,
+    "number": 4384,
+    "title": "Write the subsection \"Multi-Node Training\"",
+    "url": "https://github.com/huggingface/trl/issues/4384",
+    "created_at": "2025-10-30T03:57:53Z",
+    "user": "qgallouedec",
+    "labels": [
+      "📚 documentation",
+      "⚡accelerate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568844290,
+    "number": 4385,
+    "title": "Use a common 'trl-lib` namespace for the models/datasets/spaces",
+    "url": "https://github.com/huggingface/trl/issues/4385",
+    "created_at": "2025-10-30T04:04:10Z",
+    "user": "qgallouedec",
+    "labels": [
+      "📚 documentation",
+      "✨ enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3568859618,
+    "number": 4387,
+    "title": "Remove support for FSDP1",
+    "url": "https://github.com/huggingface/trl/issues/4387",
+    "created_at": "2025-10-30T04:13:03Z",
+    "user": "qgallouedec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3569034112,
+    "number": 3528,
+    "title": "Openenv with tool calling notebook unsloth ?",
+    "url": "https://github.com/unslothai/unsloth/issues/3528",
+    "created_at": "2025-10-30T05:49:51Z",
+    "user": "Hert4",
+    "labels": [
+      "feature request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1695,6 +5842,24 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3569653551,
+    "number": 4390,
+    "title": "failed to start On-policy distillation",
+    "url": "https://github.com/huggingface/trl/issues/4390",
+    "created_at": "2025-10-30T09:14:03Z",
+    "user": "airlsyn",
+    "labels": [
+      "🐛 bug",
+      "⚡ PEFT",
+      "🚀 deepspeed",
+      "⚡accelerate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3569739961,
     "number": 3629,
@@ -1724,6 +5889,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3570598254,
+    "number": 3529,
+    "title": "[Bug] Orpheus_tts espanish finetune ,cannot generate valid voice",
+    "url": "https://github.com/unslothai/unsloth/issues/3529",
+    "created_at": "2025-10-30T12:41:46Z",
+    "user": "yxk9810",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3570621428,
     "number": 2380,
@@ -1737,6 +5917,37 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3570642170,
+    "number": 3530,
+    "title": "[Feature] Multi-GPU support in VLM Reinforcement Learning",
+    "url": "https://github.com/unslothai/unsloth/issues/3530",
+    "created_at": "2025-10-30T12:53:34Z",
+    "user": "thavidu",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3570817833,
+    "number": 4393,
+    "title": "Problems with Cross-Tokenizer Alignment in Correctness and Efficiency",
+    "url": "https://github.com/huggingface/trl/issues/4393",
+    "created_at": "2025-10-30T13:32:46Z",
+    "user": "JqzChandler",
+    "labels": [
+      "🐛 bug",
+      "✨ enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3571088180,
     "number": 1881,
@@ -1745,6 +5956,51 @@
     "created_at": "2025-10-30T14:33:31Z",
     "user": "JqzChandler",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3571166551,
+    "number": 12899,
+    "title": "Support min_width in flex containers",
+    "url": "https://github.com/streamlit/streamlit/issues/12899",
+    "created_at": "2025-10-30T14:50:16Z",
+    "user": "sfc-gh-cserrano",
+    "labels": [
+      "type:enhancement",
+      "area:layout",
+      "feature:st.container"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3571221514,
+    "number": 4395,
+    "title": "Move everything related to Mergekit to the experimental submodule",
+    "url": "https://github.com/huggingface/trl/issues/4395",
+    "created_at": "2025-10-30T15:02:51Z",
+    "user": "qgallouedec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3571317710,
+    "number": 3533,
+    "title": "[Bug] Unsloth fails to import on Intel Arc B580",
+    "url": "https://github.com/unslothai/unsloth/issues/3533",
+    "created_at": "2025-10-30T15:25:41Z",
+    "user": "abrarfahim-1000",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1765,6 +6021,37 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3571396875,
+    "number": 4402,
+    "title": "Make vLLM server OpenAI-compatible",
+    "url": "https://github.com/huggingface/trl/issues/4402",
+    "created_at": "2025-10-30T15:45:27Z",
+    "user": "qgallouedec",
+    "labels": [
+      "✨ enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3571546856,
+    "number": 12900,
+    "title": "Multiple elements with `width=\"stretch\"` should have same width",
+    "url": "https://github.com/streamlit/streamlit/issues/12900",
+    "created_at": "2025-10-30T16:21:58Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "area:layout"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3571681950,
     "number": 2882,
@@ -1772,6 +6059,107 @@
     "url": "https://github.com/huggingface/peft/issues/2882",
     "created_at": "2025-10-30T16:57:49Z",
     "user": "YuanheZ",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3571907318,
+    "number": 3264,
+    "title": "[RFC] NVFP4 Rounding Modes",
+    "url": "https://github.com/pytorch/ao/issues/3264",
+    "created_at": "2025-10-30T17:59:59Z",
+    "user": "syed-ahmed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3572052959,
+    "number": 23894,
+    "title": "DOC: interpolate.make_interp_spline: tutorial for replicating legacy extrapolation options",
+    "url": "https://github.com/scipy/scipy/issues/23894",
+    "created_at": "2025-10-30T18:40:41Z",
+    "user": "j2bbayle",
+    "labels": [
+      "scipy.interpolate",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3572338379,
+    "number": 9001,
+    "title": "[Feature] Add asynchronous methods to GEPA (cant use a metric callback that has async code in it)",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9001",
+    "created_at": "2025-10-30T20:10:13Z",
+    "user": "CM-P-Sood",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3572379941,
+    "number": 4407,
+    "title": "Complete paper index",
+    "url": "https://github.com/huggingface/trl/issues/4407",
+    "created_at": "2025-10-30T20:23:26Z",
+    "user": "qgallouedec",
+    "labels": [
+      "📚 documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3572704962,
+    "number": 23896,
+    "title": "DOC: batched `linalg.orth` and `linalg.null_space` assumes all slices have the same rank",
+    "url": "https://github.com/scipy/scipy/issues/23896",
+    "created_at": "2025-10-30T22:34:31Z",
+    "user": "ev-br",
+    "labels": [
+      "scipy.linalg",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3573067407,
+    "number": 30109,
+    "title": "HUH: ``squeeze``ing scalars",
+    "url": "https://github.com/numpy/numpy/issues/30109",
+    "created_at": "2025-10-31T01:35:14Z",
+    "user": "jorenham",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3573097542,
+    "number": 5387,
+    "title": "Bug: express bar chart with facet_col and color. It show wrong chart when clicking legend ",
+    "url": "https://github.com/plotly/plotly.py/issues/5387",
+    "created_at": "2025-10-31T01:56:48Z",
+    "user": "pondhsiao",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1794,6 +6182,52 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3573205954,
+    "number": 2718,
+    "title": "Encountering a 500 error when calling responses.parse on a schema containing decimal.Decimal fields.",
+    "url": "https://github.com/openai/openai-python/issues/2718",
+    "created_at": "2025-10-31T03:02:34Z",
+    "user": "malikwahab",
+    "labels": [
+      "bug",
+      "API-feedback"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3573274498,
+    "number": 30113,
+    "title": "BUG: np.unique: return_index does not reflect the first occurrence for complex arrays with NaN",
+    "url": "https://github.com/numpy/numpy/issues/30113",
+    "created_at": "2025-10-31T03:41:19Z",
+    "user": "math-hiyoko",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3573298954,
+    "number": 3535,
+    "title": "[Bug] SFT compiled Gemma3 crashes",
+    "url": "https://github.com/unslothai/unsloth/issues/3535",
+    "created_at": "2025-10-31T03:51:33Z",
+    "user": "SmartWashingMachine",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3573372024,
     "number": 12565,
@@ -1803,6 +6237,36 @@
     "user": "luren55",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3573602475,
+    "number": 3241,
+    "title": "Add support for moonshotai/Kimi-Linear-48B-A3B-Instruct",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3241",
+    "created_at": "2025-10-31T06:46:53Z",
+    "user": "SicariusSicariiStuff",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3573973689,
+    "number": 10312,
+    "title": "License compliance - distributed package does not declare licenses and authors (copyrights) completely and in a proper way",
+    "url": "https://github.com/numba/numba/issues/10312",
+    "created_at": "2025-10-31T08:57:50Z",
+    "user": "JArndt-WI",
+    "labels": [
+      "bug - build/packaging"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1822,6 +6286,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3574038098,
+    "number": 3536,
+    "title": "[Feature] Can the fine-tuning training be done using the MSE loss function instead?",
+    "url": "https://github.com/unslothai/unsloth/issues/3536",
+    "created_at": "2025-10-31T09:13:32Z",
+    "user": "ATRI-Star",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3574261095,
     "number": 3631,
@@ -1831,6 +6310,41 @@
     "user": "Christian-lyc",
     "labels": [
       "page-feedback"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3574283299,
+    "number": 7276,
+    "title": "Implement PEP-793 - PyModExport: A new entry point for C extension modules",
+    "url": "https://github.com/cython/cython/issues/7276",
+    "created_at": "2025-10-31T10:12:47Z",
+    "user": "scoder",
+    "labels": [
+      "feature",
+      "Code Generation",
+      "limited api",
+      "freethreading CPython"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3574307187,
+    "number": 4416,
+    "title": "SFTTrainer creates empty adapter.safetensors file while saving when training with LoRA and Deepspeed Zero3",
+    "url": "https://github.com/huggingface/trl/issues/4416",
+    "created_at": "2025-10-31T10:18:59Z",
+    "user": "maximus-21",
+    "labels": [
+      "🏋 SFT",
+      "⚡ PEFT",
+      "🚀 deepspeed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1852,6 +6366,51 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3574728702,
+    "number": 30115,
+    "title": "BUG: Segfault in the 'ubuntu_UBSAN' CI job on main branch",
+    "url": "https://github.com/numpy/numpy/issues/30115",
+    "created_at": "2025-10-31T12:17:59Z",
+    "user": "WarrenWeckesser",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3574757694,
+    "number": 2720,
+    "title": "BadRequestError: Unknown parameter 'input[2].parsed_arguments' when invoking OpenAI Responses API via LangGraph with tool bindings",
+    "url": "https://github.com/openai/openai-python/issues/2720",
+    "created_at": "2025-10-31T12:25:34Z",
+    "user": "tsmith-perchgroup",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3574875428,
+    "number": 30116,
+    "title": "BUG: `np.vectorize` wrapped functions are slower when keyword arguments are involved",
+    "url": "https://github.com/numpy/numpy/issues/30116",
+    "created_at": "2025-10-31T13:02:18Z",
+    "user": "Yeshwanth-G",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3574891043,
     "number": 9026,
@@ -1863,6 +6422,51 @@
       "module:transformations",
       "enhancement",
       "module:parameter-estimators"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3574933702,
+    "number": 30709,
+    "title": "[Bug]: Mismatch in documented default behaviour of pcolormesh 'snap'",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30709",
+    "created_at": "2025-10-31T13:20:07Z",
+    "user": "mo-nstebbin",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3574986679,
+    "number": 2722,
+    "title": "Streaming: JSONDecodeError when SSE events contain only meta-fields (retry, id, event)",
+    "url": "https://github.com/openai/openai-python/issues/2722",
+    "created_at": "2025-10-31T13:34:17Z",
+    "user": "c4milo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3575035673,
+    "number": 3538,
+    "title": "[Bug] Sampling inside TrainingCallback gives `ValueError: Invalid target device: None`",
+    "url": "https://github.com/unslothai/unsloth/issues/3538",
+    "created_at": "2025-10-31T13:47:33Z",
+    "user": "nielsrolf",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1900,6 +6504,37 @@
     "archived": false
   },
   {
+    "repo": "pytorch/ao",
+    "id": 3576072841,
+    "number": 3270,
+    "title": "[DOCS] Quick Start Guide PT2E Example does not work as is. Undefined objects",
+    "url": "https://github.com/pytorch/ao/issues/3270",
+    "created_at": "2025-10-31T18:46:28Z",
+    "user": "cjm715",
+    "labels": [
+      "topic: documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3576278440,
+    "number": 23901,
+    "title": "ENH: stats: Implement marginal distributions for multivariate probability distributions",
+    "url": "https://github.com/scipy/scipy/issues/23901",
+    "created_at": "2025-10-31T19:51:59Z",
+    "user": "JacobHass8",
+    "labels": [
+      "scipy.stats",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3576324162,
     "number": 2884,
@@ -1913,6 +6548,21 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3576339315,
+    "number": 2723,
+    "title": "Responses API streaming response.function_call_arguments.done event missing function name",
+    "url": "https://github.com/openai/openai-python/issues/2723",
+    "created_at": "2025-10-31T20:20:03Z",
+    "user": "CarsonStevensAI",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3576437359,
     "number": 3632,
@@ -1921,6 +6571,22 @@
     "created_at": "2025-10-31T20:51:39Z",
     "user": "kerbs23",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3576573951,
+    "number": 23902,
+    "title": "TST: signal.bessel: TestBessel \"Shapes do not match\" failures in mypy workflow",
+    "url": "https://github.com/scipy/scipy/issues/23902",
+    "created_at": "2025-10-31T21:36:51Z",
+    "user": "mdhaber",
+    "labels": [
+      "defect",
+      "maintenance"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

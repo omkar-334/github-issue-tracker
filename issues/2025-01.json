@@ -1,5 +1,20 @@
 [
   {
+    "repo": "3b1b/manim",
+    "id": 2764920169,
+    "number": 2288,
+    "title": "Brace doesn't work with unicode-math",
+    "url": "https://github.com/3b1b/manim/issues/2288",
+    "created_at": "2025-01-01T08:08:33Z",
+    "user": "xiao-ming-hub",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2764969850,
     "number": 2144,
@@ -43,6 +58,32 @@
     "archived": false
   },
   {
+    "repo": "3b1b/manim",
+    "id": 2766697754,
+    "number": 2291,
+    "title": "Tablet Events Not Captured in ManimGL Window",
+    "url": "https://github.com/3b1b/manim/issues/2291",
+    "created_at": "2025-01-02T21:59:51Z",
+    "user": "aguemoug",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2766945868,
+    "number": 2292,
+    "title": "Mac run example error",
+    "url": "https://github.com/3b1b/manim/issues/2292",
+    "created_at": "2025-01-03T04:10:36Z",
+    "user": "chenqiang2026",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 2767193553,
     "number": 3211,
@@ -52,6 +93,49 @@
     "user": "LunaticMaestro",
     "labels": [
       "nlp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 2768874514,
+    "number": 1034,
+    "title": "Wrong number of hyperparameters in keras tuner?",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1034",
+    "created_at": "2025-01-04T14:47:13Z",
+    "user": "jhudsy",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 2769150563,
+    "number": 1035,
+    "title": "Should it be `return metrics` or `return_metrics`?",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1035",
+    "created_at": "2025-01-05T07:18:45Z",
+    "user": "Anselmoo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2769316845,
+    "number": 2295,
+    "title": "Incomplete lines while rendering",
+    "url": "https://github.com/3b1b/manim/issues/2295",
+    "created_at": "2025-01-05T15:09:17Z",
+    "user": "RishithRajRaizada",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -120,6 +204,49 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2773016576,
+    "number": 13726,
+    "title": "Advance NLP with spaCy load issue",
+    "url": "https://github.com/explosion/spaCy/issues/13726",
+    "created_at": "2025-01-07T14:43:26Z",
+    "user": "natandatasci",
+    "labels": [
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2773063979,
+    "number": 2296,
+    "title": "I don't understand why I can't do gradient fill on a square in manimgl-1.7.1 version",
+    "url": "https://github.com/3b1b/manim/issues/2296",
+    "created_at": "2025-01-07T15:03:40Z",
+    "user": "gd247217",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-tuner",
+    "id": 2774977533,
+    "number": 1037,
+    "title": "max_trials variable in Tunner Class is set to None",
+    "url": "https://github.com/keras-team/keras-tuner/issues/1037",
+    "created_at": "2025-01-08T10:20:48Z",
+    "user": "OmarIsmailAbdelrahman",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2778630982,
     "number": 3870,
@@ -180,6 +307,22 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2786659846,
+    "number": 2042,
+    "title": "Keras newbie: Why doesn't loss decrease when fine-tuning LLaMA 3.2 3B on TPU v3-8 with Keras?",
+    "url": "https://github.com/keras-team/keras-hub/issues/2042",
+    "created_at": "2025-01-14T09:29:29Z",
+    "user": "aeltorio",
+    "labels": [
+      "stat:awaiting response from contributor",
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2788782436,
     "number": 1754,
@@ -187,6 +330,49 @@
     "url": "https://github.com/sktime/pytorch-forecasting/issues/1754",
     "created_at": "2025-01-15T04:00:57Z",
     "user": "arizzuto",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2789150981,
+    "number": 13729,
+    "title": "German model lemmatizes punctuation inconsistently",
+    "url": "https://github.com/explosion/spaCy/issues/13729",
+    "created_at": "2025-01-15T08:33:27Z",
+    "user": "Michael-E-Rose",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2789185545,
+    "number": 2303,
+    "title": "program brakes on \"full_tex_to_svg\" method",
+    "url": "https://github.com/3b1b/manim/issues/2303",
+    "created_at": "2025-01-15T08:48:57Z",
+    "user": "ghost",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2789994244,
+    "number": 13730,
+    "title": "Inconsistent Token Alignment Between Fast and Slow Tokenizers in spacy-transformers",
+    "url": "https://github.com/explosion/spaCy/issues/13730",
+    "created_at": "2025-01-15T14:26:10Z",
+    "user": "Rassibassi",
     "labels": [
       "bug"
     ],
@@ -219,6 +405,64 @@
     "created_at": "2025-01-16T12:29:15Z",
     "user": "andrew-aladjev",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2794004925,
+    "number": 2046,
+    "title": "Update model implementations to use flash attention",
+    "url": "https://github.com/keras-team/keras-hub/issues/2046",
+    "created_at": "2025-01-16T23:27:19Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2796097376,
+    "number": 2048,
+    "title": "Compare Numeric with HF Model",
+    "url": "https://github.com/keras-team/keras-hub/issues/2048",
+    "created_at": "2025-01-17T18:45:00Z",
+    "user": "omkar-334",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-cv",
+    "id": 2797595692,
+    "number": 2513,
+    "title": "Issues with YOLOv8 Bounding Box Predictions, Visualization, and bounding_box.to_ragged",
+    "url": "https://github.com/keras-team/keras-cv/issues/2513",
+    "created_at": "2025-01-19T12:20:25Z",
+    "user": "PLGP2020",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 2797700825,
+    "number": 1449,
+    "title": "Wrong genders in Romanian",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1449",
+    "created_at": "2025-01-19T16:05:30Z",
+    "user": "jonnyGitHub57",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -263,6 +507,19 @@
     "archived": false
   },
   {
+    "repo": "3b1b/manim",
+    "id": 2801868697,
+    "number": 2305,
+    "title": "manimgl in virtual environment on macos mojave 10.14.6; ManimPango could not import and load the necessary shared libraries.",
+    "url": "https://github.com/3b1b/manim/issues/2305",
+    "created_at": "2025-01-21T13:31:58Z",
+    "user": "Coding4Sec",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2802357157,
     "number": 5591,
@@ -271,6 +528,21 @@
     "created_at": "2025-01-21T16:54:33Z",
     "user": "contens3",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2803169719,
+    "number": 2054,
+    "title": "Running segformer error : ValueError: Attempt to convert a value (<generator object preprocessing at 0x7f59f0168f40>) with an unsupported type (<class 'generator'>) to a Tensor.",
+    "url": "https://github.com/keras-team/keras-hub/issues/2054",
+    "created_at": "2025-01-22T01:43:42Z",
+    "user": "Masumekeshavarzi",
+    "labels": [
+      "type:Bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -349,6 +621,65 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2806982568,
+    "number": 2055,
+    "title": "The attention scores are always `None` in `CachedMultiHeadAttention`",
+    "url": "https://github.com/keras-team/keras-hub/issues/2055",
+    "created_at": "2025-01-23T13:58:08Z",
+    "user": "apehex",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2807930310,
+    "number": 2056,
+    "title": "The BytePairTokenizer class is extremely, extremely slow at tokenizing",
+    "url": "https://github.com/keras-team/keras-hub/issues/2056",
+    "created_at": "2025-01-23T21:19:50Z",
+    "user": "chenying99",
+    "labels": [
+      "type:Bug",
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2809751679,
+    "number": 13733,
+    "title": "Japanese Tokenizer`RuntimeError: Already borrowed`",
+    "url": "https://github.com/explosion/spaCy/issues/13733",
+    "created_at": "2025-01-24T15:40:48Z",
+    "user": "joelbartlett20",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "id": 2809931612,
+    "number": 1450,
+    "title": "Default combined CorefUD model has inconsistent outputs for English",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1450",
+    "created_at": "2025-01-24T17:12:42Z",
+    "user": "amir-zeldes",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2810704614,
     "number": 2168,
@@ -360,6 +691,19 @@
       "onnxruntime",
       "diffusers"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2810768089,
+    "number": 13734,
+    "title": "en_core_web_trf (3.8.0) ORG predictions seem  inaccurate compared to en_core_web_trf (3.6.1)",
+    "url": "https://github.com/explosion/spaCy/issues/13734",
+    "created_at": "2025-01-25T04:56:21Z",
+    "user": "vitaly-d",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -451,6 +795,50 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-rs",
+    "id": 2814530051,
+    "number": 16,
+    "title": "Add test cases for doc-string examples",
+    "url": "https://github.com/keras-team/keras-rs/issues/16",
+    "created_at": "2025-01-28T03:16:41Z",
+    "user": "abheesht17",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2817551627,
+    "number": 2062,
+    "title": "Exporting Keras Llama Checkpoint to HF",
+    "url": "https://github.com/keras-team/keras-hub/issues/2062",
+    "created_at": "2025-01-29T08:30:58Z",
+    "user": "salrowili",
+    "labels": [
+      "Gemma",
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2818929473,
+    "number": 2306,
+    "title": "Automatic checkpoint states on every line",
+    "url": "https://github.com/3b1b/manim/issues/2306",
+    "created_at": "2025-01-29T18:25:41Z",
+    "user": "Splines",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2819974756,
     "number": 5594,
@@ -474,6 +862,19 @@
     "url": "https://github.com/huggingface/tokenizers/issues/1730",
     "created_at": "2025-01-31T12:44:28Z",
     "user": "414owen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2823966861,
+    "number": 13739,
+    "title": "Inconsistent handling of whitespace tokens in Scorer.score_token_attr",
+    "url": "https://github.com/explosion/spaCy/issues/13739",
+    "created_at": "2025-01-31T16:44:50Z",
+    "user": "nrodnova",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

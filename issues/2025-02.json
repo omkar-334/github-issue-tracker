@@ -13,6 +13,132 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2828838320,
+    "number": 2072,
+    "title": "Add DoRA support in KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2072",
+    "created_at": "2025-02-04T00:20:13Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "type:feature",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2828839815,
+    "number": 2073,
+    "title": "Support RLHF and other instruction fine-tuning options beyond supervised fine-tuning.",
+    "url": "https://github.com/keras-team/keras-hub/issues/2073",
+    "created_at": "2025-02-04T00:21:36Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "type:feature",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2828841358,
+    "number": 2074,
+    "title": "Add a high-level speech to text task with generate() support.",
+    "url": "https://github.com/keras-team/keras-hub/issues/2074",
+    "created_at": "2025-02-04T00:23:02Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "type:feature",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2828841796,
+    "number": 2075,
+    "title": "Reducing inference latency using KVPress",
+    "url": "https://github.com/keras-team/keras-hub/issues/2075",
+    "created_at": "2025-02-04T00:23:26Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2828842761,
+    "number": 2077,
+    "title": "add DeepSeek R1 to KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2077",
+    "created_at": "2025-02-04T00:24:22Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "type:feature",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2828845319,
+    "number": 2079,
+    "title": "Add ModernBERT to KerasHub",
+    "url": "https://github.com/keras-team/keras-hub/issues/2079",
+    "created_at": "2025-02-04T00:26:45Z",
+    "user": "divyashreepathihalli",
+    "labels": [
+      "type:feature",
+      "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2830639461,
+    "number": 2307,
+    "title": "Module exec leads to crash",
+    "url": "https://github.com/3b1b/manim/issues/2307",
+    "created_at": "2025-02-04T15:45:01Z",
+    "user": "Splines",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2831104897,
+    "number": 2085,
+    "title": "Downloaded model deserialization failure",
+    "url": "https://github.com/keras-team/keras-hub/issues/2085",
+    "created_at": "2025-02-04T19:22:52Z",
+    "user": "r-zip",
+    "labels": [
+      "type:Bug",
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/text",
     "id": 2834100301,
     "number": 2284,
@@ -34,6 +160,52 @@
     "created_at": "2025-02-06T02:12:51Z",
     "user": "atalman",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-cv",
+    "id": 2837826685,
+    "number": 2518,
+    "title": "Object detection preprocessing layer raise ValueError with length of boxes",
+    "url": "https://github.com/keras-team/keras-cv/issues/2518",
+    "created_at": "2025-02-07T10:39:25Z",
+    "user": "jaytwoCaribou",
+    "labels": [
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2839340282,
+    "number": 1491,
+    "title": "What's the future plan for torchchat serving",
+    "url": "https://github.com/pytorch/torchchat/issues/1491",
+    "created_at": "2025-02-08T00:30:52Z",
+    "user": "jenniew",
+    "labels": [
+      "enhancement",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2840164780,
+    "number": 2311,
+    "title": "Fixed in frame text gets distorted when we zoom out the camera",
+    "url": "https://github.com/3b1b/manim/issues/2311",
+    "created_at": "2025-02-08T17:29:26Z",
+    "user": "SzymonOzog",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -98,6 +270,21 @@
     "archived": false
   },
   {
+    "repo": "keras-team/autokeras",
+    "id": 2851119288,
+    "number": 1941,
+    "title": "Bug: Installation problem (versions 2.0, 1.1.0)",
+    "url": "https://github.com/keras-team/autokeras/issues/1941",
+    "created_at": "2025-02-13T13:56:58Z",
+    "user": "nikitosssobur",
+    "labels": [
+      "bug report"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2851787885,
     "number": 2189,
@@ -126,6 +313,21 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras-hub",
+    "id": 2853632984,
+    "number": 2101,
+    "title": "KerasHub has mandatory dependency on tensorflow-text but it isn't mandatory",
+    "url": "https://github.com/keras-team/keras-hub/issues/2101",
+    "created_at": "2025-02-14T12:49:31Z",
+    "user": "jamesmyatt",
+    "labels": [
+      "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2856534714,
     "number": 3880,
@@ -139,6 +341,34 @@
     "archived": false
   },
   {
+    "repo": "3b1b/manim",
+    "id": 2859818751,
+    "number": 2313,
+    "title": "An error is reported when exporting a video at a specified frame rate",
+    "url": "https://github.com/3b1b/manim/issues/2313",
+    "created_at": "2025-02-18T09:23:56Z",
+    "user": "Velvet0314",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2860848736,
+    "number": 2314,
+    "title": "LaTeX compilation failed also",
+    "url": "https://github.com/3b1b/manim/issues/2314",
+    "created_at": "2025-02-18T15:41:39Z",
+    "user": "shuiyuan233",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2861036201,
     "number": 3882,
@@ -146,6 +376,19 @@
     "url": "https://github.com/pytorch/audio/issues/3882",
     "created_at": "2025-02-18T16:50:20Z",
     "user": "formioq",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2863985423,
+    "number": 2315,
+    "title": "sqlite3.OperationalError: no such column: \"size\" with lorenz.py LorenzAttractor example from video",
+    "url": "https://github.com/3b1b/manim/issues/2315",
+    "created_at": "2025-02-19T17:31:21Z",
+    "user": "seangtkelley",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -209,6 +452,38 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/stanza",
+    "id": 2869983647,
+    "number": 1463,
+    "title": "Return logits/score/probabilities from the coref Model",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1463",
+    "created_at": "2025-02-21T20:51:29Z",
+    "user": "utkarsh-fileread",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchchat",
+    "id": 2870018946,
+    "number": 1497,
+    "title": "Llama3.2 vision model AOTI integration",
+    "url": "https://github.com/pytorch/torchchat/issues/1497",
+    "created_at": "2025-02-21T21:13:21Z",
+    "user": "larryliu0820",
+    "labels": [
+      "enhancement",
+      "Compile / AOTI",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2871249478,
     "number": 1778,
@@ -255,6 +530,19 @@
     "archived": false
   },
   {
+    "repo": "3b1b/manim",
+    "id": 2874888582,
+    "number": 2317,
+    "title": "Rendered video cannot be played",
+    "url": "https://github.com/3b1b/manim/issues/2317",
+    "created_at": "2025-02-24T12:59:27Z",
+    "user": "abxxvrv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2877793665,
     "number": 2200,
@@ -265,6 +553,19 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-rs",
+    "id": 2878398341,
+    "number": 34,
+    "title": "Go over examples",
+    "url": "https://github.com/keras-team/keras-rs/issues/34",
+    "created_at": "2025-02-25T13:25:08Z",
+    "user": "abheesht17",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -283,6 +584,21 @@
     "archived": false
   },
   {
+    "repo": "stanfordnlp/stanza",
+    "id": 2882797076,
+    "number": 1464,
+    "title": "bulk_process of CoNLL-U Documents throws error in process_pre_tokenized_text()",
+    "url": "https://github.com/stanfordnlp/stanza/issues/1464",
+    "created_at": "2025-02-26T20:55:55Z",
+    "user": "rohlik-hu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2885714298,
     "number": 2202,
@@ -293,6 +609,19 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2887324790,
+    "number": 13761,
+    "title": "Empty coarse-grained POS tags for number in the large Romanian model",
+    "url": "https://github.com/explosion/spaCy/issues/13761",
+    "created_at": "2025-02-28T14:39:49Z",
+    "user": "BLKSerene",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

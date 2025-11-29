@@ -57,6 +57,19 @@
     "archived": false
   },
   {
+    "repo": "explosion/spaCy",
+    "id": 2705779382,
+    "number": 13700,
+    "title": "Error: Cannot use GPU, Cupy is not installed ",
+    "url": "https://github.com/explosion/spaCy/issues/13700",
+    "created_at": "2024-11-29T17:38:28Z",
+    "user": "Gouss-shaikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2707391757,
     "number": 5568,
