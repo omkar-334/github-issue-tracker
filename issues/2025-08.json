@@ -2077,6 +2077,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3362506984,
+    "number": 14029,
+    "title": "[Bug]: Usage issues with Ollama and Gemini-cli (ollama/gpt-oss:20b + gemini-cli) / raise ValueError(\"Either text or messages must be provided\")",
+    "url": "https://github.com/BerriAI/litellm/issues/14029",
+    "created_at": "2025-08-28T09:12:00Z",
+    "user": "AO2233",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3362555651,
     "number": 2920,
@@ -2271,6 +2287,24 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3369631062,
+    "number": 14103,
+    "title": "[Bug]: SCIM-created teams in UI ignore default model list, fall back to “All Proxy Models”",
+    "url": "https://github.com/BerriAI/litellm/issues/14103",
+    "created_at": "2025-08-31T00:43:30Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3369741161,
     "number": 1962,
@@ -2314,6 +2348,24 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3370174423,
+    "number": 14109,
+    "title": "[Bug]: `VertexAI [Gemini]` docs examples show incorrect model",
+    "url": "https://github.com/BerriAI/litellm/issues/14109",
+    "created_at": "2025-08-31T11:40:10Z",
+    "user": "zigelboim-misha",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3370473088,
     "number": 1739,
@@ -2323,6 +2375,56 @@
     "user": "jacopotagliabue",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3370569523,
+    "number": 14112,
+    "title": "[Bug]: Langsmith synchronous logger not working",
+    "url": "https://github.com/BerriAI/litellm/issues/14112",
+    "created_at": "2025-08-31T18:40:03Z",
+    "user": "leggettmatt",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3370612978,
+    "number": 14113,
+    "title": "[Bug]: Test Issue",
+    "url": "https://github.com/BerriAI/litellm/issues/14113",
+    "created_at": "2025-08-31T19:36:43Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "P0"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3370677782,
+    "number": 14116,
+    "title": "[Feature]:   Track and Monitor AWS Bedrock Requests by Account/Role ARN",
+    "url": "https://github.com/BerriAI/litellm/issues/14116",
+    "created_at": "2025-08-31T21:07:12Z",
+    "user": "Inthuson",
+    "labels": [
+      "enhancement",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

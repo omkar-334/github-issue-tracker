@@ -1,15 +1,41 @@
 [
   {
-    "repo": "jax-ml/jax",
-    "id": 1574206613,
-    "number": 14327,
-    "title": "Time difference using jit",
-    "url": "https://github.com/jax-ml/jax/issues/14327",
-    "created_at": "2023-02-07T12:04:42Z",
-    "user": "GiantElephant123",
+    "repo": "huggingface/accelerate",
+    "id": 2703648703,
+    "number": 3267,
+    "title": "[CPU offload hooks] hooks with overlapped transfers and computations",
+    "url": "https://github.com/huggingface/accelerate/issues/3267",
+    "created_at": "2024-11-29T02:19:45Z",
+    "user": "sayakpaul",
     "labels": [
-      "bug"
+      "feature request"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2704946062,
+    "number": 1695,
+    "title": "Bug: is_pretokenized is not used when calling tokenizer.encode(...)",
+    "url": "https://github.com/huggingface/tokenizers/issues/1695",
+    "created_at": "2024-11-29T12:07:00Z",
+    "user": "jannessm",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 2705779382,
+    "number": 13700,
+    "title": "Error: Cannot use GPU, Cupy is not installed ",
+    "url": "https://github.com/explosion/spaCy/issues/13700",
+    "created_at": "2024-11-29T17:38:28Z",
+    "user": "Gouss-shaikh",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

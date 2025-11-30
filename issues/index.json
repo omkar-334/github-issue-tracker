@@ -1,47 +1,6 @@
 {
   "issues": [
     {
-      "repo": "huggingface/accelerate",
-      "id": 2703648703,
-      "number": 3267,
-      "title": "[CPU offload hooks] hooks with overlapped transfers and computations",
-      "url": "https://github.com/huggingface/accelerate/issues/3267",
-      "created_at": "2024-11-29T02:19:45Z",
-      "user": "sayakpaul",
-      "labels": [
-        "feature request"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "huggingface/tokenizers",
-      "id": 2704946062,
-      "number": 1695,
-      "title": "Bug: is_pretokenized is not used when calling tokenizer.encode(...)",
-      "url": "https://github.com/huggingface/tokenizers/issues/1695",
-      "created_at": "2024-11-29T12:07:00Z",
-      "user": "jannessm",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "explosion/spaCy",
-      "id": 2705779382,
-      "number": 13700,
-      "title": "Error: Cannot use GPU, Cupy is not installed ",
-      "url": "https://github.com/explosion/spaCy/issues/13700",
-      "created_at": "2024-11-29T17:38:28Z",
-      "user": "Gouss-shaikh",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "facebookresearch/fairseq",
       "id": 2707391757,
       "number": 5568,
@@ -2834,6 +2793,23 @@
       "created_at": "2025-03-19T01:09:11Z",
       "user": "AndrewTsao",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2932832158,
+      "number": 9377,
+      "title": "[Feature]: Semantic Cache to use other models and dimentionality.",
+      "url": "https://github.com/BerriAI/litellm/issues/9377",
+      "created_at": "2025-03-19T18:56:27Z",
+      "user": "qdrddr",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -9676,6 +9652,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3228512178,
+      "number": 12575,
+      "title": "[Feature]: ElevenLabs text to speech",
+      "url": "https://github.com/BerriAI/litellm/issues/12575",
+      "created_at": "2025-07-14T12:00:16Z",
+      "user": "lfnovo",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 3228715316,
       "number": 5627,
@@ -13456,6 +13448,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3362506984,
+      "number": 14029,
+      "title": "[Bug]: Usage issues with Ollama and Gemini-cli (ollama/gpt-oss:20b + gemini-cli) / raise ValueError(\"Either text or messages must be provided\")",
+      "url": "https://github.com/BerriAI/litellm/issues/14029",
+      "created_at": "2025-08-28T09:12:00Z",
+      "user": "AO2233",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3362555651,
       "number": 2920,
@@ -13650,6 +13658,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3369631062,
+      "number": 14103,
+      "title": "[Bug]: SCIM-created teams in UI ignore default model list, fall back to “All Proxy Models”",
+      "url": "https://github.com/BerriAI/litellm/issues/14103",
+      "created_at": "2025-08-31T00:43:30Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 3369741161,
       "number": 1962,
@@ -13693,6 +13719,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3370174423,
+      "number": 14109,
+      "title": "[Bug]: `VertexAI [Gemini]` docs examples show incorrect model",
+      "url": "https://github.com/BerriAI/litellm/issues/14109",
+      "created_at": "2025-08-31T11:40:10Z",
+      "user": "zigelboim-misha",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3370473088,
       "number": 1739,
@@ -13702,6 +13746,56 @@
       "user": "jacopotagliabue",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3370569523,
+      "number": 14112,
+      "title": "[Bug]: Langsmith synchronous logger not working",
+      "url": "https://github.com/BerriAI/litellm/issues/14112",
+      "created_at": "2025-08-31T18:40:03Z",
+      "user": "leggettmatt",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3370612978,
+      "number": 14113,
+      "title": "[Bug]: Test Issue",
+      "url": "https://github.com/BerriAI/litellm/issues/14113",
+      "created_at": "2025-08-31T19:36:43Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "P0"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3370677782,
+      "number": 14116,
+      "title": "[Feature]:   Track and Monitor AWS Bedrock Requests by Account/Role ARN",
+      "url": "https://github.com/BerriAI/litellm/issues/14116",
+      "created_at": "2025-08-31T21:07:12Z",
+      "user": "Inthuson",
+      "labels": [
+        "enhancement",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -38289,8 +38383,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3677205923,
+      "number": 34146,
+      "title": "`ProviderStrategy` does not allow passing `strict=True` into the OpenAI JSON Schema `response_format`",
+      "url": "https://github.com/langchain-ai/langchain/issues/34146",
+      "created_at": "2025-11-29T23:54:32Z",
+      "user": "hjerbii",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3677222164,
+      "number": 17283,
+      "title": "[Bug]: Org-scoped teams with empty model list bypass organization model restrictions",
+      "url": "https://github.com/BerriAI/litellm/issues/17283",
+      "created_at": "2025-11-30T00:20:13Z",
+      "user": "rioiart",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3677241333,
+      "number": 59072,
+      "title": "[Core][Metrics] Ray metrics not emitted with \"_total\" suffix",
+      "url": "https://github.com/ray-project/ray/issues/59072",
+      "created_at": "2025-11-30T00:51:08Z",
+      "user": "eicherseiji",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-29T23:38:18Z",
-  "total_count": 2598
+  "last_updated": "2025-11-30T01:18:56Z",
+  "total_count": 2606
 }

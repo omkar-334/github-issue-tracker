@@ -563,6 +563,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 2932832158,
+    "number": 9377,
+    "title": "[Feature]: Semantic Cache to use other models and dimentionality.",
+    "url": "https://github.com/BerriAI/litellm/issues/9377",
+    "created_at": "2025-03-19T18:56:27Z",
+    "user": "qdrddr",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 2932840330,
     "number": 3302,

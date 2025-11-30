@@ -13945,5 +13945,52 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3677205923,
+    "number": 34146,
+    "title": "`ProviderStrategy` does not allow passing `strict=True` into the OpenAI JSON Schema `response_format`",
+    "url": "https://github.com/langchain-ai/langchain/issues/34146",
+    "created_at": "2025-11-29T23:54:32Z",
+    "user": "hjerbii",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3677222164,
+    "number": 17283,
+    "title": "[Bug]: Org-scoped teams with empty model list bypass organization model restrictions",
+    "url": "https://github.com/BerriAI/litellm/issues/17283",
+    "created_at": "2025-11-30T00:20:13Z",
+    "user": "rioiart",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3677241333,
+    "number": 59072,
+    "title": "[Core][Metrics] Ray metrics not emitted with \"_total\" suffix",
+    "url": "https://github.com/ray-project/ray/issues/59072",
+    "created_at": "2025-11-30T00:51:08Z",
+    "user": "eicherseiji",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
