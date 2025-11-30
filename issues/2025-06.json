@@ -73,6 +73,24 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3110060348,
+    "number": 3523,
+    "title": "vllm server mode vs collocate mode with Lora on Qwen3-32B",
+    "url": "https://github.com/huggingface/trl/issues/3523",
+    "created_at": "2025-06-02T12:50:30Z",
+    "user": "sravan500",
+    "labels": [
+      "🐛 bug",
+      "⚡ PEFT",
+      "🚀 deepspeed",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3110162636,
     "number": 10093,
