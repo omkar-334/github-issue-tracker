@@ -1,15 +1,1 @@
-[
-  {
-    "repo": "huggingface/accelerate",
-    "id": 2695214261,
-    "number": 3265,
-    "title": "accelerator.prepare",
-    "url": "https://github.com/huggingface/accelerate/issues/3265",
-    "created_at": "2024-11-26T15:59:18Z",
-    "user": "wfan1203",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
