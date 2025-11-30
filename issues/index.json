@@ -12577,6 +12577,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3324479245,
+      "number": 13643,
+      "title": "[Bug]: [Allow /models to return correct models for custom wildcard prefixes] feature didn't work",
+      "url": "https://github.com/BerriAI/litellm/issues/13643",
+      "created_at": "2025-08-15T06:20:45Z",
+      "user": "changchiyou",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 3325353779,
       "number": 1945,
@@ -38929,8 +38945,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3677949008,
+      "number": 13163,
+      "title": "Support container keys in AppTest",
+      "url": "https://github.com/streamlit/streamlit/issues/13163",
+      "created_at": "2025-11-30T15:52:00Z",
+      "user": "jeromeroussin",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras",
+      "id": 3677983890,
+      "number": 21881,
+      "title": "[Feature Request] Add RandomCropAndResize Layer (Inception Style)",
+      "url": "https://github.com/keras-team/keras/issues/21881",
+      "created_at": "2025-11-30T16:16:18Z",
+      "user": "ma7555",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T15:38:10Z",
-  "total_count": 2639
+  "last_updated": "2025-11-30T16:18:12Z",
+  "total_count": 2642
 }
