@@ -14239,5 +14239,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3677772519,
+    "number": 10357,
+    "title": "TypingError due to wrong inference about array mutability",
+    "url": "https://github.com/numba/numba/issues/10357",
+    "created_at": "2025-11-30T13:37:53Z",
+    "user": "ricardoV94",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -1,16 +1,14 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 2618389328,
-    "number": 139065,
-    "title": "Cannot compile with latest LLVM-19",
-    "url": "https://github.com/pytorch/pytorch/issues/139065",
-    "created_at": "2024-10-28T13:12:28Z",
-    "user": "SeeRich",
+    "repo": "jax-ml/jax",
+    "id": 1574206613,
+    "number": 14327,
+    "title": "Time difference using jit",
+    "url": "https://github.com/jax-ml/jax/issues/14327",
+    "created_at": "2023-02-07T12:04:42Z",
+    "user": "GiantElephant123",
     "labels": [
-      "module: build",
-      "module: cuda",
-      "triaged"
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
