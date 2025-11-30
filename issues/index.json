@@ -7134,6 +7134,23 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 3132900976,
+      "number": 23141,
+      "title": "ENH: `linalg.{inv, solve}`: follow-up improvements to low-level ND support",
+      "url": "https://github.com/scipy/scipy/issues/23141",
+      "created_at": "2025-06-10T09:51:01Z",
+      "user": "ev-br",
+      "labels": [
+        "enhancement",
+        "task",
+        "scipy.linalg"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3133557134,
       "number": 9102,
@@ -38781,8 +38798,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3677632209,
+      "number": 16010,
+      "title": "How to run add operator in executorch ?",
+      "url": "https://github.com/pytorch/executorch/issues/16010",
+      "created_at": "2025-11-30T10:49:22Z",
+      "user": "rscguo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3677647134,
+      "number": 3657,
+      "title": "[Bug] SFTTrainer isssues",
+      "url": "https://github.com/unslothai/unsloth/issues/3657",
+      "created_at": "2025-11-30T11:09:04Z",
+      "user": "Hert4",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T10:41:02Z",
-  "total_count": 2629
+  "last_updated": "2025-11-30T11:12:41Z",
+  "total_count": 2632
 }
