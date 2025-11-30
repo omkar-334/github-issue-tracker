@@ -39201,8 +39201,57 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3678557878,
+      "number": 19120,
+      "title": "[FR] Expose inference parameters (e.g. temperature) for LLM Judges",
+      "url": "https://github.com/mlflow/mlflow/issues/19120",
+      "created_at": "2025-11-30T22:54:36Z",
+      "user": "rogalski",
+      "labels": [
+        "enhancement",
+        "area/evaluation",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3678561366,
+      "number": 63236,
+      "title": "BUG/API: to_json with non-nano TimedeltaIndex",
+      "url": "https://github.com/pandas-dev/pandas/issues/63236",
+      "created_at": "2025-11-30T22:57:22Z",
+      "user": "jbrockmendel",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3678571009,
+      "number": 59079,
+      "title": "[Doc][RLlib] Outdated link",
+      "url": "https://github.com/ray-project/ray/issues/59079",
+      "created_at": "2025-11-30T23:04:01Z",
+      "user": "Daraan",
+      "labels": [
+        "triage",
+        "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T22:40:50Z",
-  "total_count": 2657
+  "last_updated": "2025-11-30T23:14:52Z",
+  "total_count": 2660
 }
