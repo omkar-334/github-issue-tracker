@@ -38739,8 +38739,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3677581422,
+      "number": 34147,
+      "title": "Implementing the tool_select_tool tool",
+      "url": "https://github.com/langchain-ai/langchain/issues/34147",
+      "created_at": "2025-11-30T09:45:25Z",
+      "user": "arkonchen",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T09:37:47Z",
-  "total_count": 2626
+  "last_updated": "2025-11-30T10:15:26Z",
+  "total_count": 2627
 }
