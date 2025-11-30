@@ -14097,5 +14097,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3677470700,
+    "number": 169255,
+    "title": "Floating Point Exception in nnq.Conv2d with stride=0",
+    "url": "https://github.com/pytorch/pytorch/issues/169255",
+    "created_at": "2025-11-30T07:19:51Z",
+    "user": "qiqicliff",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
