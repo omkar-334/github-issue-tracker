@@ -14473,6 +14473,27 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3395848444,
+      "number": 162422,
+      "title": "Runtime failure when running torch.compile() & using GCC 11.5.0 on Neoverse V1",
+      "url": "https://github.com/pytorch/pytorch/issues/162422",
+      "created_at": "2025-09-08T21:45:45Z",
+      "user": "Rohanjames1997",
+      "labels": [
+        "module: crash",
+        "module: vectorization",
+        "module: third_party",
+        "actionable",
+        "module: arm",
+        "oncall: pt2",
+        "oncall: cpu inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3396013985,
       "number": 949,
@@ -38515,6 +38536,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-30T04:12:10Z",
-  "total_count": 2611
+  "last_updated": "2025-11-30T04:52:27Z",
+  "total_count": 2612
 }
