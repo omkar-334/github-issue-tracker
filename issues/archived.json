@@ -13,22 +13,5 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2618389328,
-    "number": 139065,
-    "title": "Cannot compile with latest LLVM-19",
-    "url": "https://github.com/pytorch/pytorch/issues/139065",
-    "created_at": "2024-10-28T13:12:28Z",
-    "user": "SeeRich",
-    "labels": [
-      "module: build",
-      "module: cuda",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
   }
 ]
