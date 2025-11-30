@@ -5978,6 +5978,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3086800492,
+      "number": 154235,
+      "title": "MPS backend fails to detect index_select / nn.Embedding out-of-range error",
+      "url": "https://github.com/pytorch/pytorch/issues/154235",
+      "created_at": "2025-05-23T15:45:13Z",
+      "user": "shawnfan19",
+      "labels": [
+        "module: error checking",
+        "triaged",
+        "module: advanced indexing",
+        "module: mps"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3087997402,
       "number": 2719,
@@ -38497,6 +38515,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-11-30T03:12:52Z",
-  "total_count": 2610
+  "last_updated": "2025-11-30T04:12:10Z",
+  "total_count": 2611
 }
