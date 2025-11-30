@@ -11814,6 +11814,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3293935430,
+      "number": 3097,
+      "title": "[Bug] Please fill in your issue title here.",
+      "url": "https://github.com/unslothai/unsloth/issues/3097",
+      "created_at": "2025-08-05T17:45:39Z",
+      "user": "SinghSuryaDeep",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3294223246,
       "number": 3309,
@@ -12150,6 +12165,24 @@
       "labels": [
         "question",
         "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3305423458,
+      "number": 160230,
+      "title": "Offer official Pytorch Vulkan backend on pytorch.org",
+      "url": "https://github.com/pytorch/pytorch/issues/160230",
+      "created_at": "2025-08-08T23:19:51Z",
+      "user": "alshdavid",
+      "labels": [
+        "feature",
+        "triaged",
+        "needs research",
+        "module: vulkan"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -38370,6 +38403,23 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3677148714,
+      "number": 63230,
+      "title": "BUG: SettingWithCopyWarning is not shown with copy-on-write disabled",
+      "url": "https://github.com/pandas-dev/pandas/issues/63230",
+      "created_at": "2025-11-29T22:14:35Z",
+      "user": "Streep",
+      "labels": [
+        "Bug",
+        "Needs Discussion",
+        "Copy / view semantics"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/sktime",
       "id": 3677174173,
       "number": 9142,
@@ -38430,8 +38480,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3677303695,
+      "number": 32817,
+      "title": "⚠️ CI failed on Linux_Nightly.pylatest_pip_scipy_dev (last failure: Nov 30, 2025) ⚠️",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32817",
+      "created_at": "2025-11-30T02:45:25Z",
+      "user": "scikit-learn-bot",
+      "labels": [
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T01:18:56Z",
-  "total_count": 2606
+  "last_updated": "2025-11-30T03:12:52Z",
+  "total_count": 2610
 }

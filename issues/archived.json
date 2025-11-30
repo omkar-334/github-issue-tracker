@@ -1,41 +1,76 @@
 [
   {
-    "repo": "huggingface/accelerate",
-    "id": 2703648703,
-    "number": 3267,
-    "title": "[CPU offload hooks] hooks with overlapped transfers and computations",
-    "url": "https://github.com/huggingface/accelerate/issues/3267",
-    "created_at": "2024-11-29T02:19:45Z",
-    "user": "sayakpaul",
+    "repo": "keras-team/keras",
+    "id": 429849668,
+    "number": 12625,
+    "title": "Clearing GPU memory in Keras",
+    "url": "https://github.com/keras-team/keras/issues/12625",
+    "created_at": "2019-04-05T16:58:27Z",
+    "user": "SphrGhfri",
     "labels": [
-      "feature request"
+      "stat:awaiting response from contributor",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "huggingface/tokenizers",
-    "id": 2704946062,
-    "number": 1695,
-    "title": "Bug: is_pretokenized is not used when calling tokenizer.encode(...)",
-    "url": "https://github.com/huggingface/tokenizers/issues/1695",
-    "created_at": "2024-11-29T12:07:00Z",
-    "user": "jannessm",
+    "repo": "pytorch/pytorch",
+    "id": 1741293246,
+    "number": 102963,
+    "title": "torch.svd fails on large matrices",
+    "url": "https://github.com/pytorch/pytorch/issues/102963",
+    "created_at": "2023-06-05T08:47:20Z",
+    "user": "elexunix",
+    "labels": [
+      "module: cuda",
+      "triaged",
+      "module: cublas",
+      "module: linear algebra"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "explosion/spaCy",
-    "id": 2705779382,
-    "number": 13700,
-    "title": "Error: Cannot use GPU, Cupy is not installed ",
-    "url": "https://github.com/explosion/spaCy/issues/13700",
-    "created_at": "2024-11-29T17:38:28Z",
-    "user": "Gouss-shaikh",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2649536062,
+    "number": 21866,
+    "title": "ENH: KDTree compatible with Mahalanobis distance",
+    "url": "https://github.com/scipy/scipy/issues/21866",
+    "created_at": "2024-11-11T14:39:03Z",
+    "user": "ealonsogzl",
+    "labels": [
+      "enhancement",
+      "scipy.spatial"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
