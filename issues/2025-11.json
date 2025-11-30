@@ -14252,5 +14252,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3677807853,
+    "number": 24084,
+    "title": "BUG: `RectBivariateSpline.partial_derivative` rejects valid x-derivative orders when `kx > ky`",
+    "url": "https://github.com/scipy/scipy/issues/24084",
+    "created_at": "2025-11-30T14:13:05Z",
+    "user": "T90REAL",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
