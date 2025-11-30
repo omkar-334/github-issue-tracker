@@ -405,6 +405,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2988837503,
+    "number": 151110,
+    "title": "Update epsilon logic to improve numerical stability",
+    "url": "https://github.com/pytorch/pytorch/issues/151110",
+    "created_at": "2025-04-11T14:29:34Z",
+    "user": "albanD",
+    "labels": [
+      "module: numerical-stability",
+      "module: bc-breaking",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 2989596112,
     "number": 10040,

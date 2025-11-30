@@ -14387,5 +14387,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3678132483,
+    "number": 1889,
+    "title": "ENH: Adding timelimit parameter to duckduckgo search tool",
+    "url": "https://github.com/huggingface/smolagents/issues/1889",
+    "created_at": "2025-11-30T17:55:46Z",
+    "user": "demetriushrowland",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
