@@ -9088,6 +9088,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3662469396,
+    "number": 17075,
+    "title": "[Feature]: Support imageSize in generationConfig.imageConfig for Gemini 3 Image Models",
+    "url": "https://github.com/BerriAI/litellm/issues/17075",
+    "created_at": "2025-11-25T10:35:09Z",
+    "user": "krisxia0506",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "jax-ml/jax",
     "id": 3662584612,
     "number": 33521,
@@ -14107,6 +14123,34 @@
     "created_at": "2025-11-30T07:19:51Z",
     "user": "qiqicliff",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3677495676,
+    "number": 1900,
+    "title": "Performance: batch_encode scales poorly on high-core Server CPUs compared to sharded tokenizer instances",
+    "url": "https://github.com/huggingface/tokenizers/issues/1900",
+    "created_at": "2025-11-30T07:48:33Z",
+    "user": "stargazerZJ",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3677511774,
+    "number": 169256,
+    "title": "[xpu] reduction on torch.compile has perf regression",
+    "url": "https://github.com/pytorch/pytorch/issues/169256",
+    "created_at": "2025-11-30T08:13:04Z",
+    "user": "jianyizh",
+    "labels": [
+      "oncall: pt2"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -3994,6 +3994,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3544638730,
+    "number": 41814,
+    "title": "AutoModel does not support Qwen3VLMoE",
+    "url": "https://github.com/huggingface/transformers/issues/41814",
+    "created_at": "2025-10-23T13:10:29Z",
+    "user": "AylinAkkus",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3544719679,
     "number": 2864,
@@ -4032,6 +4047,21 @@
     "created_at": "2025-10-23T14:29:54Z",
     "user": "samanklesaria",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3545001326,
+    "number": 41816,
+    "title": "Processor saving does not work when multiple tokenizers",
+    "url": "https://github.com/huggingface/transformers/issues/41816",
+    "created_at": "2025-10-23T14:40:25Z",
+    "user": "AmitMY",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -4539,6 +4569,21 @@
     "user": "OrlandoWhite88",
     "labels": [
       "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3552873922,
+    "number": 41863,
+    "title": "`generate()` produces incoherent output when `inputs_embeds` has length 1",
+    "url": "https://github.com/huggingface/transformers/issues/41863",
+    "created_at": "2025-10-25T19:06:49Z",
+    "user": "tyarkoni",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6012,6 +6057,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3570611821,
+    "number": 41950,
+    "title": "video-classification pipeline looks for image processors",
+    "url": "https://github.com/huggingface/transformers/issues/41950",
+    "created_at": "2025-10-30T12:45:06Z",
+    "user": "merveenoyan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3570621428,
     "number": 2380,
@@ -6242,6 +6302,21 @@
     "labels": [
       "scipy.linalg",
       "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3572861474,
+    "number": 41959,
+    "title": "DeepSpeed ZeRO-3 Resizing untied output head after `resize_token_embeddings` breaks (LoRA + ZeRO-3)",
+    "url": "https://github.com/huggingface/transformers/issues/41959",
+    "created_at": "2025-10-30T23:50:30Z",
+    "user": "XiangZhang-zx",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
