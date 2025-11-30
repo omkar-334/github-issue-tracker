@@ -2139,6 +2139,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3362570073,
+    "number": 23522,
+    "title": "MAINT: Replace deprecated usage of numpy array shape, dtype and strides setting",
+    "url": "https://github.com/scipy/scipy/issues/23522",
+    "created_at": "2025-08-28T09:28:47Z",
+    "user": "eendebakpt",
+    "labels": [
+      "good first issue",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3363792349,
     "number": 940,
