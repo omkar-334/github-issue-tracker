@@ -39169,8 +39169,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3678457248,
+      "number": 63235,
+      "title": "BUG: Deprecation warnings with option_context have incorrect stacklevel",
+      "url": "https://github.com/pandas-dev/pandas/issues/63235",
+      "created_at": "2025-11-30T21:42:41Z",
+      "user": "rhshadrach",
+      "labels": [
+        "Bug",
+        "Warnings"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T21:37:15Z",
-  "total_count": 2655
+  "last_updated": "2025-11-30T22:14:54Z",
+  "total_count": 2656
 }
