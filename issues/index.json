@@ -38592,8 +38592,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3677458601,
+      "number": 169253,
+      "title": "torch.compile bug: class-level list mutations are dropped",
+      "url": "https://github.com/pytorch/pytorch/issues/169253",
+      "created_at": "2025-11-30T07:04:00Z",
+      "user": "ad8e",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T06:50:40Z",
-  "total_count": 2616
+  "last_updated": "2025-11-30T07:14:28Z",
+  "total_count": 2617
 }
