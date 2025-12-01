@@ -17121,6 +17121,19 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3448255831,
+      "number": 14849,
+      "title": "[Bug]: Gemini cache hit tokens double counted in cost calculator",
+      "url": "https://github.com/BerriAI/litellm/issues/14849",
+      "created_at": "2025-09-24T08:09:36Z",
+      "user": "tjx666",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3448673563,
       "number": 21690,
@@ -40033,8 +40046,41 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3680297445,
+      "number": 24089,
+      "title": "ENH: spatial.transform: Add `normalize` argument to `Rotation.from_matrix`",
+      "url": "https://github.com/scipy/scipy/issues/24089",
+      "created_at": "2025-12-01T10:20:24Z",
+      "user": "amacati",
+      "labels": [
+        "enhancement",
+        "scipy.spatial"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3680340420,
+      "number": 34155,
+      "title": "Groq `openai/gpt-oss-120b` model incompatible with structured output (`create_agent`, `ChatGroq.with_structured_output`)",
+      "url": "https://github.com/langchain-ai/langchain/issues/34155",
+      "created_at": "2025-12-01T10:32:17Z",
+      "user": "cosasha97",
+      "labels": [
+        "bug",
+        "langchain",
+        "groq"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T10:20:02Z",
-  "total_count": 2711
+  "last_updated": "2025-12-01T10:48:21Z",
+  "total_count": 2714
 }
