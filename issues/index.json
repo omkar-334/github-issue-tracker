@@ -14157,6 +14157,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3370297894,
+      "number": 161860,
+      "title": "Suspecting recent nightly release degraded FSDP preformance",
+      "url": "https://github.com/pytorch/pytorch/issues/161860",
+      "created_at": "2025-08-31T14:10:07Z",
+      "user": "mukhayy",
+      "labels": [
+        "oncall: distributed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3370473088,
       "number": 1739,
@@ -34988,6 +35003,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3662843837,
+      "number": 169055,
+      "title": "`[feature request][discussion][cuBLASLt]` fused backward support for `addmm` with epilogue fusions.",
+      "url": "https://github.com/pytorch/pytorch/issues/169055",
+      "created_at": "2025-11-25T12:19:07Z",
+      "user": "nikitaved",
+      "labels": [
+        "feature",
+        "module: autograd",
+        "module: cuda",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3662855434,
       "number": 21870,
@@ -41352,8 +41385,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "plotly/plotly.py",
+      "id": 3682538417,
+      "number": 5438,
+      "title": "Lag when adding small scatters to large heatmap animations",
+      "url": "https://github.com/plotly/plotly.py/issues/5438",
+      "created_at": "2025-12-01T19:30:44Z",
+      "user": "Alex17Li",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T19:19:18Z",
-  "total_count": 2792
+  "last_updated": "2025-12-01T19:41:02Z",
+  "total_count": 2795
 }
