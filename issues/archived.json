@@ -1,15 +1,17 @@
 [
   {
-    "repo": "ray-project/ray",
-    "id": 991631618,
-    "number": 18456,
-    "title": "[core] ReferenceCountingAssertionError may be thrown if ObjectRef is passed through intermediate worker that dies",
-    "url": "https://github.com/ray-project/ray/issues/18456",
-    "created_at": "2021-09-09T00:18:34Z",
-    "user": "stephanie-wang",
+    "repo": "pytorch/pytorch",
+    "id": 1180903463,
+    "number": 74746,
+    "title": "Change the type hint for nn.Module.__call__ to be friendly to overrides.",
+    "url": "https://github.com/pytorch/pytorch/issues/74746",
+    "created_at": "2022-03-25T15:01:38Z",
+    "user": "ppeetteerrs",
     "labels": [
-      "bug",
-      "core"
+      "module: nn",
+      "module: typing",
+      "triaged",
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -748,5 +748,51 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3681665810,
+    "number": 3665,
+    "title": "[Bug]Exception error due to indentation",
+    "url": "https://github.com/unslothai/unsloth/issues/3665",
+    "created_at": "2025-12-01T15:55:07Z",
+    "user": "nikhilsquarrootz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3681745723,
+    "number": 9103,
+    "title": "[Bug] ContextWindowExceededError after 3 retries in react loop",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9103",
+    "created_at": "2025-12-01T16:14:36Z",
+    "user": "johnslim161-lab",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3681768431,
+    "number": 59087,
+    "title": "[Data] Information loss when writing parquet for numpy array with all NaNs",
+    "url": "https://github.com/ray-project/ray/issues/59087",
+    "created_at": "2025-12-01T16:19:05Z",
+    "user": "cqiao-cmt",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
