@@ -14854,6 +14854,21 @@
       "archived": false
     },
     {
+      "repo": "numpy/numpy",
+      "id": 3394430047,
+      "number": 29710,
+      "title": "ENH: Option to choose Google Highway sort on x86_64 AVX-512 systems",
+      "url": "https://github.com/numpy/numpy/issues/29710",
+      "created_at": "2025-09-08T14:17:39Z",
+      "user": "gitboy16",
+      "labels": [
+        "component: SIMD"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 3395173488,
       "number": 2390,
@@ -21101,6 +21116,21 @@
       "labels": [
         "module:forecasting",
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3520036712,
+      "number": 15585,
+      "title": "[Bug]: LiteLLM regularly takes out Postgres server",
+      "url": "https://github.com/BerriAI/litellm/issues/15585",
+      "created_at": "2025-10-16T01:46:10Z",
+      "user": "Cyberes",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -40845,8 +40875,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3681949154,
+      "number": 16017,
+      "title": "CI is paused for the time being",
+      "url": "https://github.com/pytorch/executorch/issues/16017",
+      "created_at": "2025-12-01T16:59:13Z",
+      "user": "mergennachin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T16:52:45Z",
-  "total_count": 2762
+  "last_updated": "2025-12-01T17:18:23Z",
+  "total_count": 2765
 }
