@@ -6220,6 +6220,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3640453524,
+    "number": 168126,
+    "title": "Large numeric divergence for torch compile vs eager in bf16",
+    "url": "https://github.com/pytorch/pytorch/issues/168126",
+    "created_at": "2025-11-19T00:03:52Z",
+    "user": "jamin-chen",
+    "labels": [
+      "high priority",
+      "triage review",
+      "oncall: pt2",
+      "module: decompositions",
+      "module: aotdispatch",
+      "module: inductor",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3640516846,
     "number": 9075,
@@ -6753,6 +6774,23 @@
     "labels": [
       "bug",
       "langchain-classic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3644463965,
+    "number": 168186,
+    "title": "2nd example of large numeric divergence for torch compile vs eager in bf16",
+    "url": "https://github.com/pytorch/pytorch/issues/168186",
+    "created_at": "2025-11-19T21:19:58Z",
+    "user": "jamin-chen",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -8289,6 +8327,19 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3655108317,
+    "number": 168911,
+    "title": "Add support for cuda graph with torch.cond",
+    "url": "https://github.com/pytorch/pytorch/issues/168911",
+    "created_at": "2025-11-22T21:48:33Z",
+    "user": "galv",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -9907,6 +9958,24 @@
     "user": "yuwei-qin",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3664641080,
+    "number": 169082,
+    "title": "Reduce Overhead and Max Autotune NaN",
+    "url": "https://github.com/pytorch/pytorch/issues/169082",
+    "created_at": "2025-11-25T21:23:58Z",
+    "user": "conceptofmind",
+    "labels": [
+      "triage review",
+      "module: correctness (silent)",
+      "oncall: pt2",
+      "module: inductor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
