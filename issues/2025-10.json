@@ -2038,6 +2038,22 @@
     "archived": false
   },
   {
+    "repo": "jax-ml/jax",
+    "id": 3509338326,
+    "number": 32551,
+    "title": "Unimplemented primitive in Pallas GPU lowering: is_finite",
+    "url": "https://github.com/jax-ml/jax/issues/32551",
+    "created_at": "2025-10-13T10:07:49Z",
+    "user": "0xc1c4da",
+    "labels": [
+      "bug",
+      "AMD GPU"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3509814577,
     "number": 3443,
