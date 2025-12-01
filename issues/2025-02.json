@@ -165,6 +165,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 2836791789,
+    "number": 8292,
+    "title": "Support Python 3.13",
+    "url": "https://github.com/pytorch/executorch/issues/8292",
+    "created_at": "2025-02-06T22:52:03Z",
+    "user": "GregoryComer",
+    "labels": [
+      "module: build/install",
+      "triaged",
+      "module: user experience"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-cv",
     "id": 2837826685,
     "number": 2518,

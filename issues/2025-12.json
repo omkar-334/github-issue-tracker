@@ -970,5 +970,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3682830605,
+    "number": 30804,
+    "title": "[Bug]: Stackplot does not pass `facecolor(s)` correctly to fill_between",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30804",
+    "created_at": "2025-12-01T20:59:05Z",
+    "user": "rbaardmanWKR",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

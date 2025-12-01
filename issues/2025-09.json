@@ -3671,6 +3671,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3460209400,
+    "number": 164041,
+    "title": "[vLLM] AssertionError: out= ops aren't yet supported",
+    "url": "https://github.com/pytorch/pytorch/issues/164041",
+    "created_at": "2025-09-27T12:07:38Z",
+    "user": "ZJY0516",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "inductor_pattern_match",
+      "vllm-compile",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3460376428,
     "number": 3333,
