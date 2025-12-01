@@ -5911,6 +5911,23 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3079926453,
+      "number": 31407,
+      "title": "Cannot recover DBSCAN from memory-overuse",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/31407",
+      "created_at": "2025-05-21T11:38:43Z",
+      "user": "hubernikus",
+      "labels": [
+        "Bug",
+        "help wanted",
+        "Needs Investigation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3081635266,
       "number": 2702,
@@ -28471,6 +28488,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3613589541,
+      "number": 167567,
+      "title": "Make `torch.hypot` accept scalars",
+      "url": "https://github.com/pytorch/pytorch/issues/167567",
+      "created_at": "2025-11-11T19:20:53Z",
+      "user": "alexshtf",
+      "labels": [
+        "triaged",
+        "module: python frontend"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/accelerate",
       "id": 3613837702,
       "number": 3838,
@@ -40584,6 +40617,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-01T14:18:11Z",
-  "total_count": 2745
+  "last_updated": "2025-12-01T14:47:37Z",
+  "total_count": 2747
 }

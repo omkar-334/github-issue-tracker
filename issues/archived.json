@@ -1,14 +1,100 @@
 [
   {
-    "repo": "jax-ml/jax",
-    "id": 420988373,
-    "number": 508,
-    "title": "Implement JVP for SVD when full_matrices=True",
-    "url": "https://github.com/jax-ml/jax/issues/508",
-    "created_at": "2019-03-14T12:22:20Z",
-    "user": "hawkinsp",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 362986247,
+    "number": 12137,
+    "title": "AdaBoost feature_importances_ should support base estimators with coef_",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/12137",
+    "created_at": "2018-09-23T23:13:59Z",
+    "user": "hermidalc",
     "labels": [
-      "enhancement"
+      "Easy",
+      "Enhancement",
+      "help wanted",
+      "module:ensemble"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 754193211,
+    "number": 2399,
+    "title": "st.expander expanded/collapsed state",
+    "url": "https://github.com/streamlit/streamlit/issues/2399",
+    "created_at": "2020-12-01T09:01:42Z",
+    "user": "LeoTafti",
+    "labels": [
+      "type:enhancement",
+      "area:events",
+      "feature:st.expander"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 1641517868,
+    "number": 6370,
+    "title": "Can't close st.expander after users open it themselves",
+    "url": "https://github.com/streamlit/streamlit/issues/6370",
+    "created_at": "2023-03-27T07:07:28Z",
+    "user": "sTomerG",
+    "labels": [
+      "type:enhancement",
+      "feature:st.session_state",
+      "feature:st.expander"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 1831096359,
+    "number": 26961,
+    "title": "Agglomerative clustering training error for seuclidean/mahalanobis affinity and single linkage",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/26961",
+    "created_at": "2023-08-01T11:50:21Z",
+    "user": "albin02t",
+    "labels": [
+      "Bug",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 2170122451,
+    "number": 8239,
+    "title": "`st.tabs` & `st.expander` - Improve handling of frontend state/mount",
+    "url": "https://github.com/streamlit/streamlit/issues/8239",
+    "created_at": "2024-03-05T20:50:15Z",
+    "user": "mayagbarnes",
+    "labels": [
+      "type:enhancement",
+      "feature:st.expander",
+      "feature:st.tabs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 2176838310,
+    "number": 8265,
+    "title": "Add open/close parameter to st.popover",
+    "url": "https://github.com/streamlit/streamlit/issues/8265",
+    "created_at": "2024-03-08T21:57:50Z",
+    "user": "sfc-gh-bhess",
+    "labels": [
+      "type:enhancement",
+      "feature:st.popover"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

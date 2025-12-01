@@ -3285,6 +3285,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3613589541,
+    "number": 167567,
+    "title": "Make `torch.hypot` accept scalars",
+    "url": "https://github.com/pytorch/pytorch/issues/167567",
+    "created_at": "2025-11-11T19:20:53Z",
+    "user": "alexshtf",
+    "labels": [
+      "triaged",
+      "module: python frontend"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/accelerate",
     "id": 3613837702,
     "number": 3838,
