@@ -1133,6 +1133,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3495127956,
+    "number": 41447,
+    "title": "ImportError: cannot import name 'Qwen3VLMoeForConditionalGeneration' from 'transformers'",
+    "url": "https://github.com/huggingface/transformers/issues/41447",
+    "created_at": "2025-10-08T11:56:39Z",
+    "user": "EIIvy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3495369577,
     "number": 32434,
