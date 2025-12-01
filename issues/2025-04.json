@@ -151,6 +151,24 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 2972305194,
+    "number": 30667,
+    "title": "core: leak when using object member in a `RunnableSequence`",
+    "url": "https://github.com/langchain-ai/langchain/issues/30667",
+    "created_at": "2025-04-04T12:54:05Z",
+    "user": "maxfriedrich",
+    "labels": [
+      "help wanted",
+      "bug",
+      "investigate",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2973850616,
     "number": 21137,
