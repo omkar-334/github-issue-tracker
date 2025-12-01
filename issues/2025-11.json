@@ -1109,6 +1109,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3590493482,
+    "number": 62995,
+    "title": "BUG: df.to_sql() lose datetime precision when uploading data to SQL Server temp table",
+    "url": "https://github.com/pandas-dev/pandas/issues/62995",
+    "created_at": "2025-11-05T11:09:50Z",
+    "user": "ebj-jyskebank-dk",
+    "labels": [
+      "Bug",
+      "IO SQL"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3590615868,
     "number": 21822,
@@ -8897,6 +8913,24 @@
     "created_at": "2025-11-24T18:28:18Z",
     "user": "qGentry",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3660114035,
+    "number": 168997,
+    "title": "[Umbrella issue] Deployment of index updates to download.pytorch.org - Switch dependencies that are on pypi to utilize pypi's CDN",
+    "url": "https://github.com/pytorch/pytorch/issues/168997",
+    "created_at": "2025-11-24T18:47:01Z",
+    "user": "atalman",
+    "labels": [
+      "high priority",
+      "triage review",
+      "module: binaries",
+      "module: ci"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

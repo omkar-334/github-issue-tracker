@@ -12684,6 +12684,21 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3314723246,
+      "number": 13544,
+      "title": "[Bug]: Helm chart: cannot supply DB secret when db.deployStandalone=true — chart hard-codes secret name/keys and overwrites any pre-created Secret",
+      "url": "https://github.com/BerriAI/litellm/issues/13544",
+      "created_at": "2025-08-12T15:06:22Z",
+      "user": "SebLz",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3316132286,
       "number": 13554,
       "title": "[Bug]:  /v1/messages endpoint returns async_generator serialization error (TypeError: 'async_generator' object is not iterable)",
@@ -26327,6 +26342,22 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3590493482,
+      "number": 62995,
+      "title": "BUG: df.to_sql() lose datetime precision when uploading data to SQL Server temp table",
+      "url": "https://github.com/pandas-dev/pandas/issues/62995",
+      "created_at": "2025-11-05T11:09:50Z",
+      "user": "ebj-jyskebank-dk",
+      "labels": [
+        "Bug",
+        "IO SQL"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3590615868,
       "number": 21822,
@@ -34120,6 +34151,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3660114035,
+      "number": 168997,
+      "title": "[Umbrella issue] Deployment of index updates to download.pytorch.org - Switch dependencies that are on pypi to utilize pypi's CDN",
+      "url": "https://github.com/pytorch/pytorch/issues/168997",
+      "created_at": "2025-11-24T18:47:01Z",
+      "user": "atalman",
+      "labels": [
+        "high priority",
+        "triage review",
+        "module: binaries",
+        "module: ci"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3660138787,
       "number": 58941,
@@ -40676,8 +40725,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3681502066,
+      "number": 63243,
+      "title": "BUG: Only 16 decimal places can be retained while reading values ​​with more than 16 decimal places from CSV files",
+      "url": "https://github.com/pandas-dev/pandas/issues/63243",
+      "created_at": "2025-12-01T15:18:34Z",
+      "user": "asddfl",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3681505906,
+      "number": 3868,
+      "title": "Missing library stubs or py.typed marker",
+      "url": "https://github.com/huggingface/accelerate/issues/3868",
+      "created_at": "2025-12-01T15:19:30Z",
+      "user": "josecannete",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3681606766,
+      "number": 17310,
+      "title": "[Bug]: Regression:-  log_pre_api_call stopped getting called for passthrough endpoints",
+      "url": "https://github.com/BerriAI/litellm/issues/17310",
+      "created_at": "2025-12-01T15:41:09Z",
+      "user": "metalshanked",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T15:17:49Z",
-  "total_count": 2751
+  "last_updated": "2025-12-01T15:44:27Z",
+  "total_count": 2757
 }

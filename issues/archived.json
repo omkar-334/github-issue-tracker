@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "ray-project/ray",
+    "id": 991631618,
+    "number": 18456,
+    "title": "[core] ReferenceCountingAssertionError may be thrown if ObjectRef is passed through intermediate worker that dies",
+    "url": "https://github.com/ray-project/ray/issues/18456",
+    "created_at": "2021-09-09T00:18:34Z",
+    "user": "stephanie-wang",
+    "labels": [
+      "bug",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
