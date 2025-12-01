@@ -1,32 +1,111 @@
 [
   {
-    "repo": "facebookresearch/fairseq",
-    "id": 2707391757,
-    "number": 5568,
-    "title": "Questions about the data used when training Hubert",
-    "url": "https://github.com/facebookresearch/fairseq/issues/5568",
-    "created_at": "2024-11-30T14:06:55Z",
-    "user": "ghost",
+    "repo": "matplotlib/matplotlib",
+    "id": 1095247623,
+    "number": 22126,
+    "title": "[ENH]: Support `pandas.NA`",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22126",
+    "created_at": "2022-01-06T11:54:10Z",
+    "user": "randolf-scholz",
     "labels": [
-      "question",
-      "needs triage"
+      "New feature",
+      "third-party integration: pandas",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "facebookresearch/fairseq",
-    "id": 2708116437,
-    "number": 5569,
-    "title": "Serbian checkpoint not found",
-    "url": "https://github.com/facebookresearch/fairseq/issues/5569",
-    "created_at": "2024-11-30T22:10:58Z",
-    "user": "gamisn",
+    "repo": "matplotlib/matplotlib",
+    "id": 1169270085,
+    "number": 22651,
+    "title": "[ENH]: rgb_to_hsv/hsv_to_rgb could check that the inputs are of floating point dtype",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22651",
+    "created_at": "2022-03-15T07:09:31Z",
+    "user": "anntzer",
     "labels": [
-      "question",
-      "needs triage"
+      "New feature",
+      "API: argument checking",
+      "status: inactive"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1177124546,
+    "number": 22684,
+    "title": "[ENH]: Iso-probability contours with `contour` and `contourf`",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22684",
+    "created_at": "2022-03-22T18:05:43Z",
+    "user": "jacopok",
+    "labels": [
+      "New feature",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1182686997,
+    "number": 22713,
+    "title": "[Bug]: axis set_transform and get_transform are not related",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22713",
+    "created_at": "2022-03-27T22:38:19Z",
+    "user": "mwaskom",
+    "labels": [
+      "API: consistency",
+      "topic: ticks axis labels",
+      "topic: transforms and scales",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1185517605,
+    "number": 22728,
+    "title": "[ENH]: Higher bitdepth turbo colormap",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22728",
+    "created_at": "2022-03-29T22:36:25Z",
+    "user": "hmaarrfk",
+    "labels": [
+      "New feature",
+      "topic: color/color & colormaps",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

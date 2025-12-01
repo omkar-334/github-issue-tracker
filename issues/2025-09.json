@@ -1528,6 +1528,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3410851236,
+    "number": 162813,
+    "title": "PyTorch2.10.0.dev+xpu generates black images in ComfyUI.",
+    "url": "https://github.com/pytorch/pytorch/issues/162813",
+    "created_at": "2025-09-12T15:04:09Z",
+    "user": "milkystor",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3411025429,
     "number": 959,

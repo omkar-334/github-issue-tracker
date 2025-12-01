@@ -632,6 +632,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3000151686,
+    "number": 2362,
+    "title": "[Bug] Gradient checkpointing is always enabled when using `UnslothTrainer`",
+    "url": "https://github.com/unslothai/unsloth/issues/2362",
+    "created_at": "2025-04-16T16:25:15Z",
+    "user": "Uncomfy",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3000421554,
     "number": 3181,

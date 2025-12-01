@@ -3847,6 +3847,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3000151686,
+      "number": 2362,
+      "title": "[Bug] Gradient checkpointing is always enabled when using `UnslothTrainer`",
+      "url": "https://github.com/unslothai/unsloth/issues/2362",
+      "created_at": "2025-04-16T16:25:15Z",
+      "user": "Uncomfy",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3000421554,
       "number": 3181,
@@ -15483,6 +15498,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3410851236,
+      "number": 162813,
+      "title": "PyTorch2.10.0.dev+xpu generates black images in ComfyUI.",
+      "url": "https://github.com/pytorch/pytorch/issues/162813",
+      "created_at": "2025-09-12T15:04:09Z",
+      "user": "milkystor",
+      "labels": [
+        "triaged",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3411025429,
       "number": 959,
@@ -22454,6 +22485,22 @@
       "created_at": "2025-10-25T05:32:46Z",
       "user": "BoyuanFeng",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3551937425,
+      "number": 15387,
+      "title": "Executorch with QNN AI Engine Backend",
+      "url": "https://github.com/pytorch/executorch/issues/15387",
+      "created_at": "2025-10-25T06:29:41Z",
+      "user": "nambn007",
+      "labels": [
+        "partner: qualcomm",
+        "module: qnn"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -33784,6 +33831,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3661197919,
+      "number": 169033,
+      "title": "Pytorch CI is partially paused for the time being (updated 11/27)",
+      "url": "https://github.com/pytorch/pytorch/issues/169033",
+      "created_at": "2025-11-25T01:57:30Z",
+      "user": "malfet",
+      "labels": [
+        "ci: sev"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3661254621,
       "number": 2939,
@@ -39427,8 +39489,134 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3678882989,
+      "number": 59081,
+      "title": "[Doc][Core] Add Documentation for Zero-Copy Tensor Serialization",
+      "url": "https://github.com/ray-project/ray/issues/59081",
+      "created_at": "2025-12-01T01:55:46Z",
+      "user": "KaisennHu",
+      "labels": [
+        "triage",
+        "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3678915337,
+      "number": 169275,
+      "title": "GLOO  distribute train  can not find each ranks",
+      "url": "https://github.com/pytorch/pytorch/issues/169275",
+      "created_at": "2025-12-01T02:14:13Z",
+      "user": "mullerhai",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3678937233,
+      "number": 59082,
+      "title": "[Data] ParquetDatasink calls create_dir redundantly in write_dataset, causing potential issues",
+      "url": "https://github.com/ray-project/ray/issues/59082",
+      "created_at": "2025-12-01T02:24:56Z",
+      "user": "wengzhenjie",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3678938470,
+      "number": 19122,
+      "title": "[BUG] Maintain MLflow v2.* for critical security issues",
+      "url": "https://github.com/mlflow/mlflow/issues/19122",
+      "created_at": "2025-12-01T02:25:27Z",
+      "user": "hakan-77",
+      "labels": [
+        "bug",
+        "area/tracking"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3678969877,
+      "number": 59083,
+      "title": "How to automatically run ray serve start with custom host/port after RayCluster head pod starts?",
+      "url": "https://github.com/ray-project/ray/issues/59083",
+      "created_at": "2025-12-01T02:40:06Z",
+      "user": "tingjun-cs",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3678970584,
+      "number": 169276,
+      "title": "torch.fx.symbolic_trace to_folder generates syntax naming problem with torch.nn.Sequential",
+      "url": "https://github.com/pytorch/pytorch/issues/169276",
+      "created_at": "2025-12-01T02:40:28Z",
+      "user": "Marius-Juston",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3678971330,
+      "number": 17289,
+      "title": "Add \"glm\" in \"model_prices_and_context_window.json\"",
+      "url": "https://github.com/BerriAI/litellm/issues/17289",
+      "created_at": "2025-12-01T02:40:46Z",
+      "user": "ms6rb",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3678985925,
+      "number": 12760,
+      "title": "`StateManager`, `Hook`, `State`: missing context setting (cond or uncond) in pipelines",
+      "url": "https://github.com/huggingface/diffusers/issues/12760",
+      "created_at": "2025-12-01T02:48:37Z",
+      "user": "toilaluan",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3679005280,
+      "number": 169277,
+      "title": "[Accelerator] Hardware native support versus Software simulated support for Device Capabilties",
+      "url": "https://github.com/pytorch/pytorch/issues/169277",
+      "created_at": "2025-12-01T02:59:33Z",
+      "user": "can-gaa-hou",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T01:23:26Z",
-  "total_count": 2671
+  "last_updated": "2025-12-01T03:23:22Z",
+  "total_count": 2684
 }
