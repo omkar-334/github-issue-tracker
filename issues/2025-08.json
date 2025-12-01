@@ -82,6 +82,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3285644973,
+    "number": 13220,
+    "title": "[Bug]: OSError: [Errno 24] Too many open files",
+    "url": "https://github.com/BerriAI/litellm/issues/13220",
+    "created_at": "2025-08-02T06:00:48Z",
+    "user": "vlerenc",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3285719107,
     "number": 21544,
@@ -2107,6 +2123,24 @@
     "user": "jacopotagliabue",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3361858351,
+    "number": 14025,
+    "title": "[Feature]: Add Qwen as a provider + support tiered pricing model.",
+    "url": "https://github.com/BerriAI/litellm/issues/14025",
+    "created_at": "2025-08-28T05:31:08Z",
+    "user": "TeddyAmkie",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise",
+      "P1"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

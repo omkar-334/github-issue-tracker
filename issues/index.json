@@ -1,38 +1,6 @@
 {
   "issues": [
     {
-      "repo": "facebookresearch/fairseq",
-      "id": 2707391757,
-      "number": 5568,
-      "title": "Questions about the data used when training Hubert",
-      "url": "https://github.com/facebookresearch/fairseq/issues/5568",
-      "created_at": "2024-11-30T14:06:55Z",
-      "user": "ghost",
-      "labels": [
-        "question",
-        "needs triage"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "facebookresearch/fairseq",
-      "id": 2708116437,
-      "number": 5569,
-      "title": "Serbian checkpoint not found",
-      "url": "https://github.com/facebookresearch/fairseq/issues/5569",
-      "created_at": "2024-11-30T22:10:58Z",
-      "user": "gamisn",
-      "labels": [
-        "question",
-        "needs triage"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "keras-team/keras-tuner",
       "id": 2711387277,
       "number": 1031,
@@ -7865,6 +7833,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3165319338,
+      "number": 11951,
+      "title": "[Bug]: Custom Root Path - Admin UI login failing with http status code- 303 see other",
+      "url": "https://github.com/BerriAI/litellm/issues/11951",
+      "created_at": "2025-06-21T18:38:55Z",
+      "user": "thedevd",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3165329524,
       "number": 6981,
@@ -11523,6 +11507,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3285644973,
+      "number": 13220,
+      "title": "[Bug]: OSError: [Errno 24] Too many open files",
+      "url": "https://github.com/BerriAI/litellm/issues/13220",
+      "created_at": "2025-08-02T06:00:48Z",
+      "user": "vlerenc",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3285719107,
       "number": 21544,
@@ -13554,6 +13554,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3361858351,
+      "number": 14025,
+      "title": "[Feature]: Add Qwen as a provider + support tiered pricing model.",
+      "url": "https://github.com/BerriAI/litellm/issues/14025",
+      "created_at": "2025-08-28T05:31:08Z",
+      "user": "TeddyAmkie",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3362167543,
       "number": 9197,
@@ -13969,6 +13987,40 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3371930030,
+      "number": 14128,
+      "title": "[Bug]: Using codex cli and changing models causes Invalid content type: <class 'NoneType'>.",
+      "url": "https://github.com/BerriAI/litellm/issues/14128",
+      "created_at": "2025-09-01T09:21:43Z",
+      "user": "ilkerhk",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3372140622,
+      "number": 14129,
+      "title": "[Bug]: vertex ai claude opus 4.1 output token wrong parameter",
+      "url": "https://github.com/BerriAI/litellm/issues/14129",
+      "created_at": "2025-09-01T10:26:23Z",
+      "user": "jguokion",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3372344873,
       "number": 2599,
@@ -13984,6 +14036,41 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3372687106,
+      "number": 14137,
+      "title": "[Bug]: OpenRouter-style `reasoning` breaks after running an “OpenAI” model pointed at OpenRouter; requires proxy restart",
+      "url": "https://github.com/BerriAI/litellm/issues/14137",
+      "created_at": "2025-09-01T13:23:06Z",
+      "user": "evilPaprika",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3373309706,
+      "number": 14142,
+      "title": "[Feature]: Improve Arize integration",
+      "url": "https://github.com/BerriAI/litellm/issues/14142",
+      "created_at": "2025-09-01T16:49:51Z",
+      "user": "berri-teddy",
+      "labels": [
+        "enhancement",
+        "stale",
+        "P1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3373385923,
       "number": 2600,
@@ -13993,6 +14080,21 @@
       "user": "chensterman",
       "labels": [
         "openapi"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3373644256,
+      "number": 14150,
+      "title": "Add \"groq/meta-llama/llama-guard-4-12b\" in \"model_prices_and_context_window.json\"",
+      "url": "https://github.com/BerriAI/litellm/issues/14150",
+      "created_at": "2025-09-01T19:52:16Z",
+      "user": "ogencoglu",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -20095,6 +20197,37 @@
       "url": "https://github.com/huggingface/smolagents/issues/1816",
       "created_at": "2025-10-14T05:34:34Z",
       "user": "AhnJoonSung",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3512783057,
+      "number": 15526,
+      "title": "[Bug]: Litellm Proxy availability concerns. Cascading failures during high load to providers",
+      "url": "https://github.com/BerriAI/litellm/issues/15526",
+      "created_at": "2025-10-14T07:52:45Z",
+      "user": "bjornjee",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3513926815,
+      "number": 15536,
+      "title": "[Bug]: DB connection issue even after the requests are completed after a load test",
+      "url": "https://github.com/BerriAI/litellm/issues/15536",
+      "created_at": "2025-10-14T13:22:22Z",
+      "user": "jaswanth8888",
       "labels": [
         "bug"
       ],
@@ -39250,8 +39383,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3678749265,
+      "number": 24087,
+      "title": "ENH: Random Symplectic Unitariy matrices",
+      "url": "https://github.com/scipy/scipy/issues/24087",
+      "created_at": "2025-12-01T00:42:08Z",
+      "user": "nquesada",
+      "labels": [
+        "scipy.stats",
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/tokenizers",
+      "id": 3678757182,
+      "number": 1902,
+      "title": "Guide: Compiling `tokenizers` on Android/Termux",
+      "url": "https://github.com/huggingface/tokenizers/issues/1902",
+      "created_at": "2025-12-01T00:46:42Z",
+      "user": "Manamama-Gemini-Cloud-AI-01",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3678788489,
+      "number": 42499,
+      "title": "Automatic Speech Recognition pipline raises error when torchcodec is installed but not valid",
+      "url": "https://github.com/huggingface/transformers/issues/42499",
+      "created_at": "2025-12-01T01:06:36Z",
+      "user": "litagin02",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-11-30T23:37:44Z",
-  "total_count": 2660
+  "last_updated": "2025-12-01T01:23:26Z",
+  "total_count": 2671
 }

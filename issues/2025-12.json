@@ -1,0 +1,46 @@
+[
+  {
+    "repo": "scipy/scipy",
+    "id": 3678749265,
+    "number": 24087,
+    "title": "ENH: Random Symplectic Unitariy matrices",
+    "url": "https://github.com/scipy/scipy/issues/24087",
+    "created_at": "2025-12-01T00:42:08Z",
+    "user": "nquesada",
+    "labels": [
+      "scipy.stats",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3678757182,
+    "number": 1902,
+    "title": "Guide: Compiling `tokenizers` on Android/Termux",
+    "url": "https://github.com/huggingface/tokenizers/issues/1902",
+    "created_at": "2025-12-01T00:46:42Z",
+    "user": "Manamama-Gemini-Cloud-AI-01",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3678788489,
+    "number": 42499,
+    "title": "Automatic Speech Recognition pipline raises error when torchcodec is installed but not valid",
+    "url": "https://github.com/huggingface/transformers/issues/42499",
+    "created_at": "2025-12-01T01:06:36Z",
+    "user": "litagin02",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]

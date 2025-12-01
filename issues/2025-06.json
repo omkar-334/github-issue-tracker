@@ -1360,6 +1360,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3165319338,
+    "number": 11951,
+    "title": "[Bug]: Custom Root Path - Admin UI login failing with http status code- 303 see other",
+    "url": "https://github.com/BerriAI/litellm/issues/11951",
+    "created_at": "2025-06-21T18:38:55Z",
+    "user": "thedevd",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3165329524,
     "number": 6981,

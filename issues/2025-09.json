@@ -32,6 +32,40 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3371930030,
+    "number": 14128,
+    "title": "[Bug]: Using codex cli and changing models causes Invalid content type: <class 'NoneType'>.",
+    "url": "https://github.com/BerriAI/litellm/issues/14128",
+    "created_at": "2025-09-01T09:21:43Z",
+    "user": "ilkerhk",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3372140622,
+    "number": 14129,
+    "title": "[Bug]: vertex ai claude opus 4.1 output token wrong parameter",
+    "url": "https://github.com/BerriAI/litellm/issues/14129",
+    "created_at": "2025-09-01T10:26:23Z",
+    "user": "jguokion",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3372344873,
     "number": 2599,
@@ -47,6 +81,41 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3372687106,
+    "number": 14137,
+    "title": "[Bug]: OpenRouter-style `reasoning` breaks after running an “OpenAI” model pointed at OpenRouter; requires proxy restart",
+    "url": "https://github.com/BerriAI/litellm/issues/14137",
+    "created_at": "2025-09-01T13:23:06Z",
+    "user": "evilPaprika",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3373309706,
+    "number": 14142,
+    "title": "[Feature]: Improve Arize integration",
+    "url": "https://github.com/BerriAI/litellm/issues/14142",
+    "created_at": "2025-09-01T16:49:51Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "stale",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3373385923,
     "number": 2600,
@@ -56,6 +125,21 @@
     "user": "chensterman",
     "labels": [
       "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3373644256,
+    "number": 14150,
+    "title": "Add \"groq/meta-llama/llama-guard-4-12b\" in \"model_prices_and_context_window.json\"",
+    "url": "https://github.com/BerriAI/litellm/issues/14150",
+    "created_at": "2025-09-01T19:52:16Z",
+    "user": "ogencoglu",
+    "labels": [
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
