@@ -159,6 +159,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/ao",
+    "id": 3375688762,
+    "number": 2919,
+    "title": "torchao release compatibility table",
+    "url": "https://github.com/pytorch/ao/issues/2919",
+    "created_at": "2025-09-02T11:51:10Z",
+    "user": "vkuzo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3377047249,
     "number": 5338,
