@@ -314,5 +314,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3679973059,
+    "number": 17295,
+    "title": "[Bug]: UI - the team expenses are not fully shown when the displaying data more than 7 days",
+    "url": "https://github.com/BerriAI/litellm/issues/17295",
+    "created_at": "2025-12-01T09:00:41Z",
+    "user": "wanyinglong",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3680010792,
+    "number": 3661,
+    "title": "[Feature]How to save the training logs？",
+    "url": "https://github.com/unslothai/unsloth/issues/3661",
+    "created_at": "2025-12-01T09:10:36Z",
+    "user": "ATRI-Star",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

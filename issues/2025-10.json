@@ -2805,6 +2805,22 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3519485885,
+    "number": 33504,
+    "title": "create_agent Does Not Handle invalid_tool_calls from JSON Parsing Errors (langchain alpha v1)",
+    "url": "https://github.com/langchain-ai/langchain/issues/33504",
+    "created_at": "2025-10-15T20:34:45Z",
+    "user": "cladden",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3519634905,
     "number": 1020,
