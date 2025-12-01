@@ -39718,8 +39718,25 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3679301993,
+      "number": 24088,
+      "title": "BUG: _lib: ccallback fails inside _import_cffi with AttributeError when used concurrently",
+      "url": "https://github.com/scipy/scipy/issues/24088",
+      "created_at": "2025-12-01T05:27:52Z",
+      "user": "nickodell",
+      "labels": [
+        "defect",
+        "scipy._lib",
+        "free-threading"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T05:25:16Z",
-  "total_count": 2691
+  "last_updated": "2025-12-01T05:48:46Z",
+  "total_count": 2692
 }
