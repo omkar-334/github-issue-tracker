@@ -34698,6 +34698,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3660106891,
+      "number": 168995,
+      "title": "MXFP8 + torch.compile error: NotImplementedError: make_reindexer NYI on DtypeView",
+      "url": "https://github.com/pytorch/pytorch/issues/168995",
+      "created_at": "2025-11-24T18:44:27Z",
+      "user": "danielvegamyhre",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3660114035,
       "number": 168997,
       "title": "[Umbrella issue] Deployment of index updates to download.pytorch.org - Switch dependencies that are on pypi to utilize pypi's CDN",
@@ -34832,6 +34849,23 @@
       "user": "ligz08",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3660610325,
+      "number": 169011,
+      "title": "torch.compile Assertion failure in efficient_conv_bn_eval_graph_transform_inlined when compiling FX graph with F.batch_norm (len(args)==3)",
+      "url": "https://github.com/pytorch/pytorch/issues/169011",
+      "created_at": "2025-11-24T21:35:22Z",
+      "user": "bi6c",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -35045,6 +35079,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3661999810,
+      "number": 169050,
+      "title": "[Graph Partition] [Inductor] UnboundLocalError: cannot access local variable 'buf271' where it is not associated with a value",
+      "url": "https://github.com/pytorch/pytorch/issues/169050",
+      "created_at": "2025-11-25T08:29:02Z",
+      "user": "wmhst7",
+      "labels": [
+        "triaged",
+        "module: cuda graphs",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3662083211,
       "number": 42381,
@@ -35241,6 +35293,24 @@
         "langchain",
         "cli",
         "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3663325586,
+      "number": 169060,
+      "title": "flex_attention warn_once leads to non-deterministic Dynamo graph break bugs in CI",
+      "url": "https://github.com/pytorch/pytorch/issues/169060",
+      "created_at": "2025-11-25T14:34:16Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: flex attention"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -35734,6 +35804,23 @@
       "labels": [
         "bug",
         "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3665618661,
+      "number": 169106,
+      "title": "Why is fusion restricted here in dynamic mode?",
+      "url": "https://github.com/pytorch/pytorch/issues/169106",
+      "created_at": "2025-11-26T03:56:02Z",
+      "user": "Jin-TaoZhang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41703,8 +41790,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3683144453,
+      "number": 9105,
+      "title": "Dependency skew",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9105",
+      "created_at": "2025-12-01T22:34:13Z",
+      "user": "claird",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3683148945,
+      "number": 17329,
+      "title": "[Bug]: Router broadcasts requests to ALL configured models instead of single requested model (38x amplification   bug)",
+      "url": "https://github.com/BerriAI/litellm/issues/17329",
+      "created_at": "2025-12-01T22:36:03Z",
+      "user": "joehays",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T22:14:41Z",
-  "total_count": 2815
+  "last_updated": "2025-12-01T22:42:43Z",
+  "total_count": 2822
 }

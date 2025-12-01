@@ -1100,5 +1100,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3683144453,
+    "number": 9105,
+    "title": "Dependency skew",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9105",
+    "created_at": "2025-12-01T22:34:13Z",
+    "user": "claird",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3683148945,
+    "number": 17329,
+    "title": "[Bug]: Router broadcasts requests to ALL configured models instead of single requested model (38x amplification   bug)",
+    "url": "https://github.com/BerriAI/litellm/issues/17329",
+    "created_at": "2025-12-01T22:36:03Z",
+    "user": "joehays",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
