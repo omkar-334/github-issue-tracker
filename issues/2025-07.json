@@ -2395,6 +2395,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3258399515,
+    "number": 159013,
+    "title": "[RFC] Support slicing of submesh and more flexible operations to one device mesh such as reshape/split, etc.",
+    "url": "https://github.com/pytorch/pytorch/issues/159013",
+    "created_at": "2025-07-24T03:55:01Z",
+    "user": "fduwjj",
+    "labels": [
+      "oncall: distributed",
+      "triaged",
+      "module: DeviceMesh"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3258833117,
     "number": 868,

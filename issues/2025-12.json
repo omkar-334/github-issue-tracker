@@ -1128,5 +1128,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3683171704,
+    "number": 13172,
+    "title": "Add more metadata to ExceptionElement to help debug issues",
+    "url": "https://github.com/streamlit/streamlit/issues/13172",
+    "created_at": "2025-12-01T22:44:48Z",
+    "user": "sfc-gh-bnisco",
+    "labels": [
+      "type:enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3683189266,
+    "number": 3291,
+    "title": "`train/total_tokens` increases from eval and resets when resuming from checkpoint",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3291",
+    "created_at": "2025-12-01T22:51:21Z",
+    "user": "xzuyn",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3683191621,
+    "number": 9145,
+    "title": "[BUG] `ARDL.predict()` Fails with Single-Value ForecastingHorizon ≥ 3",
+    "url": "https://github.com/sktime/sktime/issues/9145",
+    "created_at": "2025-12-01T22:52:15Z",
+    "user": "EmanAbdelhaleem",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
