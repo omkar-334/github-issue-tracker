@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2053676324,
-    "number": 56596,
-    "title": "DEPR: List of deprecations to be removed in 4.0",
-    "url": "https://github.com/pandas-dev/pandas/issues/56596",
-    "created_at": "2023-12-22T09:58:32Z",
-    "user": "phofl",
-    "labels": [
-      "Deprecate"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
