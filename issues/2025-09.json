@@ -1015,6 +1015,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3401570058,
+    "number": 162574,
+    "title": "Add warning about GPU/cuDNN incompatibility caused by dropped support for SM<7.5 since cuDNN 9.11.0",
+    "url": "https://github.com/pytorch/pytorch/issues/162574",
+    "created_at": "2025-09-10T08:56:00Z",
+    "user": "akdanz",
+    "labels": [
+      "needs reproduction",
+      "module: binaries",
+      "module: cuda",
+      "triaged",
+      "module: regression",
+      "actionable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3401799485,
     "number": 7760,

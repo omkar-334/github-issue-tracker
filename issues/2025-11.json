@@ -6790,6 +6790,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3644787256,
+    "number": 168197,
+    "title": "DISABLED test_ordered_distribute_all_combination (__main__.DistributeWithDeviceOrderTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/168197",
+    "created_at": "2025-11-19T23:32:09Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3644826889,
     "number": 30767,
@@ -8795,6 +8813,109 @@
     "user": "TheWelcomer",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659268443,
+    "number": 168972,
+    "title": "Aarch64 unit test failures - test/test_cpu_repro.py CPUReproTests.test_float32_to_uint8",
+    "url": "https://github.com/pytorch/pytorch/issues/168972",
+    "created_at": "2025-11-24T14:54:38Z",
+    "user": "Anallear",
+    "labels": [
+      "triaged",
+      "module: arm",
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659296967,
+    "number": 168973,
+    "title": "DebugMode sample code is unrealistic for real world training use case",
+    "url": "https://github.com/pytorch/pytorch/issues/168973",
+    "created_at": "2025-11-24T15:01:23Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659319311,
+    "number": 168974,
+    "title": "Fuzzy mode for DebugMode.check_hash_mismatches",
+    "url": "https://github.com/pytorch/pytorch/issues/168974",
+    "created_at": "2025-11-24T15:07:28Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659334976,
+    "number": 168975,
+    "title": "No way to dump DebugMode hashes to file for further processing / diffing",
+    "url": "https://github.com/pytorch/pytorch/issues/168975",
+    "created_at": "2025-11-24T15:11:45Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659361570,
+    "number": 168976,
+    "title": "DebugMode doesn't track input/output relationships",
+    "url": "https://github.com/pytorch/pytorch/issues/168976",
+    "created_at": "2025-11-24T15:18:32Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3659368779,
+    "number": 168977,
+    "title": "Easier way to correlate DebugMode with FX graph",
+    "url": "https://github.com/pytorch/pytorch/issues/168977",
+    "created_at": "2025-11-24T15:19:51Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

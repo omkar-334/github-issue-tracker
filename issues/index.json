@@ -15237,6 +15237,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3401570058,
+      "number": 162574,
+      "title": "Add warning about GPU/cuDNN incompatibility caused by dropped support for SM<7.5 since cuDNN 9.11.0",
+      "url": "https://github.com/pytorch/pytorch/issues/162574",
+      "created_at": "2025-09-10T08:56:00Z",
+      "user": "akdanz",
+      "labels": [
+        "needs reproduction",
+        "module: binaries",
+        "module: cuda",
+        "triaged",
+        "module: regression",
+        "actionable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3401799485,
       "number": 7760,
@@ -21264,6 +21284,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3523253339,
+      "number": 165671,
+      "title": "DISABLED test_truediv_base_not_bitwise_equivalent (__main__.CudaReproTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/165671",
+      "created_at": "2025-10-16T19:37:14Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3523520020,
       "number": 1900,
@@ -21808,6 +21846,25 @@
       "created_at": "2025-10-21T04:01:45Z",
       "user": "qiu-xiao-0330",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3534828469,
+      "number": 165966,
+      "title": "DISABLED test_triu_tril_large_matrix_64bit_cuda (__main__.TestLinalgCUDA)",
+      "url": "https://github.com/pytorch/pytorch/issues/165966",
+      "created_at": "2025-10-21T04:29:45Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: linear algebra",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -32119,6 +32176,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3644787256,
+      "number": 168197,
+      "title": "DISABLED test_ordered_distribute_all_combination (__main__.DistributeWithDeviceOrderTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/168197",
+      "created_at": "2025-11-19T23:32:09Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3644826889,
       "number": 30767,
@@ -34124,6 +34199,109 @@
       "user": "TheWelcomer",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659268443,
+      "number": 168972,
+      "title": "Aarch64 unit test failures - test/test_cpu_repro.py CPUReproTests.test_float32_to_uint8",
+      "url": "https://github.com/pytorch/pytorch/issues/168972",
+      "created_at": "2025-11-24T14:54:38Z",
+      "user": "Anallear",
+      "labels": [
+        "triaged",
+        "module: arm",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659296967,
+      "number": 168973,
+      "title": "DebugMode sample code is unrealistic for real world training use case",
+      "url": "https://github.com/pytorch/pytorch/issues/168973",
+      "created_at": "2025-11-24T15:01:23Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659319311,
+      "number": 168974,
+      "title": "Fuzzy mode for DebugMode.check_hash_mismatches",
+      "url": "https://github.com/pytorch/pytorch/issues/168974",
+      "created_at": "2025-11-24T15:07:28Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659334976,
+      "number": 168975,
+      "title": "No way to dump DebugMode hashes to file for further processing / diffing",
+      "url": "https://github.com/pytorch/pytorch/issues/168975",
+      "created_at": "2025-11-24T15:11:45Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659361570,
+      "number": 168976,
+      "title": "DebugMode doesn't track input/output relationships",
+      "url": "https://github.com/pytorch/pytorch/issues/168976",
+      "created_at": "2025-11-24T15:18:32Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3659368779,
+      "number": 168977,
+      "title": "Easier way to correlate DebugMode with FX graph",
+      "url": "https://github.com/pytorch/pytorch/issues/168977",
+      "created_at": "2025-11-24T15:19:51Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41011,8 +41189,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3682274282,
+      "number": 169298,
+      "title": "UNSTABLE vllm-test / ci-vllm-test / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169298",
+      "created_at": "2025-12-01T18:19:53Z",
+      "user": "huydhn",
+      "labels": [
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T17:48:40Z",
-  "total_count": 2772
+  "last_updated": "2025-12-01T18:26:11Z",
+  "total_count": 2783
 }
