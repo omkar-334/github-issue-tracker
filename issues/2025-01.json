@@ -247,6 +247,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/diffusers",
+    "id": 2778372197,
+    "number": 10512,
+    "title": "[LoRA] Quanto Flux LoRA can't load",
+    "url": "https://github.com/huggingface/diffusers/issues/10512",
+    "created_at": "2025-01-09T17:22:02Z",
+    "user": "Mino1289",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2778630982,
     "number": 3870,
@@ -462,6 +477,27 @@
     "user": "jonnyGitHub57",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2797945908,
+    "number": 145192,
+    "title": "DISABLED test_mixed_mm (__main__.TestPatternMatcher)",
+    "url": "https://github.com/pytorch/pytorch/issues/145192",
+    "created_at": "2025-01-20T01:00:07Z",
+    "user": "pytorch-bot[bot]",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

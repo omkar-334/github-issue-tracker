@@ -895,6 +895,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 2778372197,
+      "number": 10512,
+      "title": "[LoRA] Quanto Flux LoRA can't load",
+      "url": "https://github.com/huggingface/diffusers/issues/10512",
+      "created_at": "2025-01-09T17:22:02Z",
+      "user": "Mino1289",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 2778630982,
       "number": 3870,
@@ -1110,6 +1125,27 @@
       "user": "jonnyGitHub57",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 2797945908,
+      "number": 145192,
+      "title": "DISABLED test_mixed_mm (__main__.TestPatternMatcher)",
+      "url": "https://github.com/pytorch/pytorch/issues/145192",
+      "created_at": "2025-01-20T01:00:07Z",
+      "user": "pytorch-bot[bot]",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: flaky-tests",
+        "skipped",
+        "oncall: pt2",
+        "module: inductor",
+        "rocm-skipped-tests"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -2414,6 +2450,21 @@
       "created_at": "2025-03-08T14:33:56Z",
       "user": "HairlessVillager",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "id": 2905610405,
+      "number": 13471,
+      "title": "Basic auth `realm` is REQUIRED but handled as optional",
+      "url": "https://github.com/fastapi/fastapi/issues/13471",
+      "created_at": "2025-03-09T18:56:54Z",
+      "user": "tvogel",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -14333,6 +14384,28 @@
       "created_at": "2025-09-03T21:15:22Z",
       "user": "nadshe",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3381746758,
+      "number": 162121,
+      "title": "DISABLED MULTIPLE There are multiple flaky tests in inductor/test_max_autotune.py",
+      "url": "https://github.com/pytorch/pytorch/issues/162121",
+      "created_at": "2025-09-04T01:01:50Z",
+      "user": "pytorch-bot[bot]",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: flaky-tests",
+        "skipped",
+        "oncall: pt2",
+        "module: inductor",
+        "aggregate flaky test issue",
+        "rocm-skipped-tests"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -26330,6 +26403,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3592734972,
+      "number": 16284,
+      "title": "[Bug]: a library shouldn't configure others' loggers",
+      "url": "https://github.com/BerriAI/litellm/issues/16284",
+      "created_at": "2025-11-05T20:45:01Z",
+      "user": "mmv",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3592822207,
       "number": 7289,
@@ -29474,6 +29562,22 @@
       "labels": [
         "feature request",
         "xai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3624464049,
+      "number": 16625,
+      "title": "[Bug]404 Error When Accessing gpt-realtime-mini WebSocket Endpoint",
+      "url": "https://github.com/BerriAI/litellm/issues/16625",
+      "created_at": "2025-11-14T08:04:09Z",
+      "user": "harshadchha",
+      "labels": [
+        "bug",
+        "llm translation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -34167,6 +34271,22 @@
         "core",
         "langchain",
         "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3661432855,
+      "number": 17066,
+      "title": "[Feature]: claude-sonnet-4-5 model under azure_ai",
+      "url": "https://github.com/BerriAI/litellm/issues/17066",
+      "created_at": "2025-11-25T04:15:52Z",
+      "user": "AshRRao",
+      "labels": [
+        "enhancement",
+        "llm translation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -40270,8 +40390,78 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3680825724,
+      "number": 2093,
+      "title": "[Possible PR discuss] Automatic Pipeline Parallel Partitioning Considering Embedding Layers",
+      "url": "https://github.com/pytorch/torchtitan/issues/2093",
+      "created_at": "2025-12-01T12:40:17Z",
+      "user": "McmillanTAC",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3680870356,
+      "number": 30341,
+      "title": "BUG: ndarray.__dlpack__ should raise `BufferError` instead of `ValueError` on unsupported `dl_device` values",
+      "url": "https://github.com/numpy/numpy/issues/30341",
+      "created_at": "2025-12-01T12:50:13Z",
+      "user": "ogrisel",
+      "labels": [
+        "00 - Bug",
+        "40 - array API standard"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3680871098,
+      "number": 169289,
+      "title": "TypeError: bad operand type for unary ~: 'SymBool'",
+      "url": "https://github.com/pytorch/pytorch/issues/169289",
+      "created_at": "2025-12-01T12:50:25Z",
+      "user": "peaceorwell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3680940836,
+      "number": 17304,
+      "title": "[Bug]: CachedContent can not be used with GenerateContent request setting system_instruction, tools or tool_config. Proposed fix: move those values to CachedContent from GenerateContent request",
+      "url": "https://github.com/BerriAI/litellm/issues/17304",
+      "created_at": "2025-12-01T13:08:40Z",
+      "user": "ytongshang",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3680963170,
+      "number": 169290,
+      "title": "[MPS][Inductor] dynamic=True causes SyntaxError in Metal codegen for LayerNorm (Variable length array & Undeclared 'Min')",
+      "url": "https://github.com/pytorch/pytorch/issues/169290",
+      "created_at": "2025-12-01T13:13:52Z",
+      "user": "lingebeng",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T12:33:05Z",
-  "total_count": 2726
+  "last_updated": "2025-12-01T13:32:57Z",
+  "total_count": 2738
 }

@@ -229,6 +229,28 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3381746758,
+    "number": 162121,
+    "title": "DISABLED MULTIPLE There are multiple flaky tests in inductor/test_max_autotune.py",
+    "url": "https://github.com/pytorch/pytorch/issues/162121",
+    "created_at": "2025-09-04T01:01:50Z",
+    "user": "pytorch-bot[bot]",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "oncall: pt2",
+      "module: inductor",
+      "aggregate flaky test issue",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3381831487,
     "number": 7753,

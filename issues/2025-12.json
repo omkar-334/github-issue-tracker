@@ -543,5 +543,75 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3680825724,
+    "number": 2093,
+    "title": "[Possible PR discuss] Automatic Pipeline Parallel Partitioning Considering Embedding Layers",
+    "url": "https://github.com/pytorch/torchtitan/issues/2093",
+    "created_at": "2025-12-01T12:40:17Z",
+    "user": "McmillanTAC",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3680870356,
+    "number": 30341,
+    "title": "BUG: ndarray.__dlpack__ should raise `BufferError` instead of `ValueError` on unsupported `dl_device` values",
+    "url": "https://github.com/numpy/numpy/issues/30341",
+    "created_at": "2025-12-01T12:50:13Z",
+    "user": "ogrisel",
+    "labels": [
+      "00 - Bug",
+      "40 - array API standard"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3680871098,
+    "number": 169289,
+    "title": "TypeError: bad operand type for unary ~: 'SymBool'",
+    "url": "https://github.com/pytorch/pytorch/issues/169289",
+    "created_at": "2025-12-01T12:50:25Z",
+    "user": "peaceorwell",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3680940836,
+    "number": 17304,
+    "title": "[Bug]: CachedContent can not be used with GenerateContent request setting system_instruction, tools or tool_config. Proposed fix: move those values to CachedContent from GenerateContent request",
+    "url": "https://github.com/BerriAI/litellm/issues/17304",
+    "created_at": "2025-12-01T13:08:40Z",
+    "user": "ytongshang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3680963170,
+    "number": 169290,
+    "title": "[MPS][Inductor] dynamic=True causes SyntaxError in Metal codegen for LayerNorm (Variable length array & Undeclared 'Min')",
+    "url": "https://github.com/pytorch/pytorch/issues/169290",
+    "created_at": "2025-12-01T13:13:52Z",
+    "user": "lingebeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -1217,6 +1217,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3592734972,
+    "number": 16284,
+    "title": "[Bug]: a library shouldn't configure others' loggers",
+    "url": "https://github.com/BerriAI/litellm/issues/16284",
+    "created_at": "2025-11-05T20:45:01Z",
+    "user": "mmv",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3592822207,
     "number": 7289,
@@ -4361,6 +4376,22 @@
     "labels": [
       "feature request",
       "xai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3624464049,
+    "number": 16625,
+    "title": "[Bug]404 Error When Accessing gpt-realtime-mini WebSocket Endpoint",
+    "url": "https://github.com/BerriAI/litellm/issues/16625",
+    "created_at": "2025-11-14T08:04:09Z",
+    "user": "harshadchha",
+    "labels": [
+      "bug",
+      "llm translation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9054,6 +9085,22 @@
       "core",
       "langchain",
       "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3661432855,
+    "number": 17066,
+    "title": "[Feature]: claude-sonnet-4-5 model under azure_ai",
+    "url": "https://github.com/BerriAI/litellm/issues/17066",
+    "created_at": "2025-11-25T04:15:52Z",
+    "user": "AshRRao",
+    "labels": [
+      "enhancement",
+      "llm translation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
