@@ -3642,6 +3642,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3616398971,
+    "number": 167642,
+    "title": "XNNPack needs updating for arrch64 build failure",
+    "url": "https://github.com/pytorch/pytorch/issues/167642",
+    "created_at": "2025-11-12T12:44:45Z",
+    "user": "joshua-zivkovic",
+    "labels": [
+      "module: build",
+      "triaged",
+      "module: xnnpack",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3616433158,
     "number": 32697,

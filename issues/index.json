@@ -29143,6 +29143,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3616398971,
+      "number": 167642,
+      "title": "XNNPack needs updating for arrch64 build failure",
+      "url": "https://github.com/pytorch/pytorch/issues/167642",
+      "created_at": "2025-11-12T12:44:45Z",
+      "user": "joshua-zivkovic",
+      "labels": [
+        "module: build",
+        "triaged",
+        "module: xnnpack",
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 3616433158,
       "number": 32697,
@@ -41537,8 +41555,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3682909037,
+      "number": 169316,
+      "title": "TestFP8Lowering.test_main_loop_scaling fails on multiple devices",
+      "url": "https://github.com/pytorch/pytorch/issues/169316",
+      "created_at": "2025-12-01T21:18:46Z",
+      "user": "gderossi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3682924445,
+      "number": 169318,
+      "title": "[debug mode] disable debug mode temporarily",
+      "url": "https://github.com/pytorch/pytorch/issues/169318",
+      "created_at": "2025-12-01T21:23:24Z",
+      "user": "yushangdi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T21:14:36Z",
-  "total_count": 2804
+  "last_updated": "2025-12-01T21:36:29Z",
+  "total_count": 2807
 }
