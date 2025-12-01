@@ -613,5 +613,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3681125646,
+    "number": 3867,
+    "title": "I'm getting a \"AttributeError: 'Accelerator' object has no attribute '_cp_context'\" error when trying to fine-tune a model with TRL and accelerate using Context parallelism",
+    "url": "https://github.com/huggingface/accelerate/issues/3867",
+    "created_at": "2025-12-01T13:53:33Z",
+    "user": "Adam-Mazur",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3681130572,
+    "number": 13165,
+    "title": "Getting a websocket error",
+    "url": "https://github.com/streamlit/streamlit/issues/13165",
+    "created_at": "2025-12-01T13:54:40Z",
+    "user": "rohan223708",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3681203311,
+    "number": 34159,
+    "title": "ToolCallLimitMiddleware with end behavior makes State invalid",
+    "url": "https://github.com/langchain-ai/langchain/issues/34159",
+    "created_at": "2025-12-01T14:12:40Z",
+    "user": "filippopellizzari",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
