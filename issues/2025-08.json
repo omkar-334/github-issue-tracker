@@ -741,6 +741,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3304095658,
+    "number": 13419,
+    "title": "[Bug]: OpenAI gpt-5 not showing thinking outputs when using OpenWebUI",
+    "url": "https://github.com/BerriAI/litellm/issues/13419",
+    "created_at": "2025-08-08T13:39:12Z",
+    "user": "laitco",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3304673383,
     "number": 7732,
