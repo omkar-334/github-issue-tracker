@@ -15568,6 +15568,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3407287871,
+      "number": 40827,
+      "title": "[`Cache`] Proper support for Linear Attention (related) caches",
+      "url": "https://github.com/huggingface/transformers/issues/40827",
+      "created_at": "2025-09-11T16:31:11Z",
+      "user": "vasqu",
+      "labels": [
+        "for_v5?"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3407726698,
       "number": 30549,
@@ -22455,6 +22470,23 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3546526050,
+      "number": 58062,
+      "title": "[core][llm] Check failure, unexpected system state warning during batch llm inference (multi-node) test",
+      "url": "https://github.com/ray-project/ray/issues/58062",
+      "created_at": "2025-10-23T20:51:33Z",
+      "user": "nrghosh",
+      "labels": [
+        "bug",
+        "P0",
+        "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/ao",
       "id": 3546631765,
       "number": 3232,
@@ -22594,6 +22626,25 @@
       "labels": [
         "type:enhancement",
         "feature:st.container"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3547918130,
+      "number": 58080,
+      "title": "[Core] The inner objects contained in the object yielded by the streaming generator can encounter reference-count lost.",
+      "url": "https://github.com/ray-project/ray/issues/58080",
+      "created_at": "2025-10-24T06:51:29Z",
+      "user": "Catch-Bull",
+      "labels": [
+        "bug",
+        "P0",
+        "core",
+        "stability",
+        "community-backlog"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29920,6 +29971,24 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3626836364,
+      "number": 58645,
+      "title": "[Serve] `serve build` fails with RepresenterError when AutoscalingConfig is used",
+      "url": "https://github.com/ray-project/ray/issues/58645",
+      "created_at": "2025-11-14T19:12:16Z",
+      "user": "hiddentn",
+      "labels": [
+        "bug",
+        "serve",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3626858525,
       "number": 9271,
@@ -33163,6 +33232,25 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653504113,
+      "number": 168397,
+      "title": "[CI][CUDA][Flex Attention] Regression (Illegal Memory Access) with Flex Attention",
+      "url": "https://github.com/pytorch/pytorch/issues/168397",
+      "created_at": "2025-11-22T00:38:33Z",
+      "user": "nWEIdia",
+      "labels": [
+        "high priority",
+        "triage review",
+        "module: regression",
+        "oncall: pt2",
+        "module: flex attention"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653545431,
       "number": 168583,
       "title": "TestModule: test/inductor/test_custom_lowering.py::TestCustomLowering",
@@ -33919,6 +34007,26 @@
       "labels": [
         "bug",
         "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3658717638,
+      "number": 168965,
+      "title": "max_autotuned BMM produces wrong result when multiple threads are used",
+      "url": "https://github.com/pytorch/pytorch/issues/168965",
+      "created_at": "2025-11-24T12:41:52Z",
+      "user": "mstebelev",
+      "labels": [
+        "triaged",
+        "module: correctness (silent)",
+        "oncall: pt2",
+        "oncall: export",
+        "oncall: cpu inductor",
+        "module: aotinductor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -40888,8 +40996,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3682053383,
+      "number": 42533,
+      "title": "gpt-oss is not working with latest main",
+      "url": "https://github.com/huggingface/transformers/issues/42533",
+      "created_at": "2025-12-01T17:26:09Z",
+      "user": "avihu111",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T17:18:23Z",
-  "total_count": 2765
+  "last_updated": "2025-12-01T17:48:40Z",
+  "total_count": 2772
 }

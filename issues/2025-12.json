@@ -822,5 +822,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3682053383,
+    "number": 42533,
+    "title": "gpt-oss is not working with latest main",
+    "url": "https://github.com/huggingface/transformers/issues/42533",
+    "created_at": "2025-12-01T17:26:09Z",
+    "user": "avihu111",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

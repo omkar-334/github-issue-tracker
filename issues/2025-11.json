@@ -4642,6 +4642,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3626836364,
+    "number": 58645,
+    "title": "[Serve] `serve build` fails with RepresenterError when AutoscalingConfig is used",
+    "url": "https://github.com/ray-project/ray/issues/58645",
+    "created_at": "2025-11-14T19:12:16Z",
+    "user": "hiddentn",
+    "labels": [
+      "bug",
+      "serve",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3626858525,
     "number": 9271,
@@ -7885,6 +7903,25 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653504113,
+    "number": 168397,
+    "title": "[CI][CUDA][Flex Attention] Regression (Illegal Memory Access) with Flex Attention",
+    "url": "https://github.com/pytorch/pytorch/issues/168397",
+    "created_at": "2025-11-22T00:38:33Z",
+    "user": "nWEIdia",
+    "labels": [
+      "high priority",
+      "triage review",
+      "module: regression",
+      "oncall: pt2",
+      "module: flex attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653545431,
     "number": 168583,
     "title": "TestModule: test/inductor/test_custom_lowering.py::TestCustomLowering",
@@ -8641,6 +8678,26 @@
     "labels": [
       "bug",
       "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3658717638,
+    "number": 168965,
+    "title": "max_autotuned BMM produces wrong result when multiple threads are used",
+    "url": "https://github.com/pytorch/pytorch/issues/168965",
+    "created_at": "2025-11-24T12:41:52Z",
+    "user": "mstebelev",
+    "labels": [
+      "triaged",
+      "module: correctness (silent)",
+      "oncall: pt2",
+      "oncall: export",
+      "oncall: cpu inductor",
+      "module: aotinductor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
