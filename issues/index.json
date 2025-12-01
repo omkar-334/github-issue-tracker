@@ -17774,6 +17774,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3465905709,
+      "number": 12661,
+      "title": "Configure Connection Error in the Streamlit UI",
+      "url": "https://github.com/streamlit/streamlit/issues/12661",
+      "created_at": "2025-09-29T17:21:45Z",
+      "user": "devagya-devansh-discovery",
+      "labels": [
+        "type:enhancement",
+        "feature:st.set_page_config"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3465971011,
       "number": 21700,
@@ -40019,6 +40035,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-01T09:48:48Z",
-  "total_count": 2710
+  "last_updated": "2025-12-01T10:20:02Z",
+  "total_count": 2711
 }
