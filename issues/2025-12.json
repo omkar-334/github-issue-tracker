@@ -183,5 +183,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3679231569,
+    "number": 30337,
+    "title": "ENH,DOC: Better implementation and documentation for `numpy.trapezoid`",
+    "url": "https://github.com/numpy/numpy/issues/30337",
+    "created_at": "2025-12-01T04:54:19Z",
+    "user": "MikhailRyazanov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3679266775,
+    "number": 34153,
+    "title": "Openai compatible models: \"reasoning\" block missing in AIMessageChunk, and AIMessage",
+    "url": "https://github.com/langchain-ai/langchain/issues/34153",
+    "created_at": "2025-12-01T05:11:47Z",
+    "user": "mkc-cho",
+    "labels": [
+      "langchain",
+      "feature request",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3679275801,
+    "number": 1890,
+    "title": "Question: how to use sever-side tools provided by Google Gemini or OpenAI GPT?",
+    "url": "https://github.com/huggingface/smolagents/issues/1890",
+    "created_at": "2025-12-01T05:16:01Z",
+    "user": "victorx-deckard",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
