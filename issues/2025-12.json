@@ -658,5 +658,51 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3681400227,
+    "number": 17309,
+    "title": "[Bug]: Azure's gpt-5.1 fails when reasoning_effort=\"none\" which is supported based on docs",
+    "url": "https://github.com/BerriAI/litellm/issues/17309",
+    "created_at": "2025-12-01T14:56:02Z",
+    "user": "mijalapenos",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3681428958,
+    "number": 169294,
+    "title": "Conv2d CPU performance 2-3x slower on macOS due to missing MKLDNN backend",
+    "url": "https://github.com/pytorch/pytorch/issues/169294",
+    "created_at": "2025-12-01T15:02:24Z",
+    "user": "SoumitraDeshpande11",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3681492163,
+    "number": 63242,
+    "title": "BUG: validation merge arguments on/left_on/right_on/left_index/right_index needs improvement",
+    "url": "https://github.com/pandas-dev/pandas/issues/63242",
+    "created_at": "2025-12-01T15:16:12Z",
+    "user": "tvanoeve",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

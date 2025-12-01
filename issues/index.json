@@ -2354,6 +2354,21 @@
       "archived": false
     },
     {
+      "repo": "numba/numba",
+      "id": 2894994435,
+      "number": 9957,
+      "title": "Python 3.14",
+      "url": "https://github.com/numba/numba/issues/9957",
+      "created_at": "2025-03-04T17:37:20Z",
+      "user": "sklam",
+      "labels": [
+        "feature_request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2895213321,
       "number": 2125,
@@ -40615,8 +40630,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3681400227,
+      "number": 17309,
+      "title": "[Bug]: Azure's gpt-5.1 fails when reasoning_effort=\"none\" which is supported based on docs",
+      "url": "https://github.com/BerriAI/litellm/issues/17309",
+      "created_at": "2025-12-01T14:56:02Z",
+      "user": "mijalapenos",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3681428958,
+      "number": 169294,
+      "title": "Conv2d CPU performance 2-3x slower on macOS due to missing MKLDNN backend",
+      "url": "https://github.com/pytorch/pytorch/issues/169294",
+      "created_at": "2025-12-01T15:02:24Z",
+      "user": "SoumitraDeshpande11",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3681492163,
+      "number": 63242,
+      "title": "BUG: validation merge arguments on/left_on/right_on/left_index/right_index needs improvement",
+      "url": "https://github.com/pandas-dev/pandas/issues/63242",
+      "created_at": "2025-12-01T15:16:12Z",
+      "user": "tvanoeve",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T14:47:37Z",
-  "total_count": 2747
+  "last_updated": "2025-12-01T15:17:49Z",
+  "total_count": 2751
 }
