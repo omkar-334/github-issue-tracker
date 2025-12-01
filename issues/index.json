@@ -12206,6 +12206,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3296278623,
+      "number": 13332,
+      "title": "[Bug]: When using Claude Code, and AWS Bedrock - it makes calls to claude-sonnet-4 even if not configured or requested.",
+      "url": "https://github.com/BerriAI/litellm/issues/13332",
+      "created_at": "2025-08-06T11:13:00Z",
+      "user": "haggai-backline",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3296566266,
       "number": 13860,
@@ -30192,6 +30207,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3626880163,
+      "number": 167861,
+      "title": "SimpleFSDP x CUDAGraph issue tracking",
+      "url": "https://github.com/pytorch/pytorch/issues/167861",
+      "created_at": "2025-11-14T19:25:07Z",
+      "user": "BoyuanFeng",
+      "labels": [
+        "triaged",
+        "module: cuda graphs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openml/openml-python",
       "id": 3627142777,
       "number": 1438,
@@ -41581,8 +41612,99 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3682994885,
+      "number": 169320,
+      "title": "[DTensor] A New Placement -- RaggedShard",
+      "url": "https://github.com/pytorch/pytorch/issues/169320",
+      "created_at": "2025-12-01T21:43:31Z",
+      "user": "asd123www",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3683009013,
+      "number": 33630,
+      "title": "jax.ad_checkpoint package does not appear in API docs",
+      "url": "https://github.com/jax-ml/jax/issues/33630",
+      "created_at": "2025-12-01T21:47:40Z",
+      "user": "shoyer",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3683048146,
+      "number": 59094,
+      "title": "[RLlib] Crash when aggregating rendered images (for logged videos; `env_rendering_and_recording.py`)",
+      "url": "https://github.com/ray-project/ray/issues/59094",
+      "created_at": "2025-12-01T22:01:05Z",
+      "user": "MatthewCWeston",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3683050701,
+      "number": 19144,
+      "title": "[BUG] tensorflow.autolog() fails with UNIQUE constraint when calling fit() multiple times in the same run",
+      "url": "https://github.com/mlflow/mlflow/issues/19144",
+      "created_at": "2025-12-01T22:01:54Z",
+      "user": "raphaeldallorto",
+      "labels": [
+        "bug",
+        "area/tracking"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3683064391,
+      "number": 17327,
+      "title": "[Bug]: update session events scheme openai realtime",
+      "url": "https://github.com/BerriAI/litellm/issues/17327",
+      "created_at": "2025-12-01T22:06:46Z",
+      "user": "mubashir1osmani",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3683080751,
+      "number": 30349,
+      "title": "BUG: numpy.einsum with ellipses has different behavior when optimize=True or False.",
+      "url": "https://github.com/numpy/numpy/issues/30349",
+      "created_at": "2025-12-01T22:11:50Z",
+      "user": "alexandrelaplante",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T21:36:29Z",
-  "total_count": 2807
+  "last_updated": "2025-12-01T22:14:41Z",
+  "total_count": 2815
 }

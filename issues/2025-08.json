@@ -541,6 +541,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3296278623,
+    "number": 13332,
+    "title": "[Bug]: When using Claude Code, and AWS Bedrock - it makes calls to claude-sonnet-4 even if not configured or requested.",
+    "url": "https://github.com/BerriAI/litellm/issues/13332",
+    "created_at": "2025-08-06T11:13:00Z",
+    "user": "haggai-backline",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 3296566266,
     "number": 13860,

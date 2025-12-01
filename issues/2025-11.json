@@ -4691,6 +4691,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3626880163,
+    "number": 167861,
+    "title": "SimpleFSDP x CUDAGraph issue tracking",
+    "url": "https://github.com/pytorch/pytorch/issues/167861",
+    "created_at": "2025-11-14T19:25:07Z",
+    "user": "BoyuanFeng",
+    "labels": [
+      "triaged",
+      "module: cuda graphs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openml/openml-python",
     "id": 3627142777,
     "number": 1438,
