@@ -793,6 +793,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2951333414,
+    "number": 150081,
+    "title": "strange error when distributed training",
+    "url": "https://github.com/pytorch/pytorch/issues/150081",
+    "created_at": "2025-03-27T02:58:10Z",
+    "user": "Pydataman",
+    "labels": [
+      "needs reproduction",
+      "oncall: distributed",
+      "triaged",
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2952390189,
     "number": 21097,

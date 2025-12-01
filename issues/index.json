@@ -2996,6 +2996,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2951333414,
+      "number": 150081,
+      "title": "strange error when distributed training",
+      "url": "https://github.com/pytorch/pytorch/issues/150081",
+      "created_at": "2025-03-27T02:58:10Z",
+      "user": "Pydataman",
+      "labels": [
+        "needs reproduction",
+        "oncall: distributed",
+        "triaged",
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 2952390189,
       "number": 21097,
@@ -40190,8 +40208,70 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3680600199,
+      "number": 63240,
+      "title": "`gs://` URLs support in `read_feather()`, `read_pickle()` docs",
+      "url": "https://github.com/pandas-dev/pandas/issues/63240",
+      "created_at": "2025-12-01T11:42:56Z",
+      "user": "rootkea",
+      "labels": [
+        "Docs",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3680607914,
+      "number": 17300,
+      "title": "Chore: python-multipart  ^0.0.18 is too restrictive (suggesting \">=0.0.18\")",
+      "url": "https://github.com/BerriAI/litellm/issues/17300",
+      "created_at": "2025-12-01T11:44:58Z",
+      "user": "hande-k",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3680736881,
+      "number": 17302,
+      "title": "[Bug]: Transcription reported token count 0",
+      "url": "https://github.com/BerriAI/litellm/issues/17302",
+      "created_at": "2025-12-01T12:18:15Z",
+      "user": "checkmeck",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3680768147,
+      "number": 17303,
+      "title": "[Bug]: extra_headers keys are converted to lowercase when making requests to OpenAI-compatible endpoints",
+      "url": "https://github.com/BerriAI/litellm/issues/17303",
+      "created_at": "2025-12-01T12:26:32Z",
+      "user": "duan36",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T11:39:09Z",
-  "total_count": 2721
+  "last_updated": "2025-12-01T12:33:05Z",
+  "total_count": 2726
 }
