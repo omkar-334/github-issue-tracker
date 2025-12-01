@@ -2955,6 +2955,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3522935753,
+    "number": 57803,
+    "title": "[serve] Serve is unable to start when tracing is enabled",
+    "url": "https://github.com/ray-project/ray/issues/57803",
+    "created_at": "2025-10-16T18:01:37Z",
+    "user": "scorchio",
+    "labels": [
+      "bug",
+      "P2",
+      "serve",
+      "observability",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3523520020,
     "number": 1900,
