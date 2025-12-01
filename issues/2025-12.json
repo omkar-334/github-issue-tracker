@@ -925,5 +925,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3682707501,
+    "number": 17320,
+    "title": "[Bug]: Setting ssl: false breaks Redis cache connection when cache does not use ssl",
+    "url": "https://github.com/BerriAI/litellm/issues/17320",
+    "created_at": "2025-12-01T20:21:52Z",
+    "user": "andrey-dubnik",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3682733424,
+    "number": 169313,
+    "title": "[Triton 3.6 pin update] can't build pytorch-triton-rocm package",
+    "url": "https://github.com/pytorch/pytorch/issues/169313",
+    "created_at": "2025-12-01T20:29:14Z",
+    "user": "atalman",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3682758977,
+    "number": 17323,
+    "title": "[Bug]: /v1/messages max_parallel_requests permanently rate limits keys when Redis cache enabled",
+    "url": "https://github.com/BerriAI/litellm/issues/17323",
+    "created_at": "2025-12-01T20:36:55Z",
+    "user": "colindonovan-8451",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

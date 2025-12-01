@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2290350665,
+    "number": 28995,
+    "title": "Add \"scoring\" argument to ``score``",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/28995",
+    "created_at": "2024-05-10T20:11:17Z",
+    "user": "amueller",
+    "labels": [
+      "New Feature",
+      "API",
+      "RFC",
+      "module:metrics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
