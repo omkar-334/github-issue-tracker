@@ -5328,6 +5328,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3633132192,
+    "number": 16726,
+    "title": "[Bug]: invalid beta flag for Anthropic models with AWS Bedrock",
+    "url": "https://github.com/BerriAI/litellm/issues/16726",
+    "created_at": "2025-11-17T12:28:30Z",
+    "user": "az-sascha",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "jax-ml/jax",
     "id": 3633272185,
     "number": 33359,

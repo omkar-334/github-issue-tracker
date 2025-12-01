@@ -406,5 +406,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3680422950,
+    "number": 24090,
+    "title": "BUG: Test suite failures on ppc64",
+    "url": "https://github.com/scipy/scipy/issues/24090",
+    "created_at": "2025-12-01T10:55:17Z",
+    "user": "OPNA2608",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3680431063,
+    "number": 4139,
+    "title": "std::bad_alloc crash when using torchaudio.load_with_torchcodec in DataLoader (works fine with torchaudio.load)",
+    "url": "https://github.com/pytorch/audio/issues/4139",
+    "created_at": "2025-12-01T10:57:31Z",
+    "user": "jayzen33",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
