@@ -2597,5 +2597,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3687889601,
+    "number": 169429,
+    "title": "Error loading `torch\\lib\\torch_python.dll` due to DLL initialization failure on Windows from torch `2.9.0`",
+    "url": "https://github.com/pytorch/pytorch/issues/169429",
+    "created_at": "2025-12-02T23:33:18Z",
+    "user": "sahas3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

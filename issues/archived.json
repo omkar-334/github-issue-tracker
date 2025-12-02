@@ -1,15 +1,17 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 684521032,
-    "number": 12762,
-    "title": "Radau - missing option \"mass\"",
-    "url": "https://github.com/scipy/scipy/issues/12762",
-    "created_at": "2020-08-24T09:36:55Z",
-    "user": "griff10000",
+    "repo": "pytorch/pytorch",
+    "id": 2096955434,
+    "number": 118123,
+    "title": "More comprehensive debug logging of intermediate FX graphs for Inductor passes",
+    "url": "https://github.com/pytorch/pytorch/issues/118123",
+    "created_at": "2024-01-23T20:50:23Z",
+    "user": "ezyang",
     "labels": [
-      "enhancement",
-      "scipy.integrate"
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "internal ramp-up task"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

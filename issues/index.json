@@ -34330,6 +34330,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3652341047,
+      "number": 168360,
+      "title": "torch__dynamo_variables_tensor_prim_redistribute and similar \"closures\" annoying in the Dynamo view",
+      "url": "https://github.com/pytorch/pytorch/issues/168360",
+      "created_at": "2025-11-21T16:30:23Z",
+      "user": "ezyang",
+      "labels": [
+        "needs reproduction",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3652456131,
       "number": 34061,
@@ -35228,6 +35246,24 @@
       "created_at": "2025-11-24T06:22:53Z",
       "user": "hansewetz",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3657409703,
+      "number": 168954,
+      "title": "[torch.compile] InternalTorchDynamoError: AsPythonConstantNotImplementedError when indexing tensor.shape with a Tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/168954",
+      "created_at": "2025-11-24T07:16:20Z",
+      "user": "Blooming-Tree",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -44406,8 +44442,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3687889601,
+      "number": 169429,
+      "title": "Error loading `torch\\lib\\torch_python.dll` due to DLL initialization failure on Windows from torch `2.9.0`",
+      "url": "https://github.com/pytorch/pytorch/issues/169429",
+      "created_at": "2025-12-02T23:33:18Z",
+      "user": "sahas3",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T23:15:13Z",
-  "total_count": 2989
+  "last_updated": "2025-12-02T23:38:59Z",
+  "total_count": 2992
 }
