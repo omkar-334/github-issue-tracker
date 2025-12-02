@@ -1185,6 +1185,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3319531513,
+    "number": 160553,
+    "title": "[MPS] Out of bounds indexing inconsistency between MPS and CPU/CUDA",
+    "url": "https://github.com/pytorch/pytorch/issues/160553",
+    "created_at": "2025-08-13T19:08:26Z",
+    "user": "DomenicN",
+    "labels": [
+      "module: error checking",
+      "triaged",
+      "needs design",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3319534348,
     "number": 13593,

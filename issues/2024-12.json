@@ -466,6 +466,22 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2754763010,
+    "number": 30527,
+    "title": "Feature Selectors fail to route metadata when inside a Pipeline",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30527",
+    "created_at": "2024-12-22T17:35:04Z",
+    "user": "kschluns",
+    "labels": [
+      "Bug",
+      "Metadata Routing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2755748445,
     "number": 2027,

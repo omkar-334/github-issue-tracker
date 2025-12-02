@@ -1702,5 +1702,52 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3684959839,
+    "number": 19159,
+    "title": "[FR] Add the tools of CrewAI to the mlflow UI",
+    "url": "https://github.com/mlflow/mlflow/issues/19159",
+    "created_at": "2025-12-02T09:33:05Z",
+    "user": "Killian-fal",
+    "labels": [
+      "enhancement",
+      "area/tracing",
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3684968048,
+    "number": 3294,
+    "title": "Merging Lora weights fails with FSDP 2",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3294",
+    "created_at": "2025-12-02T09:35:21Z",
+    "user": "maximrepidgey",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3684995867,
+    "number": 30352,
+    "title": "BUG: f2py does not correctly handle double complex type when using iso_fortran_env kinds",
+    "url": "https://github.com/numpy/numpy/issues/30352",
+    "created_at": "2025-12-02T09:42:42Z",
+    "user": "tgastine",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
