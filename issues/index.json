@@ -43476,8 +43476,89 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686068748,
+      "number": 16039,
+      "title": "CORTEX_M: Target configuration",
+      "url": "https://github.com/pytorch/executorch/issues/16039",
+      "created_at": "2025-12-02T14:19:34Z",
+      "user": "AdrianLundell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686074066,
+      "number": 16040,
+      "title": "CORTEX_M: Quantization configuration",
+      "url": "https://github.com/pytorch/executorch/issues/16040",
+      "created_at": "2025-12-02T14:21:00Z",
+      "user": "AdrianLundell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686087692,
+      "number": 16041,
+      "title": "CORTEX_M: Memory optimization",
+      "url": "https://github.com/pytorch/executorch/issues/16041",
+      "created_at": "2025-12-02T14:24:20Z",
+      "user": "AdrianLundell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686103280,
+      "number": 16042,
+      "title": "CORTEX_M: Add Int16 operator support",
+      "url": "https://github.com/pytorch/executorch/issues/16042",
+      "created_at": "2025-12-02T14:28:23Z",
+      "user": "AdrianLundell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686112616,
+      "number": 16043,
+      "title": "CORTEX_M: Packed int4 support",
+      "url": "https://github.com/pytorch/executorch/issues/16043",
+      "created_at": "2025-12-02T14:30:51Z",
+      "user": "AdrianLundell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3686125016,
+      "number": 42559,
+      "title": "Parallelize the model download with the weight loading",
+      "url": "https://github.com/huggingface/transformers/issues/42559",
+      "created_at": "2025-12-02T14:34:02Z",
+      "user": "LysandreJik",
+      "labels": [
+        "Core: Modeling",
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T14:18:08Z",
-  "total_count": 2928
+  "last_updated": "2025-12-02T14:48:18Z",
+  "total_count": 2934
 }
