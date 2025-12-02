@@ -3111,6 +3111,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3611997510,
+    "number": 15734,
+    "title": "QNN export failure for PARSeq text recognition model",
+    "url": "https://github.com/pytorch/executorch/issues/15734",
+    "created_at": "2025-11-11T11:57:53Z",
+    "user": "Fredrik00",
+    "labels": [
+      "partner: qualcomm",
+      "module: qnn"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3612204868,
     "number": 3581,
