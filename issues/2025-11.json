@@ -8310,6 +8310,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3654759525,
+    "number": 16967,
+    "title": "[Bug]: Semantic Redis Cache \"No module named 'redisvl'",
+    "url": "https://github.com/BerriAI/litellm/issues/16967",
+    "created_at": "2025-11-22T14:56:20Z",
+    "user": "metalshanked",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3654797474,
     "number": 7353,
