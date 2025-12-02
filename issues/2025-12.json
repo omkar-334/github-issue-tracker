@@ -2584,5 +2584,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3687747659,
+    "number": 7383,
+    "title": "[BUG] data race in __Pyx__CyFunction_SetClassObj",
+    "url": "https://github.com/cython/cython/issues/7383",
+    "created_at": "2025-12-02T22:25:22Z",
+    "user": "ngoldbaum",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

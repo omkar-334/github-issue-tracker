@@ -20112,6 +20112,23 @@
       "archived": false
     },
     {
+      "repo": "mlflow/mlflow",
+      "id": 3491766218,
+      "number": 18171,
+      "title": "[FR] Make/keep MLFLOW_EXPERIMENTAL_S3_SIGNATURE_VERSION env variable configurable",
+      "url": "https://github.com/mlflow/mlflow/issues/18171",
+      "created_at": "2025-10-07T14:34:55Z",
+      "user": "timeamagyar",
+      "labels": [
+        "enhancement",
+        "area/tracking",
+        "domain/platform"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3491776226,
       "number": 3203,
@@ -44346,8 +44363,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "cython/cython",
+      "id": 3687747659,
+      "number": 7383,
+      "title": "[BUG] data race in __Pyx__CyFunction_SetClassObj",
+      "url": "https://github.com/cython/cython/issues/7383",
+      "created_at": "2025-12-02T22:25:22Z",
+      "user": "ngoldbaum",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T22:14:51Z",
-  "total_count": 2985
+  "last_updated": "2025-12-02T22:40:34Z",
+  "total_count": 2987
 }
