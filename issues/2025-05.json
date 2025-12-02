@@ -675,6 +675,22 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3056957213,
+    "number": 28947,
+    "title": "MAINT: Enable linting with ruff E501",
+    "url": "https://github.com/numpy/numpy/issues/28947",
+    "created_at": "2025-05-12T13:19:50Z",
+    "user": "eendebakpt",
+    "labels": [
+      "03 - Maintenance",
+      "sprintable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3057370557,
     "number": 3225,

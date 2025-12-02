@@ -4216,6 +4216,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3012041979,
+      "number": 151934,
+      "title": "`torch.bmm` is slow on non-contiguous BF16 CPU tensors",
+      "url": "https://github.com/pytorch/pytorch/issues/151934",
+      "created_at": "2025-04-22T20:23:58Z",
+      "user": "ar0ck",
+      "labels": [
+        "module: performance",
+        "module: cpu",
+        "triaged",
+        "module: bfloat16",
+        "module: half",
+        "matrix multiplication"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/autokeras",
       "id": 3012986639,
       "number": 1945,
@@ -5398,6 +5418,22 @@
       "created_at": "2025-05-12T11:25:01Z",
       "user": "phoeenniixx",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3056957213,
+      "number": 28947,
+      "title": "MAINT: Enable linting with ruff E501",
+      "url": "https://github.com/numpy/numpy/issues/28947",
+      "created_at": "2025-05-12T13:19:50Z",
+      "user": "eendebakpt",
+      "labels": [
+        "03 - Maintenance",
+        "sprintable"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -42818,8 +42854,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3684509461,
+      "number": 3669,
+      "title": "Incorrect GPU requirement in linked Colab notebook (T4 not supported)",
+      "url": "https://github.com/unslothai/unsloth/issues/3669",
+      "created_at": "2025-12-02T07:31:49Z",
+      "user": "merdan-9",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/tutorials",
+      "id": 3684526564,
+      "number": 3680,
+      "title": "Feedback about NLP From Scratch: Classifying Names with a Character-Level RNN",
+      "url": "https://github.com/pytorch/tutorials/issues/3680",
+      "created_at": "2025-12-02T07:36:53Z",
+      "user": "jszhan115",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T07:19:24Z",
-  "total_count": 2884
+  "last_updated": "2025-12-02T07:42:17Z",
+  "total_count": 2888
 }

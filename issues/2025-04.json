@@ -851,6 +851,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3012041979,
+    "number": 151934,
+    "title": "`torch.bmm` is slow on non-contiguous BF16 CPU tensors",
+    "url": "https://github.com/pytorch/pytorch/issues/151934",
+    "created_at": "2025-04-22T20:23:58Z",
+    "user": "ar0ck",
+    "labels": [
+      "module: performance",
+      "module: cpu",
+      "triaged",
+      "module: bfloat16",
+      "module: half",
+      "matrix multiplication"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/autokeras",
     "id": 3012986639,
     "number": 1945,
