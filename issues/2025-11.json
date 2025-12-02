@@ -721,6 +721,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3584335874,
+    "number": 33808,
+    "title": "Support dynamic tool addition/removal after agent creation and in middleware",
+    "url": "https://github.com/langchain-ai/langchain/issues/33808",
+    "created_at": "2025-11-04T01:24:24Z",
+    "user": "Kenneth-Kuo",
+    "labels": [
+      "langchain",
+      "feature request",
+      "candidate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3584337698,
     "number": 2889,
