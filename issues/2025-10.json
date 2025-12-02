@@ -4127,6 +4127,22 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3543653224,
+    "number": 41809,
+    "title": "[Bug] Qwen3-VL beam search with video inputs.",
+    "url": "https://github.com/huggingface/transformers/issues/41809",
+    "created_at": "2025-10-23T08:19:25Z",
+    "user": "rzhao-zhsq",
+    "labels": [
+      "bug",
+      "Vision"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3544453298,
     "number": 12536,
@@ -5408,6 +5424,21 @@
     "labels": [
       "00 - Bug",
       "39 - free-threading"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3559933060,
+    "number": 41908,
+    "title": "from_pretrained will fail if device_map is `torch.device(\"mps\", index=0)`",
+    "url": "https://github.com/huggingface/transformers/issues/41908",
+    "created_at": "2025-10-28T05:48:40Z",
+    "user": "oceanusxiv",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

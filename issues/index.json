@@ -3303,6 +3303,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2960400404,
+      "number": 150296,
+      "title": "[RFC] zentorch Integration",
+      "url": "https://github.com/pytorch/pytorch/issues/150296",
+      "created_at": "2025-03-31T12:46:40Z",
+      "user": "naveenthangudu",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "release-feature-request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/autokeras",
       "id": 2960638100,
       "number": 1944,
@@ -23073,6 +23091,22 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3543653224,
+      "number": 41809,
+      "title": "[Bug] Qwen3-VL beam search with video inputs.",
+      "url": "https://github.com/huggingface/transformers/issues/41809",
+      "created_at": "2025-10-23T08:19:25Z",
+      "user": "rzhao-zhsq",
+      "labels": [
+        "bug",
+        "Vision"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3544453298,
       "number": 12536,
@@ -24354,6 +24388,21 @@
       "labels": [
         "00 - Bug",
         "39 - free-threading"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3559933060,
+      "number": 41908,
+      "title": "from_pretrained will fail if device_map is `torch.device(\"mps\", index=0)`",
+      "url": "https://github.com/huggingface/transformers/issues/41908",
+      "created_at": "2025-10-28T05:48:40Z",
+      "user": "oceanusxiv",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -42880,8 +42929,65 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3684570462,
+      "number": 12769,
+      "title": "Z-Image Turbo Controlnet Union is out",
+      "url": "https://github.com/huggingface/diffusers/issues/12769",
+      "created_at": "2025-12-02T07:49:38Z",
+      "user": "tin2tin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3684573969,
+      "number": 17343,
+      "title": "[Bug]: github_copilot/gpt-5-mini tool_calls[].id short issue",
+      "url": "https://github.com/BerriAI/litellm/issues/17343",
+      "created_at": "2025-12-02T07:51:01Z",
+      "user": "towry",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3684589794,
+      "number": 59110,
+      "title": "[Ray CLI] ray start --address can't use local address.",
+      "url": "https://github.com/ray-project/ray/issues/59110",
+      "created_at": "2025-12-02T07:56:07Z",
+      "user": "codingl2k1",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3684664812,
+      "number": 169357,
+      "title": "prepareProfiler() skips collecting info of \"privateuseone\"",
+      "url": "https://github.com/pytorch/pytorch/issues/169357",
+      "created_at": "2025-12-02T08:17:28Z",
+      "user": "FleckyFelix",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T07:42:17Z",
-  "total_count": 2888
+  "last_updated": "2025-12-02T08:24:15Z",
+  "total_count": 2895
 }
