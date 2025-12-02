@@ -36583,6 +36583,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3664338672,
+      "number": 169073,
+      "title": "Replace deprecated __args__ type access in typing libraries with proper typing.get_args",
+      "url": "https://github.com/pytorch/pytorch/issues/169073",
+      "created_at": "2025-11-25T19:33:13Z",
+      "user": "Skylion007",
+      "labels": [
+        "module: typing",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3664423259,
       "number": 2087,
@@ -44299,8 +44315,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3687683453,
+      "number": 30806,
+      "title": "[Doc]: Add an optional - All release notes Page",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30806",
+      "created_at": "2025-12-02T21:56:28Z",
+      "user": "ianhi",
+      "labels": [
+        "Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3687710969,
+      "number": 13189,
+      "title": "Collapsed sidebar shows sidebar artifacts",
+      "url": "https://github.com/streamlit/streamlit/issues/13189",
+      "created_at": "2025-12-02T22:08:31Z",
+      "user": "sfc-gh-dmatthews",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T21:38:09Z",
-  "total_count": 2982
+  "last_updated": "2025-12-02T22:14:51Z",
+  "total_count": 2985
 }

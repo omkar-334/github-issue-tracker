@@ -10241,6 +10241,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3664338672,
+    "number": 169073,
+    "title": "Replace deprecated __args__ type access in typing libraries with proper typing.get_args",
+    "url": "https://github.com/pytorch/pytorch/issues/169073",
+    "created_at": "2025-11-25T19:33:13Z",
+    "user": "Skylion007",
+    "labels": [
+      "module: typing",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3664423259,
     "number": 2087,
