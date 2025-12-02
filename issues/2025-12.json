@@ -2156,5 +2156,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3686620194,
+    "number": 169381,
+    "title": "[DeviceMesh / Torch>=2.9.1] Feature regression on DeviceMesh._flatten() + DeviceMesh.__getitem__() after moving to CuTe backend for mesh algebra.",
+    "url": "https://github.com/pytorch/pytorch/issues/169381",
+    "created_at": "2025-12-02T16:29:52Z",
+    "user": "cspades",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3686640258,
+    "number": 42565,
+    "title": "[Bug] Ministral 3 model loading fails with TypeError after PR #42455",
+    "url": "https://github.com/huggingface/transformers/issues/42565",
+    "created_at": "2025-12-02T16:34:05Z",
+    "user": "Aratako",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
