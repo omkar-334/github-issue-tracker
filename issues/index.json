@@ -17821,6 +17821,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3445657962,
+      "number": 163650,
+      "title": "[DO NOT CLOSE] Autorevert actions shadow mode stream",
+      "url": "https://github.com/pytorch/pytorch/issues/163650",
+      "created_at": "2025-09-23T15:01:30Z",
+      "user": "jeanschmidt",
+      "labels": [
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3446280277,
       "number": 14525,
@@ -42986,8 +43001,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3684714146,
+      "number": 33646,
+      "title": "Inefficient concatenate (many tiny NCCL kernels)",
+      "url": "https://github.com/jax-ml/jax/issues/33646",
+      "created_at": "2025-12-02T08:33:07Z",
+      "user": "yhtang",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3684727338,
+      "number": 42546,
+      "title": "dots1 expert bias routing still broken in v5.0.0rc0",
+      "url": "https://github.com/huggingface/transformers/issues/42546",
+      "created_at": "2025-12-02T08:37:04Z",
+      "user": "fjosw",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3684767307,
+      "number": 12771,
+      "title": "DPMSolverMultistepScheduler out-of-bounds error when using beta_schedule=\"squaredcos_cap_v2\" + use_karras_sigmas=True",
+      "url": "https://github.com/huggingface/diffusers/issues/12771",
+      "created_at": "2025-12-02T08:46:24Z",
+      "user": "scp3125",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T08:24:15Z",
-  "total_count": 2895
+  "last_updated": "2025-12-02T08:52:57Z",
+  "total_count": 2899
 }
