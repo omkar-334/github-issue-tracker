@@ -2788,6 +2788,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3606661343,
+    "number": 167453,
+    "title": "recompilation reason due to different backend is empty",
+    "url": "https://github.com/pytorch/pytorch/issues/167453",
+    "created_at": "2025-11-10T08:02:22Z",
+    "user": "laithsakka",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "vllm-compile",
+      "llm-amenable",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3607407512,
     "number": 3643,
@@ -2875,6 +2896,19 @@
       "feature:st.audio",
       "feature:st.audio_input"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3610157015,
+    "number": 16463,
+    "title": "Bug: Audio transcription cache key based on filename instead of content",
+    "url": "https://github.com/BerriAI/litellm/issues/16463",
+    "created_at": "2025-11-11T00:11:44Z",
+    "user": "Otoru",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

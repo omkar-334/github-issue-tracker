@@ -25153,6 +25153,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3568078212,
+      "number": 166577,
+      "title": "Pipelining - cannot calculate dWeight if a custom torch.autograd.Function is used with a schedule that performs separate dWeight and dInput backward passes",
+      "url": "https://github.com/pytorch/pytorch/issues/166577",
+      "created_at": "2025-10-29T22:04:15Z",
+      "user": "mrapplexz",
+      "labels": [
+        "oncall: distributed",
+        "module: autograd",
+        "actionable",
+        "module: pipelining"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3568333367,
       "number": 3527,
@@ -29064,6 +29082,27 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3606661343,
+      "number": 167453,
+      "title": "recompilation reason due to different backend is empty",
+      "url": "https://github.com/pytorch/pytorch/issues/167453",
+      "created_at": "2025-11-10T08:02:22Z",
+      "user": "laithsakka",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "vllm-compile",
+        "llm-amenable",
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3607407512,
       "number": 3643,
@@ -29151,6 +29190,19 @@
         "feature:st.audio",
         "feature:st.audio_input"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3610157015,
+      "number": 16463,
+      "title": "Bug: Audio transcription cache key based on filename instead of content",
+      "url": "https://github.com/BerriAI/litellm/issues/16463",
+      "created_at": "2025-11-11T00:11:44Z",
+      "user": "Otoru",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -43817,8 +43869,65 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3686916100,
+      "number": 16046,
+      "title": "Scope / prototype YNNPACK in ET XNN backend",
+      "url": "https://github.com/pytorch/executorch/issues/16046",
+      "created_at": "2025-12-02T17:48:12Z",
+      "user": "GregoryComer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3687036017,
+      "number": 17374,
+      "title": "[Bug]: grpcio 1.67.1 dependency causes installation failure/timeout on Python 3.14",
+      "url": "https://github.com/BerriAI/litellm/issues/17374",
+      "created_at": "2025-12-02T18:20:01Z",
+      "user": "satyadevai",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3687039159,
+      "number": 169388,
+      "title": "[Py 3.14] Cannot swap t1 because it has weakref associated with it",
+      "url": "https://github.com/pytorch/pytorch/issues/169388",
+      "created_at": "2025-12-02T18:20:45Z",
+      "user": "guilhermeleobas",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3687042223,
+      "number": 17375,
+      "title": "[Bug]: OpenAPI schema is invalid",
+      "url": "https://github.com/BerriAI/litellm/issues/17375",
+      "created_at": "2025-12-02T18:21:37Z",
+      "user": "richardmcsong",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T17:46:36Z",
-  "total_count": 2951
+  "last_updated": "2025-12-02T18:26:04Z",
+  "total_count": 2958
 }

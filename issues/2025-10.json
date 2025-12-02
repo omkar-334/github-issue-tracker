@@ -6062,6 +6062,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3568078212,
+    "number": 166577,
+    "title": "Pipelining - cannot calculate dWeight if a custom torch.autograd.Function is used with a schedule that performs separate dWeight and dInput backward passes",
+    "url": "https://github.com/pytorch/pytorch/issues/166577",
+    "created_at": "2025-10-29T22:04:15Z",
+    "user": "mrapplexz",
+    "labels": [
+      "oncall: distributed",
+      "module: autograd",
+      "actionable",
+      "module: pipelining"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3568333367,
     "number": 3527,

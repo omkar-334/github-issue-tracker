@@ -2257,5 +2257,62 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3686916100,
+    "number": 16046,
+    "title": "Scope / prototype YNNPACK in ET XNN backend",
+    "url": "https://github.com/pytorch/executorch/issues/16046",
+    "created_at": "2025-12-02T17:48:12Z",
+    "user": "GregoryComer",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3687036017,
+    "number": 17374,
+    "title": "[Bug]: grpcio 1.67.1 dependency causes installation failure/timeout on Python 3.14",
+    "url": "https://github.com/BerriAI/litellm/issues/17374",
+    "created_at": "2025-12-02T18:20:01Z",
+    "user": "satyadevai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3687039159,
+    "number": 169388,
+    "title": "[Py 3.14] Cannot swap t1 because it has weakref associated with it",
+    "url": "https://github.com/pytorch/pytorch/issues/169388",
+    "created_at": "2025-12-02T18:20:45Z",
+    "user": "guilhermeleobas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3687042223,
+    "number": 17375,
+    "title": "[Bug]: OpenAPI schema is invalid",
+    "url": "https://github.com/BerriAI/litellm/issues/17375",
+    "created_at": "2025-12-02T18:21:37Z",
+    "user": "richardmcsong",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
