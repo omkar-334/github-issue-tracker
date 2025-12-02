@@ -43258,8 +43258,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3685364565,
+      "number": 42552,
+      "title": "Default model for `image-to-text` pipeline fails to load",
+      "url": "https://github.com/huggingface/transformers/issues/42552",
+      "created_at": "2025-12-02T11:20:43Z",
+      "user": "davidmezzetti",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T11:16:21Z",
-  "total_count": 2913
+  "last_updated": "2025-12-02T11:39:39Z",
+  "total_count": 2914
 }
