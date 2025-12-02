@@ -353,6 +353,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2788848937,
+    "number": 144836,
+    "title": "[inductor] `MaxUnpool` crash when meeting out-of-bound value on inductor",
+    "url": "https://github.com/pytorch/pytorch/issues/144836",
+    "created_at": "2025-01-15T05:05:51Z",
+    "user": "shaoyuyoung",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: decompositions",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2789150981,
     "number": 13729,
