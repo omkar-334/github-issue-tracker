@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1405922876,
+    "number": 49052,
+    "title": "BUG: df.where(ea) coerces to object, rather than nullable dtype like ser.where(ea) does",
+    "url": "https://github.com/pandas-dev/pandas/issues/49052",
+    "created_at": "2022-10-12T09:58:24Z",
+    "user": "MarcoGorelli",
+    "labels": [
+      "Bug",
+      "Missing-data",
+      "good first issue",
+      "Needs Tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
