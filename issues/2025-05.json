@@ -481,6 +481,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3049639008,
+    "number": 3424,
+    "title": "[GRPO] How to train model using vLLM and model parallelism on one node?",
+    "url": "https://github.com/huggingface/trl/issues/3424",
+    "created_at": "2025-05-08T17:22:19Z",
+    "user": "zhiqihuang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3050392951,
     "number": 2709,
