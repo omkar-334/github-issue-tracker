@@ -1,31 +1,14 @@
 [
   {
-    "repo": "huggingface/tokenizers",
-    "id": 2190572719,
-    "number": 1473,
-    "title": "Assign `<unusedXX>` tokens with `special_tokens` without growing vocab size",
-    "url": "https://github.com/huggingface/tokenizers/issues/1473",
-    "created_at": "2024-03-17T09:40:28Z",
-    "user": "jacobwjs",
+    "repo": "huggingface/transformers",
+    "id": 2317554323,
+    "number": 31035,
+    "title": "sdpa for bert casues nan when using bfloat16 with padding.",
+    "url": "https://github.com/huggingface/transformers/issues/31035",
+    "created_at": "2024-05-26T07:37:19Z",
+    "user": "Leoyzen",
     "labels": [
-      "Stale",
-      "Feature Request",
-      "planned"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/ao",
-    "id": 2451377185,
-    "number": 606,
-    "title": "[llama] Use horizontal fusion trick from Attention for FeedForward",
-    "url": "https://github.com/pytorch/ao/issues/606",
-    "created_at": "2024-08-06T17:32:26Z",
-    "user": "cpuhrsch",
-    "labels": [
-      "good first issue"
+      "Good Second Issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
