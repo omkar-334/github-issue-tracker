@@ -10938,6 +10938,22 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 3247718019,
+      "number": 11966,
+      "title": "How about forcing the first and last block on device when groupoffloading is used?",
+      "url": "https://github.com/huggingface/diffusers/issues/11966",
+      "created_at": "2025-07-21T08:38:30Z",
+      "user": "seed93",
+      "labels": [
+        "contributions-welcome",
+        "group-offloading"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3249255610,
       "number": 3301,
@@ -36090,6 +36106,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3663215340,
+      "number": 169058,
+      "title": "[MPS] Inconsistent overflow behavior when casting Float to Int8 compared to CPU/CUDA (Saturation vs Wraparound)",
+      "url": "https://github.com/pytorch/pytorch/issues/169058",
+      "created_at": "2025-11-25T14:05:43Z",
+      "user": "lingebeng",
+      "labels": [
+        "triaged",
+        "module: mps"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3663264128,
       "number": 34103,
@@ -43644,6 +43676,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-02T15:18:40Z",
-  "total_count": 2939
+  "last_updated": "2025-12-02T15:46:07Z",
+  "total_count": 2941
 }
