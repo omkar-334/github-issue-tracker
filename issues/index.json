@@ -43212,8 +43212,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3685292781,
+      "number": 42550,
+      "title": "SDPA and FA2 produce different outputs",
+      "url": "https://github.com/huggingface/transformers/issues/42550",
+      "created_at": "2025-12-02T10:59:58Z",
+      "user": "SimJeg",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3685320454,
+      "number": 30353,
+      "title": "F2PY: rework f2py2e now that the only backend is 'meson'",
+      "url": "https://github.com/numpy/numpy/issues/30353",
+      "created_at": "2025-12-02T11:08:18Z",
+      "user": "mattip",
+      "labels": [
+        "component: numpy.f2py"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3685322967,
+      "number": 30354,
+      "title": "BUG: ctypes conversions of numpy scalars share the same buffer",
+      "url": "https://github.com/numpy/numpy/issues/30354",
+      "created_at": "2025-12-02T11:09:03Z",
+      "user": "mtsokol",
+      "labels": [
+        "00 - Bug",
+        "component: numpy.ctypes"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T10:47:06Z",
-  "total_count": 2910
+  "last_updated": "2025-12-02T11:16:21Z",
+  "total_count": 2913
 }
