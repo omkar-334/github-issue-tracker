@@ -21671,6 +21671,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 3519002638,
+      "number": 12494,
+      "title": "i think there is something wrong with new/latest scripts. RuntimeError: mat1 and mat2 shapes cannot be multiplied (2x1536 and 768x3072)",
+      "url": "https://github.com/huggingface/diffusers/issues/12494",
+      "created_at": "2025-10-15T17:45:53Z",
+      "user": "gerylavin",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3519014340,
       "number": 8948,
@@ -42783,8 +42798,28 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3684372982,
+      "number": 59107,
+      "title": "[Core][Windows] Fix handle leak in IsProcessAlive utility function",
+      "url": "https://github.com/ray-project/ray/issues/59107",
+      "created_at": "2025-12-02T06:56:01Z",
+      "user": "suzuri-lollipop",
+      "labels": [
+        "bug",
+        "triage",
+        "windows",
+        "core",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T06:54:33Z",
-  "total_count": 2882
+  "last_updated": "2025-12-02T07:19:24Z",
+  "total_count": 2884
 }

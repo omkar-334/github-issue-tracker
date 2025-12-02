@@ -1513,5 +1513,25 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3684372982,
+    "number": 59107,
+    "title": "[Core][Windows] Fix handle leak in IsProcessAlive utility function",
+    "url": "https://github.com/ray-project/ray/issues/59107",
+    "created_at": "2025-12-02T06:56:01Z",
+    "user": "suzuri-lollipop",
+    "labels": [
+      "bug",
+      "triage",
+      "windows",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
