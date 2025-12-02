@@ -8493,6 +8493,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3181389682,
+      "number": 54167,
+      "title": "[core][gpu-objects] Support streaming generator",
+      "url": "https://github.com/ray-project/ray/issues/54167",
+      "created_at": "2025-06-27T05:13:30Z",
+      "user": "kevin85421",
+      "labels": [
+        "enhancement",
+        "P2",
+        "performance",
+        "core",
+        "rdt",
+        "verl-poc"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 3181660559,
       "number": 10130,
@@ -42733,8 +42753,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3684160249,
+      "number": 42544,
+      "title": "diffusion model load failed because safetensor",
+      "url": "https://github.com/huggingface/transformers/issues/42544",
+      "created_at": "2025-12-02T05:49:24Z",
+      "user": "jiqing-feng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3684194353,
+      "number": 3668,
+      "title": "data did not match any variant of untagged enum ModelWrapper at line 757448 column 3",
+      "url": "https://github.com/unslothai/unsloth/issues/3668",
+      "created_at": "2025-12-02T06:03:31Z",
+      "user": "dinhnam811",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T05:43:28Z",
-  "total_count": 2879
+  "last_updated": "2025-12-02T06:25:59Z",
+  "total_count": 2882
 }
