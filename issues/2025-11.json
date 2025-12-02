@@ -9448,6 +9448,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3660309670,
+    "number": 169002,
+    "title": "Torch dynamo fails to do proper type promotion during export",
+    "url": "https://github.com/pytorch/pytorch/issues/169002",
+    "created_at": "2025-11-24T19:51:33Z",
+    "user": "aboubezari",
+    "labels": [
+      "oncall: pt2",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3660316311,
     "number": 13112,

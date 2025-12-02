@@ -1682,6 +1682,24 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3336294818,
+    "number": 62150,
+    "title": "BUG: Inconsistent behaviour when merging reset-ed MultiIndex dataframe",
+    "url": "https://github.com/pandas-dev/pandas/issues/62150",
+    "created_at": "2025-08-20T01:55:34Z",
+    "user": "renkeven",
+    "labels": [
+      "Bug",
+      "Reshaping",
+      "MultiIndex",
+      "Needs Tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3336704928,
     "number": 7742,

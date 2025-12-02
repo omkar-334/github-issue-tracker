@@ -13657,6 +13657,24 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3336294818,
+      "number": 62150,
+      "title": "BUG: Inconsistent behaviour when merging reset-ed MultiIndex dataframe",
+      "url": "https://github.com/pandas-dev/pandas/issues/62150",
+      "created_at": "2025-08-20T01:55:34Z",
+      "user": "renkeven",
+      "labels": [
+        "Bug",
+        "Reshaping",
+        "MultiIndex",
+        "Needs Tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3336704928,
       "number": 7742,
@@ -35757,6 +35775,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3660309670,
+      "number": 169002,
+      "title": "Torch dynamo fails to do proper type promotion during export",
+      "url": "https://github.com/pytorch/pytorch/issues/169002",
+      "created_at": "2025-11-24T19:51:33Z",
+      "user": "aboubezari",
+      "labels": [
+        "oncall: pt2",
+        "oncall: export"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "streamlit/streamlit",
       "id": 3660316311,
       "number": 13112,
@@ -44166,8 +44200,47 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numba/numba",
+      "id": 3687433066,
+      "number": 10361,
+      "title": "Numba 0.63.0 Checklist",
+      "url": "https://github.com/numba/numba/issues/10361",
+      "created_at": "2025-12-02T20:27:42Z",
+      "user": "swap357",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3687445241,
+      "number": 33666,
+      "title": "JAX project runs faster with JAX 0.4.28 than any later version",
+      "url": "https://github.com/jax-ml/jax/issues/33666",
+      "created_at": "2025-12-02T20:31:56Z",
+      "user": "cgiovanetti",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3687456765,
+      "number": 169402,
+      "title": "Cpython tests cannot be run with PYTORCH_TEST_WITH_DYNAMO=1",
+      "url": "https://github.com/pytorch/pytorch/issues/169402",
+      "created_at": "2025-12-02T20:36:18Z",
+      "user": "trichmo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T20:20:31Z",
-  "total_count": 2973
+  "last_updated": "2025-12-02T20:44:55Z",
+  "total_count": 2978
 }
