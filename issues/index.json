@@ -20628,6 +20628,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 3501262607,
+      "number": 12458,
+      "title": "[Qwen-image-edit] Batch Inference Issue / Feature Request",
+      "url": "https://github.com/huggingface/diffusers/issues/12458",
+      "created_at": "2025-10-10T03:48:32Z",
+      "user": "Django-Jiang",
+      "labels": [
+        "advanced"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3501382342,
       "number": 3335,
@@ -44088,8 +44103,71 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3687306027,
+      "number": 30358,
+      "title": "MAINT: investigate use of warnings.warn skip_file_prefixes argument",
+      "url": "https://github.com/numpy/numpy/issues/30358",
+      "created_at": "2025-12-02T19:44:42Z",
+      "user": "ngoldbaum",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3687342679,
+      "number": 13185,
+      "title": "Add a description list element for viewing key-value data",
+      "url": "https://github.com/streamlit/streamlit/issues/13185",
+      "created_at": "2025-12-02T19:58:33Z",
+      "user": "lukasmasuch",
+      "labels": [
+        "type:enhancement",
+        "feature:st.table"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3687344855,
+      "number": 17381,
+      "title": "[Bug]: ValueError: 'aocr' is not a valid CallTypes when using OCR endpoint with Guardrails enabled",
+      "url": "https://github.com/BerriAI/litellm/issues/17381",
+      "created_at": "2025-12-02T19:59:24Z",
+      "user": "gmerritt",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3687394489,
+      "number": 4611,
+      "title": "SFTTrainer: Logging Experts Statistics",
+      "url": "https://github.com/huggingface/trl/issues/4611",
+      "created_at": "2025-12-02T20:14:37Z",
+      "user": "shon-otmazgin",
+      "labels": [
+        "✨ enhancement",
+        "🏋 SFT",
+        "⚡ PEFT"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-02T19:39:27Z",
-  "total_count": 2968
+  "last_updated": "2025-12-02T20:20:31Z",
+  "total_count": 2973
 }
