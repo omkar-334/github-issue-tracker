@@ -1392,5 +1392,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3683903315,
+    "number": 3667,
+    "title": "[Bug] Vicuna chat template",
+    "url": "https://github.com/unslothai/unsloth/issues/3667",
+    "created_at": "2025-12-02T03:54:31Z",
+    "user": "james5635",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3683971275,
+    "number": 19151,
+    "title": "[BUG] mlflow.source.type is set to LOCAL instead of NOTEBOOK when running start_run() from Jupyter notebooks",
+    "url": "https://github.com/mlflow/mlflow/issues/19151",
+    "created_at": "2025-12-02T04:24:23Z",
+    "user": "iyashk",
+    "labels": [
+      "bug",
+      "area/tracking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3683971680,
+    "number": 169349,
+    "title": "FSDP2 reentrant gradient checkpointing memory leak",
+    "url": "https://github.com/pytorch/pytorch/issues/169349",
+    "created_at": "2025-12-02T04:24:34Z",
+    "user": "ojh31",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
