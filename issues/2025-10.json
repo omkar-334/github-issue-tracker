@@ -7124,6 +7124,25 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3576420698,
+    "number": 18613,
+    "title": "[FR] Ingest Open Telemetry Genai data",
+    "url": "https://github.com/mlflow/mlflow/issues/18613",
+    "created_at": "2025-10-31T20:46:41Z",
+    "user": "iamemilio",
+    "labels": [
+      "enhancement",
+      "area/uiux",
+      "area/tracing",
+      "domain/genai",
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3576437359,
     "number": 3632,
