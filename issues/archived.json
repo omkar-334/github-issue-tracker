@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2241839184,
-    "number": 124018,
-    "title": "Fix OOMs during parallel builds",
-    "url": "https://github.com/pytorch/pytorch/issues/124018",
-    "created_at": "2024-04-14T00:39:19Z",
-    "user": "ruro",
-    "labels": [
-      "module: build",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
