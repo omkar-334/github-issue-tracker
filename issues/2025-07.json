@@ -2218,6 +2218,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3254084495,
+    "number": 12877,
+    "title": "[Bug]: Bad defaults / incorrect jitter logic leads to tiny delays between retries",
+    "url": "https://github.com/BerriAI/litellm/issues/12877",
+    "created_at": "2025-07-22T21:08:59Z",
+    "user": "pathikrit",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3254960101,
     "number": 2340,

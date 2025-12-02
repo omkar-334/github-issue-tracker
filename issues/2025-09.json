@@ -146,6 +146,69 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3374012809,
+    "number": 14157,
+    "title": "Using gemini-2.5-flash-image-preview - with /image/generations",
+    "url": "https://github.com/BerriAI/litellm/issues/14157",
+    "created_at": "2025-09-02T00:31:21Z",
+    "user": "ishaan-jaff",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3374484945,
+    "number": 14165,
+    "title": "[Bug]: Model info changes not synchronized across multiple LiteLLM instances",
+    "url": "https://github.com/BerriAI/litellm/issues/14165",
+    "created_at": "2025-09-02T05:41:14Z",
+    "user": "hula-la",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3374823022,
+    "number": 14167,
+    "title": "How to modify proxy response content and pass data between async hooks ?",
+    "url": "https://github.com/BerriAI/litellm/issues/14167",
+    "created_at": "2025-09-02T07:43:34Z",
+    "user": "ianmage",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3375385900,
+    "number": 14172,
+    "title": "[Bug]:  Config bedrock  Credentials can't connect to model, but manully fill id and key works",
+    "url": "https://github.com/BerriAI/litellm/issues/14172",
+    "created_at": "2025-09-02T10:19:51Z",
+    "user": "eromoe",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3375440162,
     "number": 3510,
@@ -167,6 +230,76 @@
     "created_at": "2025-09-02T11:51:10Z",
     "user": "vkuzo",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3376472698,
+    "number": 14177,
+    "title": "Give Feedback / Get Help: https://github.com/BerriAI/litellm/issues/new",
+    "url": "https://github.com/BerriAI/litellm/issues/14177",
+    "created_at": "2025-09-02T15:17:28Z",
+    "user": "shirely983",
+    "labels": [
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3376510034,
+    "number": 14178,
+    "title": "[Bug]: Unable to Add Luma Ray Models from Bedrock",
+    "url": "https://github.com/BerriAI/litellm/issues/14178",
+    "created_at": "2025-09-02T15:26:54Z",
+    "user": "gowthamprabhu",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3376821689,
+    "number": 14180,
+    "title": "[Bug]: deepinfra max output tokens is incorrect",
+    "url": "https://github.com/BerriAI/litellm/issues/14180",
+    "created_at": "2025-09-02T16:56:27Z",
+    "user": "mdillavou",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3377004925,
+    "number": 14182,
+    "title": "[Feature]: URLs for current page state on Usage",
+    "url": "https://github.com/BerriAI/litellm/issues/14182",
+    "created_at": "2025-09-02T17:59:36Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "ui",
+      "stale",
+      "enterprise",
+      "P1"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -197,6 +330,41 @@
     "user": "zhumakhan",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3377524102,
+    "number": 14187,
+    "title": "[Bug]: Prisma P2002: Unique constraint failure on (user_id,date,api_key,model,custom_llm_provider) in LiteLLM PostgreSQL",
+    "url": "https://github.com/BerriAI/litellm/issues/14187",
+    "created_at": "2025-09-02T21:20:48Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3377832401,
+    "number": 14189,
+    "title": "[Feature]: Add “OpenRouter Provider” endpoint in LiteLLM so OpenRouter can auto-register LiteLLM as a provider",
+    "url": "https://github.com/BerriAI/litellm/issues/14189",
+    "created_at": "2025-09-03T00:01:10Z",
+    "user": "Const-antine",
+    "labels": [
+      "enhancement",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

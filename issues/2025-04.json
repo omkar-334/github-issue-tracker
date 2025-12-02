@@ -369,6 +369,27 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2985808165,
+    "number": 52211,
+    "title": "[Core | Serve] Compatibility issue with pydantic>=2.10",
+    "url": "https://github.com/ray-project/ray/issues/52211",
+    "created_at": "2025-04-10T14:01:24Z",
+    "user": "schoennenbeck",
+    "labels": [
+      "bug",
+      "P1",
+      "serve",
+      "docs",
+      "go",
+      "community-contribution",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2986798759,
     "number": 3163,
@@ -1128,6 +1149,25 @@
       "good first issue",
       "actionable",
       "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3025957526,
+    "number": 10389,
+    "title": "[Bug]: metadata.api_base metric no longer emitted by otel after v1.49.0",
+    "url": "https://github.com/BerriAI/litellm/issues/10389",
+    "created_at": "2025-04-28T19:32:08Z",
+    "user": "Tom-MarrLabs",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale",
+      "may 2025",
+      "august 2025"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

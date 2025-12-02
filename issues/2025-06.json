@@ -1252,6 +1252,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3160431458,
+    "number": 11886,
+    "title": "Bedrock Agents - Passthrough Endpoints - Logs are not present in LiteLLM UI when invoked via LiteLLM Proxy",
+    "url": "https://github.com/BerriAI/litellm/issues/11886",
+    "created_at": "2025-06-19T13:53:11Z",
+    "user": "marumugam-lg",
+    "labels": [
+      "unable to repro",
+      "awaiting: user response",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3160557990,
     "number": 3399,
@@ -1861,6 +1878,24 @@
     "created_at": "2025-06-28T04:24:25Z",
     "user": "sidkgp",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3185892155,
+    "number": 54201,
+    "title": "[Serve] Deadlock when awaiting DeploymentResponse",
+    "url": "https://github.com/ray-project/ray/issues/54201",
+    "created_at": "2025-06-29T08:29:41Z",
+    "user": "manhld0206",
+    "labels": [
+      "bug",
+      "P1",
+      "serve",
+      "stability"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

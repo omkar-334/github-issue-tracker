@@ -1555,6 +1555,24 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3334116027,
+    "number": 13754,
+    "title": "[Bug]: Responses API doesn't handle 404 from provider gracefully",
+    "url": "https://github.com/BerriAI/litellm/issues/13754",
+    "created_at": "2025-08-19T12:01:52Z",
+    "user": "Jacobh2",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3334804311,
     "number": 3523,
@@ -1581,6 +1599,22 @@
     "user": "pkmandke",
     "labels": [
       "module: training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3335445177,
+    "number": 13777,
+    "title": "[Bug]: perplexity doesn't return citations when streaming=True",
+    "url": "https://github.com/BerriAI/litellm/issues/13777",
+    "created_at": "2025-08-19T19:27:27Z",
+    "user": "caesay",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1663,6 +1697,23 @@
     "user": "arunpatala",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3338024309,
+    "number": 13806,
+    "title": "[Bug]: When finish_reason is length there is a difference in the last chunk between vllm and litellm",
+    "url": "https://github.com/BerriAI/litellm/issues/13806",
+    "created_at": "2025-08-20T12:53:17Z",
+    "user": "sgurunat",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1867,6 +1918,24 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3346122659,
+    "number": 13896,
+    "title": "[Feature]: Rate limits should apply to proxy admins when using JWT auth",
+    "url": "https://github.com/BerriAI/litellm/issues/13896",
+    "created_at": "2025-08-22T17:17:02Z",
+    "user": "TeddyAmkie",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3346530683,
     "number": 2580,
@@ -2019,6 +2088,23 @@
     "user": "also-good",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3355500600,
+    "number": 13964,
+    "title": "[Bug]: Internal Server Error while attempting to log into the UI",
+    "url": "https://github.com/BerriAI/litellm/issues/13964",
+    "created_at": "2025-08-26T12:44:53Z",
+    "user": "nikiluk",
+    "labels": [
+      "bug",
+      "ui",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2213,6 +2299,24 @@
     "user": "jacopotagliabue",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3361815645,
+    "number": 14024,
+    "title": "[Bug]:  Admin UI Router Setting page call /config/update with wrong request body format",
+    "url": "https://github.com/BerriAI/litellm/issues/14024",
+    "created_at": "2025-08-28T05:10:38Z",
+    "user": "terrydang",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2458,6 +2562,24 @@
     "created_at": "2025-08-30T20:14:16Z",
     "user": "pearu",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3369589023,
+    "number": 14097,
+    "title": "[Bug]: Budget & Limit Precedence",
+    "url": "https://github.com/BerriAI/litellm/issues/14097",
+    "created_at": "2025-08-30T23:14:45Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise",
+      "P1"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

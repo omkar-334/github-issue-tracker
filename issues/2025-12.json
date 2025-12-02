@@ -1186,5 +1186,53 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3683350403,
+    "number": 169331,
+    "title": "Linux x86 cpu wheels are broken on Dec 1",
+    "url": "https://github.com/pytorch/pytorch/issues/169331",
+    "created_at": "2025-12-01T23:50:35Z",
+    "user": "atalman",
+    "labels": [
+      "module: binaries",
+      "topic: binaries"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3683373102,
+    "number": 17335,
+    "title": "[Bug]: Recorded Start Time for /v1/messages endpoint is not correct",
+    "url": "https://github.com/BerriAI/litellm/issues/17335",
+    "created_at": "2025-12-01T23:59:57Z",
+    "user": "cvbhjkl",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3683378216,
+    "number": 17336,
+    "title": "[Bug]: Bedrock `serviceTier` Parameter Incorrectly Placed in `additionalModelRequestFields`",
+    "url": "https://github.com/BerriAI/litellm/issues/17336",
+    "created_at": "2025-12-02T00:02:16Z",
+    "user": "thvasilo",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

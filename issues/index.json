@@ -3701,6 +3701,27 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 2985808165,
+      "number": 52211,
+      "title": "[Core | Serve] Compatibility issue with pydantic>=2.10",
+      "url": "https://github.com/ray-project/ray/issues/52211",
+      "created_at": "2025-04-10T14:01:24Z",
+      "user": "schoennenbeck",
+      "labels": [
+        "bug",
+        "P1",
+        "serve",
+        "docs",
+        "go",
+        "community-contribution",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 2986798759,
       "number": 3163,
@@ -4460,6 +4481,25 @@
         "good first issue",
         "actionable",
         "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3025957526,
+      "number": 10389,
+      "title": "[Bug]: metadata.api_base metric no longer emitted by otel after v1.49.0",
+      "url": "https://github.com/BerriAI/litellm/issues/10389",
+      "created_at": "2025-04-28T19:32:08Z",
+      "user": "Tom-MarrLabs",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale",
+        "may 2025",
+        "august 2025"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -7892,6 +7932,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3160431458,
+      "number": 11886,
+      "title": "Bedrock Agents - Passthrough Endpoints - Logs are not present in LiteLLM UI when invoked via LiteLLM Proxy",
+      "url": "https://github.com/BerriAI/litellm/issues/11886",
+      "created_at": "2025-06-19T13:53:11Z",
+      "user": "marumugam-lg",
+      "labels": [
+        "unable to repro",
+        "awaiting: user response",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3160557990,
       "number": 3399,
@@ -8501,6 +8558,24 @@
       "created_at": "2025-06-28T04:24:25Z",
       "user": "sidkgp",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3185892155,
+      "number": 54201,
+      "title": "[Serve] Deadlock when awaiting DeploymentResponse",
+      "url": "https://github.com/ray-project/ray/issues/54201",
+      "created_at": "2025-06-29T08:29:41Z",
+      "user": "manhld0206",
+      "labels": [
+        "bug",
+        "P1",
+        "serve",
+        "stability"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -10808,6 +10883,23 @@
       "created_at": "2025-07-22T16:59:32Z",
       "user": "da-woods",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3254084495,
+      "number": 12877,
+      "title": "[Bug]: Bad defaults / incorrect jitter logic leads to tiny delays between retries",
+      "url": "https://github.com/BerriAI/litellm/issues/12877",
+      "created_at": "2025-07-22T21:08:59Z",
+      "user": "pathikrit",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -13237,6 +13329,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3334116027,
+      "number": 13754,
+      "title": "[Bug]: Responses API doesn't handle 404 from provider gracefully",
+      "url": "https://github.com/BerriAI/litellm/issues/13754",
+      "created_at": "2025-08-19T12:01:52Z",
+      "user": "Jacobh2",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3334804311,
       "number": 3523,
@@ -13263,6 +13373,22 @@
       "user": "pkmandke",
       "labels": [
         "module: training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3335445177,
+      "number": 13777,
+      "title": "[Bug]: perplexity doesn't return citations when streaming=True",
+      "url": "https://github.com/BerriAI/litellm/issues/13777",
+      "created_at": "2025-08-19T19:27:27Z",
+      "user": "caesay",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -13345,6 +13471,23 @@
       "user": "arunpatala",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3338024309,
+      "number": 13806,
+      "title": "[Bug]: When finish_reason is length there is a difference in the last chunk between vllm and litellm",
+      "url": "https://github.com/BerriAI/litellm/issues/13806",
+      "created_at": "2025-08-20T12:53:17Z",
+      "user": "sgurunat",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -13549,6 +13692,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3346122659,
+      "number": 13896,
+      "title": "[Feature]: Rate limits should apply to proxy admins when using JWT auth",
+      "url": "https://github.com/BerriAI/litellm/issues/13896",
+      "created_at": "2025-08-22T17:17:02Z",
+      "user": "TeddyAmkie",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3346530683,
       "number": 2580,
@@ -13701,6 +13862,23 @@
       "user": "also-good",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3355500600,
+      "number": 13964,
+      "title": "[Bug]: Internal Server Error while attempting to log into the UI",
+      "url": "https://github.com/BerriAI/litellm/issues/13964",
+      "created_at": "2025-08-26T12:44:53Z",
+      "user": "nikiluk",
+      "labels": [
+        "bug",
+        "ui",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -13895,6 +14073,24 @@
       "user": "jacopotagliabue",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3361815645,
+      "number": 14024,
+      "title": "[Bug]:  Admin UI Router Setting page call /config/update with wrong request body format",
+      "url": "https://github.com/BerriAI/litellm/issues/14024",
+      "created_at": "2025-08-28T05:10:38Z",
+      "user": "terrydang",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -14140,6 +14336,24 @@
       "created_at": "2025-08-30T20:14:16Z",
       "user": "pearu",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3369589023,
+      "number": 14097,
+      "title": "[Bug]: Budget & Limit Precedence",
+      "url": "https://github.com/BerriAI/litellm/issues/14097",
+      "created_at": "2025-08-30T23:14:45Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -14463,6 +14677,69 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3374012809,
+      "number": 14157,
+      "title": "Using gemini-2.5-flash-image-preview - with /image/generations",
+      "url": "https://github.com/BerriAI/litellm/issues/14157",
+      "created_at": "2025-09-02T00:31:21Z",
+      "user": "ishaan-jaff",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3374484945,
+      "number": 14165,
+      "title": "[Bug]: Model info changes not synchronized across multiple LiteLLM instances",
+      "url": "https://github.com/BerriAI/litellm/issues/14165",
+      "created_at": "2025-09-02T05:41:14Z",
+      "user": "hula-la",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3374823022,
+      "number": 14167,
+      "title": "How to modify proxy response content and pass data between async hooks ?",
+      "url": "https://github.com/BerriAI/litellm/issues/14167",
+      "created_at": "2025-09-02T07:43:34Z",
+      "user": "ianmage",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3375385900,
+      "number": 14172,
+      "title": "[Bug]:  Config bedrock  Credentials can't connect to model, but manully fill id and key works",
+      "url": "https://github.com/BerriAI/litellm/issues/14172",
+      "created_at": "2025-09-02T10:19:51Z",
+      "user": "eromoe",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3375440162,
       "number": 3510,
@@ -14484,6 +14761,76 @@
       "created_at": "2025-09-02T11:51:10Z",
       "user": "vkuzo",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3376472698,
+      "number": 14177,
+      "title": "Give Feedback / Get Help: https://github.com/BerriAI/litellm/issues/new",
+      "url": "https://github.com/BerriAI/litellm/issues/14177",
+      "created_at": "2025-09-02T15:17:28Z",
+      "user": "shirely983",
+      "labels": [
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3376510034,
+      "number": 14178,
+      "title": "[Bug]: Unable to Add Luma Ray Models from Bedrock",
+      "url": "https://github.com/BerriAI/litellm/issues/14178",
+      "created_at": "2025-09-02T15:26:54Z",
+      "user": "gowthamprabhu",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3376821689,
+      "number": 14180,
+      "title": "[Bug]: deepinfra max output tokens is incorrect",
+      "url": "https://github.com/BerriAI/litellm/issues/14180",
+      "created_at": "2025-09-02T16:56:27Z",
+      "user": "mdillavou",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3377004925,
+      "number": 14182,
+      "title": "[Feature]: URLs for current page state on Usage",
+      "url": "https://github.com/BerriAI/litellm/issues/14182",
+      "created_at": "2025-09-02T17:59:36Z",
+      "user": "berri-teddy",
+      "labels": [
+        "enhancement",
+        "ui",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -14514,6 +14861,41 @@
       "user": "zhumakhan",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3377524102,
+      "number": 14187,
+      "title": "[Bug]: Prisma P2002: Unique constraint failure on (user_id,date,api_key,model,custom_llm_provider) in LiteLLM PostgreSQL",
+      "url": "https://github.com/BerriAI/litellm/issues/14187",
+      "created_at": "2025-09-02T21:20:48Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3377832401,
+      "number": 14189,
+      "title": "[Feature]: Add “OpenRouter Provider” endpoint in LiteLLM so OpenRouter can auto-register LiteLLM as a provider",
+      "url": "https://github.com/BerriAI/litellm/issues/14189",
+      "created_at": "2025-09-03T00:01:10Z",
+      "user": "Const-antine",
+      "labels": [
+        "enhancement",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41893,8 +42275,56 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3683350403,
+      "number": 169331,
+      "title": "Linux x86 cpu wheels are broken on Dec 1",
+      "url": "https://github.com/pytorch/pytorch/issues/169331",
+      "created_at": "2025-12-01T23:50:35Z",
+      "user": "atalman",
+      "labels": [
+        "module: binaries",
+        "topic: binaries"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3683373102,
+      "number": 17335,
+      "title": "[Bug]: Recorded Start Time for /v1/messages endpoint is not correct",
+      "url": "https://github.com/BerriAI/litellm/issues/17335",
+      "created_at": "2025-12-01T23:59:57Z",
+      "user": "cvbhjkl",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3683378216,
+      "number": 17336,
+      "title": "[Bug]: Bedrock `serviceTier` Parameter Incorrectly Placed in `additionalModelRequestFields`",
+      "url": "https://github.com/BerriAI/litellm/issues/17336",
+      "created_at": "2025-12-02T00:02:16Z",
+      "user": "thvasilo",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-01T23:39:07Z",
-  "total_count": 2827
+  "last_updated": "2025-12-02T01:12:29Z",
+  "total_count": 2852
 }
