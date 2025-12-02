@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1167559661,
+    "number": 22641,
+    "title": "[Bug]: the width of the picture displayed by plt.show () will change under different resolution displays",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22641",
+    "created_at": "2022-03-13T11:58:01Z",
+    "user": "tangjyan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1173332743,
+    "number": 22666,
+    "title": "[ENH]: stale ticks and labels do not result in stale figures and artists ?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22666",
+    "created_at": "2022-03-18T08:34:53Z",
+    "user": "raphaelquast",
+    "labels": [
+      "New feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1185517605,
+    "number": 22728,
+    "title": "[ENH]: Higher bitdepth turbo colormap",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22728",
+    "created_at": "2022-03-29T22:36:25Z",
+    "user": "hmaarrfk",
+    "labels": [
+      "New feature",
+      "topic: color/color & colormaps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
