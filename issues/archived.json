@@ -1,44 +1,26 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1167559661,
-    "number": 22641,
-    "title": "[Bug]: the width of the picture displayed by plt.show () will change under different resolution displays",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22641",
-    "created_at": "2022-03-13T11:58:01Z",
-    "user": "tangjyan",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1173332743,
-    "number": 22666,
-    "title": "[ENH]: stale ticks and labels do not result in stale figures and artists ?",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22666",
-    "created_at": "2022-03-18T08:34:53Z",
-    "user": "raphaelquast",
-    "labels": [
-      "New feature"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1185517605,
-    "number": 22728,
-    "title": "[ENH]: Higher bitdepth turbo colormap",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22728",
-    "created_at": "2022-03-29T22:36:25Z",
-    "user": "hmaarrfk",
-    "labels": [
-      "New feature",
-      "topic: color/color & colormaps"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

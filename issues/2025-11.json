@@ -9987,6 +9987,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3664023337,
+    "number": 17092,
+    "title": "[Bug]: router settings for redis not allowed",
+    "url": "https://github.com/BerriAI/litellm/issues/17092",
+    "created_at": "2025-11-25T17:52:07Z",
+    "user": "metalshanked",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3664032548,
     "number": 58975,
