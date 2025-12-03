@@ -3726,5 +3726,37 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3690975996,
+    "number": 4615,
+    "title": "model_kwargs is not used in PPO Example script",
+    "url": "https://github.com/huggingface/trl/issues/4615",
+    "created_at": "2025-12-03T16:34:29Z",
+    "user": "JitheshPavan",
+    "labels": [
+      "🐛 bug",
+      "🏋 PPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3691024996,
+    "number": 63255,
+    "title": "BUG: `pd.Series.where` incorrectly casts `<NA>` to float `NaN`",
+    "url": "https://github.com/pandas-dev/pandas/issues/63255",
+    "created_at": "2025-12-03T16:46:30Z",
+    "user": "asddfl",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
