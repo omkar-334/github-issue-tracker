@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1061581761,
-    "number": 21729,
-    "title": "[Bug]: Inward direction of ticks works on 2d, but not 3d projections",
-    "url": "https://github.com/matplotlib/matplotlib/issues/21729",
-    "created_at": "2021-11-23T18:16:06Z",
-    "user": "ghost",
-    "labels": [
-      "topic: mplot3d",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
