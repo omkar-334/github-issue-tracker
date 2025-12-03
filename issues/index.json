@@ -31937,6 +31937,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3627229896,
+      "number": 167872,
+      "title": "exported program cannot be loaded with load_pt2: GraphModuleDeserializer' object has no attribute 'symbol_name_to_range'",
+      "url": "https://github.com/pytorch/pytorch/issues/167872",
+      "created_at": "2025-11-14T21:29:56Z",
+      "user": "rbavery",
+      "labels": [
+        "needs reproduction",
+        "oncall: pt2",
+        "oncall: export"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "skorch-dev/skorch",
       "id": 3627282100,
       "number": 1123,
@@ -46962,8 +46979,66 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3691671611,
+      "number": 12786,
+      "title": "[PRX] Improving export to Tensorrt",
+      "url": "https://github.com/huggingface/diffusers/issues/12786",
+      "created_at": "2025-12-03T19:51:02Z",
+      "user": "WaterKnight1998",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691672253,
+      "number": 169489,
+      "title": "Using pytree as arg with torch.distributed.checkpoint + torch.compile causes AttributeError",
+      "url": "https://github.com/pytorch/pytorch/issues/169489",
+      "created_at": "2025-12-03T19:51:14Z",
+      "user": "jeffrey-dot-li",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3691691533,
+      "number": 34193,
+      "title": "Add built-in health-aware middleware for tools/models with auto retry/fallback",
+      "url": "https://github.com/langchain-ai/langchain/issues/34193",
+      "created_at": "2025-12-03T19:57:58Z",
+      "user": "towseef41",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691742245,
+      "number": 169492,
+      "title": "UNSTABLE trunk / linux-jammy-cuda12.8-py3.10-gcc11 / test (default)",
+      "url": "https://github.com/pytorch/pytorch/issues/169492",
+      "created_at": "2025-12-03T20:14:14Z",
+      "user": "atalman",
+      "labels": [
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T19:38:20Z",
-  "total_count": 3150
+  "last_updated": "2025-12-03T20:19:25Z",
+  "total_count": 3155
 }

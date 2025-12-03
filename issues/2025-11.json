@@ -4890,6 +4890,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3627229896,
+    "number": 167872,
+    "title": "exported program cannot be loaded with load_pt2: GraphModuleDeserializer' object has no attribute 'symbol_name_to_range'",
+    "url": "https://github.com/pytorch/pytorch/issues/167872",
+    "created_at": "2025-11-14T21:29:56Z",
+    "user": "rbavery",
+    "labels": [
+      "needs reproduction",
+      "oncall: pt2",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 3627282100,
     "number": 1123,
