@@ -45398,8 +45398,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3688503360,
+      "number": 17404,
+      "title": "[Bug]: MCP server tools are not being used",
+      "url": "https://github.com/BerriAI/litellm/issues/17404",
+      "created_at": "2025-12-03T04:48:19Z",
+      "user": "josephfahimi",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3688513419,
+      "number": 169451,
+      "title": "UNSTABLE trunk / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169451",
+      "created_at": "2025-12-03T04:54:39Z",
+      "user": "huydhn",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3688514008,
+      "number": 3870,
+      "title": "FSDP2 fails due to `KeyError: 'lm_head.weight'`",
+      "url": "https://github.com/huggingface/accelerate/issues/3870",
+      "created_at": "2025-12-03T04:55:01Z",
+      "user": "qgallouedec",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T04:48:40Z",
-  "total_count": 3049
+  "last_updated": "2025-12-03T05:16:53Z",
+  "total_count": 3052
 }
