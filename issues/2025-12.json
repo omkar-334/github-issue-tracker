@@ -3371,5 +3371,80 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3689710323,
+    "number": 42589,
+    "title": "Incorrect tokenization `tokenizers` for escaped strings / Mismatch with `mistral_common`",
+    "url": "https://github.com/huggingface/transformers/issues/42589",
+    "created_at": "2025-12-03T10:57:35Z",
+    "user": "patrickvonplaten",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3689730452,
+    "number": 42590,
+    "title": "model type `deepseek_v32`",
+    "url": "https://github.com/huggingface/transformers/issues/42590",
+    "created_at": "2025-12-03T11:02:16Z",
+    "user": "fernandaspets",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3689738725,
+    "number": 30362,
+    "title": "DOC: Numpy website documentation not up to date with repo",
+    "url": "https://github.com/numpy/numpy/issues/30362",
+    "created_at": "2025-12-03T11:04:21Z",
+    "user": "onionate",
+    "labels": [
+      "04 - Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3689759840,
+    "number": 42591,
+    "title": "Loading local non-Mistral tokenizer incorrectly trigger fix_mistral_regex warning.",
+    "url": "https://github.com/huggingface/transformers/issues/42591",
+    "created_at": "2025-12-03T11:09:29Z",
+    "user": "tohz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3689779594,
+    "number": 17417,
+    "title": "[Bug]: Moonshot AI Pricing Issues - Incorrect Cache Costs and Missing Data",
+    "url": "https://github.com/BerriAI/litellm/issues/17417",
+    "created_at": "2025-12-03T11:14:35Z",
+    "user": "alexanderkrauck",
+    "labels": [
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
