@@ -46362,8 +46362,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3690755634,
+      "number": 169469,
+      "title": "AOTI infinite recursion from a scalar buffer",
+      "url": "https://github.com/pytorch/pytorch/issues/169469",
+      "created_at": "2025-12-03T15:38:23Z",
+      "user": "ben-da6",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T15:18:48Z",
-  "total_count": 3112
+  "last_updated": "2025-12-03T15:45:50Z",
+  "total_count": 3113
 }
