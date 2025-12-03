@@ -45814,8 +45814,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3689533789,
+      "number": 169464,
+      "title": "cuda13 torch2.9 profiler do not show cuda time",
+      "url": "https://github.com/pytorch/pytorch/issues/169464",
+      "created_at": "2025-12-03T10:20:29Z",
+      "user": "leevan",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3689536427,
+      "number": 17415,
+      "title": "[Bug]: Prometheus metrics not updating for Bedrock requests",
+      "url": "https://github.com/BerriAI/litellm/issues/17415",
+      "created_at": "2025-12-03T10:21:02Z",
+      "user": "andrew19881123",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T10:19:26Z",
-  "total_count": 3077
+  "last_updated": "2025-12-03T10:49:12Z",
+  "total_count": 3079
 }
