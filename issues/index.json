@@ -4486,6 +4486,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3015977402,
+      "number": 52573,
+      "title": "[Data] Ray keeps adding nodes beyond Dataset.map concurrency",
+      "url": "https://github.com/ray-project/ray/issues/52573",
+      "created_at": "2025-04-24T04:38:59Z",
+      "user": "jleben",
+      "labels": [
+        "bug",
+        "P1",
+        "usability",
+        "data",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3017467084,
       "number": 3902,
@@ -9294,6 +9313,26 @@
       "labels": [
         "bug",
         "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3198005840,
+      "number": 54305,
+      "title": "[Ray Tune + Train V2] Broken resource sharing among Tune trials",
+      "url": "https://github.com/ray-project/ray/issues/54305",
+      "created_at": "2025-07-03T04:48:35Z",
+      "user": "jleben",
+      "labels": [
+        "bug",
+        "tune",
+        "triage",
+        "train",
+        "stability",
+        "community-backlog"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -47072,8 +47111,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3691948949,
+      "number": 3716,
+      "title": "Interaction Issue: agent fails to SPA Vue application where elements",
+      "url": "https://github.com/browser-use/browser-use/issues/3716",
+      "created_at": "2025-12-03T21:21:35Z",
+      "user": "ArneFeys",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3691968234,
+      "number": 59150,
+      "title": "[serve][feature] Node-packed Ray Serve replica scheduling",
+      "url": "https://github.com/ray-project/ray/issues/59150",
+      "created_at": "2025-12-03T21:28:29Z",
+      "user": "eicherseiji",
+      "labels": [
+        "serve"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3691973311,
+      "number": 17437,
+      "title": "[Bug]: Internal user/info returns 200 when user is not found instead of expected 404",
+      "url": "https://github.com/BerriAI/litellm/issues/17437",
+      "created_at": "2025-12-03T21:30:00Z",
+      "user": "richardmcsong",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T21:15:56Z",
-  "total_count": 3157
+  "last_updated": "2025-12-03T21:37:04Z",
+  "total_count": 3162
 }

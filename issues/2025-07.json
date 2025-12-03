@@ -208,6 +208,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3198005840,
+    "number": 54305,
+    "title": "[Ray Tune + Train V2] Broken resource sharing among Tune trials",
+    "url": "https://github.com/ray-project/ray/issues/54305",
+    "created_at": "2025-07-03T04:48:35Z",
+    "user": "jleben",
+    "labels": [
+      "bug",
+      "tune",
+      "triage",
+      "train",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3199039322,
     "number": 7668,

@@ -961,6 +961,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3015977402,
+    "number": 52573,
+    "title": "[Data] Ray keeps adding nodes beyond Dataset.map concurrency",
+    "url": "https://github.com/ray-project/ray/issues/52573",
+    "created_at": "2025-04-24T04:38:59Z",
+    "user": "jleben",
+    "labels": [
+      "bug",
+      "P1",
+      "usability",
+      "data",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3017467084,
     "number": 3902,
