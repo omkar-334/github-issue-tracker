@@ -3758,5 +3758,64 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3691064536,
+    "number": 24096,
+    "title": "BUG: TestVectorNorms is to strict for AOCL-BLAS, but accepts worse results",
+    "url": "https://github.com/scipy/scipy/issues/24096",
+    "created_at": "2025-12-03T16:55:33Z",
+    "user": "Micket",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3691109739,
+    "number": 5440,
+    "title": "Current GitHub issue template is no longer showing up",
+    "url": "https://github.com/plotly/plotly.py/issues/5440",
+    "created_at": "2025-12-03T17:07:10Z",
+    "user": "camdecoster",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3691112093,
+    "number": 33689,
+    "title": "jax.lax.stop_gradient behaves inconsistent for integer auto-diff tracers",
+    "url": "https://github.com/jax-ml/jax/issues/33689",
+    "created_at": "2025-12-03T17:07:50Z",
+    "user": "jstuecker",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3691142968,
+    "number": 59140,
+    "title": "[Serve] Very slow first time load for multiplexed models",
+    "url": "https://github.com/ray-project/ray/issues/59140",
+    "created_at": "2025-12-03T17:15:48Z",
+    "user": "mbignotti",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
