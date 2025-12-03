@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1196638969,
+    "number": 22800,
+    "title": "[Bug]: Ticklabel padding different between top and bottom",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22800",
+    "created_at": "2022-04-07T22:42:42Z",
+    "user": "baloe",
+    "labels": [
+      "topic: ticks axis labels",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
