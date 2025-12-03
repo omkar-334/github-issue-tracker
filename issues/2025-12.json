@@ -3817,5 +3817,37 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3691160647,
+    "number": 17425,
+    "title": "[Bug]: Empty Tool Call Objects in Streaming Response with Parallel Tool Calls (Regression in v1.80.0)",
+    "url": "https://github.com/BerriAI/litellm/issues/17425",
+    "created_at": "2025-12-03T17:20:32Z",
+    "user": "joshgarnett",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3691198890,
+    "number": 13211,
+    "title": "Support Pandas 3",
+    "url": "https://github.com/streamlit/streamlit/issues/13211",
+    "created_at": "2025-12-03T17:30:33Z",
+    "user": "ghilesmeddour",
+    "labels": [
+      "type:enhancement",
+      "dependencies"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
