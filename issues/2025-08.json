@@ -1404,6 +1404,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3327318404,
+    "number": 160812,
+    "title": "compiled matmul does not respect thread number limits on CPU",
+    "url": "https://github.com/pytorch/pytorch/issues/160812",
+    "created_at": "2025-08-16T14:16:19Z",
+    "user": "ev-br",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "oncall: cpu inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3327475137,
     "number": 1847,

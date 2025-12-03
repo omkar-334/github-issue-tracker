@@ -8460,6 +8460,44 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3653547163,
+    "number": 168624,
+    "title": "Test: MinifierIsolateTests.test_after_aot_gpu_runtime_error",
+    "url": "https://github.com/pytorch/pytorch/issues/168624",
+    "created_at": "2025-11-22T01:04:22Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653548534,
+    "number": 168652,
+    "title": "Test: TestSelectAlgorithm.test_mm_dropout",
+    "url": "https://github.com/pytorch/pytorch/issues/168652",
+    "created_at": "2025-11-22T01:05:08Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3653628578,
     "number": 18970,
