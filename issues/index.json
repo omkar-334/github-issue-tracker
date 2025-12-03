@@ -7345,6 +7345,28 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3121133339,
+      "number": 155216,
+      "title": "DISABLED test_Linear_cuda_tf32 (__main__.TestNN)",
+      "url": "https://github.com/pytorch/pytorch/issues/155216",
+      "created_at": "2025-06-05T12:55:44Z",
+      "user": "pytorch-bot[bot]",
+      "labels": [
+        "high priority",
+        "triage review",
+        "module: nn",
+        "module: rocm",
+        "triaged",
+        "module: flaky-tests",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3122310577,
       "number": 13831,
@@ -22597,6 +22619,22 @@
       "user": "liad-inon",
       "labels": [
         "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3522315388,
+      "number": 15601,
+      "title": "[Bug]: Anthropic thinking blocks not present in request with tool calls",
+      "url": "https://github.com/BerriAI/litellm/issues/15601",
+      "created_at": "2025-10-16T15:05:58Z",
+      "user": "DominikKonikLudus",
+      "labels": [
+        "bug",
+        "llm translation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -46607,8 +46645,131 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3691291259,
+      "number": 59142,
+      "title": "[Data] Node fault tolerant shuffles",
+      "url": "https://github.com/ray-project/ray/issues/59142",
+      "created_at": "2025-12-03T17:54:24Z",
+      "user": "Tom-Newton",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691291742,
+      "number": 169477,
+      "title": "torch.compile on @torch.inferece_mode() cause RuntimeError: <weakref ...  to 'torch.storage.UntypedStorage' ...>",
+      "url": "https://github.com/pytorch/pytorch/issues/169477",
+      "created_at": "2025-12-03T17:54:31Z",
+      "user": "zzzwen",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3691299386,
+      "number": 17428,
+      "title": "[Bug]: Reasoning summaries not returned when using GPT models through LiteLLM (Agents SDK compatibility issue)",
+      "url": "https://github.com/BerriAI/litellm/issues/17428",
+      "created_at": "2025-12-03T17:56:42Z",
+      "user": "UssuGit",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3691312794,
+      "number": 34191,
+      "title": "Possible error in \"_resize\" function from langchain_openai.chat_models.base: wrong \"new height\" when width < height",
+      "url": "https://github.com/langchain-ai/langchain/issues/34191",
+      "created_at": "2025-12-03T18:00:49Z",
+      "user": "gabrielagu",
+      "labels": [
+        "bug",
+        "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691336631,
+      "number": 169479,
+      "title": "Discussion on addition Spin commands that would be useful",
+      "url": "https://github.com/pytorch/pytorch/issues/169479",
+      "created_at": "2025-12-03T18:08:08Z",
+      "user": "amjames",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691340625,
+      "number": 169480,
+      "title": "UNSTABLE inductor / unit-test / inductor-pallas-test / test (inductor-pallas)",
+      "url": "https://github.com/pytorch/pytorch/issues/169480",
+      "created_at": "2025-12-03T18:09:13Z",
+      "user": "malfet",
+      "labels": [
+        "module: ci",
+        "triaged",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691341092,
+      "number": 169481,
+      "title": "DISABLED test_pretrained_non_const_attr (__main__.TestHFPretrained)",
+      "url": "https://github.com/pytorch/pytorch/issues/169481",
+      "created_at": "2025-12-03T18:09:22Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "skipped"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3691383560,
+      "number": 17429,
+      "title": "[Bug]: user/info does not return a typed Response",
+      "url": "https://github.com/BerriAI/litellm/issues/17429",
+      "created_at": "2025-12-03T18:21:01Z",
+      "user": "richardmcsong",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T17:45:29Z",
-  "total_count": 3128
+  "last_updated": "2025-12-03T18:26:13Z",
+  "total_count": 3138
 }
