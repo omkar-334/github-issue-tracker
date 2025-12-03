@@ -1279,6 +1279,23 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3029911677,
+    "number": 2435,
+    "title": "multi-GPU training",
+    "url": "https://github.com/unslothai/unsloth/issues/2435",
+    "created_at": "2025-04-30T01:57:05Z",
+    "user": "duyuankai1992",
+    "labels": [
+      "on roadmap",
+      "feature request",
+      "multigpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3029990140,
     "number": 9043,
