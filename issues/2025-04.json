@@ -255,6 +255,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2981540594,
+    "number": 52133,
+    "title": "[Core] Ray fractional GPU unable to be scheduled",
+    "url": "https://github.com/ray-project/ray/issues/52133",
+    "created_at": "2025-04-09T05:03:05Z",
+    "user": "ongkong",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "core-scheduler",
+      "gpu",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2982147540,
     "number": 3155,

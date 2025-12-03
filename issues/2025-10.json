@@ -2356,6 +2356,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3512658854,
+    "number": 165408,
+    "title": "[torch.compile][fullgraph] Dynamo rejects comparing `data_ptr()` results (`Unsupported: Builtin operator.* comparison with constant self`)",
+    "url": "https://github.com/pytorch/pytorch/issues/165408",
+    "created_at": "2025-10-14T07:12:03Z",
+    "user": "tinywisdom",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3512783057,
     "number": 15526,
@@ -3542,6 +3560,24 @@
     "user": "gregm711",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3532089887,
+    "number": 165901,
+    "title": "[dynamo] support for locel sentinel values (`sentinal = object(); if func(...) is sentinal: ...`)",
+    "url": "https://github.com/pytorch/pytorch/issues/165901",
+    "created_at": "2025-10-20T11:27:08Z",
+    "user": "XuehaiPan",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-triage-dec2025"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

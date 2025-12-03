@@ -3987,5 +3987,97 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3691485030,
+    "number": 59143,
+    "title": "[Doc] Ray 2.52.0 release notes contain AI discussion copy-paste",
+    "url": "https://github.com/ray-project/ray/issues/59143",
+    "created_at": "2025-12-03T18:54:10Z",
+    "user": "Phirefly9",
+    "labels": [
+      "triage",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3691491947,
+    "number": 59144,
+    "title": "[Data] GPU actor pools don't autoscale on an autoscaling cluster",
+    "url": "https://github.com/ray-project/ray/issues/59144",
+    "created_at": "2025-12-03T18:56:30Z",
+    "user": "Tom-Newton",
+    "labels": [
+      "bug",
+      "triage",
+      "performance",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3691497582,
+    "number": 33694,
+    "title": "Device -> host transfer causes CUDA OOM on WSL2",
+    "url": "https://github.com/jax-ml/jax/issues/33694",
+    "created_at": "2025-12-03T18:58:14Z",
+    "user": "jkyl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3691589153,
+    "number": 169488,
+    "title": "[Torch.Export] Unable to set dynamic shape for a sparse tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/169488",
+    "created_at": "2025-12-03T19:23:03Z",
+    "user": "pyemma",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3691609585,
+    "number": 3715,
+    "title": "Feature Request: custom javascript alert dialog handling",
+    "url": "https://github.com/browser-use/browser-use/issues/3715",
+    "created_at": "2025-12-03T19:30:02Z",
+    "user": "scottgigante-hubflow",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3691609886,
+    "number": 42608,
+    "title": "Ministral-3-3B-Instruct-2512-ONNX does not work on Electron",
+    "url": "https://github.com/huggingface/transformers/issues/42608",
+    "created_at": "2025-12-03T19:30:08Z",
+    "user": "abdullah-cod9",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

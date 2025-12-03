@@ -676,6 +676,21 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 2765322564,
+      "number": 30567,
+      "title": "Provide wheel for Windows ARM64",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/30567",
+      "created_at": "2025-01-02T00:09:14Z",
+      "user": "CanePlayz",
+      "labels": [
+        "Build / CI"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 2765742197,
       "number": 2145,
@@ -3742,6 +3757,26 @@
       "created_at": "2025-04-09T04:08:28Z",
       "user": "Bihan",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 2981540594,
+      "number": 52133,
+      "title": "[Core] Ray fractional GPU unable to be scheduled",
+      "url": "https://github.com/ray-project/ray/issues/52133",
+      "created_at": "2025-04-09T05:03:05Z",
+      "user": "ongkong",
+      "labels": [
+        "bug",
+        "P1",
+        "core",
+        "core-scheduler",
+        "gpu",
+        "community-backlog"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -21996,6 +22031,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3512658854,
+      "number": 165408,
+      "title": "[torch.compile][fullgraph] Dynamo rejects comparing `data_ptr()` results (`Unsupported: Builtin operator.* comparison with constant self`)",
+      "url": "https://github.com/pytorch/pytorch/issues/165408",
+      "created_at": "2025-10-14T07:12:03Z",
+      "user": "tinywisdom",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3512783057,
       "number": 15526,
@@ -23182,6 +23235,24 @@
       "user": "gregm711",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3532089887,
+      "number": 165901,
+      "title": "[dynamo] support for locel sentinel values (`sentinal = object(); if func(...) is sentinal: ...`)",
+      "url": "https://github.com/pytorch/pytorch/issues/165901",
+      "created_at": "2025-10-20T11:27:08Z",
+      "user": "XuehaiPan",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -46799,8 +46870,100 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3691485030,
+      "number": 59143,
+      "title": "[Doc] Ray 2.52.0 release notes contain AI discussion copy-paste",
+      "url": "https://github.com/ray-project/ray/issues/59143",
+      "created_at": "2025-12-03T18:54:10Z",
+      "user": "Phirefly9",
+      "labels": [
+        "triage",
+        "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3691491947,
+      "number": 59144,
+      "title": "[Data] GPU actor pools don't autoscale on an autoscaling cluster",
+      "url": "https://github.com/ray-project/ray/issues/59144",
+      "created_at": "2025-12-03T18:56:30Z",
+      "user": "Tom-Newton",
+      "labels": [
+        "bug",
+        "triage",
+        "performance",
+        "data",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3691497582,
+      "number": 33694,
+      "title": "Device -> host transfer causes CUDA OOM on WSL2",
+      "url": "https://github.com/jax-ml/jax/issues/33694",
+      "created_at": "2025-12-03T18:58:14Z",
+      "user": "jkyl",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3691589153,
+      "number": 169488,
+      "title": "[Torch.Export] Unable to set dynamic shape for a sparse tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/169488",
+      "created_at": "2025-12-03T19:23:03Z",
+      "user": "pyemma",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3691609585,
+      "number": 3715,
+      "title": "Feature Request: custom javascript alert dialog handling",
+      "url": "https://github.com/browser-use/browser-use/issues/3715",
+      "created_at": "2025-12-03T19:30:02Z",
+      "user": "scottgigante-hubflow",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3691609886,
+      "number": 42608,
+      "title": "Ministral-3-3B-Instruct-2512-ONNX does not work on Electron",
+      "url": "https://github.com/huggingface/transformers/issues/42608",
+      "created_at": "2025-12-03T19:30:08Z",
+      "user": "abdullah-cod9",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T18:54:03Z",
-  "total_count": 3140
+  "last_updated": "2025-12-03T19:38:20Z",
+  "total_count": 3150
 }
