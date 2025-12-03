@@ -2889,5 +2889,83 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3688330468,
+    "number": 9298,
+    "title": "ROCm Build from source hit error: multiple definition of `vision::cuda_version()'",
+    "url": "https://github.com/pytorch/vision/issues/9298",
+    "created_at": "2025-12-03T03:15:13Z",
+    "user": "unavailableun",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3688334144,
+    "number": 17402,
+    "title": "[Bug]: use_in_pass_through does not pass project/location to Vertex AI — project_name=None and location=None",
+    "url": "https://github.com/BerriAI/litellm/issues/17402",
+    "created_at": "2025-12-03T03:17:21Z",
+    "user": "krisxia0506",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3688336189,
+    "number": 4612,
+    "title": "GRPOTrainer: liger_kernel loss implementation ignores PEFT/LoRA adapters on lm_head",
+    "url": "https://github.com/huggingface/trl/issues/4612",
+    "created_at": "2025-12-03T03:18:14Z",
+    "user": "junho328",
+    "labels": [
+      "🐛 bug",
+      "⚡ PEFT",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3688358027,
+    "number": 42581,
+    "title": "Error with Kyutai Speech-To-Text inference",
+    "url": "https://github.com/huggingface/transformers/issues/42581",
+    "created_at": "2025-12-03T03:29:46Z",
+    "user": "alien-0119",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3688396020,
+    "number": 42582,
+    "title": "4.57.3 auto_docstring crashes with AttributeError",
+    "url": "https://github.com/huggingface/transformers/issues/42582",
+    "created_at": "2025-12-03T03:48:27Z",
+    "user": "ymcki",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

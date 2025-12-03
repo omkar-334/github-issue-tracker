@@ -1,81 +1,26 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1061581761,
-    "number": 21729,
-    "title": "[Bug]: Inward direction of ticks works on 2d, but not 3d projections",
-    "url": "https://github.com/matplotlib/matplotlib/issues/21729",
-    "created_at": "2021-11-23T18:16:06Z",
-    "user": "ghost",
-    "labels": [
-      "topic: mplot3d",
-      "status: inactive"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1093655006,
-    "number": 22104,
-    "title": "[Bug]: Can't obviously control radial ticks on polar plot",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22104",
-    "created_at": "2022-01-04T18:45:36Z",
-    "user": "robbiemallett",
-    "labels": [
-      "status: confirmed bug",
-      "topic: polar",
-      "topic: ticks axis labels",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1196638969,
-    "number": 22800,
-    "title": "[Bug]: Ticklabel padding different between top and bottom",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22800",
-    "created_at": "2022-04-07T22:42:42Z",
-    "user": "baloe",
-    "labels": [
-      "topic: ticks axis labels",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1199762743,
-    "number": 22822,
-    "title": "[Bug]: Figure does not scale to window size",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22822",
-    "created_at": "2022-04-11T10:35:29Z",
-    "user": "thomas-haslwanter",
-    "labels": [
-      "GUI: tk",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1215886030,
-    "number": 22901,
-    "title": "[Bug]: Patch Circle not plotted correct in the symlog scale",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22901",
-    "created_at": "2022-04-26T12:29:33Z",
-    "user": "lrtfm",
-    "labels": [
-      "status: inactive"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
