@@ -2993,5 +2993,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3688469343,
+    "number": 169448,
+    "title": "FSDP2 model saving broken unless ignoring frozen params",
+    "url": "https://github.com/pytorch/pytorch/issues/169448",
+    "created_at": "2025-12-03T04:27:40Z",
+    "user": "ojh31",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3688475430,
+    "number": 9150,
+    "title": "[BUG] Absence of classmethod `get_test_params` in `MCDCNNClassifier`",
+    "url": "https://github.com/sktime/sktime/issues/9150",
+    "created_at": "2025-12-03T04:31:19Z",
+    "user": "EmanAbdelhaleem",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
