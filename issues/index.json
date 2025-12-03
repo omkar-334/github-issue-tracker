@@ -45623,8 +45623,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3689079742,
+      "number": 59131,
+      "title": "[Core] `ClusterSizeBasedLeaseRequestRateLimiter` miscalculation of the alive node number resulted in an excessively small `MaxPendingLeaseRequestsPerSchedulingCategory`",
+      "url": "https://github.com/ray-project/ray/issues/59131",
+      "created_at": "2025-12-03T08:32:58Z",
+      "user": "Catch-Bull",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3689080031,
+      "number": 169461,
+      "title": "torch compile + replicate, compute and communication not overlap",
+      "url": "https://github.com/pytorch/pytorch/issues/169461",
+      "created_at": "2025-12-03T08:33:05Z",
+      "user": "peaceorwell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3689140702,
+      "number": 3674,
+      "title": "[Bug] Deepseek OCR finetune failed",
+      "url": "https://github.com/unslothai/unsloth/issues/3674",
+      "created_at": "2025-12-03T08:48:47Z",
+      "user": "jil-olala",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T08:23:15Z",
-  "total_count": 3064
+  "last_updated": "2025-12-03T08:51:56Z",
+  "total_count": 3067
 }

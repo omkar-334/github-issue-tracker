@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 2674141895,
+    "number": 28226,
+    "title": "`init_chat_model` doesn't work with huggingface models",
+    "url": "https://github.com/langchain-ai/langchain/issues/28226",
+    "created_at": "2024-11-20T03:01:49Z",
+    "user": "SauravMaheshkar",
+    "labels": [
+      "good first issue",
+      "bug",
+      "integration",
+      "huggingface"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
