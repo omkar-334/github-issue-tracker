@@ -371,6 +371,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3378876396,
+    "number": 14201,
+    "title": "[Bug]: pre_call_hooks receiving data dict with None metadata",
+    "url": "https://github.com/BerriAI/litellm/issues/14201",
+    "created_at": "2025-09-03T08:32:09Z",
+    "user": "stdweird",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 3379159836,
     "number": 1120,
@@ -379,6 +395,22 @@
     "created_at": "2025-09-03T09:52:25Z",
     "user": "nafraw",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3379254689,
+    "number": 14203,
+    "title": "TypeError: litellm.types.utils.FunctionCall() argument after ** must be a mapping, not str",
+    "url": "https://github.com/BerriAI/litellm/issues/14203",
+    "created_at": "2025-09-03T10:20:44Z",
+    "user": "Sundaram-07",
+    "labels": [
+      "llm translation",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -397,6 +429,92 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3380149027,
+    "number": 14208,
+    "title": "[Bug]: Bedrock multimodel prompt is broken",
+    "url": "https://github.com/BerriAI/litellm/issues/14208",
+    "created_at": "2025-09-03T14:43:14Z",
+    "user": "timothywong731",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3380275939,
+    "number": 14209,
+    "title": "[Feature]: Support for AWS IAM support for ElasticCache",
+    "url": "https://github.com/BerriAI/litellm/issues/14209",
+    "created_at": "2025-09-03T15:19:43Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3380836452,
+    "number": 14218,
+    "title": "[Feature]: /spend/logs api route pagination",
+    "url": "https://github.com/BerriAI/litellm/issues/14218",
+    "created_at": "2025-09-03T18:27:21Z",
+    "user": "slmagus",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3381005097,
+    "number": 14219,
+    "title": "[Feature]: Add AWS Bearer Token support for Bedrock via DB Model / UI",
+    "url": "https://github.com/BerriAI/litellm/issues/14219",
+    "created_at": "2025-09-03T19:24:38Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3381128498,
+    "number": 14220,
+    "title": "keep previous reasoning_content in prompt?",
+    "url": "https://github.com/BerriAI/litellm/issues/14220",
+    "created_at": "2025-09-03T20:08:22Z",
+    "user": "Zacharias030",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3381322879,
     "number": 3512,
@@ -405,6 +523,41 @@
     "created_at": "2025-09-03T21:15:22Z",
     "user": "nadshe",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3381458269,
+    "number": 14224,
+    "title": "[Bug]: Unable to remove models",
+    "url": "https://github.com/BerriAI/litellm/issues/14224",
+    "created_at": "2025-09-03T22:17:31Z",
+    "user": "aquan9",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3381589513,
+    "number": 14227,
+    "title": "[Feature]: Support structured output in responses API for vertex ai/gemini models",
+    "url": "https://github.com/BerriAI/litellm/issues/14227",
+    "created_at": "2025-09-03T23:15:40Z",
+    "user": "dsinha244",
+    "labels": [
+      "enhancement",
+      "llm translation",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -879,6 +879,23 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3305433293,
+    "number": 55436,
+    "title": "[core][GPU Objects] Nightly performance microbenchmarks",
+    "url": "https://github.com/ray-project/ray/issues/55436",
+    "created_at": "2025-08-08T23:30:17Z",
+    "user": "Qiaolin-Yu",
+    "labels": [
+      "performance",
+      "core",
+      "rdt"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3306933996,
     "number": 9173,

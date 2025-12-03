@@ -2610,5 +2610,137 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3687940147,
+    "number": 2100,
+    "title": "symmetric memory all2all integration for EP",
+    "url": "https://github.com/pytorch/torchtitan/issues/2100",
+    "created_at": "2025-12-03T00:02:55Z",
+    "user": "goldhuang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3687953013,
+    "number": 2101,
+    "title": "EP in latest main is slow",
+    "url": "https://github.com/pytorch/torchtitan/issues/2101",
+    "created_at": "2025-12-03T00:10:46Z",
+    "user": "goldhuang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3687982616,
+    "number": 33679,
+    "title": "JAX encounters a core dump error",
+    "url": "https://github.com/jax-ml/jax/issues/33679",
+    "created_at": "2025-12-03T00:28:48Z",
+    "user": "Henry0132",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3687983895,
+    "number": 3702,
+    "title": "Bug: Can't initialize `Agent` with `llm_screenshot_size`",
+    "url": "https://github.com/browser-use/browser-use/issues/3702",
+    "created_at": "2025-12-03T00:29:20Z",
+    "user": "amascolo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3688001079,
+    "number": 169435,
+    "title": "flex attention should fuse gating in its epilogue",
+    "url": "https://github.com/pytorch/pytorch/issues/169435",
+    "created_at": "2025-12-03T00:36:16Z",
+    "user": "v0i0",
+    "labels": [
+      "oncall: pt2",
+      "module: flex attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3688022201,
+    "number": 12778,
+    "title": "AttributeError: type object 'Flux2ImageProcessor' has no attribute 'image_processor'",
+    "url": "https://github.com/huggingface/diffusers/issues/12778",
+    "created_at": "2025-12-03T00:46:25Z",
+    "user": "hannalaguilar",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3688042883,
+    "number": 13191,
+    "title": "Date and time icons in `st.data_editor` do not pull color from theming",
+    "url": "https://github.com/streamlit/streamlit/issues/13191",
+    "created_at": "2025-12-03T00:58:08Z",
+    "user": "sfc-gh-dmatthews",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3688047266,
+    "number": 17396,
+    "title": "[Feature]: Support GCP Chirp 3: HD voices (Text-to-Speech)",
+    "url": "https://github.com/BerriAI/litellm/issues/17396",
+    "created_at": "2025-12-03T01:00:55Z",
+    "user": "yixwang209",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3688068886,
+    "number": 169439,
+    "title": "[DTensor] inconsistent redistribute_cost",
+    "url": "https://github.com/pytorch/pytorch/issues/169439",
+    "created_at": "2025-12-03T01:10:36Z",
+    "user": "wconstab",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

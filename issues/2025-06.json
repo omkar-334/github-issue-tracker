@@ -1394,6 +1394,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3163989032,
+    "number": 53978,
+    "title": "[core][gpu-objects] Allow sending ObjectRefs to other processes",
+    "url": "https://github.com/ray-project/ray/issues/53978",
+    "created_at": "2025-06-20T17:36:09Z",
+    "user": "stephanie-wang",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "core",
+      "gpu",
+      "rdt"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3164359234,
     "number": 3400,
@@ -1775,6 +1795,27 @@
     "created_at": "2025-06-26T11:40:26Z",
     "user": "sebv004",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3181362057,
+    "number": 54166,
+    "title": "[core][gpu-objects] Support DTensor",
+    "url": "https://github.com/ray-project/ray/issues/54166",
+    "created_at": "2025-06-27T04:58:18Z",
+    "user": "kevin85421",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "performance",
+      "core",
+      "rdt",
+      "verl-poc"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

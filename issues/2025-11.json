@@ -3899,6 +3899,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3618264457,
+    "number": 167678,
+    "title": "[dynamo, BE] improve function variable type annotation",
+    "url": "https://github.com/pytorch/pytorch/issues/167678",
+    "created_at": "2025-11-12T21:16:58Z",
+    "user": "williamwen42",
+    "labels": [
+      "triaged",
+      "better-engineering",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-variable-tracker",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3618302107,
     "number": 13005,
@@ -4483,6 +4503,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3624162698,
+    "number": 167812,
+    "title": "Dynamo log always emits ANSI color codes into torch_compile_debug/torchdynamo/debug.log due to colored=True in lazy_format_graph_code",
+    "url": "https://github.com/pytorch/pytorch/issues/167812",
+    "created_at": "2025-11-14T06:40:25Z",
+    "user": "wmhst7",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3624401304,
     "number": 33961,
@@ -4869,6 +4908,43 @@
     "labels": [
       "scipy.interpolate",
       "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3627890090,
+    "number": 167898,
+    "title": "Dynamo recompile reasons should have the ability to inspect the full user stack trace that triggered the guard in question",
+    "url": "https://github.com/pytorch/pytorch/issues/167898",
+    "created_at": "2025-11-15T02:56:08Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3627901502,
+    "number": 167900,
+    "title": "Context manager destroys user stack when code under trace raises exception",
+    "url": "https://github.com/pytorch/pytorch/issues/167900",
+    "created_at": "2025-11-15T03:04:42Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux",
+      "dynamo-triage-dec2025"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5617,6 +5693,27 @@
       "🚀 deepspeed",
       "⚡accelerate",
       "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3633830840,
+    "number": 167991,
+    "title": "Warnings from inside Dynamo should include at least one level of stack trace",
+    "url": "https://github.com/pytorch/pytorch/issues/167991",
+    "created_at": "2025-11-17T15:31:02Z",
+    "user": "zou3519",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "vllm-compile",
+      "module: compile ux",
+      "module: vllm",
+      "dynamo-triage-dec2025"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7006,6 +7103,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3644948272,
+    "number": 168206,
+    "title": "[dynamo][poor graph break message] AC and side effects",
+    "url": "https://github.com/pytorch/pytorch/issues/168206",
+    "created_at": "2025-11-20T00:57:57Z",
+    "user": "anijain2305",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3645004589,
     "number": 42291,
@@ -7526,6 +7641,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3648587984,
+    "number": 168284,
+    "title": "torch.compile, when passes a single torch operation, does not put it into a graph",
+    "url": "https://github.com/pytorch/pytorch/issues/168284",
+    "created_at": "2025-11-20T18:42:58Z",
+    "user": "v0i0",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3648601064,
     "number": 5428,
@@ -7655,6 +7789,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3649150655,
+    "number": 168307,
+    "title": "torch.compile error when creating nested tensors dynamically in forward pass",
+    "url": "https://github.com/pytorch/pytorch/issues/168307",
+    "created_at": "2025-11-20T21:25:42Z",
+    "user": "tolleybot",
+    "labels": [
+      "triaged",
+      "module: nestedtensor",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3649204860,
     "number": 42312,
@@ -7719,6 +7872,24 @@
     "created_at": "2025-11-20T23:43:00Z",
     "user": "Rafael-Cast",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3649714228,
+    "number": 168317,
+    "title": "[dynamo] expand ignore_logger_methods to arbitrary functions",
+    "url": "https://github.com/pytorch/pytorch/issues/168317",
+    "created_at": "2025-11-21T00:38:35Z",
+    "user": "williamwen42",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: compile ux"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
