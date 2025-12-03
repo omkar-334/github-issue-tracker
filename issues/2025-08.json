@@ -1312,6 +1312,23 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3323877138,
+    "number": 12223,
+    "title": "Change background color of top navigation bar",
+    "url": "https://github.com/streamlit/streamlit/issues/12223",
+    "created_at": "2025-08-14T23:29:51Z",
+    "user": "cppratt1",
+    "labels": [
+      "type:enhancement",
+      "feature:theming",
+      "feature:st.navigation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3324479245,
     "number": 13643,

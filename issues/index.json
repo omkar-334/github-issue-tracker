@@ -1883,6 +1883,24 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 2845606362,
+      "number": 30810,
+      "title": "Windows free-threaded Python ValueError: concurrent send_bytes() calls are not supported",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/30810",
+      "created_at": "2025-02-11T14:44:27Z",
+      "user": "lesteve",
+      "labels": [
+        "Bug",
+        "Needs Investigation",
+        "free-threading",
+        "OS:Windows"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2850709175,
       "number": 1768,
@@ -13567,6 +13585,23 @@
       "user": "Blyzi",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3323877138,
+      "number": 12223,
+      "title": "Change background color of top navigation bar",
+      "url": "https://github.com/streamlit/streamlit/issues/12223",
+      "created_at": "2025-08-14T23:29:51Z",
+      "user": "cppratt1",
+      "labels": [
+        "type:enhancement",
+        "feature:theming",
+        "feature:st.navigation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -47039,6 +47074,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-03T20:19:25Z",
-  "total_count": 3155
+  "last_updated": "2025-12-03T20:46:00Z",
+  "total_count": 3157
 }
