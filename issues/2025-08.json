@@ -1594,6 +1594,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3333516382,
+    "number": 13746,
+    "title": "[Bug]: Non-Root image db migrations not working",
+    "url": "https://github.com/BerriAI/litellm/issues/13746",
+    "created_at": "2025-08-19T08:54:38Z",
+    "user": "sj-rtl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3333864845,
     "number": 2916,
@@ -2308,6 +2323,22 @@
     "labels": [
       "stat:contributions welcome",
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3359762053,
+    "number": 14006,
+    "title": "[Bug]: Permission denied: schema.prisma",
+    "url": "https://github.com/BerriAI/litellm/issues/14006",
+    "created_at": "2025-08-27T15:10:51Z",
+    "user": "ishaan-jaff",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

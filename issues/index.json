@@ -13798,6 +13798,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3333516382,
+      "number": 13746,
+      "title": "[Bug]: Non-Root image db migrations not working",
+      "url": "https://github.com/BerriAI/litellm/issues/13746",
+      "created_at": "2025-08-19T08:54:38Z",
+      "user": "sj-rtl",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3333864845,
       "number": 2916,
@@ -14512,6 +14527,22 @@
       "labels": [
         "stat:contributions welcome",
         "type:Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3359762053,
+      "number": 14006,
+      "title": "[Bug]: Permission denied: schema.prisma",
+      "url": "https://github.com/BerriAI/litellm/issues/14006",
+      "created_at": "2025-08-27T15:10:51Z",
+      "user": "ishaan-jaff",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -15860,6 +15891,22 @@
       "created_at": "2025-09-05T10:32:01Z",
       "user": "arjunguha",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3387546976,
+      "number": 62261,
+      "title": "TRACKER: add support for Python 3.14",
+      "url": "https://github.com/pandas-dev/pandas/issues/62261",
+      "created_at": "2025-09-05T13:22:06Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "Master Tracker",
+        "Python 3.14"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -46375,8 +46422,70 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3690811960,
+      "number": 12783,
+      "title": "Sage Attention sm90 causes confetti/noisy output",
+      "url": "https://github.com/huggingface/diffusers/issues/12783",
+      "created_at": "2025-12-03T15:53:07Z",
+      "user": "dylanprins",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3690841094,
+      "number": 32833,
+      "title": "Broken dev website JupyterLite since December 2",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32833",
+      "created_at": "2025-12-03T16:01:03Z",
+      "user": "lesteve",
+      "labels": [
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "id": 3690854204,
+      "number": 14444,
+      "title": "FastAPI 0.123.5 breaks async wrappers using @wraps",
+      "url": "https://github.com/fastapi/fastapi/issues/14444",
+      "created_at": "2025-12-03T16:04:52Z",
+      "user": "tiangolo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3690897718,
+      "number": 17423,
+      "title": "[Bug]: _bedrock_converse_messages_pt_async doesn't respect modify_params as expected",
+      "url": "https://github.com/BerriAI/litellm/issues/17423",
+      "created_at": "2025-12-03T16:15:07Z",
+      "user": "danielmklein",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T15:45:50Z",
-  "total_count": 3113
+  "last_updated": "2025-12-03T16:23:04Z",
+  "total_count": 3120
 }

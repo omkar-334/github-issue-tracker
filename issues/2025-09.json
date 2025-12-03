@@ -819,6 +819,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3387546976,
+    "number": 62261,
+    "title": "TRACKER: add support for Python 3.14",
+    "url": "https://github.com/pandas-dev/pandas/issues/62261",
+    "created_at": "2025-09-05T13:22:06Z",
+    "user": "jorisvandenbossche",
+    "labels": [
+      "Master Tracker",
+      "Python 3.14"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3389151670,
     "number": 2924,
