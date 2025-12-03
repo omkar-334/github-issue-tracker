@@ -17265,6 +17265,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3411833757,
+      "number": 162845,
+      "title": "[RFC] Bring up DLPack C Functions for Speedup and Streamline Exchange",
+      "url": "https://github.com/pytorch/pytorch/issues/162845",
+      "created_at": "2025-09-12T20:17:33Z",
+      "user": "tqchen",
+      "labels": [
+        "module: cpp",
+        "triaged",
+        "enhancement",
+        "actionable",
+        "module: dlpack"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3411886672,
       "number": 1708,
@@ -34977,6 +34996,22 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3649146132,
+      "number": 168306,
+      "title": "RMSNorm ONNX Export is broken",
+      "url": "https://github.com/pytorch/pytorch/issues/168306",
+      "created_at": "2025-11-20T21:24:24Z",
+      "user": "pggPL",
+      "labels": [
+        "module: onnx",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3649150655,
       "number": 168307,
       "title": "torch.compile error when creating nested tensors dynamically in forward pass",
@@ -47157,8 +47192,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3692044865,
+      "number": 59151,
+      "title": "[Autoscaler v2] Infeasible resource warning spams during normal autoscaler scale-up",
+      "url": "https://github.com/ray-project/ray/issues/59151",
+      "created_at": "2025-12-03T21:53:07Z",
+      "user": "han-steve",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3692054967,
+      "number": 30368,
+      "title": "BUG: No overload variant of \"arange\" matches argument types with numpy 2.4.0rc1",
+      "url": "https://github.com/numpy/numpy/issues/30368",
+      "created_at": "2025-12-03T21:57:16Z",
+      "user": "TomAugspurger",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3692101423,
+      "number": 169512,
+      "title": "enable CUDA 13.0 in CI",
+      "url": "https://github.com/pytorch/pytorch/issues/169512",
+      "created_at": "2025-12-03T22:12:34Z",
+      "user": "tinglvv",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T21:37:04Z",
-  "total_count": 3162
+  "last_updated": "2025-12-03T22:16:52Z",
+  "total_count": 3167
 }

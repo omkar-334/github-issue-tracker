@@ -7856,6 +7856,22 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3649146132,
+    "number": 168306,
+    "title": "RMSNorm ONNX Export is broken",
+    "url": "https://github.com/pytorch/pytorch/issues/168306",
+    "created_at": "2025-11-20T21:24:24Z",
+    "user": "pggPL",
+    "labels": [
+      "module: onnx",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3649150655,
     "number": 168307,
     "title": "torch.compile error when creating nested tensors dynamically in forward pass",

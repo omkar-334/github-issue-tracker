@@ -2041,6 +2041,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3411833757,
+    "number": 162845,
+    "title": "[RFC] Bring up DLPack C Functions for Speedup and Streamline Exchange",
+    "url": "https://github.com/pytorch/pytorch/issues/162845",
+    "created_at": "2025-09-12T20:17:33Z",
+    "user": "tqchen",
+    "labels": [
+      "module: cpp",
+      "triaged",
+      "enhancement",
+      "actionable",
+      "module: dlpack"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3411886672,
     "number": 1708,
