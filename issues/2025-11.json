@@ -7207,6 +7207,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3644996762,
+    "number": 168211,
+    "title": "PyTorch Dynamo ONNX Export: name conflict results in incorrect ONNX model",
+    "url": "https://github.com/pytorch/pytorch/issues/168211",
+    "created_at": "2025-11-20T01:22:09Z",
+    "user": "bas-aarts",
+    "labels": [
+      "module: onnx",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3645004589,
     "number": 42291,
