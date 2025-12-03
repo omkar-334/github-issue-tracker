@@ -2287,6 +2287,22 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3358432151,
+    "number": 12342,
+    "title": "Add support for dynamic tab badges or persistent tab keys",
+    "url": "https://github.com/streamlit/streamlit/issues/12342",
+    "created_at": "2025-08-27T08:00:08Z",
+    "user": "pallagj",
+    "labels": [
+      "type:enhancement",
+      "feature:st.tabs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3358511801,
     "number": 7111,
