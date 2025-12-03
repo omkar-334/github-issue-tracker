@@ -2748,6 +2748,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3427793207,
+    "number": 56638,
+    "title": "[serve.llm] `model` should be optional in Ray Serve LLM",
+    "url": "https://github.com/ray-project/ray/issues/56638",
+    "created_at": "2025-09-17T21:03:14Z",
+    "user": "eicherseiji",
+    "labels": [
+      "enhancement",
+      "triage",
+      "serve",
+      "usability",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3427838250,
     "number": 2928,

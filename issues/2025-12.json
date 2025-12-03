@@ -4227,5 +4227,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3692117694,
+    "number": 33707,
+    "title": "SVD does not propagate NaNs for batch sizes >2",
+    "url": "https://github.com/jax-ml/jax/issues/33707",
+    "created_at": "2025-12-03T22:18:49Z",
+    "user": "amacati",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -17972,6 +17972,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3427793207,
+      "number": 56638,
+      "title": "[serve.llm] `model` should be optional in Ray Serve LLM",
+      "url": "https://github.com/ray-project/ray/issues/56638",
+      "created_at": "2025-09-17T21:03:14Z",
+      "user": "eicherseiji",
+      "labels": [
+        "enhancement",
+        "triage",
+        "serve",
+        "usability",
+        "llm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3427838250,
       "number": 2928,
@@ -32855,6 +32874,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3633422534,
+      "number": 58702,
+      "title": "Deepseek OCR unsupported",
+      "url": "https://github.com/ray-project/ray/issues/58702",
+      "created_at": "2025-11-17T13:50:13Z",
+      "user": "ahsanmemon",
+      "labels": [
+        "bug",
+        "question",
+        "serve",
+        "llm",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "streamlit/streamlit",
       "id": 3633452839,
       "number": 13024,
@@ -47236,8 +47275,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3692117694,
+      "number": 33707,
+      "title": "SVD does not propagate NaNs for batch sizes >2",
+      "url": "https://github.com/jax-ml/jax/issues/33707",
+      "created_at": "2025-12-03T22:18:49Z",
+      "user": "amacati",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T22:16:52Z",
-  "total_count": 3167
+  "last_updated": "2025-12-03T22:43:20Z",
+  "total_count": 3170
 }
