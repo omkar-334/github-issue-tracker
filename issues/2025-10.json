@@ -3340,6 +3340,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3528715552,
+    "number": 41720,
+    "title": "Qwen3 with auto device mapping fails due to cudaErrorAssert on A800",
+    "url": "https://github.com/huggingface/transformers/issues/41720",
+    "created_at": "2025-10-18T11:50:43Z",
+    "user": "guosyjlu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3529349346,
     "number": 7233,
@@ -4915,6 +4930,22 @@
     "created_at": "2025-10-25T20:40:07Z",
     "user": "eyaler",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3553113950,
+    "number": 33672,
+    "title": "langchain-openai 无法读取到 qwen3 think 的过程 希望 支持 qwen3 像 支持 deepseek一样（initChatModel）",
+    "url": "https://github.com/langchain-ai/langchain/issues/33672",
+    "created_at": "2025-10-26T00:01:51Z",
+    "user": "CodeXiaoHan",
+    "labels": [
+      "feature request",
+      "openai"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
