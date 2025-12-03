@@ -3283,5 +3283,63 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3689376505,
+    "number": 42585,
+    "title": "bug in Mistral3",
+    "url": "https://github.com/huggingface/transformers/issues/42585",
+    "created_at": "2025-12-03T09:46:17Z",
+    "user": "foldl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3689444173,
+    "number": 34183,
+    "title": "Add support for ChatQwen in init_chat_model()",
+    "url": "https://github.com/langchain-ai/langchain/issues/34183",
+    "created_at": "2025-12-03T10:01:53Z",
+    "user": "changbindu",
+    "labels": [
+      "langchain",
+      "feature request",
+      "langchain-classic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3689480774,
+    "number": 3425,
+    "title": "DecomposeGroupNormPass(ArmPass) fails",
+    "url": "https://github.com/pytorch/ao/issues/3425",
+    "created_at": "2025-12-03T10:09:14Z",
+    "user": "eladc4",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3689506046,
+    "number": 2763,
+    "title": "gemini 3 - thought_signature missing",
+    "url": "https://github.com/openai/openai-python/issues/2763",
+    "created_at": "2025-12-03T10:14:35Z",
+    "user": "silvasw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

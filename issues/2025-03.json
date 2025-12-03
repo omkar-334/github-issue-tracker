@@ -43,6 +43,22 @@
     "archived": false
   },
   {
+    "repo": "sktime/sktime",
+    "id": 2889782823,
+    "number": 7921,
+    "title": "[BUG] `RocketClassifier` expected results no longer align with those hard-coded",
+    "url": "https://github.com/sktime/sktime/issues/7921",
+    "created_at": "2025-03-02T20:54:42Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "module:classification"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/stanza",
     "id": 2890868682,
     "number": 1468,
