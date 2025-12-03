@@ -8332,6 +8332,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3653470426,
+    "number": 168393,
+    "title": "`register_autograd` broken for `torch.func`, fails to register `setup_context`",
+    "url": "https://github.com/pytorch/pytorch/issues/168393",
+    "created_at": "2025-11-22T00:18:34Z",
+    "user": "rwkeane",
+    "labels": [
+      "triaged",
+      "module: vmap",
+      "module: functorch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3653483343,
     "number": 34066,
@@ -10597,6 +10614,23 @@
     "user": "yuwei-qin",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3664598914,
+    "number": 169080,
+    "title": "Processing & Tiling Massive Images",
+    "url": "https://github.com/pytorch/pytorch/issues/169080",
+    "created_at": "2025-11-25T21:08:52Z",
+    "user": "Zernach",
+    "labels": [
+      "module: dataloader",
+      "triaged",
+      "module: data"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -2159,6 +2159,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3686583953,
+    "number": 169378,
+    "title": "[rocm triton 3.6] rocm-periodic-dynamo-benchmarks-test : convnextv2_nano.fcmae_ft_in22k_in1k fail_accuracy",
+    "url": "https://github.com/pytorch/pytorch/issues/169378",
+    "created_at": "2025-12-02T16:22:03Z",
+    "user": "atalman",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3686620194,
     "number": 169381,
     "title": "[DeviceMesh / Torch>=2.9.1] Feature regression on DeviceMesh._flatten() + DeviceMesh.__getitem__() after moving to CuTe backend for mesh algebra.",
@@ -3442,6 +3459,66 @@
     "user": "alexanderkrauck",
     "labels": [
       "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3689912487,
+    "number": 42594,
+    "title": "Qwen3-VL hidden_states are not the same used to compute logits",
+    "url": "https://github.com/huggingface/transformers/issues/42594",
+    "created_at": "2025-12-03T11:53:09Z",
+    "user": "LautaroEst",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3689918867,
+    "number": 17418,
+    "title": "[Bug]: Error Rate Cooldown Triggers on First Failed Request (Missing Minimum Request Threshold)",
+    "url": "https://github.com/BerriAI/litellm/issues/17418",
+    "created_at": "2025-12-03T11:55:15Z",
+    "user": "ellis-zhang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3689948170,
+    "number": 33684,
+    "title": "Failed build: CI - with Numpy&#x2F;Scipy nightly wheels (nightly)",
+    "url": "https://github.com/jax-ml/jax/issues/33684",
+    "created_at": "2025-12-03T12:04:08Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "build failed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3690029944,
+    "number": 3709,
+    "title": "Feature Request: QA Assertion Tool",
+    "url": "https://github.com/browser-use/browser-use/issues/3709",
+    "created_at": "2025-12-03T12:26:27Z",
+    "user": "eltomon",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -4596,6 +4596,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3550029691,
+    "number": 166167,
+    "title": "Proposal: include 'extras packages' for supported versions of PyTorch-adjacent tools (e.g., numpy, onnx)",
+    "url": "https://github.com/pytorch/pytorch/issues/166167",
+    "created_at": "2025-10-24T15:40:10Z",
+    "user": "nickfraser",
+    "labels": [
+      "module: build",
+      "triaged",
+      "actionable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3550130964,
     "number": 8993,
