@@ -166,6 +166,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3577871444,
+    "number": 41970,
+    "title": "Huggingface Hub version increased causing import error",
+    "url": "https://github.com/huggingface/transformers/issues/41970",
+    "created_at": "2025-11-01T11:12:06Z",
+    "user": "harveyz0",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3578078562,
     "number": 2725,

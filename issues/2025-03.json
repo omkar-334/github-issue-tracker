@@ -1155,6 +1155,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2961543869,
+    "number": 51860,
+    "title": "[core][API] Provide an API to wait for the cluster to reach specific conditions",
+    "url": "https://github.com/ray-project/ray/issues/51860",
+    "created_at": "2025-03-31T20:47:44Z",
+    "user": "kevin85421",
+    "labels": [
+      "enhancement",
+      "P1",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchchat",
     "id": 2961544825,
     "number": 1520,

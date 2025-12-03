@@ -3111,5 +3111,90 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3688930904,
+    "number": 17409,
+    "title": "[Bug]: ❗️ Vertex AI: gemini-3-pro-image-preview returns 404 when used via litellm gateway",
+    "url": "https://github.com/BerriAI/litellm/issues/17409",
+    "created_at": "2025-12-03T07:45:52Z",
+    "user": "rusherman",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3688954106,
+    "number": 19186,
+    "title": "I can't open hierarchical structure of Trace. - 500 INTERNAL Server Error",
+    "url": "https://github.com/mlflow/mlflow/issues/19186",
+    "created_at": "2025-12-03T07:54:25Z",
+    "user": "anonymousjerry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3688973586,
+    "number": 17410,
+    "title": "[Bug]: completion_cost calculates incorrectly for Gemini-3-pro-image model image_tokens are treated as text tokens",
+    "url": "https://github.com/BerriAI/litellm/issues/17410",
+    "created_at": "2025-12-03T08:01:34Z",
+    "user": "abc3436645",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3688981263,
+    "number": 17411,
+    "title": "[Bug]: Facing deadlocks on LiteLLM",
+    "url": "https://github.com/BerriAI/litellm/issues/17411",
+    "created_at": "2025-12-03T08:04:24Z",
+    "user": "LoadingZhang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3688999448,
+    "number": 19187,
+    "title": "How to install java on a custom flavor ?",
+    "url": "https://github.com/mlflow/mlflow/issues/19187",
+    "created_at": "2025-12-03T08:10:16Z",
+    "user": "KshitizGIT",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3689000479,
+    "number": 19188,
+    "title": "Tracking Yolo's dataset",
+    "url": "https://github.com/mlflow/mlflow/issues/19188",
+    "created_at": "2025-12-03T08:10:38Z",
+    "user": "QuangMinh94",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
