@@ -9656,6 +9656,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3660246733,
+    "number": 17040,
+    "title": "[Feature]: Prompt Support Integration Arize Phoenix",
+    "url": "https://github.com/BerriAI/litellm/issues/17040",
+    "created_at": "2025-11-24T19:29:22Z",
+    "user": "metalshanked",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3660294822,
     "number": 58944,

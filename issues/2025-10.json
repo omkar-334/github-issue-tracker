@@ -4683,6 +4683,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3550397097,
+    "number": 166173,
+    "title": "dynamo should expose \"are there any side effects in my code\" to vLLM",
+    "url": "https://github.com/pytorch/pytorch/issues/166173",
+    "created_at": "2025-10-24T17:35:09Z",
+    "user": "zou3519",
+    "labels": [
+      "triaged",
+      "needs design",
+      "oncall: pt2",
+      "module: dynamo",
+      "vllm-compile",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3550616900,
     "number": 4122,

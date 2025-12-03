@@ -24112,6 +24112,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3550397097,
+      "number": 166173,
+      "title": "dynamo should expose \"are there any side effects in my code\" to vLLM",
+      "url": "https://github.com/pytorch/pytorch/issues/166173",
+      "created_at": "2025-10-24T17:35:09Z",
+      "user": "zou3519",
+      "labels": [
+        "triaged",
+        "needs design",
+        "oncall: pt2",
+        "module: dynamo",
+        "vllm-compile",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3550616900,
       "number": 4122,
@@ -36337,6 +36357,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3660246733,
+      "number": 17040,
+      "title": "[Feature]: Prompt Support Integration Arize Phoenix",
+      "url": "https://github.com/BerriAI/litellm/issues/17040",
+      "created_at": "2025-11-24T19:29:22Z",
+      "user": "metalshanked",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3660294822,
       "number": 58944,
@@ -45050,8 +45085,155 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3688083730,
+      "number": 3869,
+      "title": "Degraded performance when resuming from checkpoint",
+      "url": "https://github.com/huggingface/accelerate/issues/3869",
+      "created_at": "2025-12-03T01:17:40Z",
+      "user": "mdenomme24",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3688084029,
+      "number": 59124,
+      "title": "[Dashboard] <Title> Difficult to track the Jobs, provide the way to give custom Job name [User provided] to show and filter the jobs in the dashboard",
+      "url": "https://github.com/ray-project/ray/issues/59124",
+      "created_at": "2025-12-03T01:17:48Z",
+      "user": "anilkumargv8",
+      "labels": [
+        "bug",
+        "dashboard",
+        "triage",
+        "usability",
+        "core",
+        "observability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3688098251,
+      "number": 169440,
+      "title": "Pattern matcher improvements",
+      "url": "https://github.com/pytorch/pytorch/issues/169440",
+      "created_at": "2025-12-03T01:23:53Z",
+      "user": "ProExpertProg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3688153738,
+      "number": 17398,
+      "title": "[Bug] `store_model_in_db: true` encrypts `litellm_params.model` field, causing \"LLM Provider NOT provided\" error",
+      "url": "https://github.com/BerriAI/litellm/issues/17398",
+      "created_at": "2025-12-03T01:55:45Z",
+      "user": "ChangooLee",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3688156165,
+      "number": 3704,
+      "title": "How can browser-use complete login using only cookies?",
+      "url": "https://github.com/browser-use/browser-use/issues/3704",
+      "created_at": "2025-12-03T01:57:25Z",
+      "user": "Q1ngD3ngY1",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3688162032,
+      "number": 12779,
+      "title": "Flux2 dreambooth: AttributeError: 'Namespace' object has no attribute 'validation_image_path'",
+      "url": "https://github.com/huggingface/diffusers/issues/12779",
+      "created_at": "2025-12-03T02:01:07Z",
+      "user": "hannalaguilar",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3688204698,
+      "number": 9149,
+      "title": "[DOC] `callbacks` missing in the docstring of some deep learning models",
+      "url": "https://github.com/sktime/sktime/issues/9149",
+      "created_at": "2025-12-03T02:20:15Z",
+      "user": "RecreationalMath",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "cython/cython",
+      "id": 3688240060,
+      "number": 7384,
+      "title": "[BUG] `cythonize` mistakenly spins more workers than allowed by `ProcessPoolExecutor` on Windows",
+      "url": "https://github.com/cython/cython/issues/7384",
+      "created_at": "2025-12-03T02:31:21Z",
+      "user": "leofang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3688263392,
+      "number": 169445,
+      "title": "Quadratic complexity in gradient clipping",
+      "url": "https://github.com/pytorch/pytorch/issues/169445",
+      "created_at": "2025-12-03T02:40:36Z",
+      "user": "ojh31",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3688273582,
+      "number": 59127,
+      "title": "[Core] The memory occupied by the Experimental MutableObject is not released even after the driver process has exited.",
+      "url": "https://github.com/ray-project/ray/issues/59127",
+      "created_at": "2025-12-03T02:46:49Z",
+      "user": "Mei-pris",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T01:12:40Z",
-  "total_count": 3026
+  "last_updated": "2025-12-03T02:59:33Z",
+  "total_count": 3038
 }
