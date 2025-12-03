@@ -35821,6 +35821,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3656856634,
+      "number": 168940,
+      "title": "[DTensor] aten.max.dim returns wrong indices when using DTensor",
+      "url": "https://github.com/pytorch/pytorch/issues/168940",
+      "created_at": "2025-11-24T02:36:58Z",
+      "user": "qqq6op",
+      "labels": [
+        "oncall: distributed",
+        "module: dtensor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3656932105,
       "number": 15954,
@@ -46060,8 +46076,77 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3690063452,
+      "number": 3710,
+      "title": "Documentation: ...Supported model file not found in the agents.md file",
+      "url": "https://github.com/browser-use/browser-use/issues/3710",
+      "created_at": "2025-12-03T12:36:32Z",
+      "user": "ai-naymul",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3690201492,
+      "number": 16062,
+      "title": "VGF tutorial on MacOs creates dir with bad arch",
+      "url": "https://github.com/pytorch/executorch/issues/16062",
+      "created_at": "2025-12-03T13:15:30Z",
+      "user": "reuvenperetz",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3690212283,
+      "number": 13202,
+      "title": "Add icon to st.dialog",
+      "url": "https://github.com/streamlit/streamlit/issues/13202",
+      "created_at": "2025-12-03T13:18:27Z",
+      "user": "alex-bork",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras",
+      "id": 3690243143,
+      "number": 21889,
+      "title": "convert built models from channels_first to channels_last and vice versa.",
+      "url": "https://github.com/keras-team/keras/issues/21889",
+      "created_at": "2025-12-03T13:26:25Z",
+      "user": "DiGyt",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/vision",
+      "id": 3690257592,
+      "number": 9299,
+      "title": "`v2.ElasticTransform` applies incorrect vertical/horizontal normalization on displacement vectors",
+      "url": "https://github.com/pytorch/vision/issues/9299",
+      "created_at": "2025-12-03T13:29:42Z",
+      "user": "ericjaebeom",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-03T12:33:53Z",
-  "total_count": 3093
+  "last_updated": "2025-12-03T13:33:43Z",
+  "total_count": 3099
 }
