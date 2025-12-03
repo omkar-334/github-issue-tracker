@@ -8498,6 +8498,63 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3653549591,
+    "number": 168675,
+    "title": "TestModule: test/inductor/test_torchinductor.py::CommonTemplate",
+    "url": "https://github.com/pytorch/pytorch/issues/168675",
+    "created_at": "2025-11-22T01:05:48Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653549966,
+    "number": 168685,
+    "title": "TestModule: test/inductor/test_triton_heuristics.py::TestTritonHeuristics",
+    "url": "https://github.com/pytorch/pytorch/issues/168685",
+    "created_at": "2025-11-22T01:06:05Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653550020,
+    "number": 168687,
+    "title": "TestModule: test/inductor/test_triton_kernels.py::KernelTests",
+    "url": "https://github.com/pytorch/pytorch/issues/168687",
+    "created_at": "2025-11-22T01:06:08Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3653628578,
     "number": 18970,

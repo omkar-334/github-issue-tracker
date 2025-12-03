@@ -3638,5 +3638,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3690669061,
+    "number": 1096,
+    "title": "[FT] I am unable to use microsoft/Phi-4-multimodal-instruct",
+    "url": "https://github.com/huggingface/lighteval/issues/1096",
+    "created_at": "2025-12-03T15:15:38Z",
+    "user": "ryuzakace",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
