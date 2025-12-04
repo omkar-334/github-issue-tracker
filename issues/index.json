@@ -8398,6 +8398,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 3162534559,
+      "number": 23195,
+      "title": "BUG: New backend for interpolative decomposition breaks for (1xn) matrices",
+      "url": "https://github.com/scipy/scipy/issues/23195",
+      "created_at": "2025-06-20T09:23:08Z",
+      "user": "gohmat",
+      "labels": [
+        "defect",
+        "scipy.linalg"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "plotly/plotly.py",
       "id": 3163334226,
       "number": 5238,
@@ -10966,6 +10982,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3239252542,
+      "number": 12685,
+      "title": "[Bug]: Heavy RAM Usage over time",
+      "url": "https://github.com/BerriAI/litellm/issues/12685",
+      "created_at": "2025-07-17T11:39:06Z",
+      "user": "TSJasonH",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3240290514,
       "number": 1572,
@@ -11975,6 +12006,19 @@
       "labels": [
         "enhancement"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3264762305,
+      "number": 30360,
+      "title": "[Bug]: Recent test_determinism_check flakiness",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30360",
+      "created_at": "2025-07-26T00:40:59Z",
+      "user": "QuLogic",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -30381,6 +30425,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3603547648,
+      "number": 167411,
+      "title": "Torch nightly rocm6.4 pytorch-triton-rocm requirement mismatch",
+      "url": "https://github.com/pytorch/pytorch/issues/167411",
+      "created_at": "2025-11-08T13:11:08Z",
+      "user": "eric-tc-wong",
+      "labels": [
+        "module: binaries",
+        "module: rocm",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3603657910,
       "number": 9034,
@@ -48600,8 +48661,131 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3694461613,
+      "number": 30809,
+      "title": "[Bug]: test_invisible_Line_rendering test is flaky (too short timeout)",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30809",
+      "created_at": "2025-12-04T12:37:04Z",
+      "user": "apteryks",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3694516906,
+      "number": 17478,
+      "title": "[Bug]: Unable to apply guardrails to restrict \"web_search_preview\" tool usage for AzureOpenAI model in LiteLLM proxy",
+      "url": "https://github.com/BerriAI/litellm/issues/17478",
+      "created_at": "2025-12-04T12:50:21Z",
+      "user": "MiladMt11",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3694544759,
+      "number": 169567,
+      "title": "test_dlpack_tensor_on_different_device uses torch.device() instead of torch.cuda.device()",
+      "url": "https://github.com/pytorch/pytorch/issues/169567",
+      "created_at": "2025-12-04T12:56:22Z",
+      "user": "razaaliraza",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3694617857,
+      "number": 17479,
+      "title": "[Bug]: Prompt Caching fails for Bedrock (extraneous key [cachePoint] is not permitted)",
+      "url": "https://github.com/BerriAI/litellm/issues/17479",
+      "created_at": "2025-12-04T13:13:46Z",
+      "user": "Tomas2D",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3694656083,
+      "number": 169571,
+      "title": "[PyTorch 2.10][API-Unstable] Intel GPU Enhancement and Acceleration",
+      "url": "https://github.com/pytorch/pytorch/issues/169571",
+      "created_at": "2025-12-04T13:21:50Z",
+      "user": "riverliuintel",
+      "labels": [
+        "release-feature-request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3694666741,
+      "number": 169573,
+      "title": "DISABLED test_export_rnn_flatten_parameters_gpu_serdes_nonstrict (__main__.SerDesExportNonStrictTestExport)",
+      "url": "https://github.com/pytorch/pytorch/issues/169573",
+      "created_at": "2025-12-04T13:24:11Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3694686569,
+      "number": 17480,
+      "title": "[Feature]: TPM calculated on output tokens, preferably calculated on input tokens",
+      "url": "https://github.com/BerriAI/litellm/issues/17480",
+      "created_at": "2025-12-04T13:28:44Z",
+      "user": "BasHuijben",
+      "labels": [
+        "enhancement",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3694700398,
+      "number": 17481,
+      "title": "[Bug]: Bedrock + Claude Code spend and requests tracked un UI and not reflected in Prometheus metrics",
+      "url": "https://github.com/BerriAI/litellm/issues/17481",
+      "created_at": "2025-12-04T13:31:40Z",
+      "user": "njk8",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T12:34:55Z",
-  "total_count": 3252
+  "last_updated": "2025-12-04T13:33:58Z",
+  "total_count": 3264
 }

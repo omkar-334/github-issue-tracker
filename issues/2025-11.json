@@ -2674,6 +2674,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3603547648,
+    "number": 167411,
+    "title": "Torch nightly rocm6.4 pytorch-triton-rocm requirement mismatch",
+    "url": "https://github.com/pytorch/pytorch/issues/167411",
+    "created_at": "2025-11-08T13:11:08Z",
+    "user": "eric-tc-wong",
+    "labels": [
+      "module: binaries",
+      "module: rocm",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3603657910,
     "number": 9034,

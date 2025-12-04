@@ -1814,6 +1814,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3239252542,
+    "number": 12685,
+    "title": "[Bug]: Heavy RAM Usage over time",
+    "url": "https://github.com/BerriAI/litellm/issues/12685",
+    "created_at": "2025-07-17T11:39:06Z",
+    "user": "TSJasonH",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3240290514,
     "number": 1572,
@@ -2823,6 +2838,19 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3264762305,
+    "number": 30360,
+    "title": "[Bug]: Recent test_determinism_check flakiness",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30360",
+    "created_at": "2025-07-26T00:40:59Z",
+    "user": "QuLogic",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
