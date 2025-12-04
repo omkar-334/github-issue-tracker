@@ -4298,5 +4298,83 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3692474107,
+    "number": 59162,
+    "title": "[Core] Runtime-env agent does not reliably respond to SIGTERM",
+    "url": "https://github.com/ray-project/ray/issues/59162",
+    "created_at": "2025-12-04T01:32:07Z",
+    "user": "Yicheng-Lu-llll",
+    "labels": [
+      "bug",
+      "triage",
+      "core",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3692495880,
+    "number": 4617,
+    "title": "VLLM deprecated GuidedDecodingParams -> StructuredOutputsParams",
+    "url": "https://github.com/huggingface/trl/issues/4617",
+    "created_at": "2025-12-04T01:42:50Z",
+    "user": "ed-pai",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3692521491,
+    "number": 63258,
+    "title": "DOC: Code example doesn't run as shown",
+    "url": "https://github.com/pandas-dev/pandas/issues/63258",
+    "created_at": "2025-12-04T01:56:41Z",
+    "user": "saiwing-yeung",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3692566628,
+    "number": 30370,
+    "title": "Python 2.14.1t seems to be failing `test_tuple_recursion` on macos x86_64",
+    "url": "https://github.com/numpy/numpy/issues/30370",
+    "created_at": "2025-12-04T02:18:24Z",
+    "user": "charris",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3692583119,
+    "number": 17452,
+    "title": "[Bug]: Team Setting Update Failure. Allowed Pass‑Through Routes Registration and MCP Servers/Access Groups Deletion Not Working",
+    "url": "https://github.com/BerriAI/litellm/issues/17452",
+    "created_at": "2025-12-04T02:26:28Z",
+    "user": "patchworkLife",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
