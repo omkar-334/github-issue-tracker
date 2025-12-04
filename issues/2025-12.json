@@ -5372,5 +5372,24 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3696707527,
+    "number": 13225,
+    "title": "Collapsed app logo has wrong size",
+    "url": "https://github.com/streamlit/streamlit/issues/13225",
+    "created_at": "2025-12-04T21:38:36Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:bug",
+      "type:regression",
+      "priority:P1",
+      "feature:multipage-apps",
+      "feature:st.logo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

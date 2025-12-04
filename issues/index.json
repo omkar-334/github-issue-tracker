@@ -23592,6 +23592,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3521408624,
+      "number": 57794,
+      "title": "[RLlib] MARWIL OfflinePreLearner stuck at 0.00 row/s when reading Parquet dataset with Dict action space",
+      "url": "https://github.com/ray-project/ray/issues/57794",
+      "created_at": "2025-10-16T11:12:00Z",
+      "user": "IdairaRodYanez",
+      "labels": [
+        "bug",
+        "P0",
+        "triage",
+        "rllib",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3521813502,
       "number": 3217,
@@ -36562,6 +36582,60 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653538246,
+      "number": 168413,
+      "title": "Test: TestShardedTensorChunked.test_partial_world_size",
+      "url": "https://github.com/pytorch/pytorch/issues/168413",
+      "created_at": "2025-11-22T00:58:53Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653538527,
+      "number": 168414,
+      "title": "Test: TestShardedTensorChunked.test_new_group",
+      "url": "https://github.com/pytorch/pytorch/issues/168414",
+      "created_at": "2025-11-22T00:58:55Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653538558,
+      "number": 168415,
+      "title": "Test: TestShardedTensorChunked.test_multiple_local_shards",
+      "url": "https://github.com/pytorch/pytorch/issues/168415",
+      "created_at": "2025-11-22T00:58:57Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653538878,
       "number": 168426,
       "title": "Test: TestShardedTensorFromLocalShards.test_recalc_for_metadata",
@@ -36783,6 +36857,24 @@
       "title": "Test: ProcessGroupGlooTest.test_reduce_stress_cuda",
       "url": "https://github.com/pytorch/pytorch/issues/168459",
       "created_at": "2025-11-22T01:00:06Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: c10d",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653540566,
+      "number": 168460,
+      "title": "Test: ProcessGroupGlooTest.test_block_current_stream_cuda",
+      "url": "https://github.com/pytorch/pytorch/issues/168460",
+      "created_at": "2025-11-22T01:00:08Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -49927,8 +50019,27 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3696707527,
+      "number": 13225,
+      "title": "Collapsed app logo has wrong size",
+      "url": "https://github.com/streamlit/streamlit/issues/13225",
+      "created_at": "2025-12-04T21:38:36Z",
+      "user": "lukasmasuch",
+      "labels": [
+        "type:bug",
+        "type:regression",
+        "priority:P1",
+        "feature:multipage-apps",
+        "feature:st.logo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T21:16:14Z",
-  "total_count": 3334
+  "last_updated": "2025-12-04T21:40:50Z",
+  "total_count": 3340
 }

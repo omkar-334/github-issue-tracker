@@ -8516,6 +8516,60 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653538246,
+    "number": 168413,
+    "title": "Test: TestShardedTensorChunked.test_partial_world_size",
+    "url": "https://github.com/pytorch/pytorch/issues/168413",
+    "created_at": "2025-11-22T00:58:53Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538527,
+    "number": 168414,
+    "title": "Test: TestShardedTensorChunked.test_new_group",
+    "url": "https://github.com/pytorch/pytorch/issues/168414",
+    "created_at": "2025-11-22T00:58:55Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538558,
+    "number": 168415,
+    "title": "Test: TestShardedTensorChunked.test_multiple_local_shards",
+    "url": "https://github.com/pytorch/pytorch/issues/168415",
+    "created_at": "2025-11-22T00:58:57Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653538878,
     "number": 168426,
     "title": "Test: TestShardedTensorFromLocalShards.test_recalc_for_metadata",
@@ -8737,6 +8791,24 @@
     "title": "Test: ProcessGroupGlooTest.test_reduce_stress_cuda",
     "url": "https://github.com/pytorch/pytorch/issues/168459",
     "created_at": "2025-11-22T01:00:06Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540566,
+    "number": 168460,
+    "title": "Test: ProcessGroupGlooTest.test_block_current_stream_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168460",
+    "created_at": "2025-11-22T01:00:08Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
