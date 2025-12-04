@@ -8516,6 +8516,24 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653543193,
+    "number": 168521,
+    "title": "Test: SymmetricMemoryTest.test_cuda_nvlink_connectivity_detection",
+    "url": "https://github.com/pytorch/pytorch/issues/168521",
+    "created_at": "2025-11-22T01:01:46Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653545431,
     "number": 168583,
     "title": "TestModule: test/inductor/test_custom_lowering.py::TestCustomLowering",
