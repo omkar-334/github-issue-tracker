@@ -49130,8 +49130,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3695622531,
+      "number": 17487,
+      "title": "[Bug]: `/spend/logs` aggregation generates non-sargable startTime::date filter → massive Postgres seq scans & Aurora I/O costs",
+      "url": "https://github.com/BerriAI/litellm/issues/17487",
+      "created_at": "2025-12-04T17:17:18Z",
+      "user": "kristianmitk",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3695622854,
+      "number": 63264,
+      "title": "BUG: pandas 3.0.0rc0 hard-requires `tzdata` Python package",
+      "url": "https://github.com/pandas-dev/pandas/issues/63264",
+      "created_at": "2025-12-04T17:17:22Z",
+      "user": "mgorny",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T16:53:43Z",
-  "total_count": 3287
+  "last_updated": "2025-12-04T17:19:31Z",
+  "total_count": 3289
 }
