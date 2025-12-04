@@ -158,6 +158,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2724581192,
+    "number": 49145,
+    "title": "[vllm/serve]  Ray+vllm start serving error",
+    "url": "https://github.com/ray-project/ray/issues/49145",
+    "created_at": "2024-12-07T12:53:29Z",
+    "user": "pygongnlp",
+    "labels": [
+      "bug",
+      "P1",
+      "serve",
+      "llm",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-cv",
     "id": 2727627840,
     "number": 2509,
