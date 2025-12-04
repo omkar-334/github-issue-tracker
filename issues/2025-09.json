@@ -447,6 +447,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3378744094,
+    "number": 13901,
+    "title": "No module named 'tosa' using executorch==0.7",
+    "url": "https://github.com/pytorch/executorch/issues/13901",
+    "created_at": "2025-09-03T07:50:17Z",
+    "user": "YilanWang",
+    "labels": [
+      "need-user-input",
+      "partner: arm",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3378876396,
     "number": 14201,
@@ -2469,6 +2486,21 @@
     "url": "https://github.com/openai/openai-python/issues/2630",
     "created_at": "2025-09-12T21:59:48Z",
     "user": "DouweM",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3412103894,
+    "number": 14521,
+    "title": "[Bug]: RuntimeError: Queue is bound to a different event loop with pytest parameterized async tests in CI environments",
+    "url": "https://github.com/BerriAI/litellm/issues/14521",
+    "created_at": "2025-09-12T22:44:18Z",
+    "user": "xzrderek",
     "labels": [
       "bug"
     ],
