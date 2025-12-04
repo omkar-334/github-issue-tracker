@@ -4799,6 +4799,21 @@
     "archived": false
   },
   {
+    "repo": "fastapi/fastapi",
+    "id": 3694454256,
+    "number": 14454,
+    "title": "OAuth2 security schemes duplicated in OpenAPI, with and without scopes, when used at the router level",
+    "url": "https://github.com/fastapi/fastapi/issues/14454",
+    "created_at": "2025-12-04T12:35:06Z",
+    "user": "tiangolo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3694461613,
     "number": 30809,
@@ -4989,6 +5004,50 @@
     "created_at": "2025-12-04T14:46:05Z",
     "user": "c200chromebook",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3695071786,
+    "number": 2004,
+    "title": "[ENH] Add Autoformer model",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/2004",
+    "created_at": "2025-12-04T15:01:39Z",
+    "user": "Satarupa22-SD",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3695075046,
+    "number": 3301,
+    "title": "Difference in starting Loss with and without Packing",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3301",
+    "created_at": "2025-12-04T15:02:29Z",
+    "user": "ved1beta",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3695081932,
+    "number": 19218,
+    "title": "[BUG]Session trace tab not working",
+    "url": "https://github.com/mlflow/mlflow/issues/19218",
+    "created_at": "2025-12-04T15:04:22Z",
+    "user": "jrakotobe",
+    "labels": [
+      "bug",
+      "area/uiux"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

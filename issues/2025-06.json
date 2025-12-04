@@ -670,6 +670,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/lighteval",
+    "id": 3130309973,
+    "number": 802,
+    "title": "[BUG] Unable to Download Dataset in Restricted Network Environment (No Access to Hugging Face or Mirrors)",
+    "url": "https://github.com/huggingface/lighteval/issues/802",
+    "created_at": "2025-06-09T13:25:38Z",
+    "user": "xjli360",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "google/flax",
     "id": 3130439140,
     "number": 4774,
