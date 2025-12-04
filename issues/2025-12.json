@@ -4671,5 +4671,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3693987919,
+    "number": 17475,
+    "title": "[Bug]: LiteLLMProxy no longer show the list of models to the users",
+    "url": "https://github.com/BerriAI/litellm/issues/17475",
+    "created_at": "2025-12-04T10:41:35Z",
+    "user": "mbeltagy",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
