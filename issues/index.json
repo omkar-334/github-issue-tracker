@@ -17036,6 +17036,22 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3401849449,
+      "number": 32146,
+      "title": "Unexpected behavior of the HTML repr of meta-estimators",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32146",
+      "created_at": "2025-09-10T10:15:18Z",
+      "user": "jeremiedbb",
+      "labels": [
+        "Documentation",
+        "frontend"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 3401898197,
       "number": 10221,
@@ -31468,6 +31484,22 @@
       "created_at": "2025-11-12T13:33:33Z",
       "user": "lukas-lang",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3616616150,
+      "number": 58567,
+      "title": "[Docs] How to build ray image when involved frontend, c++, and python",
+      "url": "https://github.com/ray-project/ray/issues/58567",
+      "created_at": "2025-11-12T13:39:26Z",
+      "user": "Future-Outlier",
+      "labels": [
+        "triage",
+        "docs"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -48232,8 +48264,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3693459185,
+      "number": 17471,
+      "title": "[Bug]: Bedrock qwen.qwen3-vl-235b-a22b not working",
+      "url": "https://github.com/BerriAI/litellm/issues/17471",
+      "created_at": "2025-12-04T08:27:04Z",
+      "user": "notacryptodad",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3693513111,
+      "number": 169556,
+      "title": "DISABLED test_float8_scale_fast_accum_xpu (__main__.TestFP8MatmulXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/169556",
+      "created_at": "2025-12-04T08:40:41Z",
+      "user": "chuanqi129",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/sentence-transformers",
+      "id": 3693517777,
+      "number": 3584,
+      "title": "different with transformers implement",
+      "url": "https://github.com/huggingface/sentence-transformers/issues/3584",
+      "created_at": "2025-12-04T08:41:58Z",
+      "user": "bjtuxck",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T08:23:39Z",
-  "total_count": 3229
+  "last_updated": "2025-12-04T08:51:14Z",
+  "total_count": 3234
 }

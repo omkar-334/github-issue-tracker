@@ -3833,6 +3833,22 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3616616150,
+    "number": 58567,
+    "title": "[Docs] How to build ray image when involved frontend, c++, and python",
+    "url": "https://github.com/ray-project/ray/issues/58567",
+    "created_at": "2025-11-12T13:39:26Z",
+    "user": "Future-Outlier",
+    "labels": [
+      "triage",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3616763041,
     "number": 3591,
