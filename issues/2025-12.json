@@ -5051,5 +5051,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3695250809,
+    "number": 63262,
+    "title": "BUG: `KeyError` in `Series.__getitem__` with datetime index and mixed unit slice in pandas 3.0.0rc0",
+    "url": "https://github.com/pandas-dev/pandas/issues/63262",
+    "created_at": "2025-12-04T15:47:32Z",
+    "user": "TomAugspurger",
+    "labels": [
+      "Bug",
+      "Non-Nano"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3695271997,
+    "number": 34207,
+    "title": "logprobs in ChatOllama",
+    "url": "https://github.com/langchain-ai/langchain/issues/34207",
+    "created_at": "2025-12-04T15:52:27Z",
+    "user": "paascorb",
+    "labels": [
+      "core",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3695340968,
+    "number": 169578,
+    "title": "[dynamo] Remove deprecated config flags",
+    "url": "https://github.com/pytorch/pytorch/issues/169578",
+    "created_at": "2025-12-04T16:11:15Z",
+    "user": "hinriksnaer",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
