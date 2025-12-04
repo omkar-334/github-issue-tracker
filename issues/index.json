@@ -28670,6 +28670,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3582728369,
+      "number": 58377,
+      "title": "[Core][Data] Ray task idles forever due to a potential logging deadlock within the Ray data module",
+      "url": "https://github.com/ray-project/ray/issues/58377",
+      "created_at": "2025-11-03T16:08:42Z",
+      "user": "neel-at-ikigai",
+      "labels": [
+        "bug",
+        "triage",
+        "data",
+        "observability",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "google/flax",
       "id": 3582758617,
       "number": 5068,
@@ -50038,8 +50058,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3696732680,
+      "number": 169615,
+      "title": "while loop + scatter + compile explodes",
+      "url": "https://github.com/pytorch/pytorch/issues/169615",
+      "created_at": "2025-12-04T21:47:52Z",
+      "user": "alita-moore",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3696743560,
+      "number": 169616,
+      "title": "[nonstrict_trace] Support nn.Module in nonstrict_trace",
+      "url": "https://github.com/pytorch/pytorch/issues/169616",
+      "created_at": "2025-12-04T21:52:19Z",
+      "user": "anijain2305",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3696777497,
+      "number": 34217,
+      "title": "Add model profile augmentation for supporting code execution",
+      "url": "https://github.com/langchain-ai/langchain/issues/34217",
+      "created_at": "2025-12-04T22:05:48Z",
+      "user": "mdrxy",
+      "labels": [
+        "feature request",
+        "model-profiles"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T21:40:50Z",
-  "total_count": 3340
+  "last_updated": "2025-12-04T22:14:43Z",
+  "total_count": 3344
 }
