@@ -4660,6 +4660,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3466912943,
+    "number": 164186,
+    "title": "[Fuzzer][Eager/Compile Divergence] AssertionError: Node add_25 was invalid, but is output",
+    "url": "https://github.com/pytorch/pytorch/issues/164186",
+    "created_at": "2025-09-29T22:53:15Z",
+    "user": "bobrenjc93",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamic shapes",
+      "topic: fuzzer"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3467827198,
     "number": 3211,

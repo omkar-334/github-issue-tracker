@@ -19954,6 +19954,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3466912943,
+      "number": 164186,
+      "title": "[Fuzzer][Eager/Compile Divergence] AssertionError: Node add_25 was invalid, but is output",
+      "url": "https://github.com/pytorch/pytorch/issues/164186",
+      "created_at": "2025-09-29T22:53:15Z",
+      "user": "bobrenjc93",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamic shapes",
+        "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3467827198,
       "number": 3211,
@@ -36300,6 +36318,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3653550105,
+      "number": 168690,
+      "title": "Test: TestFrozenOptimizations.test_freeze_conv_relu_fusion",
+      "url": "https://github.com/pytorch/pytorch/issues/168690",
+      "created_at": "2025-11-22T01:06:13Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "module: convolution",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3653628578,
       "number": 18970,
@@ -48072,6 +48108,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-04T06:54:25Z",
-  "total_count": 3219
+  "last_updated": "2025-12-04T07:18:51Z",
+  "total_count": 3221
 }

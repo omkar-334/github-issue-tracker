@@ -8711,6 +8711,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3653550105,
+    "number": 168690,
+    "title": "Test: TestFrozenOptimizations.test_freeze_conv_relu_fusion",
+    "url": "https://github.com/pytorch/pytorch/issues/168690",
+    "created_at": "2025-11-22T01:06:13Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "module: convolution",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3653628578,
     "number": 18970,
