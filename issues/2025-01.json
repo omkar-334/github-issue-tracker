@@ -937,6 +937,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2821502152,
+    "number": 50140,
+    "title": "[core][compiled graphs] Support inter-actor transfer on the same GPU with CUDA IPC",
+    "url": "https://github.com/ray-project/ray/issues/50140",
+    "created_at": "2025-01-30T18:10:44Z",
+    "user": "stephanie-wang",
+    "labels": [
+      "enhancement",
+      "P1",
+      "core",
+      "compiled-graphs",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 2821645717,
     "number": 7570,

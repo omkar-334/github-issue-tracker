@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 2674141895,
+    "number": 28226,
+    "title": "`init_chat_model` doesn't work with huggingface models",
+    "url": "https://github.com/langchain-ai/langchain/issues/28226",
+    "created_at": "2024-11-20T03:01:49Z",
+    "user": "SauravMaheshkar",
+    "labels": [
+      "good first issue",
+      "bug",
+      "integration",
+      "huggingface"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/text",
+    "id": 2715064645,
+    "number": 2277,
+    "title": "Warning/Exception for torchtext.data.metrics.bleu_score",
+    "url": "https://github.com/pytorch/text/issues/2277",
+    "created_at": "2024-12-03T13:40:07Z",
+    "user": "Rajinish0",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

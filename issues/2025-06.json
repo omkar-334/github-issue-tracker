@@ -1651,6 +1651,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3168452814,
+    "number": 11979,
+    "title": "[Bug]: mocked_tool_calls not respected when streaming",
+    "url": "https://github.com/BerriAI/litellm/issues/11979",
+    "created_at": "2025-06-23T14:40:07Z",
+    "user": "Somtom",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3168521634,
     "number": 5247,
