@@ -207,6 +207,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3374603551,
+    "number": 161954,
+    "title": "[RFC] CUDA code decoupling and directory refactoring",
+    "url": "https://github.com/pytorch/pytorch/issues/161954",
+    "created_at": "2025-09-02T06:28:15Z",
+    "user": "bjtuwjx",
+    "labels": [
+      "triaged",
+      "module: PrivateUse1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3374823022,
     "number": 14167,

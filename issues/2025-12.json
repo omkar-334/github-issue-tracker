@@ -4625,5 +4625,51 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3693764583,
+    "number": 17473,
+    "title": "[Bug]: Anthropic streaming fails with JSONDecodeError on partial chunks",
+    "url": "https://github.com/BerriAI/litellm/issues/17473",
+    "created_at": "2025-12-04T09:51:20Z",
+    "user": "swenyang",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3693853869,
+    "number": 17474,
+    "title": "[Bug]: Reasoning content is missing when calling vertex_ai gemini 2.5 pro model from docker proxy server",
+    "url": "https://github.com/BerriAI/litellm/issues/17474",
+    "created_at": "2025-12-04T10:12:14Z",
+    "user": "alexyzhou",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3693864351,
+    "number": 42617,
+    "title": "Not able to run 3d_parallel.py",
+    "url": "https://github.com/huggingface/transformers/issues/42617",
+    "created_at": "2025-12-04T10:14:17Z",
+    "user": "quic-meetkuma",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
