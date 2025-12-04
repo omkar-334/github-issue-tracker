@@ -8518,6 +8518,26 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653546019,
+    "number": 168593,
+    "title": "TestModule: test/inductor/test_fp8.py::TestFP8Types",
+    "url": "https://github.com/pytorch/pytorch/issues/168593",
+    "created_at": "2025-11-22T01:03:35Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "module: floatx (formerly float8)",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653546040,
     "number": 168594,
     "title": "Test: TestFP8Types.test_amax_fp8_quant",
@@ -8662,6 +8682,25 @@
       "module: rocm",
       "module: convolution",
       "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653549912,
+    "number": 168683,
+    "title": "Test: CommonTemplate.test_kwargs",
+    "url": "https://github.com/pytorch/pytorch/issues/168683",
+    "created_at": "2025-11-22T01:06:01Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
       "rocm-skipped-tests"
     ],
     "has_linked_pr": false,
@@ -15469,6 +15508,19 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3677196677,
+    "number": 3582,
+    "title": "Collator setting include_prompt_lengths prevents compilation",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3582",
+    "created_at": "2025-11-29T23:37:51Z",
+    "user": "chschroeder",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
