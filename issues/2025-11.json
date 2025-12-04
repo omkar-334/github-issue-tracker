@@ -3848,6 +3848,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3617086266,
+    "number": 16535,
+    "title": "[Bug]: x-litellm-model-group header missing in streaming responses (stream=true)",
+    "url": "https://github.com/BerriAI/litellm/issues/16535",
+    "created_at": "2025-11-12T15:36:48Z",
+    "user": "nagaakshai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3617135459,
     "number": 2907,
@@ -8594,6 +8609,43 @@
       "triaged",
       "oncall: pt2",
       "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653549855,
+    "number": 168681,
+    "title": "Test: CommonTemplate.test_multi_gpu_device",
+    "url": "https://github.com/pytorch/pytorch/issues/168681",
+    "created_at": "2025-11-22T01:05:58Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653549880,
+    "number": 168682,
+    "title": "Test: CommonTemplate.test_cudnn_rnn",
+    "url": "https://github.com/pytorch/pytorch/issues/168682",
+    "created_at": "2025-11-22T01:06:00Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "module: convolution",
+      "triaged",
       "rocm-skipped-tests"
     ],
     "has_linked_pr": false,

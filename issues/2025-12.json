@@ -4417,5 +4417,64 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3693072288,
+    "number": 33715,
+    "title": "jax.errors.JaxRuntimeError: INTERNAL: Autotuning failed for HLO",
+    "url": "https://github.com/jax-ml/jax/issues/33715",
+    "created_at": "2025-12-04T06:05:30Z",
+    "user": "geligeli",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3693090699,
+    "number": 3676,
+    "title": "[Bug] Model load is taking too long on Kaggle",
+    "url": "https://github.com/unslothai/unsloth/issues/3676",
+    "created_at": "2025-12-04T06:12:58Z",
+    "user": "Beeditor04",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3693093678,
+    "number": 17463,
+    "title": "[Bug][Docs]: `source .env` before `docker compose` is redundant",
+    "url": "https://github.com/BerriAI/litellm/issues/17463",
+    "created_at": "2025-12-04T06:14:17Z",
+    "user": "utsumi-fj",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3693112113,
+    "number": 2108,
+    "title": "ModuleNotFoundError: No module named 'torch.nn.attention.varlen'",
+    "url": "https://github.com/pytorch/torchtitan/issues/2108",
+    "created_at": "2025-12-04T06:21:13Z",
+    "user": "Joluck",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
