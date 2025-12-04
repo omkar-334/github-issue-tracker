@@ -14422,6 +14422,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3339336747,
+      "number": 161081,
+      "title": "torch.ops.aten.hardtanh should raise an exception when min > max",
+      "url": "https://github.com/pytorch/pytorch/issues/161081",
+      "created_at": "2025-08-20T19:44:20Z",
+      "user": "manuelcandales",
+      "labels": [
+        "module: error checking",
+        "triaged",
+        "actionable",
+        "oncall: pt2",
+        "oncall: export"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3339603267,
       "number": 3526,
@@ -19238,6 +19257,21 @@
       "created_at": "2025-09-23T14:21:51Z",
       "user": "AmitPoonia",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3445633776,
+      "number": 8848,
+      "title": "[Bug] GEPA with MultiModalInstructionProposer uses a lot of memory and halts / never finishes",
+      "url": "https://github.com/stanfordnlp/dspy/issues/8848",
+      "created_at": "2025-09-23T14:54:37Z",
+      "user": "markwitt1",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -49326,8 +49360,26 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3696050332,
+      "number": 169591,
+      "title": "[inductor] empty_like might not preserve strides",
+      "url": "https://github.com/pytorch/pytorch/issues/169591",
+      "created_at": "2025-12-04T18:57:03Z",
+      "user": "masnesral",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "pt2: ubn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T18:55:05Z",
-  "total_count": 3299
+  "last_updated": "2025-12-04T19:16:35Z",
+  "total_count": 3302
 }

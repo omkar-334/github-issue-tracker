@@ -5251,5 +5251,23 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3696050332,
+    "number": 169591,
+    "title": "[inductor] empty_like might not preserve strides",
+    "url": "https://github.com/pytorch/pytorch/issues/169591",
+    "created_at": "2025-12-04T18:57:03Z",
+    "user": "masnesral",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "pt2: ubn"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
