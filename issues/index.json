@@ -16896,6 +16896,22 @@
       "archived": false
     },
     {
+      "repo": "mlflow/mlflow",
+      "id": 3399561046,
+      "number": 17619,
+      "title": "[BUG] mlflow-tracing package is not sufficient for tracing",
+      "url": "https://github.com/mlflow/mlflow/issues/17619",
+      "created_at": "2025-09-09T18:50:04Z",
+      "user": "vilmar-hillow",
+      "labels": [
+        "bug",
+        "area/tracing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numpy/numpy",
       "id": 3399584164,
       "number": 29727,
@@ -36160,6 +36176,26 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653549939,
+      "number": 168684,
+      "title": "Test: CommonTemplate.test_conv_with_as_strided",
+      "url": "https://github.com/pytorch/pytorch/issues/168684",
+      "created_at": "2025-11-22T01:06:03Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "module: convolution",
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653549966,
       "number": 168685,
       "title": "TestModule: test/inductor/test_triton_heuristics.py::TestTritonHeuristics",
@@ -47854,8 +47890,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3692701749,
+      "number": 169538,
+      "title": "`torch.compile` fails on `addmm_` with int64 tensors due to fake-tensor meta error (`expand: attempting to expand a dimension of length 2 -> 1`)",
+      "url": "https://github.com/pytorch/pytorch/issues/169538",
+      "created_at": "2025-12-04T03:25:09Z",
+      "user": "tinywisdom",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T03:01:17Z",
-  "total_count": 3205
+  "last_updated": "2025-12-04T03:56:45Z",
+  "total_count": 3208
 }

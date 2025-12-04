@@ -1617,6 +1617,22 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3399561046,
+    "number": 17619,
+    "title": "[BUG] mlflow-tracing package is not sufficient for tracing",
+    "url": "https://github.com/mlflow/mlflow/issues/17619",
+    "created_at": "2025-09-09T18:50:04Z",
+    "user": "vilmar-hillow",
+    "labels": [
+      "bug",
+      "area/tracing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3399584164,
     "number": 29727,
