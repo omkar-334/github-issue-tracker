@@ -4404,5 +4404,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3693012088,
+    "number": 59167,
+    "title": "[Serve] log deployment config in controller logs",
+    "url": "https://github.com/ray-project/ray/issues/59167",
+    "created_at": "2025-12-04T05:41:07Z",
+    "user": "abrarsheikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
