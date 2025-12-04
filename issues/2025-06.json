@@ -883,6 +883,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3138305919,
+    "number": 155751,
+    "title": "DISABLED test_ddp_apply_optim_in_backward_ignored_params (__main__.TestDistBackendWithSpawn)",
+    "url": "https://github.com/pytorch/pytorch/issues/155751",
+    "created_at": "2025-06-11T22:55:01Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "skipped",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3138318178,
     "number": 1797,

@@ -5317,5 +5317,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3696333534,
+    "number": 169602,
+    "title": "bound_sympy does wrong analysis for pythonmod",
+    "url": "https://github.com/pytorch/pytorch/issues/169602",
+    "created_at": "2025-12-04T20:06:22Z",
+    "user": "laithsakka",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
