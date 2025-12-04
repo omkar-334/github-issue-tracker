@@ -4595,6 +4595,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3547439945,
+    "number": 15880,
+    "title": "[Bug]: Bedrock Anthropic Models fail on cache TTL header",
+    "url": "https://github.com/BerriAI/litellm/issues/15880",
+    "created_at": "2025-10-24T03:13:35Z",
+    "user": "mojtabacazi",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3547748553,
     "number": 32561,

@@ -8516,11 +8516,389 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653538878,
+    "number": 168426,
+    "title": "Test: TestShardedTensorFromLocalShards.test_recalc_for_metadata",
+    "url": "https://github.com/pytorch/pytorch/issues/168426",
+    "created_at": "2025-11-22T00:59:15Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538906,
+    "number": 168427,
+    "title": "Test: TestShardedTensorFromLocalShards.test_init_from_local_shards_with_different_glb_size",
+    "url": "https://github.com/pytorch/pytorch/issues/168427",
+    "created_at": "2025-11-22T00:59:17Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538934,
+    "number": 168428,
+    "title": "Test: TestShardedTensorFromLocalShards.test_non_rw_sharded_recalc_for_metadata",
+    "url": "https://github.com/pytorch/pytorch/issues/168428",
+    "created_at": "2025-11-22T00:59:18Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538955,
+    "number": 168429,
+    "title": "Test: TestShardedTensorFromLocalShards.test_init_from_local_shards_and_global_metadata_with_all_zeros",
+    "url": "https://github.com/pytorch/pytorch/issues/168429",
+    "created_at": "2025-11-22T00:59:20Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538973,
+    "number": 168430,
+    "title": "Test: TestShardedTensorFromLocalShards.test_init_from_local_shards_and_global_metadata_with_local_view",
+    "url": "https://github.com/pytorch/pytorch/issues/168430",
+    "created_at": "2025-11-22T00:59:22Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538996,
+    "number": 168431,
+    "title": "Test: TestShardedTensorFromLocalShards.test_init_from_local_shards_and_global_metadata",
+    "url": "https://github.com/pytorch/pytorch/issues/168431",
+    "created_at": "2025-11-22T00:59:23Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540065,
+    "number": 168453,
+    "title": "TestModule: test/distributed/test_c10d_gloo.py::ProcessGroupGlooTest",
+    "url": "https://github.com/pytorch/pytorch/issues/168453",
+    "created_at": "2025-11-22T00:59:57Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540086,
+    "number": 168454,
+    "title": "Test: ProcessGroupGlooTest.test_broadcast_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168454",
+    "created_at": "2025-11-22T00:59:58Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540101,
+    "number": 168455,
+    "title": "Test: ProcessGroupGlooTest.test_allreduce_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168455",
+    "created_at": "2025-11-22T01:00:00Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540136,
+    "number": 168456,
+    "title": "Test: ProcessGroupGlooTest.test_scatter_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168456",
+    "created_at": "2025-11-22T01:00:01Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540152,
+    "number": 168457,
+    "title": "Test: ProcessGroupGlooTest.test_gather_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168457",
+    "created_at": "2025-11-22T01:00:03Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540481,
+    "number": 168458,
+    "title": "Test: ProcessGroupGlooTest.test_allgather_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168458",
+    "created_at": "2025-11-22T01:00:05Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653540514,
+    "number": 168459,
+    "title": "Test: ProcessGroupGlooTest.test_reduce_stress_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168459",
+    "created_at": "2025-11-22T01:00:06Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: c10d",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653543193,
     "number": 168521,
     "title": "Test: SymmetricMemoryTest.test_cuda_nvlink_connectivity_detection",
     "url": "https://github.com/pytorch/pytorch/issues/168521",
     "created_at": "2025-11-22T01:01:46Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543231,
+    "number": 168522,
+    "title": "TestModule: test/distributed/test_symmetric_memory.py::AsyncTPTest",
+    "url": "https://github.com/pytorch/pytorch/issues/168522",
+    "created_at": "2025-11-22T01:01:48Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543245,
+    "number": 168523,
+    "title": "Test: AsyncTPTest.test_fused_all_gather_matmul",
+    "url": "https://github.com/pytorch/pytorch/issues/168523",
+    "created_at": "2025-11-22T01:01:49Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543272,
+    "number": 168524,
+    "title": "Test: AsyncTPTest.test_fused_all_gather_matmul_native",
+    "url": "https://github.com/pytorch/pytorch/issues/168524",
+    "created_at": "2025-11-22T01:01:51Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543298,
+    "number": 168525,
+    "title": "Test: AsyncTPTest.test_multimem_all_gather_matmul",
+    "url": "https://github.com/pytorch/pytorch/issues/168525",
+    "created_at": "2025-11-22T01:01:52Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543324,
+    "number": 168526,
+    "title": "Test: AsyncTPTest.test_fused_all_gather_scaled_matmul",
+    "url": "https://github.com/pytorch/pytorch/issues/168526",
+    "created_at": "2025-11-22T01:01:54Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543354,
+    "number": 168527,
+    "title": "Test: AsyncTPTest.test_fused_matmul_reduce_scatter",
+    "url": "https://github.com/pytorch/pytorch/issues/168527",
+    "created_at": "2025-11-22T01:01:56Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543381,
+    "number": 168528,
+    "title": "Test: AsyncTPTest.test_fused_scaled_matmul_reduce_scatter",
+    "url": "https://github.com/pytorch/pytorch/issues/168528",
+    "created_at": "2025-11-22T01:01:58Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653543411,
+    "number": 168529,
+    "title": "Test: AsyncTPTest.test_optimal_layout",
+    "url": "https://github.com/pytorch/pytorch/issues/168529",
+    "created_at": "2025-11-22T01:01:59Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
