@@ -5601,5 +5601,80 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3697146163,
+    "number": 63269,
+    "title": "BUG: SUpport numpy 2.0 pls",
+    "url": "https://github.com/pandas-dev/pandas/issues/63269",
+    "created_at": "2025-12-05T01:23:41Z",
+    "user": "lucasjinreal",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3697157005,
+    "number": 169634,
+    "title": "torch.compile: Excessive recompilation due to implicit .item() conversion when multiplying scalar and 0-d tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/169634",
+    "created_at": "2025-12-05T01:31:04Z",
+    "user": "Koratahiu",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3697162580,
+    "number": 169635,
+    "title": "[DTensor RNG][compile] torch.compile random ops with DTensor only works with user passed generator",
+    "url": "https://github.com/pytorch/pytorch/issues/169635",
+    "created_at": "2025-12-05T01:34:43Z",
+    "user": "yiming0416",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3697268022,
+    "number": 63270,
+    "title": "ENH: Add `unit` argument to `to_datetime` and `to_timedelta` to avoid value-dependent parsing",
+    "url": "https://github.com/pandas-dev/pandas/issues/63270",
+    "created_at": "2025-12-05T02:34:04Z",
+    "user": "TomAugspurger",
+    "labels": [
+      "Enhancement",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3697286300,
+    "number": 17517,
+    "title": "[Bug]: Litellm content filter Guardrail only handle first Matching Keyword or regex match",
+    "url": "https://github.com/BerriAI/litellm/issues/17517",
+    "created_at": "2025-12-05T02:43:27Z",
+    "user": "EcoleKeine",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

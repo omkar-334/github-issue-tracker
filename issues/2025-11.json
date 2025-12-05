@@ -4860,6 +4860,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3626515990,
+    "number": 167848,
+    "title": "[ONNX] Insert Identity node when input is directly copied to an output",
+    "url": "https://github.com/pytorch/pytorch/issues/167848",
+    "created_at": "2025-11-14T17:28:26Z",
+    "user": "vient",
+    "labels": [
+      "module: onnx",
+      "low priority",
+      "triaged",
+      "OSS contribution wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3626591237,
     "number": 2044,
