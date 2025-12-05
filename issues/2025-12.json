@@ -6590,5 +6590,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3700366163,
+    "number": 169712,
+    "title": "ordering of symint node inputs in bw graph is wrong after default partition",
+    "url": "https://github.com/pytorch/pytorch/issues/169712",
+    "created_at": "2025-12-05T21:12:59Z",
+    "user": "yushangdi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
