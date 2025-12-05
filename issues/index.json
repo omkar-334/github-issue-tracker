@@ -24455,6 +24455,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3527975173,
+      "number": 12801,
+      "title": "Improve text color on top of light primary colors",
+      "url": "https://github.com/streamlit/streamlit/issues/12801",
+      "created_at": "2025-10-18T02:31:55Z",
+      "user": "jrieke",
+      "labels": [
+        "type:enhancement",
+        "feature:theming"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3528293356,
       "number": 9246,
@@ -52034,8 +52050,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3700561647,
+      "number": 3877,
+      "title": "Gradient accumulation gives worse results when using DeepSpeed ZeRO 2",
+      "url": "https://github.com/huggingface/accelerate/issues/3877",
+      "created_at": "2025-12-05T22:44:04Z",
+      "user": "swyoon",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3700564844,
+      "number": 169722,
+      "title": "[dynamo] Show where in user code side effects are happening",
+      "url": "https://github.com/pytorch/pytorch/issues/169722",
+      "created_at": "2025-12-05T22:45:22Z",
+      "user": "williamwen42",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: compile ux",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3700580533,
+      "number": 63278,
+      "title": "BUG: Period(distant_past_timestamp, freq=\"us\")",
+      "url": "https://github.com/pandas-dev/pandas/issues/63278",
+      "created_at": "2025-12-05T22:52:35Z",
+      "user": "jbrockmendel",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3700601783,
+      "number": 63279,
+      "title": "DOC: Address other string types in Pandas 3 string migration guide",
+      "url": "https://github.com/pandas-dev/pandas/issues/63279",
+      "created_at": "2025-12-05T23:07:19Z",
+      "user": "mattharrison",
+      "labels": [
+        "Docs",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3700613733,
+      "number": 3452,
+      "title": "Any plans to support `USE_DISTRIBUTED=0` pytorch?",
+      "url": "https://github.com/pytorch/ao/issues/3452",
+      "created_at": "2025-12-04T00:25:19Z",
+      "user": "rene-descartes2021",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T22:42:20Z",
-  "total_count": 3469
+  "last_updated": "2025-12-05T23:15:53Z",
+  "total_count": 3475
 }

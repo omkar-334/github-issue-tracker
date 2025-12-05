@@ -3500,6 +3500,22 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3527975173,
+    "number": 12801,
+    "title": "Improve text color on top of light primary colors",
+    "url": "https://github.com/streamlit/streamlit/issues/12801",
+    "created_at": "2025-10-18T02:31:55Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "feature:theming"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3528293356,
     "number": 9246,
