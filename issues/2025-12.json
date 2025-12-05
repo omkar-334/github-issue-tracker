@@ -6066,5 +6066,80 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3699255211,
+    "number": 169670,
+    "title": "Energy normalization error on torch.fft.fft2 and torch.fft.ifft2 when the matrix size = [2048, 2048]",
+    "url": "https://github.com/pytorch/pytorch/issues/169670",
+    "created_at": "2025-12-05T14:46:20Z",
+    "user": "Pengju-Sheng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3699258621,
+    "number": 33761,
+    "title": "MacOS: Some `mujoco.mjx` models are >100x slower on `jax>=0.7` than on `jax<0.7`",
+    "url": "https://github.com/jax-ml/jax/issues/33761",
+    "created_at": "2025-12-05T14:47:17Z",
+    "user": "hartikainen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3699342071,
+    "number": 17533,
+    "title": "Gemini TTS Bridge: /v1/audio/speech Endpoint Fails (400 Bad Request)",
+    "url": "https://github.com/BerriAI/litellm/issues/17533",
+    "created_at": "2025-12-05T15:13:02Z",
+    "user": "calebrio02",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3699343819,
+    "number": 169671,
+    "title": "[inductor] TIMM model training cudagraphs regression",
+    "url": "https://github.com/pytorch/pytorch/issues/169671",
+    "created_at": "2025-12-05T15:13:37Z",
+    "user": "desertfire",
+    "labels": [
+      "high priority",
+      "triage review"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3699349279,
+    "number": 42656,
+    "title": "Voxtral ASR Pipeline Integration Broken in 4.57.3",
+    "url": "https://github.com/huggingface/transformers/issues/42656",
+    "created_at": "2025-12-05T15:15:19Z",
+    "user": "julzzheng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
