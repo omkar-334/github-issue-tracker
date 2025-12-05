@@ -2036,6 +2036,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2855901075,
+      "number": 147277,
+      "title": "[inductor][fuzzer] decomposition failed on `torch.unsafe_chunk` with empty size input tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/147277",
+      "created_at": "2025-02-16T05:52:40Z",
+      "user": "WLFJ",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: decompositions"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 2856534714,
       "number": 3880,
@@ -23327,6 +23344,21 @@
       "url": "https://github.com/huggingface/smolagents/issues/1816",
       "created_at": "2025-10-14T05:34:34Z",
       "user": "AhnJoonSung",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3512566233,
+      "number": 15521,
+      "title": "[Bug]: IndexError: list index out of range when deleting a model deployment from a group sharing the same name",
+      "url": "https://github.com/BerriAI/litellm/issues/15521",
+      "created_at": "2025-10-14T06:37:53Z",
+      "user": "mwqgithub",
       "labels": [
         "bug"
       ],
@@ -51490,8 +51522,77 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3699580337,
+      "number": 42661,
+      "title": "Bug in processing of self.args.parallelism_config inside Trainer",
+      "url": "https://github.com/huggingface/transformers/issues/42661",
+      "created_at": "2025-12-05T16:27:48Z",
+      "user": "quic-meetkuma",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3699580841,
+      "number": 42662,
+      "title": "Deprecate NeptuneCallback",
+      "url": "https://github.com/huggingface/transformers/issues/42662",
+      "created_at": "2025-12-05T16:27:58Z",
+      "user": "tomaarsen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3699602634,
+      "number": 42664,
+      "title": "TrainingArguments does not process fsdp arguments correctly",
+      "url": "https://github.com/huggingface/transformers/issues/42664",
+      "created_at": "2025-12-05T16:34:23Z",
+      "user": "quic-meetkuma",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3699611372,
+      "number": 169675,
+      "title": "Header-hiding when TORCH_TARGET_VERSION is set is broken for editable torch installs",
+      "url": "https://github.com/pytorch/pytorch/issues/169675",
+      "created_at": "2025-12-05T16:37:08Z",
+      "user": "mikaylagawarecki",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3699622343,
+      "number": 16100,
+      "title": "CVE-2025-30405",
+      "url": "https://github.com/pytorch/executorch/issues/16100",
+      "created_at": "2025-12-05T16:40:41Z",
+      "user": "AlexTawseArm",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T16:20:56Z",
-  "total_count": 3433
+  "last_updated": "2025-12-05T16:49:58Z",
+  "total_count": 3440
 }

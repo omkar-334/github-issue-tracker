@@ -2436,6 +2436,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3512566233,
+    "number": 15521,
+    "title": "[Bug]: IndexError: list index out of range when deleting a model deployment from a group sharing the same name",
+    "url": "https://github.com/BerriAI/litellm/issues/15521",
+    "created_at": "2025-10-14T06:37:53Z",
+    "user": "mwqgithub",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3512658854,
     "number": 165408,
