@@ -7250,6 +7250,19 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3644363008,
+    "number": 16847,
+    "title": "[Architecture] mode field forcing endpoint selection breaks user code - use supported_endpoints",
+    "url": "https://github.com/BerriAI/litellm/issues/16847",
+    "created_at": "2025-11-19T20:44:26Z",
+    "user": "Chesars",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3644386667,
     "number": 24026,
