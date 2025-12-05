@@ -1,36 +1,15 @@
 [
   {
-    "repo": "streamlit/streamlit",
-    "id": 593603361,
-    "number": 1301,
-    "title": "Improve our format parameter as python format",
-    "url": "https://github.com/streamlit/streamlit/issues/1301",
-    "created_at": "2020-04-03T19:48:29Z",
-    "user": "arraydude",
+    "repo": "huggingface/optimum",
+    "id": 1430413866,
+    "number": 442,
+    "title": "Add support for ORTModelForObjectDetection",
+    "url": "https://github.com/huggingface/optimum/issues/442",
+    "created_at": "2022-10-31T19:59:21Z",
+    "user": "shivalikasingh95",
     "labels": [
-      "type:enhancement",
-      "feature:st.number_input",
-      "feature:st.slider",
-      "feature:st.column_config",
-      "upstream"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "id": 1553625318,
-    "number": 6004,
-    "title": "[Coming soon] st.tabs: know and control state",
-    "url": "https://github.com/streamlit/streamlit/issues/6004",
-    "created_at": "2023-01-23T19:17:02Z",
-    "user": "MathCatsAnd",
-    "labels": [
-      "type:enhancement",
-      "area:events",
-      "feature:st.tabs",
-      "status:likely"
+      "onnxruntime",
+      "onnx"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
