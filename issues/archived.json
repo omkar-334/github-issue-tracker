@@ -1,16 +1,15 @@
 [
   {
     "repo": "keras-team/keras-hub",
-    "id": 2115745310,
-    "number": 1422,
-    "title": "Add Electra Weights to Kaggle Models",
-    "url": "https://github.com/keras-team/keras-hub/issues/1422",
-    "created_at": "2024-02-02T20:26:50Z",
-    "user": "pranavvp16",
+    "id": 1492843438,
+    "number": 571,
+    "title": "Text generation performance is terrible when padding to the left side",
+    "url": "https://github.com/keras-team/keras-hub/issues/571",
+    "created_at": "2022-12-12T21:51:45Z",
+    "user": "chenmoneygithub",
     "labels": [
-      "type:feature",
-      "stat:awaiting response from contributor",
-      "stale"
+      "type:Bug",
+      "stat:awaiting response from contributor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
