@@ -11531,6 +11531,23 @@
       "archived": false
     },
     {
+      "repo": "huggingface/trl",
+      "id": 3247571779,
+      "number": 3751,
+      "title": "[Example Script] Is it possible to finetune VLM on the assistant only text instead of the entire sequence?",
+      "url": "https://github.com/huggingface/trl/issues/3751",
+      "created_at": "2025-07-21T07:41:25Z",
+      "user": "xhluca",
+      "labels": [
+        "✨ enhancement",
+        "❓ question",
+        "🏋 SFT"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3247600408,
       "number": 7694,
@@ -16958,6 +16975,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3390320767,
+      "number": 40739,
+      "title": "num_assistant_tokens not configured in assistant model",
+      "url": "https://github.com/huggingface/transformers/issues/40739",
+      "created_at": "2025-09-06T14:53:33Z",
+      "user": "geoffrey-young",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3391402299,
       "number": 2349,
@@ -20484,6 +20516,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3465917535,
+      "number": 41203,
+      "title": "[audio] standardization tracker",
+      "url": "https://github.com/huggingface/transformers/issues/41203",
+      "created_at": "2025-09-29T17:26:12Z",
+      "user": "eustlb",
+      "labels": [
+        "Audio"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3465971011,
       "number": 21700,
@@ -22079,6 +22126,23 @@
       "created_at": "2025-10-09T02:54:41Z",
       "user": "aaronshenhao",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3497767358,
+      "number": 18212,
+      "title": "[FR] Rate limit throttling with Gemini models",
+      "url": "https://github.com/mlflow/mlflow/issues/18212",
+      "created_at": "2025-10-09T06:09:19Z",
+      "user": "srinathmkce",
+      "labels": [
+        "enhancement",
+        "area/evaluation",
+        "domain/genai"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -26055,6 +26119,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3555141657,
+      "number": 41881,
+      "title": "FSDP2 training hangs during backward pass with MoE models when some experts are not activated",
+      "url": "https://github.com/huggingface/transformers/issues/41881",
+      "created_at": "2025-10-27T05:40:18Z",
+      "user": "LucienXian",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3555316309,
       "number": 1936,
@@ -27215,6 +27294,21 @@
       "url": "https://github.com/BerriAI/litellm/issues/16079",
       "created_at": "2025-10-30T01:04:10Z",
       "user": "aunt-bitsy",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3568691174,
+      "number": 41943,
+      "title": "error: argument --include_num_input_tokens_seen/--include-num-input-tokens-seen: Truthy value expected: got non_padding but expected one of yes/no, true/false, t/f, y/n, 1/0 (case insensitive).",
+      "url": "https://github.com/huggingface/transformers/issues/41943",
+      "created_at": "2025-10-30T02:31:09Z",
+      "user": "guofy-ai",
       "labels": [
         "bug"
       ],
@@ -29464,6 +29558,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3589469983,
+      "number": 42024,
+      "title": "`PreTrainedTokenizerBase.model_input_names` is a singleton",
+      "url": "https://github.com/huggingface/transformers/issues/42024",
+      "created_at": "2025-11-05T06:04:24Z",
+      "user": "stephantul",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 3589506862,
       "number": 2404,
@@ -29487,6 +29596,21 @@
       "labels": [
         "🐛 bug",
         "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3589746286,
+      "number": 42027,
+      "title": "Empty tensor in torch model trace for concat operation",
+      "url": "https://github.com/huggingface/transformers/issues/42027",
+      "created_at": "2025-11-05T07:47:10Z",
+      "user": "apbose",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -50780,8 +50904,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3697915941,
+      "number": 34221,
+      "title": "with_structured_output does not work in Docker",
+      "url": "https://github.com/langchain-ai/langchain/issues/34221",
+      "created_at": "2025-12-05T08:11:03Z",
+      "user": "maxwell60701",
+      "labels": [
+        "bug",
+        "core",
+        "langchain",
+        "ollama"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3697933419,
+      "number": 169656,
+      "title": "\"index_cpu\" not implemented for 'Float8_e4m3fn'",
+      "url": "https://github.com/pytorch/pytorch/issues/169656",
+      "created_at": "2025-12-05T08:17:53Z",
+      "user": "xinyu-intel",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T07:40:47Z",
-  "total_count": 3387
+  "last_updated": "2025-12-05T08:22:28Z",
+  "total_count": 3397
 }

@@ -2195,6 +2195,23 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3247571779,
+    "number": 3751,
+    "title": "[Example Script] Is it possible to finetune VLM on the assistant only text instead of the entire sequence?",
+    "url": "https://github.com/huggingface/trl/issues/3751",
+    "created_at": "2025-07-21T07:41:25Z",
+    "user": "xhluca",
+    "labels": [
+      "✨ enhancement",
+      "❓ question",
+      "🏋 SFT"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3247600408,
     "number": 7694,
