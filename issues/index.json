@@ -51135,8 +51135,40 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3698582916,
+      "number": 169664,
+      "title": "[Inductor-dashboard] error: 'buf*' was not declared in this scope",
+      "url": "https://github.com/pytorch/pytorch/issues/169664",
+      "created_at": "2025-12-05T11:22:06Z",
+      "user": "jataylo",
+      "labels": [
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3698623541,
+      "number": 30382,
+      "title": "BUG: `np.testing.assert_allclose` raises `ValueError` when using `timedelta64` with `atol`",
+      "url": "https://github.com/numpy/numpy/issues/30382",
+      "created_at": "2025-12-05T11:33:06Z",
+      "user": "riku-sakamoto",
+      "labels": [
+        "00 - Bug",
+        "component: numpy.testing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T11:16:27Z",
-  "total_count": 3410
+  "last_updated": "2025-12-05T11:38:34Z",
+  "total_count": 3412
 }
