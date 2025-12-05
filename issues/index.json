@@ -103,6 +103,19 @@
       "archived": false
     },
     {
+      "repo": "stanfordnlp/dspy",
+      "id": 2724964721,
+      "number": 1904,
+      "title": "Support for Pydantic Model as Signature InputField type",
+      "url": "https://github.com/stanfordnlp/dspy/issues/1904",
+      "created_at": "2024-12-08T05:29:57Z",
+      "user": "rohitgarud",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-cv",
       "id": 2727627840,
       "number": 2509,
@@ -51419,8 +51432,66 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3699470663,
+      "number": 3722,
+      "title": "Interaction Issue: Agent fails to keep track of downloads when no visual cues are present.",
+      "url": "https://github.com/browser-use/browser-use/issues/3722",
+      "created_at": "2025-12-05T15:51:17Z",
+      "user": "jeel-patel-scaletech",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3699478292,
+      "number": 42658,
+      "title": "Potential bug in Trainer+Accelerate integration",
+      "url": "https://github.com/huggingface/transformers/issues/42658",
+      "created_at": "2025-12-05T15:53:33Z",
+      "user": "quic-meetkuma",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3699529630,
+      "number": 42659,
+      "title": "SAM3 Loss",
+      "url": "https://github.com/huggingface/transformers/issues/42659",
+      "created_at": "2025-12-05T16:10:04Z",
+      "user": "aselimc",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3699533298,
+      "number": 3876,
+      "title": "Why TP can't be used with pure DP?",
+      "url": "https://github.com/huggingface/accelerate/issues/3876",
+      "created_at": "2025-12-05T16:11:22Z",
+      "user": "quic-meetkuma",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T15:44:17Z",
-  "total_count": 3428
+  "last_updated": "2025-12-05T16:20:56Z",
+  "total_count": 3433
 }
