@@ -964,6 +964,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3141155984,
+    "number": 155822,
+    "title": "DISABLED test_compare_cpu_nn_functional_conv1d_cuda_float32 (__main__.TestCommonCUDA)",
+    "url": "https://github.com/pytorch/pytorch/issues/155822",
+    "created_at": "2025-06-12T17:56:02Z",
+    "user": "atalman",
+    "labels": [
+      "module: cudnn",
+      "module: cuda",
+      "module: convolution",
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3141665408,
     "number": 1890,

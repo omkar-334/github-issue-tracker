@@ -1933,6 +1933,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3402018838,
+    "number": 14398,
+    "title": "[Feature]: Requests/tokens per day rate limit",
+    "url": "https://github.com/BerriAI/litellm/issues/14398",
+    "created_at": "2025-09-10T11:08:44Z",
+    "user": "ableitung",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3402932023,
     "number": 21655,

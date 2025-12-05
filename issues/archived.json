@@ -1,24 +1,6 @@
 [
   {
     "repo": "matplotlib/matplotlib",
-    "id": 1225250306,
-    "number": 22969,
-    "title": "[ENH]: Voxels as mappable for colorbar",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22969",
-    "created_at": "2022-05-04T11:35:52Z",
-    "user": "Luluser",
-    "labels": [
-      "New feature",
-      "topic: mplot3d",
-      "Difficulty: Medium",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
     "id": 1226024093,
     "number": 22978,
     "title": "[ENH]: Allow interaction with HiDPI via FigureCanvas",
@@ -28,57 +10,34 @@
     "labels": [
       "New feature",
       "topic: widgets/UI",
-      "GUI: tk",
-      "status: inactive"
+      "GUI: tk"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1226150761,
-    "number": 22980,
-    "title": "Inf in errorbar should get an arrow pointing to infinity",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22980",
-    "created_at": "2022-05-05T03:01:03Z",
-    "user": "jklymak",
-    "labels": [
-      "status: inactive"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1228557007,
-    "number": 23003,
-    "title": "[Bug]: matplotlib.pyplot.annotate with bbox: text is not centered vertically in svg",
-    "url": "https://github.com/matplotlib/matplotlib/issues/23003",
-    "created_at": "2022-05-07T07:34:08Z",
-    "user": "thawn",
-    "labels": [
-      "topic: text",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1228947008,
-    "number": 23015,
-    "title": "[MNT]: Alternate unit conversion and array duck typing.  ",
-    "url": "https://github.com/matplotlib/matplotlib/issues/23015",
-    "created_at": "2022-05-08T17:47:23Z",
-    "user": "jklymak",
-    "labels": [
-      "topic: units and array ducktypes",
-      "Maintenance",
-      "status: inactive"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
