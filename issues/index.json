@@ -50935,8 +50935,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3698016387,
+      "number": 17527,
+      "title": "[Feature]: Support for latest Mistral models in Azure AI",
+      "url": "https://github.com/BerriAI/litellm/issues/17527",
+      "created_at": "2025-12-05T08:45:18Z",
+      "user": "valentin-pringault",
+      "labels": [
+        "enhancement",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T08:22:28Z",
-  "total_count": 3397
+  "last_updated": "2025-12-05T08:49:27Z",
+  "total_count": 3398
 }
