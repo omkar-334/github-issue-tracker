@@ -20135,6 +20135,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3454459069,
+      "number": 163876,
+      "title": "[Fuzzer][Eager/Compile Divergence] AssertionError: -991967080329279/1000000000000000",
+      "url": "https://github.com/pytorch/pytorch/issues/163876",
+      "created_at": "2025-09-25T17:11:12Z",
+      "user": "bobrenjc93",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3455230264,
       "number": 3191,
@@ -51971,6 +51989,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-05T21:39:06Z",
-  "total_count": 3465
+  "last_updated": "2025-12-05T22:15:42Z",
+  "total_count": 3466
 }
