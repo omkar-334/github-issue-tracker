@@ -5856,5 +5856,52 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3698157589,
+    "number": 17529,
+    "title": "[Bug]: Restart from time to time by gunicorn WORKER TIMEOUT  error",
+    "url": "https://github.com/BerriAI/litellm/issues/17529",
+    "created_at": "2025-12-05T09:21:28Z",
+    "user": "LoadingZhang",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3698187052,
+    "number": 17530,
+    "title": "[Feature]: Set Periodic Refresh per config",
+    "url": "https://github.com/BerriAI/litellm/issues/17530",
+    "created_at": "2025-12-05T09:30:13Z",
+    "user": "PierreGrimmeKenbun",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3698190858,
+    "number": 63271,
+    "title": "BUG: Unexpected behavious in .loc method when looking for \"None\" values",
+    "url": "https://github.com/pandas-dev/pandas/issues/63271",
+    "created_at": "2025-12-05T09:31:31Z",
+    "user": "ExarKun64",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

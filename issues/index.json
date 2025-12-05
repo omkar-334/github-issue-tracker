@@ -12593,6 +12593,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3280191042,
+      "number": 13038,
+      "title": "Incorrect display of logs for ARM bulds on FVP",
+      "url": "https://github.com/pytorch/executorch/issues/13038",
+      "created_at": "2025-07-31T11:59:56Z",
+      "user": "west9906",
+      "labels": [
+        "partner: arm",
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 3280725697,
       "number": 1839,
@@ -50984,8 +51000,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3698157589,
+      "number": 17529,
+      "title": "[Bug]: Restart from time to time by gunicorn WORKER TIMEOUT  error",
+      "url": "https://github.com/BerriAI/litellm/issues/17529",
+      "created_at": "2025-12-05T09:21:28Z",
+      "user": "LoadingZhang",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3698187052,
+      "number": 17530,
+      "title": "[Feature]: Set Periodic Refresh per config",
+      "url": "https://github.com/BerriAI/litellm/issues/17530",
+      "created_at": "2025-12-05T09:30:13Z",
+      "user": "PierreGrimmeKenbun",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3698190858,
+      "number": 63271,
+      "title": "BUG: Unexpected behavious in .loc method when looking for \"None\" values",
+      "url": "https://github.com/pandas-dev/pandas/issues/63271",
+      "created_at": "2025-12-05T09:31:31Z",
+      "user": "ExarKun64",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T09:18:47Z",
-  "total_count": 3400
+  "last_updated": "2025-12-05T09:43:20Z",
+  "total_count": 3404
 }
