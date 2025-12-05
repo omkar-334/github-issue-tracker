@@ -51655,8 +51655,43 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3699830773,
+      "number": 169684,
+      "title": "ROCM nightly builds are broken since Dec 1 , 2025",
+      "url": "https://github.com/pytorch/pytorch/issues/169684",
+      "created_at": "2025-12-05T17:51:43Z",
+      "user": "atalman",
+      "labels": [
+        "high priority",
+        "triage review",
+        "module: rocm",
+        "rocm",
+        "rocm priority"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3699883931,
+      "number": 63277,
+      "title": "BUG: `pd.col` Not Supported in `.loc` for Series",
+      "url": "https://github.com/pandas-dev/pandas/issues/63277",
+      "created_at": "2025-12-05T18:09:48Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T17:42:09Z",
-  "total_count": 3444
+  "last_updated": "2025-12-05T18:21:43Z",
+  "total_count": 3446
 }

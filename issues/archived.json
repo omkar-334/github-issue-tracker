@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "repo": "pytorch/pytorch",
+    "id": 749692941,
+    "number": 48419,
+    "title": "pin_memory=True in DataLoader converts a tuple to list automatically",
+    "url": "https://github.com/pytorch/pytorch/issues/48419",
+    "created_at": "2020-11-24T13:08:51Z",
+    "user": "scarecrow1123",
+    "labels": [
+      "module: dataloader",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 2374115396,
+    "number": 12478,
+    "title": "[FR] Support uv package installer when inferring requirements (i.e. when logging model)",
+    "url": "https://github.com/mlflow/mlflow/issues/12478",
+    "created_at": "2024-06-26T03:31:40Z",
+    "user": "robmcd",
+    "labels": [
+      "enhancement",
+      "area/models",
+      "area/tracking",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
