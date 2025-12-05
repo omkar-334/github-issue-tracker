@@ -1082,6 +1082,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3588243583,
+    "number": 167012,
+    "title": "regional inductor error out when input has unbacked symint expressions",
+    "url": "https://github.com/pytorch/pytorch/issues/167012",
+    "created_at": "2025-11-04T21:48:58Z",
+    "user": "yushangdi",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3588464033,
     "number": 30727,

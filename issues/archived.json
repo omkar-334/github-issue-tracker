@@ -1,15 +1,15 @@
 [
   {
-    "repo": "huggingface/diffusers",
-    "id": 2573860989,
-    "number": 9607,
-    "title": "FlowMatch schedulers - closing the gap",
-    "url": "https://github.com/huggingface/diffusers/issues/9607",
-    "created_at": "2024-10-08T18:00:58Z",
-    "user": "vladmandic",
+    "repo": "streamlit/streamlit",
+    "id": 1518133652,
+    "number": 5908,
+    "title": "Button or API for users to switch between themes without the Hamburger menu",
+    "url": "https://github.com/streamlit/streamlit/issues/5908",
+    "created_at": "2023-01-04T00:59:01Z",
+    "user": "lesser-panda",
     "labels": [
-      "wip",
-      "scheduler"
+      "type:enhancement",
+      "feature:theming"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
