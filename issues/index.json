@@ -34633,6 +34633,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3636569478,
+      "number": 58735,
+      "title": "Assertion Error when Running Ray Tune with Pytorch",
+      "url": "https://github.com/ray-project/ray/issues/58735",
+      "created_at": "2025-11-18T07:31:20Z",
+      "user": "sasikumar96-raju",
+      "labels": [
+        "bug",
+        "tune",
+        "triage",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3636808734,
       "number": 7869,
@@ -34991,6 +35010,27 @@
       "created_at": "2025-11-18T19:23:25Z",
       "user": "BoyuanFeng",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3639726172,
+      "number": 58750,
+      "title": "[Core] Logs are not deduplicated with Ray is initialized in client mode to connect to cluster using `address=`",
+      "url": "https://github.com/ray-project/ray/issues/58750",
+      "created_at": "2025-11-18T19:25:40Z",
+      "user": "chajath",
+      "labels": [
+        "bug",
+        "P2",
+        "usability",
+        "core-client",
+        "core",
+        "observability",
+        "community-backlog"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -51245,8 +51285,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3699085658,
+      "number": 19246,
+      "title": "[FR] Upgrade to Azure Machine Learning Python SDK v2",
+      "url": "https://github.com/mlflow/mlflow/issues/19246",
+      "created_at": "2025-12-05T13:57:28Z",
+      "user": "josemaia",
+      "labels": [
+        "enhancement",
+        "domain/platform"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T13:51:22Z",
-  "total_count": 3417
+  "last_updated": "2025-12-05T14:17:42Z",
+  "total_count": 3420
 }

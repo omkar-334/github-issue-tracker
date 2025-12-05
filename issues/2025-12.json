@@ -6050,5 +6050,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3699085658,
+    "number": 19246,
+    "title": "[FR] Upgrade to Azure Machine Learning Python SDK v2",
+    "url": "https://github.com/mlflow/mlflow/issues/19246",
+    "created_at": "2025-12-05T13:57:28Z",
+    "user": "josemaia",
+    "labels": [
+      "enhancement",
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
