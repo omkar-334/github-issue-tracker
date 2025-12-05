@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "streamlit/streamlit",
-    "id": 1518133652,
-    "number": 5908,
-    "title": "Button or API for users to switch between themes without the Hamburger menu",
-    "url": "https://github.com/streamlit/streamlit/issues/5908",
-    "created_at": "2023-01-04T00:59:01Z",
-    "user": "lesser-panda",
-    "labels": [
-      "type:enhancement",
-      "feature:theming"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

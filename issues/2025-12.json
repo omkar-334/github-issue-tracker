@@ -6456,5 +6456,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3700133488,
+    "number": 2388,
+    "title": "[Windows][ROCm] onnxruntime-gpu cannot detect RX 7600 XT, only CUDA",
+    "url": "https://github.com/huggingface/optimum/issues/2388",
+    "created_at": "2025-12-05T19:34:50Z",
+    "user": "btkpftk-lang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
