@@ -559,6 +559,23 @@
   },
   {
     "repo": "BerriAI/litellm",
+    "id": 3380356958,
+    "number": 14212,
+    "title": "[Bug]: Logs getting lost for short running programs",
+    "url": "https://github.com/BerriAI/litellm/issues/14212",
+    "created_at": "2025-09-03T15:46:36Z",
+    "user": "KEDIARAHUL135",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
     "id": 3380836452,
     "number": 14218,
     "title": "[Feature]: /spend/logs api route pagination",
@@ -1119,6 +1136,37 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3386022348,
+    "number": 14276,
+    "title": "[Bug]: Deprecation warning that can not be silenced",
+    "url": "https://github.com/BerriAI/litellm/issues/14276",
+    "created_at": "2025-09-05T01:57:10Z",
+    "user": "Mr-Pepe",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3386524067,
+    "number": 14280,
+    "title": "Fix \"xai/grok-4\" entry in \"model_prices_and_context_window.json\"",
+    "url": "https://github.com/BerriAI/litellm/issues/14280",
+    "created_at": "2025-09-05T07:10:43Z",
+    "user": "christopherquenneville",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3386622545,
     "number": 30519,
@@ -1128,6 +1176,39 @@
     "user": "timhoffm",
     "labels": [
       "New feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3386867328,
+    "number": 14282,
+    "title": "[Bug]: Opik tracing error: responses endpoint does not nest llm calls correctly under their parent functions",
+    "url": "https://github.com/BerriAI/litellm/issues/14282",
+    "created_at": "2025-09-05T09:19:43Z",
+    "user": "omegarhovega",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3386933363,
+    "number": 14283,
+    "title": "[Bug]: create_pretrained_tokenizer auth token parameter name wrong",
+    "url": "https://github.com/BerriAI/litellm/issues/14283",
+    "created_at": "2025-09-05T09:43:34Z",
+    "user": "rolshoven",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1147,6 +1228,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3387163944,
+    "number": 14284,
+    "title": "[Bug]: Docs describe allowed_fails incorrectly",
+    "url": "https://github.com/BerriAI/litellm/issues/14284",
+    "created_at": "2025-09-05T11:05:38Z",
+    "user": "curious-broccoli",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3387546976,
     "number": 62261,
@@ -1157,6 +1254,53 @@
     "labels": [
       "Master Tracker",
       "Python 3.14"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3387694448,
+    "number": 14285,
+    "title": "[Bug]: Missing Gemini IMAGE tokens in cost calculation",
+    "url": "https://github.com/BerriAI/litellm/issues/14285",
+    "created_at": "2025-09-05T14:07:26Z",
+    "user": "tremlin",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3388072535,
+    "number": 14290,
+    "title": "[Feature]: Add Qwen Max 3 and MoonshotAI: Kimi K2 0905 from OpenRouter",
+    "url": "https://github.com/BerriAI/litellm/issues/14290",
+    "created_at": "2025-09-05T16:04:47Z",
+    "user": "nuraxai",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3388190834,
+    "number": 14291,
+    "title": "Add temperature to model_prices_and_context_window.json",
+    "url": "https://github.com/BerriAI/litellm/issues/14291",
+    "created_at": "2025-09-05T16:48:22Z",
+    "user": "trevorprater",
+    "labels": [
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

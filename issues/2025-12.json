@@ -5497,5 +5497,109 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3696999148,
+    "number": 169626,
+    "title": "Any plans to support `USE_DISTRIBUTED=0` pytorch?",
+    "url": "https://github.com/pytorch/pytorch/issues/169626",
+    "created_at": "2025-12-04T00:25:19Z",
+    "user": "rene-descartes2021",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3697003749,
+    "number": 3678,
+    "title": "[Feature] Expert Parallelism",
+    "url": "https://github.com/unslothai/unsloth/issues/3678",
+    "created_at": "2025-12-04T23:57:34Z",
+    "user": "bchau-calliope",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3697005235,
+    "number": 42638,
+    "title": "Routing Replay for MoEs",
+    "url": "https://github.com/huggingface/transformers/issues/42638",
+    "created_at": "2025-12-04T23:58:14Z",
+    "user": "qgallouedec",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3697009756,
+    "number": 17512,
+    "title": "[Bug]: Veo support - failing to poll the video generation status and download the video",
+    "url": "https://github.com/BerriAI/litellm/issues/17512",
+    "created_at": "2025-12-05T00:00:43Z",
+    "user": "Zristiano",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3697039793,
+    "number": 30379,
+    "title": "BUG: Building on Python 3.15.0a2 failing due to `multiarray/conversion_utils.h`",
+    "url": "https://github.com/numpy/numpy/issues/30379",
+    "created_at": "2025-12-05T00:16:02Z",
+    "user": "p-vdp",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3697073724,
+    "number": 24103,
+    "title": "BUG: `spatial.ConvexHull.equations` contains exact duplicate inequalities",
+    "url": "https://github.com/scipy/scipy/issues/24103",
+    "created_at": "2025-12-05T00:35:56Z",
+    "user": "adamhallmark",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3697076741,
+    "number": 16090,
+    "title": "DecomposeGroupNormPass(ArmPass) fails",
+    "url": "https://github.com/pytorch/executorch/issues/16090",
+    "created_at": "2025-12-03T10:09:14Z",
+    "user": "eladc4",
+    "labels": [
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

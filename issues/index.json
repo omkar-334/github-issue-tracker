@@ -1,37 +1,6 @@
 {
   "issues": [
     {
-      "repo": "explosion/spaCy",
-      "id": 2717368488,
-      "number": 13705,
-      "title": " Improving Korean NER model accuracy by including particles in entity annotations",
-      "url": "https://github.com/explosion/spaCy/issues/13705",
-      "created_at": "2024-12-04T11:07:11Z",
-      "user": "peacefulluo",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "pytorch/torchchat",
-      "id": 2718879249,
-      "number": 1399,
-      "title": "Executorch Slows Down after second or third response in Torchchat",
-      "url": "https://github.com/pytorch/torchchat/issues/1399",
-      "created_at": "2024-12-04T09:56:02Z",
-      "user": "infil00p",
-      "labels": [
-        "bug",
-        "Mobile - Android",
-        "ExecuTorch",
-        "triaged"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "huggingface/tokenizers",
       "id": 2720511569,
       "number": 1696,
@@ -16114,6 +16083,23 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3380356958,
+      "number": 14212,
+      "title": "[Bug]: Logs getting lost for short running programs",
+      "url": "https://github.com/BerriAI/litellm/issues/14212",
+      "created_at": "2025-09-03T15:46:36Z",
+      "user": "KEDIARAHUL135",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3380836452,
       "number": 14218,
       "title": "[Feature]: /spend/logs api route pagination",
@@ -16674,6 +16660,37 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3386022348,
+      "number": 14276,
+      "title": "[Bug]: Deprecation warning that can not be silenced",
+      "url": "https://github.com/BerriAI/litellm/issues/14276",
+      "created_at": "2025-09-05T01:57:10Z",
+      "user": "Mr-Pepe",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3386524067,
+      "number": 14280,
+      "title": "Fix \"xai/grok-4\" entry in \"model_prices_and_context_window.json\"",
+      "url": "https://github.com/BerriAI/litellm/issues/14280",
+      "created_at": "2025-09-05T07:10:43Z",
+      "user": "christopherquenneville",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3386622545,
       "number": 30519,
@@ -16683,6 +16700,39 @@
       "user": "timhoffm",
       "labels": [
         "New feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3386867328,
+      "number": 14282,
+      "title": "[Bug]: Opik tracing error: responses endpoint does not nest llm calls correctly under their parent functions",
+      "url": "https://github.com/BerriAI/litellm/issues/14282",
+      "created_at": "2025-09-05T09:19:43Z",
+      "user": "omegarhovega",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3386933363,
+      "number": 14283,
+      "title": "[Bug]: create_pretrained_tokenizer auth token parameter name wrong",
+      "url": "https://github.com/BerriAI/litellm/issues/14283",
+      "created_at": "2025-09-05T09:43:34Z",
+      "user": "rolshoven",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -16702,6 +16752,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3387163944,
+      "number": 14284,
+      "title": "[Bug]: Docs describe allowed_fails incorrectly",
+      "url": "https://github.com/BerriAI/litellm/issues/14284",
+      "created_at": "2025-09-05T11:05:38Z",
+      "user": "curious-broccoli",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3387546976,
       "number": 62261,
@@ -16712,6 +16778,53 @@
       "labels": [
         "Master Tracker",
         "Python 3.14"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3387694448,
+      "number": 14285,
+      "title": "[Bug]: Missing Gemini IMAGE tokens in cost calculation",
+      "url": "https://github.com/BerriAI/litellm/issues/14285",
+      "created_at": "2025-09-05T14:07:26Z",
+      "user": "tremlin",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3388072535,
+      "number": 14290,
+      "title": "[Feature]: Add Qwen Max 3 and MoonshotAI: Kimi K2 0905 from OpenRouter",
+      "url": "https://github.com/BerriAI/litellm/issues/14290",
+      "created_at": "2025-09-05T16:04:47Z",
+      "user": "nuraxai",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3388190834,
+      "number": 14291,
+      "title": "Add temperature to model_prices_and_context_window.json",
+      "url": "https://github.com/BerriAI/litellm/issues/14291",
+      "created_at": "2025-09-05T16:48:22Z",
+      "user": "trevorprater",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29077,6 +29190,22 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3587211343,
+      "number": 62980,
+      "title": "ENH: Add primary_key and auto_increment parameters to DataFrame.to_sql()",
+      "url": "https://github.com/pandas-dev/pandas/issues/62980",
+      "created_at": "2025-11-04T16:00:11Z",
+      "user": "eddiethedean",
+      "labels": [
+        "Enhancement",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 3587404370,
       "number": 23926,
@@ -37784,6 +37913,21 @@
       "user": "unalmis",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3655878463,
+      "number": 16998,
+      "title": "[Bug]: Missing pricing entry for gpt-5.1-codex-max in model_prices_and_context_window.json",
+      "url": "https://github.com/BerriAI/litellm/issues/16998",
+      "created_at": "2025-11-23T11:47:38Z",
+      "user": "d7185540",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -50199,8 +50343,112 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3696999148,
+      "number": 169626,
+      "title": "Any plans to support `USE_DISTRIBUTED=0` pytorch?",
+      "url": "https://github.com/pytorch/pytorch/issues/169626",
+      "created_at": "2025-12-04T00:25:19Z",
+      "user": "rene-descartes2021",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3697003749,
+      "number": 3678,
+      "title": "[Feature] Expert Parallelism",
+      "url": "https://github.com/unslothai/unsloth/issues/3678",
+      "created_at": "2025-12-04T23:57:34Z",
+      "user": "bchau-calliope",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3697005235,
+      "number": 42638,
+      "title": "Routing Replay for MoEs",
+      "url": "https://github.com/huggingface/transformers/issues/42638",
+      "created_at": "2025-12-04T23:58:14Z",
+      "user": "qgallouedec",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3697009756,
+      "number": 17512,
+      "title": "[Bug]: Veo support - failing to poll the video generation status and download the video",
+      "url": "https://github.com/BerriAI/litellm/issues/17512",
+      "created_at": "2025-12-05T00:00:43Z",
+      "user": "Zristiano",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3697039793,
+      "number": 30379,
+      "title": "BUG: Building on Python 3.15.0a2 failing due to `multiarray/conversion_utils.h`",
+      "url": "https://github.com/numpy/numpy/issues/30379",
+      "created_at": "2025-12-05T00:16:02Z",
+      "user": "p-vdp",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3697073724,
+      "number": 24103,
+      "title": "BUG: `spatial.ConvexHull.equations` contains exact duplicate inequalities",
+      "url": "https://github.com/scipy/scipy/issues/24103",
+      "created_at": "2025-12-05T00:35:56Z",
+      "user": "adamhallmark",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3697076741,
+      "number": 16090,
+      "title": "DecomposeGroupNormPass(ArmPass) fails",
+      "url": "https://github.com/pytorch/executorch/issues/16090",
+      "created_at": "2025-12-03T10:09:14Z",
+      "user": "eladc4",
+      "labels": [
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-04T23:39:38Z",
-  "total_count": 3350
+  "last_updated": "2025-12-05T01:13:03Z",
+  "total_count": 3366
 }
