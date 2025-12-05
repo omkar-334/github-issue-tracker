@@ -9341,6 +9341,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3653550259,
+    "number": 168695,
+    "title": "Test: TestConvolutionNNDeviceType.test_conv3d_64bit_indexing",
+    "url": "https://github.com/pytorch/pytorch/issues/168695",
+    "created_at": "2025-11-22T01:06:21Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "module: convolution",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3653628578,
     "number": 18970,

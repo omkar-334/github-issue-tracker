@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "keras-team/keras-hub",
-    "id": 1492843438,
-    "number": 571,
-    "title": "Text generation performance is terrible when padding to the left side",
-    "url": "https://github.com/keras-team/keras-hub/issues/571",
-    "created_at": "2022-12-12T21:51:45Z",
-    "user": "chenmoneygithub",
-    "labels": [
-      "type:Bug",
-      "stat:awaiting response from contributor"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
