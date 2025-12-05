@@ -6005,5 +6005,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3698810243,
+    "number": 169666,
+    "title": "Inconsistent`flop_counter.get_total_flops()` results for a custom decoder model",
+    "url": "https://github.com/pytorch/pytorch/issues/169666",
+    "created_at": "2025-12-05T12:30:45Z",
+    "user": "basavyr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
