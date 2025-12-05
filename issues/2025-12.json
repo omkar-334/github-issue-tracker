@@ -5947,5 +5947,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3698476064,
+    "number": 3875,
+    "title": "Bug with nested Scheduler",
+    "url": "https://github.com/huggingface/accelerate/issues/3875",
+    "created_at": "2025-12-05T10:50:09Z",
+    "user": "FrsECM",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3698541907,
+    "number": 169663,
+    "title": "[CI] Inductor dashboards failing due to unused --quant arg",
+    "url": "https://github.com/pytorch/pytorch/issues/169663",
+    "created_at": "2025-12-05T11:10:10Z",
+    "user": "jataylo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
