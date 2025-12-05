@@ -51180,8 +51180,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3698962930,
+      "number": 17531,
+      "title": "[Bug]: amazon.nova-2-multimodal-embeddings-v1 usage with images",
+      "url": "https://github.com/BerriAI/litellm/issues/17531",
+      "created_at": "2025-12-05T13:19:54Z",
+      "user": "ladrians",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T12:33:02Z",
-  "total_count": 3413
+  "last_updated": "2025-12-05T13:29:59Z",
+  "total_count": 3414
 }
