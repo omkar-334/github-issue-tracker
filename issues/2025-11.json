@@ -7581,6 +7581,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3647186733,
+    "number": 168250,
+    "title": "DISABLED test_device_moved_constant_cpu_with_stack_allocation (__main__.AOTInductorTestABICompatibleCpuWithStackAllocation)",
+    "url": "https://github.com/pytorch/pytorch/issues/168250",
+    "created_at": "2025-11-20T12:59:25Z",
+    "user": "pytorch-bot[bot]",
+    "labels": [
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3647231396,
     "number": 9079,
