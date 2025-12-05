@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1118683314,
-    "number": 5332,
-    "title": "[BUG] Memory usage 400MB (very high) - can it be reduced?",
-    "url": "https://github.com/mlflow/mlflow/issues/5332",
-    "created_at": "2022-01-30T19:35:58Z",
-    "user": "PhilipMay",
-    "labels": [
-      "bug"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
