@@ -1933,6 +1933,22 @@
     "archived": false
   },
   {
+    "repo": "plotly/plotly.py",
+    "id": 3102777108,
+    "number": 5210,
+    "title": "plotly 6.1.2 not showing datetime for FigureWidget",
+    "url": "https://github.com/plotly/plotly.py/issues/5210",
+    "created_at": "2025-05-30T10:13:54Z",
+    "user": "mgmarino",
+    "labels": [
+      "bug",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3102965124,
     "number": 1863,

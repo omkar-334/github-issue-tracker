@@ -7031,6 +7031,22 @@
       "archived": false
     },
     {
+      "repo": "plotly/plotly.py",
+      "id": 3102777108,
+      "number": 5210,
+      "title": "plotly 6.1.2 not showing datetime for FigureWidget",
+      "url": "https://github.com/plotly/plotly.py/issues/5210",
+      "created_at": "2025-05-30T10:13:54Z",
+      "user": "mgmarino",
+      "labels": [
+        "bug",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 3102965124,
       "number": 1863,
@@ -13378,6 +13394,23 @@
       "labels": [
         "type:Bug",
         "team-created"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3300343252,
+      "number": 12096,
+      "title": "WanVACEPipeline - doesn't work with apply_group_offloading",
+      "url": "https://github.com/huggingface/diffusers/issues/12096",
+      "created_at": "2025-08-07T12:37:50Z",
+      "user": "SlimRG",
+      "labels": [
+        "bug",
+        "contributions-welcome",
+        "group-offloading"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -51196,8 +51229,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3699005269,
+      "number": 17532,
+      "title": "[Bug]: content field missing in chat-completion API responses returning tool calls",
+      "url": "https://github.com/BerriAI/litellm/issues/17532",
+      "created_at": "2025-12-05T13:31:27Z",
+      "user": "wookievx",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T13:29:59Z",
-  "total_count": 3414
+  "last_updated": "2025-12-05T13:51:22Z",
+  "total_count": 3417
 }
