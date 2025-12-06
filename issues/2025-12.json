@@ -7131,5 +7131,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3701866817,
+    "number": 13242,
+    "title": "Add support for PyCapsule",
+    "url": "https://github.com/streamlit/streamlit/issues/13242",
+    "created_at": "2025-12-06T14:59:35Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "area:arrow",
+      "feature:st.dataframe"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3701875838,
+    "number": 169758,
+    "title": "ONNX export fails when cdist is used with dynamic inputs",
+    "url": "https://github.com/pytorch/pytorch/issues/169758",
+    "created_at": "2025-12-06T15:04:09Z",
+    "user": "LittleEndu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
