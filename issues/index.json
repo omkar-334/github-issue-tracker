@@ -2941,6 +2941,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2919605063,
+      "number": 149187,
+      "title": "Issue with Shared CUDA Tensor Reference Counting in Multi-Processing",
+      "url": "https://github.com/pytorch/pytorch/issues/149187",
+      "created_at": "2025-03-14T08:46:33Z",
+      "user": "U-rara",
+      "labels": [
+        "module: multiprocessing",
+        "module: cuda",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 2920591127,
       "number": 3114,
@@ -52981,8 +52998,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3702234007,
+      "number": 17608,
+      "title": "Refactor: Extract type aliases for Files API provider Literals",
+      "url": "https://github.com/BerriAI/litellm/issues/17608",
+      "created_at": "2025-12-06T19:19:25Z",
+      "user": "Chesars",
+      "labels": [
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T19:12:55Z",
-  "total_count": 3530
+  "last_updated": "2025-12-06T19:36:36Z",
+  "total_count": 3532
 }

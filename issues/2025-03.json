@@ -554,6 +554,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2919605063,
+    "number": 149187,
+    "title": "Issue with Shared CUDA Tensor Reference Counting in Multi-Processing",
+    "url": "https://github.com/pytorch/pytorch/issues/149187",
+    "created_at": "2025-03-14T08:46:33Z",
+    "user": "U-rara",
+    "labels": [
+      "module: multiprocessing",
+      "module: cuda",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2920591127,
     "number": 3114,
