@@ -14,5 +14,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2702927936,
+    "number": 21966,
+    "title": "ENH: special: migrate cdflib functions to boost",
+    "url": "https://github.com/scipy/scipy/issues/21966",
+    "created_at": "2024-11-28T18:21:15Z",
+    "user": "dschmitz89",
+    "labels": [
+      "enhancement",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
   }
 ]
