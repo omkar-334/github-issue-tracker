@@ -2829,6 +2829,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2913828675,
+      "number": 10737,
+      "title": "Add configurable buttons and selectors into `st.chat_input`",
+      "url": "https://github.com/streamlit/streamlit/issues/10737",
+      "created_at": "2025-03-12T12:35:27Z",
+      "user": "lukasmasuch",
+      "labels": [
+        "type:enhancement",
+        "feature:st.chat_input"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 2916064546,
       "number": 8966,
@@ -53046,8 +53062,37 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3702394739,
+      "number": 169763,
+      "title": "Multiple torch.load() call on the same BinaryIO",
+      "url": "https://github.com/pytorch/pytorch/issues/169763",
+      "created_at": "2025-12-06T21:09:31Z",
+      "user": "mazurkin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3702395765,
+      "number": 63287,
+      "title": "BUG: `pd.qcut` does not work with `pd.col` in `.assign`",
+      "url": "https://github.com/pandas-dev/pandas/issues/63287",
+      "created_at": "2025-12-06T21:10:07Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T20:40:38Z",
-  "total_count": 3534
+  "last_updated": "2025-12-06T21:14:07Z",
+  "total_count": 3537
 }

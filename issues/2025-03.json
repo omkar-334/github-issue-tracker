@@ -442,6 +442,22 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 2913828675,
+    "number": 10737,
+    "title": "Add configurable buttons and selectors into `st.chat_input`",
+    "url": "https://github.com/streamlit/streamlit/issues/10737",
+    "created_at": "2025-03-12T12:35:27Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "feature:st.chat_input"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2916064546,
     "number": 8966,

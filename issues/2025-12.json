@@ -7362,5 +7362,34 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702394739,
+    "number": 169763,
+    "title": "Multiple torch.load() call on the same BinaryIO",
+    "url": "https://github.com/pytorch/pytorch/issues/169763",
+    "created_at": "2025-12-06T21:09:31Z",
+    "user": "mazurkin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3702395765,
+    "number": 63287,
+    "title": "BUG: `pd.qcut` does not work with `pd.col` in `.assign`",
+    "url": "https://github.com/pandas-dev/pandas/issues/63287",
+    "created_at": "2025-12-06T21:10:07Z",
+    "user": "mattharrison",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
