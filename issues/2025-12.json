@@ -7090,5 +7090,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3701668952,
+    "number": 3726,
+    "title": "Bug: Screenshots are sent to LLM for judging, even when vision is disabled",
+    "url": "https://github.com/browser-use/browser-use/issues/3726",
+    "created_at": "2025-12-06T13:06:20Z",
+    "user": "leandertolksdorf",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
