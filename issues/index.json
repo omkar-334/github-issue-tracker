@@ -52376,8 +52376,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3700918391,
+      "number": 33787,
+      "title": "[Explicit Sharding] Missing sharding rule for `view(complex64 -> float32)`",
+      "url": "https://github.com/jax-ml/jax/issues/33787",
+      "created_at": "2025-12-06T03:16:03Z",
+      "user": "jkyl",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T02:52:24Z",
-  "total_count": 3490
+  "last_updated": "2025-12-06T03:41:37Z",
+  "total_count": 3491
 }
