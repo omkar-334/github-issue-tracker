@@ -6075,6 +6075,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3068105185,
+      "number": 53077,
+      "title": "[Ray Core] Ray scheduler is abnormally slow",
+      "url": "https://github.com/ray-project/ray/issues/53077",
+      "created_at": "2025-05-16T06:47:04Z",
+      "user": "Moonquakes",
+      "labels": [
+        "bug",
+        "P1",
+        "performance",
+        "core",
+        "core-scheduler",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3068982464,
       "number": 9071,
@@ -16025,6 +16045,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3375571329,
+      "number": 40620,
+      "title": "Function/Tool Calling with Streaming (transformers serve) Returns Empty Chunks for GPT-OSS-20B",
+      "url": "https://github.com/huggingface/transformers/issues/40620",
+      "created_at": "2025-09-02T11:13:45Z",
+      "user": "Lanson2232",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/ao",
       "id": 3375688762,
       "number": 2919,
@@ -24097,6 +24132,22 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3520103957,
+      "number": 62708,
+      "title": "DOC: Explain how to load data in Google Colab",
+      "url": "https://github.com/pandas-dev/pandas/issues/62708",
+      "created_at": "2025-10-16T02:35:43Z",
+      "user": "afeld",
+      "labels": [
+        "Docs",
+        "good first issue"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3520135934,
       "number": 4294,
@@ -29882,6 +29933,19 @@
       "labels": [
         "bug"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3590093998,
+      "number": 42029,
+      "title": "Need to understand logging_steps in Trainer.",
+      "url": "https://github.com/huggingface/transformers/issues/42029",
+      "created_at": "2025-11-05T09:29:35Z",
+      "user": "quic-meetkuma",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -52514,8 +52578,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3701267916,
+      "number": 169752,
+      "title": "if __name__ == \"__main__\": run_tests() cannot be found in the test files under distributed/elastic/rendezvous",
+      "url": "https://github.com/pytorch/pytorch/issues/169752",
+      "created_at": "2025-12-06T08:12:00Z",
+      "user": "123456dad",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T07:37:08Z",
-  "total_count": 3499
+  "last_updated": "2025-12-06T08:20:38Z",
+  "total_count": 3504
 }

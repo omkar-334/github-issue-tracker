@@ -3055,6 +3055,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3520103957,
+    "number": 62708,
+    "title": "DOC: Explain how to load data in Google Colab",
+    "url": "https://github.com/pandas-dev/pandas/issues/62708",
+    "created_at": "2025-10-16T02:35:43Z",
+    "user": "afeld",
+    "labels": [
+      "Docs",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3520135934,
     "number": 4294,

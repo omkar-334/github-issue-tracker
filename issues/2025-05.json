@@ -929,6 +929,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3068105185,
+    "number": 53077,
+    "title": "[Ray Core] Ray scheduler is abnormally slow",
+    "url": "https://github.com/ray-project/ray/issues/53077",
+    "created_at": "2025-05-16T06:47:04Z",
+    "user": "Moonquakes",
+    "labels": [
+      "bug",
+      "P1",
+      "performance",
+      "core",
+      "core-scheduler",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3068982464,
     "number": 9071,

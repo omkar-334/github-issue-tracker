@@ -1224,6 +1224,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3590093998,
+    "number": 42029,
+    "title": "Need to understand logging_steps in Trainer.",
+    "url": "https://github.com/huggingface/transformers/issues/42029",
+    "created_at": "2025-11-05T09:29:35Z",
+    "user": "quic-meetkuma",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3590493482,
     "number": 62995,
