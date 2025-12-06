@@ -7161,5 +7161,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3701898405,
+    "number": 13243,
+    "title": "Support pre-defined formats in `format` parameter of `st.slider`",
+    "url": "https://github.com/streamlit/streamlit/issues/13243",
+    "created_at": "2025-12-06T15:17:45Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "feature:st.slider"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3701925941,
+    "number": 42674,
+    "title": "Missing imports for DetrLoss and DetrHungarianMatcher",
+    "url": "https://github.com/huggingface/transformers/issues/42674",
+    "created_at": "2025-12-06T15:32:14Z",
+    "user": "sammlapp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3701930839,
+    "number": 63283,
+    "title": "BUG: `.dt.seconds` Discrepancy Between NumPy and PyArrow Timedelta Dtypes",
+    "url": "https://github.com/pandas-dev/pandas/issues/63283",
+    "created_at": "2025-12-06T15:35:09Z",
+    "user": "mattharrison",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
