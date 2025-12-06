@@ -2485,6 +2485,23 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3513249264,
+    "number": 18300,
+    "title": "[FR] Add lifecycle policy settings for automatic deletion of mlflow entities",
+    "url": "https://github.com/mlflow/mlflow/issues/18300",
+    "created_at": "2025-10-14T10:09:16Z",
+    "user": "kimminw00",
+    "labels": [
+      "bug",
+      "enhancement",
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3513926815,
     "number": 15536,
