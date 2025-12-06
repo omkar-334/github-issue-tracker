@@ -615,6 +615,22 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras",
+    "id": 2921524574,
+    "number": 21035,
+    "title": "Memory leak/crash on torch backend",
+    "url": "https://github.com/keras-team/keras/issues/21035",
+    "created_at": "2025-03-15T00:17:44Z",
+    "user": "mattdangerw",
+    "labels": [
+      "type:Bug",
+      "backend:torch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2921925045,
     "number": 2325,
