@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "plotly/plotly.py",
+    "id": 1625716023,
+    "number": 4108,
+    "title": "add facet_row support in px.imshow",
+    "url": "https://github.com/plotly/plotly.py/issues/4108",
+    "created_at": "2023-03-15T15:11:02Z",
+    "user": "wbeardall",
+    "labels": [
+      "feature",
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
