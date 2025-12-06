@@ -3615,6 +3615,21 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3433442789,
+    "number": 14432,
+    "title": "Error [tokenizers:re2_regex.cpp:26] Failed to compile Regex for Qwen2.5 Model",
+    "url": "https://github.com/pytorch/executorch/issues/14432",
+    "created_at": "2025-09-19T08:36:29Z",
+    "user": "audevuilli",
+    "labels": [
+      "module: llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3434805403,
     "number": 1727,

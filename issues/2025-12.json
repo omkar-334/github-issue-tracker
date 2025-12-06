@@ -6911,5 +6911,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3701039736,
+    "number": 59219,
+    "title": "[AutoScaler V2] Invalid status transition from QUEUED to RAY_STOP_REQUESTED",
+    "url": "https://github.com/ray-project/ray/issues/59219",
+    "created_at": "2025-12-06T04:56:13Z",
+    "user": "win5923",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3701043189,
+    "number": 17572,
+    "title": "LiteLLM.Info: If you need to debug this error, use `litellm._turn_on_debug()'.",
+    "url": "https://github.com/BerriAI/litellm/issues/17572",
+    "created_at": "2025-12-06T04:57:43Z",
+    "user": "eroman1961",
+    "labels": [
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
