@@ -12636,6 +12636,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3277161818,
+      "number": 13130,
+      "title": "[Feature]: support enabling \"/responses to /chat/completions Bridge\" on openai (llama.cpp) models",
+      "url": "https://github.com/BerriAI/litellm/issues/13130",
+      "created_at": "2025-07-30T13:51:59Z",
+      "user": "RuthgerD",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3277187022,
       "number": 3498,
@@ -52697,6 +52712,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-06T12:29:41Z",
-  "total_count": 3511
+  "last_updated": "2025-12-06T13:05:14Z",
+  "total_count": 3512
 }
