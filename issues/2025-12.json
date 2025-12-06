@@ -7407,5 +7407,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3702634633,
+    "number": 5446,
+    "title": "[BUG]: 针对节假日处理的问题反馈",
+    "url": "https://github.com/plotly/plotly.py/issues/5446",
+    "created_at": "2025-12-06T23:01:22Z",
+    "user": "ligl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
