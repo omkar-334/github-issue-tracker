@@ -7345,5 +7345,22 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3702343103,
+    "number": 7391,
+    "title": "[BUG] \"__dealloc__\" uses Py_REFCNT() and Py_SET_REFCNT() in Limited API",
+    "url": "https://github.com/cython/cython/issues/7391",
+    "created_at": "2025-12-06T20:32:24Z",
+    "user": "scoder",
+    "labels": [
+      "defect",
+      "Code Generation",
+      "limited api"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
