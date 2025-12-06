@@ -7064,5 +7064,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3701573685,
+    "number": 169756,
+    "title": "[CUDA 13.1] ATen radix sort no longer works with -D__CUDA_NO_HALF_OPERATORS__",
+    "url": "https://github.com/pytorch/pytorch/issues/169756",
+    "created_at": "2025-12-06T12:07:46Z",
+    "user": "stefantalpalaru",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3701606642,
+    "number": 30387,
+    "title": "DEV: Pixi workspace for development",
+    "url": "https://github.com/numpy/numpy/issues/30387",
+    "created_at": "2025-12-06T12:28:14Z",
+    "user": "lucascolley",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
