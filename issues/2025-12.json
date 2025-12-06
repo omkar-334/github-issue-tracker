@@ -7300,5 +7300,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3702188882,
+    "number": 3305,
+    "title": "Resuming triggers evaluation if `eval_steps` and `save_steps` line up",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3305",
+    "created_at": "2025-12-06T18:45:28Z",
+    "user": "xzuyn",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
