@@ -7105,5 +7105,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3701736763,
+    "number": 24109,
+    "title": "trust-constr with feasible x0 and fixed parameter loops 120 iters without changing x (only 1 function eval)",
+    "url": "https://github.com/scipy/scipy/issues/24109",
+    "created_at": "2025-12-06T13:46:25Z",
+    "user": "swiesheier",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
