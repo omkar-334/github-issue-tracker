@@ -12032,6 +12032,22 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3258931836,
+      "number": 3031,
+      "title": "[Bug] AttributeError: module 'UnslothPPOTrainer' has no attribute 'UnslothPPOTrainer'",
+      "url": "https://github.com/unslothai/unsloth/issues/3031",
+      "created_at": "2025-07-24T08:03:26Z",
+      "user": "heury",
+      "labels": [
+        "bug",
+        "multigpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3259286186,
       "number": 1607,
@@ -52950,8 +52966,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3702203393,
+      "number": 17607,
+      "title": "[Bug]: LiteLLM does not accept content=None in requests",
+      "url": "https://github.com/BerriAI/litellm/issues/17607",
+      "created_at": "2025-12-06T18:56:29Z",
+      "user": "hippalectryon-0",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T18:47:03Z",
-  "total_count": 3528
+  "last_updated": "2025-12-06T19:12:55Z",
+  "total_count": 3530
 }

@@ -2612,6 +2612,22 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3258931836,
+    "number": 3031,
+    "title": "[Bug] AttributeError: module 'UnslothPPOTrainer' has no attribute 'UnslothPPOTrainer'",
+    "url": "https://github.com/unslothai/unsloth/issues/3031",
+    "created_at": "2025-07-24T08:03:26Z",
+    "user": "heury",
+    "labels": [
+      "bug",
+      "multigpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3259286186,
     "number": 1607,
