@@ -6788,5 +6788,84 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3700768338,
+    "number": 169738,
+    "title": "[MPS][Inductor] AdaptiveMaxPool{1,2}d produces incorrect results (numerical correctness)",
+    "url": "https://github.com/pytorch/pytorch/issues/169738",
+    "created_at": "2025-12-06T01:19:44Z",
+    "user": "lingebeng",
+    "labels": [
+      "module: correctness (silent)",
+      "module: mps",
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3700794904,
+    "number": 169741,
+    "title": "ReplicationPad2dwith extremely large padding value causes segmentation fault",
+    "url": "https://github.com/pytorch/pytorch/issues/169741",
+    "created_at": "2025-12-06T01:43:04Z",
+    "user": "qiqicliff",
+    "labels": [
+      "module: crash",
+      "module: nn",
+      "triaged",
+      "topic: fuzzer"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3700855728,
+    "number": 59213,
+    "title": "[Core] RAY_PYTEST_USE_GPU set to \"0\" incorrectly enables GPU tests",
+    "url": "https://github.com/ray-project/ray/issues/59213",
+    "created_at": "2025-12-06T02:16:55Z",
+    "user": "KaisennHu",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3700866092,
+    "number": 5443,
+    "title": "[FEATURE]: Allow dashed borders for scatter plot markers (`marker.line.dash`)",
+    "url": "https://github.com/plotly/plotly.py/issues/5443",
+    "created_at": "2025-12-06T02:24:01Z",
+    "user": "chrimaho",
+    "labels": [
+      "feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3700880570,
+    "number": 13902,
+    "title": "python 3.14 regex issue, and pydantic incompatible",
+    "url": "https://github.com/explosion/spaCy/issues/13902",
+    "created_at": "2025-12-06T02:35:26Z",
+    "user": "jdfoxito",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

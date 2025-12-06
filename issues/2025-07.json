@@ -733,6 +733,24 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3212354370,
+    "number": 16643,
+    "title": "[BUG] Mlflow Version 3.1.1 - mlflow.pytorch.log_model doesn't consider experiment id set by cli",
+    "url": "https://github.com/mlflow/mlflow/issues/16643",
+    "created_at": "2025-07-08T12:26:22Z",
+    "user": "fabikaze",
+    "labels": [
+      "bug",
+      "area/models",
+      "area/tracking",
+      "area/server-infra"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3213182581,
     "number": 3434,
