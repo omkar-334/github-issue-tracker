@@ -1,19 +1,6 @@
 {
   "issues": [
     {
-      "repo": "huggingface/tokenizers",
-      "id": 2720511569,
-      "number": 1696,
-      "title": "How to determine the splicing logic in post_processor based on the sentence to be tokenized?",
-      "url": "https://github.com/huggingface/tokenizers/issues/1696",
-      "created_at": "2024-12-05T14:05:13Z",
-      "user": "gongel",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "explosion/spaCy",
       "id": 2722050310,
       "number": 13709,
@@ -1087,6 +1074,22 @@
       "created_at": "2025-01-16T12:29:15Z",
       "user": "andrew-aladjev",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 2792928448,
+      "number": 14260,
+      "title": "[FR] Implement Batch Inference Support for LLM-based Evaluations",
+      "url": "https://github.com/mlflow/mlflow/issues/14260",
+      "created_at": "2025-01-16T14:24:59Z",
+      "user": "DmitriyLamzin",
+      "labels": [
+        "enhancement",
+        "has-closing-pr"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -17026,6 +17029,42 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3389353338,
+      "number": 14297,
+      "title": "[Feature]: Require Org approval to delete team",
+      "url": "https://github.com/BerriAI/litellm/issues/14297",
+      "created_at": "2025-09-06T04:45:35Z",
+      "user": "berri-teddy",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3389367211,
+      "number": 14298,
+      "title": "[Bug]: Proper handling of Azure empty block when streaming",
+      "url": "https://github.com/BerriAI/litellm/issues/14298",
+      "created_at": "2025-09-06T05:07:40Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale",
+        "enterprise",
+        "P1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3389535011,
       "number": 7757,
@@ -32701,6 +32740,22 @@
       "labels": [
         "Bug",
         "Styler"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3618510544,
+      "number": 167682,
+      "title": "[RFC] Fully fledge `NCCLSymmMemAllocator`",
+      "url": "https://github.com/pytorch/pytorch/issues/167682",
+      "created_at": "2025-11-12T22:48:20Z",
+      "user": "kwen2501",
+      "labels": [
+        "oncall: distributed",
+        "module: symm_mem"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -52127,8 +52182,90 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3700648729,
+      "number": 169728,
+      "title": "CI runner runs out of disk space when building Sphinx site for site branch in pytorch/docs",
+      "url": "https://github.com/pytorch/pytorch/issues/169728",
+      "created_at": "2025-12-05T23:40:24Z",
+      "user": "svekars",
+      "labels": [
+        "module: docs",
+        "module: doc infra",
+        "module: infra"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3700656414,
+      "number": 63280,
+      "title": "BUG:  `str` dtype does not return pyarrow boolean (`bool[pyarrow]`) output for elementwise checks (equality, etc.)",
+      "url": "https://github.com/pandas-dev/pandas/issues/63280",
+      "created_at": "2025-12-05T23:47:24Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3700673697,
+      "number": 3680,
+      "title": "[Fixed] Extremely slow downloads",
+      "url": "https://github.com/unslothai/unsloth/issues/3680",
+      "created_at": "2025-12-06T00:03:28Z",
+      "user": "danielhanchen",
+      "labels": [
+        "fixed",
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3700699698,
+      "number": 3456,
+      "title": "safetensors support for diffusers",
+      "url": "https://github.com/pytorch/ao/issues/3456",
+      "created_at": "2025-12-06T00:25:04Z",
+      "user": "jerryzh168",
+      "labels": [
+        "triaged",
+        "integration",
+        "0.16"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3700737510,
+      "number": 17565,
+      "title": "[Bug]: langfuse prompt throw error with the prompt name having \"/\"",
+      "url": "https://github.com/BerriAI/litellm/issues/17565",
+      "created_at": "2025-12-06T00:54:56Z",
+      "user": "sbbfung",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-05T23:38:34Z",
-  "total_count": 3475
+  "last_updated": "2025-12-06T01:09:16Z",
+  "total_count": 3483
 }

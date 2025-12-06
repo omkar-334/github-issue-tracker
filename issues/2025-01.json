@@ -471,6 +471,22 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 2792928448,
+    "number": 14260,
+    "title": "[FR] Implement Batch Inference Support for LLM-based Evaluations",
+    "url": "https://github.com/mlflow/mlflow/issues/14260",
+    "created_at": "2025-01-16T14:24:59Z",
+    "user": "DmitriyLamzin",
+    "labels": [
+      "enhancement",
+      "has-closing-pr"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2794004925,
     "number": 2046,

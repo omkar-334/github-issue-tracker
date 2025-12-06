@@ -1320,6 +1320,42 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3389353338,
+    "number": 14297,
+    "title": "[Feature]: Require Org approval to delete team",
+    "url": "https://github.com/BerriAI/litellm/issues/14297",
+    "created_at": "2025-09-06T04:45:35Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3389367211,
+    "number": 14298,
+    "title": "[Bug]: Proper handling of Azure empty block when streaming",
+    "url": "https://github.com/BerriAI/litellm/issues/14298",
+    "created_at": "2025-09-06T05:07:40Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale",
+      "enterprise",
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3389535011,
     "number": 7757,
