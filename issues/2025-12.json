@@ -7030,5 +7030,39 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3701466649,
+    "number": 17583,
+    "title": "[Feature]: Support OpenAI built-in tools (web search, MCP) in completion mode via responses bridge",
+    "url": "https://github.com/BerriAI/litellm/issues/17583",
+    "created_at": "2025-12-06T11:02:29Z",
+    "user": "mmabrouk",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3701471428,
+    "number": 34231,
+    "title": "ChatPromptTemplate yielded instead of ToolMessage when streaming with stream_mode=\"messages\"",
+    "url": "https://github.com/langchain-ai/langchain/issues/34231",
+    "created_at": "2025-12-06T11:04:09Z",
+    "user": "ichitaka",
+    "labels": [
+      "bug",
+      "core",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
