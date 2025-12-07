@@ -21646,6 +21646,19 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3481353939,
+      "number": 3405,
+      "title": "[Bug] GPT OSS: No adapters for the experts?",
+      "url": "https://github.com/unslothai/unsloth/issues/3405",
+      "created_at": "2025-10-03T14:33:17Z",
+      "user": "benjamin-marie",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3481833733,
       "number": 8899,
@@ -53346,8 +53359,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3703122443,
+      "number": 16123,
+      "title": "Is dynamic weight update / fine-tuning supported in QNN / XNNPACK backends?",
+      "url": "https://github.com/pytorch/executorch/issues/16123",
+      "created_at": "2025-12-07T06:24:09Z",
+      "user": "qqqqqqqwy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T06:22:36Z",
-  "total_count": 3553
+  "last_updated": "2025-12-07T06:49:03Z",
+  "total_count": 3555
 }
