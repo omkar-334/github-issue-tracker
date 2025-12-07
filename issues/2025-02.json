@@ -417,6 +417,23 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 2855957486,
+    "number": 29628,
+    "title": "Newlines should not be scaped when using setting usetex=True",
+    "url": "https://github.com/matplotlib/matplotlib/issues/29628",
+    "created_at": "2025-02-16T08:16:47Z",
+    "user": "juanep97",
+    "labels": [
+      "Difficulty: Medium",
+      "Difficulty: Hard",
+      "topic: text/usetex"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2856534714,
     "number": 3880,
