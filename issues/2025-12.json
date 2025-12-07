@@ -7669,5 +7669,54 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3703322120,
+    "number": 34237,
+    "title": "Add langchain-boxlite integration for local sandbox execution",
+    "url": "https://github.com/langchain-ai/langchain/issues/34237",
+    "created_at": "2025-12-07T09:56:33Z",
+    "user": "DorianZheng",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3703322287,
+    "number": 13246,
+    "title": "Provide a compact style for `st.expander` and `st.status`",
+    "url": "https://github.com/streamlit/streamlit/issues/13246",
+    "created_at": "2025-12-07T09:56:45Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "feature:st.expander",
+      "feature:st.status"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3703334109,
+    "number": 13247,
+    "title": "Add animated text shimmer as markdown directive",
+    "url": "https://github.com/streamlit/streamlit/issues/13247",
+    "created_at": "2025-12-07T10:11:28Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "feature:markdown"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
