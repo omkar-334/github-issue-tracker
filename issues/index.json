@@ -53478,8 +53478,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3703268835,
+      "number": 2941,
+      "title": "Add MonteCLoRA (TMLR 2025 accepted) in PEFT library",
+      "url": "https://github.com/huggingface/peft/issues/2941",
+      "created_at": "2025-12-07T08:45:21Z",
+      "user": "victor7246",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3703271111,
+      "number": 169783,
+      "title": "torch.compile fails for torch.func.grad with nested function:f(f(x))",
+      "url": "https://github.com/pytorch/pytorch/issues/169783",
+      "created_at": "2025-12-07T08:48:43Z",
+      "user": "bysdxt",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T08:44:31Z",
-  "total_count": 3562
+  "last_updated": "2025-12-07T09:15:38Z",
+  "total_count": 3564
 }
