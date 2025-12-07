@@ -7437,5 +7437,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3702752632,
+    "number": 17622,
+    "title": "het",
+    "url": "https://github.com/BerriAI/litellm/issues/17622",
+    "created_at": "2025-12-07T00:17:00Z",
+    "user": "szesnydaniel235-oss",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

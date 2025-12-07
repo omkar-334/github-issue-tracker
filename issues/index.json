@@ -1,61 +1,6 @@
 {
   "issues": [
     {
-      "repo": "explosion/spaCy",
-      "id": 2722050310,
-      "number": 13709,
-      "title": "Unable to fine-tune previously trained transformer based spaCy NER.",
-      "url": "https://github.com/explosion/spaCy/issues/13709",
-      "created_at": "2024-12-06T04:46:11Z",
-      "user": "jlustgarten",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "explosion/spaCy",
-      "id": 2722066769,
-      "number": 13710,
-      "title": "Unable to finetune transformer based ner model after initial tuning",
-      "url": "https://github.com/explosion/spaCy/issues/13710",
-      "created_at": "2024-12-06T04:55:54Z",
-      "user": "jlustgarten",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "facebookresearch/fairseq",
-      "id": 2723403542,
-      "number": 5571,
-      "title": "VideoCLIP help on demo script",
-      "url": "https://github.com/facebookresearch/fairseq/issues/5571",
-      "created_at": "2024-12-06T16:03:59Z",
-      "user": "dnitti-psee",
-      "labels": [
-        "question",
-        "needs triage"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "pytorch/text",
-      "id": 2724144448,
-      "number": 2278,
-      "title": "Sheh",
-      "url": "https://github.com/pytorch/text/issues/2278",
-      "created_at": "2024-12-06T23:38:52Z",
-      "user": "Ha1947",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "huggingface/optimum",
       "id": 2724184849,
       "number": 2120,
@@ -288,6 +233,24 @@
       "created_at": "2024-12-14T01:24:37Z",
       "user": "PylotLight",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2742691967,
+      "number": 7254,
+      "title": "[Bug]: LiteLLM Azure TTS Streaming Issue",
+      "url": "https://github.com/BerriAI/litellm/issues/7254",
+      "created_at": "2024-12-16T15:26:35Z",
+      "user": "yigitkonur",
+      "labels": [
+        "bug",
+        "stale",
+        "august 2025",
+        "triage"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -15942,6 +15905,22 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3372697081,
+      "number": 14138,
+      "title": "[Feature]: Make response headers forwarding more configurable",
+      "url": "https://github.com/BerriAI/litellm/issues/14138",
+      "created_at": "2025-09-01T13:26:10Z",
+      "user": "milanmelnykov",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3373309706,
       "number": 14142,
       "title": "[Feature]: Improve Arize integration",
@@ -17293,6 +17272,37 @@
       "user": "djsaunde",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3391961733,
+      "number": 14313,
+      "title": "ADK with litellm",
+      "url": "https://github.com/BerriAI/litellm/issues/14313",
+      "created_at": "2025-09-07T20:08:08Z",
+      "user": "gkoumasd",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3392049040,
+      "number": 14314,
+      "title": "[Bug]: Docker images for the latest stable versions of LiteLLM are unavailable",
+      "url": "https://github.com/BerriAI/litellm/issues/14314",
+      "created_at": "2025-09-07T21:54:57Z",
+      "user": "b-ggs",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -53153,8 +53163,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3702752632,
+      "number": 17622,
+      "title": "het",
+      "url": "https://github.com/BerriAI/litellm/issues/17622",
+      "created_at": "2025-12-07T00:17:00Z",
+      "user": "szesnydaniel235-oss",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-06T23:38:15Z",
-  "total_count": 3541
+  "last_updated": "2025-12-07T01:19:47Z",
+  "total_count": 3542
 }

@@ -100,6 +100,22 @@
   },
   {
     "repo": "BerriAI/litellm",
+    "id": 3372697081,
+    "number": 14138,
+    "title": "[Feature]: Make response headers forwarding more configurable",
+    "url": "https://github.com/BerriAI/litellm/issues/14138",
+    "created_at": "2025-09-01T13:26:10Z",
+    "user": "milanmelnykov",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
     "id": 3373309706,
     "number": 14142,
     "title": "[Feature]: Improve Arize integration",
@@ -1451,6 +1467,37 @@
     "user": "djsaunde",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3391961733,
+    "number": 14313,
+    "title": "ADK with litellm",
+    "url": "https://github.com/BerriAI/litellm/issues/14313",
+    "created_at": "2025-09-07T20:08:08Z",
+    "user": "gkoumasd",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3392049040,
+    "number": 14314,
+    "title": "[Bug]: Docker images for the latest stable versions of LiteLLM are unavailable",
+    "url": "https://github.com/BerriAI/litellm/issues/14314",
+    "created_at": "2025-09-07T21:54:57Z",
+    "user": "b-ggs",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
