@@ -53613,8 +53613,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3703474154,
+      "number": 63289,
+      "title": "DOC: update the DataFrame.copy() docstring to current state with CoW",
+      "url": "https://github.com/pandas-dev/pandas/issues/63289",
+      "created_at": "2025-12-07T13:09:50Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "Docs",
+        "Copy / view semantics"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T13:03:23Z",
-  "total_count": 3571
+  "last_updated": "2025-12-07T13:41:41Z",
+  "total_count": 3572
 }
