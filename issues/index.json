@@ -16445,6 +16445,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3381077922,
+      "number": 162092,
+      "title": "Voxtral transcription example produce gibbersih on MPS device",
+      "url": "https://github.com/pytorch/pytorch/issues/162092",
+      "created_at": "2025-09-03T19:53:12Z",
+      "user": "malfet",
+      "labels": [
+        "triaged",
+        "has workaround",
+        "module: correctness (silent)",
+        "module: mps"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3381128498,
       "number": 14220,
@@ -53330,6 +53348,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-07T05:15:43Z",
-  "total_count": 3552
+  "last_updated": "2025-12-07T05:40:27Z",
+  "total_count": 3553
 }
