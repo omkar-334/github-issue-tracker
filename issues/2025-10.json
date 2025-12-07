@@ -4489,6 +4489,26 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3543748454,
+    "number": 166122,
+    "title": "4x performance regression for 3D convs with AMP on torch 2.9.0",
+    "url": "https://github.com/pytorch/pytorch/issues/166122",
+    "created_at": "2025-10-23T08:49:57Z",
+    "user": "FabianIsensee",
+    "labels": [
+      "high priority",
+      "module: performance",
+      "module: cuda",
+      "triaged",
+      "module: amp (automated mixed precision)",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3543773004,
     "number": 166123,
     "title": "Can't compile torch-cublas-hgemm project in Windows on a torch newer than 2.8.0, I get complains involving compiled_autograd.h",
