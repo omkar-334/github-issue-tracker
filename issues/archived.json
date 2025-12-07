@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1157486346,
+    "number": 22584,
+    "title": "[Doc]: Splitting long ImageGrid colorbar example into multiple smaller examples",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22584",
+    "created_at": "2022-03-02T17:26:03Z",
+    "user": "kolibril13",
+    "labels": [
+      "Documentation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
