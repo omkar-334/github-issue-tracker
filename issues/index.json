@@ -8004,6 +8004,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 3133985813,
+      "number": 23148,
+      "title": "ENH: stats: `_put_val_to_limits` - accept `lower_limit` tuple",
+      "url": "https://github.com/scipy/scipy/issues/23148",
+      "created_at": "2025-06-10T15:12:28Z",
+      "user": "morner1405",
+      "labels": [
+        "scipy.stats",
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3134240643,
       "number": 3389,
@@ -53404,6 +53420,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-07T07:15:23Z",
-  "total_count": 3557
+  "last_updated": "2025-12-07T07:37:21Z",
+  "total_count": 3558
 }
