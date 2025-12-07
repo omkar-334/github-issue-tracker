@@ -7450,5 +7450,131 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3702820144,
+    "number": 42679,
+    "title": "Conditional DETR's `post_process_semantic_segmentation` removes one class",
+    "url": "https://github.com/huggingface/transformers/issues/42679",
+    "created_at": "2025-12-07T01:29:01Z",
+    "user": "simonreise",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702836591,
+    "number": 169769,
+    "title": "pytorch while_loop overly strict about memory aliasing",
+    "url": "https://github.com/pytorch/pytorch/issues/169769",
+    "created_at": "2025-12-07T01:54:45Z",
+    "user": "alita-moore",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702836758,
+    "number": 169770,
+    "title": "DISABLED test_layer_norm_sharing_weights_split_reductions_True_bfloat16_has_bias_True (__main__.MixOrderReductionTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/169770",
+    "created_at": "2025-12-07T01:54:59Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702837125,
+    "number": 169771,
+    "title": "DISABLED test_partitioner_offload_sep_stream_reorder (__main__.ActivationOffloadingTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/169771",
+    "created_at": "2025-12-07T01:55:39Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702841146,
+    "number": 169772,
+    "title": "DISABLED test_float8_basics_xpu (__main__.TestFP8MatmulXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/169772",
+    "created_at": "2025-12-07T02:00:17Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702842862,
+    "number": 169773,
+    "title": "DISABLED test_layer_norm_sharing_weights_split_reductions_False_bfloat16_has_bias_True (__main__.MixOrderReductionTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/169773",
+    "created_at": "2025-12-07T02:02:04Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702843028,
+    "number": 169774,
+    "title": "DISABLED test_inductor_offload (__main__.ActivationOffloadingTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/169774",
+    "created_at": "2025-12-07T02:02:21Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3702896405,
+    "number": 169778,
+    "title": "assertion error: mismatched stride in custom (meta) kernel",
+    "url": "https://github.com/pytorch/pytorch/issues/169778",
+    "created_at": "2025-12-07T02:57:36Z",
+    "user": "alita-moore",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
