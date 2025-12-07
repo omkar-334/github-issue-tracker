@@ -2986,6 +2986,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3606107862,
+    "number": 58489,
+    "title": "[Data] Callbacks for write APIs",
+    "url": "https://github.com/ray-project/ray/issues/58489",
+    "created_at": "2025-11-10T04:59:43Z",
+    "user": "wingkitlee0",
+    "labels": [
+      "enhancement",
+      "triage",
+      "usability",
+      "data",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3606198754,
     "number": 7307,
