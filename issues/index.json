@@ -11609,6 +11609,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3246143519,
+      "number": 11990,
+      "title": "New element to show a file or artifact, e.g. in `st.chat_message`",
+      "url": "https://github.com/streamlit/streamlit/issues/11990",
+      "created_at": "2025-07-20T08:24:49Z",
+      "user": "jrieke",
+      "labels": [
+        "type:enhancement",
+        "feature:st.chat_message"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3246268635,
       "number": 7692,
@@ -53553,8 +53569,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "cython/cython",
+      "id": 3703372645,
+      "number": 7393,
+      "title": "[BUG] `cpdef inline` in `.pxd` file lead to duplicated code in all `.pyx` cimporting it",
+      "url": "https://github.com/cython/cython/issues/7393",
+      "created_at": "2025-12-07T11:04:15Z",
+      "user": "touilleMan",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T10:40:51Z",
-  "total_count": 3567
+  "last_updated": "2025-12-07T11:13:21Z",
+  "total_count": 3569
 }

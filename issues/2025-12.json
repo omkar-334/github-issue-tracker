@@ -7718,5 +7718,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3703372645,
+    "number": 7393,
+    "title": "[BUG] `cpdef inline` in `.pxd` file lead to duplicated code in all `.pyx` cimporting it",
+    "url": "https://github.com/cython/cython/issues/7393",
+    "created_at": "2025-12-07T11:04:15Z",
+    "user": "touilleMan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -2144,6 +2144,22 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3246143519,
+    "number": 11990,
+    "title": "New element to show a file or artifact, e.g. in `st.chat_message`",
+    "url": "https://github.com/streamlit/streamlit/issues/11990",
+    "created_at": "2025-07-20T08:24:49Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "feature:st.chat_message"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3246268635,
     "number": 7692,
