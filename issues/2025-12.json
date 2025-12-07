@@ -7628,5 +7628,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3703236689,
+    "number": 19256,
+    "title": "[DOC-FIX] Outdated: GenAI - Eval-Monitor - Quickstart - setup tabs content",
+    "url": "https://github.com/mlflow/mlflow/issues/19256",
+    "created_at": "2025-12-07T07:58:27Z",
+    "user": "lotharschulz",
+    "labels": [
+      "area/docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

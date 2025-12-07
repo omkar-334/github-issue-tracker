@@ -446,6 +446,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3480602325,
+    "number": 41311,
+    "title": "Unskip and fix test_offline_mode by using HF_HUB_OFFLINE and hermetic cache warmup",
+    "url": "https://github.com/huggingface/transformers/issues/41311",
+    "created_at": "2025-10-03T10:24:07Z",
+    "user": "arvinder004",
+    "labels": [
+      "Tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "google/flax",
     "id": 3481230715,
     "number": 4995,

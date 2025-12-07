@@ -1785,6 +1785,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3595775108,
+    "number": 42064,
+    "title": "[audio] weight_norm standardization",
+    "url": "https://github.com/huggingface/transformers/issues/42064",
+    "created_at": "2025-11-06T13:11:01Z",
+    "user": "eustlb",
+    "labels": [
+      "Audio"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3596763475,
     "number": 23943,
@@ -1981,6 +1996,21 @@
     "user": "mattgiles",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3598208328,
+    "number": 42077,
+    "title": "Qwen3-VL-4B use trace build graph bug",
+    "url": "https://github.com/huggingface/transformers/issues/42077",
+    "created_at": "2025-11-07T01:07:17Z",
+    "user": "justzhanghong",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
