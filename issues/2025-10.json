@@ -4488,6 +4488,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3543773004,
+    "number": 166123,
+    "title": "Can't compile torch-cublas-hgemm project in Windows on a torch newer than 2.8.0, I get complains involving compiled_autograd.h",
+    "url": "https://github.com/pytorch/pytorch/issues/166123",
+    "created_at": "2025-10-23T08:57:53Z",
+    "user": "jovan2009",
+    "labels": [
+      "module: windows",
+      "module: cpp-extensions",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3544453298,
     "number": 12536,
