@@ -7855,5 +7855,46 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3703756963,
+    "number": 34240,
+    "title": "langchain-pinecone Installation fails on Python 3.12+ — simsimd<4.0.0,>=3.6.3 requirement cannot be satisfied",
+    "url": "https://github.com/langchain-ai/langchain/issues/34240",
+    "created_at": "2025-12-07T17:38:58Z",
+    "user": "Sahil-796",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3703766671,
+    "number": 3686,
+    "title": "Feedback about Tensors",
+    "url": "https://github.com/pytorch/tutorials/issues/3686",
+    "created_at": "2025-12-07T17:47:43Z",
+    "user": "SergeyMukovoz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3703782249,
+    "number": 10370,
+    "title": "x[None] fails",
+    "url": "https://github.com/numba/numba/issues/10370",
+    "created_at": "2025-12-07T18:04:04Z",
+    "user": "ricardoV94",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
