@@ -53661,8 +53661,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3703645472,
+      "number": 30389,
+      "title": "BUG: [IPC] Refcount corruption and crash in boolean memmap reads due to double evaluation in `PyArrayScalar_RETURN_BOOL_FROM_LONG`",
+      "url": "https://github.com/numpy/numpy/issues/30389",
+      "created_at": "2025-12-07T15:58:53Z",
+      "user": "y7070",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T15:37:32Z",
-  "total_count": 3574
+  "last_updated": "2025-12-07T16:17:54Z",
+  "total_count": 3575
 }
