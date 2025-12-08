@@ -8445,5 +8445,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3705688987,
+    "number": 13259,
+    "title": "blog.streamlit.io down",
+    "url": "https://github.com/streamlit/streamlit/issues/13259",
+    "created_at": "2025-12-08T10:23:53Z",
+    "user": "snehankekre",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3705694389,
+    "number": 1906,
+    "title": "Windows arm64 wheel release",
+    "url": "https://github.com/huggingface/tokenizers/issues/1906",
+    "created_at": "2025-12-08T10:25:21Z",
+    "user": "finnagin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3705780987,
+    "number": 32861,
+    "title": "Pytest -Werror fails with versions <9.0 due to faulthandler",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32861",
+    "created_at": "2025-12-08T10:45:26Z",
+    "user": "StefanieSenger",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
