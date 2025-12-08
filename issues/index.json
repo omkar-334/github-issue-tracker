@@ -25055,6 +25055,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3526049297,
+      "number": 15647,
+      "title": "[Bug]: Updated fallback configuration not reloaded on redeploy",
+      "url": "https://github.com/BerriAI/litellm/issues/15647",
+      "created_at": "2025-10-17T12:48:28Z",
+      "user": "ppiotrlach",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 3526070099,
       "number": 32526,
@@ -53363,6 +53378,21 @@
       "archived": false
     },
     {
+      "repo": "stanfordnlp/dspy",
+      "id": 3701073856,
+      "number": 9116,
+      "title": "[Bug] ColBert endpoint is not working",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9116",
+      "created_at": "2025-12-06T05:15:49Z",
+      "user": "IKACE",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3701137180,
       "number": 4634,
@@ -55018,8 +55048,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3706464446,
+      "number": 17650,
+      "title": "[Bug]: MCP list_tools stopped working in 1.80.0 without a db or a role attached to user key",
+      "url": "https://github.com/BerriAI/litellm/issues/17650",
+      "created_at": "2025-12-08T13:43:22Z",
+      "user": "jeromeroussin",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3706478782,
+      "number": 5127,
+      "title": "Out sharding for modules initialized with JIT is incorrect",
+      "url": "https://github.com/google/flax/issues/5127",
+      "created_at": "2025-12-08T13:47:11Z",
+      "user": "qGentry",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3706574907,
+      "number": 32866,
+      "title": "`DecisionBoundaryDisplay.from_estimator` only displays up to 7 distinct colours",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32866",
+      "created_at": "2025-12-08T14:13:27Z",
+      "user": "ThexXTURBOXx",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T13:33:25Z",
-  "total_count": 3662
+  "last_updated": "2025-12-08T14:18:53Z",
+  "total_count": 3667
 }
