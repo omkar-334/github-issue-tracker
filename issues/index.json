@@ -22253,6 +22253,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3481324959,
+      "number": 164574,
+      "title": "Nightly docker is failing after conda update  25.7.0 -> 25.9.0. Remove conda dependency in Official Docker images.",
+      "url": "https://github.com/pytorch/pytorch/issues/164574",
+      "created_at": "2025-10-03T14:25:30Z",
+      "user": "atalman",
+      "labels": [
+        "oncall: releng",
+        "triaged",
+        "better-engineering"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3481353939,
       "number": 3405,
@@ -55721,8 +55738,40 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3707886415,
+      "number": 13263,
+      "title": "Opening an `st.dialog` with a button shortcut highlights UI elements within the dialog",
+      "url": "https://github.com/streamlit/streamlit/issues/13263",
+      "created_at": "2025-12-08T20:22:13Z",
+      "user": "BenDavis71",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "cython/cython",
+      "id": 3707894147,
+      "number": 7399,
+      "title": "[INFO] Limited API and freethreading Python 3.15",
+      "url": "https://github.com/cython/cython/issues/7399",
+      "created_at": "2025-12-08T20:25:06Z",
+      "user": "da-woods",
+      "labels": [
+        "limited api",
+        "freethreading CPython"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T20:19:28Z",
-  "total_count": 3709
+  "last_updated": "2025-12-08T20:44:40Z",
+  "total_count": 3712
 }

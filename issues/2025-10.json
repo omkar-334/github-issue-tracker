@@ -476,6 +476,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3481324959,
+    "number": 164574,
+    "title": "Nightly docker is failing after conda update  25.7.0 -> 25.9.0. Remove conda dependency in Official Docker images.",
+    "url": "https://github.com/pytorch/pytorch/issues/164574",
+    "created_at": "2025-10-03T14:25:30Z",
+    "user": "atalman",
+    "labels": [
+      "oncall: releng",
+      "triaged",
+      "better-engineering"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3481353939,
     "number": 3405,
