@@ -8886,5 +8886,66 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707343579,
+    "number": 169849,
+    "title": "Enabling CUDA graphs in compile triggers CUDA Invalid Memory Access",
+    "url": "https://github.com/pytorch/pytorch/issues/169849",
+    "created_at": "2025-12-08T17:27:41Z",
+    "user": "lw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707346971,
+    "number": 169850,
+    "title": "DISABLED rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169850",
+    "created_at": "2025-12-08T17:28:42Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707359966,
+    "number": 169851,
+    "title": "DISABLED inductor-rocm-mi200 / rocm-py3.10-inductor / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169851",
+    "created_at": "2025-12-08T17:31:49Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707382819,
+    "number": 169852,
+    "title": "DISABLED slow-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169852",
+    "created_at": "2025-12-08T17:38:29Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
