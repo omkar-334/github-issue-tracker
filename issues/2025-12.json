@@ -9312,5 +9312,98 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3708302365,
+    "number": 17674,
+    "title": "[Bug]: LiteLLM Proxy request from LiteLLM SDK set per request not working",
+    "url": "https://github.com/BerriAI/litellm/issues/17674",
+    "created_at": "2025-12-08T22:44:46Z",
+    "user": "lucasrothman",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708303963,
+    "number": 169893,
+    "title": "Investigate which submodules in third_party/ can be omitted from stable header hiding",
+    "url": "https://github.com/pytorch/pytorch/issues/169893",
+    "created_at": "2025-12-08T22:45:21Z",
+    "user": "mikaylagawarecki",
+    "labels": [
+      "module: cpp",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3708326413,
+    "number": 63304,
+    "title": "BUG(pandas 3.0 regression): `drop(index=...)` doesn't accept NA values when using arrow dtype in index",
+    "url": "https://github.com/pandas-dev/pandas/issues/63304",
+    "created_at": "2025-12-08T22:53:41Z",
+    "user": "tswast",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3708334341,
+    "number": 42722,
+    "title": "Ensure that `OneFormerProcessor` place text `task_inputs` to the same device as other inputs",
+    "url": "https://github.com/huggingface/transformers/issues/42722",
+    "created_at": "2025-12-08T22:56:29Z",
+    "user": "simonreise",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3708356068,
+    "number": 30397,
+    "title": "BUG: incorrect handling of magic methods when using wrapper type classes",
+    "url": "https://github.com/numpy/numpy/issues/30397",
+    "created_at": "2025-12-08T23:03:50Z",
+    "user": "kdschlosser",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3708385348,
+    "number": 17676,
+    "title": "[Bug]: `OpenAITextCompletion.acompletion` not using custom `aiohttp` transport",
+    "url": "https://github.com/BerriAI/litellm/issues/17676",
+    "created_at": "2025-12-08T23:12:39Z",
+    "user": "jamesbraza",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
