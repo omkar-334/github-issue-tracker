@@ -446,6 +446,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3122211334,
+    "number": 11404,
+    "title": "Portable Library: Complex Support",
+    "url": "https://github.com/pytorch/executorch/issues/11404",
+    "created_at": "2025-06-05T18:27:33Z",
+    "user": "manuelcandales",
+    "labels": [
+      "module: kernels",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 3122310577,
     "number": 13831,

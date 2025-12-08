@@ -7016,6 +7016,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3095012205,
+      "number": 154449,
+      "title": "16KB pagination support for PyTorch Torch Vision and PyTorch Lite",
+      "url": "https://github.com/pytorch/pytorch/issues/154449",
+      "created_at": "2025-05-27T19:46:27Z",
+      "user": "adielwes",
+      "labels": [
+        "triaged",
+        "module: android",
+        "executorch-needs-help"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/stanza",
       "id": 3096994182,
       "number": 1496,
@@ -7712,6 +7729,22 @@
         "module: flaky-tests",
         "skipped",
         "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3122211334,
+      "number": 11404,
+      "title": "Portable Library: Complex Support",
+      "url": "https://github.com/pytorch/executorch/issues/11404",
+      "created_at": "2025-06-05T18:27:33Z",
+      "user": "manuelcandales",
+      "labels": [
+        "module: kernels",
+        "triaged"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -54533,8 +54566,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3704945182,
+      "number": 19268,
+      "title": "[BUG] Non admin user can not show the model metrics",
+      "url": "https://github.com/mlflow/mlflow/issues/19268",
+      "created_at": "2025-12-08T07:03:30Z",
+      "user": "nguoithichkhampha",
+      "labels": [
+        "bug",
+        "area/uiux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T06:58:11Z",
-  "total_count": 3629
+  "last_updated": "2025-12-08T07:23:51Z",
+  "total_count": 3632
 }
