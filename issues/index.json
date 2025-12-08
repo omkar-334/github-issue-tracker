@@ -9739,6 +9739,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3195094107,
+      "number": 12161,
+      "title": "IndexError in Conv1dToConv2d pass due to incorrect argument count check",
+      "url": "https://github.com/pytorch/executorch/issues/12161",
+      "created_at": "2025-07-02T08:39:34Z",
+      "user": "Chtho11y",
+      "labels": [
+        "partner: qualcomm",
+        "triaged",
+        "module: qnn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3195944717,
       "number": 21448,
@@ -55658,8 +55675,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3707795374,
+      "number": 169870,
+      "title": "Capturing ViewAndMutationMeta for training graphs for PyTorch 2.8",
+      "url": "https://github.com/pytorch/pytorch/issues/169870",
+      "created_at": "2025-12-08T19:52:18Z",
+      "user": "pratnali",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3707818018,
+      "number": 17664,
+      "title": "[Bug]: TPM quota only counts output tokens, not input tokens",
+      "url": "https://github.com/BerriAI/litellm/issues/17664",
+      "created_at": "2025-12-08T20:00:06Z",
+      "user": "mfournioux",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3707839086,
+      "number": 4641,
+      "title": "Further improving `GRPOTrainer` doc to include Qwen SAPO in Loss Types",
+      "url": "https://github.com/huggingface/trl/issues/4641",
+      "created_at": "2025-12-08T20:06:59Z",
+      "user": "casinca",
+      "labels": [
+        "📚 documentation",
+        "✨ enhancement",
+        "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T19:38:18Z",
-  "total_count": 3705
+  "last_updated": "2025-12-08T20:19:28Z",
+  "total_count": 3709
 }
