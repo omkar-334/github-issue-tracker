@@ -9191,5 +9191,67 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708069908,
+    "number": 169878,
+    "title": "DISABLED test_uuid_visible_devices (__main__.TestCudaMallocAsync)",
+    "url": "https://github.com/pytorch/pytorch/issues/169878",
+    "created_at": "2025-12-08T21:23:10Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "skipped"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3708077519,
+    "number": 59274,
+    "title": "[core] Improving the error handling for `@ray.remote` and `@ray.method` with `num_returns`.",
+    "url": "https://github.com/ray-project/ray/issues/59274",
+    "created_at": "2025-12-08T21:25:51Z",
+    "user": "israbbani",
+    "labels": [
+      "contribution-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3708084485,
+    "number": 42719,
+    "title": "`OneFormerProcessor` does not support fast image processor",
+    "url": "https://github.com/huggingface/transformers/issues/42719",
+    "created_at": "2025-12-08T21:28:32Z",
+    "user": "simonreise",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708093416,
+    "number": 169881,
+    "title": "DISABLED test_raw_amdsmi_device_uuids (__main__.TestCudaMallocAsync)",
+    "url": "https://github.com/pytorch/pytorch/issues/169881",
+    "created_at": "2025-12-08T21:31:55Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "skipped"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

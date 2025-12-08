@@ -413,6 +413,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3377123158,
+    "number": 56166,
+    "title": "[Core]  unsatisfiable uv dependencies lead to job ever hanging in pending (and these jobs cannot even be stopped)",
+    "url": "https://github.com/ray-project/ray/issues/56166",
+    "created_at": "2025-09-02T18:42:17Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3377253538,
     "number": 9203,
