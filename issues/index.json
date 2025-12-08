@@ -54855,6 +54855,21 @@
       "archived": false
     },
     {
+      "repo": "stanfordnlp/stanza",
+      "id": 3705216376,
+      "number": 1530,
+      "title": "German noun \"Hände\" treated as verb",
+      "url": "https://github.com/stanfordnlp/stanza/issues/1530",
+      "created_at": "2025-12-08T08:24:32Z",
+      "user": "yolpsoftware",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3705298535,
       "number": 34246,
@@ -55238,8 +55253,67 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3707120964,
+      "number": 17659,
+      "title": "code",
+      "url": "https://github.com/BerriAI/litellm/issues/17659",
+      "created_at": "2025-12-08T16:27:42Z",
+      "user": "cheubuses",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3707137170,
+      "number": 59265,
+      "title": "[Feature Request] Improve GPU detection and logging when NVML fails but /dev/nvidia* exists",
+      "url": "https://github.com/ray-project/ray/issues/59265",
+      "created_at": "2025-12-08T16:31:36Z",
+      "user": "jasonXue653",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3707139605,
+      "number": 42709,
+      "title": "granitemoehybrid forward(): lots of logits upcast to float32, eating masive VRAM for minimal gain",
+      "url": "https://github.com/huggingface/transformers/issues/42709",
+      "created_at": "2025-12-08T16:32:09Z",
+      "user": "mramendi",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3707146379,
+      "number": 3692,
+      "title": "[Feature] quantize ERNIE-4.5-VL-28B-A3B-Thinking",
+      "url": "https://github.com/unslothai/unsloth/issues/3692",
+      "created_at": "2025-12-08T16:33:46Z",
+      "user": "Busboy3129",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T16:22:37Z",
-  "total_count": 3677
+  "last_updated": "2025-12-08T16:52:42Z",
+  "total_count": 3682
 }
