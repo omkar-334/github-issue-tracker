@@ -624,6 +624,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2870366824,
+    "number": 147662,
+    "title": "GPUDirect Storage dcp.save/dcp.load torch.save/torch.load",
+    "url": "https://github.com/pytorch/pytorch/issues/147662",
+    "created_at": "2025-02-22T02:05:30Z",
+    "user": "functionstackx",
+    "labels": [
+      "module: serialization",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2871249478,
     "number": 1778,
