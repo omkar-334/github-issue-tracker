@@ -21408,6 +21408,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3466020669,
+      "number": 3389,
+      "title": "AcceleratorError: CUDA error: an illegal memory access was encountered. on Kaggle 2xT4",
+      "url": "https://github.com/unslothai/unsloth/issues/3389",
+      "created_at": "2025-09-29T17:58:41Z",
+      "user": "kgmuzungu",
+      "labels": [
+        "fixed - pending confirmation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3466091532,
       "number": 1769,
@@ -55312,8 +55327,65 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3707232318,
+      "number": 42710,
+      "title": "Outstanding issues / PR before we can release v5",
+      "url": "https://github.com/huggingface/transformers/issues/42710",
+      "created_at": "2025-12-08T16:57:54Z",
+      "user": "ArthurZucker",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3707236161,
+      "number": 169841,
+      "title": "ProcessGroup hash doesn't incorporate pg_options",
+      "url": "https://github.com/pytorch/pytorch/issues/169841",
+      "created_at": "2025-12-08T16:58:53Z",
+      "user": "ezyang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3707249174,
+      "number": 169842,
+      "title": "DISABLED periodic-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169842",
+      "created_at": "2025-12-08T17:02:30Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3707282963,
+      "number": 9161,
+      "title": "[BUG] Repeated Failure of `run-notebook-examples` CI test across multiple PRs",
+      "url": "https://github.com/sktime/sktime/issues/9161",
+      "created_at": "2025-12-08T17:12:22Z",
+      "user": "achieveordie",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T16:52:42Z",
-  "total_count": 3682
+  "last_updated": "2025-12-08T17:17:24Z",
+  "total_count": 3687
 }
