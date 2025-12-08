@@ -2628,6 +2628,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3601412086,
+    "number": 42103,
+    "title": "Compatability with `torchcodec`",
+    "url": "https://github.com/huggingface/transformers/issues/42103",
+    "created_at": "2025-11-07T18:02:29Z",
+    "user": "Samoed",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3601748125,
     "number": 3564,

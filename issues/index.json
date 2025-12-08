@@ -9703,6 +9703,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3196165212,
+      "number": 39175,
+      "title": "Torch patches tracker for HPU/Gaudi",
+      "url": "https://github.com/huggingface/transformers/issues/39175",
+      "created_at": "2025-07-02T14:41:24Z",
+      "user": "IlyasMoutawwakil",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "plotly/plotly.py",
       "id": 3196920010,
       "number": 5260,
@@ -11024,6 +11039,22 @@
       "user": "phoeenniixx",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3229815847,
+      "number": 39404,
+      "title": "Whisper `return_language` with pipeline no longer working",
+      "url": "https://github.com/huggingface/transformers/issues/39404",
+      "created_at": "2025-07-14T19:36:46Z",
+      "user": "Metric-Void",
+      "labels": [
+        "bug",
+        "Audio"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -21488,6 +21519,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3469897793,
+      "number": 41230,
+      "title": "Consider forking and maintaining pyctcdecode or switch to torchaudio.models.decoder",
+      "url": "https://github.com/huggingface/transformers/issues/41230",
+      "created_at": "2025-09-30T14:54:52Z",
+      "user": "FredHaa",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3469992642,
       "number": 8873,
@@ -31944,6 +31990,21 @@
       "created_at": "2025-11-07T17:52:11Z",
       "user": "robertclaus",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3601412086,
+      "number": 42103,
+      "title": "Compatability with `torchcodec`",
+      "url": "https://github.com/huggingface/transformers/issues/42103",
+      "created_at": "2025-11-07T18:02:29Z",
+      "user": "Samoed",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -54582,8 +54643,65 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3705078814,
+      "number": 169806,
+      "title": "Spare_coo_tensor throws Invalid size when size < indices.",
+      "url": "https://github.com/pytorch/pytorch/issues/169806",
+      "created_at": "2025-12-08T07:46:25Z",
+      "user": "krastogi-in",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3705137889,
+      "number": 169809,
+      "title": "FP16 CPU tests in `inductor.test_torchinductor_opinfo` fail on inductor backend",
+      "url": "https://github.com/pytorch/pytorch/issues/169809",
+      "created_at": "2025-12-08T08:03:44Z",
+      "user": "Flamefire",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3705150699,
+      "number": 3688,
+      "title": "[Bug] ValueError: SFTTrainer consistently fails to recognize PEFT-wrapped Qwen3-VL as a VLM",
+      "url": "https://github.com/unslothai/unsloth/issues/3688",
+      "created_at": "2025-12-08T08:07:00Z",
+      "user": "rphlmrk",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3705182497,
+      "number": 169811,
+      "title": "[Inductor] NotImplementedError when FusedMixOrderReductions is combo-kerneled with other ops",
+      "url": "https://github.com/pytorch/pytorch/issues/169811",
+      "created_at": "2025-12-08T08:15:12Z",
+      "user": "karthickai",
+      "labels": [
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T07:43:55Z",
-  "total_count": 3632
+  "last_updated": "2025-12-08T08:25:35Z",
+  "total_count": 3640
 }

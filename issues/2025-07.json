@@ -176,6 +176,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3196165212,
+    "number": 39175,
+    "title": "Torch patches tracker for HPU/Gaudi",
+    "url": "https://github.com/huggingface/transformers/issues/39175",
+    "created_at": "2025-07-02T14:41:24Z",
+    "user": "IlyasMoutawwakil",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3196920010,
     "number": 5260,
@@ -1497,6 +1512,22 @@
     "user": "phoeenniixx",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3229815847,
+    "number": 39404,
+    "title": "Whisper `return_language` with pipeline no longer working",
+    "url": "https://github.com/huggingface/transformers/issues/39404",
+    "created_at": "2025-07-14T19:36:46Z",
+    "user": "Metric-Void",
+    "labels": [
+      "bug",
+      "Audio"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
