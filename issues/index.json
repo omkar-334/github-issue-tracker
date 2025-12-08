@@ -28165,6 +28165,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3565374314,
+      "number": 166512,
+      "title": "Enable GitHub Actions app to support ppc64le CI jobs using IBM-hosted runners",
+      "url": "https://github.com/pytorch/pytorch/issues/166512",
+      "created_at": "2025-10-29T10:47:43Z",
+      "user": "sandeepgupta12",
+      "labels": [
+        "module: ci",
+        "triaged",
+        "module: POWER"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3565403310,
       "number": 21799,
@@ -55956,8 +55973,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3708224991,
+      "number": 17672,
+      "title": "[Bug]: Router breaks in 1.80.8 if tools is None",
+      "url": "https://github.com/BerriAI/litellm/issues/17672",
+      "created_at": "2025-12-08T22:20:24Z",
+      "user": "sidnarayanan",
+      "labels": [
+        "bug",
+        "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T22:16:14Z",
-  "total_count": 3724
+  "last_updated": "2025-12-08T22:43:04Z",
+  "total_count": 3726
 }

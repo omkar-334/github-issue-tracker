@@ -9296,5 +9296,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3708224991,
+    "number": 17672,
+    "title": "[Bug]: Router breaks in 1.80.8 if tools is None",
+    "url": "https://github.com/BerriAI/litellm/issues/17672",
+    "created_at": "2025-12-08T22:20:24Z",
+    "user": "sidnarayanan",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
