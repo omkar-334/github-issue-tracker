@@ -8947,5 +8947,79 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3707425436,
+    "number": 3693,
+    "title": "[Bug] init_lora_weights=\"corda\" not supported in FastLanguageModel.get_peft_model()",
+    "url": "https://github.com/unslothai/unsloth/issues/3693",
+    "created_at": "2025-12-08T17:51:39Z",
+    "user": "mramendi",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707428092,
+    "number": 169854,
+    "title": "CPython test cases under dynamo don't follow paradigm",
+    "url": "https://github.com/pytorch/pytorch/issues/169854",
+    "created_at": "2025-12-08T17:52:30Z",
+    "user": "trichmo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3707449688,
+    "number": 17661,
+    "title": "[Feature]: Integrate 302.ai Provider and Its Models",
+    "url": "https://github.com/BerriAI/litellm/issues/17661",
+    "created_at": "2025-12-08T17:58:58Z",
+    "user": "stardevelop",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3707457282,
+    "number": 63298,
+    "title": "DOC: Improve text for \"Migrating to Copy-on-Write\"",
+    "url": "https://github.com/pandas-dev/pandas/issues/63298",
+    "created_at": "2025-12-08T18:01:22Z",
+    "user": "behrenhoff",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3707484908,
+    "number": 169857,
+    "title": "[ROCm] MIOpen 3D convolution kernel fails with \"invalid configuration argument\" for Qwen2.5-VL vision encoder - silent fallback causes severe performance regression",
+    "url": "https://github.com/pytorch/pytorch/issues/169857",
+    "created_at": "2025-12-08T18:09:38Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
