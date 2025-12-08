@@ -54949,8 +54949,77 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3706234853,
+      "number": 169823,
+      "title": "Abnormal CPU usage with ComfyUI",
+      "url": "https://github.com/pytorch/pytorch/issues/169823",
+      "created_at": "2025-12-08T12:41:50Z",
+      "user": "Nulliik",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3706239095,
+      "number": 169824,
+      "title": "`kernel_shape` missing when exporting to onnx with dynamo=True",
+      "url": "https://github.com/pytorch/pytorch/issues/169824",
+      "created_at": "2025-12-08T12:42:50Z",
+      "user": "dann-od",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3706246374,
+      "number": 169825,
+      "title": "DynamoCache will fail, when torch.compile a torch.nn.Module.",
+      "url": "https://github.com/pytorch/pytorch/issues/169825",
+      "created_at": "2025-12-08T12:44:52Z",
+      "user": "PannenetsF",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3706325854,
+      "number": 33796,
+      "title": "Does JAX need a deterministic reasoning kernel for emerging LLM-based decision systems?",
+      "url": "https://github.com/jax-ml/jax/issues/33796",
+      "created_at": "2025-12-08T13:07:42Z",
+      "user": "yuer-dsl",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3706352745,
+      "number": 34250,
+      "title": "Feature Request: Add a Deterministic Reasoning Kernel (DRK) to Prevent Chain Drift & Unstable Outputs",
+      "url": "https://github.com/langchain-ai/langchain/issues/34250",
+      "created_at": "2025-12-08T13:13:55Z",
+      "user": "yuer-dsl",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T12:33:21Z",
-  "total_count": 3657
+  "last_updated": "2025-12-08T13:33:25Z",
+  "total_count": 3662
 }
