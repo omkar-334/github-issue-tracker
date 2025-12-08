@@ -54539,6 +54539,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3704555028,
+      "number": 13252,
+      "title": "Add \"Ask Ollama\" to Default Error Message Suggestions Alongside \"Ask Google\" and \"Ask ChatGPT\"",
+      "url": "https://github.com/streamlit/streamlit/issues/13252",
+      "created_at": "2025-12-08T04:06:37Z",
+      "user": "kisslim",
+      "labels": [
+        "type:enhancement",
+        "feature:st.exception"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3704697367,
       "number": 3731,
@@ -54729,8 +54745,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3705396534,
+      "number": 34247,
+      "title": "pydantic Field Unable to provide a description",
+      "url": "https://github.com/langchain-ai/langchain/issues/34247",
+      "created_at": "2025-12-08T09:08:43Z",
+      "user": "dcdmm",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3705405472,
+      "number": 3690,
+      "title": "[Feature] Sanitize inf/NaN value in LoRA for consistent `model.save_pretrained_merged()`",
+      "url": "https://github.com/unslothai/unsloth/issues/3690",
+      "created_at": "2025-12-08T09:10:44Z",
+      "user": "sorryhyun",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T08:53:51Z",
-  "total_count": 3642
+  "last_updated": "2025-12-08T09:24:26Z",
+  "total_count": 3645
 }
