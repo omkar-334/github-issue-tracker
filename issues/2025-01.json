@@ -725,6 +725,22 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2805522342,
+    "number": 30707,
+    "title": "Add sample_weight support to QuantileTransformer",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30707",
+    "created_at": "2025-01-22T23:07:51Z",
+    "user": "antipisa",
+    "labels": [
+      "New Feature",
+      "Moderate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2806634805,
     "number": 5593,

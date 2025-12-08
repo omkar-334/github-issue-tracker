@@ -8359,6 +8359,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3705214796,
+    "number": 42694,
+    "title": "Some questions about the apply_multimodal_rotary_pos_emb function.",
+    "url": "https://github.com/huggingface/transformers/issues/42694",
+    "created_at": "2025-12-08T08:24:06Z",
+    "user": "Dyb3438",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3705298535,
     "number": 34246,
@@ -8683,6 +8696,61 @@
     "url": "https://github.com/pytorch/pytorch/issues/169833",
     "created_at": "2025-12-08T15:10:50Z",
     "user": "gderossi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3706860766,
+    "number": 2390,
+    "title": "Allow input shapes to be specified",
+    "url": "https://github.com/huggingface/optimum/issues/2390",
+    "created_at": "2025-12-08T15:24:04Z",
+    "user": "danielliuce",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3706861481,
+    "number": 5128,
+    "title": "nnx.data is lost during nnx.eval_shape",
+    "url": "https://github.com/google/flax/issues/5128",
+    "created_at": "2025-12-08T15:24:16Z",
+    "user": "qGentry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3706914426,
+    "number": 17655,
+    "title": "[Bug]: Azure AI Anthropic: incorrect api-key header and broken cost calculation",
+    "url": "https://github.com/BerriAI/litellm/issues/17655",
+    "created_at": "2025-12-08T15:37:33Z",
+    "user": "emilsvennesson",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3706928016,
+    "number": 169835,
+    "title": "[Compile] Usage of deprecated configuration should not go unnoticed",
+    "url": "https://github.com/pytorch/pytorch/issues/169835",
+    "created_at": "2025-12-08T15:40:33Z",
+    "user": "hinriksnaer",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

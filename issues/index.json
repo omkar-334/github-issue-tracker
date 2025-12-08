@@ -1262,6 +1262,22 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 2805522342,
+      "number": 30707,
+      "title": "Add sample_weight support to QuantileTransformer",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/30707",
+      "created_at": "2025-01-22T23:07:51Z",
+      "user": "antipisa",
+      "labels": [
+        "New Feature",
+        "Moderate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 2806634805,
       "number": 5593,
@@ -32762,6 +32778,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3611178425,
+      "number": 16480,
+      "title": "[Bug]: Codestral completions always return Authorized",
+      "url": "https://github.com/BerriAI/litellm/issues/16480",
+      "created_at": "2025-11-11T08:08:29Z",
+      "user": "hxt365",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3611179156,
       "number": 12633,
@@ -54796,6 +54827,19 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3705214796,
+      "number": 42694,
+      "title": "Some questions about the apply_multimodal_rotary_pos_emb function.",
+      "url": "https://github.com/huggingface/transformers/issues/42694",
+      "created_at": "2025-12-08T08:24:06Z",
+      "user": "Dyb3438",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3705298535,
       "number": 34246,
@@ -55124,8 +55168,63 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/optimum",
+      "id": 3706860766,
+      "number": 2390,
+      "title": "Allow input shapes to be specified",
+      "url": "https://github.com/huggingface/optimum/issues/2390",
+      "created_at": "2025-12-08T15:24:04Z",
+      "user": "danielliuce",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3706861481,
+      "number": 5128,
+      "title": "nnx.data is lost during nnx.eval_shape",
+      "url": "https://github.com/google/flax/issues/5128",
+      "created_at": "2025-12-08T15:24:16Z",
+      "user": "qGentry",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3706914426,
+      "number": 17655,
+      "title": "[Bug]: Azure AI Anthropic: incorrect api-key header and broken cost calculation",
+      "url": "https://github.com/BerriAI/litellm/issues/17655",
+      "created_at": "2025-12-08T15:37:33Z",
+      "user": "emilsvennesson",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3706928016,
+      "number": 169835,
+      "title": "[Compile] Usage of deprecated configuration should not go unnoticed",
+      "url": "https://github.com/pytorch/pytorch/issues/169835",
+      "created_at": "2025-12-08T15:40:33Z",
+      "user": "hinriksnaer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T15:18:53Z",
-  "total_count": 3669
+  "last_updated": "2025-12-08T15:43:15Z",
+  "total_count": 3676
 }
