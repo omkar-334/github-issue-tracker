@@ -923,6 +923,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2789115357,
+      "number": 144850,
+      "title": "Batching rule for aten::_thnn_fused_gru_cell",
+      "url": "https://github.com/pytorch/pytorch/issues/144850",
+      "created_at": "2025-01-15T08:13:49Z",
+      "user": "jspieler",
+      "labels": [
+        "triaged",
+        "module: functorch"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 2789150981,
       "number": 13729,
@@ -17386,6 +17402,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3391515154,
+      "number": 162346,
+      "title": "The batching rule of aten::affine_grid_generator is not implemented",
+      "url": "https://github.com/pytorch/pytorch/issues/162346",
+      "created_at": "2025-09-07T11:14:06Z",
+      "user": "wzm2256",
+      "labels": [
+        "triaged",
+        "module: vmap",
+        "topic: performance",
+        "module: functorch"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3391591681,
       "number": 13871,
@@ -31203,6 +31237,24 @@
       "user": "mattgiles",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3598128772,
+      "number": 167265,
+      "title": "TorchInductor Compilation Error: Tensor Stride Assertion Failure in Complex FFT Operations",
+      "url": "https://github.com/pytorch/pytorch/issues/167265",
+      "created_at": "2025-11-07T00:20:26Z",
+      "user": "Blooming-Tree",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: fakeTensor",
+        "module: pt2-dispatcher"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -54253,8 +54305,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3704475289,
+      "number": 32855,
+      "title": "Chain classifier customizability",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32855",
+      "created_at": "2025-12-08T03:20:50Z",
+      "user": "MingJunMC",
+      "labels": [
+        "New Feature",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3704486468,
+      "number": 42690,
+      "title": "How to run Phi4MultimodalProcessor",
+      "url": "https://github.com/huggingface/transformers/issues/42690",
+      "created_at": "2025-12-08T03:27:02Z",
+      "user": "wcrzlh",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3704533260,
+      "number": 17640,
+      "title": "test",
+      "url": "https://github.com/BerriAI/litellm/issues/17640",
+      "created_at": "2025-12-08T03:54:50Z",
+      "user": "danOO7",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T03:06:47Z",
-  "total_count": 3611
+  "last_updated": "2025-12-08T04:07:27Z",
+  "total_count": 3617
 }

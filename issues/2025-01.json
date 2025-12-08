@@ -386,6 +386,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2789115357,
+    "number": 144850,
+    "title": "Batching rule for aten::_thnn_fused_gru_cell",
+    "url": "https://github.com/pytorch/pytorch/issues/144850",
+    "created_at": "2025-01-15T08:13:49Z",
+    "user": "jspieler",
+    "labels": [
+      "triaged",
+      "module: functorch"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2789150981,
     "number": 13729,
