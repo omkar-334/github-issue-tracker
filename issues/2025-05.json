@@ -1145,6 +1145,19 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3073344431,
+    "number": 10938,
+    "title": "How to Enable enable_thinking with Qwen3 Model via OpenAI-Compatible API ,litellm proxy?",
+    "url": "https://github.com/BerriAI/litellm/issues/10938",
+    "created_at": "2025-05-19T10:27:55Z",
+    "user": "NEWbie0709",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3073716396,
     "number": 3911,

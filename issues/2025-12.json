@@ -5905,6 +5905,22 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras",
+    "id": 3698234947,
+    "number": 21898,
+    "title": "Add CLAHE",
+    "url": "https://github.com/keras-team/keras/issues/21898",
+    "created_at": "2025-12-05T09:43:03Z",
+    "user": "innat",
+    "labels": [
+      "type:feature",
+      "keras-team-review-pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3698260446,
     "number": 63272,
@@ -8131,6 +8147,36 @@
     "created_at": "2025-12-08T03:54:50Z",
     "user": "danOO7",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3704697367,
+    "number": 3731,
+    "title": "Bug: This project is not compatible with langchain-openai",
+    "url": "https://github.com/browser-use/browser-use/issues/3731",
+    "created_at": "2025-12-08T05:17:11Z",
+    "user": "surapuramakhil",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3704698991,
+    "number": 24116,
+    "title": "ENH: Improve the Numerical Stability of BiCGStab",
+    "url": "https://github.com/scipy/scipy/issues/24116",
+    "created_at": "2025-12-08T05:18:02Z",
+    "user": "kenneth-meyer",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

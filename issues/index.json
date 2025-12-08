@@ -6318,6 +6318,19 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3073344431,
+      "number": 10938,
+      "title": "How to Enable enable_thinking with Qwen3 Model via OpenAI-Compatible API ,litellm proxy?",
+      "url": "https://github.com/BerriAI/litellm/issues/10938",
+      "created_at": "2025-05-19T10:27:55Z",
+      "user": "NEWbie0709",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3073716396,
       "number": 3911,
@@ -52120,6 +52133,22 @@
       "archived": false
     },
     {
+      "repo": "keras-team/keras",
+      "id": 3698234947,
+      "number": 21898,
+      "title": "Add CLAHE",
+      "url": "https://github.com/keras-team/keras/issues/21898",
+      "created_at": "2025-12-05T09:43:03Z",
+      "user": "innat",
+      "labels": [
+        "type:feature",
+        "keras-team-review-pending"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3698260446,
       "number": 63272,
@@ -54349,8 +54378,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3704697367,
+      "number": 3731,
+      "title": "Bug: This project is not compatible with langchain-openai",
+      "url": "https://github.com/browser-use/browser-use/issues/3731",
+      "created_at": "2025-12-08T05:17:11Z",
+      "user": "surapuramakhil",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3704698991,
+      "number": 24116,
+      "title": "ENH: Improve the Numerical Stability of BiCGStab",
+      "url": "https://github.com/scipy/scipy/issues/24116",
+      "created_at": "2025-12-08T05:18:02Z",
+      "user": "kenneth-meyer",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T04:53:11Z",
-  "total_count": 3617
+  "last_updated": "2025-12-08T05:19:36Z",
+  "total_count": 3621
 }
