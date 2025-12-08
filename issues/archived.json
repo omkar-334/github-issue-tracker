@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2099560717,
-    "number": 57064,
-    "title": "RLS: 3.0",
-    "url": "https://github.com/pandas-dev/pandas/issues/57064",
-    "created_at": "2024-01-25T04:47:17Z",
-    "user": "datapythonista",
-    "labels": [
-      "Release"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
