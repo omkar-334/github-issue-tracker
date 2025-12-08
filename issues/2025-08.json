@@ -1393,6 +1393,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3325344123,
+    "number": 160739,
+    "title": "ConvTranspose 3D with BF16 or FP16 types is not supported on MPS",
+    "url": "https://github.com/pytorch/pytorch/issues/160739",
+    "created_at": "2025-08-15T13:49:18Z",
+    "user": "manuelcandales",
+    "labels": [
+      "triaged",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3325353779,
     "number": 1945,

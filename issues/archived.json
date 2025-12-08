@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "repo": "mlflow/mlflow",
+    "id": 1952534473,
+    "number": 10015,
+    "title": "[BUG] Artifacts not showing up in UI using minio bucket",
+    "url": "https://github.com/mlflow/mlflow/issues/10015",
+    "created_at": "2023-10-19T15:29:22Z",
+    "user": "kavita1205",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

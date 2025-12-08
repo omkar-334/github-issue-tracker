@@ -1707,6 +1707,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2830683665,
+      "number": 146414,
+      "title": "MX basic dtypes in pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch/issues/146414",
+      "created_at": "2025-02-04T16:02:30Z",
+      "user": "vkuzo",
+      "labels": [
+        "triaged",
+        "enhancement",
+        "needs research",
+        "module: python frontend"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2831104897,
       "number": 2085,
@@ -14264,6 +14282,22 @@
       "labels": [
         "bug",
         "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3325344123,
+      "number": 160739,
+      "title": "ConvTranspose 3D with BF16 or FP16 types is not supported on MPS",
+      "url": "https://github.com/pytorch/pytorch/issues/160739",
+      "created_at": "2025-08-15T13:49:18Z",
+      "user": "manuelcandales",
+      "labels": [
+        "triaged",
+        "module: mps"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -54408,8 +54442,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3704763777,
+      "number": 169803,
+      "title": "[RFC] Add RGE256ctr: A Fast Counter-Mode ARX RNG for PyTorch GeneratorImpl",
+      "url": "https://github.com/pytorch/pytorch/issues/169803",
+      "created_at": "2025-12-08T05:48:28Z",
+      "user": "RRG314",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3704776302,
+      "number": 13253,
+      "title": "Error parsing CSV file with DataFusion",
+      "url": "https://github.com/streamlit/streamlit/issues/13253",
+      "created_at": "2025-12-08T05:54:06Z",
+      "user": "HeWhoHeWho",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3704817262,
+      "number": 59259,
+      "title": "[core] AttributeError: 'dict' object has no attribute 'function_name' when using code_search_path + class-based remote actor + experimental_compile()",
+      "url": "https://github.com/ray-project/ray/issues/59259",
+      "created_at": "2025-12-08T06:13:27Z",
+      "user": "CescMessi",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T05:45:36Z",
-  "total_count": 3621
+  "last_updated": "2025-12-08T06:28:17Z",
+  "total_count": 3626
 }

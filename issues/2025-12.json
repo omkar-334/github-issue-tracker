@@ -8180,5 +8180,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3704763777,
+    "number": 169803,
+    "title": "[RFC] Add RGE256ctr: A Fast Counter-Mode ARX RNG for PyTorch GeneratorImpl",
+    "url": "https://github.com/pytorch/pytorch/issues/169803",
+    "created_at": "2025-12-08T05:48:28Z",
+    "user": "RRG314",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3704776302,
+    "number": 13253,
+    "title": "Error parsing CSV file with DataFusion",
+    "url": "https://github.com/streamlit/streamlit/issues/13253",
+    "created_at": "2025-12-08T05:54:06Z",
+    "user": "HeWhoHeWho",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3704817262,
+    "number": 59259,
+    "title": "[core] AttributeError: 'dict' object has no attribute 'function_name' when using code_search_path + class-based remote actor + experimental_compile()",
+    "url": "https://github.com/ray-project/ray/issues/59259",
+    "created_at": "2025-12-08T06:13:27Z",
+    "user": "CescMessi",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
