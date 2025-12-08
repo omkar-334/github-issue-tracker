@@ -54163,8 +54163,98 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3704282363,
+      "number": 169797,
+      "title": "When augment_with_fx_traces=True but the user has misconfigured the FX config, raise an error",
+      "url": "https://github.com/pytorch/pytorch/issues/169797",
+      "created_at": "2025-12-08T01:24:32Z",
+      "user": "ezyang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3704311941,
+      "number": 33790,
+      "title": "RuntimeError with from_dlpack(copy=True)",
+      "url": "https://github.com/jax-ml/jax/issues/33790",
+      "created_at": "2025-12-08T01:44:10Z",
+      "user": "haohuanw",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3704313710,
+      "number": 17636,
+      "title": "[Bug]: Issue with ssl_verify setting seemingly reverting to true after running for a day (Docker)",
+      "url": "https://github.com/BerriAI/litellm/issues/17636",
+      "created_at": "2025-12-08T01:45:45Z",
+      "user": "YuqiCui",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3704334722,
+      "number": 3687,
+      "title": "[Bug]  `TypeError` in `compiler.py` with DDP: `distributed_function` returns `None` on non-main ranks when dist is not initialized",
+      "url": "https://github.com/unslothai/unsloth/issues/3687",
+      "created_at": "2025-12-08T02:03:20Z",
+      "user": "MosRat",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3704409752,
+      "number": 24115,
+      "title": "BUG: scipy.special.wofz gives wrong result around the negative y axis?",
+      "url": "https://github.com/scipy/scipy/issues/24115",
+      "created_at": "2025-12-08T02:42:39Z",
+      "user": "entaylor",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3704439288,
+      "number": 59249,
+      "title": "[<Ray component: Core|RLlib|etc...>]Ray timeout causes Qwen3-VL inference failure",
+      "url": "https://github.com/ray-project/ray/issues/59249",
+      "created_at": "2025-12-08T03:01:32Z",
+      "user": "ving666",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T01:13:17Z",
-  "total_count": 3605
+  "last_updated": "2025-12-08T03:06:47Z",
+  "total_count": 3611
 }
