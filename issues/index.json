@@ -1,40 +1,6 @@
 {
   "issues": [
     {
-      "repo": "huggingface/optimum",
-      "id": 2724184849,
-      "number": 2120,
-      "title": "GPTQ kernel inference not compatible with some models",
-      "url": "https://github.com/huggingface/optimum/issues/2120",
-      "created_at": "2024-12-07T00:14:27Z",
-      "user": "Qubitium",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "ray-project/ray",
-      "id": 2724581192,
-      "number": 49145,
-      "title": "[vllm/serve]  Ray+vllm start serving error",
-      "url": "https://github.com/ray-project/ray/issues/49145",
-      "created_at": "2024-12-07T12:53:29Z",
-      "user": "pygongnlp",
-      "labels": [
-        "bug",
-        "P1",
-        "serve",
-        "llm",
-        "community-backlog"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "stanfordnlp/dspy",
       "id": 2724964721,
       "number": 1904,
@@ -3910,6 +3876,22 @@
       "user": "Bla-bla-bla-bla-bla",
       "labels": [
         "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 2980606657,
+      "number": 22816,
+      "title": "BUG: stats.spearmanr: incorrectly identifies arrays as constant",
+      "url": "https://github.com/scipy/scipy/issues/22816",
+      "created_at": "2025-04-08T18:15:07Z",
+      "user": "jakobhansen-blai",
+      "labels": [
+        "defect",
+        "scipy.stats"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -13951,6 +13933,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3311483972,
+      "number": 13509,
+      "title": "[Bug]: Error using Bedrock Anthropic Models - Header length exceeded the maximum",
+      "url": "https://github.com/BerriAI/litellm/issues/13509",
+      "created_at": "2025-08-11T19:59:30Z",
+      "user": "ishaan-jaff",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3311501416,
       "number": 2554,
@@ -14298,6 +14296,23 @@
       "user": "MariusCausemann",
       "labels": [
         "ParallelAccelerator"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3326576204,
+      "number": 13668,
+      "title": "[Bug]: Health Check internal key showing high spend",
+      "url": "https://github.com/BerriAI/litellm/issues/13668",
+      "created_at": "2025-08-15T23:27:20Z",
+      "user": "anengineerdude",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -15838,6 +15853,24 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3370620689,
+      "number": 14115,
+      "title": "[Bug]: Team/Tag Usage tabs only fetch first page of results",
+      "url": "https://github.com/BerriAI/litellm/issues/14115",
+      "created_at": "2025-08-31T19:48:32Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "ui",
+        "stale",
+        "P0"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3370677782,
       "number": 14116,
       "title": "[Feature]:   Track and Monitor AWS Bedrock Requests by Account/Role ARN",
@@ -16731,6 +16764,24 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3383327113,
+      "number": 14244,
+      "title": "[Bug]: `gemini-2.5-flash-image-preview` in `Vertex AI` failed to return an image in litellm proxy 1.76.1 and 1.76.2",
+      "url": "https://github.com/BerriAI/litellm/issues/14244",
+      "created_at": "2025-09-04T11:27:43Z",
+      "user": "chiruno-9",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3383620964,
       "number": 14246,
       "title": "LiteLLM UI enablement",
@@ -16789,6 +16840,24 @@
       "labels": [
         "bug",
         "openapi"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3384307389,
+      "number": 14257,
+      "title": "[Bug]: Model are exposed on the proxy API not just by their name, but also by their type",
+      "url": "https://github.com/BerriAI/litellm/issues/14257",
+      "created_at": "2025-09-04T15:38:10Z",
+      "user": "Dobiasd",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17389,6 +17458,71 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3393511246,
+      "number": 14321,
+      "title": "[Bug]: token cookie is HttpOnly",
+      "url": "https://github.com/BerriAI/litellm/issues/14321",
+      "created_at": "2025-09-08T10:03:23Z",
+      "user": "jdeepwell",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3393711416,
+      "number": 14323,
+      "title": "[Bug]: Filters are not being used when utilizing VectorStore.",
+      "url": "https://github.com/BerriAI/litellm/issues/14323",
+      "created_at": "2025-09-08T11:01:13Z",
+      "user": "nonchan7720",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3393880526,
+      "number": 14326,
+      "title": "[Bug]:Memory overflow due to active threads from the litellm completions. ",
+      "url": "https://github.com/BerriAI/litellm/issues/14326",
+      "created_at": "2025-09-08T11:53:53Z",
+      "user": "visatenags",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3393902541,
+      "number": 14328,
+      "title": "[Feature]: User/Key Management Archive Process",
+      "url": "https://github.com/BerriAI/litellm/issues/14328",
+      "created_at": "2025-09-08T12:00:52Z",
+      "user": "anengineerdude",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3393982141,
       "number": 30526,
@@ -17463,6 +17597,128 @@
       "user": "gitboy16",
       "labels": [
         "component: SIMD"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394582031,
+      "number": 14333,
+      "title": "[Feature]: List access groups for each tool in /mcp-rest/tools/list",
+      "url": "https://github.com/BerriAI/litellm/issues/14333",
+      "created_at": "2025-09-08T14:58:43Z",
+      "user": "jeromeroussin",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394725367,
+      "number": 14334,
+      "title": "[Bug]: Graceful shutdowns no longer seem to work",
+      "url": "https://github.com/BerriAI/litellm/issues/14334",
+      "created_at": "2025-09-08T15:39:12Z",
+      "user": "RichardoC",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale",
+        "enterprise",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394950882,
+      "number": 14336,
+      "title": "[Feature]: map key id to user and team",
+      "url": "https://github.com/BerriAI/litellm/issues/14336",
+      "created_at": "2025-09-08T16:53:06Z",
+      "user": "aunt-bitsy",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394966527,
+      "number": 14338,
+      "title": "[Feature]: grant users with two security permissions",
+      "url": "https://github.com/BerriAI/litellm/issues/14338",
+      "created_at": "2025-09-08T16:59:12Z",
+      "user": "aunt-bitsy",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394970404,
+      "number": 14339,
+      "title": "[Feature]: passwords should accept special characters, caps and numbers",
+      "url": "https://github.com/BerriAI/litellm/issues/14339",
+      "created_at": "2025-09-08T17:00:44Z",
+      "user": "aunt-bitsy",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394991137,
+      "number": 14340,
+      "title": "[Bug]: both `log_success_event` and `async_log_success_event` are called on `litellm.response()` when streaming",
+      "url": "https://github.com/BerriAI/litellm/issues/14340",
+      "created_at": "2025-09-08T17:08:22Z",
+      "user": "dinmukhamedm",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3394996772,
+      "number": 14341,
+      "title": "[Bug]: Log Tab Key Alias filtering innaccurately filtering failed logs",
+      "url": "https://github.com/BerriAI/litellm/issues/14341",
+      "created_at": "2025-09-08T17:10:31Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P2"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -53879,8 +54135,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3704231839,
+      "number": 3730,
+      "title": "must_get_element_by_prompt throw: \"API request failed: LLM call failed.\"",
+      "url": "https://github.com/browser-use/browser-use/issues/3730",
+      "created_at": "2025-12-08T00:52:28Z",
+      "user": "Ja-rek",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3704257513,
+      "number": 169796,
+      "title": "manylinux_2_28 of nightly build (aarch64) is missing",
+      "url": "https://github.com/pytorch/pytorch/issues/169796",
+      "created_at": "2025-12-08T01:09:43Z",
+      "user": "dilililiwhy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-07T23:37:45Z",
-  "total_count": 3588
+  "last_updated": "2025-12-08T01:13:17Z",
+  "total_count": 3605
 }

@@ -1085,6 +1085,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3311483972,
+    "number": 13509,
+    "title": "[Bug]: Error using Bedrock Anthropic Models - Header length exceeded the maximum",
+    "url": "https://github.com/BerriAI/litellm/issues/13509",
+    "created_at": "2025-08-11T19:59:30Z",
+    "user": "ishaan-jaff",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3311501416,
     "number": 2554,
@@ -1432,6 +1448,23 @@
     "user": "MariusCausemann",
     "labels": [
       "ParallelAccelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3326576204,
+    "number": 13668,
+    "title": "[Bug]: Health Check internal key showing high spend",
+    "url": "https://github.com/BerriAI/litellm/issues/13668",
+    "created_at": "2025-08-15T23:27:20Z",
+    "user": "anengineerdude",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2963,6 +2996,24 @@
     "user": "berri-teddy",
     "labels": [
       "bug",
+      "stale",
+      "P0"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3370620689,
+    "number": 14115,
+    "title": "[Bug]: Team/Tag Usage tabs only fetch first page of results",
+    "url": "https://github.com/BerriAI/litellm/issues/14115",
+    "created_at": "2025-08-31T19:48:32Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "ui",
       "stale",
       "P0"
     ],

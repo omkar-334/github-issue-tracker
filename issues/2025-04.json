@@ -242,6 +242,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 2980606657,
+    "number": 22816,
+    "title": "BUG: stats.spearmanr: incorrectly identifies arrays as constant",
+    "url": "https://github.com/scipy/scipy/issues/22816",
+    "created_at": "2025-04-08T18:15:07Z",
+    "user": "jakobhansen-blai",
+    "labels": [
+      "defect",
+      "scipy.stats"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2981475646,
     "number": 3153,
