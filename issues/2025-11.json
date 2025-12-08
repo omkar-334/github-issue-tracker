@@ -4132,6 +4132,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3617280347,
+    "number": 167657,
+    "title": "make_fx trick for tracing DTensor compute doesn't work with redistribute",
+    "url": "https://github.com/pytorch/pytorch/issues/167657",
+    "created_at": "2025-11-12T16:26:04Z",
+    "user": "ezyang",
+    "labels": [
+      "oncall: distributed",
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3617466096,
     "number": 1053,

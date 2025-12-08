@@ -9021,5 +9021,51 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3707585838,
+    "number": 42712,
+    "title": "EoMT: `post_process_semantic_segmentation` fails if `patch_offsets` is None",
+    "url": "https://github.com/huggingface/transformers/issues/42712",
+    "created_at": "2025-12-08T18:41:31Z",
+    "user": "simonreise",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3707587131,
+    "number": 63299,
+    "title": "ENH: Persian date",
+    "url": "https://github.com/pandas-dev/pandas/issues/63299",
+    "created_at": "2025-12-08T18:41:59Z",
+    "user": "ShimaBeiranvand",
+    "labels": [
+      "Enhancement",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3707597839,
+    "number": 42713,
+    "title": "mulitmodal forward pass for ministral 3 family",
+    "url": "https://github.com/huggingface/transformers/issues/42713",
+    "created_at": "2025-12-08T18:46:14Z",
+    "user": "rishavranaut",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
