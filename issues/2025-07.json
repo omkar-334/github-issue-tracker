@@ -415,6 +415,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3202815590,
+    "number": 39224,
+    "title": "transformers: FlaubertTokenizer: do_lowercase_and_remove_accent: make the logger warning actionable (don't only tell what's wrong, rather suggest what could be done about that)",
+    "url": "https://github.com/huggingface/transformers/issues/39224",
+    "created_at": "2025-07-04T13:48:52Z",
+    "user": "kirisakow",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3202918196,
     "number": 5263,
