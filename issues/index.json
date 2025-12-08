@@ -54905,8 +54905,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3705948222,
+      "number": 169816,
+      "title": "Cannot load or export TorchVision quantized models on Windows - \"Quantized backend not supported\"",
+      "url": "https://github.com/pytorch/pytorch/issues/169816",
+      "created_at": "2025-12-08T11:31:37Z",
+      "user": "RajeevSekar",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T11:16:09Z",
-  "total_count": 3654
+  "last_updated": "2025-12-08T11:39:45Z",
+  "total_count": 3655
 }

@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "streamlit/streamlit",
+    "id": 544350688,
+    "number": 904,
+    "title": "Let file_uploader return path, instead of reading the file in",
+    "url": "https://github.com/streamlit/streamlit/issues/904",
+    "created_at": "2020-01-01T12:15:23Z",
+    "user": "eliska-chalupova",
+    "labels": [
+      "type:enhancement",
+      "feature:st.file_uploader",
+      "status:likely"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
