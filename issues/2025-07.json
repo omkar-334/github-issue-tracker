@@ -1243,6 +1243,23 @@
     "archived": false
   },
   {
+    "repo": "sktime/sktime",
+    "id": 3223482205,
+    "number": 8523,
+    "title": "[ENH] Check if current implementations of FM models allow for exogenous data and few-shot capabilities",
+    "url": "https://github.com/sktime/sktime/issues/8523",
+    "created_at": "2025-07-11T16:17:55Z",
+    "user": "mabuimo",
+    "labels": [
+      "good first issue",
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3223687265,
     "number": 1825,

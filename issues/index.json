@@ -10925,6 +10925,23 @@
       "archived": false
     },
     {
+      "repo": "sktime/sktime",
+      "id": 3223482205,
+      "number": 8523,
+      "title": "[ENH] Check if current implementations of FM models allow for exogenous data and few-shot capabilities",
+      "url": "https://github.com/sktime/sktime/issues/8523",
+      "created_at": "2025-07-11T16:17:55Z",
+      "user": "mabuimo",
+      "labels": [
+        "good first issue",
+        "module:forecasting",
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 3223687265,
       "number": 1825,
@@ -58192,8 +58209,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3712070463,
+      "number": 17735,
+      "title": "[Bug]: vertex Gemini TTS Request contains an invalid argument",
+      "url": "https://github.com/BerriAI/litellm/issues/17735",
+      "created_at": "2025-12-09T18:06:37Z",
+      "user": "jguokion",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3712084879,
+      "number": 63314,
+      "title": "BUG: large pivot_table has incorrect output with Python 3.14",
+      "url": "https://github.com/pandas-dev/pandas/issues/63314",
+      "created_at": "2025-12-09T18:10:54Z",
+      "user": "joshuanapoli",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712089071,
+      "number": 169970,
+      "title": "Does torch._grouped.mm work with cudagraphs over multiple nodes?",
+      "url": "https://github.com/pytorch/pytorch/issues/169970",
+      "created_at": "2025-12-09T18:12:10Z",
+      "user": "ashahab",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T17:44:30Z",
-  "total_count": 3869
+  "last_updated": "2025-12-09T18:21:55Z",
+  "total_count": 3873
 }
