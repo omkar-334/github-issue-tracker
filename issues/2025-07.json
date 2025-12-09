@@ -3372,6 +3372,23 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3278728684,
+    "number": 16967,
+    "title": "[BUG] mlflow.models.evaluate does not work for multilabel classification without a model",
+    "url": "https://github.com/mlflow/mlflow/issues/16967",
+    "created_at": "2025-07-30T23:46:42Z",
+    "user": "czyzby",
+    "labels": [
+      "bug",
+      "has-closing-pr",
+      "area/evaluation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3279248301,
     "number": 3501,

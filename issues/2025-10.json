@@ -5017,6 +5017,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3549975601,
+    "number": 15908,
+    "title": "[Bug]: User info not forwarded correctly to Langfuse after migrating to user_header_mappings",
+    "url": "https://github.com/BerriAI/litellm/issues/15908",
+    "created_at": "2025-10-24T15:22:11Z",
+    "user": "mpeirone",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3549991497,
     "number": 23854,
