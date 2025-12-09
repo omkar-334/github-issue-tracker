@@ -3264,6 +3264,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3523250121,
+    "number": 57806,
+    "title": "[data] Support expression for monotonically increasing id",
+    "url": "https://github.com/ray-project/ray/issues/57806",
+    "created_at": "2025-10-16T19:36:13Z",
+    "user": "richardliaw",
+    "labels": [
+      "good-first-issue",
+      "enhancement",
+      "triage",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3523253339,
     "number": 165671,

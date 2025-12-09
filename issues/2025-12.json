@@ -9709,5 +9709,46 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3709440092,
+    "number": 21907,
+    "title": "class id ignore clarification in IOU metrics",
+    "url": "https://github.com/keras-team/keras/issues/21907",
+    "created_at": "2025-12-09T06:25:24Z",
+    "user": "pure-rgb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3709447434,
+    "number": 42726,
+    "title": "convert trocr to onnx",
+    "url": "https://github.com/huggingface/transformers/issues/42726",
+    "created_at": "2025-12-09T06:28:28Z",
+    "user": "cqray1990",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3709448937,
+    "number": 42727,
+    "title": "[BUG] [v5] Models loaded with zero3 have weights that are all zeros or all ones.",
+    "url": "https://github.com/huggingface/transformers/issues/42727",
+    "created_at": "2025-12-09T06:29:09Z",
+    "user": "Jintao-Huang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
