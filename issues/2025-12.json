@@ -10300,5 +10300,138 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3710705841,
+    "number": 3314,
+    "title": "Causal LM Eval Failing with Qwen3 Base models + Zero3 Deepspeed",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3314",
+    "created_at": "2025-12-09T12:37:14Z",
+    "user": "Kush0610",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3710789015,
+    "number": 169946,
+    "title": "Faulty runner: `linux-jammy-rocm-py3.10`",
+    "url": "https://github.com/pytorch/pytorch/issues/169946",
+    "created_at": "2025-12-09T12:56:18Z",
+    "user": "Flamefire",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3710821909,
+    "number": 19298,
+    "title": "[BUG] plotly maps don't render as html artifacts due to some CORS issue",
+    "url": "https://github.com/mlflow/mlflow/issues/19298",
+    "created_at": "2025-12-09T13:03:44Z",
+    "user": "b-a0",
+    "labels": [
+      "bug",
+      "area/uiux"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3710856292,
+    "number": 19299,
+    "title": "[BUG] Database error when starting",
+    "url": "https://github.com/mlflow/mlflow/issues/19299",
+    "created_at": "2025-12-09T13:11:01Z",
+    "user": "kcadmin-github",
+    "labels": [
+      "bug",
+      "area/tracking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3710879638,
+    "number": 17713,
+    "title": "[Bug]: Azure AI Anthropic adapter fails with tool calling and max_retries parameter",
+    "url": "https://github.com/BerriAI/litellm/issues/17713",
+    "created_at": "2025-12-09T13:16:24Z",
+    "user": "emilsvennesson",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3710880829,
+    "number": 34264,
+    "title": "`bind_tools` has `strict=True` by default when defining an agent using `langchain.agents.create_agent`",
+    "url": "https://github.com/langchain-ai/langchain/issues/34264",
+    "created_at": "2025-12-09T13:16:40Z",
+    "user": "hjerbii",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3710910918,
+    "number": 169949,
+    "title": "ONNX export not support nn.AdaptiveMaxPool2d",
+    "url": "https://github.com/pytorch/pytorch/issues/169949",
+    "created_at": "2025-12-09T13:23:19Z",
+    "user": "gfhfhoo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numba/numba",
+    "id": 3710915611,
+    "number": 10374,
+    "title": "Numba does not validate shape of boolean mask",
+    "url": "https://github.com/numba/numba/issues/10374",
+    "created_at": "2025-12-09T13:24:19Z",
+    "user": "ricardoV94",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3710933821,
+    "number": 17716,
+    "title": "License Question",
+    "url": "https://github.com/BerriAI/litellm/issues/17716",
+    "created_at": "2025-12-09T13:28:41Z",
+    "user": "swtb3-ryder",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

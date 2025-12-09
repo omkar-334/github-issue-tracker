@@ -7145,6 +7145,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3641574257,
+    "number": 58815,
+    "title": "[Serve] Controller RSS Memory Leak after Autoscaling Cycles (Ray 2.47.0)",
+    "url": "https://github.com/ray-project/ray/issues/58815",
+    "created_at": "2025-11-19T08:13:08Z",
+    "user": "zh820952173",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3641599402,
     "number": 3561,
