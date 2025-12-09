@@ -7876,5 +7876,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3600068309,
+    "number": 33869,
+    "title": "[langchain Agent]: Errors in tool calling from Playwright MCP",
+    "url": "https://github.com/langchain-ai/langchain/issues/33869",
+    "created_at": "2025-10-23T06:10:45Z",
+    "user": "dkundu56",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

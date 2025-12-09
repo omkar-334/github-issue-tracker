@@ -32238,6 +32238,22 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3600068309,
+      "number": 33869,
+      "title": "[langchain Agent]: Errors in tool calling from Playwright MCP",
+      "url": "https://github.com/langchain-ai/langchain/issues/33869",
+      "created_at": "2025-10-23T06:10:45Z",
+      "user": "dkundu56",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "google/flax",
       "id": 3600109197,
       "number": 5075,
@@ -58296,8 +58312,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3712372235,
+      "number": 3737,
+      "title": "Documentation: prohibited_domains mentioned but not implemented",
+      "url": "https://github.com/browser-use/browser-use/issues/3737",
+      "created_at": "2025-12-09T19:38:14Z",
+      "user": "francomor",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3712388786,
+      "number": 3700,
+      "title": "[Feature] GraniteMoeHybrid - remove upcast of logits to float32 within forward pass",
+      "url": "https://github.com/unslothai/unsloth/issues/3700",
+      "created_at": "2025-12-09T19:43:13Z",
+      "user": "mramendi",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712452507,
+      "number": 169977,
+      "title": "`torch.export` of `torch.bucketize` fails with `RecursionError`",
+      "url": "https://github.com/pytorch/pytorch/issues/169977",
+      "created_at": "2025-12-09T20:03:43Z",
+      "user": "ar0ck",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3712455776,
+      "number": 63315,
+      "title": "BUG: OSError 22 (Invalid argument) in tzconversion tests on Windows/Python 3.11",
+      "url": "https://github.com/pandas-dev/pandas/issues/63315",
+      "created_at": "2025-12-09T20:04:46Z",
+      "user": "sanchit122006",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T19:37:23Z",
-  "total_count": 3876
+  "last_updated": "2025-12-09T20:17:31Z",
+  "total_count": 3881
 }
