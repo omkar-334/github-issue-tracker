@@ -1,14 +1,15 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 239916713,
-    "number": 7547,
-    "title": "using asjacobian when jacobian function is provided",
-    "url": "https://github.com/scipy/scipy/issues/7547",
-    "created_at": "2017-07-01T00:55:35Z",
-    "user": "saeeron",
+    "repo": "matplotlib/matplotlib",
+    "id": 1197435591,
+    "number": 22803,
+    "title": "[Bug]: Large file size when using fill_between()",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22803",
+    "created_at": "2022-04-08T15:05:54Z",
+    "user": "tgrohens",
     "labels": [
-      "scipy.optimize"
+      "Difficulty: Medium",
+      "Good first issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

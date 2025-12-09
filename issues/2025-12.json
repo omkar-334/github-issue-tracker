@@ -10660,5 +10660,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3711558428,
+    "number": 17722,
+    "title": "[Bug]: Expose team alias during cli sso authentication",
+    "url": "https://github.com/BerriAI/litellm/issues/17722",
+    "created_at": "2025-12-09T15:52:47Z",
+    "user": "saisurya237",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
