@@ -58268,8 +58268,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3712258511,
+      "number": 3699,
+      "title": "Batched generation with left-padding and caching produces incorrect output",
+      "url": "https://github.com/unslothai/unsloth/issues/3699",
+      "created_at": "2025-12-09T19:01:12Z",
+      "user": "afspies",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T18:51:00Z",
-  "total_count": 3874
+  "last_updated": "2025-12-09T19:13:29Z",
+  "total_count": 3875
 }
