@@ -2986,6 +2986,23 @@
     "archived": false
   },
   {
+    "repo": "jax-ml/jax",
+    "id": 3518918704,
+    "number": 32647,
+    "title": "Support weighted quantile & percentile",
+    "url": "https://github.com/jax-ml/jax/issues/32647",
+    "created_at": "2025-10-15T17:17:01Z",
+    "user": "jakevdp",
+    "labels": [
+      "enhancement",
+      "contributions welcome",
+      "P2 (eventual)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3519002638,
     "number": 12494,
