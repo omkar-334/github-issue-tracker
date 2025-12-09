@@ -30671,6 +30671,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3583098073,
+      "number": 166875,
+      "title": "UNSTABLE periodic-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/166875",
+      "created_at": "2025-11-03T17:44:47Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "triaged",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/accelerate",
       "id": 3583124124,
       "number": 3830,
@@ -35031,6 +35049,27 @@
       "created_at": "2025-11-14T09:12:03Z",
       "user": "johnnynunez",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3624719368,
+      "number": 58625,
+      "title": "[Compiled Graph] Network instability causes transient request blocking in multiples of RAY_CGRAPH_read_iteration_timeout_s during vLLM v1 API testing",
+      "url": "https://github.com/ray-project/ray/issues/58625",
+      "created_at": "2025-11-14T09:15:05Z",
+      "user": "Mei-pris",
+      "labels": [
+        "bug",
+        "P1",
+        "performance",
+        "core",
+        "llm",
+        "stability",
+        "community-backlog"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -39498,6 +39537,66 @@
         "module: rocm",
         "triaged",
         "module: symm_mem",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653545063,
+      "number": 168569,
+      "title": "Test: AOTInductorTestsTemplate.test_triton_autotuning",
+      "url": "https://github.com/pytorch/pytorch/issues/168569",
+      "created_at": "2025-11-22T01:02:58Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "oncall: export",
+        "module: aotinductor",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653545123,
+      "number": 168571,
+      "title": "Test: AOTInductorTestsTemplate.test_triton_dynamic_launcher_grid",
+      "url": "https://github.com/pytorch/pytorch/issues/168571",
+      "created_at": "2025-11-22T01:03:01Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "oncall: export",
+        "module: aotinductor",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653545141,
+      "number": 168572,
+      "title": "Test: AOTInductorTestsTemplate.test_triton_dynamic_launcher_grid_infer_from_tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/168572",
+      "created_at": "2025-11-22T01:03:03Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "oncall: export",
+        "module: aotinductor",
         "rocm-skipped-tests"
       ],
       "has_linked_pr": false,
@@ -57975,8 +58074,126 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openai/openai-python",
+      "id": 3711899439,
+      "number": 2772,
+      "title": "ChatCompletionNamedToolChoiceParam does not match the object specified in the documentation",
+      "url": "https://github.com/openai/openai-python/issues/2772",
+      "created_at": "2025-12-09T17:18:35Z",
+      "user": "raphael-foliveira",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3711934108,
+      "number": 169965,
+      "title": "UNSTABLE rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169965",
+      "created_at": "2025-12-09T17:26:35Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3711946464,
+      "number": 16156,
+      "title": "Sample logits on CUDA memory before copying out to CPU",
+      "url": "https://github.com/pytorch/executorch/issues/16156",
+      "created_at": "2025-12-09T17:29:33Z",
+      "user": "larryliu0820",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3711955980,
+      "number": 16157,
+      "title": "Cross attention KV cache support in optimum-executorch",
+      "url": "https://github.com/pytorch/executorch/issues/16157",
+      "created_at": "2025-12-09T17:31:56Z",
+      "user": "larryliu0820",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3711957503,
+      "number": 16158,
+      "title": "Evaluate memory bound op performance on CPU",
+      "url": "https://github.com/pytorch/executorch/issues/16158",
+      "created_at": "2025-12-09T17:32:16Z",
+      "user": "GregoryComer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3711971941,
+      "number": 169966,
+      "title": "UNSTABLE inductor-rocm-mi200 / rocm-py3.10-inductor / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169966",
+      "created_at": "2025-12-09T17:35:36Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3711979045,
+      "number": 169967,
+      "title": "UNSTABLE slow-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/169967",
+      "created_at": "2025-12-09T17:37:20Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3711991714,
+      "number": 16159,
+      "title": "Better SDPA kernel on cuda gpu",
+      "url": "https://github.com/pytorch/executorch/issues/16159",
+      "created_at": "2025-12-09T17:40:58Z",
+      "user": "Gasoonjia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T17:18:20Z",
-  "total_count": 3856
+  "last_updated": "2025-12-09T17:44:30Z",
+  "total_count": 3869
 }

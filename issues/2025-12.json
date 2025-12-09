@@ -10821,5 +10821,123 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3711899439,
+    "number": 2772,
+    "title": "ChatCompletionNamedToolChoiceParam does not match the object specified in the documentation",
+    "url": "https://github.com/openai/openai-python/issues/2772",
+    "created_at": "2025-12-09T17:18:35Z",
+    "user": "raphael-foliveira",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711934108,
+    "number": 169965,
+    "title": "UNSTABLE rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169965",
+    "created_at": "2025-12-09T17:26:35Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3711946464,
+    "number": 16156,
+    "title": "Sample logits on CUDA memory before copying out to CPU",
+    "url": "https://github.com/pytorch/executorch/issues/16156",
+    "created_at": "2025-12-09T17:29:33Z",
+    "user": "larryliu0820",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3711955980,
+    "number": 16157,
+    "title": "Cross attention KV cache support in optimum-executorch",
+    "url": "https://github.com/pytorch/executorch/issues/16157",
+    "created_at": "2025-12-09T17:31:56Z",
+    "user": "larryliu0820",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3711957503,
+    "number": 16158,
+    "title": "Evaluate memory bound op performance on CPU",
+    "url": "https://github.com/pytorch/executorch/issues/16158",
+    "created_at": "2025-12-09T17:32:16Z",
+    "user": "GregoryComer",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711971941,
+    "number": 169966,
+    "title": "UNSTABLE inductor-rocm-mi200 / rocm-py3.10-inductor / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169966",
+    "created_at": "2025-12-09T17:35:36Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711979045,
+    "number": 169967,
+    "title": "UNSTABLE slow-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+    "url": "https://github.com/pytorch/pytorch/issues/169967",
+    "created_at": "2025-12-09T17:37:20Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3711991714,
+    "number": 16159,
+    "title": "Better SDPA kernel on cuda gpu",
+    "url": "https://github.com/pytorch/executorch/issues/16159",
+    "created_at": "2025-12-09T17:40:58Z",
+    "user": "Gasoonjia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

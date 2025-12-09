@@ -681,6 +681,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3583098073,
+    "number": 166875,
+    "title": "UNSTABLE periodic-rocm-mi200 / linux-jammy-rocm-py3.10 / test",
+    "url": "https://github.com/pytorch/pytorch/issues/166875",
+    "created_at": "2025-11-03T17:44:47Z",
+    "user": "jithunnair-amd",
+    "labels": [
+      "module: rocm",
+      "module: ci",
+      "triaged",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/accelerate",
     "id": 3583124124,
     "number": 3830,
@@ -5041,6 +5059,27 @@
     "created_at": "2025-11-14T09:12:03Z",
     "user": "johnnynunez",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3624719368,
+    "number": 58625,
+    "title": "[Compiled Graph] Network instability causes transient request blocking in multiples of RAY_CGRAPH_read_iteration_timeout_s during vLLM v1 API testing",
+    "url": "https://github.com/ray-project/ray/issues/58625",
+    "created_at": "2025-11-14T09:15:05Z",
+    "user": "Mei-pris",
+    "labels": [
+      "bug",
+      "P1",
+      "performance",
+      "core",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -9508,6 +9547,66 @@
       "module: rocm",
       "triaged",
       "module: symm_mem",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653545063,
+    "number": 168569,
+    "title": "Test: AOTInductorTestsTemplate.test_triton_autotuning",
+    "url": "https://github.com/pytorch/pytorch/issues/168569",
+    "created_at": "2025-11-22T01:02:58Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653545123,
+    "number": 168571,
+    "title": "Test: AOTInductorTestsTemplate.test_triton_dynamic_launcher_grid",
+    "url": "https://github.com/pytorch/pytorch/issues/168571",
+    "created_at": "2025-11-22T01:03:01Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653545141,
+    "number": 168572,
+    "title": "Test: AOTInductorTestsTemplate.test_triton_dynamic_launcher_grid_infer_from_tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/168572",
+    "created_at": "2025-11-22T01:03:03Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor",
       "rocm-skipped-tests"
     ],
     "has_linked_pr": false,
