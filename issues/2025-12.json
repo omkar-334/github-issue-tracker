@@ -11087,5 +11087,47 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3712602087,
+    "number": 169991,
+    "title": "aot_export_joint_with_descriptors don't work  with compile inside due to dynamo config",
+    "url": "https://github.com/pytorch/pytorch/issues/169991",
+    "created_at": "2025-12-09T20:48:58Z",
+    "user": "tugsbayasgalan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3712607270,
+    "number": 1908,
+    "title": "`TemplateProcessing` does not apply `type_id` to overflow encodings",
+    "url": "https://github.com/huggingface/tokenizers/issues/1908",
+    "created_at": "2025-12-09T20:50:38Z",
+    "user": "antoine-agthe-unity",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3712653354,
+    "number": 34272,
+    "title": "Responses API fails when assistant returns empty content",
+    "url": "https://github.com/langchain-ai/langchain/issues/34272",
+    "created_at": "2025-12-09T21:07:43Z",
+    "user": "Houston256",
+    "labels": [
+      "bug",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
