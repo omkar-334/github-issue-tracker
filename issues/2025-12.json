@@ -9782,6 +9782,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3709578521,
+    "number": 169926,
+    "title": "Failed to build PyTorch with CUDA by using clang with undefined reference of const_data_ptr in TensorBase",
+    "url": "https://github.com/pytorch/pytorch/issues/169926",
+    "created_at": "2025-12-09T07:18:42Z",
+    "user": "wenlujon",
+    "labels": [
+      "module: build",
+      "module: cuda",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3709588871,
     "number": 42728,
@@ -10008,6 +10025,51 @@
     "created_at": "2025-12-09T09:42:00Z",
     "user": "barakugav",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3710140402,
+    "number": 32870,
+    "title": "BUG: `DecisionTreeRegressor`: invalid impurity for `criterion=\"poisson\"` with missing values",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32870",
+    "created_at": "2025-12-09T10:06:41Z",
+    "user": "cakedev0",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/text-generation-inference",
+    "id": 3710154822,
+    "number": 3342,
+    "title": "FlashAttention CUDA \"no kernel image\" crash on RTX 5060 Ti",
+    "url": "https://github.com/huggingface/text-generation-inference/issues/3342",
+    "created_at": "2025-12-09T10:10:17Z",
+    "user": "pauli31",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3710182613,
+    "number": 59300,
+    "title": "[Data] Remove obsolete `_DatasetWrapper`",
+    "url": "https://github.com/ray-project/ray/issues/59300",
+    "created_at": "2025-12-09T10:17:24Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
