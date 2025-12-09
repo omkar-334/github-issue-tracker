@@ -9434,5 +9434,63 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3708546238,
+    "number": 5130,
+    "title": "`nnx.cached_partial` breaks `nnx.Module.sow` -> `nnx.pop` pattern",
+    "url": "https://github.com/google/flax/issues/5130",
+    "created_at": "2025-12-09T00:14:37Z",
+    "user": "am001122",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708652124,
+    "number": 169908,
+    "title": "num-stages can be too large for mix-order-reduction on large tensors",
+    "url": "https://github.com/pytorch/pytorch/issues/169908",
+    "created_at": "2025-12-09T00:56:37Z",
+    "user": "shunting314",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708663694,
+    "number": 169909,
+    "title": "[CI] cudaErrorInvalidValue in test_std_cuda_kernel_launch_check_error_show_cpp_stacktraces",
+    "url": "https://github.com/pytorch/pytorch/issues/169909",
+    "created_at": "2025-12-09T01:02:40Z",
+    "user": "tinglvv",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3708665457,
+    "number": 42723,
+    "title": "git-oss-20b will not properly load with MXFP4 quantization even though Triton version satisfys.",
+    "url": "https://github.com/huggingface/transformers/issues/42723",
+    "created_at": "2025-12-09T01:03:27Z",
+    "user": "nickeisenberg",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

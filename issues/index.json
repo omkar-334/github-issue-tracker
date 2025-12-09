@@ -1,19 +1,6 @@
 {
   "issues": [
     {
-      "repo": "stanfordnlp/dspy",
-      "id": 2724964721,
-      "number": 1904,
-      "title": "Support for Pydantic Model as Signature InputField type",
-      "url": "https://github.com/stanfordnlp/dspy/issues/1904",
-      "created_at": "2024-12-08T05:29:57Z",
-      "user": "rohitgarud",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "keras-team/keras-cv",
       "id": 2727627840,
       "number": 2509,
@@ -6652,6 +6639,22 @@
         "Bug",
         "help wanted",
         "Needs Investigation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3080941026,
+      "number": 11019,
+      "title": "[Bug]: AWS Sagemaker embedding calls are failing with a Jina endpoint",
+      "url": "https://github.com/BerriAI/litellm/issues/11019",
+      "created_at": "2025-05-21T17:21:13Z",
+      "user": "keyzou",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17613,6 +17616,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3390485654,
+      "number": 32835,
+      "title": "core: `ToolMessage.status` is not preserved by `core.messages.utils.convert_to_messages`",
+      "url": "https://github.com/langchain-ai/langchain/issues/32835",
+      "created_at": "2025-09-06T16:34:52Z",
+      "user": "Drew-Wagner",
+      "labels": [
+        "bug",
+        "investigate",
+        "core",
+        "v1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3391402299,
       "number": 2349,
@@ -17713,6 +17734,23 @@
       "created_at": "2025-09-08T04:41:49Z",
       "user": "santhoshtr",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3393273003,
+      "number": 14319,
+      "title": "[Bug]: \"Model + Endpoints\" and \"Model Hub\" prices sync problem",
+      "url": "https://github.com/BerriAI/litellm/issues/14319",
+      "created_at": "2025-09-08T08:58:21Z",
+      "user": "Valkea",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -18160,6 +18198,42 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3396522200,
+      "number": 14364,
+      "title": "[Bug]: Azure GPT-5 cannot match tokenizer",
+      "url": "https://github.com/BerriAI/litellm/issues/14364",
+      "created_at": "2025-09-09T04:20:10Z",
+      "user": "nitinkr0411",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3396788320,
+      "number": 14367,
+      "title": "[Feature]: Add configurable application identity mapping for Azure userSecurityContext(or generic)",
+      "url": "https://github.com/BerriAI/litellm/issues/14367",
+      "created_at": "2025-09-09T06:05:22Z",
+      "user": "TeddyAmkie",
+      "labels": [
+        "enhancement",
+        "llm translation",
+        "stale",
+        "enterprise"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3397033293,
       "number": 2351,
@@ -18184,6 +18258,22 @@
       "user": "amirkiarafiei",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3397930911,
+      "number": 14372,
+      "title": "[Bug]: Model names are missing in Top Models when navigating to Usage -> Team Usage and Tag Usage",
+      "url": "https://github.com/BerriAI/litellm/issues/14372",
+      "created_at": "2025-09-09T11:08:24Z",
+      "user": "VaibhavAttarde1999",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18243,6 +18333,22 @@
       "user": "clefourrier",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3398680653,
+      "number": 14376,
+      "title": "[Bug]: GitHub copilot business does not work",
+      "url": "https://github.com/BerriAI/litellm/issues/14376",
+      "created_at": "2025-09-09T14:13:37Z",
+      "user": "harkamals",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18320,6 +18426,24 @@
       "user": "tomgoddard",
       "labels": [
         "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3399754711,
+      "number": 14385,
+      "title": "[Feature]:  Extend OpenID to support optional roles, groups, entitlements, and extra (catch-all)",
+      "url": "https://github.com/BerriAI/litellm/issues/14385",
+      "created_at": "2025-09-09T19:56:24Z",
+      "user": "berri-teddy",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise",
+        "P0"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -20711,6 +20835,24 @@
       "created_at": "2025-09-24T12:27:33Z",
       "user": "rvramesh",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3449334226,
+      "number": 163759,
+      "title": "[dynamo] [dynamic] `torch.combinations` throws RuntimeError when `(backend=aot_eager, dynamic=True)`",
+      "url": "https://github.com/pytorch/pytorch/issues/163759",
+      "created_at": "2025-09-24T12:58:38Z",
+      "user": "shaoyuyoung",
+      "labels": [
+        "good first issue",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamic shapes"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -56111,8 +56253,66 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3708546238,
+      "number": 5130,
+      "title": "`nnx.cached_partial` breaks `nnx.Module.sow` -> `nnx.pop` pattern",
+      "url": "https://github.com/google/flax/issues/5130",
+      "created_at": "2025-12-09T00:14:37Z",
+      "user": "am001122",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3708652124,
+      "number": 169908,
+      "title": "num-stages can be too large for mix-order-reduction on large tensors",
+      "url": "https://github.com/pytorch/pytorch/issues/169908",
+      "created_at": "2025-12-09T00:56:37Z",
+      "user": "shunting314",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3708663694,
+      "number": 169909,
+      "title": "[CI] cudaErrorInvalidValue in test_std_cuda_kernel_launch_check_error_show_cpp_stacktraces",
+      "url": "https://github.com/pytorch/pytorch/issues/169909",
+      "created_at": "2025-12-09T01:02:40Z",
+      "user": "tinglvv",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3708665457,
+      "number": 42723,
+      "title": "git-oss-20b will not properly load with MXFP4 quantization even though Triton version satisfys.",
+      "url": "https://github.com/huggingface/transformers/issues/42723",
+      "created_at": "2025-12-09T01:03:27Z",
+      "user": "nickeisenberg",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-08T23:39:27Z",
-  "total_count": 3734
+  "last_updated": "2025-12-09T01:12:52Z",
+  "total_count": 3746
 }
