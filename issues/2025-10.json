@@ -1223,6 +1223,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3495407861,
+    "number": 164932,
+    "title": "Adagrad docs reference SGD instead of Adagrad",
+    "url": "https://github.com/pytorch/pytorch/issues/164932",
+    "created_at": "2025-10-08T13:15:47Z",
+    "user": "benjaminbolling",
+    "labels": [
+      "module: docs",
+      "module: autograd",
+      "triaged",
+      "actionable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3495742177,
     "number": 41454,

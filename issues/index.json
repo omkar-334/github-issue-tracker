@@ -1480,6 +1480,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2816546277,
+      "number": 145864,
+      "title": "Segmentation fault at _rowwise_prune with convert_hf_to_gguf from llama.cpp",
+      "url": "https://github.com/pytorch/pytorch/issues/145864",
+      "created_at": "2025-01-28T19:29:21Z",
+      "user": "atmaranto",
+      "labels": [
+        "module: crash",
+        "module: windows",
+        "triaged",
+        "module: 64-bit"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2817551627,
       "number": 2062,
@@ -23232,6 +23250,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3495407861,
+      "number": 164932,
+      "title": "Adagrad docs reference SGD instead of Adagrad",
+      "url": "https://github.com/pytorch/pytorch/issues/164932",
+      "created_at": "2025-10-08T13:15:47Z",
+      "user": "benjaminbolling",
+      "labels": [
+        "module: docs",
+        "module: autograd",
+        "triaged",
+        "actionable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3495742177,
       "number": 41454,
@@ -38749,6 +38785,21 @@
       "created_at": "2025-11-21T21:36:03Z",
       "user": "ibbyml",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3653323786,
+      "number": 16944,
+      "title": "[Feature]: Allow uploading agent.json files for the new A2A Agent in AI HUB",
+      "url": "https://github.com/BerriAI/litellm/issues/16944",
+      "created_at": "2025-11-21T22:53:15Z",
+      "user": "metalshanked",
+      "labels": [
+        "enhancement"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -56820,8 +56871,37 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3709804439,
+      "number": 34261,
+      "title": "[Feature]: please add \"respond\" to \"allowed_decisions\" in Human-in-the-loop middleware",
+      "url": "https://github.com/langchain-ai/langchain/issues/34261",
+      "created_at": "2025-12-09T08:33:56Z",
+      "user": "KonghaYao",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3709812134,
+      "number": 2944,
+      "title": "enusre_weight_tying = True does not respect the model config tie_word_embeddings flag",
+      "url": "https://github.com/huggingface/peft/issues/2944",
+      "created_at": "2025-12-09T08:36:16Z",
+      "user": "romitjain",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T08:24:16Z",
-  "total_count": 3779
+  "last_updated": "2025-12-09T08:52:27Z",
+  "total_count": 3784
 }

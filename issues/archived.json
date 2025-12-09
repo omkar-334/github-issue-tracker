@@ -1,47 +1,16 @@
 [
   {
-    "repo": "openml/openml-python",
-    "id": 556290842,
-    "number": 896,
-    "title": "Edit (some) fields of flow after upload?",
-    "url": "https://github.com/openml/openml-python/issues/896",
-    "created_at": "2020-01-28T15:37:24Z",
-    "user": "PGijsbers",
+    "repo": "pytorch/pytorch",
+    "id": 1565235122,
+    "number": 93531,
+    "title": "TorchInductor CPU Performance Dashboard",
+    "url": "https://github.com/pytorch/pytorch/issues/93531",
+    "created_at": "2022-10-13T02:29:48Z",
+    "user": "blzheng",
     "labels": [
-      "question",
-      "Feature request"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 1647478756,
-    "number": 26024,
-    "title": "Make more of the \"tools\" of scikit-learn Array API compatible",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/26024",
-    "created_at": "2023-03-30T12:01:18Z",
-    "user": "betatim",
-    "labels": [
-      "API",
-      "Meta-issue",
-      "Array API"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "keras-team/keras",
-    "id": 2254529820,
-    "number": 19571,
-    "title": "MLX Backend ",
-    "url": "https://github.com/keras-team/keras/issues/19571",
-    "created_at": "2024-04-20T12:26:19Z",
-    "user": "lkarthee",
-    "labels": [
-      "stat:contributions welcome"
+      "triaged",
+      "oncall: pt2",
+      "oncall: cpu inductor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

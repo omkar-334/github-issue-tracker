@@ -956,6 +956,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2816546277,
+    "number": 145864,
+    "title": "Segmentation fault at _rowwise_prune with convert_hf_to_gguf from llama.cpp",
+    "url": "https://github.com/pytorch/pytorch/issues/145864",
+    "created_at": "2025-01-28T19:29:21Z",
+    "user": "atmaranto",
+    "labels": [
+      "module: crash",
+      "module: windows",
+      "triaged",
+      "module: 64-bit"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2817551627,
     "number": 2062,
