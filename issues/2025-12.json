@@ -9492,5 +9492,79 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3708685610,
+    "number": 169910,
+    "title": "DISABLED test_addmm_activation_fusion (__main__.TestPatternMatcher)",
+    "url": "https://github.com/pytorch/pytorch/issues/169910",
+    "created_at": "2025-12-09T01:14:20Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3708691848,
+    "number": 2126,
+    "title": "precommit run fails to install all dependencies on 3.14",
+    "url": "https://github.com/pytorch/torchtitan/issues/2126",
+    "created_at": "2025-12-09T01:18:03Z",
+    "user": "divyanshk",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3708722952,
+    "number": 2392,
+    "title": "Request for new patch release",
+    "url": "https://github.com/huggingface/optimum/issues/2392",
+    "created_at": "2025-12-09T01:33:56Z",
+    "user": "jackzhxng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3708741751,
+    "number": 17687,
+    "title": "[Bug]: Litellm content filter Guardrail only handle first Matching regex text",
+    "url": "https://github.com/BerriAI/litellm/issues/17687",
+    "created_at": "2025-12-09T01:43:39Z",
+    "user": "EcoleKeine",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3708805007,
+    "number": 17688,
+    "title": "[Bug]: concurrent_requests in litellm backend limited to 100 when use lighteval",
+    "url": "https://github.com/BerriAI/litellm/issues/17688",
+    "created_at": "2025-12-09T02:11:20Z",
+    "user": "yt0428",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
