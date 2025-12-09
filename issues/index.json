@@ -56639,8 +56639,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "axolotl-ai-cloud/axolotl",
+      "id": 3709539460,
+      "number": 3312,
+      "title": "[ New model ] GLM-4.6V",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3312",
+      "created_at": "2025-12-09T07:04:12Z",
+      "user": "NanoCode012",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3709546687,
+      "number": 169925,
+      "title": "[Issue]: Compiling PyTorch tag v2.8.0 to support the ROCM backend resulted in an error: \"composablekernel\" compilation error",
+      "url": "https://github.com/pytorch/pytorch/issues/169925",
+      "created_at": "2025-12-09T07:06:42Z",
+      "user": "WsqRichards",
+      "labels": [
+        "module: rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T06:55:25Z",
-  "total_count": 3767
+  "last_updated": "2025-12-09T07:20:00Z",
+  "total_count": 3769
 }
