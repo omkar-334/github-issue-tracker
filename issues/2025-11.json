@@ -9575,6 +9575,26 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653545095,
+    "number": 168570,
+    "title": "Test: AOTInductorTestsTemplate.test_triton_mutated_autotuning",
+    "url": "https://github.com/pytorch/pytorch/issues/168570",
+    "created_at": "2025-11-22T01:03:00Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "oncall: export",
+      "module: aotinductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653545123,
     "number": 168571,
     "title": "Test: AOTInductorTestsTemplate.test_triton_dynamic_launcher_grid",
