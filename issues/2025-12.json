@@ -9911,5 +9911,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3709887290,
+    "number": 3695,
+    "title": "[Bug] AttributeError: 'int' object has no attribute 'mean'",
+    "url": "https://github.com/unslothai/unsloth/issues/3695",
+    "created_at": "2025-12-09T08:58:36Z",
+    "user": "DSheth97",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3709917935,
+    "number": 3735,
+    "title": "Interaction Issue: New tab via Target.createTarget sometimes has no session; navigate(new_tab=True) fails with \"Target ... not found\" and focus assertion",
+    "url": "https://github.com/browser-use/browser-use/issues/3735",
+    "created_at": "2025-12-09T09:07:15Z",
+    "user": "atahan150",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3709927645,
+    "number": 17701,
+    "title": "[Bug]: Type Union Syntax Unsupported on Python 3.9",
+    "url": "https://github.com/BerriAI/litellm/issues/17701",
+    "created_at": "2025-12-09T09:09:35Z",
+    "user": "alexander-alderman-webb",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
