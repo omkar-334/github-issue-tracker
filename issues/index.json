@@ -58451,8 +58451,121 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3712906763,
+      "number": 63317,
+      "title": "BUG: `DataFrame.apply(axis='columns')` loses pyarrow-backed dtypes / does not preserve dtype_backend",
+      "url": "https://github.com/pandas-dev/pandas/issues/63317",
+      "created_at": "2025-12-09T22:46:44Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712931500,
+      "number": 170003,
+      "title": "batch_isend_irecv with nccl causes illegal memory access depending on P2P ordering",
+      "url": "https://github.com/pytorch/pytorch/issues/170003",
+      "created_at": "2025-12-09T22:56:40Z",
+      "user": "wdykas",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3712946025,
+      "number": 34274,
+      "title": "LLMToolEmulator Class Redundant Condition, and ImportError with Default State",
+      "url": "https://github.com/langchain-ai/langchain/issues/34274",
+      "created_at": "2025-12-09T23:02:35Z",
+      "user": "ahmed33033",
+      "labels": [
+        "bug",
+        "langchain",
+        "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3712947667,
+      "number": 59321,
+      "title": "[serve] [llm] Test coverage for new vllm structured output API",
+      "url": "https://github.com/ray-project/ray/issues/59321",
+      "created_at": "2025-12-09T23:03:25Z",
+      "user": "Aydin-ab",
+      "labels": [
+        "triage",
+        "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712962926,
+      "number": 170005,
+      "title": "DISABLED test_default_device_factory_functions_priority (__main__.TorchFunctionModeTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/170005",
+      "created_at": "2025-12-09T23:10:41Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712963075,
+      "number": 170006,
+      "title": "DISABLED test_default_device_factory_functions (__main__.TorchFunctionModeTests)",
+      "url": "https://github.com/pytorch/pytorch/issues/170006",
+      "created_at": "2025-12-09T23:10:45Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3712964926,
+      "number": 170007,
+      "title": "DISABLED test_buffer_mutation_and_force_mmap_weights_xpu (__main__.AOTInductorTestABICompatibleGpu)",
+      "url": "https://github.com/pytorch/pytorch/issues/170007",
+      "created_at": "2025-12-09T23:11:30Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T22:41:03Z",
-  "total_count": 3886
+  "last_updated": "2025-12-09T23:16:33Z",
+  "total_count": 3893
 }
