@@ -57498,6 +57498,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3710406807,
+      "number": 169939,
+      "title": "TypeError in CudagraphsBackend when using torch.compile with options parameter",
+      "url": "https://github.com/pytorch/pytorch/issues/169939",
+      "created_at": "2025-12-09T11:16:07Z",
+      "user": "jikechao",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/peft",
       "id": 3710435299,
       "number": 2945,
@@ -58255,6 +58270,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-09T18:21:55Z",
-  "total_count": 3873
+  "last_updated": "2025-12-09T18:51:00Z",
+  "total_count": 3874
 }
