@@ -10676,5 +10676,47 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3711673440,
+    "number": 2946,
+    "title": "KeyError: 'token_adapter.trainable_tokens_delta.default' when saving checkpoint with trainable_token_indices and DeepSpeed ZeRO-3",
+    "url": "https://github.com/huggingface/peft/issues/2946",
+    "created_at": "2025-12-09T16:21:46Z",
+    "user": "p1kachu2233",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3711751590,
+    "number": 7900,
+    "title": "`Permission denied` when sharing cache between users",
+    "url": "https://github.com/huggingface/datasets/issues/7900",
+    "created_at": "2025-12-09T16:41:47Z",
+    "user": "qthequartermasterman",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3711759043,
+    "number": 24125,
+    "title": "MAINT: wheel build/upload failures",
+    "url": "https://github.com/scipy/scipy/issues/24125",
+    "created_at": "2025-12-09T16:43:40Z",
+    "user": "tylerjereddy",
+    "labels": [
+      "Official binaries",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
