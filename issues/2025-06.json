@@ -825,6 +825,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3134718136,
+    "number": 155597,
+    "title": "[libtorch] Crash on creating torch::optim::Adam optimizer for Windows",
+    "url": "https://github.com/pytorch/pytorch/issues/155597",
+    "created_at": "2025-06-10T20:05:33Z",
+    "user": "miriameng",
+    "labels": [
+      "needs reproduction",
+      "module: crash",
+      "module: windows",
+      "module: cpp",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3135252686,
     "number": 1795,

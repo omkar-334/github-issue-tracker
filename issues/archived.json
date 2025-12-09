@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "streamlit/streamlit",
+    "id": 1713271514,
+    "number": 6700,
+    "title": "Drag-and-drop reordering for st.multiselect",
+    "url": "https://github.com/streamlit/streamlit/issues/6700",
+    "created_at": "2023-05-17T07:11:22Z",
+    "user": "arogozhnikov",
+    "labels": [
+      "type:enhancement",
+      "feature:st.multiselect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
