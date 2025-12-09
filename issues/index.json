@@ -12132,6 +12132,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3256373052,
+      "number": 158917,
+      "title": "[Feat] Tracking for OpenReg Improvements",
+      "url": "https://github.com/pytorch/pytorch/issues/158917",
+      "created_at": "2025-07-23T13:18:40Z",
+      "user": "fffrog",
+      "labels": [
+        "triaged",
+        "module: PrivateUse1",
+        "module: openreg"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3256544490,
       "number": 3462,
@@ -15457,6 +15474,26 @@
       "user": "djsaunde",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3357641835,
+      "number": 161580,
+      "title": "DISABLED test_toy_model_dynamic_batch (__main__.FxGraphRunnableTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/161580",
+      "created_at": "2025-08-27T01:01:44Z",
+      "user": "pytorch-bot[bot]",
+      "labels": [
+        "triaged",
+        "module: flaky-tests",
+        "skipped",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: xpu"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -56509,8 +56546,42 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3709356059,
+      "number": 34260,
+      "title": "chat_stream() 流式接口 - 使用 llm.stream() - 无法获取精确 usage",
+      "url": "https://github.com/langchain-ai/langchain/issues/34260",
+      "created_at": "2025-12-09T05:56:48Z",
+      "user": "TmacChenQian",
+      "labels": [
+        "bug",
+        "langchain",
+        "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3709366059,
+      "number": 169924,
+      "title": "DISABLED test_reduce_scatter_collective (__main__.FxGraphRunnableTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/169924",
+      "created_at": "2025-12-09T06:00:34Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T05:44:00Z",
-  "total_count": 3759
+  "last_updated": "2025-12-09T06:25:57Z",
+  "total_count": 3763
 }

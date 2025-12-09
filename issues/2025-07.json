@@ -2551,6 +2551,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3256373052,
+    "number": 158917,
+    "title": "[Feat] Tracking for OpenReg Improvements",
+    "url": "https://github.com/pytorch/pytorch/issues/158917",
+    "created_at": "2025-07-23T13:18:40Z",
+    "user": "fffrog",
+    "labels": [
+      "triaged",
+      "module: PrivateUse1",
+      "module: openreg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3256544490,
     "number": 3462,

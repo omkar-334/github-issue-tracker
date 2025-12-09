@@ -9675,5 +9675,39 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3709356059,
+    "number": 34260,
+    "title": "chat_stream() 流式接口 - 使用 llm.stream() - 无法获取精确 usage",
+    "url": "https://github.com/langchain-ai/langchain/issues/34260",
+    "created_at": "2025-12-09T05:56:48Z",
+    "user": "TmacChenQian",
+    "labels": [
+      "bug",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3709366059,
+    "number": 169924,
+    "title": "DISABLED test_reduce_scatter_collective (__main__.FxGraphRunnableTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/169924",
+    "created_at": "2025-12-09T06:00:34Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
