@@ -56461,8 +56461,41 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3709203752,
+      "number": 169921,
+      "title": "[Cutedsl] Cute.compile seems incompat w/ cudagraphtrees",
+      "url": "https://github.com/pytorch/pytorch/issues/169921",
+      "created_at": "2025-12-09T04:47:26Z",
+      "user": "drisspg",
+      "labels": [
+        "module: cuda",
+        "module: cuda graphs",
+        "topic: bug fixes"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3709226657,
+      "number": 17696,
+      "title": "[Bug]: Gemini request fails when cache size is too small",
+      "url": "https://github.com/BerriAI/litellm/issues/17696",
+      "created_at": "2025-12-09T04:59:45Z",
+      "user": "ahabhgk",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T04:48:48Z",
-  "total_count": 3756
+  "last_updated": "2025-12-09T05:17:05Z",
+  "total_count": 3758
 }
