@@ -10433,5 +10433,128 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3711022765,
+    "number": 59307,
+    "title": "[RayLib]S upport for Dreamer 4 world-model / imagination-training RL agent",
+    "url": "https://github.com/ray-project/ray/issues/59307",
+    "created_at": "2025-12-09T13:48:53Z",
+    "user": "merhovon",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3711048020,
+    "number": 32872,
+    "title": "`DecisionBoundaryDisplay` with `response_method=\"predict\"`  has inconsistent handling for the colormap in the multiclass case",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32872",
+    "created_at": "2025-12-09T13:55:04Z",
+    "user": "ogrisel",
+    "labels": [
+      "Bug",
+      "module:inspection"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3711051533,
+    "number": 59308,
+    "title": "[Core][Observability] Add log context for common Ray sync files.",
+    "url": "https://github.com/ray-project/ray/issues/59308",
+    "created_at": "2025-12-09T13:56:01Z",
+    "user": "kriyanshii",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711088907,
+    "number": 169951,
+    "title": "a test in `transformers` fails with torch 2.10.0 nightly but passes with torch 2.9.1",
+    "url": "https://github.com/pytorch/pytorch/issues/169951",
+    "created_at": "2025-12-09T14:05:36Z",
+    "user": "ydshieh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711089316,
+    "number": 169952,
+    "title": "a test in `transformers` fails with torch 2.10.0 nightly but passes with torch 2.9.1",
+    "url": "https://github.com/pytorch/pytorch/issues/169952",
+    "created_at": "2025-12-09T14:05:43Z",
+    "user": "ydshieh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711089588,
+    "number": 169953,
+    "title": "a test in `transformers` fails with torch 2.10.0 nightly but passes with torch 2.9.1",
+    "url": "https://github.com/pytorch/pytorch/issues/169953",
+    "created_at": "2025-12-09T14:05:47Z",
+    "user": "ydshieh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3711097149,
+    "number": 42740,
+    "title": "how to train trocr with transformers 4.57+?",
+    "url": "https://github.com/huggingface/transformers/issues/42740",
+    "created_at": "2025-12-09T14:07:50Z",
+    "user": "cqray1990",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3711110079,
+    "number": 19301,
+    "title": "\"GET /index.html HTTP/1.1\" 404 Not Found",
+    "url": "https://github.com/mlflow/mlflow/issues/19301",
+    "created_at": "2025-12-09T14:11:10Z",
+    "user": "hadmi1979",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3711122573,
+    "number": 9307,
+    "title": "Python 3.14.1 incompatibility",
+    "url": "https://github.com/pytorch/vision/issues/9307",
+    "created_at": "2025-12-09T14:14:20Z",
+    "user": "adamjstewart",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
