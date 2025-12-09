@@ -8090,6 +8090,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3132833393,
+      "number": 155551,
+      "title": "get_ema_multi_avg_fn() equation is a little confused",
+      "url": "https://github.com/pytorch/pytorch/issues/155551",
+      "created_at": "2025-06-10T09:28:30Z",
+      "user": "nstalways",
+      "labels": [
+        "module: docs",
+        "module: optimizer",
+        "good first issue",
+        "triaged",
+        "easy"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 3132900976,
       "number": 23141,
@@ -9212,6 +9231,21 @@
       "created_at": "2025-06-24T08:53:12Z",
       "user": "iqiancheng",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3171278538,
+      "number": 8446,
+      "title": "[BUG] `RecursiveReductionForecaster` should support `\"capability:missing_values\": True`",
+      "url": "https://github.com/sktime/sktime/issues/8446",
+      "created_at": "2025-06-24T09:55:35Z",
+      "user": "marrov",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -32650,6 +32684,21 @@
         "module: binaries",
         "module: rocm",
         "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3603598722,
+      "number": 42109,
+      "title": "Potential bug in xLSTM (native) training",
+      "url": "https://github.com/huggingface/transformers/issues/42109",
+      "created_at": "2025-11-08T14:09:58Z",
+      "user": "stefan-it",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -56684,8 +56733,95 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3709689756,
+      "number": 169929,
+      "title": "Python 3.14 – No CUDA/GPU Wheels Available (Only CPU Build Installed)",
+      "url": "https://github.com/pytorch/pytorch/issues/169929",
+      "created_at": "2025-12-09T07:57:15Z",
+      "user": "ashikauk24-source",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3709704116,
+      "number": 17698,
+      "title": "[Bug]: Qwen3-Omni /audio/transcriptions not supported",
+      "url": "https://github.com/BerriAI/litellm/issues/17698",
+      "created_at": "2025-12-09T08:02:33Z",
+      "user": "janmett",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numba/numba",
+      "id": 3709720708,
+      "number": 10372,
+      "title": "Redirect old documentation page to new",
+      "url": "https://github.com/numba/numba/issues/10372",
+      "created_at": "2025-12-09T08:08:26Z",
+      "user": "maxnoe",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3709723940,
+      "number": 169930,
+      "title": "`clip_grad_norm_` throws a CUDA illegal memory access error when a tensor has more than 2^31 elements when foreach=None",
+      "url": "https://github.com/pytorch/pytorch/issues/169930",
+      "created_at": "2025-12-09T08:09:35Z",
+      "user": "david-abr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3709728596,
+      "number": 32869,
+      "title": "Classwise (group) L21 penalty for multinomial LogisticRegression",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32869",
+      "created_at": "2025-12-09T08:11:14Z",
+      "user": "lorentzenchr",
+      "labels": [
+        "New Feature",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3709739484,
+      "number": 17699,
+      "title": "[Bug]: The parameters in the Model HUB are not synchronized",
+      "url": "https://github.com/BerriAI/litellm/issues/17699",
+      "created_at": "2025-12-09T08:15:00Z",
+      "user": "jackmachine3d",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T07:42:31Z",
-  "total_count": 3770
+  "last_updated": "2025-12-09T08:24:16Z",
+  "total_count": 3779
 }

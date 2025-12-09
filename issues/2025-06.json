@@ -747,6 +747,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3132833393,
+    "number": 155551,
+    "title": "get_ema_multi_avg_fn() equation is a little confused",
+    "url": "https://github.com/pytorch/pytorch/issues/155551",
+    "created_at": "2025-06-10T09:28:30Z",
+    "user": "nstalways",
+    "labels": [
+      "module: docs",
+      "module: optimizer",
+      "good first issue",
+      "triaged",
+      "easy"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3132900976,
     "number": 23141,
@@ -1854,6 +1873,21 @@
     "created_at": "2025-06-24T08:53:12Z",
     "user": "iqiancheng",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3171278538,
+    "number": 8446,
+    "title": "[BUG] `RecursiveReductionForecaster` should support `\"capability:missing_values\": True`",
+    "url": "https://github.com/sktime/sktime/issues/8446",
+    "created_at": "2025-06-24T09:55:35Z",
+    "user": "marrov",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
