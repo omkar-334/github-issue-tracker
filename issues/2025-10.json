@@ -838,6 +838,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3485468290,
+    "number": 164712,
+    "title": "MPS test failures on MacOS Tahoe",
+    "url": "https://github.com/pytorch/pytorch/issues/164712",
+    "created_at": "2025-10-06T02:20:31Z",
+    "user": "malfet",
+    "labels": [
+      "module: tests",
+      "triaged",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3485745640,
     "number": 32393,

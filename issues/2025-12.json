@@ -11258,5 +11258,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3713006987,
+    "number": 13280,
+    "title": "Theme selection (Light/Dark) does not persist across reruns in Streamlit 1.51",
+    "url": "https://github.com/streamlit/streamlit/issues/13280",
+    "created_at": "2025-12-09T23:36:04Z",
+    "user": "marinang",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
