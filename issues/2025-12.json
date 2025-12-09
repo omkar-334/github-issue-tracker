@@ -10556,5 +10556,34 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711180452,
+    "number": 169954,
+    "title": "How to prevent landing PRs on sparse tensors that should be rejected?",
+    "url": "https://github.com/pytorch/pytorch/issues/169954",
+    "created_at": "2025-12-09T14:27:46Z",
+    "user": "pearu",
+    "labels": [
+      "triage review",
+      "module: sparse"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3711189822,
+    "number": 169955,
+    "title": "[Bug] Potential command injection risk (shell=True) in subprocess",
+    "url": "https://github.com/pytorch/pytorch/issues/169955",
+    "created_at": "2025-12-09T14:29:38Z",
+    "user": "lingebeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
