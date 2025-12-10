@@ -12387,5 +12387,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3716476025,
+    "number": 170110,
+    "title": "Submodule forward hook with kwargs cause recompilation",
+    "url": "https://github.com/pytorch/pytorch/issues/170110",
+    "created_at": "2025-12-10T19:19:10Z",
+    "user": "fegin",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3716485372,
+    "number": 17777,
+    "title": "[Bug]: Configuring OTEL_ENDPOINT via config.yaml doesn't work",
+    "url": "https://github.com/BerriAI/litellm/issues/17777",
+    "created_at": "2025-12-10T19:22:38Z",
+    "user": "karpikpl",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

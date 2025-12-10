@@ -1,5 +1,40 @@
 [
   {
+    "repo": "streamlit/streamlit",
+    "id": 1286042253,
+    "number": 4897,
+    "title": "Make the `format` parameter of  `st.number_input` support the full set of formats",
+    "url": "https://github.com/streamlit/streamlit/issues/4897",
+    "created_at": "2022-06-27T16:19:25Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "feature:st.number_input"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 2314221320,
+    "number": 8760,
+    "title": "plotly_chart `on_select` not returning anything for an imshow or heatmap",
+    "url": "https://github.com/streamlit/streamlit/issues/8760",
+    "created_at": "2024-05-24T02:49:55Z",
+    "user": "hoggatt",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.plotly_chart",
+      "area:events"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 2526848608,
     "number": 5381,

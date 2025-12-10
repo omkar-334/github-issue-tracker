@@ -1682,6 +1682,22 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3235764556,
+    "number": 54660,
+    "title": "[Core] IPv6 Support",
+    "url": "https://github.com/ray-project/ray/issues/54660",
+    "created_at": "2025-07-16T12:29:43Z",
+    "user": "Basasuya",
+    "labels": [
+      "enhancement",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3235980476,
     "number": 3296,
