@@ -4684,6 +4684,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3443261850,
+    "number": 163595,
+    "title": "DISABLED test_toy_model_basic (__main__.FxGraphRunnableTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/163595",
+    "created_at": "2025-09-23T01:02:43Z",
+    "user": "pytorch-bot[bot]",
+    "labels": [
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3445198831,
     "number": 988,

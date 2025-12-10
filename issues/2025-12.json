@@ -12591,5 +12591,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3717044049,
+    "number": 17793,
+    "title": "Docs: Gemini CLI tutorial missing /gemini suffix and incorrectly claims Vertex AI compatibility",
+    "url": "https://github.com/BerriAI/litellm/issues/17793",
+    "created_at": "2025-12-10T22:54:36Z",
+    "user": "brandomagnani",
+    "labels": [
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3717086998,
+    "number": 17794,
+    "title": "[Bug]: OTEL callback not following the latest opentelemetry semantic conventions",
+    "url": "https://github.com/BerriAI/litellm/issues/17794",
+    "created_at": "2025-12-10T23:12:27Z",
+    "user": "RossKlein",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
