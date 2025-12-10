@@ -2365,6 +2365,54 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3400757244,
+    "number": 14389,
+    "title": "[Feature]: when filtering by tags, wildcard filters should be supported",
+    "url": "https://github.com/BerriAI/litellm/issues/14389",
+    "created_at": "2025-09-10T03:24:39Z",
+    "user": "aunt-bitsy",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3400763407,
+    "number": 14390,
+    "title": "[Feature]: metrics for individual keys should include cost breakdowns by tag",
+    "url": "https://github.com/BerriAI/litellm/issues/14390",
+    "created_at": "2025-09-10T03:27:00Z",
+    "user": "aunt-bitsy",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3400980846,
+    "number": 14394,
+    "title": "[Bug]: Litellm and uvicorn version conflict in Python3.13",
+    "url": "https://github.com/BerriAI/litellm/issues/14394",
+    "created_at": "2025-09-10T05:29:20Z",
+    "user": "VisheshK183",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3401182957,
     "number": 3145,
@@ -2374,6 +2422,24 @@
     "user": "ved1beta",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3401547243,
+    "number": 14396,
+    "title": "[Bug]: ca bundle and client certificate ignored by get_ssl_configuration when litellm.ssl_verify is set to a ssl.SSLContext",
+    "url": "https://github.com/BerriAI/litellm/issues/14396",
+    "created_at": "2025-09-10T08:48:49Z",
+    "user": "ragnarotech",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2461,6 +2527,88 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3402080663,
+    "number": 14399,
+    "title": "[Bug]: appends exc as text",
+    "url": "https://github.com/BerriAI/litellm/issues/14399",
+    "created_at": "2025-09-10T11:28:41Z",
+    "user": "r-sayar",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3402105177,
+    "number": 14400,
+    "title": "[Feature]: Add built-in migration lock & startup gating to prevent multi-pod Prisma migrate deploy races",
+    "url": "https://github.com/BerriAI/litellm/issues/14400",
+    "created_at": "2025-09-10T11:36:49Z",
+    "user": "minijeong-log",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3402190217,
+    "number": 14402,
+    "title": "[Bug]: see error",
+    "url": "https://github.com/BerriAI/litellm/issues/14402",
+    "created_at": "2025-09-10T12:03:31Z",
+    "user": "r-sayar",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3402227657,
+    "number": 14403,
+    "title": "[Bug]: Fallback not working for Embeddings",
+    "url": "https://github.com/BerriAI/litellm/issues/14403",
+    "created_at": "2025-09-10T12:14:47Z",
+    "user": "ringuerel",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3402879059,
+    "number": 14406,
+    "title": "[Bug]: LangFuse as Logging Callbacks throws errors",
+    "url": "https://github.com/BerriAI/litellm/issues/14406",
+    "created_at": "2025-09-10T15:12:59Z",
+    "user": "mboehmic",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3402932023,
     "number": 21655,
@@ -2470,6 +2618,41 @@
     "user": "innat",
     "labels": [
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3402955618,
+    "number": 14409,
+    "title": "[Bug]: UI User Agent Activity Page Inaccurate Reporting",
+    "url": "https://github.com/BerriAI/litellm/issues/14409",
+    "created_at": "2025-09-10T15:36:10Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3403003522,
+    "number": 14411,
+    "title": "[Bug]: UI - Error Failed to fetch team settings in Admin UI",
+    "url": "https://github.com/BerriAI/litellm/issues/14411",
+    "created_at": "2025-09-10T15:53:10Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise",
+      "P2"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2486,6 +2669,23 @@
     "labels": [
       "bug",
       "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3403023032,
+    "number": 14412,
+    "title": "[Feature]: UI User Agent Activity Aggregation",
+    "url": "https://github.com/BerriAI/litellm/issues/14412",
+    "created_at": "2025-09-10T16:00:28Z",
+    "user": "berri-teddy",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

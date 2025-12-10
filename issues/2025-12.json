@@ -11274,5 +11274,111 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3713027876,
+    "number": 3740,
+    "title": "Bug: ActionResult images broken with google gen-ai bump",
+    "url": "https://github.com/browser-use/browser-use/issues/3740",
+    "created_at": "2025-12-09T23:49:32Z",
+    "user": "glaw1300",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3713052384,
+    "number": 2133,
+    "title": "Duplicated AG/RS issued from Simple FSDP if there are multiple reference to the same parameters",
+    "url": "https://github.com/pytorch/torchtitan/issues/2133",
+    "created_at": "2025-12-10T00:03:54Z",
+    "user": "yanboliang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3713115899,
+    "number": 42754,
+    "title": "Excluding weight decay not working properly on most LMs",
+    "url": "https://github.com/huggingface/transformers/issues/42754",
+    "created_at": "2025-12-10T00:36:55Z",
+    "user": "wwt17",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713136045,
+    "number": 170016,
+    "title": "Conv2d produces numerically inconsistent results compared to other DL frameworks (TensorFlow / Paddle / MindSpore)",
+    "url": "https://github.com/pytorch/pytorch/issues/170016",
+    "created_at": "2025-12-10T00:49:22Z",
+    "user": "tingPetty",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3713172180,
+    "number": 59325,
+    "title": "[Data][LLM] Add `continue_on_error` support for ServeDeploymentStage (Data <> Serve)",
+    "url": "https://github.com/ray-project/ray/issues/59325",
+    "created_at": "2025-12-10T01:09:47Z",
+    "user": "nrghosh",
+    "labels": [
+      "enhancement",
+      "triage",
+      "data",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713175602,
+    "number": 170020,
+    "title": "DISABLED test_extern_kernel_benchmark_request_variations (__main__.TestExternKernelCaller)",
+    "url": "https://github.com/pytorch/pytorch/issues/170020",
+    "created_at": "2025-12-10T01:11:41Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713177871,
+    "number": 170021,
+    "title": "DISABLED test_qlinear_add_int8_mixed_bf16_xpu_use_relu_True_is_qat_False_is_dynamic_False (__main__.TestPatternMatcher)",
+    "url": "https://github.com/pytorch/pytorch/issues/170021",
+    "created_at": "2025-12-10T01:12:54Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

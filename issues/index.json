@@ -1,36 +1,6 @@
 {
   "issues": [
     {
-      "repo": "keras-team/keras-cv",
-      "id": 2727627840,
-      "number": 2509,
-      "title": "Division of data into training and validation set  & COCO Metric Callback not working with Keras CV implementation as expected",
-      "url": "https://github.com/keras-team/keras-cv/issues/2509",
-      "created_at": "2024-12-09T16:26:38Z",
-      "user": "alinaivanovaoff",
-      "labels": [
-        "stat:awaiting response from contributor"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "keras-team/keras-hub",
-      "id": 2727689516,
-      "number": 2015,
-      "title": "How to export `Tokenizer`-s?",
-      "url": "https://github.com/keras-team/keras-hub/issues/2015",
-      "created_at": "2024-12-09T16:50:52Z",
-      "user": "fdtomasi",
-      "labels": [
-        "type:Bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "3b1b/manim",
       "id": 2730661406,
       "number": 2263,
@@ -7702,6 +7672,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3117687074,
+      "number": 11401,
+      "title": "[Feature]: Support for Black Forest Labs' flux-kontext-pro model in LiteLLM's /images/edits endpoint",
+      "url": "https://github.com/BerriAI/litellm/issues/11401",
+      "created_at": "2025-06-04T12:37:22Z",
+      "user": "mvrodrig",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3118255761,
       "number": 2757,
@@ -13423,6 +13409,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3287777251,
+      "number": 13246,
+      "title": "[Bug]: Migration failed",
+      "url": "https://github.com/BerriAI/litellm/issues/13246",
+      "created_at": "2025-08-04T02:03:26Z",
+      "user": "NiuBlibing",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3288589593,
       "number": 7072,
@@ -18669,6 +18672,54 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3400757244,
+      "number": 14389,
+      "title": "[Feature]: when filtering by tags, wildcard filters should be supported",
+      "url": "https://github.com/BerriAI/litellm/issues/14389",
+      "created_at": "2025-09-10T03:24:39Z",
+      "user": "aunt-bitsy",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3400763407,
+      "number": 14390,
+      "title": "[Feature]: metrics for individual keys should include cost breakdowns by tag",
+      "url": "https://github.com/BerriAI/litellm/issues/14390",
+      "created_at": "2025-09-10T03:27:00Z",
+      "user": "aunt-bitsy",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3400980846,
+      "number": 14394,
+      "title": "[Bug]: Litellm and uvicorn version conflict in Python3.13",
+      "url": "https://github.com/BerriAI/litellm/issues/14394",
+      "created_at": "2025-09-10T05:29:20Z",
+      "user": "VisheshK183",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3401182957,
       "number": 3145,
@@ -18678,6 +18729,24 @@
       "user": "ved1beta",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3401547243,
+      "number": 14396,
+      "title": "[Bug]: ca bundle and client certificate ignored by get_ssl_configuration when litellm.ssl_verify is set to a ssl.SSLContext",
+      "url": "https://github.com/BerriAI/litellm/issues/14396",
+      "created_at": "2025-09-10T08:48:49Z",
+      "user": "ragnarotech",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18765,6 +18834,88 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3402080663,
+      "number": 14399,
+      "title": "[Bug]: appends exc as text",
+      "url": "https://github.com/BerriAI/litellm/issues/14399",
+      "created_at": "2025-09-10T11:28:41Z",
+      "user": "r-sayar",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3402105177,
+      "number": 14400,
+      "title": "[Feature]: Add built-in migration lock & startup gating to prevent multi-pod Prisma migrate deploy races",
+      "url": "https://github.com/BerriAI/litellm/issues/14400",
+      "created_at": "2025-09-10T11:36:49Z",
+      "user": "minijeong-log",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3402190217,
+      "number": 14402,
+      "title": "[Bug]: see error",
+      "url": "https://github.com/BerriAI/litellm/issues/14402",
+      "created_at": "2025-09-10T12:03:31Z",
+      "user": "r-sayar",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3402227657,
+      "number": 14403,
+      "title": "[Bug]: Fallback not working for Embeddings",
+      "url": "https://github.com/BerriAI/litellm/issues/14403",
+      "created_at": "2025-09-10T12:14:47Z",
+      "user": "ringuerel",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3402879059,
+      "number": 14406,
+      "title": "[Bug]: LangFuse as Logging Callbacks throws errors",
+      "url": "https://github.com/BerriAI/litellm/issues/14406",
+      "created_at": "2025-09-10T15:12:59Z",
+      "user": "mboehmic",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3402932023,
       "number": 21655,
@@ -18774,6 +18925,41 @@
       "user": "innat",
       "labels": [
         "type:Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3402955618,
+      "number": 14409,
+      "title": "[Bug]: UI User Agent Activity Page Inaccurate Reporting",
+      "url": "https://github.com/BerriAI/litellm/issues/14409",
+      "created_at": "2025-09-10T15:36:10Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3403003522,
+      "number": 14411,
+      "title": "[Bug]: UI - Error Failed to fetch team settings in Admin UI",
+      "url": "https://github.com/BerriAI/litellm/issues/14411",
+      "created_at": "2025-09-10T15:53:10Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P2"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18790,6 +18976,23 @@
       "labels": [
         "bug",
         "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3403023032,
+      "number": 14412,
+      "title": "[Feature]: UI User Agent Activity Aggregation",
+      "url": "https://github.com/BerriAI/litellm/issues/14412",
+      "created_at": "2025-09-10T16:00:28Z",
+      "user": "berri-teddy",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -58597,8 +58800,114 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3713027876,
+      "number": 3740,
+      "title": "Bug: ActionResult images broken with google gen-ai bump",
+      "url": "https://github.com/browser-use/browser-use/issues/3740",
+      "created_at": "2025-12-09T23:49:32Z",
+      "user": "glaw1300",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3713052384,
+      "number": 2133,
+      "title": "Duplicated AG/RS issued from Simple FSDP if there are multiple reference to the same parameters",
+      "url": "https://github.com/pytorch/torchtitan/issues/2133",
+      "created_at": "2025-12-10T00:03:54Z",
+      "user": "yanboliang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3713115899,
+      "number": 42754,
+      "title": "Excluding weight decay not working properly on most LMs",
+      "url": "https://github.com/huggingface/transformers/issues/42754",
+      "created_at": "2025-12-10T00:36:55Z",
+      "user": "wwt17",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3713136045,
+      "number": 170016,
+      "title": "Conv2d produces numerically inconsistent results compared to other DL frameworks (TensorFlow / Paddle / MindSpore)",
+      "url": "https://github.com/pytorch/pytorch/issues/170016",
+      "created_at": "2025-12-10T00:49:22Z",
+      "user": "tingPetty",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3713172180,
+      "number": 59325,
+      "title": "[Data][LLM] Add `continue_on_error` support for ServeDeploymentStage (Data <> Serve)",
+      "url": "https://github.com/ray-project/ray/issues/59325",
+      "created_at": "2025-12-10T01:09:47Z",
+      "user": "nrghosh",
+      "labels": [
+        "enhancement",
+        "triage",
+        "data",
+        "llm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3713175602,
+      "number": 170020,
+      "title": "DISABLED test_extern_kernel_benchmark_request_variations (__main__.TestExternKernelCaller)",
+      "url": "https://github.com/pytorch/pytorch/issues/170020",
+      "created_at": "2025-12-10T01:11:41Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3713177871,
+      "number": 170021,
+      "title": "DISABLED test_qlinear_add_int8_mixed_bf16_xpu_use_relu_True_is_qat_False_is_dynamic_False (__main__.TestPatternMatcher)",
+      "url": "https://github.com/pytorch/pytorch/issues/170021",
+      "created_at": "2025-12-10T01:12:54Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-09T23:38:21Z",
-  "total_count": 3895
+  "last_updated": "2025-12-10T01:14:53Z",
+  "total_count": 3914
 }

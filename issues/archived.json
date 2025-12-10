@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "repo": "keras-team/keras-cv",
+    "id": 2727627840,
+    "number": 2509,
+    "title": "Division of data into training and validation set  & COCO Metric Callback not working with Keras CV implementation as expected",
+    "url": "https://github.com/keras-team/keras-cv/issues/2509",
+    "created_at": "2024-12-09T16:26:38Z",
+    "user": "alinaivanovaoff",
+    "labels": [
+      "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2727689516,
+    "number": 2015,
+    "title": "How to export `Tokenizer`-s?",
+    "url": "https://github.com/keras-team/keras-hub/issues/2015",
+    "created_at": "2024-12-09T16:50:52Z",
+    "user": "fdtomasi",
+    "labels": [
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
