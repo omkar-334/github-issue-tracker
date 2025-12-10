@@ -12431,5 +12431,34 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3716703307,
+    "number": 7401,
+    "title": "[BUG]",
+    "url": "https://github.com/cython/cython/issues/7401",
+    "created_at": "2025-12-10T20:40:24Z",
+    "user": "tacaswell",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3716705230,
+    "number": 59357,
+    "title": "[serve][llm] _pydantic_core.ValidationError is not serializable",
+    "url": "https://github.com/ray-project/ray/issues/59357",
+    "created_at": "2025-12-10T20:41:11Z",
+    "user": "eicherseiji",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

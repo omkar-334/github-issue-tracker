@@ -458,6 +458,24 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 2914160465,
+    "number": 10738,
+    "title": "Add a page without showing it in the navigation menu",
+    "url": "https://github.com/streamlit/streamlit/issues/10738",
+    "created_at": "2025-03-12T14:23:58Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "feature:multipage-apps",
+      "feature:st.navigation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2916064546,
     "number": 8966,
