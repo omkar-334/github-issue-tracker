@@ -11890,6 +11890,22 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 3714659558,
+    "number": 30831,
+    "title": "[Bug]: AttributeError: 'TimedAnimation' object has no attribute '_framedata'",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30831",
+    "created_at": "2025-12-10T10:49:18Z",
+    "user": "J0hn3ch",
+    "labels": [
+      "Documentation",
+      "Community support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3714673562,
     "number": 4658,
@@ -12148,6 +12164,52 @@
     "created_at": "2025-12-10T13:51:47Z",
     "user": "legarwin",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3715548674,
+    "number": 17765,
+    "title": "[Bug]: Azure AI Foundry native `azure_ai` registration does not work per documentation for Anthropic models",
+    "url": "https://github.com/BerriAI/litellm/issues/17765",
+    "created_at": "2025-12-10T14:54:26Z",
+    "user": "andrey-dubnik",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3715642764,
+    "number": 170073,
+    "title": "MPI backend does not support bf16/fp16",
+    "url": "https://github.com/pytorch/pytorch/issues/170073",
+    "created_at": "2025-12-10T15:15:58Z",
+    "user": "timocafe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3715652899,
+    "number": 30413,
+    "title": "ENH: Allow requesting the iterator to provide contiguous arrays",
+    "url": "https://github.com/numpy/numpy/issues/30413",
+    "created_at": "2025-12-10T15:18:30Z",
+    "user": "mhvk",
+    "labels": [
+      "component: numpy._core",
+      "component: numpy.ufunc"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

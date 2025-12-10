@@ -1,31 +1,31 @@
 [
   {
-    "repo": "numpy/numpy",
-    "id": 1379792591,
-    "number": 22318,
-    "title": "Releasing PowerPC (ppc64le) wheels?",
-    "url": "https://github.com/numpy/numpy/issues/22318",
-    "created_at": "2022-09-20T17:57:35Z",
-    "user": "ax3l",
+    "repo": "scipy/scipy",
+    "id": 1803162826,
+    "number": 18871,
+    "title": "DOC: Improve clarity of documentation for scipy.sparse.dia_array/dia_matrix",
+    "url": "https://github.com/scipy/scipy/issues/18871",
+    "created_at": "2023-07-13T14:33:20Z",
+    "user": "lciti",
     "labels": [
-      "01 - Enhancement",
-      "14 - Release"
+      "scipy.sparse",
+      "Documentation",
+      "good first issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 2094111919,
-    "number": 117974,
-    "title": "RuntimeError: derivative for aten::_scaled_dot_product_efficient_attention_backward is not implemented",
-    "url": "https://github.com/pytorch/pytorch/issues/117974",
-    "created_at": "2024-01-22T15:00:03Z",
-    "user": "LebinDing749",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2197483597,
+    "number": 28668,
+    "title": "Automatically move `y` (and `sample_weight`) to the same device and namespace as `X` ",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/28668",
+    "created_at": "2024-03-20T13:02:03Z",
+    "user": "betatim",
     "labels": [
-      "triaged",
-      "module: sdpa"
+      "Array API"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
