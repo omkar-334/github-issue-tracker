@@ -12587,6 +12587,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3258771656,
+      "number": 12930,
+      "title": "[Feature]: Need the ability to set context size (num_ctx) while creating LiteLLM/ChatLiteLLM instance",
+      "url": "https://github.com/BerriAI/litellm/issues/12930",
+      "created_at": "2025-07-24T07:01:48Z",
+      "user": "ampulsora",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3258833117,
       "number": 868,
@@ -18780,6 +18795,23 @@
       "labels": [
         "type:Bug",
         "backend:torch"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3398842363,
+      "number": 12475,
+      "title": "`st.avatar` to show a standalone avatar image",
+      "url": "https://github.com/streamlit/streamlit/issues/12475",
+      "created_at": "2025-09-09T14:58:45Z",
+      "user": "lukasmasuch",
+      "labels": [
+        "type:enhancement",
+        "good first issue",
+        "area:elements"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -60368,8 +60400,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3716618116,
+      "number": 170117,
+      "title": "PyTorch Nightly's Torch Compile Feature Does Not Work on THOR due to Triton 3.6.x regression.",
+      "url": "https://github.com/pytorch/pytorch/issues/170117",
+      "created_at": "2025-12-10T20:08:34Z",
+      "user": "nWEIdia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T19:39:25Z",
-  "total_count": 4009
+  "last_updated": "2025-12-10T20:20:04Z",
+  "total_count": 4012
 }

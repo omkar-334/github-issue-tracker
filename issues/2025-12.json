@@ -12418,5 +12418,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3716618116,
+    "number": 170117,
+    "title": "PyTorch Nightly's Torch Compile Feature Does Not Work on THOR due to Triton 3.6.x regression.",
+    "url": "https://github.com/pytorch/pytorch/issues/170117",
+    "created_at": "2025-12-10T20:08:34Z",
+    "user": "nWEIdia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

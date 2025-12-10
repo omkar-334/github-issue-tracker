@@ -2273,6 +2273,23 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3398842363,
+    "number": 12475,
+    "title": "`st.avatar` to show a standalone avatar image",
+    "url": "https://github.com/streamlit/streamlit/issues/12475",
+    "created_at": "2025-09-09T14:58:45Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "area:elements"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3399044166,
     "number": 10217,
