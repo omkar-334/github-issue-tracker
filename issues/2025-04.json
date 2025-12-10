@@ -104,6 +104,24 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 2966922156,
+    "number": 28628,
+    "title": "BUG: print(numpy.f2py.symbolic.as_string(obj, kind)) got TypeError when kind != 1",
+    "url": "https://github.com/numpy/numpy/issues/28628",
+    "created_at": "2025-04-02T16:09:14Z",
+    "user": "coco1629",
+    "labels": [
+      "00 - Bug",
+      "component: numpy.f2py",
+      "57 - Close?",
+      "Priority: low"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2969087550,
     "number": 5603,

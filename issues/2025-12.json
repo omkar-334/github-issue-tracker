@@ -11615,5 +11615,44 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713699888,
+    "number": 170045,
+    "title": "ncclUnhandledCudaError: Call to CUDA function failed. Last error: Cuda failure 999 'unknown error'",
+    "url": "https://github.com/pytorch/pytorch/issues/170045",
+    "created_at": "2025-12-10T05:49:10Z",
+    "user": "mukherjeesougata-eros",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3713702763,
+    "number": 12817,
+    "title": "Implement Selective Attention for Memory-Efficient Inference",
+    "url": "https://github.com/huggingface/diffusers/issues/12817",
+    "created_at": "2025-12-10T05:50:36Z",
+    "user": "cdutr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713768661,
+    "number": 170047,
+    "title": "Dynamo test_ir_count fail when python version is 3.11",
+    "url": "https://github.com/pytorch/pytorch/issues/170047",
+    "created_at": "2025-12-10T06:16:41Z",
+    "user": "HOOLoLo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

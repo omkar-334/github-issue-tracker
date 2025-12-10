@@ -566,6 +566,22 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 2866986492,
+    "number": 28365,
+    "title": "BUG: duplication in `ufunc.types`",
+    "url": "https://github.com/numpy/numpy/issues/28365",
+    "created_at": "2025-02-20T18:39:58Z",
+    "user": "jorenham",
+    "labels": [
+      "00 - Bug",
+      "component: numpy.ufunc"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 2867249985,
     "number": 1096,
