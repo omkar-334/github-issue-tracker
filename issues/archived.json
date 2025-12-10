@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "scipy/scipy",
+    "id": 1803162826,
+    "number": 18871,
+    "title": "DOC: Improve clarity of documentation for scipy.sparse.dia_array/dia_matrix",
+    "url": "https://github.com/scipy/scipy/issues/18871",
+    "created_at": "2023-07-13T14:33:20Z",
+    "user": "lciti",
+    "labels": [
+      "scipy.sparse",
+      "Documentation",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

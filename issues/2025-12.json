@@ -11600,5 +11600,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3713675220,
+    "number": 3703,
+    "title": "`Expected str or path object but received Nonetype` Error when training using multi-gpu",
+    "url": "https://github.com/unslothai/unsloth/issues/3703",
+    "created_at": "2025-12-10T05:38:45Z",
+    "user": "yaswanth19",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
