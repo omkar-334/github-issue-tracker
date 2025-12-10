@@ -9684,6 +9684,25 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653545222,
+    "number": 168575,
+    "title": "Test: TestFxGraphCache.test_remote_cache_load_function",
+    "url": "https://github.com/pytorch/pytorch/issues/168575",
+    "created_at": "2025-11-22T01:03:07Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653545431,
     "number": 168583,
     "title": "TestModule: test/inductor/test_custom_lowering.py::TestCustomLowering",

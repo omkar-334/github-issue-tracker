@@ -12259,5 +12259,46 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3715941585,
+    "number": 17766,
+    "title": "[Bug]: guardrails cant be edited on team level when org_id is attached",
+    "url": "https://github.com/BerriAI/litellm/issues/17766",
+    "created_at": "2025-12-10T16:31:04Z",
+    "user": "mubashir1osmani",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3715971343,
+    "number": 2948,
+    "title": "Add PVeRA to PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2948",
+    "created_at": "2025-12-10T16:38:42Z",
+    "user": "leofillioux",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3715987015,
+    "number": 170084,
+    "title": "CI Lintrunner job failing",
+    "url": "https://github.com/pytorch/pytorch/issues/170084",
+    "created_at": "2025-12-10T16:42:31Z",
+    "user": "stmcgovern",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
