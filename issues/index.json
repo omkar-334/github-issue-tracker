@@ -59496,8 +59496,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3714132185,
+      "number": 24131,
+      "title": "BUG: `1.17.0rc1`: ModuleNotFoundError: No module named 'scipy.integrate._lsoda'",
+      "url": "https://github.com/scipy/scipy/issues/24131",
+      "created_at": "2025-12-10T08:25:59Z",
+      "user": "jorenham",
+      "labels": [
+        "defect",
+        "scipy.integrate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T08:23:42Z",
-  "total_count": 3953
+  "last_updated": "2025-12-10T08:52:18Z",
+  "total_count": 3954
 }
