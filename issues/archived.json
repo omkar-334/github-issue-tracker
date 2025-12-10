@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "streamlit/streamlit",
+    "id": 2456632209,
+    "number": 9243,
+    "title": "Popover and dialog first widget is always active",
+    "url": "https://github.com/streamlit/streamlit/issues/9243",
+    "created_at": "2024-08-08T21:13:15Z",
+    "user": "arnaudmiribel",
+    "labels": [
+      "type:enhancement",
+      "feature:st.popover",
+      "feature:st.dialog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

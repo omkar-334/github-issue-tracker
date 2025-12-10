@@ -60213,8 +60213,67 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3716216934,
+      "number": 63320,
+      "title": "BUG: Division results in 0 values for large dfs with numpy==2.3.5",
+      "url": "https://github.com/pandas-dev/pandas/issues/63320",
+      "created_at": "2025-12-10T17:52:06Z",
+      "user": "tilyevsky12",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3716223011,
+      "number": 30834,
+      "title": "[Bug]: Thousands of minor ticks are generated after zoom out with home button in toolbar",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30834",
+      "created_at": "2025-12-10T17:54:06Z",
+      "user": "siegbert7",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3716239163,
+      "number": 42778,
+      "title": "requires_backends ImportError in transformers 5.0.0rc0",
+      "url": "https://github.com/huggingface/transformers/issues/42778",
+      "created_at": "2025-12-10T17:59:35Z",
+      "user": "KosmoCHE",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3716265201,
+      "number": 9164,
+      "title": "[ENH]Lazy dask backend option in ForecastingGridSearchCV()",
+      "url": "https://github.com/sktime/sktime/issues/9164",
+      "created_at": "2025-12-10T18:08:15Z",
+      "user": "sakaiando",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T17:47:01Z",
-  "total_count": 3999
+  "last_updated": "2025-12-10T18:25:27Z",
+  "total_count": 4003
 }
