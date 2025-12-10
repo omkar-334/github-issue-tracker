@@ -1,33 +1,15 @@
 [
   {
-    "repo": "keras-team/keras-hub",
-    "id": 1492843438,
-    "number": 571,
-    "title": "Text generation performance is terrible when padding to the left side",
-    "url": "https://github.com/keras-team/keras-hub/issues/571",
-    "created_at": "2022-12-12T21:51:45Z",
-    "user": "chenmoneygithub",
+    "repo": "streamlit/streamlit",
+    "id": 2522954339,
+    "number": 9454,
+    "title": "Add a clear all button to `st.file_uploader`",
+    "url": "https://github.com/streamlit/streamlit/issues/9454",
+    "created_at": "2024-09-12T17:24:02Z",
+    "user": "shakamoushie",
     "labels": [
-      "type:Bug",
-      "stat:awaiting response from contributor"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 1899472824,
-    "number": 55169,
-    "title": "BUG: Pandas column rename function now working for multilevel columns",
-    "url": "https://github.com/pandas-dev/pandas/issues/55169",
-    "created_at": "2023-09-16T15:25:11Z",
-    "user": "DavidKingGH",
-    "labels": [
-      "Bug",
-      "MultiIndex",
-      "Needs Triage",
-      "rename"
+      "type:enhancement",
+      "feature:st.file_uploader"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -59406,8 +59406,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3713972609,
+      "number": 42760,
+      "title": "Support `BatchFeature` in `LengthGroupedSampler` for Multimodal compatibility",
+      "url": "https://github.com/huggingface/transformers/issues/42760",
+      "created_at": "2025-12-10T07:31:01Z",
+      "user": "npurson",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3713985321,
+      "number": 170054,
+      "title": "ONNX export does not handle parameters (initializers) consistently",
+      "url": "https://github.com/pytorch/pytorch/issues/170054",
+      "created_at": "2025-12-10T07:34:50Z",
+      "user": "simonbyrne",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T07:20:32Z",
-  "total_count": 3947
+  "last_updated": "2025-12-10T07:43:57Z",
+  "total_count": 3949
 }
