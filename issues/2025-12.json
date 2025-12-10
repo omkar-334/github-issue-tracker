@@ -11903,5 +11903,65 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3714763724,
+    "number": 3705,
+    "title": "[Bug] Gradient explosion (NaN) when training Qwen 3 Reranker with Unsloth backend on A100",
+    "url": "https://github.com/unslothai/unsloth/issues/3705",
+    "created_at": "2025-12-10T11:19:40Z",
+    "user": "MosRat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3714774080,
+    "number": 21916,
+    "title": "`jax.errors.ConcretizationTypeError` in Splash attention during `model.generate`",
+    "url": "https://github.com/keras-team/keras/issues/21916",
+    "created_at": "2025-12-10T11:22:51Z",
+    "user": "pctablet505",
+    "labels": [
+      "keras-team-review-pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3714784543,
+    "number": 33852,
+    "title": "Rare XLA compilation hang in Multi-Process setup",
+    "url": "https://github.com/jax-ml/jax/issues/33852",
+    "created_at": "2025-12-10T11:25:59Z",
+    "user": "Findus23",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3714802285,
+    "number": 17760,
+    "title": "[Bug]: Daily activity endpoints return incomplete data when date range exceeds ~7-10 days",
+    "url": "https://github.com/BerriAI/litellm/issues/17760",
+    "created_at": "2025-12-10T11:31:25Z",
+    "user": "wanyinglong",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
