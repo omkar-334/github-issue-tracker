@@ -19965,6 +19965,27 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3412083011,
+      "number": 162859,
+      "title": "[RFC] support symmetric memory in torch.compile",
+      "url": "https://github.com/pytorch/pytorch/issues/162859",
+      "created_at": "2025-09-12T22:27:49Z",
+      "user": "zou3519",
+      "labels": [
+        "oncall: distributed",
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "vllm-compile",
+        "module: vllm",
+        "module: symm_mem"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3412103894,
       "number": 14521,
@@ -60460,8 +60481,51 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3716724300,
+      "number": 2139,
+      "title": "TorchComms backend (NCCLX and TorchComms NCCL) initializes but is ignored / not bound to PG in Torchtitan FSDP + DeviceMesh pipeline → large model hangs",
+      "url": "https://github.com/pytorch/torchtitan/issues/2139",
+      "created_at": "2025-12-10T20:48:29Z",
+      "user": "sk2693",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3716758054,
+      "number": 170119,
+      "title": "[v.2.10.0] Release Tracker",
+      "url": "https://github.com/pytorch/pytorch/issues/170119",
+      "created_at": "2025-12-10T21:00:29Z",
+      "user": "atalman",
+      "labels": [
+        "release tracker"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3716793859,
+      "number": 170123,
+      "title": "Torch Compile Cache sharing across different GPUs",
+      "url": "https://github.com/pytorch/pytorch/issues/170123",
+      "created_at": "2025-12-10T21:12:42Z",
+      "user": "gauravjain14",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T20:47:20Z",
-  "total_count": 4015
+  "last_updated": "2025-12-10T21:18:20Z",
+  "total_count": 4019
 }
