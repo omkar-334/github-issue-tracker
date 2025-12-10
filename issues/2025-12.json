@@ -11654,5 +11654,62 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3713802143,
+    "number": 16175,
+    "title": "Android: Add Context LLMModule fails to load (Improve debuggability & UX + Demo)",
+    "url": "https://github.com/pytorch/executorch/issues/16175",
+    "created_at": "2025-12-10T06:26:59Z",
+    "user": "psiddh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3713825881,
+    "number": 59339,
+    "title": "[core] ray.get() is likely hung to force kill actor",
+    "url": "https://github.com/ray-project/ray/issues/59339",
+    "created_at": "2025-12-10T06:36:46Z",
+    "user": "yang20150702",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3713834808,
+    "number": 170049,
+    "title": "`torch.compile` fails to capture user-defined kernels with latest Triton",
+    "url": "https://github.com/pytorch/pytorch/issues/170049",
+    "created_at": "2025-12-10T06:40:23Z",
+    "user": "jjvraw",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3713850820,
+    "number": 59340,
+    "title": "[Core] ray.kill an actor from another session will crash python interpreter",
+    "url": "https://github.com/ray-project/ray/issues/59340",
+    "created_at": "2025-12-10T06:47:04Z",
+    "user": "auderson",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
