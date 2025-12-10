@@ -13096,6 +13096,22 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3275759544,
+      "number": 3065,
+      "title": "[Feature] enable packing again?",
+      "url": "https://github.com/unslothai/unsloth/issues/3065",
+      "created_at": "2025-07-30T05:54:40Z",
+      "user": "benjamin-marie",
+      "labels": [
+        "fixed - pending confirmation",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3275779667,
       "number": 2895,
@@ -60062,8 +60078,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3715781372,
+      "number": 170078,
+      "title": "pytorch customized build from source code error",
+      "url": "https://github.com/pytorch/pytorch/issues/170078",
+      "created_at": "2025-12-10T15:49:23Z",
+      "user": "xyuan",
+      "labels": [
+        "needs reproduction",
+        "module: build",
+        "module: rocm",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3715882447,
+      "number": 170079,
+      "title": "nn.functional.pad fails to compile on CUDA in case we use \"replicate mode\" and deterministic algorithms",
+      "url": "https://github.com/pytorch/pytorch/issues/170079",
+      "created_at": "2025-12-10T16:14:49Z",
+      "user": "denix56",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T15:45:59Z",
-  "total_count": 3989
+  "last_updated": "2025-12-10T16:23:39Z",
+  "total_count": 3992
 }

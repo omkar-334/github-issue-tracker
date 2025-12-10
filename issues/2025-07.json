@@ -3303,6 +3303,22 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3275759544,
+    "number": 3065,
+    "title": "[Feature] enable packing again?",
+    "url": "https://github.com/unslothai/unsloth/issues/3065",
+    "created_at": "2025-07-30T05:54:40Z",
+    "user": "benjamin-marie",
+    "labels": [
+      "fixed - pending confirmation",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3275779667,
     "number": 2895,

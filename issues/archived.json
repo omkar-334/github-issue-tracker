@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2094111919,
+    "number": 117974,
+    "title": "RuntimeError: derivative for aten::_scaled_dot_product_efficient_attention_backward is not implemented",
+    "url": "https://github.com/pytorch/pytorch/issues/117974",
+    "created_at": "2024-01-22T15:00:03Z",
+    "user": "LebinDing749",
+    "labels": [
+      "triaged",
+      "module: sdpa"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 2392943762,
+    "number": 735,
+    "title": "Feature request: Combining train_on_inputs: false + sample packing",
+    "url": "https://github.com/unslothai/unsloth/issues/735",
+    "created_at": "2024-07-05T17:31:35Z",
+    "user": "williambarberjr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2720647948,
+    "number": 142134,
+    "title": "Unit test failure on ARM - Tensor-likes are not close! CPUReproTests.test_disabled_amp",
+    "url": "https://github.com/pytorch/pytorch/issues/142134",
+    "created_at": "2024-12-05T15:00:08Z",
+    "user": "robert-hardwick",
+    "labels": [
+      "module: tests",
+      "triaged",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
