@@ -3084,6 +3084,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3605897663,
+    "number": 42115,
+    "title": "Why pass size[\"longest_edge\"] to max_pixels, and size[\"shortest_edge\"] to min_pixels when doing smart_resize",
+    "url": "https://github.com/huggingface/transformers/issues/42115",
+    "created_at": "2025-11-10T03:03:14Z",
+    "user": "leijie-ww",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3606107862,
     "number": 58489,

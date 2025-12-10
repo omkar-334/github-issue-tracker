@@ -1,15 +1,14 @@
 [
   {
-    "repo": "streamlit/streamlit",
-    "id": 2522954339,
-    "number": 9454,
-    "title": "Add a clear all button to `st.file_uploader`",
-    "url": "https://github.com/streamlit/streamlit/issues/9454",
-    "created_at": "2024-09-12T17:24:02Z",
-    "user": "shakamoushie",
+    "repo": "fastapi/fastapi",
+    "id": 2676906576,
+    "number": 12965,
+    "title": "Will FastAPI support QUERY http method? \"app.query\"",
+    "url": "https://github.com/fastapi/fastapi/issues/12965",
+    "created_at": "2024-11-20T19:17:57Z",
+    "user": "Kludex",
     "labels": [
-      "type:enhancement",
-      "feature:st.file_uploader"
+      "feature"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

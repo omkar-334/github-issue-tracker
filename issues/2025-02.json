@@ -786,6 +786,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2885652563,
+    "number": 50961,
+    "title": "[Feedback] Feedback for ray + uv",
+    "url": "https://github.com/ray-project/ray/issues/50961",
+    "created_at": "2025-02-27T21:33:22Z",
+    "user": "cszhu",
+    "labels": [
+      "usability",
+      "docs",
+      "core",
+      "uv"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2885714298,
     "number": 2202,
