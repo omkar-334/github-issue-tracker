@@ -3445,6 +3445,25 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2947452843,
+      "number": 10907,
+      "title": "`st.dialog` shows stale elements from previous dialog",
+      "url": "https://github.com/streamlit/streamlit/issues/10907",
+      "created_at": "2025-03-25T18:37:20Z",
+      "user": "jrieke",
+      "labels": [
+        "type:bug",
+        "area:frontend",
+        "status:confirmed",
+        "priority:P2",
+        "feature:st.dialog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 2948742339,
       "number": 3896,
@@ -60272,8 +60291,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3716315889,
+      "number": 17773,
+      "title": "[Bug]: OpenRouter support for embeddings",
+      "url": "https://github.com/BerriAI/litellm/issues/17773",
+      "created_at": "2025-12-10T18:24:30Z",
+      "user": "conext-noc",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T18:25:27Z",
-  "total_count": 4003
+  "last_updated": "2025-12-10T18:53:11Z",
+  "total_count": 4005
 }

@@ -1,16 +1,66 @@
 [
   {
     "repo": "streamlit/streamlit",
-    "id": 2456632209,
-    "number": 9243,
-    "title": "Popover and dialog first widget is always active",
-    "url": "https://github.com/streamlit/streamlit/issues/9243",
-    "created_at": "2024-08-08T21:13:15Z",
-    "user": "arnaudmiribel",
+    "id": 1469598073,
+    "number": 5793,
+    "title": "Misconfigured _xsrf cookies",
+    "url": "https://github.com/streamlit/streamlit/issues/5793",
+    "created_at": "2022-11-30T12:59:03Z",
+    "user": "matkozak",
     "labels": [
-      "type:enhancement",
-      "feature:st.popover",
-      "feature:st.dialog"
+      "type:bug",
+      "area:security",
+      "feature:st.file_uploader",
+      "area:deployment",
+      "status:confirmed",
+      "priority:P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 2099560717,
+    "number": 57064,
+    "title": "RLS: 3.0",
+    "url": "https://github.com/pandas-dev/pandas/issues/57064",
+    "created_at": "2024-01-25T04:47:17Z",
+    "user": "datapythonista",
+    "labels": [
+      "Release"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 2474482763,
+    "number": 534,
+    "title": "2D whole model compile fails at embedding layer",
+    "url": "https://github.com/pytorch/torchtitan/issues/534",
+    "created_at": "2024-08-20T00:17:59Z",
+    "user": "tianyu-l",
+    "labels": [
+      "bug",
+      "module: torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 2581650102,
+    "number": 610,
+    "title": "[Compile] Understand why FSDP2 saves both SDPA out and wo in for bwd",
+    "url": "https://github.com/pytorch/torchtitan/issues/610",
+    "created_at": "2024-10-11T15:29:04Z",
+    "user": "awgu",
+    "labels": [
+      "question",
+      "module: torch.compile"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
