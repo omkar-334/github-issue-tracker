@@ -1,29 +1,37 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 2421018308,
-    "number": 21224,
-    "title": "ENH: stats: add `disk` for generating uniform random points within a customizable disk or circular sector",
-    "url": "https://github.com/scipy/scipy/issues/21224",
-    "created_at": "2024-07-20T19:01:51Z",
-    "user": "amirh0ss3in",
+    "repo": "pytorch/vision",
+    "id": 646911899,
+    "number": 2360,
+    "title": "subprocess.CalledProcessError: Command '['ninja', '-v']' returned non-zero exit status 1",
+    "url": "https://github.com/pytorch/vision/issues/2360",
+    "created_at": "2020-06-28T12:49:45Z",
+    "user": "puraminy",
     "labels": [
-      "scipy.stats",
-      "enhancement"
+      "awaiting response",
+      "needs reproduction",
+      "topic: build"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2541476010,
-    "number": 29909,
-    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Nov 06, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
-    "created_at": "2024-09-23T03:06:33Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
+    "repo": "pytorch/pytorch",
+    "id": 1865766899,
+    "number": 107893,
+    "title": "DISABLED test_conv_with_as_strided_cpu (__main__.FreezingCpuTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/107893",
+    "created_at": "2023-08-24T19:35:35Z",
+    "user": "jataylo",
+    "labels": [
+      "module: rocm",
+      "module: cpu",
+      "module: convolution",
+      "triaged",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
