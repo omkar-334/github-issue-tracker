@@ -651,6 +651,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 2770195436,
+      "number": 22254,
+      "title": "ENH: stats: Add a new infrastructure version of the Von Mises distribution",
+      "url": "https://github.com/scipy/scipy/issues/22254",
+      "created_at": "2025-01-06T09:09:15Z",
+      "user": "NeilGirdhar",
+      "labels": [
+        "scipy.stats",
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "skorch-dev/skorch",
       "id": 2770460413,
       "number": 1084,
@@ -22686,6 +22702,22 @@
         "feature",
         "P3",
         "community"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3477629088,
+      "number": 15128,
+      "title": "[Bug]: Memory Leak and CPU Spike Issues with LiteLLM (FastAPI Setup)",
+      "url": "https://github.com/BerriAI/litellm/issues/15128",
+      "created_at": "2025-10-02T13:53:39Z",
+      "user": "lotanna-amaechi",
+      "labels": [
+        "bug",
+        "mlops user request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -59089,8 +59121,25 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3713385046,
+      "number": 4655,
+      "title": "Fail to run exmaples/sft.py with Qwen3-8B with multi-gpu single node",
+      "url": "https://github.com/huggingface/trl/issues/4655",
+      "created_at": "2025-12-10T03:11:04Z",
+      "user": "BlackPoint-CX",
+      "labels": [
+        "🐛 bug",
+        "⚡ PEFT",
+        "⚡accelerate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T03:08:14Z",
-  "total_count": 3926
+  "last_updated": "2025-12-10T04:07:43Z",
+  "total_count": 3929
 }

@@ -157,6 +157,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 2770195436,
+    "number": 22254,
+    "title": "ENH: stats: Add a new infrastructure version of the Von Mises distribution",
+    "url": "https://github.com/scipy/scipy/issues/22254",
+    "created_at": "2025-01-06T09:09:15Z",
+    "user": "NeilGirdhar",
+    "labels": [
+      "scipy.stats",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 2770460413,
     "number": 1084,

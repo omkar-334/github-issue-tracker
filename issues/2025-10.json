@@ -342,6 +342,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3477629088,
+    "number": 15128,
+    "title": "[Bug]: Memory Leak and CPU Spike Issues with LiteLLM (FastAPI Setup)",
+    "url": "https://github.com/BerriAI/litellm/issues/15128",
+    "created_at": "2025-10-02T13:53:39Z",
+    "user": "lotanna-amaechi",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3477757778,
     "number": 3607,
