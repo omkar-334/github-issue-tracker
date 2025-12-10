@@ -5129,6 +5129,24 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3025618261,
+      "number": 52654,
+      "title": "[Serve] Support generics for DeploymentHandle type hints",
+      "url": "https://github.com/ray-project/ray/issues/52654",
+      "created_at": "2025-04-28T17:17:17Z",
+      "user": "marwan116",
+      "labels": [
+        "enhancement",
+        "P1",
+        "serve",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchchat",
       "id": 3025797442,
       "number": 1536,
@@ -60572,8 +60590,67 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3716987752,
+      "number": 17792,
+      "title": "[Bug]: `TypeError in spend logging: Cannot compare 'str' and 'NoneType' when processing embeddings with null bytes - causes memory leak`",
+      "url": "https://github.com/BerriAI/litellm/issues/17792",
+      "created_at": "2025-12-10T22:26:47Z",
+      "user": "fgonzalez-glmc",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/lighteval",
+      "id": 3716995240,
+      "number": 1102,
+      "title": "[BUG] Accelerate backend with dp fails to load cache",
+      "url": "https://github.com/huggingface/lighteval/issues/1102",
+      "created_at": "2025-12-10T22:30:31Z",
+      "user": "Aceticia",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717006692,
+      "number": 170130,
+      "title": "Inductor generates `CUDA error : misaligned address`",
+      "url": "https://github.com/pytorch/pytorch/issues/170130",
+      "created_at": "2025-12-10T22:36:26Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3717013880,
+      "number": 34291,
+      "title": "[langchain-tests] Python 3.14: `pydantic.v1.errors.ConfigError: unable to infer type for attribute \"name\"`",
+      "url": "https://github.com/langchain-ai/langchain/issues/34291",
+      "created_at": "2025-12-10T22:40:07Z",
+      "user": "amotl",
+      "labels": [
+        "standard-tests",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T22:17:53Z",
-  "total_count": 4022
+  "last_updated": "2025-12-10T22:44:37Z",
+  "total_count": 4027
 }

@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "jax-ml/jax",
-    "id": 802029457,
-    "number": 5642,
-    "title": "Is it possible to have early stopping in `lax.scan`?",
-    "url": "https://github.com/jax-ml/jax/issues/5642",
-    "created_at": "2021-02-05T10:05:19Z",
-    "user": "salayatana66",
-    "labels": [
-      "enhancement",
-      "open"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

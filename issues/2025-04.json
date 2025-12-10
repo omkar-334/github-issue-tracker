@@ -1312,6 +1312,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3025618261,
+    "number": 52654,
+    "title": "[Serve] Support generics for DeploymentHandle type hints",
+    "url": "https://github.com/ray-project/ray/issues/52654",
+    "created_at": "2025-04-28T17:17:17Z",
+    "user": "marwan116",
+    "labels": [
+      "enhancement",
+      "P1",
+      "serve",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchchat",
     "id": 3025797442,
     "number": 1536,
