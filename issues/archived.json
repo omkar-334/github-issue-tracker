@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "streamlit/streamlit",
-    "id": 696157713,
-    "number": 1980,
-    "title": "2nd Sidebar (on right side)",
-    "url": "https://github.com/streamlit/streamlit/issues/1980",
-    "created_at": "2020-09-08T20:31:08Z",
-    "user": "cojacoo",
-    "labels": [
-      "type:enhancement",
-      "area:layout"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

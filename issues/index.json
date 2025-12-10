@@ -59571,8 +59571,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "id": 3714411600,
+      "number": 14483,
+      "title": "Since FastAPI 0.119.0, using `arbitrary_types_allowed=True` with custom types that define their serialization and JSON Schema breaks when generating OpenAPI",
+      "url": "https://github.com/fastapi/fastapi/issues/14483",
+      "created_at": "2025-12-10T09:47:16Z",
+      "user": "tiangolo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras",
+      "id": 3714486770,
+      "number": 21914,
+      "title": "Upgrade `ai-edge-litert` with new TensorFlow release",
+      "url": "https://github.com/keras-team/keras/issues/21914",
+      "created_at": "2025-12-10T10:06:24Z",
+      "user": "abheesht17",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T09:46:43Z",
-  "total_count": 3958
+  "last_updated": "2025-12-10T10:20:16Z",
+  "total_count": 3960
 }
