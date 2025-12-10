@@ -9587,6 +9587,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653544292,
+    "number": 168551,
+    "title": "Test: TestExportOnFakeCuda.test_fake_export",
+    "url": "https://github.com/pytorch/pytorch/issues/168551",
+    "created_at": "2025-11-22T01:02:31Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653545063,
     "number": 168569,
     "title": "Test: AOTInductorTestsTemplate.test_triton_autotuning",
@@ -9810,6 +9827,26 @@
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653549837,
+    "number": 168680,
+    "title": "Test: CommonTemplate.test_conv_inference_heuristics",
+    "url": "https://github.com/pytorch/pytorch/issues/168680",
+    "created_at": "2025-11-22T01:05:56Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "module: convolution",
       "triaged",
       "oncall: pt2",
       "module: inductor",

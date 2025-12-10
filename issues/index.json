@@ -25497,6 +25497,22 @@
       "archived": false
     },
     {
+      "repo": "mlflow/mlflow",
+      "id": 3518446179,
+      "number": 18329,
+      "title": "[BUG] UI - Assessments Panel Automatically Collapses and Disables Shortly After Opening",
+      "url": "https://github.com/mlflow/mlflow/issues/18329",
+      "created_at": "2025-10-15T14:58:58Z",
+      "user": "dannyhorcajo",
+      "labels": [
+        "bug",
+        "area/uiux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3518641452,
       "number": 2371,
@@ -28610,6 +28626,22 @@
       "user": "oceanusxiv",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3560053806,
+      "number": 16000,
+      "title": "[Feature]: Config cached_tokens custom price",
+      "url": "https://github.com/BerriAI/litellm/issues/16000",
+      "created_at": "2025-10-28T06:42:59Z",
+      "user": "yutingzhao1991",
+      "labels": [
+        "enhancement",
+        "llm translation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -40037,6 +40069,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653544292,
+      "number": 168551,
+      "title": "Test: TestExportOnFakeCuda.test_fake_export",
+      "url": "https://github.com/pytorch/pytorch/issues/168551",
+      "created_at": "2025-11-22T01:02:31Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653545063,
       "number": 168569,
       "title": "Test: AOTInductorTestsTemplate.test_triton_autotuning",
@@ -40260,6 +40309,26 @@
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653549837,
+      "number": 168680,
+      "title": "Test: CommonTemplate.test_conv_inference_heuristics",
+      "url": "https://github.com/pytorch/pytorch/issues/168680",
+      "created_at": "2025-11-22T01:05:56Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "module: convolution",
         "triaged",
         "oncall: pt2",
         "module: inductor",
@@ -59978,8 +60047,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3715686327,
+      "number": 33858,
+      "title": "Bug: `jnp.bfloat16` f-string formatting truncates exponent",
+      "url": "https://github.com/jax-ml/jax/issues/33858",
+      "created_at": "2025-12-10T15:26:29Z",
+      "user": "yoeldr",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T15:20:43Z",
-  "total_count": 3984
+  "last_updated": "2025-12-10T15:45:59Z",
+  "total_count": 3989
 }

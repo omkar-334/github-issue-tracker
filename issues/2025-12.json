@@ -12213,5 +12213,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3715686327,
+    "number": 33858,
+    "title": "Bug: `jnp.bfloat16` f-string formatting truncates exponent",
+    "url": "https://github.com/jax-ml/jax/issues/33858",
+    "created_at": "2025-12-10T15:26:29Z",
+    "user": "yoeldr",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
