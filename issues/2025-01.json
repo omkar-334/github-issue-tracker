@@ -567,6 +567,25 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 2797466961,
+    "number": 10211,
+    "title": "Provide a new dataframe column type to insert Markdown text",
+    "url": "https://github.com/streamlit/streamlit/issues/10211",
+    "created_at": "2025-01-19T06:54:04Z",
+    "user": "bakkiaraj",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "feature:st.dataframe",
+      "feature:st.data_editor",
+      "feature:st.column_config"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-cv",
     "id": 2797595692,
     "number": 2513,

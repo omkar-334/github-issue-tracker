@@ -11963,5 +11963,64 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3714839301,
+    "number": 34282,
+    "title": "After SummarizationMiddleware is triggered, agent can randomly triggers 400 - No tool call found",
+    "url": "https://github.com/langchain-ai/langchain/issues/34282",
+    "created_at": "2025-12-10T11:42:45Z",
+    "user": "tetv",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3714908694,
+    "number": 17761,
+    "title": "[Bug]: mistral - invalid_request_message_order",
+    "url": "https://github.com/BerriAI/litellm/issues/17761",
+    "created_at": "2025-12-10T12:03:17Z",
+    "user": "towry",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3714926724,
+    "number": 33854,
+    "title": "Failed build: CI - with Numpy&#x2F;Scipy nightly wheels (nightly)",
+    "url": "https://github.com/jax-ml/jax/issues/33854",
+    "created_at": "2025-12-10T12:07:44Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "build failed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3714948114,
+    "number": 170064,
+    "title": "[BUG][Inductor] NoValidChoicesError when using torch.compile with inductor backend",
+    "url": "https://github.com/pytorch/pytorch/issues/170064",
+    "created_at": "2025-12-10T12:13:47Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
