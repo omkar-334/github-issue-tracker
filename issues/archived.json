@@ -1,30 +1,112 @@
 [
   {
-    "repo": "keras-team/keras-cv",
-    "id": 2727627840,
-    "number": 2509,
-    "title": "Division of data into training and validation set  & COCO Metric Callback not working with Keras CV implementation as expected",
-    "url": "https://github.com/keras-team/keras-cv/issues/2509",
-    "created_at": "2024-12-09T16:26:38Z",
-    "user": "alinaivanovaoff",
+    "repo": "pytorch/vision",
+    "id": 646911899,
+    "number": 2360,
+    "title": "subprocess.CalledProcessError: Command '['ninja', '-v']' returned non-zero exit status 1",
+    "url": "https://github.com/pytorch/vision/issues/2360",
+    "created_at": "2020-06-28T12:49:45Z",
+    "user": "puraminy",
     "labels": [
-      "stat:awaiting response from contributor"
+      "awaiting response",
+      "needs reproduction",
+      "topic: build"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "keras-team/keras-hub",
-    "id": 2727689516,
-    "number": 2015,
-    "title": "How to export `Tokenizer`-s?",
-    "url": "https://github.com/keras-team/keras-hub/issues/2015",
-    "created_at": "2024-12-09T16:50:52Z",
-    "user": "fdtomasi",
+    "repo": "matplotlib/matplotlib",
+    "id": 1197848211,
+    "number": 22808,
+    "title": "[Bug]: Doesn't show 1-channel image by using matplotlib.image.AxesImage.set_data()",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22808",
+    "created_at": "2022-04-08T21:23:39Z",
+    "user": "nicolasrosa",
     "labels": [
-      "type:Bug"
+      "topic: images",
+      "status: inactive"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1200799961,
+    "number": 22829,
+    "title": "[Bug]: Labels for log ticks with scalar formatter rounded to zero",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22829",
+    "created_at": "2022-04-12T01:51:23Z",
+    "user": "mwaskom",
+    "labels": [
+      "Documentation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1225441944,
+    "number": 22971,
+    "title": "[Bug]: svg.fonttype = none and text.usetex = True not working together",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22971",
+    "created_at": "2022-05-04T14:20:30Z",
+    "user": "paulgoulain",
+    "labels": [
+      "backend: svg",
+      "topic: text/usetex",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1250556294,
+    "number": 23152,
+    "title": "[ENH]: Better URL support for PDF backend",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23152",
+    "created_at": "2022-05-27T09:37:58Z",
+    "user": "oscargus",
+    "labels": [
+      "New feature",
+      "backend: pdf",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1261029689,
+    "number": 23204,
+    "title": "[Doc]: More plot types?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23204",
+    "created_at": "2022-06-05T11:48:03Z",
+    "user": "oscargus",
+    "labels": [
+      "Documentation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

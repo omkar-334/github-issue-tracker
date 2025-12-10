@@ -5399,6 +5399,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3041033893,
+      "number": 31121,
+      "title": "Custom Mistral model returns `\"content\": null` for a tool call, failing Pydantic mapping",
+      "url": "https://github.com/langchain-ai/langchain/issues/31121",
+      "created_at": "2025-05-05T23:04:45Z",
+      "user": "eddie-duvall-wwt",
+      "labels": [
+        "help wanted",
+        "bug",
+        "investigate",
+        "mistralai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3041221493,
       "number": 13812,
@@ -35968,6 +35986,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3630003877,
+      "number": 58674,
+      "title": "[Data] - Ray Data Compute Expressions",
+      "url": "https://github.com/ray-project/ray/issues/58674",
+      "created_at": "2025-11-16T05:58:23Z",
+      "user": "goutamvenkat-anyscale",
+      "labels": [
+        "good-first-issue",
+        "enhancement",
+        "triage",
+        "usability",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openml/openml-python",
       "id": 3630249565,
       "number": 1456,
@@ -58906,8 +58943,154 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numba/numba",
+      "id": 3713207577,
+      "number": 10379,
+      "title": "Nested jitted function does not handle nonlocal variable correctly",
+      "url": "https://github.com/numba/numba/issues/10379",
+      "created_at": "2025-12-10T01:28:24Z",
+      "user": "leoadberg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3713222704,
+      "number": 9120,
+      "title": "[Bug] TypeError in usage_tracker.py: object of type 'int' has no len() when merging usage entries",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9120",
+      "created_at": "2025-12-10T01:37:40Z",
+      "user": "chizukicn",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3713225689,
+      "number": 59326,
+      "title": "[Data] - Write Datasink remove handling for skipping writes",
+      "url": "https://github.com/ray-project/ray/issues/59326",
+      "created_at": "2025-12-10T01:39:18Z",
+      "user": "goutamvenkat-anyscale",
+      "labels": [
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3713228490,
+      "number": 3701,
+      "title": "[Bug] RuntimeError: Unsloth: Saving LoRA finetune failed since # of LoRAs = 9360 does not match # of saved modules = 144. Please file a bug report!",
+      "url": "https://github.com/unslothai/unsloth/issues/3701",
+      "created_at": "2025-12-10T01:40:48Z",
+      "user": "aleksanderhan",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3713238593,
+      "number": 170023,
+      "title": "`ExportedProgram.run_decompositions` fails on `torch.isin`",
+      "url": "https://github.com/pytorch/pytorch/issues/170023",
+      "created_at": "2025-12-10T01:46:57Z",
+      "user": "ar0ck",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3713256702,
+      "number": 59327,
+      "title": "[core] Long recovery time after cluster experienced long IDEL time",
+      "url": "https://github.com/ray-project/ray/issues/59327",
+      "created_at": "2025-12-10T01:57:47Z",
+      "user": "duweilinr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3713277744,
+      "number": 16173,
+      "title": "use my own vela .ini to convert and face error",
+      "url": "https://github.com/pytorch/executorch/issues/16173",
+      "created_at": "2025-12-10T02:10:08Z",
+      "user": "kris-himax",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3713284747,
+      "number": 34278,
+      "title": "Unexpected Execution Flow When Unified Error-Handling Decorator Conflicts with Explicitly Defined Edges in StateGraph",
+      "url": "https://github.com/langchain-ai/langchain/issues/34278",
+      "created_at": "2025-12-10T02:14:01Z",
+      "user": "chenxiaofeigit",
+      "labels": [
+        "bug",
+        "core",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3713335476,
+      "number": 42757,
+      "title": "cannot import name 'is_offline_mode' from 'huggingface_hub'",
+      "url": "https://github.com/huggingface/transformers/issues/42757",
+      "created_at": "2025-12-10T02:43:43Z",
+      "user": "dollarser",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3713340295,
+      "number": 3742,
+      "title": "Bug: `<span>` and `<label>` elements not detected as interactive - breaks Ant Design support",
+      "url": "https://github.com/browser-use/browser-use/issues/3742",
+      "created_at": "2025-12-10T02:46:21Z",
+      "user": "ditingdapeng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T01:14:53Z",
-  "total_count": 3914
+  "last_updated": "2025-12-10T03:08:14Z",
+  "total_count": 3926
 }
