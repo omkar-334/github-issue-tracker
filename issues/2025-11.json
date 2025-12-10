@@ -4241,6 +4241,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3617301096,
+    "number": 16538,
+    "title": "[Bug]: Missing 'llm_provider-x-request-id' and 'llm_provider-apim-request-id' in completion.headers of AsyncOpenAI.chat.completions.with_raw_response.create() with gpt-5-codex.",
+    "url": "https://github.com/BerriAI/litellm/issues/16538",
+    "created_at": "2025-11-12T16:32:21Z",
+    "user": "sridharc-ntap",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3617466096,
     "number": 1053,
