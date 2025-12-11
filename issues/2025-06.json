@@ -1409,6 +1409,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3157448509,
+    "number": 53923,
+    "title": "[Docker][CI] Add Python 3.13 Ray Image to CI",
+    "url": "https://github.com/ray-project/ray/issues/53923",
+    "created_at": "2025-06-18T16:07:29Z",
+    "user": "broden-wanner",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "core",
+      "tech-debt",
+      "ci-test"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3157476254,
     "number": 2836,

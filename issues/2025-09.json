@@ -3200,6 +3200,21 @@
   },
   {
     "repo": "huggingface/transformers",
+    "id": 3406911750,
+    "number": 40822,
+    "title": "Welcome v5",
+    "url": "https://github.com/huggingface/transformers/issues/40822",
+    "created_at": "2025-09-11T14:49:29Z",
+    "user": "LysandreJik",
+    "labels": [
+      "for_v5?"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
     "id": 3407287871,
     "number": 40827,
     "title": "[`Cache`] Proper support for Linear Attention (related) caches",
