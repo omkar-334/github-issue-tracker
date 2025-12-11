@@ -12833,5 +12833,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3717628754,
+    "number": 3712,
+    "title": "[Bug] Qwen3 MOE note working properly",
+    "url": "https://github.com/unslothai/unsloth/issues/3712",
+    "created_at": "2025-12-11T03:54:21Z",
+    "user": "shimmyshimmer",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

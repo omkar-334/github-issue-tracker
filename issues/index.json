@@ -7153,6 +7153,29 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3091666271,
+      "number": 154365,
+      "title": "Dynamo cannot trace into wrap_triton",
+      "url": "https://github.com/pytorch/pytorch/issues/154365",
+      "created_at": "2025-05-26T16:38:04Z",
+      "user": "prajwal1210",
+      "labels": [
+        "high priority",
+        "triaged",
+        "module: regression",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: graph breaks",
+        "module: higher order operators",
+        "module: pt2-dispatcher",
+        "module: sdpa"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3091748022,
       "number": 3919,
@@ -61239,8 +61262,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3717628754,
+      "number": 3712,
+      "title": "[Bug] Qwen3 MOE note working properly",
+      "url": "https://github.com/unslothai/unsloth/issues/3712",
+      "created_at": "2025-12-11T03:54:21Z",
+      "user": "shimmyshimmer",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T03:10:49Z",
-  "total_count": 4064
+  "last_updated": "2025-12-11T04:10:02Z",
+  "total_count": 4066
 }

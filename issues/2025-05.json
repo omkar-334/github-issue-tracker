@@ -1761,6 +1761,29 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3091666271,
+    "number": 154365,
+    "title": "Dynamo cannot trace into wrap_triton",
+    "url": "https://github.com/pytorch/pytorch/issues/154365",
+    "created_at": "2025-05-26T16:38:04Z",
+    "user": "prajwal1210",
+    "labels": [
+      "high priority",
+      "triaged",
+      "module: regression",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: graph breaks",
+      "module: higher order operators",
+      "module: pt2-dispatcher",
+      "module: sdpa"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3091748022,
     "number": 3919,
