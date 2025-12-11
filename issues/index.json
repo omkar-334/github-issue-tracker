@@ -62341,8 +62341,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openai/openai-python",
+      "id": 3718888419,
+      "number": 2776,
+      "title": "Vision example throws an error",
+      "url": "https://github.com/openai/openai-python/issues/2776",
+      "created_at": "2025-12-11T11:01:50Z",
+      "user": "gee-gendo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3718889244,
+      "number": 3882,
+      "title": "`accelerate.load_checkpoint_and_dispatch` does not load GPT-OSS Models correctly",
+      "url": "https://github.com/huggingface/accelerate/issues/3882",
+      "created_at": "2025-12-11T11:02:04Z",
+      "user": "KyleMylonakisProtopia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3718896095,
+      "number": 59382,
+      "title": "[RLlib] Can we increase to gymnasium v1.2.*?",
+      "url": "https://github.com/ray-project/ray/issues/59382",
+      "created_at": "2025-12-11T11:04:09Z",
+      "user": "Daraan",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T10:49:09Z",
-  "total_count": 4137
+  "last_updated": "2025-12-11T11:16:08Z",
+  "total_count": 4140
 }
