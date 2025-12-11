@@ -9637,6 +9637,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3169614805,
+      "number": 156649,
+      "title": "[dynamo] torch.randint_like on DTensor does not work with compile",
+      "url": "https://github.com/pytorch/pytorch/issues/156649",
+      "created_at": "2025-06-23T22:23:02Z",
+      "user": "nathan-az",
+      "labels": [
+        "oncall: distributed",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: dtensor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchrec",
       "id": 3169802857,
       "number": 3132,
@@ -62385,8 +62404,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3718953515,
+      "number": 2949,
+      "title": "Deprecation of warmup_ratio argument in transformers v5",
+      "url": "https://github.com/huggingface/peft/issues/2949",
+      "created_at": "2025-12-11T11:21:41Z",
+      "user": "BenjaminBossan",
+      "labels": [
+        "contributions-welcome"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3718960489,
+      "number": 17821,
+      "title": "[Bug]: TypeError: string indices must be integers in is_cached_message when using Gemini models with tool calls",
+      "url": "https://github.com/BerriAI/litellm/issues/17821",
+      "created_at": "2025-12-11T11:23:30Z",
+      "user": "mboret",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T11:16:08Z",
-  "total_count": 4140
+  "last_updated": "2025-12-11T11:40:27Z",
+  "total_count": 4143
 }

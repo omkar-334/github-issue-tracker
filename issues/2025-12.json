@@ -13584,5 +13584,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3718953515,
+    "number": 2949,
+    "title": "Deprecation of warmup_ratio argument in transformers v5",
+    "url": "https://github.com/huggingface/peft/issues/2949",
+    "created_at": "2025-12-11T11:21:41Z",
+    "user": "BenjaminBossan",
+    "labels": [
+      "contributions-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718960489,
+    "number": 17821,
+    "title": "[Bug]: TypeError: string indices must be integers in is_cached_message when using Gemini models with tool calls",
+    "url": "https://github.com/BerriAI/litellm/issues/17821",
+    "created_at": "2025-12-11T11:23:30Z",
+    "user": "mboret",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

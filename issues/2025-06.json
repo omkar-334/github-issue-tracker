@@ -1909,6 +1909,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3169614805,
+    "number": 156649,
+    "title": "[dynamo] torch.randint_like on DTensor does not work with compile",
+    "url": "https://github.com/pytorch/pytorch/issues/156649",
+    "created_at": "2025-06-23T22:23:02Z",
+    "user": "nathan-az",
+    "labels": [
+      "oncall: distributed",
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3169802857,
     "number": 3132,
