@@ -1,12 +1,60 @@
 [
   {
     "repo": "matplotlib/matplotlib",
-    "id": 2393132887,
-    "number": 28513,
-    "title": "[Bug]: Segfault when using `close_event` with macosx backend and tk",
-    "url": "https://github.com/matplotlib/matplotlib/issues/28513",
-    "created_at": "2024-07-05T20:53:35Z",
-    "user": "charwick",
+    "id": 1197435591,
+    "number": 22803,
+    "title": "[Bug]: Large file size when using fill_between()",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22803",
+    "created_at": "2022-04-08T15:05:54Z",
+    "user": "tgrohens",
+    "labels": [
+      "Difficulty: Medium",
+      "Good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 2019737587,
+    "number": 56272,
+    "title": "BUG: `.idxmax` returns legacy strings for pyarrow dataframes",
+    "url": "https://github.com/pandas-dev/pandas/issues/56272",
+    "created_at": "2023-12-01T00:06:16Z",
+    "user": "mattharrison",
+    "labels": [
+      "Bug",
+      "Dtype Conversions",
+      "Arrow"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2730661406,
+    "number": 2263,
+    "title": "Python < 3.10 - TypeError: 'staticmethod' object is not callable",
+    "url": "https://github.com/3b1b/manim/issues/2263",
+    "created_at": "2024-12-10T16:53:25Z",
+    "user": "jeertmans",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 2731043813,
+    "number": 1698,
+    "title": "Tokenizer Training Errors: pyo3_runtime.PanicException: called `Result::unwrap()` on an `Err` value: TryFromIntError(())",
+    "url": "https://github.com/huggingface/tokenizers/issues/1698",
+    "created_at": "2024-12-10T19:47:32Z",
+    "user": "Chimaco37",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

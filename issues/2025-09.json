@@ -208,6 +208,24 @@
   },
   {
     "repo": "BerriAI/litellm",
+    "id": 3374102003,
+    "number": 14159,
+    "title": "[Bug]: Some line breaks may be lost in streaming mode.",
+    "url": "https://github.com/BerriAI/litellm/issues/14159",
+    "created_at": "2025-09-02T01:43:56Z",
+    "user": "gx-song",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
     "id": 3374484945,
     "number": 14165,
     "title": "[Bug]: Model info changes not synchronized across multiple LiteLLM instances",
@@ -322,6 +340,22 @@
     "created_at": "2025-09-02T11:51:10Z",
     "user": "vkuzo",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3375891128,
+    "number": 14175,
+    "title": "[Feature]: different way to pass user when using service account",
+    "url": "https://github.com/BerriAI/litellm/issues/14175",
+    "created_at": "2025-09-02T12:46:59Z",
+    "user": "stdweird",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1138,6 +1172,23 @@
     "user": "joscha-alisch",
     "labels": [
       "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3385510765,
+    "number": 14271,
+    "title": "[Bug]: googleSearch tool doesn't work with tool_choice=auto",
+    "url": "https://github.com/BerriAI/litellm/issues/14271",
+    "created_at": "2025-09-04T21:20:47Z",
+    "user": "winternewt",
+    "labels": [
+      "bug",
+      "llm translation",
       "stale"
     ],
     "has_linked_pr": false,
@@ -2785,6 +2836,40 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3404322217,
+    "number": 14424,
+    "title": "[Bug]: Tool responses must wrap base64 in \"json\" for Strands → Claude",
+    "url": "https://github.com/BerriAI/litellm/issues/14424",
+    "created_at": "2025-09-11T00:23:53Z",
+    "user": "berri-teddy",
+    "labels": [
+      "bug",
+      "stale",
+      "enterprise",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3404524742,
+    "number": 14431,
+    "title": "Local private large language models cannot be used",
+    "url": "https://github.com/BerriAI/litellm/issues/14431",
+    "created_at": "2025-09-11T02:46:35Z",
+    "user": "944386136",
+    "labels": [
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 3404623444,
     "number": 2390,
@@ -2793,6 +2878,23 @@
     "created_at": "2025-09-11T03:37:41Z",
     "user": "mathsvisualization",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3404812486,
+    "number": 14435,
+    "title": "[Bug]: vertexai-gemini-tts models are not playing male voice",
+    "url": "https://github.com/BerriAI/litellm/issues/14435",
+    "created_at": "2025-09-11T05:10:56Z",
+    "user": "webgeek16",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -2807,6 +2909,23 @@
     "user": "jkryanchou",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3405321837,
+    "number": 14437,
+    "title": "[Bug]: Cannot use vertex_ai model",
+    "url": "https://github.com/BerriAI/litellm/issues/14437",
+    "created_at": "2025-09-11T08:02:06Z",
+    "user": "leelax22",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2858,6 +2977,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3405683405,
+    "number": 14439,
+    "title": "[Feature]: can i use CustomRoutingStrategy in proxy mode",
+    "url": "https://github.com/BerriAI/litellm/issues/14439",
+    "created_at": "2025-09-11T09:35:00Z",
+    "user": "jerryan999",
+    "labels": [
+      "enhancement",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3405699070,
     "number": 3072,
@@ -2882,6 +3017,22 @@
     "user": "r3kste",
     "labels": [
       "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3405889887,
+    "number": 14442,
+    "title": "[Bug]: mixup between UI and Swagger routing",
+    "url": "https://github.com/BerriAI/litellm/issues/14442",
+    "created_at": "2025-09-11T10:27:47Z",
+    "user": "Joseph1977",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2995,6 +3146,59 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3406589267,
+    "number": 14447,
+    "title": "[Bug]: Output cost per second not calculated for Deepgram Nova-3 audio transcriptions",
+    "url": "https://github.com/BerriAI/litellm/issues/14447",
+    "created_at": "2025-09-11T13:32:23Z",
+    "user": "MustafaDUT",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3406885581,
+    "number": 14453,
+    "title": "[Bug]: OpenAI to VertexAI transformations adds an empty generationConfig that Vertex AI does not like",
+    "url": "https://github.com/BerriAI/litellm/issues/14453",
+    "created_at": "2025-09-11T14:42:18Z",
+    "user": "abdulhuq811",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3406908050,
+    "number": 14454,
+    "title": "[Bug]: OpenAI Batch Retrieve Endpoint Fails against VertexAI provider",
+    "url": "https://github.com/BerriAI/litellm/issues/14454",
+    "created_at": "2025-09-11T14:48:32Z",
+    "user": "abdulhuq811",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3407287871,
     "number": 40827,
@@ -3010,6 +3214,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3407505390,
+    "number": 14463,
+    "title": "[Bug]: Model Hub Duplications from Wildcards",
+    "url": "https://github.com/BerriAI/litellm/issues/14463",
+    "created_at": "2025-09-11T17:39:09Z",
+    "user": "therealpygon",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3407726698,
     "number": 30549,
@@ -3019,6 +3240,21 @@
     "user": "lganic",
     "labels": [
       "status: confirmed bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3407928509,
+    "number": 14465,
+    "title": "Fix \"vertex_ai/deepseek-ai/deepseek-r1-0528-maas\" entry in \"model_prices_and_context_window.json\"",
+    "url": "https://github.com/BerriAI/litellm/issues/14465",
+    "created_at": "2025-09-11T20:20:59Z",
+    "user": "christopherquenneville",
+    "labels": [
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

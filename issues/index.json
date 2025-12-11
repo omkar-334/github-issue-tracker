@@ -1,34 +1,6 @@
 {
   "issues": [
     {
-      "repo": "3b1b/manim",
-      "id": 2730661406,
-      "number": 2263,
-      "title": "Python < 3.10 - TypeError: 'staticmethod' object is not callable",
-      "url": "https://github.com/3b1b/manim/issues/2263",
-      "created_at": "2024-12-10T16:53:25Z",
-      "user": "jeertmans",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "huggingface/tokenizers",
-      "id": 2731043813,
-      "number": 1698,
-      "title": "Tokenizer Training Errors: pyo3_runtime.PanicException: called `Result::unwrap()` on an `Err` value: TryFromIntError(())",
-      "url": "https://github.com/huggingface/tokenizers/issues/1698",
-      "created_at": "2024-12-10T19:47:32Z",
-      "user": "Chimaco37",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "pytorch/torchchat",
       "id": 2731744121,
       "number": 1416,
@@ -1949,6 +1921,21 @@
         "Needs Investigation",
         "free-threading",
         "OS:Windows"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2850590253,
+      "number": 8513,
+      "title": "[Feature]: Set currency by env variable",
+      "url": "https://github.com/BerriAI/litellm/issues/8513",
+      "created_at": "2025-02-13T10:16:03Z",
+      "user": "Mte90",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -4621,6 +4608,22 @@
       "created_at": "2025-04-17T02:35:14Z",
       "user": "monaja",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3002606739,
+      "number": 10108,
+      "title": "[Bug]: UnsupportedParamsError for reasoning_effort with OpenAI o4-mini model",
+      "url": "https://github.com/BerriAI/litellm/issues/10108",
+      "created_at": "2025-04-17T14:04:41Z",
+      "user": "hongquando",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -8585,6 +8588,23 @@
         "enhancement",
         "module:test_framework",
         "module:models"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3139150792,
+      "number": 11656,
+      "title": "[Bug]: Unknown Premium error",
+      "url": "https://github.com/BerriAI/litellm/issues/11656",
+      "created_at": "2025-06-12T07:22:46Z",
+      "user": "MustafaDUT",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -14819,6 +14839,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3322904689,
+      "number": 13621,
+      "title": "[Feature]: need support vertex qwen model",
+      "url": "https://github.com/BerriAI/litellm/issues/13621",
+      "created_at": "2025-08-14T16:53:00Z",
+      "user": "zyc945",
+      "labels": [
+        "enhancement",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3323167359,
       "number": 3069,
@@ -15392,6 +15429,24 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3338529957,
+      "number": 13812,
+      "title": "[Feature]: Add Response + Transformed Response to /utils/transform_request endpoint)",
+      "url": "https://github.com/BerriAI/litellm/issues/13812",
+      "created_at": "2025-08-20T15:10:16Z",
+      "user": "TeddyAmkie",
+      "labels": [
+        "enhancement",
+        "stale",
+        "enterprise",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3338667980,
       "number": 3089,
@@ -15781,6 +15836,23 @@
       "labels": [
         "bug",
         "Azure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3353329068,
+      "number": 13950,
+      "title": "[Feature]: Distinguish Azure deployments from models",
+      "url": "https://github.com/BerriAI/litellm/issues/13950",
+      "created_at": "2025-08-25T21:57:57Z",
+      "user": "ColeFrench",
+      "labels": [
+        "enhancement",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -16772,6 +16844,24 @@
     },
     {
       "repo": "BerriAI/litellm",
+      "id": 3374102003,
+      "number": 14159,
+      "title": "[Bug]: Some line breaks may be lost in streaming mode.",
+      "url": "https://github.com/BerriAI/litellm/issues/14159",
+      "created_at": "2025-09-02T01:43:56Z",
+      "user": "gx-song",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
       "id": 3374484945,
       "number": 14165,
       "title": "[Bug]: Model info changes not synchronized across multiple LiteLLM instances",
@@ -16886,6 +16976,22 @@
       "created_at": "2025-09-02T11:51:10Z",
       "user": "vkuzo",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3375891128,
+      "number": 14175,
+      "title": "[Feature]: different way to pass user when using service account",
+      "url": "https://github.com/BerriAI/litellm/issues/14175",
+      "created_at": "2025-09-02T12:46:59Z",
+      "user": "stdweird",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -17702,6 +17808,23 @@
       "user": "joscha-alisch",
       "labels": [
         "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3385510765,
+      "number": 14271,
+      "title": "[Bug]: googleSearch tool doesn't work with tool_choice=auto",
+      "url": "https://github.com/BerriAI/litellm/issues/14271",
+      "created_at": "2025-09-04T21:20:47Z",
+      "user": "winternewt",
+      "labels": [
+        "bug",
+        "llm translation",
         "stale"
       ],
       "has_linked_pr": false,
@@ -19349,6 +19472,40 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3404322217,
+      "number": 14424,
+      "title": "[Bug]: Tool responses must wrap base64 in \"json\" for Strands → Claude",
+      "url": "https://github.com/BerriAI/litellm/issues/14424",
+      "created_at": "2025-09-11T00:23:53Z",
+      "user": "berri-teddy",
+      "labels": [
+        "bug",
+        "stale",
+        "enterprise",
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3404524742,
+      "number": 14431,
+      "title": "Local private large language models cannot be used",
+      "url": "https://github.com/BerriAI/litellm/issues/14431",
+      "created_at": "2025-09-11T02:46:35Z",
+      "user": "944386136",
+      "labels": [
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 3404623444,
       "number": 2390,
@@ -19357,6 +19514,23 @@
       "created_at": "2025-09-11T03:37:41Z",
       "user": "mathsvisualization",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3404812486,
+      "number": 14435,
+      "title": "[Bug]: vertexai-gemini-tts models are not playing male voice",
+      "url": "https://github.com/BerriAI/litellm/issues/14435",
+      "created_at": "2025-09-11T05:10:56Z",
+      "user": "webgeek16",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -19371,6 +19545,23 @@
       "user": "jkryanchou",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3405321837,
+      "number": 14437,
+      "title": "[Bug]: Cannot use vertex_ai model",
+      "url": "https://github.com/BerriAI/litellm/issues/14437",
+      "created_at": "2025-09-11T08:02:06Z",
+      "user": "leelax22",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -19422,6 +19613,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3405683405,
+      "number": 14439,
+      "title": "[Feature]: can i use CustomRoutingStrategy in proxy mode",
+      "url": "https://github.com/BerriAI/litellm/issues/14439",
+      "created_at": "2025-09-11T09:35:00Z",
+      "user": "jerryan999",
+      "labels": [
+        "enhancement",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3405699070,
       "number": 3072,
@@ -19446,6 +19653,22 @@
       "user": "r3kste",
       "labels": [
         "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3405889887,
+      "number": 14442,
+      "title": "[Bug]: mixup between UI and Swagger routing",
+      "url": "https://github.com/BerriAI/litellm/issues/14442",
+      "created_at": "2025-09-11T10:27:47Z",
+      "user": "Joseph1977",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -19559,6 +19782,59 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3406589267,
+      "number": 14447,
+      "title": "[Bug]: Output cost per second not calculated for Deepgram Nova-3 audio transcriptions",
+      "url": "https://github.com/BerriAI/litellm/issues/14447",
+      "created_at": "2025-09-11T13:32:23Z",
+      "user": "MustafaDUT",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3406885581,
+      "number": 14453,
+      "title": "[Bug]: OpenAI to VertexAI transformations adds an empty generationConfig that Vertex AI does not like",
+      "url": "https://github.com/BerriAI/litellm/issues/14453",
+      "created_at": "2025-09-11T14:42:18Z",
+      "user": "abdulhuq811",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3406908050,
+      "number": 14454,
+      "title": "[Bug]: OpenAI Batch Retrieve Endpoint Fails against VertexAI provider",
+      "url": "https://github.com/BerriAI/litellm/issues/14454",
+      "created_at": "2025-09-11T14:48:32Z",
+      "user": "abdulhuq811",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3407287871,
       "number": 40827,
@@ -19574,6 +19850,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3407505390,
+      "number": 14463,
+      "title": "[Bug]: Model Hub Duplications from Wildcards",
+      "url": "https://github.com/BerriAI/litellm/issues/14463",
+      "created_at": "2025-09-11T17:39:09Z",
+      "user": "therealpygon",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3407726698,
       "number": 30549,
@@ -19583,6 +19876,21 @@
       "user": "lganic",
       "labels": [
         "status: confirmed bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3407928509,
+      "number": 14465,
+      "title": "Fix \"vertex_ai/deepseek-ai/deepseek-r1-0528-maas\" entry in \"model_prices_and_context_window.json\"",
+      "url": "https://github.com/BerriAI/litellm/issues/14465",
+      "created_at": "2025-09-11T20:20:59Z",
+      "user": "christopherquenneville",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -60728,8 +61036,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717166782,
+      "number": 170138,
+      "title": "Performance regression of depthwise Conv1d with fp16/fp32 AMP from 2.7.1 -> 2.8.0 and the issue remains in 2.9.1",
+      "url": "https://github.com/pytorch/pytorch/issues/170138",
+      "created_at": "2025-12-10T23:54:42Z",
+      "user": "maxwellzh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3717202322,
+      "number": 33872,
+      "title": "NotImplementedError in reverse-mode autodiff of custom_root with scipy.sparse.linalg linear solvers",
+      "url": "https://github.com/jax-ml/jax/issues/33872",
+      "created_at": "2025-12-11T00:14:40Z",
+      "user": "fishjojo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3717204110,
+      "number": 16190,
+      "title": "Demo apps should not hardcode templates/model types",
+      "url": "https://github.com/pytorch/executorch/issues/16190",
+      "created_at": "2025-12-11T00:15:32Z",
+      "user": "metascroy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3717224713,
+      "number": 33874,
+      "title": "[BUG] Cannot recognise CUDA device when installed along with tensorflow",
+      "url": "https://github.com/jax-ml/jax/issues/33874",
+      "created_at": "2025-12-11T00:25:29Z",
+      "user": "OutisLi",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-10T23:39:23Z",
-  "total_count": 4032
+  "last_updated": "2025-12-11T01:15:36Z",
+  "total_count": 4054
 }

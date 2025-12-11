@@ -809,6 +809,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3002606739,
+    "number": 10108,
+    "title": "[Bug]: UnsupportedParamsError for reasoning_effort with OpenAI o4-mini model",
+    "url": "https://github.com/BerriAI/litellm/issues/10108",
+    "created_at": "2025-04-17T14:04:41Z",
+    "user": "hongquando",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3006222717,
     "number": 9025,

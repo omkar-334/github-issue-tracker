@@ -1362,6 +1362,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3322904689,
+    "number": 13621,
+    "title": "[Feature]: need support vertex qwen model",
+    "url": "https://github.com/BerriAI/litellm/issues/13621",
+    "created_at": "2025-08-14T16:53:00Z",
+    "user": "zyc945",
+    "labels": [
+      "enhancement",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3323167359,
     "number": 3069,
@@ -1935,6 +1952,24 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3338529957,
+    "number": 13812,
+    "title": "[Feature]: Add Response + Transformed Response to /utils/transform_request endpoint)",
+    "url": "https://github.com/BerriAI/litellm/issues/13812",
+    "created_at": "2025-08-20T15:10:16Z",
+    "user": "TeddyAmkie",
+    "labels": [
+      "enhancement",
+      "stale",
+      "enterprise",
+      "P2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3338667980,
     "number": 3089,
@@ -2324,6 +2359,23 @@
     "labels": [
       "bug",
       "Azure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3353329068,
+    "number": 13950,
+    "title": "[Feature]: Distinguish Azure deployments from models",
+    "url": "https://github.com/BerriAI/litellm/issues/13950",
+    "created_at": "2025-08-25T21:57:57Z",
+    "user": "ColeFrench",
+    "labels": [
+      "enhancement",
+      "llm translation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

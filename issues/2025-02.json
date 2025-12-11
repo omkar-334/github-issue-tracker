@@ -345,6 +345,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 2850590253,
+    "number": 8513,
+    "title": "[Feature]: Set currency by env variable",
+    "url": "https://github.com/BerriAI/litellm/issues/8513",
+    "created_at": "2025-02-13T10:16:03Z",
+    "user": "Mte90",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2850709175,
     "number": 1768,

@@ -12650,5 +12650,61 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3717166782,
+    "number": 170138,
+    "title": "Performance regression of depthwise Conv1d with fp16/fp32 AMP from 2.7.1 -> 2.8.0 and the issue remains in 2.9.1",
+    "url": "https://github.com/pytorch/pytorch/issues/170138",
+    "created_at": "2025-12-10T23:54:42Z",
+    "user": "maxwellzh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3717202322,
+    "number": 33872,
+    "title": "NotImplementedError in reverse-mode autodiff of custom_root with scipy.sparse.linalg linear solvers",
+    "url": "https://github.com/jax-ml/jax/issues/33872",
+    "created_at": "2025-12-11T00:14:40Z",
+    "user": "fishjojo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3717204110,
+    "number": 16190,
+    "title": "Demo apps should not hardcode templates/model types",
+    "url": "https://github.com/pytorch/executorch/issues/16190",
+    "created_at": "2025-12-11T00:15:32Z",
+    "user": "metascroy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3717224713,
+    "number": 33874,
+    "title": "[BUG] Cannot recognise CUDA device when installed along with tensorflow",
+    "url": "https://github.com/jax-ml/jax/issues/33874",
+    "created_at": "2025-12-11T00:25:29Z",
+    "user": "OutisLi",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
