@@ -23910,6 +23910,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3483550342,
+      "number": 14804,
+      "title": "Android runtime execution - Execution of method forward failed with status 0x12",
+      "url": "https://github.com/pytorch/executorch/issues/14804",
+      "created_at": "2025-10-04T10:53:44Z",
+      "user": "adonnini",
+      "labels": [
+        "need-user-input",
+        "module: android"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3483628548,
       "number": 41341,
@@ -24286,6 +24302,25 @@
       "labels": [
         "New Feature",
         "module:datasets"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3488553106,
+      "number": 164760,
+      "title": "Different Error behavior depending on if numpy is installed",
+      "url": "https://github.com/pytorch/pytorch/issues/164760",
+      "created_at": "2025-10-06T18:34:21Z",
+      "user": "drisspg",
+      "labels": [
+        "triaged",
+        "module: numpy",
+        "module: __torch_function__",
+        "oncall: pt2",
+        "module: dynamo"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -62588,8 +62623,80 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3719726169,
+      "number": 19333,
+      "title": "How to query traces by token count and other informations?",
+      "url": "https://github.com/mlflow/mlflow/issues/19333",
+      "created_at": "2025-12-11T14:50:09Z",
+      "user": "anonymousjerry",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3719765408,
+      "number": 30837,
+      "title": "[Bug]: Some king of smoothing by default? When generating line plots?????",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30837",
+      "created_at": "2025-12-11T15:00:10Z",
+      "user": "stathisar",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3719773996,
+      "number": 24141,
+      "title": "BUG: `milp` solver claims optimality but returns an infeasible solution",
+      "url": "https://github.com/scipy/scipy/issues/24141",
+      "created_at": "2025-12-11T15:02:32Z",
+      "user": "lefebvreb",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3719797285,
+      "number": 33883,
+      "title": "FFT support (jnp.fft.fft2) for FlowLenia/convolution workloads",
+      "url": "https://github.com/jax-ml/jax/issues/33883",
+      "created_at": "2025-12-11T15:08:54Z",
+      "user": "bryn-holt",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3719801028,
+      "number": 13317,
+      "title": "Keep scroll position in `st.multiselect` when unselecting an item",
+      "url": "https://github.com/streamlit/streamlit/issues/13317",
+      "created_at": "2025-12-11T15:09:56Z",
+      "user": "jrieke",
+      "labels": [
+        "type:enhancement",
+        "feature:st.multiselect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T14:45:31Z",
-  "total_count": 4153
+  "last_updated": "2025-12-11T15:20:20Z",
+  "total_count": 4160
 }

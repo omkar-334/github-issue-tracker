@@ -615,6 +615,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3483550342,
+    "number": 14804,
+    "title": "Android runtime execution - Execution of method forward failed with status 0x12",
+    "url": "https://github.com/pytorch/executorch/issues/14804",
+    "created_at": "2025-10-04T10:53:44Z",
+    "user": "adonnini",
+    "labels": [
+      "need-user-input",
+      "module: android"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3483628548,
     "number": 41341,
@@ -991,6 +1007,25 @@
     "labels": [
       "New Feature",
       "module:datasets"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3488553106,
+    "number": 164760,
+    "title": "Different Error behavior depending on if numpy is installed",
+    "url": "https://github.com/pytorch/pytorch/issues/164760",
+    "created_at": "2025-10-06T18:34:21Z",
+    "user": "drisspg",
+    "labels": [
+      "triaged",
+      "module: numpy",
+      "module: __torch_function__",
+      "oncall: pt2",
+      "module: dynamo"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
