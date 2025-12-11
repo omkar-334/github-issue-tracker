@@ -62775,8 +62775,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3720006214,
+      "number": 24142,
+      "title": "CI/DEV: consider adding `actionlint` to lint suite",
+      "url": "https://github.com/scipy/scipy/issues/24142",
+      "created_at": "2025-12-11T16:02:07Z",
+      "user": "lucascolley",
+      "labels": [
+        "CI",
+        "DX"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3720027102,
+      "number": 17828,
+      "title": "[Feature]: Add support for Amazon Bedrock `serviceTier` parameter in Converse API",
+      "url": "https://github.com/BerriAI/litellm/issues/17828",
+      "created_at": "2025-12-11T16:06:31Z",
+      "user": "shay314",
+      "labels": [
+        "enhancement",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3720053560,
+      "number": 2140,
+      "title": "Validation breaking with FlashAttention",
+      "url": "https://github.com/pytorch/torchtitan/issues/2140",
+      "created_at": "2025-12-11T16:14:17Z",
+      "user": "francesco-bertolotti",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T15:48:49Z",
-  "total_count": 4165
+  "last_updated": "2025-12-11T16:24:57Z",
+  "total_count": 4168
 }
