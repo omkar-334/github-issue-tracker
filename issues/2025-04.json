@@ -260,6 +260,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 2976132548,
+    "number": 30703,
+    "title": "`on_llm_new_token` gets list of dicts instead of expected string",
+    "url": "https://github.com/langchain-ai/langchain/issues/30703",
+    "created_at": "2025-04-07T08:58:47Z",
+    "user": "maver1ck",
+    "labels": [
+      "bug",
+      "investigate",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2980606657,
     "number": 22816,

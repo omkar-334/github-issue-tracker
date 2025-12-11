@@ -3181,6 +3181,19 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 2925270353,
+      "number": 30323,
+      "title": "Implement `langchain-opensearch`",
+      "url": "https://github.com/langchain-ai/langchain/issues/30323",
+      "created_at": "2025-03-17T14:18:52Z",
+      "user": "ccurme",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 2926436611,
       "number": 1751,
@@ -4091,6 +4104,23 @@
       "user": "Bla-bla-bla-bla-bla",
       "labels": [
         "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 2976132548,
+      "number": 30703,
+      "title": "`on_llm_new_token` gets list of dicts instead of expected string",
+      "url": "https://github.com/langchain-ai/langchain/issues/30703",
+      "created_at": "2025-04-07T08:58:47Z",
+      "user": "maver1ck",
+      "labels": [
+        "bug",
+        "investigate",
+        "core"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -61542,8 +61572,66 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3717996262,
+      "number": 12823,
+      "title": "How to use quantizer after pipeline loaded?",
+      "url": "https://github.com/huggingface/diffusers/issues/12823",
+      "created_at": "2025-12-11T06:32:38Z",
+      "user": "DefTruth",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3718023498,
+      "number": 59376,
+      "title": "[Serve] rename some prom metrics",
+      "url": "https://github.com/ray-project/ray/issues/59376",
+      "created_at": "2025-12-11T06:43:20Z",
+      "user": "abrarsheikh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3718025204,
+      "number": 19327,
+      "title": "[FR] Add TruLens Agent Trace Evaluators (Goal-Plan-Action Alignment)",
+      "url": "https://github.com/mlflow/mlflow/issues/19327",
+      "created_at": "2025-12-11T06:43:48Z",
+      "user": "debu-sinha",
+      "labels": [
+        "area/tracing",
+        "area/evaluation",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3718032848,
+      "number": 17806,
+      "title": "[Bug]: I get a bug when use model_settings_kwargs have : frequency_penalty",
+      "url": "https://github.com/BerriAI/litellm/issues/17806",
+      "created_at": "2025-12-11T06:46:52Z",
+      "user": "thaisonhp",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T06:27:28Z",
-  "total_count": 4083
+  "last_updated": "2025-12-11T06:57:35Z",
+  "total_count": 4089
 }
