@@ -13112,5 +13112,76 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718214833,
+    "number": 17808,
+    "title": "[Feature]: Add `serviceTier` support for Bedrock Converse API",
+    "url": "https://github.com/BerriAI/litellm/issues/17808",
+    "created_at": "2025-12-11T07:47:54Z",
+    "user": "CyrusTC",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "explosion/spaCy",
+    "id": 3718243562,
+    "number": 13903,
+    "title": "bug: colab. Cannot download spacy models",
+    "url": "https://github.com/explosion/spaCy/issues/13903",
+    "created_at": "2025-12-11T07:57:52Z",
+    "user": "Paco279",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3718270409,
+    "number": 63328,
+    "title": "BUG: inconsistency with missing values comparison",
+    "url": "https://github.com/pandas-dev/pandas/issues/63328",
+    "created_at": "2025-12-11T08:05:28Z",
+    "user": "lbraglia",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718277052,
+    "number": 170168,
+    "title": "torch.linspace with integer dtype gives inconsistent results on CPU vs CUDA",
+    "url": "https://github.com/pytorch/pytorch/issues/170168",
+    "created_at": "2025-12-11T08:07:25Z",
+    "user": "Aravind-11",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718292600,
+    "number": 170169,
+    "title": "questions about default_weight_fake_quant config with pytorch quantizations",
+    "url": "https://github.com/pytorch/pytorch/issues/170169",
+    "created_at": "2025-12-11T08:12:39Z",
+    "user": "whatlas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

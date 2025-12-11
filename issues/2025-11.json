@@ -2174,6 +2174,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3599189642,
+    "number": 42081,
+    "title": "Trainer code is tightly coupled with backend/hardware specific calls",
+    "url": "https://github.com/huggingface/transformers/issues/42081",
+    "created_at": "2025-11-07T08:05:33Z",
+    "user": "quic-meetkuma",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3599311048,
     "number": 30171,
@@ -3182,6 +3195,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3607171536,
+    "number": 42118,
+    "title": "[audio] standardize conv output length computation",
+    "url": "https://github.com/huggingface/transformers/issues/42118",
+    "created_at": "2025-11-10T09:59:38Z",
+    "user": "eustlb",
+    "labels": [
+      "Audio"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3607407512,
     "number": 3643,
@@ -3326,6 +3354,21 @@
       "Bug",
       "Indexing",
       "Dtype Conversions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3610793335,
+    "number": 42141,
+    "title": "qwen3-vl ModuleNotFoundError: No module named 'awq.modules'; 'awq' is not a package",
+    "url": "https://github.com/huggingface/transformers/issues/42141",
+    "created_at": "2025-11-11T05:42:27Z",
+    "user": "LiaoZihZrong",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

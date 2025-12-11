@@ -33355,6 +33355,19 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3599189642,
+      "number": 42081,
+      "title": "Trainer code is tightly coupled with backend/hardware specific calls",
+      "url": "https://github.com/huggingface/transformers/issues/42081",
+      "created_at": "2025-11-07T08:05:33Z",
+      "user": "quic-meetkuma",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numpy/numpy",
       "id": 3599311048,
       "number": 30171,
@@ -34379,6 +34392,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3607171536,
+      "number": 42118,
+      "title": "[audio] standardize conv output length computation",
+      "url": "https://github.com/huggingface/transformers/issues/42118",
+      "created_at": "2025-11-10T09:59:38Z",
+      "user": "eustlb",
+      "labels": [
+        "Audio"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3607407512,
       "number": 3643,
@@ -34523,6 +34551,21 @@
         "Bug",
         "Indexing",
         "Dtype Conversions"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3610793335,
+      "number": 42141,
+      "title": "qwen3-vl ModuleNotFoundError: No module named 'awq.modules'; 'awq' is not a package",
+      "url": "https://github.com/huggingface/transformers/issues/42141",
+      "created_at": "2025-11-11T05:42:27Z",
+      "user": "LiaoZihZrong",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -61769,8 +61812,79 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3718214833,
+      "number": 17808,
+      "title": "[Feature]: Add `serviceTier` support for Bedrock Converse API",
+      "url": "https://github.com/BerriAI/litellm/issues/17808",
+      "created_at": "2025-12-11T07:47:54Z",
+      "user": "CyrusTC",
+      "labels": [
+        "enhancement",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "explosion/spaCy",
+      "id": 3718243562,
+      "number": 13903,
+      "title": "bug: colab. Cannot download spacy models",
+      "url": "https://github.com/explosion/spaCy/issues/13903",
+      "created_at": "2025-12-11T07:57:52Z",
+      "user": "Paco279",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3718270409,
+      "number": 63328,
+      "title": "BUG: inconsistency with missing values comparison",
+      "url": "https://github.com/pandas-dev/pandas/issues/63328",
+      "created_at": "2025-12-11T08:05:28Z",
+      "user": "lbraglia",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3718277052,
+      "number": 170168,
+      "title": "torch.linspace with integer dtype gives inconsistent results on CPU vs CUDA",
+      "url": "https://github.com/pytorch/pytorch/issues/170168",
+      "created_at": "2025-12-11T08:07:25Z",
+      "user": "Aravind-11",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3718292600,
+      "number": 170169,
+      "title": "questions about default_weight_fake_quant config with pytorch quantizations",
+      "url": "https://github.com/pytorch/pytorch/issues/170169",
+      "created_at": "2025-12-11T08:12:39Z",
+      "user": "whatlas",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T07:43:40Z",
-  "total_count": 4098
+  "last_updated": "2025-12-11T08:24:50Z",
+  "total_count": 4106
 }
