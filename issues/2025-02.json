@@ -1,5 +1,20 @@
 [
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2825946228,
+    "number": 30750,
+    "title": "MiniBatchKMeans not handling sample weights as expected",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30750",
+    "created_at": "2025-02-02T18:34:33Z",
+    "user": "snath-xoc",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/text",
     "id": 2826168715,
     "number": 2283,
