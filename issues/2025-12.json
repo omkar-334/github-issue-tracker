@@ -13346,5 +13346,157 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718627029,
+    "number": 170178,
+    "title": "`torch.div` returns -1 instead of 0 when the rounding_mode is set to floor when a negative number is divided by inf",
+    "url": "https://github.com/pytorch/pytorch/issues/170178",
+    "created_at": "2025-12-11T09:49:55Z",
+    "user": "pertualfeast",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718654971,
+    "number": 17816,
+    "title": "[Bug]: Proper Support or Docs for Claude models on Azure AI Foundry",
+    "url": "https://github.com/BerriAI/litellm/issues/17816",
+    "created_at": "2025-12-11T09:57:40Z",
+    "user": "qrosseel",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3718669155,
+    "number": 4679,
+    "title": "[SFT] High vRAM consumption during eval loop",
+    "url": "https://github.com/huggingface/trl/issues/4679",
+    "created_at": "2025-12-11T10:01:49Z",
+    "user": "Khreas",
+    "labels": [
+      "🐛 bug",
+      "🏋 SFT",
+      "⚡ PEFT"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718680878,
+    "number": 170180,
+    "title": "[Bug] ONNX export of Yolo model using dynamo=True fails",
+    "url": "https://github.com/pytorch/pytorch/issues/170180",
+    "created_at": "2025-12-11T10:05:14Z",
+    "user": "pfeatherstone",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718690460,
+    "number": 14498,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14498",
+    "created_at": "2025-12-11T10:07:52Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718693990,
+    "number": 14499,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14499",
+    "created_at": "2025-12-11T10:08:46Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718696203,
+    "number": 14500,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14500",
+    "created_at": "2025-12-11T10:09:18Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718712871,
+    "number": 14501,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14501",
+    "created_at": "2025-12-11T10:13:16Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718716716,
+    "number": 14502,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14502",
+    "created_at": "2025-12-11T10:14:05Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "id": 3718720376,
+    "number": 14503,
+    "title": "Performance issue",
+    "url": "https://github.com/fastapi/fastapi/issues/14503",
+    "created_at": "2025-12-11T10:14:58Z",
+    "user": "LakshmiMandal",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3718730883,
+    "number": 42804,
+    "title": "[`Quantization FP8`] Native `from_config` support",
+    "url": "https://github.com/huggingface/transformers/issues/42804",
+    "created_at": "2025-12-11T10:17:47Z",
+    "user": "vasqu",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

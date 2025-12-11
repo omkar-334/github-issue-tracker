@@ -1215,6 +1215,24 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3220943813,
+    "number": 11914,
+    "title": "Proper support for integer column labels in `st.data_editor`",
+    "url": "https://github.com/streamlit/streamlit/issues/11914",
+    "created_at": "2025-07-10T23:07:56Z",
+    "user": "rhelouREV",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.data_editor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3222217800,
     "number": 2324,
