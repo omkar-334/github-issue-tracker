@@ -12880,5 +12880,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3717805127,
+    "number": 4669,
+    "title": "[GRPO] evaluation at start fails, due to missing current_gradient_accumulation_step",
+    "url": "https://github.com/huggingface/trl/issues/4669",
+    "created_at": "2025-12-11T05:20:14Z",
+    "user": "SonuDixit",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
