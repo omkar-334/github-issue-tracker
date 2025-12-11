@@ -1380,6 +1380,22 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3157191041,
+    "number": 31657,
+    "title": "Anthropic Model Errors with System Messages only in Tool-Calling Flows",
+    "url": "https://github.com/langchain-ai/langchain/issues/31657",
+    "created_at": "2025-06-18T14:50:34Z",
+    "user": "tamirda",
+    "labels": [
+      "bug",
+      "integration"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3157441352,
     "number": 3396,

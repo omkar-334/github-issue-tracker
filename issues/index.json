@@ -1780,6 +1780,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 2836208233,
+      "number": 29637,
+      "title": "`trim_messages` and `ChatAnthropic` token counter with tools",
+      "url": "https://github.com/langchain-ai/langchain/issues/29637",
+      "created_at": "2025-02-06T17:50:59Z",
+      "user": "ccurme",
+      "labels": [
+        "bug",
+        "investigate",
+        "integration",
+        "anthropic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 2836791789,
       "number": 8292,
@@ -2142,6 +2160,21 @@
       "created_at": "2025-02-19T17:31:21Z",
       "user": "seangtkelley",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "id": 2866350269,
+      "number": 13399,
+      "title": "Dependency Models created from Form input data are loosing metadata(field set) and are enforcing validation on default values.",
+      "url": "https://github.com/fastapi/fastapi/issues/13399",
+      "created_at": "2025-02-20T14:36:29Z",
+      "user": "luzzodev",
+      "labels": [
+        "question"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -4074,6 +4107,23 @@
       "labels": [
         "defect",
         "scipy.stats"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 2981446307,
+      "number": 3269,
+      "title": "The size of tensor a (53) must match the size of tensor b (2) at non-singleton dimension 2",
+      "url": "https://github.com/huggingface/trl/issues/3269",
+      "created_at": "2025-04-09T03:40:32Z",
+      "user": "zoeChen119",
+      "labels": [
+        "🐛 bug",
+        "⚡ PEFT",
+        "⚡accelerate"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -8957,6 +9007,22 @@
       "created_at": "2025-06-18T14:24:56Z",
       "user": "LennartPurucker",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3157191041,
+      "number": 31657,
+      "title": "Anthropic Model Errors with System Messages only in Tool-Calling Flows",
+      "url": "https://github.com/langchain-ai/langchain/issues/31657",
+      "created_at": "2025-06-18T14:50:34Z",
+      "user": "tamirda",
+      "labels": [
+        "bug",
+        "integration"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -29477,6 +29543,22 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3563942138,
+      "number": 33709,
+      "title": "`AnthropicPromptCachingMiddleware` breaks model fallback with `cache_control` param",
+      "url": "https://github.com/langchain-ai/langchain/issues/33709",
+      "created_at": "2025-10-29T01:06:33Z",
+      "user": "bart0401",
+      "labels": [
+        "bug",
+        "anthropic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "streamlit/streamlit",
       "id": 3564032011,
       "number": 12886,
@@ -41127,6 +41209,23 @@
       "labels": [
         "module: rocm",
         "module: convolution",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653552703,
+      "number": 168743,
+      "title": "Test: TestCudaPrimaryCtx.test_set_device_0",
+      "url": "https://github.com/pytorch/pytorch/issues/168743",
+      "created_at": "2025-11-22T01:07:34Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
         "triaged",
         "rocm-skipped-tests"
       ],
@@ -61357,8 +61456,94 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3717888228,
+      "number": 12821,
+      "title": "train_controlnet",
+      "url": "https://github.com/huggingface/diffusers/issues/12821",
+      "created_at": "2025-12-11T05:53:15Z",
+      "user": "Mandarin1126",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3717890588,
+      "number": 42792,
+      "title": "SpeechT5 TTS pipeline breaks by processor.",
+      "url": "https://github.com/huggingface/transformers/issues/42792",
+      "created_at": "2025-12-11T05:54:02Z",
+      "user": "jiqing-feng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717930892,
+      "number": 170160,
+      "title": "[auto functionalize][partitioner] ones_like is not getting recomputed",
+      "url": "https://github.com/pytorch/pytorch/issues/170160",
+      "created_at": "2025-12-11T06:07:53Z",
+      "user": "anijain2305",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3717955005,
+      "number": 3713,
+      "title": "[Bug] DDP with Qwen2.5VL 7B",
+      "url": "https://github.com/unslothai/unsloth/issues/3713",
+      "created_at": "2025-12-11T06:16:18Z",
+      "user": "John1231983",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717969494,
+      "number": 170163,
+      "title": "[dcp]Memory Leak in torch.distributed.checkpoint.async_save with Nightly 2.10.0",
+      "url": "https://github.com/pytorch/pytorch/issues/170163",
+      "created_at": "2025-12-11T06:21:55Z",
+      "user": "DanielMao1",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3717972490,
+      "number": 42794,
+      "title": "`decoder_start_token_id` or `bos_token_id` has to be defined for encoder-decoder generation.",
+      "url": "https://github.com/huggingface/transformers/issues/42794",
+      "created_at": "2025-12-11T06:22:58Z",
+      "user": "jiqing-feng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T05:46:02Z",
-  "total_count": 4071
+  "last_updated": "2025-12-11T06:27:28Z",
+  "total_count": 4083
 }

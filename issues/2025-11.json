@@ -10118,6 +10118,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653552703,
+    "number": 168743,
+    "title": "Test: TestCudaPrimaryCtx.test_set_device_0",
+    "url": "https://github.com/pytorch/pytorch/issues/168743",
+    "created_at": "2025-11-22T01:07:34Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653554994,
     "number": 168800,
     "title": "Test: TestNN.test_batchnorm",

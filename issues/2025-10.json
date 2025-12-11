@@ -6467,6 +6467,22 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3563942138,
+    "number": 33709,
+    "title": "`AnthropicPromptCachingMiddleware` breaks model fallback with `cache_control` param",
+    "url": "https://github.com/langchain-ai/langchain/issues/33709",
+    "created_at": "2025-10-29T01:06:33Z",
+    "user": "bart0401",
+    "labels": [
+      "bug",
+      "anthropic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3564032011,
     "number": 12886,

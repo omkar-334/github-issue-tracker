@@ -12896,5 +12896,91 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3717888228,
+    "number": 12821,
+    "title": "train_controlnet",
+    "url": "https://github.com/huggingface/diffusers/issues/12821",
+    "created_at": "2025-12-11T05:53:15Z",
+    "user": "Mandarin1126",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3717890588,
+    "number": 42792,
+    "title": "SpeechT5 TTS pipeline breaks by processor.",
+    "url": "https://github.com/huggingface/transformers/issues/42792",
+    "created_at": "2025-12-11T05:54:02Z",
+    "user": "jiqing-feng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3717930892,
+    "number": 170160,
+    "title": "[auto functionalize][partitioner] ones_like is not getting recomputed",
+    "url": "https://github.com/pytorch/pytorch/issues/170160",
+    "created_at": "2025-12-11T06:07:53Z",
+    "user": "anijain2305",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3717955005,
+    "number": 3713,
+    "title": "[Bug] DDP with Qwen2.5VL 7B",
+    "url": "https://github.com/unslothai/unsloth/issues/3713",
+    "created_at": "2025-12-11T06:16:18Z",
+    "user": "John1231983",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3717969494,
+    "number": 170163,
+    "title": "[dcp]Memory Leak in torch.distributed.checkpoint.async_save with Nightly 2.10.0",
+    "url": "https://github.com/pytorch/pytorch/issues/170163",
+    "created_at": "2025-12-11T06:21:55Z",
+    "user": "DanielMao1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3717972490,
+    "number": 42794,
+    "title": "`decoder_start_token_id` or `bos_token_id` has to be defined for encoder-decoder generation.",
+    "url": "https://github.com/huggingface/transformers/issues/42794",
+    "created_at": "2025-12-11T06:22:58Z",
+    "user": "jiqing-feng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
