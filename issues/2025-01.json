@@ -1107,6 +1107,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2821675273,
+    "number": 146066,
+    "title": "Failed to export user-defined Triton kernel when using strict=False",
+    "url": "https://github.com/pytorch/pytorch/issues/146066",
+    "created_at": "2025-01-30T19:44:46Z",
+    "user": "desertfire",
+    "labels": [
+      "oncall: pt2",
+      "export-triaged",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2823367123,
     "number": 1730,

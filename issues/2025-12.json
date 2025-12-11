@@ -13069,5 +13069,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3718166188,
+    "number": 12826,
+    "title": "cannot import name 'export_to_video' from 'diffusers",
+    "url": "https://github.com/huggingface/diffusers/issues/12826",
+    "created_at": "2025-12-11T07:31:21Z",
+    "user": "Arslan-Mehmood1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3718179063,
+    "number": 42796,
+    "title": "Ministral-3-8B-Instruct tokenizer doesn't handle BPE markers properly",
+    "url": "https://github.com/huggingface/transformers/issues/42796",
+    "created_at": "2025-12-11T07:35:35Z",
+    "user": "yanancai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718187945,
+    "number": 170166,
+    "title": "`torch.count_nonzero()` on XPU crashes on latest nightly Pytorch",
+    "url": "https://github.com/pytorch/pytorch/issues/170166",
+    "created_at": "2025-12-11T07:38:36Z",
+    "user": "simonlui",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -1,16 +1,15 @@
 [
   {
-    "repo": "pandas-dev/pandas",
-    "id": 2362484276,
-    "number": 59053,
-    "title": "BUG: `Series.clip` does not work with scalar numpy arrays.",
-    "url": "https://github.com/pandas-dev/pandas/issues/59053",
-    "created_at": "2024-06-19T14:07:23Z",
-    "user": "randolf-scholz",
+    "repo": "keras-team/keras-hub",
+    "id": 2283134561,
+    "number": 1622,
+    "title": "DebertaV3MaskedLM example don't work",
+    "url": "https://github.com/keras-team/keras-hub/issues/1622",
+    "created_at": "2024-05-07T12:23:46Z",
+    "user": "mrektor",
     "labels": [
-      "Bug",
-      "Needs Discussion",
-      "good first issue"
+      "type:Bug",
+      "stat:awaiting response from contributor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -879,6 +879,22 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3305113077,
+    "number": 3119,
+    "title": "[Bug] AttributeError: 'GptOssTopKRouter' object has no attribute 'weight'",
+    "url": "https://github.com/unslothai/unsloth/issues/3119",
+    "created_at": "2025-08-08T20:13:53Z",
+    "user": "amrrs",
+    "labels": [
+      "fixed - pending confirmation",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3305289588,
     "number": 5633,
