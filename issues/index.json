@@ -62820,8 +62820,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "plotly/plotly.py",
+      "id": 3720104318,
+      "number": 5449,
+      "title": "[FEATURE]: skip `type=\"text/javascript\"` attribute in `<script>` tag of HTML output",
+      "url": "https://github.com/plotly/plotly.py/issues/5449",
+      "created_at": "2025-12-11T16:27:26Z",
+      "user": "hannob",
+      "labels": [
+        "feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "id": 3720193758,
+      "number": 14508,
+      "title": "Discriminated Unions Break When Wrapped in Annotated[Union, Body(...)] in FastAPI 0.124.1+",
+      "url": "https://github.com/fastapi/fastapi/issues/14508",
+      "created_at": "2025-12-11T16:55:18Z",
+      "user": "tiangolo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T16:24:57Z",
-  "total_count": 4168
+  "last_updated": "2025-12-11T16:56:56Z",
+  "total_count": 4170
 }
