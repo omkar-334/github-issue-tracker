@@ -13614,5 +13614,79 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3719277980,
+    "number": 17823,
+    "title": "[Bug]: Virtual Keys always get an Expiration date",
+    "url": "https://github.com/BerriAI/litellm/issues/17823",
+    "created_at": "2025-12-11T12:50:50Z",
+    "user": "AFLexCom",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3719315083,
+    "number": 170183,
+    "title": "[docs] Unable to `git clone` PyTorch wiki on Windows due to colon(`:`) in filename",
+    "url": "https://github.com/pytorch/pytorch/issues/170183",
+    "created_at": "2025-12-11T13:00:52Z",
+    "user": "daehyun99",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3719329738,
+    "number": 3695,
+    "title": "[BUG] - Broken links in `torch.compile` tutorials",
+    "url": "https://github.com/pytorch/tutorials/issues/3695",
+    "created_at": "2025-12-11T13:04:58Z",
+    "user": "Coekjan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3719339983,
+    "number": 170184,
+    "title": "[Nightly] linux-aarch64-binary-manywheel and linux-binary-manywheel  failed on Dec 11",
+    "url": "https://github.com/pytorch/pytorch/issues/170184",
+    "created_at": "2025-12-11T13:07:43Z",
+    "user": "atalman",
+    "labels": [
+      "high priority",
+      "triage review",
+      "module: binaries",
+      "topic: binaries"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3719382401,
+    "number": 30836,
+    "title": "[Bug]: Markers can be integers, but numpy integers fail",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30836",
+    "created_at": "2025-12-11T13:20:04Z",
+    "user": "has2k1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

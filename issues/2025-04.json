@@ -525,6 +525,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2987375772,
+    "number": 52233,
+    "title": "ray download https url from working_dir get html page not  zip file",
+    "url": "https://github.com/ray-project/ray/issues/52233",
+    "created_at": "2025-04-11T02:12:03Z",
+    "user": "haoziwu",
+    "labels": [
+      "good-first-issue",
+      "P1",
+      "core",
+      "core-runtime-env",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2988008615,
     "number": 21154,
