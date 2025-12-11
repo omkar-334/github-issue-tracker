@@ -378,6 +378,23 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2848656077,
+    "number": 30817,
+    "title": "sample_weight is silently ignored in LogisticRegressionCV.score when metadata routing is enabled",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30817",
+    "created_at": "2025-02-12T15:49:01Z",
+    "user": "antoinebaker",
+    "labels": [
+      "Bug",
+      "help wanted",
+      "Metadata Routing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 2850590253,
     "number": 8513,

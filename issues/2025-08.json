@@ -2122,6 +2122,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3343266298,
+    "number": 161207,
+    "title": "[dynamo][ued] Graph break from `module.to(...)`",
+    "url": "https://github.com/pytorch/pytorch/issues/161207",
+    "created_at": "2025-08-21T21:37:41Z",
+    "user": "StrongerXi",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3344057019,
     "number": 2917,
