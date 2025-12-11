@@ -8902,6 +8902,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3651337139,
+    "number": 16920,
+    "title": "[Bug]: Missing libsndfile.so in ARM64 Alpine Docker image",
+    "url": "https://github.com/BerriAI/litellm/issues/16920",
+    "created_at": "2025-11-21T11:40:22Z",
+    "user": "emc2314",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3651560620,
     "number": 63168,

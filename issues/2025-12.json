@@ -13241,5 +13241,79 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718426627,
+    "number": 17811,
+    "title": "[Bug]: claude code LLM gateway not work after version: main-v1.78.2-nightly",
+    "url": "https://github.com/BerriAI/litellm/issues/17811",
+    "created_at": "2025-12-11T08:55:25Z",
+    "user": "tangr",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718454976,
+    "number": 170175,
+    "title": "[MPS][Inconsistency] nonzero() incorrectly preserves non-contiguous strides from sliced inputs, causing .view() crash on CPU/CUDA,but pass on MPS",
+    "url": "https://github.com/pytorch/pytorch/issues/170175",
+    "created_at": "2025-12-11T09:03:08Z",
+    "user": "lingebeng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718468042,
+    "number": 170176,
+    "title": "if export dynamo=True, then onnxruntime cannot use the dml backend for inference.",
+    "url": "https://github.com/pytorch/pytorch/issues/170176",
+    "created_at": "2025-12-11T09:06:21Z",
+    "user": "LigaLiao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3718476495,
+    "number": 32884,
+    "title": "Update numpydoc version in the CI",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32884",
+    "created_at": "2025-12-11T09:08:40Z",
+    "user": "adrinjalali",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3718485939,
+    "number": 59381,
+    "title": "[Core] AttributeError: 'ray._raylet.CppFunctionDescriptor' object has no attribute 'function_id'.",
+    "url": "https://github.com/ray-project/ray/issues/59381",
+    "created_at": "2025-12-11T09:11:26Z",
+    "user": "lbh2001",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
