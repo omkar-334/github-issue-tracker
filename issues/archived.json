@@ -15,5 +15,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2304732174,
+    "number": 29048,
+    "title": "Make `zero_division` parameter consistent in the different metric",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29048",
+    "created_at": "2024-05-19T18:40:45Z",
+    "user": "glemaitre",
+    "labels": [
+      "Enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
   }
 ]

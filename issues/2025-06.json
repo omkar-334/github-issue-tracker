@@ -2295,6 +2295,21 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3187599896,
+    "number": 31679,
+    "title": "AI tools like Copilot Coding Agent don't know about / don't respect our Automated Contributions Policy",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/31679",
+    "created_at": "2025-06-30T08:23:42Z",
+    "user": "StefanieSenger",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3188933110,
     "number": 2858,

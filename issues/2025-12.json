@@ -13315,5 +13315,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718558140,
+    "number": 17813,
+    "title": "[Bug]: asyncio.Queue is bound to a different event loop in multiprocessing for logging_worker",
+    "url": "https://github.com/BerriAI/litellm/issues/17813",
+    "created_at": "2025-12-11T09:31:20Z",
+    "user": "dhh1995",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718567821,
+    "number": 17814,
+    "title": "[Bug]: Duplicated costs when retrieving responses - no way to safely deduplicate",
+    "url": "https://github.com/BerriAI/litellm/issues/17814",
+    "created_at": "2025-12-11T09:33:40Z",
+    "user": "jlan-nl",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

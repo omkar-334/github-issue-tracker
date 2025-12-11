@@ -10023,6 +10023,21 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3187599896,
+      "number": 31679,
+      "title": "AI tools like Copilot Coding Agent don't know about / don't respect our Automated Contributions Policy",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/31679",
+      "created_at": "2025-06-30T08:23:42Z",
+      "user": "StefanieSenger",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3188933110,
       "number": 2858,
@@ -62031,8 +62046,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3718558140,
+      "number": 17813,
+      "title": "[Bug]: asyncio.Queue is bound to a different event loop in multiprocessing for logging_worker",
+      "url": "https://github.com/BerriAI/litellm/issues/17813",
+      "created_at": "2025-12-11T09:31:20Z",
+      "user": "dhh1995",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3718567821,
+      "number": 17814,
+      "title": "[Bug]: Duplicated costs when retrieving responses - no way to safely deduplicate",
+      "url": "https://github.com/BerriAI/litellm/issues/17814",
+      "created_at": "2025-12-11T09:33:40Z",
+      "user": "jlan-nl",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T09:22:48Z",
-  "total_count": 4116
+  "last_updated": "2025-12-11T09:47:11Z",
+  "total_count": 4119
 }
