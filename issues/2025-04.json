@@ -277,6 +277,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 2976376254,
+    "number": 30704,
+    "title": "`langchain_chroma.Chroma` used with `chromadb.AsyncHttpClient`?",
+    "url": "https://github.com/langchain-ai/langchain/issues/30704",
+    "created_at": "2025-04-07T10:22:19Z",
+    "user": "khteh",
+    "labels": [
+      "help wanted",
+      "investigate",
+      "chroma"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2980606657,
     "number": 22816,

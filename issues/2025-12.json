@@ -13040,5 +13040,34 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718097526,
+    "number": 17807,
+    "title": "[Bug]: ollama_chat (/api/chat) fails to produce valid JSON / tool-call responses needed for structured output - breaks ART RULER + agent training pipeline",
+    "url": "https://github.com/BerriAI/litellm/issues/17807",
+    "created_at": "2025-12-11T07:07:54Z",
+    "user": "ansh-info",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3718116466,
+    "number": 30416,
+    "title": "MAINT: drop support for PyPy",
+    "url": "https://github.com/numpy/numpy/issues/30416",
+    "created_at": "2025-12-11T07:13:48Z",
+    "user": "mattip",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

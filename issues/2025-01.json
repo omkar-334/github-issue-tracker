@@ -278,6 +278,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2776647942,
+    "number": 144445,
+    "title": "NotImplementedError: Output channels > 65536 not supported at the MPS device.",
+    "url": "https://github.com/pytorch/pytorch/issues/144445",
+    "created_at": "2025-01-09T01:08:10Z",
+    "user": "AimoneAndex",
+    "labels": [
+      "module: convolution",
+      "triaged",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 2778372197,
     "number": 10512,
