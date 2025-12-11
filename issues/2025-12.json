@@ -13183,5 +13183,63 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3718336464,
+    "number": 17809,
+    "title": "[Feature]: Return Pillar guardrail detection data in response headers (monitor mode)",
+    "url": "https://github.com/BerriAI/litellm/issues/17809",
+    "created_at": "2025-12-11T08:27:24Z",
+    "user": "afogel",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718372390,
+    "number": 170172,
+    "title": "[ONNX Export] dynamo=True hardcodes output batch dimension to 1 when model has buffers",
+    "url": "https://github.com/pytorch/pytorch/issues/170172",
+    "created_at": "2025-12-11T08:38:02Z",
+    "user": "gaoren002",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3718389846,
+    "number": 170173,
+    "title": "[Code Clean] Ban and remove `data_ptr()` in favor of `mutable_data_ptr()` or `const_data_ptr()`",
+    "url": "https://github.com/pytorch/pytorch/issues/170173",
+    "created_at": "2025-12-11T08:43:47Z",
+    "user": "KarhouTam",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3718391448,
+    "number": 13305,
+    "title": "Data Editor Number column returns list when starting from None values",
+    "url": "https://github.com/streamlit/streamlit/issues/13305",
+    "created_at": "2025-12-11T08:44:20Z",
+    "user": "ChristophBoerlin",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
