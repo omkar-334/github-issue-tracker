@@ -8658,6 +8658,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3650579792,
+    "number": 58878,
+    "title": "[RayTrainer] Severe stall when setting up process group for: env: //",
+    "url": "https://github.com/ray-project/ray/issues/58878",
+    "created_at": "2025-11-21T07:37:41Z",
+    "user": "karriganastA",
+    "labels": [
+      "bug",
+      "question",
+      "P2",
+      "train",
+      "performance",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3650593111,
     "number": 42316,

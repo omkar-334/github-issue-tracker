@@ -39638,6 +39638,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3650579792,
+      "number": 58878,
+      "title": "[RayTrainer] Severe stall when setting up process group for: env: //",
+      "url": "https://github.com/ray-project/ray/issues/58878",
+      "created_at": "2025-11-21T07:37:41Z",
+      "user": "karriganastA",
+      "labels": [
+        "bug",
+        "question",
+        "P2",
+        "train",
+        "performance",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3650593111,
       "number": 42316,
@@ -61092,8 +61112,135 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3717331738,
+      "number": 3710,
+      "title": "[Bug] 'tuple' object has no attribute 'padding_free' and no __dict__ for setting new attributes",
+      "url": "https://github.com/unslothai/unsloth/issues/3710",
+      "created_at": "2025-12-11T01:22:01Z",
+      "user": "ultmaster",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3717339021,
+      "number": 16191,
+      "title": "[Windows] Installation fails with \"No CUDA toolset found\" when CUDA 13.0 is installed",
+      "url": "https://github.com/pytorch/executorch/issues/16191",
+      "created_at": "2025-12-11T01:26:17Z",
+      "user": "seyeong-han",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3717353722,
+      "number": 42789,
+      "title": "Why the use of masked_fill",
+      "url": "https://github.com/huggingface/transformers/issues/42789",
+      "created_at": "2025-12-11T01:32:07Z",
+      "user": "tanmay2004",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3717367108,
+      "number": 34292,
+      "title": "@tool decorator should enable parse_docstring=True by default for better LLM function calling",
+      "url": "https://github.com/langchain-ai/langchain/issues/34292",
+      "created_at": "2025-12-11T01:37:48Z",
+      "user": "Kevin-McIsaac",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3717368522,
+      "number": 12818,
+      "title": "train_controlnet",
+      "url": "https://github.com/huggingface/diffusers/issues/12818",
+      "created_at": "2025-12-11T01:38:35Z",
+      "user": "Mandarin1126",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3717419368,
+      "number": 24137,
+      "title": "BUG: signal: filtfilt causes TypeError: can't multiply sequence by non-int of type 'float'",
+      "url": "https://github.com/scipy/scipy/issues/24137",
+      "created_at": "2025-12-11T02:07:57Z",
+      "user": "Dimitri666",
+      "labels": [
+        "defect",
+        "scipy.signal"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717460800,
+      "number": 170150,
+      "title": "[Pytorch][VLLM] VLLM CI tests runs in rate limit issue from huggingface",
+      "url": "https://github.com/pytorch/pytorch/issues/170150",
+      "created_at": "2025-12-11T02:22:25Z",
+      "user": "yangw-dev",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3717507646,
+      "number": 63322,
+      "title": "BUG: pd.col does not support & for combining conditions in .loc",
+      "url": "https://github.com/pandas-dev/pandas/issues/63322",
+      "created_at": "2025-12-11T02:47:49Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "expressions"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3717513522,
+      "number": 170151,
+      "title": "[c10d] NCCL all-to-all API name is wrong",
+      "url": "https://github.com/pytorch/pytorch/issues/170151",
+      "created_at": "2025-12-11T02:50:51Z",
+      "user": "kwen2501",
+      "labels": [
+        "oncall: distributed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-11T01:15:36Z",
-  "total_count": 4054
+  "last_updated": "2025-12-11T03:10:49Z",
+  "total_count": 4064
 }
