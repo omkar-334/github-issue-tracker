@@ -1,32 +1,38 @@
 [
   {
-    "repo": "prefecthq/prefect",
-    "id": 2474210029,
-    "number": 15008,
-    "title": "Synchronous and asynchronous compatibility within Prefect",
-    "url": "https://github.com/PrefectHQ/prefect/issues/15008",
-    "created_at": "2024-08-19T21:08:51Z",
-    "user": "cicdw",
+    "repo": "ray-project/ray",
+    "id": 560590492,
+    "number": 7064,
+    "title": "[autoscaler] Attach to a worker node",
+    "url": "https://github.com/ray-project/ray/issues/7064",
+    "created_at": "2020-02-05T19:47:49Z",
+    "user": "maximsmol",
     "labels": [
-      "enhancement"
+      "good-first-issue",
+      "enhancement",
+      "P3",
+      "usability",
+      "infra",
+      "core",
+      "community-backlog",
+      "cluster-launcher",
+      "contribution-welcome"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "scipy/scipy",
-    "id": 2630822097,
-    "number": 21798,
-    "title": "ENH/MAINT: interpolate: Use a standardised C++ (e.g. ``mdspan``) approach",
-    "url": "https://github.com/scipy/scipy/issues/21798",
-    "created_at": "2024-11-02T21:57:16Z",
-    "user": "Kai-Striega",
+    "repo": "pytorch/pytorch",
+    "id": 2094111919,
+    "number": 117974,
+    "title": "RuntimeError: derivative for aten::_scaled_dot_product_efficient_attention_backward is not implemented",
+    "url": "https://github.com/pytorch/pytorch/issues/117974",
+    "created_at": "2024-01-22T15:00:03Z",
+    "user": "LebinDing749",
     "labels": [
-      "enhancement",
-      "scipy.interpolate",
-      "maintenance",
-      "C/C++"
+      "triaged",
+      "module: sdpa"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
