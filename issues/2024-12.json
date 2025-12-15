@@ -575,6 +575,38 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 2758091993,
+    "number": 26720,
+    "title": "Asset op_tags are not propagated to step when materialization runs using celery-k8s executor",
+    "url": "https://github.com/dagster-io/dagster/issues/26720",
+    "created_at": "2024-12-24T16:07:19Z",
+    "user": "alekseik1",
+    "labels": [
+      "type: bug",
+      "deployment: k8s",
+      "area: tags"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 2760295377,
+    "number": 20470,
+    "title": "sink_parquet on LazyFrame constructed from Python IO plugin source",
+    "url": "https://github.com/pola-rs/polars/issues/20470",
+    "created_at": "2024-12-27T02:04:40Z",
+    "user": "charley3c",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2760316976,
     "number": 22194,
@@ -586,6 +618,23 @@
       "scipy.stats",
       "deprecated",
       "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2760786893,
+    "number": 22200,
+    "title": "BUG (DOC?): `linalg.qr_update` fails for `k > M - N`,  `M > N`",
+    "url": "https://github.com/scipy/scipy/issues/22200",
+    "created_at": "2024-12-27T11:49:33Z",
+    "user": "mdhaber",
+    "labels": [
+      "defect",
+      "scipy.linalg",
+      "Documentation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

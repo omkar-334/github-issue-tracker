@@ -600,6 +600,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3482660582,
+    "number": 15178,
+    "title": "[Bug]: /responses API: Bedrock tool calls duplicated when caller includes the tool-call definition",
+    "url": "https://github.com/BerriAI/litellm/issues/15178",
+    "created_at": "2025-10-03T21:50:02Z",
+    "user": "dgu1-godaddy",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3482957915,
     "number": 2677,
@@ -1090,6 +1106,21 @@
     "archived": false
   },
   {
+    "repo": "deepset-ai/haystack",
+    "id": 3490174569,
+    "number": 9854,
+    "title": "Drop Python 3.9 support because of Python 3.9 EOL",
+    "url": "https://github.com/deepset-ai/haystack/issues/9854",
+    "created_at": "2025-10-07T06:44:41Z",
+    "user": "julian-risch",
+    "labels": [
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3491098323,
     "number": 10266,
@@ -1358,6 +1389,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3495880613,
+    "number": 41455,
+    "title": "RuntimeError with dtype=torch.float16 and dtype=torch.bfloat16 in HQQ 4-bit, 8-bit quantized Granite4 models on RTX3050 TI",
+    "url": "https://github.com/huggingface/transformers/issues/41455",
+    "created_at": "2025-10-08T15:16:56Z",
+    "user": "prathamesh-chavan-22",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3496042748,
     "number": 7196,
@@ -1581,6 +1625,21 @@
     "archived": false
   },
   {
+    "repo": "scikit-image/scikit-image",
+    "id": 3498934754,
+    "number": 7919,
+    "title": "Documentation error: skimage.feature.graycomatrix, relationship between pixels",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7919",
+    "created_at": "2025-10-09T12:20:14Z",
+    "user": "g2rob",
+    "labels": [
+      ":bug: Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3498938715,
     "number": 3428,
@@ -1792,6 +1851,22 @@
     "labels": [
       "defect",
       "scipy.sparse.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3501000271,
+    "number": 22334,
+    "title": "when release the yolo26?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22334",
+    "created_at": "2025-10-10T00:46:53Z",
+    "user": "xinsuinizhuan",
+    "labels": [
+      "question",
+      "Stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2346,6 +2421,21 @@
     "archived": false
   },
   {
+    "repo": "pydantic/pydantic",
+    "id": 3509651055,
+    "number": 12387,
+    "title": "`exclude_if` for extra fields not used",
+    "url": "https://github.com/pydantic/pydantic/issues/12387",
+    "created_at": "2025-10-13T11:23:48Z",
+    "user": "davidhewitt",
+    "labels": [
+      "bug V2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3509814577,
     "number": 3443,
@@ -2676,6 +2766,23 @@
       "bug",
       "enhancement",
       "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "catboost/catboost",
+    "id": 3513765830,
+    "number": 2955,
+    "title": "`AttributeError: The following error was raised: 'CatBoostRegressor' object has no attribute '__sklearn_tags__'` with scikit-learn 1.8.x",
+    "url": "https://github.com/catboost/catboost/issues/2955",
+    "created_at": "2025-10-14T12:42:29Z",
+    "user": "ogrisel",
+    "labels": [
+      "in progress",
+      "sklearn_compatibility",
+      "python"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3519,6 +3626,22 @@
     "archived": false
   },
   {
+    "repo": "optuna/optuna",
+    "id": 3524721068,
+    "number": 6305,
+    "title": "Use f-string and `{var_name=}` instead of `.format` and `var_name={var_name}`",
+    "url": "https://github.com/optuna/optuna/issues/6305",
+    "created_at": "2025-10-17T06:32:42Z",
+    "user": "nabenabe0928",
+    "labels": [
+      "code-fix",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3524858245,
     "number": 8976,
@@ -3574,6 +3697,23 @@
     "created_at": "2025-10-17T09:27:15Z",
     "user": "vishalgoyal316",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3525704969,
+    "number": 7925,
+    "title": "Dims by default, all CI passes",
+    "url": "https://github.com/pymc-devs/pymc/issues/7925",
+    "created_at": "2025-10-17T11:19:57Z",
+    "user": "ricardoV94",
+    "labels": [
+      "request discussion",
+      "major",
+      "dims"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -3749,6 +3889,22 @@
     "archived": false
   },
   {
+    "repo": "networkx/networkx",
+    "id": 3527294157,
+    "number": 8323,
+    "title": "BUG: `NETWORKX_BACKEND_PRIORITY` not working",
+    "url": "https://github.com/networkx/networkx/issues/8323",
+    "created_at": "2025-10-17T19:31:34Z",
+    "user": "Schefflera-Arboricola",
+    "labels": [
+      "type: Documentation",
+      "Dispatching"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3527563727,
     "number": 1914,
@@ -3916,6 +4072,21 @@
     "url": "https://github.com/unslothai/unsloth/issues/3481",
     "created_at": "2025-10-19T07:55:29Z",
     "user": "ywy366607",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3529880492,
+    "number": 41731,
+    "title": "transformers CLI documentation issue ",
+    "url": "https://github.com/huggingface/transformers/issues/41731",
+    "created_at": "2025-10-19T09:31:46Z",
+    "user": "ArjunPimpale",
     "labels": [
       "bug"
     ],
@@ -4547,6 +4718,21 @@
     "archived": false
   },
   {
+    "repo": "holoviz/panel",
+    "id": 3541289007,
+    "number": 8257,
+    "title": "Ensure the NPM Token is updated",
+    "url": "https://github.com/holoviz/panel/issues/8257",
+    "created_at": "2025-10-22T15:12:18Z",
+    "user": "philippjfr",
+    "labels": [
+      "type: infra"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3541296268,
     "number": 1929,
@@ -4720,6 +4906,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3543566946,
+    "number": 19261,
+    "title": "Tasks randomly stuck in running state even though completed.",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19261",
+    "created_at": "2025-10-23T07:50:21Z",
+    "user": "testuser-copilot",
+    "labels": [
+      "state-transitions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3543653224,
     "number": 41809,
@@ -4730,6 +4931,23 @@
     "labels": [
       "bug",
       "Vision"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3543677030,
+    "number": 24989,
+    "title": "`nulls_last` silently ignored in `over` - raise instead?",
+    "url": "https://github.com/pola-rs/polars/issues/24989",
+    "created_at": "2025-10-23T08:27:17Z",
+    "user": "MarcoGorelli",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6250,6 +6468,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3560693382,
+    "number": 16007,
+    "title": "[Bug]: LiteLL version 1.79.0 ignores images when using Dashscope (Qwen API) VL models with mixed text and image content",
+    "url": "https://github.com/BerriAI/litellm/issues/16007",
+    "created_at": "2025-10-28T09:57:02Z",
+    "user": "songlin1994",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3561084627,
     "number": 3624,
@@ -6273,6 +6506,23 @@
     "labels": [
       "question",
       "Reinforcement Learning"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3561164188,
+    "number": 22505,
+    "title": "为什么segment 分割不出来",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22505",
+    "created_at": "2025-10-28T11:40:41Z",
+    "user": "gouzigege",
+    "labels": [
+      "question",
+      "Stale",
+      "segment"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7785,6 +8035,22 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3574679891,
+    "number": 33758,
+    "title": "The issue with the list formatting string type caused the llm call to fail—the JSON in the request body was non-compliant.",
+    "url": "https://github.com/langchain-ai/langchain/issues/33758",
+    "created_at": "2025-10-31T12:03:04Z",
+    "user": "7487",
+    "labels": [
+      "bug",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3574728702,
     "number": 30115,
@@ -7918,6 +8184,19 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3575731483,
+    "number": 2760,
+    "title": "Transitive num-bigint-dig 0.8.4 triggers future-incompat warnings on Rust 1.91 via rsa/reqsign/opendal chain",
+    "url": "https://github.com/lancedb/lancedb/issues/2760",
+    "created_at": "2025-10-31T17:02:33Z",
+    "user": "fredlarochelle",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

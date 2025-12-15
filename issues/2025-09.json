@@ -531,6 +531,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3378589047,
+    "number": 18839,
+    "title": "Infrastructure stays running after Flow is marked Crashed by failed Lease renewal",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18839",
+    "created_at": "2025-09-03T07:05:08Z",
+    "user": "marcm-ml",
+    "labels": [
+      "state-transitions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3378744094,
     "number": 13901,
@@ -1673,6 +1688,21 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3392107811,
+    "number": 18877,
+    "title": "Flows Runs in AWS ECS Push Work Pool are stuck in LATE. Very very slowly trickling to PENDING.",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18877",
+    "created_at": "2025-09-07T23:12:38Z",
+    "user": "monda-nicktorba",
+    "labels": [
+      "state-transitions"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3723,6 +3753,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3412191163,
+    "number": 18933,
+    "title": "kubernetes worker leaves flow runs in \"pending\" state",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18933",
+    "created_at": "2025-09-12T23:36:03Z",
+    "user": "stephane-additive",
+    "labels": [
+      "state-transitions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3413017990,
     "number": 2631,
@@ -3898,6 +3943,36 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3417160549,
+    "number": 14571,
+    "title": "Add \"qwen2.5-coder:32b\" in \"model_prices_and_context_window.json\"",
+    "url": "https://github.com/BerriAI/litellm/issues/14571",
+    "created_at": "2025-09-15T09:46:40Z",
+    "user": "sampathreddyk84",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3417274610,
+    "number": 14572,
+    "title": "[🤔]  Why is Internal Server Error check not part of get_allowed_fails function?",
+    "url": "https://github.com/BerriAI/litellm/issues/14572",
+    "created_at": "2025-09-15T10:14:30Z",
+    "user": "cyvnrs",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3417353751,
     "number": 7772,
@@ -3988,6 +4063,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3419365686,
+    "number": 14590,
+    "title": "[Bug]: Passthrough mode ignores turn_off_message_logging",
+    "url": "https://github.com/BerriAI/litellm/issues/14590",
+    "created_at": "2025-09-15T20:18:01Z",
+    "user": "Ruby111219",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3419469720,
     "number": 30563,
@@ -3999,6 +4090,22 @@
       "Documentation",
       "topic: mplot3d",
       "topic: text"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3419542968,
+    "number": 14591,
+    "title": "[Bug]: migration from 1.74.9 -> 1.76.1 missed a table",
+    "url": "https://github.com/BerriAI/litellm/issues/14591",
+    "created_at": "2025-09-15T21:11:12Z",
+    "user": "NorthIsUp",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4082,6 +4189,22 @@
     "created_at": "2025-09-16T14:31:09Z",
     "user": "benHeid",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3422867986,
+    "number": 32977,
+    "title": "Unable to retrieve raw LLM response on JSON parsing error during structured output with retries; subsequent retries are extremely slow",
+    "url": "https://github.com/langchain-ai/langchain/issues/32977",
+    "created_at": "2025-09-16T15:56:55Z",
+    "user": "rushant001",
+    "labels": [
+      "bug",
+      "openai"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -5240,6 +5363,23 @@
     "archived": false
   },
   {
+    "repo": "pydantic/pydantic",
+    "id": 3448395527,
+    "number": 12272,
+    "title": "Memory Usage From Schema Validators Is Fairly High, Even With Simple Models",
+    "url": "https://github.com/pydantic/pydantic/issues/12272",
+    "created_at": "2025-09-24T08:47:54Z",
+    "user": "rtpg",
+    "labels": [
+      "topic-performance",
+      "bug V2",
+      "pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3448673563,
     "number": 21690,
@@ -5303,6 +5443,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3449498003,
+    "number": 19023,
+    "title": "Prefect flow run metrics api",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19023",
+    "created_at": "2025-09-24T13:38:50Z",
+    "user": "hanhwanglim",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3450014207,
     "number": 3179,
@@ -5357,6 +5512,22 @@
     "user": "mroeschke",
     "labels": [
       "Code Style",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3450372017,
+    "number": 62435,
+    "title": "TST: Replace `ensure_clean` utility function with the `temp_file` pytest fixture",
+    "url": "https://github.com/pandas-dev/pandas/issues/62435",
+    "created_at": "2025-09-24T17:53:31Z",
+    "user": "mroeschke",
+    "labels": [
+      "Testing",
       "good first issue"
     ],
     "has_linked_pr": false,
@@ -5819,6 +5990,22 @@
     "created_at": "2025-09-27T01:03:12Z",
     "user": "neevparikh",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3459554329,
+    "number": 23684,
+    "title": "BUG: `find_peaks_cwt` sometimes finds troughs in addition to peaks",
+    "url": "https://github.com/scipy/scipy/issues/23684",
+    "created_at": "2025-09-27T01:59:23Z",
+    "user": "antipassive",
+    "labels": [
+      "defect",
+      "scipy.signal"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -6377,6 +6564,21 @@
     "user": "EltonCN",
     "labels": [
       "duplicate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3475659237,
+    "number": 19080,
+    "title": "[bug] server and backgroundservices pods dysfunction when failed to connect to redis",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19080",
+    "created_at": "2025-09-26T03:34:12Z",
+    "user": "anxietymonger",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

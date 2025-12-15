@@ -121,6 +121,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 2892996228,
+    "number": 1886,
+    "title": "AssertionError (assert param_data.shape == loaded_weight.shape) when serving dynamic quantized models with VLLM",
+    "url": "https://github.com/unslothai/unsloth/issues/1886",
+    "created_at": "2025-03-04T05:32:03Z",
+    "user": "nole70",
+    "labels": [
+      "currently fixing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2893975693,
     "number": 13763,
@@ -173,6 +188,22 @@
     "user": "omkar-334",
     "labels": [
       "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 2897499480,
+    "number": 11815,
+    "title": "Index Query Hangs",
+    "url": "https://github.com/dask/dask/issues/11815",
+    "created_at": "2025-03-05T14:31:58Z",
+    "user": "mscanlon-exos",
+    "labels": [
+      "dataframe",
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -633,6 +664,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 2921306823,
+    "number": 17482,
+    "title": "Flow Run continues to run after cancelled",
+    "url": "https://github.com/PrefectHQ/prefect/issues/17482",
+    "created_at": "2025-03-14T21:18:13Z",
+    "user": "gscholtes-relativity",
+    "labels": [
+      "state-transitions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2921524574,
     "number": 21035,
@@ -696,6 +742,21 @@
     "created_at": "2025-03-17T14:18:52Z",
     "user": "ccurme",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 2925933109,
+    "number": 11830,
+    "title": "Infer schema does not work properly for categorical types with high cardinality values",
+    "url": "https://github.com/dask/dask/issues/11830",
+    "created_at": "2025-03-17T17:46:08Z",
+    "user": "dbalabka",
+    "labels": [
+      "needs triage"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1127,6 +1188,25 @@
     "user": "juanmirocks",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 2953406424,
+    "number": 30524,
+    "title": "`MistrailAIEmbeddings` 400 errors on documents of length over 27000",
+    "url": "https://github.com/langchain-ai/langchain/issues/30524",
+    "created_at": "2025-03-27T15:18:30Z",
+    "user": "eric-burel",
+    "labels": [
+      "help wanted",
+      "investigate",
+      "great-writeup",
+      "integration",
+      "mistralai"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

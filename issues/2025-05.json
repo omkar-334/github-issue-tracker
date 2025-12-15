@@ -39,6 +39,22 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3033671565,
+    "number": 3399,
+    "title": "FP8 training",
+    "url": "https://github.com/huggingface/trl/issues/3399",
+    "created_at": "2025-05-01T11:30:15Z",
+    "user": "JosephChenHub",
+    "labels": [
+      "✨ enhancement",
+      "⚡accelerate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 3034259874,
     "number": 5609,
@@ -49,6 +65,23 @@
     "labels": [
       "question",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3034458625,
+    "number": 22923,
+    "title": "DOC: spatial.Delaunay: links to wrong `transform`",
+    "url": "https://github.com/scipy/scipy/issues/22923",
+    "created_at": "2025-05-01T18:45:22Z",
+    "user": "ProGamerYeet",
+    "labels": [
+      "scipy.spatial",
+      "Documentation",
+      "upstream bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1157,6 +1190,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3072006540,
+    "number": 23011,
+    "title": "DOC: integrate: incorrect code or math notation in `dblquad` non-constant limit example",
+    "url": "https://github.com/scipy/scipy/issues/23011",
+    "created_at": "2025-05-18T19:27:04Z",
+    "user": "aserdark",
+    "labels": [
+      "scipy.integrate",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3072049810,
     "number": 9076,
@@ -1211,6 +1260,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/diffusers",
+    "id": 3073643475,
+    "number": 11580,
+    "title": "Can diffusers support loading and running FLUX with fp8 ?",
+    "url": "https://github.com/huggingface/diffusers/issues/11580",
+    "created_at": "2025-05-19T12:18:13Z",
+    "user": "EmmaThompson123",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3073716396,
     "number": 3911,
@@ -1219,6 +1281,23 @@
     "created_at": "2025-05-19T12:43:22Z",
     "user": "f2janyway",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3074124435,
+    "number": 11409,
+    "title": "Add a menu / dropdown button widget",
+    "url": "https://github.com/streamlit/streamlit/issues/11409",
+    "created_at": "2025-05-19T14:52:03Z",
+    "user": "lukasmasuch",
+    "labels": [
+      "type:enhancement",
+      "area:widgets",
+      "feature:st.button"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1516,6 +1595,21 @@
     "archived": false
   },
   {
+    "repo": "deepset-ai/haystack",
+    "id": 3082524097,
+    "number": 9423,
+    "title": "ComponentTool should validate `inputs_from_state`, `outputs_to_state`",
+    "url": "https://github.com/deepset-ai/haystack/issues/9423",
+    "created_at": "2025-05-22T08:32:03Z",
+    "user": "julian-risch",
+    "labels": [
+      "P1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3082657757,
     "number": 3370,
@@ -1578,6 +1672,22 @@
     "created_at": "2025-05-22T15:10:25Z",
     "user": "vadimkantorov",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3084045712,
+    "number": 23037,
+    "title": "BUG: circular import error with `linalg._matfuncs_sqrtm_triu` on 1.16.0rc1",
+    "url": "https://github.com/scipy/scipy/issues/23037",
+    "created_at": "2025-05-22T17:14:07Z",
+    "user": "jorenham",
+    "labels": [
+      "defect",
+      "scipy.linalg"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1928,6 +2038,22 @@
       "triaged",
       "module: android",
       "executorch-needs-help"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3095534768,
+    "number": 23066,
+    "title": "BUG: linalg.solve_sylvester: not raising `LinAlgError` when no solution exists",
+    "url": "https://github.com/scipy/scipy/issues/23066",
+    "created_at": "2025-05-27T23:47:56Z",
+    "user": "Dekermanjian",
+    "labels": [
+      "defect",
+      "scipy.linalg"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

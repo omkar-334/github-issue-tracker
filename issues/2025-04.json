@@ -787,6 +787,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 2998804448,
+    "number": 30870,
+    "title": "`llm.ainvoke` is traced differently than `llm.invoke` (won't be traced)",
+    "url": "https://github.com/langchain-ai/langchain/issues/30870",
+    "created_at": "2025-04-16T07:57:23Z",
+    "user": "ionmincu",
+    "labels": [
+      "help wanted",
+      "bug",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2999105126,
     "number": 3180,
@@ -890,6 +907,21 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3005247836,
+    "number": 17855,
+    "title": "Create bulk route for submitting flow runs",
+    "url": "https://github.com/PrefectHQ/prefect/issues/17855",
+    "created_at": "2025-04-18T16:05:34Z",
+    "user": "cbelsole",
+    "labels": [
+      "bulk-behavior"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1147,6 +1179,19 @@
       "data",
       "community-backlog"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3016912616,
+    "number": 11430,
+    "title": "R CRAN package migration.",
+    "url": "https://github.com/dmlc/xgboost/issues/11430",
+    "created_at": "2025-04-24T11:17:31Z",
+    "user": "trivialfis",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1533,6 +1578,21 @@
     "created_at": "2025-04-30T03:11:34Z",
     "user": "hyperkai",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3030297530,
+    "number": 17944,
+    "title": "[UI] Change the state of multiple flow runs at once",
+    "url": "https://github.com/PrefectHQ/prefect/issues/17944",
+    "created_at": "2025-04-30T06:42:49Z",
+    "user": "Moortiii",
+    "labels": [
+      "bulk-behavior"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

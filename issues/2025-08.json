@@ -759,6 +759,22 @@
     "archived": false
   },
   {
+    "repo": "openai/openai-python",
+    "id": 3303629040,
+    "number": 2530,
+    "title": "DeltaToolCall only supports `function`, missing `custom` tool type",
+    "url": "https://github.com/openai/openai-python/issues/2530",
+    "created_at": "2025-08-08T11:06:25Z",
+    "user": "JoongWonSeo",
+    "labels": [
+      "bug",
+      "openapi"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3303637075,
     "number": 7731,
@@ -768,6 +784,22 @@
     "user": "intexcor",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3303798638,
+    "number": 7892,
+    "title": "Derived scan logprob fails when observed data provides more broadcastable information than generative graph",
+    "url": "https://github.com/pymc-devs/pymc/issues/7892",
+    "created_at": "2025-08-08T12:05:29Z",
+    "user": "ricardoV94",
+    "labels": [
+      "bug",
+      "logprob"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1003,6 +1035,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3307705417,
+    "number": 32489,
+    "title": "AzureChatOpenAI creates a new `httpx` client on each instantiation",
+    "url": "https://github.com/langchain-ai/langchain/issues/32489",
+    "created_at": "2025-08-10T15:50:48Z",
+    "user": "sbhrwlr",
+    "labels": [
+      "help wanted",
+      "bug",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3307883137,
     "number": 5314,
@@ -1159,6 +1208,22 @@
     "user": "winglian",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3312488087,
+    "number": 1554,
+    "title": "The ordering of fsdp, ac, tp, pp and complie etc.",
+    "url": "https://github.com/pytorch/torchtitan/issues/1554",
+    "created_at": "2025-08-12T04:35:02Z",
+    "user": "aoyulong",
+    "labels": [
+      "documentation",
+      "question"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1742,6 +1807,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 3333290483,
+    "number": 19983,
+    "title": "File path not clickable in PyCharm",
+    "url": "https://github.com/astral-sh/ruff/issues/19983",
+    "created_at": "2025-08-19T07:44:15Z",
+    "user": "CorneiZeR",
+    "labels": [
+      "bug",
+      "diagnostics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3333516382,
     "number": 13746,
@@ -1859,6 +1940,22 @@
     "created_at": "2025-08-19T20:00:38Z",
     "user": "madhumitha-mohan",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3335595734,
+    "number": 21738,
+    "title": "Semantic Segmentation for YOLOv11 (paper included)",
+    "url": "https://github.com/ultralytics/ultralytics/issues/21738",
+    "created_at": "2025-08-19T20:27:54Z",
+    "user": "Jordan-Pierce",
+    "labels": [
+      "enhancement",
+      "segment"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -2062,6 +2159,21 @@
     "archived": false
   },
   {
+    "repo": "lancedb/lancedb",
+    "id": 3339632097,
+    "number": 2602,
+    "title": "Feature: stream http body for add and merge_insert",
+    "url": "https://github.com/lancedb/lancedb/issues/2602",
+    "created_at": "2025-08-20T21:45:51Z",
+    "user": "wjones127",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3340172113,
     "number": 1704,
@@ -2086,6 +2198,23 @@
     "user": "tjx666",
     "labels": [
       "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3340701144,
+    "number": 1613,
+    "title": "[DeepSeek V3] async TP not effective",
+    "url": "https://github.com/pytorch/torchtitan/issues/1613",
+    "created_at": "2025-08-21T07:54:45Z",
+    "user": "tianyu-l",
+    "labels": [
+      "high priority",
+      "module: torch.compile",
+      "triage review"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

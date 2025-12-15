@@ -44,6 +44,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3191330155,
+    "number": 23272,
+    "title": "BUG: linalg.interpolative.reconstruct_matrix_from_id: segfault for invalid arguments",
+    "url": "https://github.com/scipy/scipy/issues/23272",
+    "created_at": "2025-07-01T08:22:43Z",
+    "user": "BergLucas",
+    "labels": [
+      "defect",
+      "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3192365165,
     "number": 3411,
@@ -843,6 +859,21 @@
     "created_at": "2025-07-08T18:21:48Z",
     "user": "andreawynn",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-image/scikit-image",
+    "id": 3213636913,
+    "number": 7840,
+    "title": "Documentation for measure.regionprops property 'image_intensity' is misleading",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7840",
+    "created_at": "2025-07-08T20:00:24Z",
+    "user": "zndr27",
+    "labels": [
+      ":page_facing_up: type: Documentation"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1892,6 +1923,19 @@
     "archived": false
   },
   {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3238367255,
+    "number": 1762,
+    "title": "ImportError: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/1762",
+    "created_at": "2025-07-17T06:52:11Z",
+    "user": "spnooyseed",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3238760301,
     "number": 7687,
@@ -2060,6 +2104,22 @@
     "user": "yuka-with-data",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3241902781,
+    "number": 31221,
+    "title": "Some arguments are not working in assetspec",
+    "url": "https://github.com/dagster-io/dagster/issues/31221",
+    "created_at": "2025-07-18T05:23:19Z",
+    "user": "h-enui",
+    "labels": [
+      "type: bug",
+      "hacktoberfest"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2439,6 +2499,37 @@
     "user": "david-thrower",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/dgl",
+    "id": 3251895067,
+    "number": 7891,
+    "title": "[Bug] ModuleNotFoundError: No module named 'torchdata.datapipes' on Linux aarch64 (DGL incompatibility)",
+    "url": "https://github.com/dmlc/dgl/issues/7891",
+    "created_at": "2025-07-22T09:30:49Z",
+    "user": "rudgmleo",
+    "labels": [
+      "stale-issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3252194649,
+    "number": 7861,
+    "title": "Create automatic docstrings for dims module from original distributions",
+    "url": "https://github.com/pymc-devs/pymc/issues/7861",
+    "created_at": "2025-07-22T10:56:28Z",
+    "user": "ricardoV94",
+    "labels": [
+      "docs",
+      "dims"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2893,6 +2984,21 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 3261057619,
+    "number": 31346,
+    "title": "[components] code locations environments used by `dg dev` are not configurable",
+    "url": "https://github.com/dagster-io/dagster/issues/31346",
+    "created_at": "2025-07-24T19:48:34Z",
+    "user": "danielgafni",
+    "labels": [
+      "type: bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3261333728,
     "number": 871,
@@ -3006,6 +3112,22 @@
     "user": "liudangyi",
     "labels": [
       "needs-discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3261815639,
+    "number": 19548,
+    "title": "New Rule Proposal: Consolidate imports from the same module unnecessarily split by `TYPE_CHECKING`",
+    "url": "https://github.com/astral-sh/ruff/issues/19548",
+    "created_at": "2025-07-25T02:52:44Z",
+    "user": "vivodi",
+    "labels": [
+      "rule",
+      "needs-decision"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3161,6 +3283,23 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 3267249037,
+    "number": 19576,
+    "title": "SIM114: Safe fix removes comments",
+    "url": "https://github.com/astral-sh/ruff/issues/19576",
+    "created_at": "2025-07-27T16:39:52Z",
+    "user": "Nikratio",
+    "labels": [
+      "bug",
+      "fixes",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3267249757,
     "number": 3305,
@@ -3301,6 +3440,21 @@
       "bug",
       "mlops user request",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3274030389,
+    "number": 18605,
+    "title": "Memory leak in Prefect server?",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18605",
+    "created_at": "2025-07-29T15:14:54Z",
+    "user": "mattiamatrix",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3592,6 +3746,22 @@
     "created_at": "2025-07-31T17:01:47Z",
     "user": "TheDreadedAndy",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3721362167,
+    "number": 5450,
+    "title": "bug: Default zoom level for `px.scatter_map` is too high",
+    "url": "https://github.com/plotly/plotly.py/issues/5450",
+    "created_at": "2025-07-22T13:52:50Z",
+    "user": "ndrezn",
+    "labels": [
+      "feature",
+      "P1"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

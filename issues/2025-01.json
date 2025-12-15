@@ -793,6 +793,23 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2805598812,
+    "number": 20856,
+    "title": "drop_nulls not working as expected with register_io_source",
+    "url": "https://github.com/pola-rs/polars/issues/20856",
+    "created_at": "2025-01-23T00:16:08Z",
+    "user": "HarveyC3",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2806634805,
     "number": 5593,
@@ -1020,6 +1037,21 @@
       "module: windows",
       "triaged",
       "module: 64-bit"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 2816976391,
+    "number": 29542,
+    "title": "Search: \"codex\" term returns no results on devdocs",
+    "url": "https://github.com/matplotlib/matplotlib/issues/29542",
+    "created_at": "2025-01-25T19:51:59Z",
+    "user": "rcomer",
+    "labels": [
+      "Documentation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

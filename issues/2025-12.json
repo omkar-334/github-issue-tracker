@@ -408,6 +408,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3680381217,
+    "number": 22856,
+    "title": "Performance drops after adding CBAM layer to YOLOv8 architecture — do I need to pretrain on COCO again?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22856",
+    "created_at": "2025-12-01T10:43:38Z",
+    "user": "Enes481",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3680422950,
     "number": 24090,
@@ -507,6 +524,21 @@
     "created_at": "2025-12-01T11:44:58Z",
     "user": "hande-k",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3680725107,
+    "number": 5247,
+    "title": "Profile performance bottlenecks in KedroSession startup",
+    "url": "https://github.com/kedro-org/kedro/issues/5247",
+    "created_at": "2025-12-01T12:15:25Z",
+    "user": "rashidakanchwala",
+    "labels": [
+      "Issue: Feature Request"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -790,6 +822,21 @@
     "labels": [
       "bug",
       "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3681797171,
+    "number": 19579,
+    "title": "Issues running a Prefect flow on a corporate network (TCP_MISS/503)",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19579",
+    "created_at": "2025-12-01T16:24:43Z",
+    "user": "matganzala",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1246,6 +1293,19 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 3683568647,
+    "number": 3441,
+    "title": "RULER task crashes with API models (local-chat-completions): TypeError: unhashable type: 'dict'",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3441",
+    "created_at": "2025-12-02T01:27:51Z",
+    "user": "mramendi",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1795,6 +1855,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3685291117,
+    "number": 19593,
+    "title": "Flows stuck in Cancelling state while using Kubernetes work pool",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19593",
+    "created_at": "2025-12-02T10:59:32Z",
+    "user": "simone201",
+    "labels": [
+      "state-transitions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3685292781,
     "number": 42550,
@@ -1835,6 +1910,21 @@
     "labels": [
       "00 - Bug",
       "component: numpy.ctypes"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3685336029,
+    "number": 19594,
+    "title": "Tasks stuck in Running state while flow is in Crashed state while using Kubernetes",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19594",
+    "created_at": "2025-12-02T11:12:40Z",
+    "user": "simone201",
+    "labels": [
+      "state-transitions"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2554,6 +2644,19 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3687618984,
+    "number": 25590,
+    "title": "Build failures since py-1.35.0",
+    "url": "https://github.com/pola-rs/polars/issues/25590",
+    "created_at": "2025-12-02T21:32:30Z",
+    "user": "datajanko",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -3882,6 +3985,24 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3691297845,
+    "number": 25607,
+    "title": "Simple group by in new streaming engine uses very much memory",
+    "url": "https://github.com/pola-rs/polars/issues/25607",
+    "created_at": "2025-12-03T17:56:13Z",
+    "user": "McToel",
+    "labels": [
+      "python",
+      "regression",
+      "A-io-parquet",
+      "closing-candidate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3691299386,
     "number": 17428,
@@ -3909,6 +4030,19 @@
       "bug",
       "openai"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3691324591,
+    "number": 8896,
+    "title": "Enable the use of tcgen05 instructions on Thor",
+    "url": "https://github.com/triton-lang/triton/issues/8896",
+    "created_at": "2025-12-03T18:04:25Z",
+    "user": "dimvar",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -4428,6 +4562,22 @@
     "user": "geligeli",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3693073620,
+    "number": 48325,
+    "title": "[Python] Tests fail on Windows with spaces in username due to improper URI encoding",
+    "url": "https://github.com/apache/arrow/issues/48325",
+    "created_at": "2025-12-04T06:06:06Z",
+    "user": "EslamAhmed171",
+    "labels": [
+      "Type: bug",
+      "Component: Python"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5126,6 +5276,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3695497911,
+    "number": 22878,
+    "title": "Yolo11 and torchrun DDP",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22878",
+    "created_at": "2025-12-04T16:48:20Z",
+    "user": "SimoneBr",
+    "labels": [
+      "question",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3695505066,
     "number": 10368,
@@ -5342,6 +5508,21 @@
     "labels": [
       "type:bug",
       "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3696393410,
+    "number": 19634,
+    "title": "Support Asset materialization through a python function directly",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19634",
+    "created_at": "2025-12-04T20:20:39Z",
+    "user": "robfreedy",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5853,6 +6034,23 @@
     "created_at": "2025-12-05T08:50:31Z",
     "user": "etrommer",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3698051836,
+    "number": 4303,
+    "title": "Create ZenML Skills repository for AI coding agents",
+    "url": "https://github.com/zenml-io/zenml/issues/4303",
+    "created_at": "2025-12-05T08:55:30Z",
+    "user": "strickvl",
+    "labels": [
+      "enhancement",
+      "internal",
+      "x-squad"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -7063,6 +7261,19 @@
     "archived": false
   },
   {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3701405050,
+    "number": 2051,
+    "title": "Bug Report: Server freezes when installing/compiling flash-attn with torch==2.9.0+cu128",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2051",
+    "created_at": "2025-12-06T10:20:27Z",
+    "user": "SharlotAway",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3701466649,
     "number": 17583,
@@ -7309,6 +7520,21 @@
     "labels": [
       "enhancement",
       "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3702094825,
+    "number": 5977,
+    "title": "[Bug]: Invalid embedding function GoogleGenerativeAIEmbeddingFunction used in Gemini example",
+    "url": "https://github.com/chroma-core/chroma/issues/5977",
+    "created_at": "2025-12-06T17:34:01Z",
+    "user": "scotbrew",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -8046,6 +8272,19 @@
     "archived": false
   },
   {
+    "repo": "triton-lang/triton",
+    "id": 3704297523,
+    "number": 8929,
+    "title": "fp8e4nv support for RTX3090 can be trivially added?",
+    "url": "https://github.com/triton-lang/triton/issues/8929",
+    "created_at": "2025-12-08T01:33:11Z",
+    "user": "42hubb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "jax-ml/jax",
     "id": 3704311941,
     "number": 33790,
@@ -8490,6 +8729,19 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3705673524,
+    "number": 5982,
+    "title": "Significant Insert Performance Regression in v1.3.5 compared to v0.4.x (approx. 80% TPS drop)",
+    "url": "https://github.com/chroma-core/chroma/issues/5982",
+    "created_at": "2025-12-08T10:19:58Z",
+    "user": "leopaisen-zb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3705688987,
     "number": 13259,
@@ -8514,6 +8766,21 @@
     "created_at": "2025-12-08T10:25:21Z",
     "user": "finnagin",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "id": 3705729887,
+    "number": 10201,
+    "title": "Pass down ToolCall.id to the tool function",
+    "url": "https://github.com/deepset-ai/haystack/issues/10201",
+    "created_at": "2025-12-08T10:33:20Z",
+    "user": "datbth",
+    "labels": [
+      "P2"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -8698,6 +8965,22 @@
     "labels": [
       "Bug",
       "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3706668784,
+    "number": 48397,
+    "title": "[R] How should we suggest to folks to get our libarrow builds?",
+    "url": "https://github.com/apache/arrow/issues/48397",
+    "created_at": "2025-12-08T14:35:25Z",
+    "user": "jonkeane",
+    "labels": [
+      "Type: enhancement",
+      "Component: R"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9524,6 +9807,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3708710191,
+    "number": 3603,
+    "title": "huggingface cli is not honoring http proxy environment variables on version >=1.0.0",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3603",
+    "created_at": "2025-12-09T01:27:10Z",
+    "user": "smothiki",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3708722952,
     "number": 2392,
@@ -9656,6 +9954,22 @@
     "labels": [
       "bug",
       "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3709279311,
+    "number": 48409,
+    "title": "[Python] Change the behaviour of __eq__",
+    "url": "https://github.com/apache/arrow/issues/48409",
+    "created_at": "2025-12-09T05:25:20Z",
+    "user": "AlenkaF",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9884,6 +10198,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3709737119,
+    "number": 5996,
+    "title": "[Bug]: Chroma import fails on python 3.14.2 and pydantic 2.12+",
+    "url": "https://github.com/chroma-core/chroma/issues/5996",
+    "created_at": "2025-12-09T08:14:11Z",
+    "user": "rnagraham",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3709739484,
     "number": 17699,
@@ -9969,6 +10298,22 @@
     "user": "alexander-alderman-webb",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "id": 3709975384,
+    "number": 9706,
+    "title": "Fast non-linear non-Gaussian State Space models estimation feature",
+    "url": "https://github.com/statsmodels/statsmodels/issues/9706",
+    "created_at": "2025-12-09T09:23:25Z",
+    "user": "nguymin-theonlyone",
+    "labels": [
+      "type-enh",
+      "comp-tsa-statespace"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -10332,6 +10677,26 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3710717381,
+    "number": 25700,
+    "title": "Scanning, Filtering and Sinking Parquet with `PartitionMaxSize` Causes Excessive Memory Use",
+    "url": "https://github.com/pola-rs/polars/issues/25700",
+    "created_at": "2025-12-09T12:39:52Z",
+    "user": "AlexanderNenninger",
+    "labels": [
+      "bug",
+      "python",
+      "performance",
+      "accepted",
+      "P-medium",
+      "A-io-parquet"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3710789015,
     "number": 169946,
@@ -10534,6 +10899,21 @@
     "archived": false
   },
   {
+    "repo": "networkx/networkx",
+    "id": 3711094090,
+    "number": 8375,
+    "title": "DOC: Add section on Reporting Views to Graph Types reference page",
+    "url": "https://github.com/networkx/networkx/issues/8375",
+    "created_at": "2025-12-09T14:07:01Z",
+    "user": "dschult",
+    "labels": [
+      "type: Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3711097149,
     "number": 42740,
@@ -10640,6 +11020,19 @@
     "labels": [
       "llm translation"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3711379503,
+    "number": 5267,
+    "title": "Migrate from MKDocs to Zensical",
+    "url": "https://github.com/kedro-org/kedro/issues/5267",
+    "created_at": "2025-12-09T15:12:24Z",
+    "user": "lrcouto",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -11000,6 +11393,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3712249417,
+    "number": 5998,
+    "title": "[Feature Request]: Create google.genai example",
+    "url": "https://github.com/chroma-core/chroma/issues/5998",
+    "created_at": "2025-12-09T18:58:38Z",
+    "user": "scotbrew",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3712258511,
     "number": 3699,
@@ -11209,6 +11617,23 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 3712957852,
+    "number": 21881,
+    "title": "`return-in-generator` (`B901`) - should not be reported on pytest hook wrappers",
+    "url": "https://github.com/astral-sh/ruff/issues/21881",
+    "created_at": "2025-12-09T23:08:50Z",
+    "user": "DetachHead",
+    "labels": [
+      "rule",
+      "help wanted",
+      "preview"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3712962926,
     "number": 170005,
@@ -11382,6 +11807,25 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3713183797,
+    "number": 25719,
+    "title": "Calling `collect_schema` on 2 LazyFrames backed by the same DataFrame gives different serializations",
+    "url": "https://github.com/pola-rs/polars/issues/25719",
+    "created_at": "2025-12-10T01:16:28Z",
+    "user": "NeejWeej",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "A-serde",
+      "enterprise-support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3713207577,
     "number": 10379,
@@ -11528,6 +11972,21 @@
     "archived": false
   },
   {
+    "repo": "catboost/catboost",
+    "id": 3713363457,
+    "number": 2976,
+    "title": "Catboost Pool quantization is extremely slow with float16 dtypes",
+    "url": "https://github.com/catboost/catboost/issues/2976",
+    "created_at": "2025-12-10T02:58:07Z",
+    "user": "antipisa",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3713385046,
     "number": 4655,
@@ -11602,6 +12061,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3713653322,
+    "number": 6009,
+    "title": "[Feature Request]: Expose validateWhere",
+    "url": "https://github.com/chroma-core/chroma/issues/6009",
+    "created_at": "2025-12-10T05:29:31Z",
+    "user": "kylediaz",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3713675220,
     "number": 3703,
@@ -11643,6 +12117,23 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3713728909,
+    "number": 21410,
+    "title": "Trainer.predict and Trainer.test reset model state to evaluation",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21410",
+    "created_at": "2025-12-10T06:02:01Z",
+    "user": "sfo",
+    "labels": [
+      "bug",
+      "working as intended",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3713768661,
     "number": 170047,
@@ -11651,6 +12142,21 @@
     "created_at": "2025-12-10T06:16:41Z",
     "user": "HOOLoLo",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3713794309,
+    "number": 2857,
+    "title": "Feature: support the map data type",
+    "url": "https://github.com/lancedb/lancedb/issues/2857",
+    "created_at": "2025-12-10T06:24:30Z",
+    "user": "luckyjerry349",
+    "labels": [
+      "enhancement"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -11756,6 +12262,40 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3714001338,
+    "number": 25720,
+    "title": "Lazy unpivot + join schema discrepancy between `collect_schema()` and `collect().schema`",
+    "url": "https://github.com/pola-rs/polars/issues/25720",
+    "created_at": "2025-12-10T07:40:34Z",
+    "user": "NeejWeej",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "P-medium",
+      "enterprise-support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3714069750,
+    "number": 8953,
+    "title": "RuntimeError: Failed to execute cuptiSubscribe with error 2",
+    "url": "https://github.com/triton-lang/triton/issues/8953",
+    "created_at": "2025-12-10T08:05:46Z",
+    "user": "whatdhack",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3714088955,
     "number": 42762,
@@ -11781,6 +12321,21 @@
     "labels": [
       "bug",
       "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3714120038,
+    "number": 21889,
+    "title": "BLE001 (blind-except): false positive when logging via `warning`",
+    "url": "https://github.com/astral-sh/ruff/issues/21889",
+    "created_at": "2025-12-10T08:21:57Z",
+    "user": "bentheiii",
+    "labels": [
+      "rule"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -11841,6 +12396,22 @@
     "user": "SyedaAnshrahGillani",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3714371469,
+    "number": 21891,
+    "title": "PERF401 extend suggestion has false negatives and makes code slower",
+    "url": "https://github.com/astral-sh/ruff/issues/21891",
+    "created_at": "2025-12-10T09:37:16Z",
+    "user": "hauntsaninja",
+    "labels": [
+      "bug",
+      "rule"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -12027,6 +12598,21 @@
     "archived": false
   },
   {
+    "repo": "networkx/networkx",
+    "id": 3714931206,
+    "number": 8377,
+    "title": "`chordal_cycle_graph` returns a 6-regular multigraph with self-loops, not the documented 3-regular graph",
+    "url": "https://github.com/networkx/networkx/issues/8377",
+    "created_at": "2025-12-10T12:09:04Z",
+    "user": "T90REAL",
+    "labels": [
+      "type: Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3714948114,
     "number": 170064,
@@ -12035,6 +12621,21 @@
     "created_at": "2025-12-10T12:13:47Z",
     "user": "jikechao",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3714967624,
+    "number": 11854,
+    "title": "Training a model with zero iterations",
+    "url": "https://github.com/dmlc/xgboost/issues/11854",
+    "created_at": "2025-12-10T12:19:12Z",
+    "user": "be-marc",
+    "labels": [
+      "type: bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -12169,6 +12770,34 @@
     "archived": false
   },
   {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3715389735,
+    "number": 2060,
+    "title": "完善一下实现呗，给大家找这么多麻烦",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2060",
+    "created_at": "2025-12-10T14:15:55Z",
+    "user": "JasonLeeFdu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3715413668,
+    "number": 12544,
+    "title": "In gr.DataFrame NaN became 0.",
+    "url": "https://github.com/gradio-app/gradio/issues/12544",
+    "created_at": "2025-12-10T14:22:03Z",
+    "user": "q275343119",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3715548674,
     "number": 17765,
@@ -12242,6 +12871,21 @@
       "module: build",
       "module: rocm",
       "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3715826305,
+    "number": 6012,
+    "title": "[ENH]: Update default gemini document embedding model to latest \"gemini-embedding-001\"",
+    "url": "https://github.com/chroma-core/chroma/issues/6012",
+    "created_at": "2025-12-10T16:00:50Z",
+    "user": "scotbrew",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -12420,6 +13064,37 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 3716515574,
+    "number": 48433,
+    "title": "[C++] libarrow_flight symbol issue with pre-packaged Abseil >= 20240722.0",
+    "url": "https://github.com/apache/arrow/issues/48433",
+    "created_at": "2025-12-10T19:33:22Z",
+    "user": "WillAyd",
+    "labels": [
+      "Type: bug",
+      "Component: C++"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google-deepmind/optax",
+    "id": 3716578781,
+    "number": 1528,
+    "title": "Feature request: add BYOL, SimSiam, DINO and Barlow Twins losses to `optax.losses`",
+    "url": "https://github.com/google-deepmind/optax/issues/1528",
+    "created_at": "2025-12-10T19:56:41Z",
+    "user": "surajyadav-research",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3716618116,
     "number": 170117,
@@ -12528,6 +13203,21 @@
     "labels": [
       "bug",
       "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3716975842,
+    "number": 21907,
+    "title": "Ratcheting system for ruff rules",
+    "url": "https://github.com/astral-sh/ruff/issues/21907",
+    "created_at": "2025-12-10T22:21:56Z",
+    "user": "siscia",
+    "labels": [
+      "question"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -12804,6 +13494,19 @@
     "archived": false
   },
   {
+    "repo": "open-mmlab/mmdetection",
+    "id": 3717502412,
+    "number": 12417,
+    "title": "最近入坑的朋友注意，按官方安装说明走会有问题",
+    "url": "https://github.com/open-mmlab/mmdetection/issues/12417",
+    "created_at": "2025-12-11T02:44:34Z",
+    "user": "cz-cz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3717507646,
     "number": 63322,
@@ -12829,6 +13532,26 @@
     "user": "kwen2501",
     "labels": [
       "oncall: distributed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3717604394,
+    "number": 25731,
+    "title": "Predicate pushdown is not applied when filtering an ns Parquet column on μs bounds",
+    "url": "https://github.com/pola-rs/polars/issues/25731",
+    "created_at": "2025-12-11T03:41:13Z",
+    "user": "joelgibson",
+    "labels": [
+      "python",
+      "enhancement",
+      "accepted",
+      "A-io-parquet",
+      "A-optimizer",
+      "enterprise-support"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -13130,6 +13853,22 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 3718227242,
+    "number": 48454,
+    "title": "[Ruby] Improve non-blocking I/O for Flight client?",
+    "url": "https://github.com/apache/arrow/issues/48454",
+    "created_at": "2025-12-11T07:51:55Z",
+    "user": "datbth",
+    "labels": [
+      "Type: enhancement",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 3718243562,
     "number": 13903,
@@ -13332,6 +14071,21 @@
     "archived": false
   },
   {
+    "repo": "unit8co/darts",
+    "id": 3718563774,
+    "number": 2967,
+    "title": "Use CatBoost MultiQuantile regression",
+    "url": "https://github.com/unit8co/darts/issues/2967",
+    "created_at": "2025-12-11T09:32:46Z",
+    "user": "swertz",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3718567821,
     "number": 17814,
@@ -13377,6 +14131,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3718665391,
+    "number": 6021,
+    "title": "[Bug]: A new embedding function is not persisted",
+    "url": "https://github.com/chroma-core/chroma/issues/6021",
+    "created_at": "2025-12-11T10:00:43Z",
+    "user": "Mark531",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3718669155,
     "number": 4679,
@@ -13388,6 +14157,21 @@
       "🐛 bug",
       "🏋 SFT",
       "⚡ PEFT"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unit8co/darts",
+    "id": 3718676657,
+    "number": 2968,
+    "title": "multi_models = True and output_chunk_length > 1 : index future covariates relatively to the forecasted step",
+    "url": "https://github.com/unit8co/darts/issues/2968",
+    "created_at": "2025-12-11T10:04:01Z",
+    "user": "swertz",
+    "labels": [
+      "triage"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -13616,6 +14400,49 @@
     "archived": false
   },
   {
+    "repo": "holoviz/panel",
+    "id": 3718964117,
+    "number": 8335,
+    "title": "`widget.Select` not working in exported HTML files if moren than one is present",
+    "url": "https://github.com/holoviz/panel/issues/8335",
+    "created_at": "2025-12-11T11:24:40Z",
+    "user": "mflova",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3719062794,
+    "number": 25732,
+    "title": "`map_elements` with return_dtype=pl.Float32 fails to cast from pl.Float64",
+    "url": "https://github.com/pola-rs/polars/issues/25732",
+    "created_at": "2025-12-11T11:53:02Z",
+    "user": "larsevj",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3719256161,
+    "number": 11860,
+    "title": "3.1.3 release tracker",
+    "url": "https://github.com/dmlc/xgboost/issues/11860",
+    "created_at": "2025-12-11T12:43:59Z",
+    "user": "trivialfis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3719277980,
     "number": 17823,
@@ -13735,6 +14562,24 @@
     "archived": false
   },
   {
+    "repo": "zenml-io/zenml",
+    "id": 3719694981,
+    "number": 4337,
+    "title": "Enable the oneof operator for referenced entities",
+    "url": "https://github.com/zenml-io/zenml/issues/4337",
+    "created_at": "2025-12-11T14:41:39Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "planned",
+      "core-team",
+      "snack",
+      "no-release-notes"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3719726169,
     "number": 19333,
@@ -13807,6 +14652,25 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3719838489,
+    "number": 25733,
+    "title": "Sort on already sorted DataFrame causes unnecessary rechunk",
+    "url": "https://github.com/pola-rs/polars/issues/25733",
+    "created_at": "2025-12-11T15:20:00Z",
+    "user": "gab23r",
+    "labels": [
+      "bug",
+      "python",
+      "performance",
+      "accepted",
+      "P-low"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3719877457,
     "number": 16196,
@@ -13815,6 +14679,24 @@
     "created_at": "2025-12-11T15:29:51Z",
     "user": "reuvenperetz",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3719886840,
+    "number": 25734,
+    "title": "The new streaming `.rolling()` does not stream incrementally",
+    "url": "https://github.com/pola-rs/polars/issues/25734",
+    "created_at": "2025-12-11T15:32:10Z",
+    "user": "davidia",
+    "labels": [
+      "bug",
+      "python",
+      "A-streaming",
+      "closing-candidate"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -13912,6 +14794,21 @@
     "archived": false
   },
   {
+    "repo": "google-deepmind/optax",
+    "id": 3720109685,
+    "number": 1532,
+    "title": "`inject_hyperparams` causes numerical divergence in Adam compared to standard optimizer with identical schedule",
+    "url": "https://github.com/google-deepmind/optax/issues/1532",
+    "created_at": "2025-12-11T16:29:00Z",
+    "user": "kameronton",
+    "labels": [
+      "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "fastapi/fastapi",
     "id": 3720193758,
     "number": 14508,
@@ -13919,6 +14816,5032 @@
     "url": "https://github.com/fastapi/fastapi/issues/14508",
     "created_at": "2025-12-11T16:55:18Z",
     "user": "tiangolo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3720225954,
+    "number": 1528,
+    "title": "Bug: openml.runs.list_runs causes server error for large offsets",
+    "url": "https://github.com/openml/openml-python/issues/1528",
+    "created_at": "2025-12-11T17:05:11Z",
+    "user": "TheRazorace",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3720334510,
+    "number": 16201,
+    "title": "Update XNNPACK dependency",
+    "url": "https://github.com/pytorch/executorch/issues/16201",
+    "created_at": "2025-12-11T17:36:56Z",
+    "user": "GregoryComer",
+    "labels": [
+      "module: xnnpack",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3720382925,
+    "number": 21925,
+    "title": "Though about formatting mathematical code",
+    "url": "https://github.com/astral-sh/ruff/issues/21925",
+    "created_at": "2025-12-11T17:51:27Z",
+    "user": "maxtremblay",
+    "labels": [
+      "formatter",
+      "style"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "shap/shap",
+    "id": 3720404831,
+    "number": 4237,
+    "title": "Reenable CausalML tests",
+    "url": "https://github.com/shap/shap/issues/4237",
+    "created_at": "2025-12-11T17:57:37Z",
+    "user": "CloseChoice",
+    "labels": [
+      "dependencies",
+      "ci",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3720424590,
+    "number": 9166,
+    "title": "[ENH] Hierarchical/Agglomerative Clustering for Time Series",
+    "url": "https://github.com/sktime/sktime/issues/9166",
+    "created_at": "2025-12-11T18:02:49Z",
+    "user": "Muhammad-Rebaal",
+    "labels": [
+      "module:clustering",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/safetensors",
+    "id": 3720473813,
+    "number": 684,
+    "title": "SafetensorError isn't pickle-able, it should be (smoke test for issue `import of module 'safetensors_rust' failed`)",
+    "url": "https://github.com/huggingface/safetensors/issues/684",
+    "created_at": "2025-12-11T18:18:28Z",
+    "user": "doctorpangloss",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3720533981,
+    "number": 5271,
+    "title": "Fixes/Improvements for kedro-mlflow documentation",
+    "url": "https://github.com/kedro-org/kedro/issues/5271",
+    "created_at": "2025-12-11T18:36:58Z",
+    "user": "kyle-woodward",
+    "labels": [
+      "Component: Documentation 📄",
+      "Help Wanted :pray:"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3720545663,
+    "number": 16203,
+    "title": "etLLM changing model export based on how it's named is very confusing",
+    "url": "https://github.com/pytorch/executorch/issues/16203",
+    "created_at": "2025-12-11T18:40:08Z",
+    "user": "metascroy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3720621592,
+    "number": 25740,
+    "title": "pl.Object dtype converted to Binary inside custom io source",
+    "url": "https://github.com/pola-rs/polars/issues/25740",
+    "created_at": "2025-12-11T19:06:04Z",
+    "user": "NeejWeej",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "A-dtype-object",
+      "enterprise-support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3720624320,
+    "number": 22926,
+    "title": "extended-resume",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22926",
+    "created_at": "2025-12-11T19:07:04Z",
+    "user": "jeremy-rutman",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3720657672,
+    "number": 17835,
+    "title": "[Bug]:",
+    "url": "https://github.com/BerriAI/litellm/issues/17835",
+    "created_at": "2025-12-11T19:18:50Z",
+    "user": "FroguelYipit",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3720667312,
+    "number": 59391,
+    "title": "[Data] Fix broken block-splitting",
+    "url": "https://github.com/ray-project/ray/issues/59391",
+    "created_at": "2025-12-11T19:22:27Z",
+    "user": "alexeykudinkin",
+    "labels": [
+      "bug",
+      "P1",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3720768837,
+    "number": 42821,
+    "title": "Support batched torch Tensors in ASTFeatureExtractor",
+    "url": "https://github.com/huggingface/transformers/issues/42821",
+    "created_at": "2025-12-11T19:58:41Z",
+    "user": "psu-om",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3720793771,
+    "number": 12555,
+    "title": "Some SSR Spaces error out",
+    "url": "https://github.com/gradio-app/gradio/issues/12555",
+    "created_at": "2025-12-11T20:07:56Z",
+    "user": "freddyaboulton",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3720808057,
+    "number": 25741,
+    "title": "register_io_source() filtering order",
+    "url": "https://github.com/pola-rs/polars/issues/25741",
+    "created_at": "2025-12-11T20:12:37Z",
+    "user": "douglas-raillard-arm",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3720843272,
+    "number": 3716,
+    "title": "[Bug] 'int' object has no attribute 'mean'",
+    "url": "https://github.com/unslothai/unsloth/issues/3716",
+    "created_at": "2025-12-11T20:25:36Z",
+    "user": "gitsubhamc",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3720925468,
+    "number": 25742,
+    "title": "Casting out-of-range datetime values causes panic instead of returning error",
+    "url": "https://github.com/pola-rs/polars/issues/25742",
+    "created_at": "2025-12-11T20:56:10Z",
+    "user": "Kevin-Patyk",
+    "labels": [
+      "bug",
+      "rust",
+      "needs triage",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3720984478,
+    "number": 17841,
+    "title": "[Bug]: Team Virtual Keys not shown for normal users",
+    "url": "https://github.com/BerriAI/litellm/issues/17841",
+    "created_at": "2025-12-11T21:17:07Z",
+    "user": "felix-hertweck",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3720987470,
+    "number": 30421,
+    "title": "BUG: np.linalg.matrix_rank fails for empty matrices",
+    "url": "https://github.com/numpy/numpy/issues/30421",
+    "created_at": "2025-12-11T21:18:25Z",
+    "user": "CodeLoopdroid",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3721034512,
+    "number": 59394,
+    "title": "[RLlib] Memory leak on Windows in PPO+Gymnasium setting",
+    "url": "https://github.com/ray-project/ray/issues/59394",
+    "created_at": "2025-12-11T21:34:43Z",
+    "user": "EricSpeidel",
+    "labels": [
+      "bug",
+      "triage",
+      "windows",
+      "rllib",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3721035101,
+    "number": 17842,
+    "title": "[Bug]: Ollama Test Connect button is broken",
+    "url": "https://github.com/BerriAI/litellm/issues/17842",
+    "created_at": "2025-12-11T21:34:58Z",
+    "user": "felix-hertweck",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 3721077739,
+    "number": 3460,
+    "title": "max_model_length for gemma3-12b is set to 2048 (_DEFAULT_MAX_LENGTH) with the hf processor",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3460",
+    "created_at": "2025-12-11T21:51:28Z",
+    "user": "bodasadallah",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3721228722,
+    "number": 2146,
+    "title": "Triton Cache Error for MI250",
+    "url": "https://github.com/pytorch/torchtitan/issues/2146",
+    "created_at": "2025-12-11T22:52:09Z",
+    "user": "zixianwang2022",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3721247631,
+    "number": 4153,
+    "title": "ITokenizer type hint error in wav2vec2 aligner pipeline",
+    "url": "https://github.com/pytorch/audio/issues/4153",
+    "created_at": "2025-12-11T22:59:01Z",
+    "user": "danijel3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3721264759,
+    "number": 25745,
+    "title": "`LazyFrame.collect_batches()` leads to ThreadPoolExecutor shutdown deadlock",
+    "url": "https://github.com/pola-rs/polars/issues/25745",
+    "created_at": "2025-12-11T23:06:06Z",
+    "user": "douglas-raillard-arm",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "needs repro"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3721285732,
+    "number": 19742,
+    "title": "Add `prefect deployment export` CLI command",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19742",
+    "created_at": "2025-12-11T23:15:36Z",
+    "user": "zzstoatzz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3721394739,
+    "number": 59397,
+    "title": "[Data] write_iceberg: incorrect number of rows written",
+    "url": "https://github.com/ray-project/ray/issues/59397",
+    "created_at": "2025-12-12T00:08:17Z",
+    "user": "JayThomason",
+    "labels": [
+      "bug",
+      "triage",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3721408814,
+    "number": 48463,
+    "title": "[Python] Improve error message in CheckTypeExact arrow_to_pandas.cc",
+    "url": "https://github.com/apache/arrow/issues/48463",
+    "created_at": "2025-12-12T00:15:29Z",
+    "user": "HyukjinKwon",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unit8co/darts",
+    "id": 3721434712,
+    "number": 2969,
+    "title": "[BUG] Test code shipped in distributions",
+    "url": "https://github.com/unit8co/darts/issues/2969",
+    "created_at": "2025-12-12T00:29:00Z",
+    "user": "daidahao",
+    "labels": [
+      "devops"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3721486569,
+    "number": 17850,
+    "title": "[Bug]: Bedrock embeddings fail with \"expected type: String, found: JSONArray\" in v1.80.5-stable",
+    "url": "https://github.com/BerriAI/litellm/issues/17850",
+    "created_at": "2025-12-12T00:56:40Z",
+    "user": "gmerritt",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3721575319,
+    "number": 48465,
+    "title": "[Python] Truncate intraday milliseconds in Date64 to pandas conversion",
+    "url": "https://github.com/apache/arrow/issues/48465",
+    "created_at": "2025-12-12T01:43:21Z",
+    "user": "HyukjinKwon",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3721711384,
+    "number": 12557,
+    "title": "Add a better default response for GET at /mcp endpoint",
+    "url": "https://github.com/gradio-app/gradio/issues/12557",
+    "created_at": "2025-12-12T02:45:45Z",
+    "user": "abidlabs",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3721794938,
+    "number": 6029,
+    "title": "[Bug]:Reconstruction error in `test_embedding_function_config_roundtrip`",
+    "url": "https://github.com/chroma-core/chroma/issues/6029",
+    "created_at": "2025-12-12T03:24:05Z",
+    "user": "sarahec",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3721796003,
+    "number": 16217,
+    "title": "make building stop at Built target portable_kernels",
+    "url": "https://github.com/pytorch/executorch/issues/16217",
+    "created_at": "2025-12-12T03:24:46Z",
+    "user": "imjking",
+    "labels": [
+      "partner: qualcomm",
+      "module: qnn"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3721813734,
+    "number": 48467,
+    "title": "[C++][Parquet] Add configure to limit the row group size",
+    "url": "https://github.com/apache/arrow/issues/48467",
+    "created_at": "2025-12-12T03:35:21Z",
+    "user": "wecharyu",
+    "labels": [
+      "Type: enhancement",
+      "Component: C++"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3722059797,
+    "number": 33908,
+    "title": "sparse BCOO support for jsp.linalg.expm",
+    "url": "https://github.com/jax-ml/jax/issues/33908",
+    "created_at": "2025-12-12T05:41:49Z",
+    "user": "Phionx",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3722063073,
+    "number": 25748,
+    "title": "SQL UNION ALL + JOIN column resolution fails",
+    "url": "https://github.com/pola-rs/polars/issues/25748",
+    "created_at": "2025-12-12T05:43:32Z",
+    "user": "pomo-mondreganto",
+    "labels": [
+      "rust",
+      "A-sql",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3722130172,
+    "number": 59400,
+    "title": "[RLlib] rllib/tuned_examples missing in master branch",
+    "url": "https://github.com/ray-project/ray/issues/59400",
+    "created_at": "2025-12-12T06:10:16Z",
+    "user": "Minyus",
+    "labels": [
+      "triage",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3722143519,
+    "number": 17863,
+    "title": "[Feature]: Add prometheus metrics for guardrails and queue time",
+    "url": "https://github.com/BerriAI/litellm/issues/17863",
+    "created_at": "2025-12-12T06:15:07Z",
+    "user": "bjornjee",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3722148392,
+    "number": 21932,
+    "title": "Ruff jetbrains plugin incompatible",
+    "url": "https://github.com/astral-sh/ruff/issues/21932",
+    "created_at": "2025-12-12T06:16:51Z",
+    "user": "Airpy",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3722205898,
+    "number": 22928,
+    "title": "Model loses context of the pervious training when retrained ?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22928",
+    "created_at": "2025-12-12T06:41:11Z",
+    "user": "Sahilpatel-Ig",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3722214129,
+    "number": 22929,
+    "title": "Unable to use full GPU capacity with yolo11m models",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22929",
+    "created_at": "2025-12-12T06:45:12Z",
+    "user": "Sahilpatel-Ig",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3722225361,
+    "number": 3753,
+    "title": "Feature Request: Is it possible to support configuring the browser settings, such as incognito mode, extensions, and language, etc.?",
+    "url": "https://github.com/browser-use/browser-use/issues/3753",
+    "created_at": "2025-12-12T06:49:49Z",
+    "user": "wangjintianya",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3722243543,
+    "number": 7901,
+    "title": "ShuffledDataSourcesArrowExamplesIterable cannot properly resume from checkpoint",
+    "url": "https://github.com/huggingface/datasets/issues/7901",
+    "created_at": "2025-12-12T06:57:32Z",
+    "user": "howitry",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3722388341,
+    "number": 42831,
+    "title": "Accuracy issue associated with FineGrainedFP8",
+    "url": "https://github.com/huggingface/transformers/issues/42831",
+    "created_at": "2025-12-12T07:47:42Z",
+    "user": "sunghyuckhong",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3722400306,
+    "number": 42832,
+    "title": "Question about tie_weights",
+    "url": "https://github.com/huggingface/transformers/issues/42832",
+    "created_at": "2025-12-12T07:52:43Z",
+    "user": "cjw-d",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3722423973,
+    "number": 1893,
+    "title": "BUG: gpt-5.2 model on CodeAgent returns \"Unsupported parameter: 'stop' is not supported with this model.\"",
+    "url": "https://github.com/huggingface/smolagents/issues/1893",
+    "created_at": "2025-12-12T07:59:57Z",
+    "user": "arturoPMM",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3722426223,
+    "number": 48469,
+    "title": "[CI][Python] Python install manager can't be used on the free-threaded Win wheels test step",
+    "url": "https://github.com/apache/arrow/issues/48469",
+    "created_at": "2025-12-12T08:00:36Z",
+    "user": "AlenkaF",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python",
+      "Component: Continuous Integration"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3722551634,
+    "number": 1529,
+    "title": "Hide test server admin key",
+    "url": "https://github.com/openml/openml-python/issues/1529",
+    "created_at": "2025-12-12T08:43:18Z",
+    "user": "PGijsbers",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3722568653,
+    "number": 13326,
+    "title": "streamlit is not rendered on iphone safari(only) and ipad since 26 OS version",
+    "url": "https://github.com/streamlit/streamlit/issues/13326",
+    "created_at": "2025-12-12T08:49:06Z",
+    "user": "4va2030-hub",
+    "labels": [
+      "type:bug",
+      "area:frontend",
+      "status:awaiting-user-response",
+      "area:mobile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3722575081,
+    "number": 59403,
+    "title": "[Dashboard]  Dashboard shows dead worker nodes as ALIVE in Cluster page",
+    "url": "https://github.com/ray-project/ray/issues/59403",
+    "created_at": "2025-12-12T08:51:08Z",
+    "user": "dragongu",
+    "labels": [
+      "bug",
+      "P1",
+      "usability",
+      "core",
+      "observability",
+      "community-backlog",
+      "contribution-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3722606179,
+    "number": 25750,
+    "title": "The paragraph about parsing datetimes with mixed offsets looks outdated",
+    "url": "https://github.com/pola-rs/polars/issues/25750",
+    "created_at": "2025-12-12T09:01:34Z",
+    "user": "stfdxv",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3722606609,
+    "number": 22930,
+    "title": "JetPack 5 image: Incompatible TensorRT and numpy packages",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22930",
+    "created_at": "2025-12-12T09:01:43Z",
+    "user": "rgov",
+    "labels": [
+      "bug",
+      "dependencies",
+      "embedded"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3722625102,
+    "number": 6030,
+    "title": "[Bug]: Chroma CLI can’t connect to local server after `client.reset()` on a persistent DB",
+    "url": "https://github.com/chroma-core/chroma/issues/6030",
+    "created_at": "2025-12-12T09:07:32Z",
+    "user": "Navxihziq",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3722653726,
+    "number": 17869,
+    "title": "[Bug]: In autorouter all long input fails. (No way to specify chunk size)",
+    "url": "https://github.com/BerriAI/litellm/issues/17869",
+    "created_at": "2025-12-12T09:16:16Z",
+    "user": "ptempier",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3722725401,
+    "number": 25751,
+    "title": "Sorts on LazyFrame not pruned",
+    "url": "https://github.com/pola-rs/polars/issues/25751",
+    "created_at": "2025-12-12T09:38:59Z",
+    "user": "nameexhaustion",
+    "labels": [
+      "enhancement",
+      "performance",
+      "accepted",
+      "P-medium",
+      "A-optimizer"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3722749619,
+    "number": 21939,
+    "title": "False positive for missing-f-string-syntax (RUF027)",
+    "url": "https://github.com/astral-sh/ruff/issues/21939",
+    "created_at": "2025-12-12T09:46:32Z",
+    "user": "ashrub-holvi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3722752317,
+    "number": 4338,
+    "title": "AzureML Orchestrator Does Not Support Per-Step Compute Configuration",
+    "url": "https://github.com/zenml-io/zenml/issues/4338",
+    "created_at": "2025-12-12T09:47:26Z",
+    "user": "dani-diffusedrive",
+    "labels": [
+      "planned",
+      "core-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3722752886,
+    "number": 17871,
+    "title": "[Bug]: enterpriseWebSearch vertex ai not supported in responses API",
+    "url": "https://github.com/BerriAI/litellm/issues/17871",
+    "created_at": "2025-12-12T09:47:38Z",
+    "user": "superpoussin22",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3722753389,
+    "number": 1909,
+    "title": "[Docs] `Encode Inputs` rendering issues",
+    "url": "https://github.com/huggingface/tokenizers/issues/1909",
+    "created_at": "2025-12-12T09:47:48Z",
+    "user": "ariG23498",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3722758627,
+    "number": 3755,
+    "title": "Bug: Close other background tab will cause a new blank tab creation",
+    "url": "https://github.com/browser-use/browser-use/issues/3755",
+    "created_at": "2025-12-12T09:49:36Z",
+    "user": "wstcttt",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3722816270,
+    "number": 13329,
+    "title": "Make title/header anchors keyboard accessible",
+    "url": "https://github.com/streamlit/streamlit/issues/13329",
+    "created_at": "2025-12-12T10:06:28Z",
+    "user": "sfc-gh-jrieke",
+    "labels": [
+      "type:enhancement",
+      "area:accessibility"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3722821479,
+    "number": 13330,
+    "title": "Make help tooltips keyboard accessible",
+    "url": "https://github.com/streamlit/streamlit/issues/13330",
+    "created_at": "2025-12-12T10:07:53Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "area:accessibility"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3722831035,
+    "number": 13332,
+    "title": "Make three dots menu in `st.dataframe` keyboard accessible",
+    "url": "https://github.com/streamlit/streamlit/issues/13332",
+    "created_at": "2025-12-12T10:10:32Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "upstream",
+      "area:accessibility"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3722840347,
+    "number": 34307,
+    "title": "Expose vLLM `stop_reason` in ChatOpenAI.response_metadata",
+    "url": "https://github.com/langchain-ai/langchain/issues/34307",
+    "created_at": "2025-12-12T10:13:02Z",
+    "user": "Septemberlemon",
+    "labels": [
+      "langchain",
+      "feature request",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3722917729,
+    "number": 48470,
+    "title": "[Python] Cannot construct `UuidArray` from list of `UuidScalar`s",
+    "url": "https://github.com/apache/arrow/issues/48470",
+    "created_at": "2025-12-12T10:36:04Z",
+    "user": "flying-sheep",
+    "labels": [
+      "Type: bug",
+      "Component: Python"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "open-mmlab/mmcv",
+    "id": 3722931104,
+    "number": 3317,
+    "title": "[Feature] how to unstar this project?",
+    "url": "https://github.com/open-mmlab/mmcv/issues/3317",
+    "created_at": "2025-12-12T10:40:28Z",
+    "user": "liulanyang-alpha",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3723060227,
+    "number": 4341,
+    "title": "Add parallel deletion support to artifact prune CLI",
+    "url": "https://github.com/zenml-io/zenml/issues/4341",
+    "created_at": "2025-12-12T11:22:31Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "internal",
+      "x-squad",
+      "snack"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3723198303,
+    "number": 25752,
+    "title": "Skip schema inference if schema is passed to `scan_csv()`",
+    "url": "https://github.com/pola-rs/polars/issues/25752",
+    "created_at": "2025-12-12T12:10:01Z",
+    "user": "nameexhaustion",
+    "labels": [
+      "enhancement",
+      "performance",
+      "accepted",
+      "A-io-csv"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3723281150,
+    "number": 7902,
+    "title": "The child process retrieves the dataset directly from the main process instead of executing `memory_mapped_arrow_table_from_file`.",
+    "url": "https://github.com/huggingface/datasets/issues/7902",
+    "created_at": "2025-12-12T12:37:44Z",
+    "user": "HQF2017",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3723293331,
+    "number": 25754,
+    "title": "`LazyFrame.collect_batches()` deadlocks when too many iterators are created at once",
+    "url": "https://github.com/pola-rs/polars/issues/25754",
+    "created_at": "2025-12-12T12:42:04Z",
+    "user": "douglas-raillard-arm",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3723323053,
+    "number": 4344,
+    "title": "Allow compiling static pipeline while executing a step",
+    "url": "https://github.com/zenml-io/zenml/issues/4344",
+    "created_at": "2025-12-12T12:52:54Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "planned",
+      "core-team",
+      "snack",
+      "no-release-notes"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3723361253,
+    "number": 21945,
+    "title": "Detect duplicates in `__all__`",
+    "url": "https://github.com/astral-sh/ruff/issues/21945",
+    "created_at": "2025-12-12T13:05:57Z",
+    "user": "chirizxc",
+    "labels": [
+      "rule"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3723371044,
+    "number": 59404,
+    "title": "[Core] Multinode ray cluster/vllm deployment failure",
+    "url": "https://github.com/ray-project/ray/issues/59404",
+    "created_at": "2025-12-12T13:08:49Z",
+    "user": "tensorsofthewall",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "stability",
+      "compiled-graphs",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "id": 3723376833,
+    "number": 11565,
+    "title": "Row Condition Feature Fails on SQLAlchemy Data Sources: \"module 'sqlalchemy' has no attribute 'ColumnElement'\" Exception",
+    "url": "https://github.com/great-expectations/great_expectations/issues/11565",
+    "created_at": "2025-12-12T13:10:48Z",
+    "user": "freget",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "id": 3723426129,
+    "number": 11566,
+    "title": "Row Condition with Date Column Causes ResourceFreshnessAggregateError Due to Serialization Mismatch",
+    "url": "https://github.com/great-expectations/great_expectations/issues/11566",
+    "created_at": "2025-12-12T13:26:10Z",
+    "user": "freget",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3723465279,
+    "number": 42837,
+    "title": "Regression in SAM2 caused by changes in mark_tied_weights_as_initialized",
+    "url": "https://github.com/huggingface/transformers/issues/42837",
+    "created_at": "2025-12-12T13:38:57Z",
+    "user": "krzwaraksa",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3723468635,
+    "number": 25758,
+    "title": "Should select (projections) be applied before .agg(pl.all().sum()) in lazy frame?",
+    "url": "https://github.com/pola-rs/polars/issues/25758",
+    "created_at": "2025-12-12T13:40:05Z",
+    "user": "agossard",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "P-low",
+      "A-typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3723561659,
+    "number": 3721,
+    "title": "Qwen2.5-1.5B Base fails to generate `eos_token` and repeats endlessly, unlike the Unsloth version",
+    "url": "https://github.com/unslothai/unsloth/issues/3721",
+    "created_at": "2025-12-12T14:10:12Z",
+    "user": "Zuozhuo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3723566142,
+    "number": 48473,
+    "title": "[Python] Require numpy 2.x and pandas 2.x",
+    "url": "https://github.com/apache/arrow/issues/48473",
+    "created_at": "2025-12-12T14:11:31Z",
+    "user": "alippai",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python",
+      "Component: Documentation",
+      "Component: Integration",
+      "Component: Packaging",
+      "Component: Release"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3723588945,
+    "number": 33910,
+    "title": "JAXRuntimeError: INTERNAL: No reference output found! when running DeepX on NVIDIA RTX 5090 (Blackwell) with CUDA 13",
+    "url": "https://github.com/jax-ml/jax/issues/33910",
+    "created_at": "2025-12-12T14:18:34Z",
+    "user": "KiRa-L-Good",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3723590297,
+    "number": 3722,
+    "title": "[Bug] DDP Fine-Tuning Fails: Failed to import trl openenv: No module named 'trl.experimental.openenv'",
+    "url": "https://github.com/unslothai/unsloth/issues/3722",
+    "created_at": "2025-12-12T14:18:54Z",
+    "user": "ep5000",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3723619652,
+    "number": 24148,
+    "title": "ENH: linalg: consistent support for zero-size batch",
+    "url": "https://github.com/scipy/scipy/issues/24148",
+    "created_at": "2025-12-12T14:27:33Z",
+    "user": "jakevdp",
+    "labels": [
+      "defect",
+      "enhancement",
+      "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3723753666,
+    "number": 25759,
+    "title": "Error prone behavior of the new categories",
+    "url": "https://github.com/pola-rs/polars/issues/25759",
+    "created_at": "2025-12-12T15:05:53Z",
+    "user": "gab23r",
+    "labels": [
+      "python",
+      "A-dtype-categorical",
+      "closing-candidate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3723804882,
+    "number": 5272,
+    "title": "Add Kedro-Viz Demo to website",
+    "url": "https://github.com/kedro-org/kedro/issues/5272",
+    "created_at": "2025-12-12T15:20:57Z",
+    "user": "AliceCima10",
+    "labels": [
+      "Issue: Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3723874234,
+    "number": 13337,
+    "title": "Access Session State in `st.download_button` callable",
+    "url": "https://github.com/streamlit/streamlit/issues/13337",
+    "created_at": "2025-12-12T15:40:47Z",
+    "user": "nblackrjc",
+    "labels": [
+      "type:enhancement",
+      "feature:st.download_button"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3723990715,
+    "number": 3619,
+    "title": "get_safetensors_metadata for models in local folder",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3619",
+    "created_at": "2025-12-12T16:11:39Z",
+    "user": "vrdn-23",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3724019551,
+    "number": 16225,
+    "title": "ARM: Major Object Lifetime Error in ExecuTorch ARM Runner Hidden by ARM FVP",
+    "url": "https://github.com/pytorch/executorch/issues/16225",
+    "created_at": "2025-12-12T16:19:02Z",
+    "user": "west9906",
+    "labels": [
+      "partner: arm",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "id": 3724027206,
+    "number": 10240,
+    "title": "Do a release with the new process",
+    "url": "https://github.com/deepset-ai/haystack/issues/10240",
+    "created_at": "2025-12-12T16:20:59Z",
+    "user": "anakin87",
+    "labels": [
+      "P3"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3724043937,
+    "number": 9315,
+    "title": "Resizing bounding boxes after inference does not work with transforms.v2.Resize",
+    "url": "https://github.com/pytorch/vision/issues/9315",
+    "created_at": "2025-12-12T16:25:19Z",
+    "user": "Rayndell",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3724231629,
+    "number": 21953,
+    "title": "RUF012 warns for pydantic.v1.main.BaseModel",
+    "url": "https://github.com/astral-sh/ruff/issues/21953",
+    "created_at": "2025-12-12T17:22:36Z",
+    "user": "justin-snyder-slgg",
+    "labels": [
+      "rule"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3724270518,
+    "number": 170311,
+    "title": "[RFC] DebugMode for tracking dispatched calls and debugging numerical divergence",
+    "url": "https://github.com/pytorch/pytorch/issues/170311",
+    "created_at": "2025-12-12T17:36:33Z",
+    "user": "yushangdi",
+    "labels": [
+      "release-feature-request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3724308180,
+    "number": 6031,
+    "title": "[Bug]: ERROR collecting chromadb/test/property/test_schema.py",
+    "url": "https://github.com/chroma-core/chroma/issues/6031",
+    "created_at": "2025-12-12T17:51:20Z",
+    "user": "sarahec",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3724342987,
+    "number": 33921,
+    "title": "Top level import failed: DLL load failed while importing utils: A dynamic link library (DLL) initialization routine failed.",
+    "url": "https://github.com/jax-ml/jax/issues/33921",
+    "created_at": "2025-12-12T18:03:31Z",
+    "user": "wired87",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3724451777,
+    "number": 17886,
+    "title": "[Feature]: Support Stability AI Stable Image models (Bedrock) via OpenAI-compatible /v1/images endpoints",
+    "url": "https://github.com/BerriAI/litellm/issues/17886",
+    "created_at": "2025-12-12T18:43:11Z",
+    "user": "jpdevvv",
+    "labels": [
+      "enhancement",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3724477590,
+    "number": 13339,
+    "title": "Tooltip shows text outside of the box when there are new lines in the help text",
+    "url": "https://github.com/streamlit/streamlit/issues/13339",
+    "created_at": "2025-12-12T18:52:12Z",
+    "user": "mzientek",
+    "labels": [
+      "type:bug",
+      "type:regression",
+      "feature:markdown",
+      "status:confirmed",
+      "priority:P1",
+      "feature:st.caption",
+      "feature:tooltip"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3724545431,
+    "number": 34323,
+    "title": "Improve `pretty_print`",
+    "url": "https://github.com/langchain-ai/langchain/issues/34323",
+    "created_at": "2025-12-12T19:15:09Z",
+    "user": "mdrxy",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3724546005,
+    "number": 170319,
+    "title": "torch.profiler shows GPU ops (Triton / FlashAttention) to have `cpu_op` category for some reason",
+    "url": "https://github.com/pytorch/pytorch/issues/170319",
+    "created_at": "2025-12-12T19:15:16Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3724549166,
+    "number": 59411,
+    "title": "[data][llm] Downstream stages should ignore rows with errors when should_continue_on_error is set",
+    "url": "https://github.com/ray-project/ray/issues/59411",
+    "created_at": "2025-12-12T19:16:10Z",
+    "user": "jeffreywang-anyscale",
+    "labels": [
+      "bug",
+      "triage",
+      "data",
+      "llm",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3724569107,
+    "number": 11867,
+    "title": "Flaky tests.",
+    "url": "https://github.com/dmlc/xgboost/issues/11867",
+    "created_at": "2025-12-12T19:21:44Z",
+    "user": "trivialfis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3724580970,
+    "number": 19762,
+    "title": "Prefect test harness has improper cleanup when run in an async context",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19762",
+    "created_at": "2025-12-12T19:25:58Z",
+    "user": "alexbuzali1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3724623368,
+    "number": 30569,
+    "title": "[Feature]: Add --ssl-ciphers to CLI arguments",
+    "url": "https://github.com/vllm-project/vllm/issues/30569",
+    "created_at": "2025-12-12T19:41:30Z",
+    "user": "GraceMoreau",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3724675943,
+    "number": 30570,
+    "title": "[Usage]: Why is VLLM still using SSE at all for mcp?",
+    "url": "https://github.com/vllm-project/vllm/issues/30570",
+    "created_at": "2025-12-12T20:02:08Z",
+    "user": "bags307",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3724676974,
+    "number": 21956,
+    "title": "Unexpected behavior when using extend and target-version",
+    "url": "https://github.com/astral-sh/ruff/issues/21956",
+    "created_at": "2025-12-12T20:02:35Z",
+    "user": "jbarnoud",
+    "labels": [
+      "bug",
+      "configuration"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3724679600,
+    "number": 17893,
+    "title": "[Feature]: Allow configure health check model in wildcards (UI)",
+    "url": "https://github.com/BerriAI/litellm/issues/17893",
+    "created_at": "2025-12-12T20:03:45Z",
+    "user": "valenvivaldi",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/distributed",
+    "id": 3724698682,
+    "number": 9164,
+    "title": "rootish tasks with resources restrictions are not queued",
+    "url": "https://github.com/dask/distributed/issues/9164",
+    "created_at": "2025-12-12T20:10:35Z",
+    "user": "vianneylanguille",
+    "labels": [
+      "needs attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3724710700,
+    "number": 30571,
+    "title": "[Bug]: DeepGEMM MoE generating tons of warnings",
+    "url": "https://github.com/vllm-project/vllm/issues/30571",
+    "created_at": "2025-12-12T20:14:51Z",
+    "user": "MatthewBonanni",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3724719154,
+    "number": 17895,
+    "title": "[Bug]: In \"Add Fallbacks\" Pop-up, the model dropdown are rendered behind the pop-up",
+    "url": "https://github.com/BerriAI/litellm/issues/17895",
+    "created_at": "2025-12-12T20:17:55Z",
+    "user": "valenvivaldi",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3724813629,
+    "number": 34328,
+    "title": "OpenRouter",
+    "url": "https://github.com/langchain-ai/langchain/issues/34328",
+    "created_at": "2025-12-12T20:57:20Z",
+    "user": "mdrxy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3724815096,
+    "number": 11870,
+    "title": "[CI] Simplify CI scripts",
+    "url": "https://github.com/dmlc/xgboost/issues/11870",
+    "created_at": "2025-12-12T20:58:05Z",
+    "user": "hcho3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3724837988,
+    "number": 42851,
+    "title": "Threaded loading puts tensors on wrong device when device=\"cuda\"",
+    "url": "https://github.com/huggingface/transformers/issues/42851",
+    "created_at": "2025-12-12T21:08:44Z",
+    "user": "kmod",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3724866171,
+    "number": 170334,
+    "title": "torch._inductor.exc.InductorError: TypeError: cannot pickle '_thread.RLock' object",
+    "url": "https://github.com/pytorch/pytorch/issues/170334",
+    "created_at": "2025-12-12T21:21:19Z",
+    "user": "iNeil77",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3724955516,
+    "number": 17904,
+    "title": "[Bug]: Cannot use claude-code + LiteLLM with openai models",
+    "url": "https://github.com/BerriAI/litellm/issues/17904",
+    "created_at": "2025-12-12T22:02:29Z",
+    "user": "talalryz",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3724965114,
+    "number": 17905,
+    "title": "[Feature]: Allow dynamic prompts for Arize Phoenix through the the gateway/proxy",
+    "url": "https://github.com/BerriAI/litellm/issues/17905",
+    "created_at": "2025-12-12T22:05:42Z",
+    "user": "metalshanked",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725006657,
+    "number": 30579,
+    "title": "[Bug]: CUDA Illegal Memory Access when running Qwen3-Next-80B-A3B-Instruct on 4xB200 GPUs",
+    "url": "https://github.com/vllm-project/vllm/issues/30579",
+    "created_at": "2025-12-12T22:24:56Z",
+    "user": "BolinSNLHM",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3725036482,
+    "number": 11872,
+    "title": "Behaviour of `base_margin` during prediction",
+    "url": "https://github.com/dmlc/xgboost/issues/11872",
+    "created_at": "2025-12-12T22:38:06Z",
+    "user": "bblodfon",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725054021,
+    "number": 170345,
+    "title": "[vllm] Pytorch failure lazy_imports.py is failing on torch._inductor.async_compile for release 2.9.0 and 2.10.0 rc1",
+    "url": "https://github.com/pytorch/pytorch/issues/170345",
+    "created_at": "2025-12-12T22:45:12Z",
+    "user": "atalman",
+    "labels": [
+      "oncall: pt2",
+      "vllm-compile",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "psf/black",
+    "id": 3725161091,
+    "number": 4912,
+    "title": "string_processing: error with unassigned long string literal with trailing comma",
+    "url": "https://github.com/psf/black/issues/4912",
+    "created_at": "2025-12-12T23:50:19Z",
+    "user": "pmolodo",
+    "labels": [
+      "T: bug",
+      "C: crash",
+      "F: strings",
+      "C: preview style"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3725161766,
+    "number": 2861,
+    "title": "Feature: Split large materialized or scannable inputs into multiple HTTP calls",
+    "url": "https://github.com/lancedb/lancedb/issues/2861",
+    "created_at": "2025-12-12T23:50:41Z",
+    "user": "wjones127",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3725165770,
+    "number": 2862,
+    "title": "Split large remote merge_insert calls into partitioned parallel calls",
+    "url": "https://github.com/lancedb/lancedb/issues/2862",
+    "created_at": "2025-12-12T23:53:06Z",
+    "user": "wjones127",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725180520,
+    "number": 170350,
+    "title": "[feature request] Checked version of indexing/embedding ops",
+    "url": "https://github.com/pytorch/pytorch/issues/170350",
+    "created_at": "2025-12-13T00:05:58Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725200982,
+    "number": 17910,
+    "title": "[Bug]: Bedrock Nova 2 Lite fails with \"extraneous key [textGenerationConfig]\" error",
+    "url": "https://github.com/BerriAI/litellm/issues/17910",
+    "created_at": "2025-12-13T00:22:41Z",
+    "user": "sjmatta",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725222257,
+    "number": 170353,
+    "title": "[RFC][Inducor] torch.compile now respects use_deterministic_mode",
+    "url": "https://github.com/pytorch/pytorch/issues/170353",
+    "created_at": "2025-12-13T00:39:08Z",
+    "user": "v0i0",
+    "labels": [
+      "release-feature-request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3725227438,
+    "number": 3885,
+    "title": "CpuOffload pre_forward and post_forward should have @torch.compiler.disable(), otherwise torch.compile fails in many situations it ought to succeed",
+    "url": "https://github.com/huggingface/accelerate/issues/3885",
+    "created_at": "2025-12-13T00:43:42Z",
+    "user": "doctorpangloss",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3725264899,
+    "number": 16237,
+    "title": "Need a tool to analyze a pte file and list all required backends and ops",
+    "url": "https://github.com/pytorch/executorch/issues/16237",
+    "created_at": "2025-12-13T01:08:59Z",
+    "user": "kirklandsign",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725292777,
+    "number": 170360,
+    "title": "MPS compile off by 2x with broadcast and sum",
+    "url": "https://github.com/pytorch/pytorch/issues/170360",
+    "created_at": "2025-12-13T01:24:29Z",
+    "user": "JackLangerman",
+    "labels": [
+      "module: correctness (silent)",
+      "module: mps",
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725294485,
+    "number": 170361,
+    "title": "[Dynamo] Use VariableBuilder/SourcelessBuilder consistently",
+    "url": "https://github.com/pytorch/pytorch/issues/170361",
+    "created_at": "2025-12-13T01:26:10Z",
+    "user": "williamwen42",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-variable-tracker"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725300388,
+    "number": 17911,
+    "title": "[Bedrock] service_tier rejected for openai.gpt-oss-120b-1:0 unless allowed_openai_params is manually set",
+    "url": "https://github.com/BerriAI/litellm/issues/17911",
+    "created_at": "2025-12-13T01:32:44Z",
+    "user": "kuldeepjain",
+    "labels": [
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3725328523,
+    "number": 12559,
+    "title": "document outdated for 6.0+",
+    "url": "https://github.com/gradio-app/gradio/issues/12559",
+    "created_at": "2025-12-13T02:05:14Z",
+    "user": "amyburden",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3725339980,
+    "number": 3723,
+    "title": "[Bug] RuntimeError: expected mat1 and mat2 to have the same dtype, but got: float != c10::BFloat16",
+    "url": "https://github.com/unslothai/unsloth/issues/3723",
+    "created_at": "2025-12-13T02:14:44Z",
+    "user": "LzyFischer",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3725340648,
+    "number": 25762,
+    "title": "Rare S3 `scan_parquet` deadlock",
+    "url": "https://github.com/pola-rs/polars/issues/25762",
+    "created_at": "2025-12-13T02:15:34Z",
+    "user": "gusostow",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-io-cloud",
+      "A-io-parquet"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3725347408,
+    "number": 3761,
+    "title": "Bug: session_to_python_script output is not reusable: script hangs without browser state summary, but click indices become invalid when it is enabled",
+    "url": "https://github.com/browser-use/browser-use/issues/3761",
+    "created_at": "2025-12-13T02:22:05Z",
+    "user": "zisequkuai",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725373111,
+    "number": 30589,
+    "title": "[Bug]: A particular request will be aborted after long time(5 minutes+)",
+    "url": "https://github.com/vllm-project/vllm/issues/30589",
+    "created_at": "2025-12-13T02:48:28Z",
+    "user": "fancyerii",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3725376139,
+    "number": 3724,
+    "title": "[Bug] Tiled MLP only seems to be working for GPT-OSS 20B",
+    "url": "https://github.com/unslothai/unsloth/issues/3724",
+    "created_at": "2025-12-13T02:50:53Z",
+    "user": "mlasicbot",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3725410280,
+    "number": 30848,
+    "title": "[MNT]: Should we request contributors to declare usage of AI?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30848",
+    "created_at": "2025-12-13T03:17:18Z",
+    "user": "timhoffm",
+    "labels": [
+      "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725412663,
+    "number": 170365,
+    "title": "[CI][CUDA][GH100] LinAlg Unit Test Failures",
+    "url": "https://github.com/pytorch/pytorch/issues/170365",
+    "created_at": "2025-12-13T03:19:45Z",
+    "user": "nWEIdia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725415150,
+    "number": 17914,
+    "title": "[Bug]: Admin UI Login Returns \"Unexpected token 'I', \"Internal S\"... is not valid JSON\" Error",
+    "url": "https://github.com/BerriAI/litellm/issues/17914",
+    "created_at": "2025-12-13T03:21:35Z",
+    "user": "abeltre1",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3725419581,
+    "number": 59418,
+    "title": "[Data] Move type extensions from ray.air to ray.data",
+    "url": "https://github.com/ray-project/ray/issues/59418",
+    "created_at": "2025-12-13T03:25:22Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725432775,
+    "number": 17916,
+    "title": "[Feature]: Auto-create Organizations from Microsoft Entra Groups during SSO",
+    "url": "https://github.com/BerriAI/litellm/issues/17916",
+    "created_at": "2025-12-13T03:38:20Z",
+    "user": "rioiart",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3725440270,
+    "number": 13344,
+    "title": "Support rendering list of Pydantic models in st.dataframe",
+    "url": "https://github.com/streamlit/streamlit/issues/13344",
+    "created_at": "2025-12-13T03:47:07Z",
+    "user": "krupal-p",
+    "labels": [
+      "type:enhancement",
+      "feature:st.dataframe"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725447482,
+    "number": 17917,
+    "title": "LiteLLM setup fails with Presidio guardrail despite Analyzer/Anonymizer services working",
+    "url": "https://github.com/BerriAI/litellm/issues/17917",
+    "created_at": "2025-12-13T03:55:20Z",
+    "user": "aksh-at-aeris",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725447988,
+    "number": 170367,
+    "title": "DTensor redistributes on foreach_X operators are inefficient",
+    "url": "https://github.com/pytorch/pytorch/issues/170367",
+    "created_at": "2025-12-13T03:56:05Z",
+    "user": "ezyang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725472318,
+    "number": 170369,
+    "title": "HigherOrderOperator: Mutating a variable not in the current scope (SideEffects) - should explain which HOP it is",
+    "url": "https://github.com/pytorch/pytorch/issues/170369",
+    "created_at": "2025-12-13T04:25:04Z",
+    "user": "ezyang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725477938,
+    "number": 170370,
+    "title": "[MPS][CUDA] EmbeddingBag on CUDA/MPS does not check offsets[0] like CPU",
+    "url": "https://github.com/pytorch/pytorch/issues/170370",
+    "created_at": "2025-12-13T04:32:52Z",
+    "user": "lingebeng",
+    "labels": [
+      "triage review",
+      "module: cuda",
+      "module: error checking",
+      "module: embedding",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3725501438,
+    "number": 22938,
+    "title": "Docker docs should clarify output directory",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22938",
+    "created_at": "2025-12-13T05:03:01Z",
+    "user": "rgov",
+    "labels": [
+      "documentation",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725537817,
+    "number": 30595,
+    "title": "[Bug]: Unsatisfiable testing dependencies",
+    "url": "https://github.com/vllm-project/vllm/issues/30595",
+    "created_at": "2025-12-13T05:42:25Z",
+    "user": "BlankRH",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3725567918,
+    "number": 30850,
+    "title": "[TST] Upcoming dependency test failures",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30850",
+    "created_at": "2025-12-13T06:07:16Z",
+    "user": "github-actions[bot]",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3725597162,
+    "number": 19365,
+    "title": "[BUG] Security Vulnerability",
+    "url": "https://github.com/mlflow/mlflow/issues/19365",
+    "created_at": "2025-12-13T06:39:46Z",
+    "user": "ColeMurray",
+    "labels": [
+      "has-closing-pr"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3725608215,
+    "number": 17918,
+    "title": "[Bug]: NO MCP Server list",
+    "url": "https://github.com/BerriAI/litellm/issues/17918",
+    "created_at": "2025-12-13T06:55:05Z",
+    "user": "superpoussin22",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725645992,
+    "number": 30599,
+    "title": "[Bug]: Qwen3-30B-A3B on vLLM-OpenAI v0.12.0 “hangs” in thinking mode: keeps reasoning until token cap",
+    "url": "https://github.com/vllm-project/vllm/issues/30599",
+    "created_at": "2025-12-13T07:41:43Z",
+    "user": "golyshevskii",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725657413,
+    "number": 170373,
+    "title": "DISABLED test_nested_wrapped_model_offload_true_no_shard_cuda (__main__.TestParityWithDDPCUDA)",
+    "url": "https://github.com/pytorch/pytorch/issues/170373",
+    "created_at": "2025-12-13T07:57:26Z",
+    "user": "kwen2501",
+    "labels": [
+      "skipped"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3725658046,
+    "number": 34338,
+    "title": "[Experimental] FACETOutputParser: Deterministic Structured Output for LLMs via Contract-First Semantics",
+    "url": "https://github.com/langchain-ai/langchain/issues/34338",
+    "created_at": "2025-12-13T07:58:14Z",
+    "user": "rokoss21",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725667545,
+    "number": 170374,
+    "title": "Broken Documentation Links Using `/docs/main/` URLs",
+    "url": "https://github.com/pytorch/pytorch/issues/170374",
+    "created_at": "2025-12-13T08:09:31Z",
+    "user": "alpha0422",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3725670137,
+    "number": 21959,
+    "title": "Slow startup",
+    "url": "https://github.com/astral-sh/ruff/issues/21959",
+    "created_at": "2025-12-13T08:12:27Z",
+    "user": "lkpzxc",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725704501,
+    "number": 30604,
+    "title": "[Installation]: [ARM_CPU_backend]  Engine core proc EngineCore_DP0 died unexpectedly, shutting down client.",
+    "url": "https://github.com/vllm-project/vllm/issues/30604",
+    "created_at": "2025-12-13T08:51:48Z",
+    "user": "Mengjintao",
+    "labels": [
+      "installation",
+      "aarch64-cpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3725741643,
+    "number": 30851,
+    "title": "[Bug]: Random timeout failures in CI",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30851",
+    "created_at": "2025-12-13T09:31:53Z",
+    "user": "timhoffm",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "id": 3725776786,
+    "number": 9707,
+    "title": "Support free-threaded CPython",
+    "url": "https://github.com/statsmodels/statsmodels/issues/9707",
+    "created_at": "2025-12-13T10:14:46Z",
+    "user": "kumaraditya303",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3725796274,
+    "number": 30606,
+    "title": "[Bug]: Installation fail on Macbook Pro M1 ARM64 with 64Go RAM: TypeError: unsupported operand type(s) for |: 'type' and 'NoneType'",
+    "url": "https://github.com/vllm-project/vllm/issues/30606",
+    "created_at": "2025-12-13T10:38:45Z",
+    "user": "pilere",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3725807842,
+    "number": 24152,
+    "title": "DOC: 1.17 API changes not mentioned in the 1.17.0rc1 release notes",
+    "url": "https://github.com/scipy/scipy/issues/24152",
+    "created_at": "2025-12-13T10:50:45Z",
+    "user": "jorenham",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3725861253,
+    "number": 34341,
+    "title": "Fireworks: bind_tools(strict: bool) not working",
+    "url": "https://github.com/langchain-ai/langchain/issues/34341",
+    "created_at": "2025-12-13T11:49:52Z",
+    "user": "DragosBobolea",
+    "labels": [
+      "bug",
+      "langchain",
+      "fireworks"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3725862418,
+    "number": 34342,
+    "title": "Fireworks: reasoning_content is missing",
+    "url": "https://github.com/langchain-ai/langchain/issues/34342",
+    "created_at": "2025-12-13T11:51:12Z",
+    "user": "DragosBobolea",
+    "labels": [
+      "bug",
+      "langchain",
+      "fireworks"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3725932767,
+    "number": 170382,
+    "title": "Feedback about torch.nn.functional.interpolate",
+    "url": "https://github.com/pytorch/pytorch/issues/170382",
+    "created_at": "2025-12-13T12:56:34Z",
+    "user": "mert-kurttutan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3725993904,
+    "number": 22939,
+    "title": "Can I use mask prompt as visual prompts for tracking feature in sam3?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22939",
+    "created_at": "2025-12-13T13:57:10Z",
+    "user": "westlinkin",
+    "labels": [
+      "question",
+      "segment"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Nixtla/neuralforecast",
+    "id": 3726072576,
+    "number": 1424,
+    "title": "[Question] Guidance on max_steps setting and retrieving validation loss history",
+    "url": "https://github.com/Nixtla/neuralforecast/issues/1424",
+    "created_at": "2025-12-13T15:14:27Z",
+    "user": "Charles-T",
+    "labels": [
+      "question",
+      "awaiting response"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726089654,
+    "number": 30617,
+    "title": "[Bug]: vllm 12.0 run 120b tp=8 in blackwell 5060ti*7+5090 with hit nccl error in cuda graph",
+    "url": "https://github.com/vllm-project/vllm/issues/30617",
+    "created_at": "2025-12-13T15:31:25Z",
+    "user": "gengchaogit",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3726137890,
+    "number": 42859,
+    "title": "Numeric values are not properly decoded in PaddleOCR-VL outputs",
+    "url": "https://github.com/huggingface/transformers/issues/42859",
+    "created_at": "2025-12-13T16:18:12Z",
+    "user": "passing2961",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "fastai/fastai",
+    "id": 3726147897,
+    "number": 4136,
+    "title": "ValueError: Expected input batch_size (8) to match target batch_size (1024). when trying to use transformers model with fastai",
+    "url": "https://github.com/fastai/fastai/issues/4136",
+    "created_at": "2025-12-13T16:29:25Z",
+    "user": "Daremitsu1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3726149899,
+    "number": 22940,
+    "title": "How can I get mAP75",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22940",
+    "created_at": "2025-12-13T16:31:03Z",
+    "user": "Seq2005",
+    "labels": [
+      "question",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3726164746,
+    "number": 22941,
+    "title": "Clarification on the Default Search Range for DFL in YOLO11 Hyperparameter",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22941",
+    "created_at": "2025-12-13T16:48:20Z",
+    "user": "bjh03205",
+    "labels": [
+      "documentation",
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3726194782,
+    "number": 12560,
+    "title": "demo for chatbot_core_components gr.Plot in gr.Chatbot not working",
+    "url": "https://github.com/gradio-app/gradio/issues/12560",
+    "created_at": "2025-12-13T17:24:03Z",
+    "user": "Paul-Yuchao-Dong",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3726212098,
+    "number": 17925,
+    "title": "[Bug]: ElevenLabs TTS via LiteLLM proxy not working",
+    "url": "https://github.com/BerriAI/litellm/issues/17925",
+    "created_at": "2025-12-13T17:40:26Z",
+    "user": "Dobiasd",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726247705,
+    "number": 30620,
+    "title": "[Feature]: Remove Chunking From FusedMoE",
+    "url": "https://github.com/vllm-project/vllm/issues/30620",
+    "created_at": "2025-12-13T18:22:30Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726253898,
+    "number": 30621,
+    "title": "[Feature]: Remove MXFP4 Logic From `fused_experts`",
+    "url": "https://github.com/vllm-project/vllm/issues/30621",
+    "created_at": "2025-12-13T18:30:30Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3726301795,
+    "number": 1910,
+    "title": "[Docs] `Visualizer` dead links",
+    "url": "https://github.com/huggingface/tokenizers/issues/1910",
+    "created_at": "2025-12-13T19:23:33Z",
+    "user": "dudeperf3ct",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3726303450,
+    "number": 33943,
+    "title": "Custom vmap type error",
+    "url": "https://github.com/jax-ml/jax/issues/33943",
+    "created_at": "2025-12-13T19:25:42Z",
+    "user": "lockwo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726314812,
+    "number": 30624,
+    "title": "[Bug]: `masked_scatter_size_check` failed when running Qwen3VLMoE",
+    "url": "https://github.com/vllm-project/vllm/issues/30624",
+    "created_at": "2025-12-13T19:39:38Z",
+    "user": "soodoshll",
+    "labels": [
+      "bug",
+      "qwen",
+      "nvidia"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3726334727,
+    "number": 12561,
+    "title": "Gradio 6 has an issue which slows down some apps",
+    "url": "https://github.com/gradio-app/gradio/issues/12561",
+    "created_at": "2025-12-13T20:03:13Z",
+    "user": "PierrunoYT",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "qdrant/qdrant-client",
+    "id": 3726414480,
+    "number": 1136,
+    "title": "[Local Mode] score_threshold not applied to FusionQuery results",
+    "url": "https://github.com/qdrant/qdrant-client/issues/1136",
+    "created_at": "2025-12-13T21:41:17Z",
+    "user": "cbcoutinho",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3726448285,
+    "number": 48477,
+    "title": "[C++][Compute] Accept `JoinOptions` in `binary_join` to handle nulls",
+    "url": "https://github.com/apache/arrow/issues/48477",
+    "created_at": "2025-12-13T22:22:35Z",
+    "user": "dangotbanned",
+    "labels": [
+      "Type: enhancement",
+      "Component: C++",
+      "Component: Python"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726472521,
+    "number": 30628,
+    "title": "[Bug]: For building a CUDA 13 vLLM docker image, when building LMCache, wrong version of NIXL (`nixl-cu12`) is downloaded",
+    "url": "https://github.com/vllm-project/vllm/issues/30628",
+    "created_at": "2025-12-13T22:50:37Z",
+    "user": "wangshangsam",
+    "labels": [
+      "bug",
+      "kv-connector",
+      "nvidia"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3726522210,
+    "number": 48478,
+    "title": "[Ruby] Arrow::Table.new infers nested integer arrays as utf8 when all values are non-negative",
+    "url": "https://github.com/apache/arrow/issues/48478",
+    "created_at": "2025-12-13T23:57:51Z",
+    "user": "hypsakata",
+    "labels": [
+      "Type: bug",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726576659,
+    "number": 30630,
+    "title": "[Usage]: SymmMemCommunicator: Device capability 10.3 not supported",
+    "url": "https://github.com/vllm-project/vllm/issues/30630",
+    "created_at": "2025-12-14T01:00:34Z",
+    "user": "navmarri14",
+    "labels": [
+      "usage",
+      "nvidia"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3726677284,
+    "number": 1896,
+    "title": "BUG: CodeAgent outputs empty steps that ChatCompletionMessage(content=None,...)",
+    "url": "https://github.com/huggingface/smolagents/issues/1896",
+    "created_at": "2025-12-14T03:18:16Z",
+    "user": "daviden1013",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3726726275,
+    "number": 25765,
+    "title": "Is it the expected behaviour for `pl.int_ranges(scalar1, scalar2).list.sample(n)` to generate a column with a same sample filled on a existing multi-row DataFrame?",
+    "url": "https://github.com/pola-rs/polars/issues/25765",
+    "created_at": "2025-12-14T04:15:30Z",
+    "user": "huangjj27",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3726740067,
+    "number": 30633,
+    "title": "[Installation]: How to install vLLM 0.11.0 with CUDA < 12.9 (Driver 535)? No matching wheels found",
+    "url": "https://github.com/vllm-project/vllm/issues/30633",
+    "created_at": "2025-12-14T04:29:41Z",
+    "user": "whu125",
+    "labels": [
+      "installation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3726744590,
+    "number": 17949,
+    "title": "[Bug]: Gemini 2.5 Flash multi-turn function calling fails with \"Please ensure that the number of function response parts is equal to the number of function call parts\"",
+    "url": "https://github.com/BerriAI/litellm/issues/17949",
+    "created_at": "2025-12-14T04:34:55Z",
+    "user": "c-igor-thunk-ai",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3726835698,
+    "number": 13347,
+    "title": "Keyboard navigation, option selection etc",
+    "url": "https://github.com/streamlit/streamlit/issues/13347",
+    "created_at": "2025-12-14T06:15:40Z",
+    "user": "madhukarjadhav736",
+    "labels": [
+      "type:enhancement",
+      "area:utilities"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3726842184,
+    "number": 9126,
+    "title": "[Feature] Add reference documentation",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9126",
+    "created_at": "2025-12-14T06:22:03Z",
+    "user": "juntaoyou",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3726916232,
+    "number": 42862,
+    "title": "RoPE removed in GraniteMoEHybrid models in v5",
+    "url": "https://github.com/huggingface/transformers/issues/42862",
+    "created_at": "2025-12-14T07:27:10Z",
+    "user": "avihu111",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3726932255,
+    "number": 170398,
+    "title": "torch.compile regression 2.9.1: Triton kernel name '_Runner__kernel_name_0' is not defined",
+    "url": "https://github.com/pytorch/pytorch/issues/170398",
+    "created_at": "2025-12-14T07:47:49Z",
+    "user": "dxqb",
+    "labels": [
+      "oncall: pt2",
+      "upstream triton"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "id": 3726968192,
+    "number": 4718,
+    "title": "faiss gpu search mem core",
+    "url": "https://github.com/facebookresearch/faiss/issues/4718",
+    "created_at": "2025-12-14T08:23:13Z",
+    "user": "neezeeyee",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3726980204,
+    "number": 22944,
+    "title": "Ultralytics YOLO DDP on GPU, causing SIGKILL (-9) OOM",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22944",
+    "created_at": "2025-12-14T08:37:28Z",
+    "user": "banu4prasad",
+    "labels": [
+      "dependencies",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "catboost/catboost",
+    "id": 3726987253,
+    "number": 2978,
+    "title": "Model automatic switch of grow_policy from Lossguide (Asymmetric) to Symmetric Tree. Error: Summation of symmetric and non-symmetric models is not supported [for now]",
+    "url": "https://github.com/catboost/catboost/issues/2978",
+    "created_at": "2025-12-14T08:44:33Z",
+    "user": "Menna-Ahmed7",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3726990123,
+    "number": 48481,
+    "title": "[Ruby] Type inference bug: list element type stays int8 for large integers in nested arrays",
+    "url": "https://github.com/apache/arrow/issues/48481",
+    "created_at": "2025-12-14T08:47:57Z",
+    "user": "hypsakata",
+    "labels": [
+      "Type: bug",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3727025236,
+    "number": 17951,
+    "title": "[Bug]: Got decrypting value error after called master key rotation api",
+    "url": "https://github.com/BerriAI/litellm/issues/17951",
+    "created_at": "2025-12-14T09:13:56Z",
+    "user": "Eric84626",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727042415,
+    "number": 30637,
+    "title": "[Bug]: CUDA OOM during sampler warmup with DeepSeek-V3.2 (DeepGEMM) on vLLM Nightly (V1 Engine)",
+    "url": "https://github.com/vllm-project/vllm/issues/30637",
+    "created_at": "2025-12-14T09:28:45Z",
+    "user": "zkf331",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3727048559,
+    "number": 21976,
+    "title": "Is rule categorization a real blocker?",
+    "url": "https://github.com/astral-sh/ruff/issues/21976",
+    "created_at": "2025-12-14T09:34:17Z",
+    "user": "worldmind",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727060971,
+    "number": 30638,
+    "title": "[Bug]: GLM-4.1V dummy video input generation fails with ValueError (num_frames=1 < temporal_factor=2)",
+    "url": "https://github.com/vllm-project/vllm/issues/30638",
+    "created_at": "2025-12-14T09:45:03Z",
+    "user": "Silas-11",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727109329,
+    "number": 30641,
+    "title": "[Bug]: unsloth DeepSeek-V3.1-Terminus-UD-Q3_K_XL gguf run error",
+    "url": "https://github.com/vllm-project/vllm/issues/30641",
+    "created_at": "2025-12-14T10:32:37Z",
+    "user": "shanying2017",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727170968,
+    "number": 30644,
+    "title": "[Feature]: FLASHMLA_SPARSE (SM90/SM100 only) fallback to TILELANG reference kernel (supports ALL)",
+    "url": "https://github.com/vllm-project/vllm/issues/30644",
+    "created_at": "2025-12-14T11:30:19Z",
+    "user": "fernandaspets",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3727181035,
+    "number": 3621,
+    "title": "huggingFaceEndpoint invoke error",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3621",
+    "created_at": "2025-12-14T11:41:30Z",
+    "user": "xiaxiazhu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3727254653,
+    "number": 17953,
+    "title": "[Bug]: Spamming of the log by ENTERING 'IS_PREMIUM' - LiteLLM License=None",
+    "url": "https://github.com/BerriAI/litellm/issues/17953",
+    "created_at": "2025-12-14T12:29:56Z",
+    "user": "sapirm-eleos",
+    "labels": [
+      "bug",
+      "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3727269564,
+    "number": 17954,
+    "title": "[Bug] High latency (~20s) after 5-second idle period with Ollama provider",
+    "url": "https://github.com/BerriAI/litellm/issues/17954",
+    "created_at": "2025-12-14T12:38:46Z",
+    "user": "nicett",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3727270927,
+    "number": 12838,
+    "title": "Merge Loras for FLUX",
+    "url": "https://github.com/huggingface/diffusers/issues/12838",
+    "created_at": "2025-12-14T12:39:41Z",
+    "user": "shrikrishnalolla",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3727284236,
+    "number": 9127,
+    "title": "[Bug] teleprompt/gepa/gepa_utils.py: field name discrepancy for ReflectiveExample",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9127",
+    "created_at": "2025-12-14T12:47:44Z",
+    "user": "seehuhn",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3727315259,
+    "number": 170400,
+    "title": "Clarify inverted boolean mask logic between nn.MultiHeadAttention and F.scaled_dot_product_attention",
+    "url": "https://github.com/pytorch/pytorch/issues/170400",
+    "created_at": "2025-12-14T13:07:19Z",
+    "user": "konodiodaaaaa1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3727386016,
+    "number": 2470,
+    "title": "Implement Llama 3.2 Vision (Multimodal) Architecture",
+    "url": "https://github.com/keras-team/keras-hub/issues/2470",
+    "created_at": "2025-12-14T13:43:12Z",
+    "user": "Vivek1106-04",
+    "labels": [
+      "type:feature",
+      "keras-team-review-pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3727388928,
+    "number": 170402,
+    "title": "Write more test cases for Conv2d to check for 0 steps",
+    "url": "https://github.com/pytorch/pytorch/issues/170402",
+    "created_at": "2025-12-14T13:44:34Z",
+    "user": "wenlinchong17-web",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3727396071,
+    "number": 30857,
+    "title": "[Bug]: ValueError: The 'color' keyword argument must have one color per dataset",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30857",
+    "created_at": "2025-12-14T13:47:52Z",
+    "user": "gapplef",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727398996,
+    "number": 48484,
+    "title": "[GLib][Ruby] Missing JoinOptions",
+    "url": "https://github.com/apache/arrow/issues/48484",
+    "created_at": "2025-12-14T13:49:28Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3727399309,
+    "number": 2064,
+    "title": "pip install flash-atten --no-build-isolation failed on cuda 13.0",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2064",
+    "created_at": "2025-12-14T13:49:37Z",
+    "user": "GaoXiangYa",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3727417050,
+    "number": 12562,
+    "title": "`gr.BrowserState` as an input for an event handler is always of type `str`",
+    "url": "https://github.com/gradio-app/gradio/issues/12562",
+    "created_at": "2025-12-14T14:00:30Z",
+    "user": "ExcellentAmericanEagle",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727447383,
+    "number": 48486,
+    "title": "[GLib][Ruby] Missing ListFlattenOptions",
+    "url": "https://github.com/apache/arrow/issues/48486",
+    "created_at": "2025-12-14T14:14:29Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3727448230,
+    "number": 32898,
+    "title": "inconsistent warnings for ElasticNetCV and LassoCV",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32898",
+    "created_at": "2025-12-14T14:15:01Z",
+    "user": "sakaiando",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3727456983,
+    "number": 3726,
+    "title": "[Bug] Qwen3 Unable to merge to 16-bit and export as GGUF",
+    "url": "https://github.com/unslothai/unsloth/issues/3726",
+    "created_at": "2025-12-14T14:19:37Z",
+    "user": "CoderUni",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3727463707,
+    "number": 17958,
+    "title": "[Feature]: Add Masking Support and MCP Call Support to Pillar Security Guardrail",
+    "url": "https://github.com/BerriAI/litellm/issues/17958",
+    "created_at": "2025-12-14T14:23:26Z",
+    "user": "eagle-p",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727466526,
+    "number": 48488,
+    "title": "[GLib][Ruby] Missing ListSliceOptions",
+    "url": "https://github.com/apache/arrow/issues/48488",
+    "created_at": "2025-12-14T14:25:02Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727504344,
+    "number": 48490,
+    "title": "[GLib][Ruby] Missing MakeStructOptions",
+    "url": "https://github.com/apache/arrow/issues/48490",
+    "created_at": "2025-12-14T14:43:32Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727542781,
+    "number": 48492,
+    "title": "[GLib][Ruby] Missing MapLookupOptions",
+    "url": "https://github.com/apache/arrow/issues/48492",
+    "created_at": "2025-12-14T15:03:08Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727543454,
+    "number": 48493,
+    "title": "[GLib][Ruby] Missing ModeOptions",
+    "url": "https://github.com/apache/arrow/issues/48493",
+    "created_at": "2025-12-14T15:03:20Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727544212,
+    "number": 48494,
+    "title": "[GLib][Ruby] Missing NullOptions",
+    "url": "https://github.com/apache/arrow/issues/48494",
+    "created_at": "2025-12-14T15:03:46Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727544501,
+    "number": 48495,
+    "title": "[GLib][Ruby] Missing PadOptions",
+    "url": "https://github.com/apache/arrow/issues/48495",
+    "created_at": "2025-12-14T15:03:59Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727545150,
+    "number": 48496,
+    "title": "[GLib][Ruby] Missing PairwiseOptions",
+    "url": "https://github.com/apache/arrow/issues/48496",
+    "created_at": "2025-12-14T15:04:11Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727546202,
+    "number": 48497,
+    "title": "[GLib][Ruby] Missing PartitionNthOptions",
+    "url": "https://github.com/apache/arrow/issues/48497",
+    "created_at": "2025-12-14T15:04:51Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727546450,
+    "number": 48498,
+    "title": "[GLib][Ruby] Missing PivotWiderOptions",
+    "url": "https://github.com/apache/arrow/issues/48498",
+    "created_at": "2025-12-14T15:05:03Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727548072,
+    "number": 48499,
+    "title": "[GLib][Ruby] Missing RankQuantileOptions",
+    "url": "https://github.com/apache/arrow/issues/48499",
+    "created_at": "2025-12-14T15:06:17Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727548414,
+    "number": 48500,
+    "title": "[GLib][Ruby] Missing ReplaceSliceOptions",
+    "url": "https://github.com/apache/arrow/issues/48500",
+    "created_at": "2025-12-14T15:06:34Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727548783,
+    "number": 48501,
+    "title": "[GLib][Ruby] Missing ReplaceSubstringOptions",
+    "url": "https://github.com/apache/arrow/issues/48501",
+    "created_at": "2025-12-14T15:06:53Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727549247,
+    "number": 48502,
+    "title": "[GLib][Ruby] Missing RoundBinaryOptions",
+    "url": "https://github.com/apache/arrow/issues/48502",
+    "created_at": "2025-12-14T15:07:18Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727549526,
+    "number": 48503,
+    "title": "[GLib][Ruby] Missing RoundTemporalOptions",
+    "url": "https://github.com/apache/arrow/issues/48503",
+    "created_at": "2025-12-14T15:07:31Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727549814,
+    "number": 48504,
+    "title": "[GLib][Ruby] Missing SelectKOptions",
+    "url": "https://github.com/apache/arrow/issues/48504",
+    "created_at": "2025-12-14T15:07:46Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727550067,
+    "number": 48505,
+    "title": "[GLib][Ruby] Missing SkewOptions",
+    "url": "https://github.com/apache/arrow/issues/48505",
+    "created_at": "2025-12-14T15:07:58Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727550767,
+    "number": 48506,
+    "title": "[GLib][Ruby] Missing SliceOptions",
+    "url": "https://github.com/apache/arrow/issues/48506",
+    "created_at": "2025-12-14T15:08:32Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727551036,
+    "number": 48507,
+    "title": "[GLib][Ruby] Missing SplitOptions",
+    "url": "https://github.com/apache/arrow/issues/48507",
+    "created_at": "2025-12-14T15:08:46Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727551296,
+    "number": 48508,
+    "title": "[GLib][Ruby] Missing TDigestOptions",
+    "url": "https://github.com/apache/arrow/issues/48508",
+    "created_at": "2025-12-14T15:09:00Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727553055,
+    "number": 48509,
+    "title": "[GLib][Ruby] Missing TrimOptions",
+    "url": "https://github.com/apache/arrow/issues/48509",
+    "created_at": "2025-12-14T15:10:32Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727553394,
+    "number": 48510,
+    "title": "[GLib][Ruby] Missing WeekOptions",
+    "url": "https://github.com/apache/arrow/issues/48510",
+    "created_at": "2025-12-14T15:10:51Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727553707,
+    "number": 48511,
+    "title": "[GLib][Ruby] Missing WinsorizeOptions",
+    "url": "https://github.com/apache/arrow/issues/48511",
+    "created_at": "2025-12-14T15:11:08Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3727553954,
+    "number": 48512,
+    "title": "[GLib][Ruby] Missing ZeroFillOptions",
+    "url": "https://github.com/apache/arrow/issues/48512",
+    "created_at": "2025-12-14T15:11:22Z",
+    "user": "stenlarsson",
+    "labels": [
+      "Type: enhancement",
+      "Component: GLib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3727652116,
+    "number": 19379,
+    "title": "[BUG] mlflow recreates SQLAlchemy engine multiple times",
+    "url": "https://github.com/mlflow/mlflow/issues/19379",
+    "created_at": "2025-12-14T16:13:11Z",
+    "user": "rasmushaa",
+    "labels": [
+      "bug",
+      "has-closing-pr"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras",
+    "id": 3727711558,
+    "number": 21926,
+    "title": "Upgrade JAX dependency",
+    "url": "https://github.com/keras-team/keras/issues/21926",
+    "created_at": "2025-12-14T17:00:15Z",
+    "user": "adamjstewart",
+    "labels": [
+      "dependencies"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727795690,
+    "number": 30654,
+    "title": "[Feature][Attention][UX]: Incorporate Features into Attention Selection",
+    "url": "https://github.com/vllm-project/vllm/issues/30654",
+    "created_at": "2025-12-14T18:04:14Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3727803868,
+    "number": 5138,
+    "title": "[docs] Guides page is blank",
+    "url": "https://github.com/google/flax/issues/5138",
+    "created_at": "2025-12-14T18:11:05Z",
+    "user": "ivrolan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "opencv/opencv-python",
+    "id": 3727812356,
+    "number": 1165,
+    "title": "Dependency specification missing for python3.14",
+    "url": "https://github.com/opencv/opencv-python/issues/1165",
+    "created_at": "2025-12-14T18:19:16Z",
+    "user": "giochanturia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3727839379,
+    "number": 11874,
+    "title": "CUDA OOM when training XGBoost with DaskQuantileDMatrix on high-dimensional dataset",
+    "url": "https://github.com/dmlc/xgboost/issues/11874",
+    "created_at": "2025-12-14T18:49:07Z",
+    "user": "SkqLiao",
+    "labels": [
+      "feature-request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3727901268,
+    "number": 30655,
+    "title": "[Performance]: VLLM with DP performing worst",
+    "url": "https://github.com/vllm-project/vllm/issues/30655",
+    "created_at": "2025-12-14T19:41:44Z",
+    "user": "akasshdeep",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3727978498,
+    "number": 7904,
+    "title": "Request: Review pending neuroimaging PRs (#7886 BIDS loader, #7887 lazy loading)",
+    "url": "https://github.com/huggingface/datasets/issues/7904",
+    "created_at": "2025-12-14T20:34:31Z",
+    "user": "The-Obstacle-Is-The-Way",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3728022607,
+    "number": 30656,
+    "title": "[Bug]: EngineCore crashes testing v1/embeddings",
+    "url": "https://github.com/vllm-project/vllm/issues/30656",
+    "created_at": "2025-12-14T20:57:54Z",
+    "user": "hungrymonkey",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3728025068,
+    "number": 34356,
+    "title": "API keys exposed in object representation (__repr__) of ChatOpenAI and other clients",
+    "url": "https://github.com/langchain-ai/langchain/issues/34356",
+    "created_at": "2025-12-14T20:59:53Z",
+    "user": "MrEchoFi",
+    "labels": [
+      "bug",
+      "core",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3728035171,
+    "number": 25768,
+    "title": "Polars Join Operation Memory Leak - Accumulates ~5-6 MB per join",
+    "url": "https://github.com/pola-rs/polars/issues/25768",
+    "created_at": "2025-12-14T21:08:04Z",
+    "user": "semnooij",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "py-why/econml",
+    "id": 3728046425,
+    "number": 1016,
+    "title": "MetaLearners and Classification",
+    "url": "https://github.com/py-why/EconML/issues/1016",
+    "created_at": "2025-12-14T21:18:08Z",
+    "user": "MattDBailey",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3728084068,
+    "number": 7414,
+    "title": "Please stick to a single version scheme",
+    "url": "https://github.com/cython/cython/issues/7414",
+    "created_at": "2025-12-14T21:50:19Z",
+    "user": "h-vetinari",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3728152515,
+    "number": 4692,
+    "title": "LLVM error during GRPO training with Apple M4 Max",
+    "url": "https://github.com/huggingface/trl/issues/4692",
+    "created_at": "2025-12-14T23:01:49Z",
+    "user": "neslihaneti",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3728199200,
+    "number": 16241,
+    "title": "crash while using the android xnn runner",
+    "url": "https://github.com/pytorch/executorch/issues/16241",
+    "created_at": "2025-12-14T23:51:00Z",
+    "user": "abdelaziz-mahdy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3728308949,
+    "number": 22950,
+    "title": "显存泄露",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22950",
+    "created_at": "2025-12-15T01:06:28Z",
+    "user": "ZLT-a-LL",
+    "labels": [
+      "bug",
+      "segment"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3728400462,
+    "number": 30659,
+    "title": "[Bug]: scheduler issue with PD disaggregation",
+    "url": "https://github.com/vllm-project/vllm/issues/30659",
+    "created_at": "2025-12-15T02:00:58Z",
+    "user": "David9857",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3728417304,
+    "number": 30660,
+    "title": "[Bug]: [Elastic EP]: AssertionError in replicate_experts during DP4 → DP2 scale-down",
+    "url": "https://github.com/vllm-project/vllm/issues/30660",
+    "created_at": "2025-12-15T02:10:36Z",
+    "user": "1542305589",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "opencv/opencv-python",
+    "id": 3728451818,
+    "number": 1166,
+    "title": "`corrupted double-linked list",
+    "url": "https://github.com/opencv/opencv-python/issues/1166",
+    "created_at": "2025-12-15T02:30:35Z",
+    "user": "YeziLover",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3728490342,
+    "number": 30663,
+    "title": "[RFC]: Consolidate Intel Quantization Toolkit Integration in vLLM",
+    "url": "https://github.com/vllm-project/vllm/issues/30663",
+    "created_at": "2025-12-15T02:58:01Z",
+    "user": "yiliu30",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3728541531,
+    "number": 2066,
+    "title": "sparse mode of FA4 have some loss in the acceleration effect",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2066",
+    "created_at": "2025-12-15T03:25:19Z",
+    "user": "zzyplaybasketball",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3728559433,
+    "number": 25770,
+    "title": "Native consistent hashing in Polars",
+    "url": "https://github.com/pola-rs/polars/issues/25770",
+    "created_at": "2025-12-15T03:37:08Z",
+    "user": "charles-owo",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3728580824,
+    "number": 170412,
+    "title": "DISABLED test_nonzero_static_stride_xpu (__main__.GPUTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/170412",
+    "created_at": "2025-12-15T03:52:40Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3728676008,
+    "number": 48535,
+    "title": "[Ruby] Add support for reading time64 array",
+    "url": "https://github.com/apache/arrow/issues/48535",
+    "created_at": "2025-12-15T04:47:53Z",
+    "user": "kou",
+    "labels": [
+      "Type: enhancement",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3728698749,
+    "number": 17969,
+    "title": "[Bug]: internal users can delete other team members keys.",
+    "url": "https://github.com/BerriAI/litellm/issues/17969",
+    "created_at": "2025-12-15T04:57:52Z",
+    "user": "mubashir1osmani",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3728718597,
+    "number": 48537,
+    "title": "[Ruby] Add support for reading fixed size binary array",
+    "url": "https://github.com/apache/arrow/issues/48537",
+    "created_at": "2025-12-15T05:04:57Z",
+    "user": "kou",
+    "labels": [
+      "Type: enhancement",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3728772012,
+    "number": 2412,
+    "title": "bug of manim color",
+    "url": "https://github.com/3b1b/manim/issues/2412",
+    "created_at": "2025-12-15T05:24:57Z",
+    "user": "nicholas348",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3728809572,
+    "number": 30859,
+    "title": "[Bug]: ax.relim() ignores scatter artist",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30859",
+    "created_at": "2025-12-15T05:40:16Z",
+    "user": "CyfralCoot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3728853033,
+    "number": 34358,
+    "title": "🐛 KeyError: 'tools' in LLMToolSelectorMiddleware when model response misses expected key",
+    "url": "https://github.com/langchain-ai/langchain/issues/34358",
+    "created_at": "2025-12-15T05:58:49Z",
+    "user": "zhuweid",
+    "labels": [
+      "bug",
+      "core",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3728971179,
+    "number": 3487,
+    "title": "Cannot set version_counter for inference tensor",
+    "url": "https://github.com/pytorch/ao/issues/3487",
+    "created_at": "2025-12-15T06:36:44Z",
+    "user": "Stonepia",
+    "labels": [
+      "bug",
+      "float8",
+      "quantize_"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn-contrib/imbalanced-learn",
+    "id": 3728996131,
+    "number": 1154,
+    "title": "[BUG] imblearn 0.14.0 incompatible with sklearn 1.8.0; ImportError: from imblearn.pipeline import pipeline",
+    "url": "https://github.com/scikit-learn-contrib/imbalanced-learn/issues/1154",
+    "created_at": "2025-12-15T06:45:13Z",
+    "user": "albert-ml-ai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3728996840,
+    "number": 16244,
+    "title": "How to let executorch export intput output int8",
+    "url": "https://github.com/pytorch/executorch/issues/16244",
+    "created_at": "2025-12-15T06:45:32Z",
+    "user": "kris-himax",
+    "labels": [
+      "partner: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3729031076,
+    "number": 12840,
+    "title": "Fix the warning `torch_dtype` is deprecated",
+    "url": "https://github.com/huggingface/diffusers/issues/12840",
+    "created_at": "2025-12-15T06:57:09Z",
+    "user": "msdsm",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3729054967,
+    "number": 12843,
+    "title": "[Z-Image] ONNX export fails due to pad_sequence / unbind / dynamic-shape ops in ZImageTransformer2DModel (request for export-friendly path)",
+    "url": "https://github.com/huggingface/diffusers/issues/12843",
+    "created_at": "2025-12-15T07:04:58Z",
+    "user": "er6y",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3729106468,
+    "number": 170419,
+    "title": "Cannot set version_counter for inference tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/170419",
+    "created_at": "2025-12-15T07:19:52Z",
+    "user": "Stonepia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3729122101,
+    "number": 170420,
+    "title": "DISABLED test_nonzero_static_stride_dynamic_shapes_xpu (__main__.DynamicShapesGPUTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/170420",
+    "created_at": "2025-12-15T07:24:27Z",
+    "user": "daisyden",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3729198058,
+    "number": 25771,
+    "title": "`schema` parameter for `scan_ipc()`",
+    "url": "https://github.com/pola-rs/polars/issues/25771",
+    "created_at": "2025-12-15T07:47:13Z",
+    "user": "nameexhaustion",
+    "labels": [
+      "enhancement",
+      "A-io-ipc"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3729213329,
+    "number": 17975,
+    "title": "[Bug]: The table `public.LiteLLM_AgentsTable` does not exist in the current database.",
+    "url": "https://github.com/BerriAI/litellm/issues/17975",
+    "created_at": "2025-12-15T07:52:35Z",
+    "user": "deliciousbob",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "shap/shap",
+    "id": 3729293726,
+    "number": 4239,
+    "title": "Failed Additivity Check",
+    "url": "https://github.com/shap/shap/issues/4239",
+    "created_at": "2025-12-15T08:18:18Z",
+    "user": "oseanblue02",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3729310367,
+    "number": 30679,
+    "title": "[RFC]: Replace `torch.cuda` API with `torch.accelerator` for better hardware compatiblity.",
+    "url": "https://github.com/vllm-project/vllm/issues/30679",
+    "created_at": "2025-12-15T08:23:45Z",
+    "user": "jikunshang",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3729344115,
+    "number": 30682,
+    "title": "[Bug]: No available shared memory broadcast block found in 60 seconds. This typically happens when some processes are hanging or doing some time-consuming work (e.g. compilation, weight/kv cache quantization).",
+    "url": "https://github.com/vllm-project/vllm/issues/30682",
+    "created_at": "2025-12-15T08:33:39Z",
+    "user": "shahizat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3729362517,
+    "number": 42868,
+    "title": "sdpa_paged: How does it handle paged cache without padding?",
+    "url": "https://github.com/huggingface/transformers/issues/42868",
+    "created_at": "2025-12-15T08:39:00Z",
+    "user": "jiqing-feng",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3729385984,
+    "number": 4348,
+    "title": "RBAC bypass in `/api/v1/pipelines/{pipeline_id}/runs` (list_pipeline_runs)",
+    "url": "https://github.com/zenml-io/zenml/issues/4348",
+    "created_at": "2025-12-15T08:46:51Z",
+    "user": "detail-app[bot]",
+    "labels": [
+      "bug",
+      "core-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3729389096,
+    "number": 4349,
+    "title": "ZIP entry overwritten when streaming artifact chunks in `download_artifact_files_from_response`",
+    "url": "https://github.com/zenml-io/zenml/issues/4349",
+    "created_at": "2025-12-15T08:47:50Z",
+    "user": "detail-app[bot]",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3729405035,
+    "number": 22955,
+    "title": "Implementing RMSE - or similar score - as an secundary metric in YOLO",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22955",
+    "created_at": "2025-12-15T08:52:36Z",
+    "user": "jmartinpizarro",
+    "labels": [
+      "enhancement",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3729434040,
+    "number": 3727,
+    "title": "[Bug] TypeError: patch_gpt_oss.<locals>.Mxfp4GptOssExperts.forward() got an unexpected keyword argument 'router_indices'",
+    "url": "https://github.com/unslothai/unsloth/issues/3727",
+    "created_at": "2025-12-15T09:02:07Z",
+    "user": "shelterwff-byte",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3729448301,
+    "number": 19777,
+    "title": "Deployment Parameters tab shows \"Unset\" for False deployment parameter values",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19777",
+    "created_at": "2025-12-15T09:06:02Z",
+    "user": "m-lal",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3729456517,
+    "number": 34363,
+    "title": "Runtime context is not supported now?",
+    "url": "https://github.com/langchain-ai/langchain/issues/34363",
+    "created_at": "2025-12-15T09:08:19Z",
+    "user": "MaoJianwei",
+    "labels": [
+      "bug",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3729501310,
+    "number": 34364,
+    "title": "Issues with Long Wait Times and Non-Streaming Output When Using write_todos Tool with Subagent",
+    "url": "https://github.com/langchain-ai/langchain/issues/34364",
+    "created_at": "2025-12-15T09:19:24Z",
+    "user": "cloud-java",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3729501405,
+    "number": 3728,
+    "title": "[Bug] AssertionError(\"Mismatched type for bias between then block (<['256'], bf16>) and else block (<['256'], fp32>)\")",
+    "url": "https://github.com/unslothai/unsloth/issues/3728",
+    "created_at": "2025-12-15T09:19:26Z",
+    "user": "shelterwff-byte",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3729512422,
+    "number": 19398,
+    "title": "[FR] Increase response format limit for Unity Catalog backend.",
+    "url": "https://github.com/mlflow/mlflow/issues/19398",
+    "created_at": "2025-12-15T09:22:09Z",
+    "user": "lennartvandeguchte",
+    "labels": [
+      "enhancement",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3729518342,
+    "number": 11875,
+    "title": "Feature Request: Multi-GPU Distributed Training with ExtMemQuantileDMatrix",
+    "url": "https://github.com/dmlc/xgboost/issues/11875",
+    "created_at": "2025-12-15T09:23:33Z",
+    "user": "SkqLiao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "open-mmlab/mmdetection",
+    "id": 3729554814,
+    "number": 12419,
+    "title": "use get_flops.py to calculate the FLOPs and parameter count of the Grounding DINO model",
+    "url": "https://github.com/open-mmlab/mmdetection/issues/12419",
+    "created_at": "2025-12-15T09:32:05Z",
+    "user": "wzqisverystrong",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3729557881,
+    "number": 30685,
+    "title": "[Feature]: fp8 kv cache for finer-grained scaling factors (e.g., per channel).",
+    "url": "https://github.com/vllm-project/vllm/issues/30685",
+    "created_at": "2025-12-15T09:32:48Z",
+    "user": "zx-ai",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3729564565,
+    "number": 59433,
+    "title": "Ray worker node is repeatedly marked as dead by the GCS and forcefully exits due to missed health checks.",
+    "url": "https://github.com/ray-project/ray/issues/59433",
+    "created_at": "2025-12-15T09:34:11Z",
+    "user": "Malik2812",
+    "labels": [
+      "bug",
+      "triage",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3729692492,
+    "number": 48540,
+    "title": "[Python][C++][CI] test_s3_options crash on macOS",
+    "url": "https://github.com/apache/arrow/issues/48540",
+    "created_at": "2025-12-15T10:05:18Z",
+    "user": "pitrou",
+    "labels": [
+      "Type: bug",
+      "Component: C++",
+      "Component: Python",
+      "Component: Continuous Integration"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3729730961,
+    "number": 22957,
+    "title": "SAM3: RuntimeError: The expanded size of the tensor (2) must match the existing size (3) at non-singleton dimension 0",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22957",
+    "created_at": "2025-12-15T10:15:19Z",
+    "user": "sebos123",
+    "labels": [
+      "bug",
+      "segment"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3729812857,
+    "number": 33949,
+    "title": "Document disabled donation under `debug_nans`",
+    "url": "https://github.com/jax-ml/jax/issues/33949",
+    "created_at": "2025-12-15T10:35:43Z",
+    "user": "Gattocrucco",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3729839129,
+    "number": 2007,
+    "title": "[ENH] Add v2 interface support for DeepAR",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/2007",
+    "created_at": "2025-12-15T10:43:23Z",
+    "user": "Soham-47",
+    "labels": [
+      "enhancement",
+      "module:models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3729886894,
+    "number": 19778,
+    "title": "grace_period_seconds in concurrency_limit is not optional when omitted from YAML",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19778",
+    "created_at": "2025-12-15T10:57:50Z",
+    "user": "rjgildea",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3729906056,
+    "number": 170426,
+    "title": "argmax over multiple axis",
+    "url": "https://github.com/pytorch/pytorch/issues/170426",
+    "created_at": "2025-12-15T11:03:36Z",
+    "user": "AlbertoSinigaglia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3729924230,
+    "number": 30690,
+    "title": "[Bug]: alueError: Call to add_lora method failed: Loading lora [\"table_qc failed: No adapter found for /data/home/zhizhehui/dev/train/table_ocr/Reward_model_train/output/qwen_lora_output/checkpoint-57\"]",
+    "url": "https://github.com/vllm-project/vllm/issues/30690",
+    "created_at": "2025-12-15T11:08:43Z",
+    "user": "dgzxx-2000",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3729925642,
+    "number": 22959,
+    "title": "When yolo26 will release? approx date",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22959",
+    "created_at": "2025-12-15T11:09:08Z",
+    "user": "sanjayb157",
+    "labels": [
+      "question",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3729927004,
+    "number": 170427,
+    "title": "DTensor slicing triggers unregistered aten.alias.default when slice equals full size of sharded dimension",
+    "url": "https://github.com/pytorch/pytorch/issues/170427",
+    "created_at": "2025-12-15T11:09:33Z",
+    "user": "Frankstein73",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3730016922,
+    "number": 19779,
+    "title": "Support for nodeSelector, tolerations, and affinity in base Kubernetes job template and KubernetesWorkerVariables",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19779",
+    "created_at": "2025-12-15T11:34:38Z",
+    "user": "joshuagrisham",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3730017553,
+    "number": 170429,
+    "title": "torch.compile fails with AttributeError during guard generation when mixing forward_pre_hooks (Function + Method)",
+    "url": "https://github.com/pytorch/pytorch/issues/170429",
+    "created_at": "2025-12-15T11:34:50Z",
+    "user": "SongyuanZhao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3730070175,
+    "number": 22960,
+    "title": "Support export with grayscale input mode",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22960",
+    "created_at": "2025-12-15T11:52:36Z",
+    "user": "talcs",
+    "labels": [
+      "enhancement",
+      "embedded",
+      "exports"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3730077770,
+    "number": 2069,
+    "title": "flash attn version for cuda 13 torch 2.9.0 ???",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2069",
+    "created_at": "2025-12-15T11:55:13Z",
+    "user": "Arslan-Mehmood1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3730090953,
+    "number": 30691,
+    "title": "[Bug]: GGUF model with architecture olmo2 is not supported yet",
+    "url": "https://github.com/vllm-project/vllm/issues/30691",
+    "created_at": "2025-12-15T11:59:22Z",
+    "user": "lkhml",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3730139009,
+    "number": 16248,
+    "title": "call_module is not supported error with _guards_fn durinע quantization with Arm backend",
+    "url": "https://github.com/pytorch/executorch/issues/16248",
+    "created_at": "2025-12-15T12:11:02Z",
+    "user": "ofirgo",
+    "labels": [
+      "partner: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3730277026,
+    "number": 16250,
+    "title": "Device mismatch error when evaluating converted PT2E quantized ViT model on CUDA/MPS",
+    "url": "https://github.com/pytorch/executorch/issues/16250",
+    "created_at": "2025-12-15T12:44:07Z",
+    "user": "ofirgo",
+    "labels": [
+      "partner: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3730333497,
+    "number": 17981,
+    "title": "[Feature]: Enable v2 cooldown for single-deployment models too",
+    "url": "https://github.com/BerriAI/litellm/issues/17981",
+    "created_at": "2025-12-15T12:58:57Z",
+    "user": "choznerol",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3730350415,
+    "number": 12563,
+    "title": "Scoped/Nested CSS of gr.HTML component makes it inconvenient to do auto dark mode",
+    "url": "https://github.com/gradio-app/gradio/issues/12563",
+    "created_at": "2025-12-15T13:02:45Z",
+    "user": "XcantloadX",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3730463189,
+    "number": 30694,
+    "title": "[Feature]: CompressedTensors: NVFP4A16 not supported for MoE models",
+    "url": "https://github.com/vllm-project/vllm/issues/30694",
+    "created_at": "2025-12-15T13:29:09Z",
+    "user": "zhangyimi",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "id": 3730498328,
+    "number": 2008,
+    "title": "[ENH] Add encoding suppport for categorical variables in v2",
+    "url": "https://github.com/sktime/pytorch-forecasting/issues/2008",
+    "created_at": "2025-12-15T13:37:48Z",
+    "user": "PranavBhatP",
+    "labels": [
+      "enhancement",
+      "module:datasets&dataloaders"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3730504048,
+    "number": 8992,
+    "title": "AMD GFX906 Support (Vega VII, MI50)",
+    "url": "https://github.com/triton-lang/triton/issues/8992",
+    "created_at": "2025-12-15T13:39:14Z",
+    "user": "skyne98",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3730542668,
+    "number": 3767,
+    "title": "Bug: ... no 'next_goal' and 'evaluation_previous_goal' in history",
+    "url": "https://github.com/browser-use/browser-use/issues/3767",
+    "created_at": "2025-12-15T13:49:36Z",
+    "user": "akpost25-cyber",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3730559004,
+    "number": 2153,
+    "title": "[Question] composable activation checkpoint",
+    "url": "https://github.com/pytorch/torchtitan/issues/2153",
+    "created_at": "2025-12-15T13:54:08Z",
+    "user": "Irvingwangjr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 3730586417,
+    "number": 12628,
+    "title": "warning raised when calling `model_dump` on model with nested `MISSING` fields",
+    "url": "https://github.com/pydantic/pydantic/issues/12628",
+    "created_at": "2025-12-15T14:01:52Z",
+    "user": "d-v-b",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3730641554,
+    "number": 17982,
+    "title": "[Feature]: Add custom handler support for image edits endpoint",
+    "url": "https://github.com/BerriAI/litellm/issues/17982",
+    "created_at": "2025-12-15T14:15:06Z",
+    "user": "timlrx",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3730674112,
+    "number": 25773,
+    "title": "Automatic predicate trimming",
+    "url": "https://github.com/pola-rs/polars/issues/25773",
+    "created_at": "2025-12-15T14:22:54Z",
+    "user": "lmocsi",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3730679392,
+    "number": 34371,
+    "title": "Pydantic Invalid For Json Schema when using custom class in LangChain tool schema",
+    "url": "https://github.com/langchain-ai/langchain/issues/34371",
+    "created_at": "2025-12-15T14:23:55Z",
+    "user": "mohan696matlab",
+    "labels": [
+      "bug",
+      "core",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3730685009,
+    "number": 20367,
+    "title": "[Bug]: Confluence Reader integration does not support Python 3.14",
+    "url": "https://github.com/run-llama/llama_index/issues/20367",
+    "created_at": "2025-12-15T14:25:01Z",
+    "user": "Clodolt",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3730695911,
+    "number": 13361,
+    "title": "Snowflake documentation link is the .cn",
+    "url": "https://github.com/streamlit/streamlit/issues/13361",
+    "created_at": "2025-12-15T14:27:10Z",
+    "user": "arnaudmiribel",
+    "labels": [
+      "type:enhancement",
+      "change:docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3730696818,
+    "number": 30696,
+    "title": "[RFC]: Per-instance EPLB metrics",
+    "url": "https://github.com/vllm-project/vllm/issues/30696",
+    "created_at": "2025-12-15T14:27:21Z",
+    "user": "markmc",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3730698710,
+    "number": 5274,
+    "title": "Release kedro-datasets",
+    "url": "https://github.com/kedro-org/kedro/issues/5274",
+    "created_at": "2025-12-15T14:27:41Z",
+    "user": "rashidakanchwala",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3730701792,
+    "number": 5275,
+    "title": "Release kedro-telemetry",
+    "url": "https://github.com/kedro-org/kedro/issues/5275",
+    "created_at": "2025-12-15T14:28:18Z",
+    "user": "rashidakanchwala",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3730724816,
+    "number": 3768,
+    "title": "Bug: Token consumption is 2 times higher!",
+    "url": "https://github.com/browser-use/browser-use/issues/3768",
+    "created_at": "2025-12-15T14:32:53Z",
+    "user": "akpost25-cyber",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3730740375,
+    "number": 170433,
+    "title": "[Release 2.10] umbrella issue - vLLM CI failures",
+    "url": "https://github.com/pytorch/pytorch/issues/170433",
+    "created_at": "2025-12-15T14:35:52Z",
+    "user": "atalman",
+    "labels": [
+      "oncall: pt2",
+      "vllm-compile",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3730742173,
+    "number": 3729,
+    "title": "[Bug] AttributeError: 'GptOssTopKRouter' object has no attribute 'weight'",
+    "url": "https://github.com/unslothai/unsloth/issues/3729",
+    "created_at": "2025-12-15T14:36:19Z",
+    "user": "shelterwff-byte",
     "labels": [
       "bug"
     ],
