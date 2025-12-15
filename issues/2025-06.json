@@ -2152,6 +2152,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3172931235,
+    "number": 54044,
+    "title": "[Core] Ray postmortem debugging does not work with python 3.12",
+    "url": "https://github.com/ray-project/ray/issues/54044",
+    "created_at": "2025-06-24T18:34:38Z",
+    "user": "fzhujs",
+    "labels": [
+      "bug",
+      "P1",
+      "usability",
+      "core",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3174733684,
     "number": 21421,

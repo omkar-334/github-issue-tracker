@@ -2969,6 +2969,23 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3515613176,
+    "number": 57714,
+    "title": "[Serve] validate lookback period > metric interval",
+    "url": "https://github.com/ray-project/ray/issues/57714",
+    "created_at": "2025-10-14T21:46:26Z",
+    "user": "abrarsheikh",
+    "labels": [
+      "P1",
+      "serve",
+      "usability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3516176643,
     "number": 3453,

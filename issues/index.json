@@ -10256,6 +10256,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3172931235,
+      "number": 54044,
+      "title": "[Core] Ray postmortem debugging does not work with python 3.12",
+      "url": "https://github.com/ray-project/ray/issues/54044",
+      "created_at": "2025-06-24T18:34:38Z",
+      "user": "fzhujs",
+      "labels": [
+        "bug",
+        "P1",
+        "usability",
+        "core",
+        "stability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3174733684,
       "number": 21421,
@@ -15684,6 +15703,21 @@
       "user": "SebLz",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3316116488,
+      "number": 2752,
+      "title": "Migrating from AffineQuantizedTensor + Layouts to new structure of tensor subclasses",
+      "url": "https://github.com/pytorch/ao/issues/2752",
+      "created_at": "2025-08-12T22:19:14Z",
+      "user": "jerryzh168",
+      "labels": [
+        "tracker"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -27332,6 +27366,23 @@
       "user": "anabelle2001",
       "labels": [
         "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3515613176,
+      "number": 57714,
+      "title": "[Serve] validate lookback period > metric interval",
+      "url": "https://github.com/ray-project/ray/issues/57714",
+      "created_at": "2025-10-14T21:46:26Z",
+      "user": "abrarsheikh",
+      "labels": [
+        "P1",
+        "serve",
+        "usability"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -58303,6 +58354,22 @@
       "archived": false
     },
     {
+      "repo": "facebookresearch/faiss",
+      "id": 3701742618,
+      "number": 4711,
+      "title": "Add Pixi as an installation option?",
+      "url": "https://github.com/facebookresearch/faiss/issues/4711",
+      "created_at": "2025-12-06T13:52:28Z",
+      "user": "denkiwakame",
+      "labels": [
+        "install",
+        "backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3701783845,
       "number": 169757,
@@ -71414,8 +71481,167 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731813066,
+      "number": 16261,
+      "title": "Android CI : Nightly build for Demo Apks with E2E testing on Emulator",
+      "url": "https://github.com/pytorch/executorch/issues/16261",
+      "created_at": "2025-12-15T19:27:13Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3731823237,
+      "number": 17998,
+      "title": "The output_cost_per_token for fireworks_ai/accounts/fireworks/models/deepseek-v3p2 seems to be wrong",
+      "url": "https://github.com/BerriAI/litellm/issues/17998",
+      "created_at": "2025-12-15T19:29:59Z",
+      "user": "chc012",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731825553,
+      "number": 16262,
+      "title": "Android UX (Demo): Chat history not clearing / not resetting",
+      "url": "https://github.com/pytorch/executorch/issues/16262",
+      "created_at": "2025-12-15T19:30:40Z",
+      "user": "psiddh",
+      "labels": [
+        "android_ux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731833002,
+      "number": 16263,
+      "title": "Android Documentation - Improve Llama example",
+      "url": "https://github.com/pytorch/executorch/issues/16263",
+      "created_at": "2025-12-15T19:32:41Z",
+      "user": "psiddh",
+      "labels": [
+        "android_ux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3731871336,
+      "number": 63371,
+      "title": "BUG: (pandas 3.0rc0) `str.cat` is not retaining `index` dtype",
+      "url": "https://github.com/pandas-dev/pandas/issues/63371",
+      "created_at": "2025-12-15T19:45:25Z",
+      "user": "galipremsagar",
+      "labels": [
+        "Bug",
+        "Strings",
+        "Index"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3731885513,
+      "number": 21991,
+      "title": "\"ruff: noqa\" does not suppress invalid-syntax",
+      "url": "https://github.com/astral-sh/ruff/issues/21991",
+      "created_at": "2025-12-15T19:50:33Z",
+      "user": "brandonchinn178",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "NVIDIA/apex",
+      "id": 3731885701,
+      "number": 1970,
+      "title": "problem size question for multi-tensor-axpby",
+      "url": "https://github.com/NVIDIA/apex/issues/1970",
+      "created_at": "2025-12-15T19:50:38Z",
+      "user": "jinz2014",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3731890608,
+      "number": 18000,
+      "title": "[Bug]: GoogleBatchEmbeddings.batch_embeddings() doesn't include auth_header when using custom api_base for Gemini embeddings",
+      "url": "https://github.com/BerriAI/litellm/issues/18000",
+      "created_at": "2025-12-15T19:52:26Z",
+      "user": "qdrddr",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3731947438,
+      "number": 170458,
+      "title": "must_in_dispatch takes a long time in torch registered ops",
+      "url": "https://github.com/pytorch/pytorch/issues/170458",
+      "created_at": "2025-12-15T20:12:36Z",
+      "user": "cehongwang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3731950653,
+      "number": 59445,
+      "title": "[Data] Failure when converting to Arrow from `TensorArray`",
+      "url": "https://github.com/ray-project/ray/issues/59445",
+      "created_at": "2025-12-15T20:13:27Z",
+      "user": "alexeykudinkin",
+      "labels": [
+        "P0",
+        "triage",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3731982395,
+      "number": 30717,
+      "title": "[RFC]: Token Padding Strategy for FP8 GEMM Performance Optimization",
+      "url": "https://github.com/vllm-project/vllm/issues/30717",
+      "created_at": "2025-12-15T20:23:51Z",
+      "user": "0xjunhao",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-15T19:26:09Z",
-  "total_count": 4726
+  "last_updated": "2025-12-15T20:32:00Z",
+  "total_count": 4741
 }
