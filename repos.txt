@@ -9,7 +9,6 @@ Nixtla/statsforecast
 aesara-devs/aesara
 albumentations-team/albumentations
 allenai/allennlp
-altair-viz/altair
 apache/arrow
 arviz-devs/arviz
 astral-sh/ruff
@@ -27,7 +26,7 @@ deepset-ai/haystack
 dmlc/dgl
 dmlc/xgboost
 eli5-org/eli5
-encode/starlette
+Kludex/starlette
 evidentlyai/evidently
 explosion/spaCy
 explosion/thinc
@@ -40,7 +39,7 @@ fastapi/fastapi
 google-deepmind/chex
 google-deepmind/optax
 google/flax
-google/jax-md
+jax-md/jax-md
 google/sentencepiece
 gradio-app/gradio
 great-expectations/great_expectations
@@ -63,16 +62,13 @@ huggingface/trl
 igraph/python-igraph
 interpretml/interpret
 iterative/cml
-iterative/dvc
 jax-ml/jax
-jina-ai/docarray
-jina-ai/jina
+docarray/docarray
 kedro-org/kedro
 keras-team/autokeras
 keras-team/keras
 keras-team/keras-cv
 keras-team/keras-hub
-keras-team/keras-nlp
 keras-team/keras-preprocessing
 keras-team/keras-rs
 keras-team/keras-tuner
@@ -83,7 +79,7 @@ matplotlib/matplotlib
 meta-pytorch/tokenizers
 meta-pytorch/torchrec
 meta-pytorch/torchtune
-microsoft/DeepSpeed
+deepspeedai/DeepSpeed
 microsoft/LightGBM
 mlflow/mlflow
 modin-project/modin
@@ -139,7 +135,6 @@ stanfordnlp/dspy
 stanfordnlp/stanza
 statsmodels/statsmodels
 streamlit/streamlit
-tiangolo/sqlmodel
 triton-lang/triton
 ultralytics/ultralytics
 unit8co/darts
