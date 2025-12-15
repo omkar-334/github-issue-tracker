@@ -8129,6 +8129,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3574928430,
+    "number": 166723,
+    "title": "[XPU] Upgrade the XPU support packages version to 2025.3 in CI/CD",
+    "url": "https://github.com/pytorch/pytorch/issues/166723",
+    "created_at": "2025-10-31T13:18:33Z",
+    "user": "chuanqi129",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3574933702,
     "number": 30709,

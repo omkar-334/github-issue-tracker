@@ -3189,6 +3189,22 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 3263551670,
+    "number": 47195,
+    "title": "[Python] Support PyArrow on Windows ARM64",
+    "url": "https://github.com/apache/arrow/issues/47195",
+    "created_at": "2025-07-25T15:08:39Z",
+    "user": "amoeba",
+    "labels": [
+      "Type: enhancement",
+      "Component: Python"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3263641700,
     "number": 3303,

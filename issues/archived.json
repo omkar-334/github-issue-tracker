@@ -1,83 +1,14 @@
 [
   {
-    "repo": "huggingface/datasets",
-    "id": 1410828756,
-    "number": 5123,
-    "title": "datasets freezes with streaming mode in multiple-gpu",
-    "url": "https://github.com/huggingface/datasets/issues/5123",
-    "created_at": "2022-10-17T03:28:16Z",
-    "user": "jackfeinmann5",
-    "labels": [
-      "bug"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 1565235122,
-    "number": 93531,
-    "title": "TorchInductor CPU Performance Dashboard",
-    "url": "https://github.com/pytorch/pytorch/issues/93531",
-    "created_at": "2022-10-13T02:29:48Z",
-    "user": "blzheng",
-    "labels": [
-      "triaged",
-      "oncall: pt2",
-      "oncall: cpu inductor"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
-    "id": 2335836519,
-    "number": 11753,
-    "title": "Comprehension / generator, opt-in feature to preserve line breaks",
-    "url": "https://github.com/astral-sh/ruff/issues/11753",
-    "created_at": "2024-06-05T12:57:23Z",
-    "user": "Martin19037",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "formatter",
-      "style"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2547547055,
-    "number": 136623,
-    "title": "The MPS Backend sometimes samples outside of distribution domain with `multinomial`",
-    "url": "https://github.com/pytorch/pytorch/issues/136623",
-    "created_at": "2024-09-25T10:05:02Z",
-    "user": "HEmile",
-    "labels": [
-      "triaged",
-      "module: correctness (silent)",
-      "module: mps"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "id": 2559718508,
-    "number": 16602,
-    "title": "Ultralytics YOLO11 Launch 🚀",
-    "url": "https://github.com/ultralytics/ultralytics/issues/16602",
-    "created_at": "2024-10-01T16:32:40Z",
-    "user": "glenn-jocher",
-    "labels": [
-      "documentation",
-      "enhancement",
-      "segment",
-      "detect",
-      "pose"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

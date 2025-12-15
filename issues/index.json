@@ -2492,6 +2492,23 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2884909834,
+      "number": 10543,
+      "title": "Set `[auth]` secrets config from environment variables or through `st.login`",
+      "url": "https://github.com/streamlit/streamlit/issues/10543",
+      "created_at": "2025-02-27T15:47:19Z",
+      "user": "Riezebos",
+      "labels": [
+        "type:enhancement",
+        "feature:st.secrets",
+        "feature:authentication"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 2885652563,
       "number": 50961,
@@ -5050,6 +5067,21 @@
       "labels": [
         "feat / ux",
         "feat / training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dagster-io/dagster",
+      "id": 3009358872,
+      "number": 29467,
+      "title": "Backfills marked as failed that actually completed",
+      "url": "https://github.com/dagster-io/dagster/issues/29467",
+      "created_at": "2025-04-21T21:41:39Z",
+      "user": "adam-bloom",
+      "labels": [
+        "type: bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -13772,6 +13804,22 @@
       "created_at": "2025-07-25T14:55:44Z",
       "user": "filippopompili",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "apache/arrow",
+      "id": 3263551670,
+      "number": 47195,
+      "title": "[Python] Support PyArrow on Windows ARM64",
+      "url": "https://github.com/apache/arrow/issues/47195",
+      "created_at": "2025-07-25T15:08:39Z",
+      "user": "amoeba",
+      "labels": [
+        "Type: enhancement",
+        "Component: Python"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -32406,6 +32454,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3574928430,
+      "number": 166723,
+      "title": "[XPU] Upgrade the XPU support packages version to 2025.3 in CI/CD",
+      "url": "https://github.com/pytorch/pytorch/issues/166723",
+      "created_at": "2025-10-31T13:18:33Z",
+      "user": "chuanqi129",
+      "labels": [
+        "triaged",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3574933702,
       "number": 30709,
@@ -47045,6 +47109,21 @@
       "created_at": "2025-11-26T18:53:38Z",
       "user": "sadaisystems",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668874880,
+      "number": 29539,
+      "title": "[Bug]: FULL_AND_PIECEWISE cudagraph mode leading to !!! in generated text",
+      "url": "https://github.com/vllm-project/vllm/issues/29539",
+      "created_at": "2025-11-26T19:57:40Z",
+      "user": "xyang16",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -70869,8 +70948,96 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3731270959,
+      "number": 17991,
+      "title": "[Feature]: Time till first token timeout",
+      "url": "https://github.com/BerriAI/litellm/issues/17991",
+      "created_at": "2025-12-15T16:42:52Z",
+      "user": "dast-draftwise",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3731288039,
+      "number": 2957,
+      "title": "torch compiled model cannot have LoRA added without workaround",
+      "url": "https://github.com/huggingface/peft/issues/2957",
+      "created_at": "2025-12-15T16:47:59Z",
+      "user": "bghira",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "apache/arrow",
+      "id": 3731355657,
+      "number": 48545,
+      "title": "[C++][Parquet][CI] Add more encodings to fuzzing seed corpus",
+      "url": "https://github.com/apache/arrow/issues/48545",
+      "created_at": "2025-12-15T17:06:37Z",
+      "user": "pitrou",
+      "labels": [
+        "Type: enhancement",
+        "Component: Parquet",
+        "Component: C++",
+        "Component: Continuous Integration"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3731396256,
+      "number": 3490,
+      "title": "FqnToConfig doesn't handle module swaps",
+      "url": "https://github.com/pytorch/ao/issues/3490",
+      "created_at": "2025-12-15T17:17:41Z",
+      "user": "andrewor14",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3731424942,
+      "number": 59439,
+      "title": "[Data] Optimize `read_paraquet(...).schema` performance",
+      "url": "https://github.com/ray-project/ray/issues/59439",
+      "created_at": "2025-12-15T17:24:56Z",
+      "user": "bveeramani",
+      "labels": [
+        "enhancement",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3731432064,
+      "number": 2958,
+      "title": "peft assumes that torch has distributed support without checking",
+      "url": "https://github.com/huggingface/peft/issues/2958",
+      "created_at": "2025-12-15T17:26:47Z",
+      "user": "vladmandic",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-15T16:39:36Z",
-  "total_count": 4690
+  "last_updated": "2025-12-15T17:31:10Z",
+  "total_count": 4701
 }
