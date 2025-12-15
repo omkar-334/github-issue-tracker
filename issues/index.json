@@ -25744,6 +25744,19 @@
       "archived": false
     },
     {
+      "repo": "Dao-AILab/flash-attention",
+      "id": 3495305353,
+      "number": 1926,
+      "title": "pip install flash-attn hangs on Google Colab A100 with latest environment",
+      "url": "https://github.com/Dao-AILab/flash-attention/issues/1926",
+      "created_at": "2025-10-08T12:49:11Z",
+      "user": "vc77",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 3495369577,
       "number": 32434,
@@ -45908,6 +45921,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3665151331,
+      "number": 29468,
+      "title": "[CI Failure]: mi325_1: Basic Models Tests (Other)",
+      "url": "https://github.com/vllm-project/vllm/issues/29468",
+      "created_at": "2025-11-26T00:54:46Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3665220284,
       "number": 63205,
@@ -47238,6 +47266,21 @@
       "created_at": "2025-11-26T18:53:38Z",
       "user": "sadaisystems",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668726716,
+      "number": 29533,
+      "title": "[CI Failure]: mi325_1: Transformers Nightly Models Test",
+      "url": "https://github.com/vllm-project/vllm/issues/29533",
+      "created_at": "2025-11-26T19:05:54Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -71640,8 +71683,100 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3732022207,
+      "number": 18003,
+      "title": "[Bug]: nonsensical gemini rate limit issues 429 RESOURCE_EXHAUSTED",
+      "url": "https://github.com/BerriAI/litellm/issues/18003",
+      "created_at": "2025-12-15T20:34:05Z",
+      "user": "ZEN0X9999",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3732056098,
+      "number": 16265,
+      "title": "viable/strict is advancing even if docker build failed",
+      "url": "https://github.com/pytorch/executorch/issues/16265",
+      "created_at": "2025-12-15T20:42:25Z",
+      "user": "kirklandsign",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3732099653,
+      "number": 63372,
+      "title": "BUG: (pandas 3.0rc0) `.str.isdigit` regression for fractional powers",
+      "url": "https://github.com/pandas-dev/pandas/issues/63372",
+      "created_at": "2025-12-15T20:59:10Z",
+      "user": "galipremsagar",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "meta-pytorch/tokenizers",
+      "id": 3732121932,
+      "number": 160,
+      "title": "Publish Python 3.13 wheels",
+      "url": "https://github.com/meta-pytorch/tokenizers/issues/160",
+      "created_at": "2025-12-15T21:07:16Z",
+      "user": "GregoryComer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3732158241,
+      "number": 30721,
+      "title": "[Bug]: AttributeError: 'Qwen3VLConfig' object has no attribute 'intermediate_size'",
+      "url": "https://github.com/vllm-project/vllm/issues/30721",
+      "created_at": "2025-12-15T21:18:10Z",
+      "user": "mobicham",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3732173954,
+      "number": 25777,
+      "title": "Panic reading Parquet with filter due to failed assertion",
+      "url": "https://github.com/pola-rs/polars/issues/25777",
+      "created_at": "2025-12-15T21:22:51Z",
+      "user": "adamreeve",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-parquet",
+        "A-panic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-15T20:32:00Z",
-  "total_count": 4741
+  "last_updated": "2025-12-15T21:27:16Z",
+  "total_count": 4750
 }

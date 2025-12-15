@@ -1341,6 +1341,19 @@
     "archived": false
   },
   {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3495305353,
+    "number": 1926,
+    "title": "pip install flash-attn hangs on Google Colab A100 with latest environment",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/1926",
+    "created_at": "2025-10-08T12:49:11Z",
+    "user": "vc77",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 3495369577,
     "number": 32434,

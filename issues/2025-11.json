@@ -13118,6 +13118,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3665151331,
+    "number": 29468,
+    "title": "[CI Failure]: mi325_1: Basic Models Tests (Other)",
+    "url": "https://github.com/vllm-project/vllm/issues/29468",
+    "created_at": "2025-11-26T00:54:46Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3665220284,
     "number": 63205,
@@ -14448,6 +14463,21 @@
     "created_at": "2025-11-26T18:53:38Z",
     "user": "sadaisystems",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3668726716,
+    "number": 29533,
+    "title": "[CI Failure]: mi325_1: Transformers Nightly Models Test",
+    "url": "https://github.com/vllm-project/vllm/issues/29533",
+    "created_at": "2025-11-26T19:05:54Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
