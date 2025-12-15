@@ -20157,5 +20157,135 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3731457951,
+    "number": 11876,
+    "title": "Confusing error when multiple dataframe columns have the same name",
+    "url": "https://github.com/dmlc/xgboost/issues/11876",
+    "created_at": "2025-12-15T17:34:02Z",
+    "user": "Yura52",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3731468809,
+    "number": 24160,
+    "title": "BUG: Inconsistent rounding behavior in scipy.ndimage.map_coordinates",
+    "url": "https://github.com/scipy/scipy/issues/24160",
+    "created_at": "2025-12-15T17:37:06Z",
+    "user": "hexane360",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3731517149,
+    "number": 30707,
+    "title": "[Bug]: RTX 5080 (SM120) + NVFP4 model fails pre-flight memory check despite model fitting in VRAM",
+    "url": "https://github.com/vllm-project/vllm/issues/30707",
+    "created_at": "2025-12-15T17:52:28Z",
+    "user": "Platano78",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3731528833,
+    "number": 4697,
+    "title": "feat GRPOTrainer: Off-policy sequence masking from DeepSeek V3.2",
+    "url": "https://github.com/huggingface/trl/issues/4697",
+    "created_at": "2025-12-15T17:56:42Z",
+    "user": "casinca",
+    "labels": [
+      "✨ enhancement",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "id": 3731557308,
+    "number": 9708,
+    "title": "Prediction with the RecursiveLS method",
+    "url": "https://github.com/statsmodels/statsmodels/issues/9708",
+    "created_at": "2025-12-15T18:05:34Z",
+    "user": "danaii-project",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3731565622,
+    "number": 25776,
+    "title": "Avoid projecting `cs.all()`",
+    "url": "https://github.com/pola-rs/polars/issues/25776",
+    "created_at": "2025-12-15T18:07:44Z",
+    "user": "cBournhonesque",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3731597222,
+    "number": 19408,
+    "title": "Docs: Add IAM permissions and AWS region setup for Amazon Bedrock (Nova models)",
+    "url": "https://github.com/mlflow/mlflow/issues/19408",
+    "created_at": "2025-12-15T18:16:48Z",
+    "user": "HARSHP55555",
+    "labels": [
+      "area/docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3731620549,
+    "number": 12564,
+    "title": "AttributeError: XXX object has no attribute 'proxy_url'",
+    "url": "https://github.com/gradio-app/gradio/issues/12564",
+    "created_at": "2025-12-15T18:24:33Z",
+    "user": "toshas",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3731633845,
+    "number": 17993,
+    "title": "[Bug]: Large duration values in seconds/minutes/hours fail to calculate correct reset times due to day rollover bug",
+    "url": "https://github.com/BerriAI/litellm/issues/17993",
+    "created_at": "2025-12-15T18:28:28Z",
+    "user": "jasonpnnl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

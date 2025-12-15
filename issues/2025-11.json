@@ -1376,6 +1376,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3591613053,
+    "number": 167082,
+    "title": "float8_e4m3fn type conversion fails with torch.compile",
+    "url": "https://github.com/pytorch/pytorch/issues/167082",
+    "created_at": "2025-11-05T15:25:48Z",
+    "user": "dxqb",
+    "labels": [
+      "oncall: pt2",
+      "upstream triton",
+      "module: floatx (formerly float8)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3591796975,
     "number": 2899,
@@ -2798,6 +2815,23 @@
     "user": "Samoed",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3601460389,
+    "number": 167339,
+    "title": "[Inductor] test_comprehensive_nn_functional_max_pool2d_cuda failed with Triton 3.5",
+    "url": "https://github.com/pytorch/pytorch/issues/167339",
+    "created_at": "2025-11-07T18:14:42Z",
+    "user": "desertfire",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "upstream triton"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

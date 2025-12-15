@@ -1,14 +1,46 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "pytorch/tutorials",
+    "id": 1211227166,
+    "number": 1896,
+    "title": "Label tracking meta-issue (edit me to get automatically CC'ed on issues! )",
+    "url": "https://github.com/pytorch/tutorials/issues/1896",
+    "created_at": "2022-04-21T15:47:01Z",
+    "user": "malfet",
     "labels": [
-      "internal"
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2014715773,
+    "number": 18325,
+    "title": "Auto Materialization not getting triggered when source asset changes.",
+    "url": "https://github.com/dagster-io/dagster/issues/18325",
+    "created_at": "2023-11-28T15:31:54Z",
+    "user": "marcilj",
+    "labels": [
+      "type: bug",
+      "area: declarative-automation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 2061619266,
+    "number": 1232,
+    "title": "Only a single `filtered_resps` is logged for repeat > 1 for each sample",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/1232",
+    "created_at": "2024-01-01T15:21:55Z",
+    "user": "baberabb",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

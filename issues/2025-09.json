@@ -2100,6 +2100,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3395483186,
+    "number": 24461,
+    "title": "[BugFix]: Avoid unnecessary coordination for non-MoE data parallel",
+    "url": "https://github.com/vllm-project/vllm/issues/24461",
+    "created_at": "2025-09-08T19:50:25Z",
+    "user": "njhill",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3395590783,
     "number": 7758,
@@ -2395,6 +2411,21 @@
     "user": "swap357",
     "labels": [
       "Task"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3399290262,
+    "number": 3342,
+    "title": "Occasionally HTTP 429 Error When Downloading Many Smaller Files",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3342",
+    "created_at": "2025-09-09T17:17:07Z",
+    "user": "arth-shukla",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
