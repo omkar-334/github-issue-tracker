@@ -294,6 +294,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2978550962,
+    "number": 150823,
+    "title": "[export] Decomp failure when running `aten.item.default`",
+    "url": "https://github.com/pytorch/pytorch/issues/150823",
+    "created_at": "2025-04-08T04:21:10Z",
+    "user": "kisenaa",
+    "labels": [
+      "module: onnx",
+      "oncall: pt2",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2980606657,
     "number": 22816,

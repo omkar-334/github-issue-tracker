@@ -15219,6 +15219,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3721136761,
+    "number": 170241,
+    "title": "Allow for multiple stream captures to a cuda graph cudagraph at once.",
+    "url": "https://github.com/pytorch/pytorch/issues/170241",
+    "created_at": "2025-12-11T22:12:31Z",
+    "user": "galv",
+    "labels": [
+      "triaged",
+      "module: cuda graphs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3721228722,
     "number": 2146,
@@ -20720,6 +20736,53 @@
       "needs triage",
       "A-io-parquet",
       "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3732247999,
+    "number": 34378,
+    "title": "OpenAI token counter throws error if responses api content includes function_call",
+    "url": "https://github.com/langchain-ai/langchain/issues/34378",
+    "created_at": "2025-12-15T21:46:54Z",
+    "user": "sargismarkosyan",
+    "labels": [
+      "bug",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3732310445,
+    "number": 59453,
+    "title": "[Serve] Dashboard requiring authentication even with `RAY_AUTH_MODE=disabled`",
+    "url": "https://github.com/ray-project/ray/issues/59453",
+    "created_at": "2025-12-15T22:07:55Z",
+    "user": "varunsridhar1",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3732351380,
+    "number": 19798,
+    "title": "redis.exceptions.ResponseError: unknown command `evalsha`",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19798",
+    "created_at": "2025-12-15T22:22:23Z",
+    "user": "ghislainp",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

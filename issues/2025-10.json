@@ -6754,6 +6754,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3563095719,
+    "number": 19298,
+    "title": "Schedule slug name change causes multiple schedules to be created",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19298",
+    "created_at": "2025-10-28T19:35:29Z",
+    "user": "robfreedy",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/tokenizers",
     "id": 3563264623,
     "number": 153,
