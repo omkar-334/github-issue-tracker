@@ -13230,6 +13230,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3253266399,
+      "number": 12713,
+      "title": "Full ETDump support in Java",
+      "url": "https://github.com/pytorch/executorch/issues/12713",
+      "created_at": "2025-07-22T16:05:46Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3253427055,
       "number": 7029,
@@ -66016,6 +66029,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3720848034,
+      "number": 170224,
+      "title": "Way to ask Dynamo to hoist some warmup logic to the beginning of the compile region",
+      "url": "https://github.com/pytorch/pytorch/issues/170224",
+      "created_at": "2025-12-11T20:27:21Z",
+      "user": "ezyang",
+      "labels": [
+        "feature",
+        "triaged",
+        "needs design",
+        "oncall: pt2",
+        "module: dynamo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pola-rs/polars",
       "id": 3720925468,
       "number": 25742,
@@ -66265,6 +66297,24 @@
         "bug",
         "mlops user request",
         "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3721513822,
+      "number": 170268,
+      "title": "[RFC][Inductor] enablement of combo-kernels - experimental horizontal optimization in torchinductor",
+      "url": "https://github.com/pytorch/pytorch/issues/170268",
+      "created_at": "2025-12-12T01:10:17Z",
+      "user": "karthickai",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "release-feature-request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -71231,8 +71281,141 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3731681224,
+      "number": 21424,
+      "title": "Linux Py3.12 CPU CI fails to resolve `torch-tensorrt` when testing older pinned PyTorch (2.4.1 / 2.5.1)",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21424",
+      "created_at": "2025-12-15T18:44:28Z",
+      "user": "littlebullGit",
+      "labels": [
+        "bug",
+        "needs triage",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3731707088,
+      "number": 3730,
+      "title": "Remove new token support from the wiki",
+      "url": "https://github.com/unslothai/unsloth/issues/3730",
+      "created_at": "2025-12-15T18:54:33Z",
+      "user": "pbeart",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3731711365,
+      "number": 170449,
+      "title": "DISABLED test_opaque_obj_retraceability_nonstrict (__main__.RetraceExportNonStrictTestExport)",
+      "url": "https://github.com/pytorch/pytorch/issues/170449",
+      "created_at": "2025-12-15T18:56:13Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "skipped"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3731726421,
+      "number": 17996,
+      "title": "[Bug]: Files API does not work with vLLM provider",
+      "url": "https://github.com/BerriAI/litellm/issues/17996",
+      "created_at": "2025-12-15T19:01:16Z",
+      "user": "linkages",
+      "labels": [
+        "bug",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731750176,
+      "number": 16256,
+      "title": "Android UX Demo : Package qnn, vulkan and xnnpack into a single aar,",
+      "url": "https://github.com/pytorch/executorch/issues/16256",
+      "created_at": "2025-12-15T19:09:09Z",
+      "user": "psiddh",
+      "labels": [
+        "module: vulkan",
+        "android_ux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731761027,
+      "number": 16257,
+      "title": "Android Api: Whisper support",
+      "url": "https://github.com/pytorch/executorch/issues/16257",
+      "created_at": "2025-12-15T19:12:52Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731769176,
+      "number": 16258,
+      "title": "Android CI : Demo App, Incrementally test the app with CI",
+      "url": "https://github.com/pytorch/executorch/issues/16258",
+      "created_at": "2025-12-15T19:15:17Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731783221,
+      "number": 16259,
+      "title": "Android Demo:  Enable QWEN for QNN",
+      "url": "https://github.com/pytorch/executorch/issues/16259",
+      "created_at": "2025-12-15T19:19:09Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3731799229,
+      "number": 16260,
+      "title": "Android UX: Prebuilt APKs for Android apps",
+      "url": "https://github.com/pytorch/executorch/issues/16260",
+      "created_at": "2025-12-15T19:23:14Z",
+      "user": "psiddh",
+      "labels": [
+        "android_ux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-15T18:40:27Z",
-  "total_count": 4714
+  "last_updated": "2025-12-15T19:26:09Z",
+  "total_count": 4726
 }
