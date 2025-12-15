@@ -4991,6 +4991,22 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 3543820410,
+    "number": 47918,
+    "title": "[Format] Clarify that a compressed IPC buffer can be empty for empty data",
+    "url": "https://github.com/apache/arrow/issues/47918",
+    "created_at": "2025-10-23T09:11:33Z",
+    "user": "pitrou",
+    "labels": [
+      "Type: bug",
+      "Component: Format"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3544453298,
     "number": 12536,
