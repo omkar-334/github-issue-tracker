@@ -1,66 +1,15 @@
 [
   {
-    "repo": "numpy/numpy",
-    "id": 6308122,
-    "number": 389,
-    "title": "GenFromText should be able to read field names from first uncommented line",
-    "url": "https://github.com/numpy/numpy/issues/389",
-    "created_at": "2012-08-18T21:22:46Z",
-    "user": "RONNCC",
+    "repo": "pymc-devs/pymc",
+    "id": 1130954840,
+    "number": 5459,
+    "title": "Update docstrings for better rendering on website and numpydoc compliance",
+    "url": "https://github.com/pymc-devs/pymc/issues/5459",
+    "created_at": "2022-02-10T20:58:52Z",
+    "user": "OriolAbril",
     "labels": [
-      "00 - Bug",
-      "component: numpy.lib"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 813325225,
-    "number": 52596,
-    "title": "pickle is a security issue",
-    "url": "https://github.com/pytorch/pytorch/issues/52596",
-    "created_at": "2021-02-22T09:40:22Z",
-    "user": "KOLANICH",
-    "labels": [
-      "module: pickle",
-      "module: serialization",
-      "triaged",
-      "module: hub",
-      "topic: security"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "kedro-org/kedro",
-    "id": 1944444676,
-    "number": 3180,
-    "title": "[Spike] Explore integration with Dagster",
-    "url": "https://github.com/kedro-org/kedro/issues/3180",
-    "created_at": "2023-10-16T06:14:02Z",
-    "user": "astrojuanlu",
-    "labels": [
-      "Issue: Feature Request"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2173801005,
-    "number": 20325,
-    "title": "Dagster uses an implausible number of postgresql connections",
-    "url": "https://github.com/dagster-io/dagster/issues/20325",
-    "created_at": "2024-03-07T12:54:35Z",
-    "user": "chrishiste",
-    "labels": [
-      "type: bug",
-      "area: concurrency",
-      "area: storage"
+      "docs",
+      "beginner friendly"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -68,30 +17,31 @@
   },
   {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1638868796,
+    "number": 3711,
+    "title": "[feature request] Support ignore block of code with noqa",
+    "url": "https://github.com/astral-sh/ruff/issues/3711",
+    "created_at": "2023-03-24T07:25:40Z",
+    "user": "woile",
     "labels": [
-      "internal"
+      "suppression"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "scikit-image/scikit-image",
-    "id": 2405955815,
-    "number": 7464,
-    "title": "Tracker: free-threaded Python support",
-    "url": "https://github.com/scikit-image/scikit-image/issues/7464",
-    "created_at": "2024-07-12T16:28:36Z",
-    "user": "andfoy",
+    "repo": "scipy/scipy",
+    "id": 2461857692,
+    "number": 21370,
+    "title": "BUG: stats.tukeylambda: Bad behavior of the `cdf()` and `sf()` methods in the tails.",
+    "url": "https://github.com/scipy/scipy/issues/21370",
+    "created_at": "2024-08-12T20:41:58Z",
+    "user": "WarrenWeckesser",
     "labels": [
-      ":mag: Monitor",
-      ":robot: type: Infrastructure"
+      "defect",
+      "scipy.stats",
+      "scipy.special"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

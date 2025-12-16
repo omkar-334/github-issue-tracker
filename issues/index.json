@@ -11366,6 +11366,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3200311011,
+      "number": 54321,
+      "title": "[Core] Raylet heartbeat misses",
+      "url": "https://github.com/ray-project/ray/issues/54321",
+      "created_at": "2025-07-03T18:45:01Z",
+      "user": "testinfected",
+      "labels": [
+        "bug",
+        "P0",
+        "core",
+        "stability",
+        "kubernetes"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 3200737482,
       "number": 1817,
@@ -24816,6 +24835,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3458200286,
+      "number": 163964,
+      "title": "[BE] use cuda-toolkit metapackage to specify pypi dependencies",
+      "url": "https://github.com/pytorch/pytorch/issues/163964",
+      "created_at": "2025-09-26T15:58:01Z",
+      "user": "atalman",
+      "labels": [
+        "module: cuda",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3458633226,
       "number": 9233,
@@ -26175,6 +26210,21 @@
       "url": "https://github.com/openai/openai-python/issues/2677",
       "created_at": "2025-10-04T00:31:37Z",
       "user": "fsrocha-filipe",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3482987176,
+      "number": 26206,
+      "title": "[Bug]: Qwen3-Next-80B-A3B-Thinking fails to load with CPU offload",
+      "url": "https://github.com/vllm-project/vllm/issues/26206",
+      "created_at": "2025-10-04T00:45:39Z",
+      "user": "br00t4c",
       "labels": [
         "bug"
       ],
@@ -30548,6 +30598,22 @@
       "created_at": "2025-10-22T23:18:38Z",
       "user": "jcaip",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3542744677,
+      "number": 21037,
+      "title": "FAST002: catch Union with Annotated",
+      "url": "https://github.com/astral-sh/ruff/issues/21037",
+      "created_at": "2025-10-23T00:29:52Z",
+      "user": "wilt-vetrec",
+      "labels": [
+        "rule",
+        "needs-decision"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -35168,6 +35234,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3587376171,
+      "number": 58399,
+      "title": "[Serve, Critical]: When using runtime_env.image_uri GPU is not available in the started podman container",
+      "url": "https://github.com/ray-project/ray/issues/58399",
+      "created_at": "2025-11-04T16:41:08Z",
+      "user": "dule1322",
+      "labels": [
+        "bug",
+        "triage",
+        "serve",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 3587404370,
       "number": 23926,
@@ -37891,6 +37976,24 @@
       "user": "sayakpaul",
       "labels": [
         "diffusers-mvp"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3611639969,
+      "number": 28460,
+      "title": "[Bug]: rocm crash AMD Ryzen AI 9 HX PRO 370 w/ Radeon 890M - docker/podman",
+      "url": "https://github.com/vllm-project/vllm/issues/28460",
+      "created_at": "2025-11-11T10:16:32Z",
+      "user": "hargathor",
+      "labels": [
+        "bug",
+        "feature request",
+        "rocm",
+        "gpt-oss"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -75923,8 +76026,79 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3735723510,
+      "number": 16279,
+      "title": "custom op auto tuning on triton kernel",
+      "url": "https://github.com/pytorch/executorch/issues/16279",
+      "created_at": "2025-12-16T17:40:01Z",
+      "user": "Gasoonjia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3735732243,
+      "number": 16280,
+      "title": "use slimtensor in cuda backend as internal tensor representation",
+      "url": "https://github.com/pytorch/executorch/issues/16280",
+      "created_at": "2025-12-16T17:42:44Z",
+      "user": "Gasoonjia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3735787805,
+      "number": 30805,
+      "title": "[docker] kv_connectors (lmcache) not installed on arm64 release images",
+      "url": "https://github.com/vllm-project/vllm/issues/30805",
+      "created_at": "2025-12-16T17:59:04Z",
+      "user": "amrmahdi",
+      "labels": [
+        "installation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3735830966,
+      "number": 8388,
+      "title": "Consolidate reportviews documentation",
+      "url": "https://github.com/networkx/networkx/issues/8388",
+      "created_at": "2025-12-16T18:11:36Z",
+      "user": "rossbar",
+      "labels": [
+        "type: Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "bokeh/bokeh",
+      "id": 3735888740,
+      "number": 14756,
+      "title": "Build CI job failing",
+      "url": "https://github.com/bokeh/bokeh/issues/14756",
+      "created_at": "2025-12-16T18:28:40Z",
+      "user": "dalthviz",
+      "labels": [
+        "TRIAGE"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T17:29:46Z",
-  "total_count": 5017
+  "last_updated": "2025-12-16T18:40:47Z",
+  "total_count": 5028
 }

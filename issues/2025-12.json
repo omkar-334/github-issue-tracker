@@ -23235,5 +23235,76 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3735723510,
+    "number": 16279,
+    "title": "custom op auto tuning on triton kernel",
+    "url": "https://github.com/pytorch/executorch/issues/16279",
+    "created_at": "2025-12-16T17:40:01Z",
+    "user": "Gasoonjia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3735732243,
+    "number": 16280,
+    "title": "use slimtensor in cuda backend as internal tensor representation",
+    "url": "https://github.com/pytorch/executorch/issues/16280",
+    "created_at": "2025-12-16T17:42:44Z",
+    "user": "Gasoonjia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3735787805,
+    "number": 30805,
+    "title": "[docker] kv_connectors (lmcache) not installed on arm64 release images",
+    "url": "https://github.com/vllm-project/vllm/issues/30805",
+    "created_at": "2025-12-16T17:59:04Z",
+    "user": "amrmahdi",
+    "labels": [
+      "installation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "networkx/networkx",
+    "id": 3735830966,
+    "number": 8388,
+    "title": "Consolidate reportviews documentation",
+    "url": "https://github.com/networkx/networkx/issues/8388",
+    "created_at": "2025-12-16T18:11:36Z",
+    "user": "rossbar",
+    "labels": [
+      "type: Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "id": 3735888740,
+    "number": 14756,
+    "title": "Build CI job failing",
+    "url": "https://github.com/bokeh/bokeh/issues/14756",
+    "created_at": "2025-12-16T18:28:40Z",
+    "user": "dalthviz",
+    "labels": [
+      "TRIAGE"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

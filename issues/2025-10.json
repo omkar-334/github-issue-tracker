@@ -670,6 +670,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3482987176,
+    "number": 26206,
+    "title": "[Bug]: Qwen3-Next-80B-A3B-Thinking fails to load with CPU offload",
+    "url": "https://github.com/vllm-project/vllm/issues/26206",
+    "created_at": "2025-10-04T00:45:39Z",
+    "user": "br00t4c",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3483266480,
     "number": 26211,
     "title": "[Bug]: vLLM does not support DeepSeek series on RTX PRO 6000/SM120",
@@ -5034,6 +5049,22 @@
     "created_at": "2025-10-22T23:18:38Z",
     "user": "jcaip",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3542744677,
+    "number": 21037,
+    "title": "FAST002: catch Union with Annotated",
+    "url": "https://github.com/astral-sh/ruff/issues/21037",
+    "created_at": "2025-10-23T00:29:52Z",
+    "user": "wilt-vetrec",
+    "labels": [
+      "rule",
+      "needs-decision"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -1061,6 +1061,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3587376171,
+    "number": 58399,
+    "title": "[Serve, Critical]: When using runtime_env.image_uri GPU is not available in the started podman container",
+    "url": "https://github.com/ray-project/ray/issues/58399",
+    "created_at": "2025-11-04T16:41:08Z",
+    "user": "dule1322",
+    "labels": [
+      "bug",
+      "triage",
+      "serve",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3587404370,
     "number": 23926,
@@ -3768,6 +3787,24 @@
     "user": "sayakpaul",
     "labels": [
       "diffusers-mvp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3611639969,
+    "number": 28460,
+    "title": "[Bug]: rocm crash AMD Ryzen AI 9 HX PRO 370 w/ Radeon 890M - docker/podman",
+    "url": "https://github.com/vllm-project/vllm/issues/28460",
+    "created_at": "2025-11-11T10:16:32Z",
+    "user": "hargathor",
+    "labels": [
+      "bug",
+      "feature request",
+      "rocm",
+      "gpt-oss"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
