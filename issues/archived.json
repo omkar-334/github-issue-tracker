@@ -1,18 +1,14 @@
 [
   {
-    "repo": "pola-rs/polars",
-    "id": 2230017205,
-    "number": 15530,
-    "title": "Upsample with group_by results in NULLs for group key columns",
-    "url": "https://github.com/pola-rs/polars/issues/15530",
-    "created_at": "2024-04-07T23:57:31Z",
-    "user": "david-waterworth",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "bug",
-      "python",
-      "accepted",
-      "P-medium",
-      "enterprise-support"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -20,13 +16,17 @@
   },
   {
     "repo": "scikit-learn/scikit-learn",
-    "id": 2541476010,
-    "number": 29909,
-    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
-    "created_at": "2024-09-23T03:06:33Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
+    "id": 2466236338,
+    "number": 29673,
+    "title": "Array API backends support for MLX",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29673",
+    "created_at": "2024-08-14T15:57:00Z",
+    "user": "awni",
+    "labels": [
+      "New Feature",
+      "Needs Investigation",
+      "Array API"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

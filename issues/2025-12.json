@@ -14345,6 +14345,22 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 3718689510,
+    "number": 48461,
+    "title": "[CI] Move away from Azure Pipelines",
+    "url": "https://github.com/apache/arrow/issues/48461",
+    "created_at": "2025-12-11T10:07:34Z",
+    "user": "pitrou",
+    "labels": [
+      "Type: enhancement",
+      "Component: Continuous Integration"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "fastapi/fastapi",
     "id": 3718690460,
     "number": 14498,
@@ -22038,6 +22054,167 @@
     "url": "https://github.com/scipy/scipy/issues/24164",
     "created_at": "2025-12-16T08:36:50Z",
     "user": "ev-br",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3733778067,
+    "number": 63376,
+    "title": "DOC: the default value of `engine` argument in `eval` should be `None`",
+    "url": "https://github.com/pandas-dev/pandas/issues/63376",
+    "created_at": "2025-12-16T08:43:12Z",
+    "user": "cmp0xff",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3733829178,
+    "number": 170535,
+    "title": "Graphsafe RNG clone_state",
+    "url": "https://github.com/pytorch/pytorch/issues/170535",
+    "created_at": "2025-12-16T08:57:13Z",
+    "user": "buptzyb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3733848688,
+    "number": 18043,
+    "title": "[Bug]: Groq model deprecation not reflected in litellm",
+    "url": "https://github.com/BerriAI/litellm/issues/18043",
+    "created_at": "2025-12-16T09:02:22Z",
+    "user": "bjornjee",
+    "labels": [
+      "bug",
+      "llm translation",
+      "SDK",
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3733862297,
+    "number": 30762,
+    "title": "[Feature][P1]:  docker image / cache reuse between CI and release pipelines",
+    "url": "https://github.com/vllm-project/vllm/issues/30762",
+    "created_at": "2025-12-16T09:06:00Z",
+    "user": "Harry-Chen",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3733882603,
+    "number": 170536,
+    "title": "accept int padding value for F.pad",
+    "url": "https://github.com/pytorch/pytorch/issues/170536",
+    "created_at": "2025-12-16T09:11:18Z",
+    "user": "Phimos",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3733883902,
+    "number": 21998,
+    "title": "ARG001 - Ignore None type arguments",
+    "url": "https://github.com/astral-sh/ruff/issues/21998",
+    "created_at": "2025-12-16T09:11:40Z",
+    "user": "Philipp-Thiel",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3733891983,
+    "number": 34380,
+    "title": "LANGSMITH_TRACING environment variable prevents per-model tracing control",
+    "url": "https://github.com/langchain-ai/langchain/issues/34380",
+    "created_at": "2025-12-16T09:13:44Z",
+    "user": "palsp",
+    "labels": [
+      "core",
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3733913163,
+    "number": 30763,
+    "title": "[Feature]: Optionally Return LogSumExp in Attention",
+    "url": "https://github.com/vllm-project/vllm/issues/30763",
+    "created_at": "2025-12-16T09:18:42Z",
+    "user": "hypnopump",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3733938947,
+    "number": 9176,
+    "title": "[ENH] Add evaluate utility for sktime regression",
+    "url": "https://github.com/sktime/sktime/issues/9176",
+    "created_at": "2025-12-16T09:24:53Z",
+    "user": "Omswastik-11",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3733943455,
+    "number": 32906,
+    "title": "CI Instable test in min-dependencies build test_naive_bayes.py::test_predict_joint_proba with different random seeds",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32906",
+    "created_at": "2025-12-16T09:26:08Z",
+    "user": "lesteve",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3733950948,
+    "number": 170539,
+    "title": "test_export_opinfo: 9 tests fail with \"Unexpected success\" due to outdated xfail markers",
+    "url": "https://github.com/pytorch/pytorch/issues/170539",
+    "created_at": "2025-12-16T09:28:23Z",
+    "user": "kumartanmay-28",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
