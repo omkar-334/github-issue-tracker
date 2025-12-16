@@ -1,78 +1,28 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 2335297283,
-    "number": 20902,
-    "title": "BUG: special.lpmv(0,v,-1) returns incorrect value for non-integer v",
-    "url": "https://github.com/scipy/scipy/issues/20902",
-    "created_at": "2024-06-05T08:55:49Z",
-    "user": "oldgreymare",
-    "labels": [
-      "defect",
-      "scipy.special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2335836519,
-    "number": 11753,
-    "title": "Comprehension / generator, opt-in feature to preserve line breaks",
-    "url": "https://github.com/astral-sh/ruff/issues/11753",
-    "created_at": "2024-06-05T12:57:23Z",
-    "user": "Martin19037",
-    "labels": [
-      "formatter",
-      "style"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "kedro-org/kedro",
-    "id": 2361860255,
-    "number": 3960,
-    "title": "Spike: How can we make upgrading Kedro projects easier?",
-    "url": "https://github.com/kedro-org/kedro/issues/3960",
-    "created_at": "2024-06-19T09:31:08Z",
-    "user": "merelcht",
+    "repo": "dmlc/xgboost",
+    "id": 1537299663,
+    "number": 8694,
+    "title": "[CI] Set up pre-commit hook to automatically check formatting ",
+    "url": "https://github.com/dmlc/xgboost/issues/8694",
+    "created_at": "2023-01-18T02:21:01Z",
+    "user": "hcho3",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pola-rs/polars",
-    "id": 2417319120,
-    "number": 17711,
-    "title": "CSV Downloads Fail for ADLS Gen2 with Azure CLI Authentication",
-    "url": "https://github.com/pola-rs/polars/issues/17711",
-    "created_at": "2024-07-18T20:19:22Z",
-    "user": "VincentSaelzlerFRA",
+    "repo": "pytorch/pytorch",
+    "id": 2241839184,
+    "number": 124018,
+    "title": "Fix OOMs during parallel builds",
+    "url": "https://github.com/pytorch/pytorch/issues/124018",
+    "created_at": "2024-04-14T00:39:19Z",
+    "user": "ruro",
     "labels": [
-      "bug",
-      "python",
-      "accepted",
-      "P-low",
-      "A-io-csv"
+      "module: build",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

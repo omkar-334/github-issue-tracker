@@ -1406,6 +1406,24 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3592025309,
+    "number": 18696,
+    "title": "[BUG] Performance regression in versions 3.3 and above",
+    "url": "https://github.com/mlflow/mlflow/issues/18696",
+    "created_at": "2025-11-05T17:06:51Z",
+    "user": "enzoschmidlin",
+    "labels": [
+      "bug",
+      "needs author feedback",
+      "area/model-registry",
+      "area/tracking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3592290885,
     "number": 3562,

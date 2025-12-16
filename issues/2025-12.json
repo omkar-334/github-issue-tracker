@@ -9027,6 +9027,21 @@
     "archived": false
   },
   {
+    "repo": "triton-lang/triton",
+    "id": 3706231657,
+    "number": 8932,
+    "title": "[WS] Warp Specialization crashes when BLOCK_N = 8 in NVWSInsertAref",
+    "url": "https://github.com/triton-lang/triton/issues/8932",
+    "created_at": "2025-12-08T12:41:06Z",
+    "user": "Moerafaat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3706234853,
     "number": 169823,
@@ -22795,6 +22810,115 @@
       "core",
       "langchain",
       "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3735117640,
+    "number": 30786,
+    "title": "[RFC]: FlashMask Attention Backend for PrefixLM Models",
+    "url": "https://github.com/vllm-project/vllm/issues/30786",
+    "created_at": "2025-12-16T14:47:55Z",
+    "user": "lucianommartins",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3735149512,
+    "number": 34386,
+    "title": "Add `google_genai` as supported provider for embeddings factory in `init_embeddings`.",
+    "url": "https://github.com/langchain-ai/langchain/issues/34386",
+    "created_at": "2025-12-16T14:55:26Z",
+    "user": "Christophe-Lamarche-Cossette",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "id": 3735156462,
+    "number": 3889,
+    "title": "UlyssesSPAttentionHF with PEFT model",
+    "url": "https://github.com/huggingface/accelerate/issues/3889",
+    "created_at": "2025-12-16T14:57:10Z",
+    "user": "shon-otmazgin-wix",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3735197491,
+    "number": 1899,
+    "title": "ENH: TransformersModel: Support for parallel tool calls in single response?",
+    "url": "https://github.com/huggingface/smolagents/issues/1899",
+    "created_at": "2025-12-16T15:06:52Z",
+    "user": "austinmw",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3735227133,
+    "number": 34387,
+    "title": "Image and Video Generation Feature Request",
+    "url": "https://github.com/langchain-ai/langchain/issues/34387",
+    "created_at": "2025-12-16T15:14:01Z",
+    "user": "SatyamSingh8306",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3735256076,
+    "number": 170556,
+    "title": "[dynamo] Add linter rule to disallow `raise Unsupported` in torch/_dynamo",
+    "url": "https://github.com/pytorch/pytorch/issues/170556",
+    "created_at": "2025-12-16T15:21:07Z",
+    "user": "williamwen42",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3735268783,
+    "number": 170558,
+    "title": "[dynamo] Replace dynamo UserErrror",
+    "url": "https://github.com/pytorch/pytorch/issues/170558",
+    "created_at": "2025-12-16T15:23:59Z",
+    "user": "williamwen42",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
