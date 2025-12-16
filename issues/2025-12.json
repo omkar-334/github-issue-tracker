@@ -10606,6 +10606,21 @@
     "archived": false
   },
   {
+    "repo": "kedro-org/kedro",
+    "id": 3710150810,
+    "number": 5262,
+    "title": "Kedro Service for Universal Deployment",
+    "url": "https://github.com/kedro-org/kedro/issues/5262",
+    "created_at": "2025-12-09T10:09:18Z",
+    "user": "rashidakanchwala",
+    "labels": [
+      "Issue: Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3710154822,
     "number": 3342,
@@ -11764,6 +11779,22 @@
     "labels": [
       "oncall: pt2",
       "module: dynamo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3712760031,
+    "number": 30360,
+    "title": "[RFC]: Consolidate FP8 min/max values into somewhere reasonable (Python only)",
+    "url": "https://github.com/vllm-project/vllm/issues/30360",
+    "created_at": "2025-12-09T21:44:15Z",
+    "user": "rasmith",
+    "labels": [
+      "rocm",
+      "RFC"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -23623,6 +23654,114 @@
       "API Design",
       "Index",
       "Copy / view semantics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3736382031,
+    "number": 25789,
+    "title": "Support Decimal decoding in `json_decodes`",
+    "url": "https://github.com/pola-rs/polars/issues/25789",
+    "created_at": "2025-12-16T21:28:32Z",
+    "user": "theelderbeever",
+    "labels": [
+      "enhancement",
+      "A-dtype-decimal",
+      "A-io-json"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "networkx/networkx",
+    "id": 3736392337,
+    "number": 8389,
+    "title": "DOC: Add examples of floating point conversion to docstrings",
+    "url": "https://github.com/networkx/networkx/issues/8389",
+    "created_at": "2025-12-16T21:31:54Z",
+    "user": "rossbar",
+    "labels": [
+      "type: Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 3736394104,
+    "number": 12203,
+    "title": "⚠️ Upstream CI failed ⚠️",
+    "url": "https://github.com/dask/dask/issues/12203",
+    "created_at": "2025-12-16T21:32:32Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "upstream"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3736422213,
+    "number": 59485,
+    "title": "[Data] `write_parquet` doesn't respect `min_rows_per_file` if you specify partition columns",
+    "url": "https://github.com/ray-project/ray/issues/59485",
+    "created_at": "2025-12-16T21:40:40Z",
+    "user": "bveeramani",
+    "labels": [
+      "bug",
+      "P2",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3736467675,
+    "number": 25790,
+    "title": "Polars - Discard option in scan_parquet",
+    "url": "https://github.com/pola-rs/polars/issues/25790",
+    "created_at": "2025-12-16T21:53:41Z",
+    "user": "NicolasAlmerge",
+    "labels": [
+      "enhancement",
+      "A-io-parquet"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3736503766,
+    "number": 170604,
+    "title": "CUDAGraph capturing of iterating the same function/module (outside and inside fullgraph)",
+    "url": "https://github.com/pytorch/pytorch/issues/170604",
+    "created_at": "2025-12-16T22:07:19Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3736518828,
+    "number": 42913,
+    "title": "Unexpected tokenizer behavior difference from v4 to v5",
+    "url": "https://github.com/huggingface/transformers/issues/42913",
+    "created_at": "2025-12-16T22:14:01Z",
+    "user": "awni",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

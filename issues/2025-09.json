@@ -5469,6 +5469,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3435877555,
+    "number": 25287,
+    "title": "[Bug]: CrashLoopBackOff on AMD GPU (MI300x) with rocm/vllm Container on DigitalOcean Kubernetes",
+    "url": "https://github.com/vllm-project/vllm/issues/25287",
+    "created_at": "2025-09-19T21:01:13Z",
+    "user": "kev-pebble",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3436086380,
     "number": 3579,

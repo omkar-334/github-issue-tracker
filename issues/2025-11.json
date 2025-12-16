@@ -7416,6 +7416,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3636621347,
+    "number": 28923,
+    "title": "[Bug]: kimi-k2-thinking on AMD MI300X not working",
+    "url": "https://github.com/vllm-project/vllm/issues/28923",
+    "created_at": "2025-11-18T07:45:48Z",
+    "user": "hcbu-unix-ai",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3636808734,
     "number": 7869,
