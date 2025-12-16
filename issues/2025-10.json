@@ -6647,6 +6647,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3560301254,
+    "number": 166387,
+    "title": "torch._dynamo.exc.BackendCompilerFailed about mixed TF32 API usage using torch.compile when only new API is used",
+    "url": "https://github.com/pytorch/pytorch/issues/166387",
+    "created_at": "2025-10-28T08:06:59Z",
+    "user": "Godel-bach",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "internal ramp-up task"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3560683826,
     "number": 41911,

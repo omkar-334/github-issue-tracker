@@ -32089,6 +32089,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3560301254,
+      "number": 166387,
+      "title": "torch._dynamo.exc.BackendCompilerFailed about mixed TF32 API usage using torch.compile when only new API is used",
+      "url": "https://github.com/pytorch/pytorch/issues/166387",
+      "created_at": "2025-10-28T08:06:59Z",
+      "user": "Godel-bach",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "internal ramp-up task"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3560683826,
       "number": 41911,
@@ -40860,6 +40878,23 @@
       "user": "khluu",
       "labels": [
         "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3632330783,
+      "number": 25380,
+      "title": "`object-store error` when using `scan_csv` and ManagedIdentityCredential",
+      "url": "https://github.com/pola-rs/polars/issues/25380",
+      "created_at": "2025-11-17T08:49:15Z",
+      "user": "nicolo-barboni",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -75200,8 +75235,127 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "evidentlyai/evidently",
+      "id": 3734855444,
+      "number": 1766,
+      "title": "Database Connection Failures Due to Password Masking in Migration",
+      "url": "https://github.com/evidentlyai/evidently/issues/1766",
+      "created_at": "2025-12-16T13:44:54Z",
+      "user": "jasperbruin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3734901830,
+      "number": 170548,
+      "title": "unable to export a model with bucketize",
+      "url": "https://github.com/pytorch/pytorch/issues/170548",
+      "created_at": "2025-12-16T13:57:21Z",
+      "user": "xadupre",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3734905496,
+      "number": 170549,
+      "title": "vLLM PyTorch Compilation Unit Tests failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170549",
+      "created_at": "2025-12-16T13:58:15Z",
+      "user": "atalman",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3734906344,
+      "number": 3771,
+      "title": "Feature Request: Add support for OpenAI responses api (For Azure OpenAI)",
+      "url": "https://github.com/browser-use/browser-use/issues/3771",
+      "created_at": "2025-12-16T13:58:31Z",
+      "user": "mahmoudhaytham",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3734933574,
+      "number": 13385,
+      "title": "Support icon in st.logo",
+      "url": "https://github.com/streamlit/streamlit/issues/13385",
+      "created_at": "2025-12-16T14:05:02Z",
+      "user": "arnaudmiribel",
+      "labels": [
+        "type:enhancement",
+        "feature:st.logo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3734975008,
+      "number": 9178,
+      "title": "[ENH] Add overlay_dx: tolerance-sweep “visual alignment” metric for point forecasting evaluation and tuning",
+      "url": "https://github.com/sktime/sktime/issues/9178",
+      "created_at": "2025-12-16T14:14:49Z",
+      "user": "ngohlong",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unit8co/darts",
+      "id": 3735000569,
+      "number": 2970,
+      "title": "Add overlay_dx() metric to darts.metrics: tolerance-sweep “visual alignment” score (normalized AUC)",
+      "url": "https://github.com/unit8co/darts/issues/2970",
+      "created_at": "2025-12-16T14:20:05Z",
+      "user": "ngohlong",
+      "labels": [
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3735034379,
+      "number": 34384,
+      "title": "Populate default args when provided in a tool's args_schema",
+      "url": "https://github.com/langchain-ai/langchain/issues/34384",
+      "created_at": "2025-12-16T14:27:50Z",
+      "user": "msukmanowsky",
+      "labels": [
+        "core",
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T13:44:18Z",
-  "total_count": 4970
+  "last_updated": "2025-12-16T14:31:52Z",
+  "total_count": 4980
 }
