@@ -1299,6 +1299,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3493116703,
+    "number": 164878,
+    "title": "Ban and remove plain asserts with no message in our python code",
+    "url": "https://github.com/pytorch/pytorch/issues/164878",
+    "created_at": "2025-10-07T21:36:50Z",
+    "user": "albanD",
+    "labels": [
+      "module: error checking",
+      "triaged",
+      "actionable",
+      "module: python frontend"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3493122385,
     "number": 4223,

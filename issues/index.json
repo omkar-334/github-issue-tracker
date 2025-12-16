@@ -26848,6 +26848,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3493116703,
+      "number": 164878,
+      "title": "Ban and remove plain asserts with no message in our python code",
+      "url": "https://github.com/pytorch/pytorch/issues/164878",
+      "created_at": "2025-10-07T21:36:50Z",
+      "user": "albanD",
+      "labels": [
+        "module: error checking",
+        "triaged",
+        "actionable",
+        "module: python frontend"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3493122385,
       "number": 4223,
@@ -53275,6 +53293,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3680597886,
+      "number": 25557,
+      "title": "`DuckLake` support in polars",
+      "url": "https://github.com/pola-rs/polars/issues/25557",
+      "created_at": "2025-12-01T11:42:19Z",
+      "user": "guillesd",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3680600199,
       "number": 63240,
@@ -64524,6 +64557,22 @@
       "labels": [
         "oncall: pt2",
         "module: dynamo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pymc-devs/pymc",
+      "id": 3712793355,
+      "number": 7990,
+      "title": "ENH: pymc.math.sum could not be observed",
+      "url": "https://github.com/pymc-devs/pymc/issues/7990",
+      "created_at": "2025-12-09T21:58:30Z",
+      "user": "louiszhuang",
+      "labels": [
+        "feature request",
+        "logprob"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -76156,8 +76205,115 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3736051489,
+      "number": 42910,
+      "title": "Qwen2VLImageProcessor not respecting Qwen3VL config",
+      "url": "https://github.com/huggingface/transformers/issues/42910",
+      "created_at": "2025-12-16T19:29:26Z",
+      "user": "opherlieber",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3736060054,
+      "number": 2869,
+      "title": "bug(rust): merge_insert with FixedSizeBinary column causes incorrect null handling in non-nullable columns",
+      "url": "https://github.com/lancedb/lancedb/issues/2869",
+      "created_at": "2025-12-16T19:32:51Z",
+      "user": "valkum",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3736129971,
+      "number": 30813,
+      "title": "[Bug]: compilation_config.backend=\"eager\" doesn't work aot mode (yet).",
+      "url": "https://github.com/vllm-project/vllm/issues/30813",
+      "created_at": "2025-12-16T19:55:03Z",
+      "user": "zhxchen17",
+      "labels": [
+        "bug",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3736143913,
+      "number": 5279,
+      "title": "Create benchmark for KedroSession startup",
+      "url": "https://github.com/kedro-org/kedro/issues/5279",
+      "created_at": "2025-12-16T19:59:29Z",
+      "user": "lrcouto",
+      "labels": [
+        "Issue: Feature Request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3736182526,
+      "number": 4707,
+      "title": "GRPOTrainer: Relative LLM-as-a-judge rankings",
+      "url": "https://github.com/huggingface/trl/issues/4707",
+      "created_at": "2025-12-16T20:13:11Z",
+      "user": "austinmw",
+      "labels": [
+        "✨ enhancement",
+        "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3736190941,
+      "number": 19821,
+      "title": "Ephemeral models still not working with prefect-dbt",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19821",
+      "created_at": "2025-12-16T20:15:57Z",
+      "user": "sol-joseph",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3736214739,
+      "number": 42911,
+      "title": "Make `backbone_config` param of vision models configs expect `Any` instead of `dict | None`",
+      "url": "https://github.com/huggingface/transformers/issues/42911",
+      "created_at": "2025-12-16T20:25:35Z",
+      "user": "simonreise",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T19:25:29Z",
-  "total_count": 5032
+  "last_updated": "2025-12-16T20:32:25Z",
+  "total_count": 5042
 }
