@@ -1032,6 +1032,23 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3306009796,
+    "number": 40054,
+    "title": "Whisper transcription accuracy improves when last 1600 samples of input audio are muted",
+    "url": "https://github.com/huggingface/transformers/issues/40054",
+    "created_at": "2025-08-09T06:53:37Z",
+    "user": "jozefchutka",
+    "labels": [
+      "bug",
+      "Audio",
+      "Whisper"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3306933996,
     "number": 9173,
@@ -1158,6 +1175,21 @@
     "created_at": "2025-08-11T02:55:57Z",
     "user": "farapart",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "id": 3309423204,
+    "number": 9701,
+    "title": "`HuggingFaceAPIChatGenerator` - reasoning support",
+    "url": "https://github.com/deepset-ai/haystack/issues/9701",
+    "created_at": "2025-08-11T10:31:19Z",
+    "user": "anakin87",
+    "labels": [
+      "P3"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

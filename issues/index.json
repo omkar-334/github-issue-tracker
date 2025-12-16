@@ -15775,6 +15775,23 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3306009796,
+      "number": 40054,
+      "title": "Whisper transcription accuracy improves when last 1600 samples of input audio are muted",
+      "url": "https://github.com/huggingface/transformers/issues/40054",
+      "created_at": "2025-08-09T06:53:37Z",
+      "user": "jozefchutka",
+      "labels": [
+        "bug",
+        "Audio",
+        "Whisper"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3306933996,
       "number": 9173,
@@ -15901,6 +15918,21 @@
       "created_at": "2025-08-11T02:55:57Z",
       "user": "farapart",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3309423204,
+      "number": 9701,
+      "title": "`HuggingFaceAPIChatGenerator` - reasoning support",
+      "url": "https://github.com/deepset-ai/haystack/issues/9701",
+      "created_at": "2025-08-11T10:31:19Z",
+      "user": "anakin87",
+      "labels": [
+        "P3"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -29622,6 +29654,19 @@
       "archived": false
     },
     {
+      "repo": "piskvorky/gensim",
+      "id": 3531605452,
+      "number": 3631,
+      "title": "Loading 3.8.3 Doc2Vec models into 4.4",
+      "url": "https://github.com/piskvorky/gensim/issues/3631",
+      "created_at": "2025-10-20T08:53:00Z",
+      "user": "bnomis",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3532001345,
       "number": 8956,
@@ -29829,6 +29874,21 @@
       "url": "https://github.com/huggingface/lighteval/issues/1024",
       "created_at": "2025-10-21T08:58:18Z",
       "user": "colinzuo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3535758153,
+      "number": 27259,
+      "title": "[Bug]: DeepSeek v3.2 Exp Issue with Data Parallelism",
+      "url": "https://github.com/vllm-project/vllm/issues/27259",
+      "created_at": "2025-10-21T09:33:48Z",
+      "user": "bennorris123",
       "labels": [
         "bug"
       ],
@@ -40149,6 +40209,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3628809478,
+      "number": 42222,
+      "title": "All vitpose model were brokentransformers/models/vitpose_",
+      "url": "https://github.com/huggingface/transformers/issues/42222",
+      "created_at": "2025-11-15T14:56:04Z",
+      "user": "lucasjinreal",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3628964089,
       "number": 12668,
@@ -40995,6 +41070,22 @@
       "user": "swap357",
       "labels": [
         "Task"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3635293595,
+      "number": 28883,
+      "title": "[Tracking Issue][Performance]: (G)B200/300 performance improvements",
+      "url": "https://github.com/vllm-project/vllm/issues/28883",
+      "created_at": "2025-11-17T22:18:04Z",
+      "user": "xinli-sw",
+      "labels": [
+        "performance",
+        "nvidia"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -57024,6 +57115,22 @@
       "archived": false
     },
     {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3693640658,
+      "number": 7713,
+      "title": "[BUG] The different lr for Muon doesn't work?",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7713",
+      "created_at": "2025-12-04T09:18:17Z",
+      "user": "Zazexy",
+      "labels": [
+        "bug",
+        "training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/stanza",
       "id": 3693651412,
       "number": 1528,
@@ -67223,6 +67330,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3720259589,
+      "number": 30501,
+      "title": "[Bug]/[Feature]:NIXL Disaggregated Serving Fails with Pipeline Parallelism (PP > 1)",
+      "url": "https://github.com/vllm-project/vllm/issues/30501",
+      "created_at": "2025-12-11T17:16:02Z",
+      "user": "nskpro-cmd",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3720334510,
       "number": 16201,
@@ -74056,8 +74178,211 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3733595140,
+      "number": 18041,
+      "title": "[Feature]: Clientside LLM Credentials support for Upload File and batch API",
+      "url": "https://github.com/BerriAI/litellm/issues/18041",
+      "created_at": "2025-12-16T07:42:38Z",
+      "user": "patttabhi",
+      "labels": [
+        "enhancement",
+        "SDK"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3733597606,
+      "number": 170530,
+      "title": "[inductor][cpu] pyhpc_turbulent_kinetic_energy and pyhpc_isoneutral_mixing amp performance regression in 2025-12-08 nightly release",
+      "url": "https://github.com/pytorch/pytorch/issues/170530",
+      "created_at": "2025-12-16T07:43:22Z",
+      "user": "zxd1997066",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3733639940,
+      "number": 30866,
+      "title": "[Bug]: Incorrect offsets and scaling of EllipseCollection",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30866",
+      "created_at": "2025-12-16T07:59:47Z",
+      "user": "williamlus",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3733642602,
+      "number": 19422,
+      "title": "YOLO model's flavor support in MLFlow",
+      "url": "https://github.com/mlflow/mlflow/issues/19422",
+      "created_at": "2025-12-16T08:00:42Z",
+      "user": "QuangMinh94",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733670884,
+      "number": 30755,
+      "title": "[Feature][P1]: Separation of building and final base images on more variants",
+      "url": "https://github.com/vllm-project/vllm/issues/30755",
+      "created_at": "2025-12-16T08:08:05Z",
+      "user": "Harry-Chen",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3733681444,
+      "number": 33972,
+      "title": "Crash in libtpu on multislice when using jax.random.bits",
+      "url": "https://github.com/jax-ml/jax/issues/33972",
+      "created_at": "2025-12-16T08:11:01Z",
+      "user": "dlwh",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3733683672,
+      "number": 42889,
+      "title": "Divergence in UMT T5 Encoder numerical values from v4.57.3 to v5.0.0.rc*",
+      "url": "https://github.com/huggingface/transformers/issues/42889",
+      "created_at": "2025-12-16T08:11:44Z",
+      "user": "SolitaryThinker",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3733710486,
+      "number": 3732,
+      "title": "[Bug] Cannot serve Qwen3-VL-2B-Instruct-unsloth-bnb-4bit with vLLM",
+      "url": "https://github.com/unslothai/unsloth/issues/3732",
+      "created_at": "2025-12-16T08:21:00Z",
+      "user": "Tan-AcamarVN",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3733715750,
+      "number": 42890,
+      "title": "tests/models/sam_hq/test_modeling_sam_hq.py::SamHQModelIntegrationTest may fail since a lot of cases are lack of set_seed()",
+      "url": "https://github.com/huggingface/transformers/issues/42890",
+      "created_at": "2025-12-16T08:22:52Z",
+      "user": "sywangyi",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733725735,
+      "number": 30757,
+      "title": "[Performance]: Async sched: Why return AsyncGPUModelRunnerOutput util func sample_tokens",
+      "url": "https://github.com/vllm-project/vllm/issues/30757",
+      "created_at": "2025-12-16T08:26:08Z",
+      "user": "iwzbi",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733728552,
+      "number": 30758,
+      "title": "[Tracking Issue][Performance] GPT-OSS B200/GB200 performance optimization tracker",
+      "url": "https://github.com/vllm-project/vllm/issues/30758",
+      "created_at": "2025-12-16T08:26:57Z",
+      "user": "nvpohanh",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733750427,
+      "number": 30759,
+      "title": "[Feature]: proper logging for ParsableContext",
+      "url": "https://github.com/vllm-project/vllm/issues/30759",
+      "created_at": "2025-12-16T08:33:53Z",
+      "user": "qandrew",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3733753391,
+      "number": 19806,
+      "title": "Blank Prefect UI under Cloudflare after upgrade from `3.6.4` to `3.6.6`",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19806",
+      "created_at": "2025-12-16T08:34:55Z",
+      "user": "etx121",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3733758816,
+      "number": 24164,
+      "title": "Build warnings with g++ 14 on linux in a conda env",
+      "url": "https://github.com/scipy/scipy/issues/24164",
+      "created_at": "2025-12-16T08:36:50Z",
+      "user": "ev-br",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T07:29:41Z",
-  "total_count": 4894
+  "last_updated": "2025-12-16T08:39:01Z",
+  "total_count": 4916
 }

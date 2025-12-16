@@ -4302,6 +4302,19 @@
     "archived": false
   },
   {
+    "repo": "piskvorky/gensim",
+    "id": 3531605452,
+    "number": 3631,
+    "title": "Loading 3.8.3 Doc2Vec models into 4.4",
+    "url": "https://github.com/piskvorky/gensim/issues/3631",
+    "created_at": "2025-10-20T08:53:00Z",
+    "user": "bnomis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3532001345,
     "number": 8956,
@@ -4509,6 +4522,21 @@
     "url": "https://github.com/huggingface/lighteval/issues/1024",
     "created_at": "2025-10-21T08:58:18Z",
     "user": "colinzuo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3535758153,
+    "number": 27259,
+    "title": "[Bug]: DeepSeek v3.2 Exp Issue with Data Parallelism",
+    "url": "https://github.com/vllm-project/vllm/issues/27259",
+    "created_at": "2025-10-21T09:33:48Z",
+    "user": "bennorris123",
     "labels": [
       "bug"
     ],
