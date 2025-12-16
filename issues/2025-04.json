@@ -277,6 +277,24 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 2976172440,
+    "number": 15238,
+    "title": "[BUG] HTML artifacts rendering size issue in runs comparison page",
+    "url": "https://github.com/mlflow/mlflow/issues/15238",
+    "created_at": "2025-04-07T09:10:52Z",
+    "user": "anerChristiansen",
+    "labels": [
+      "bug",
+      "area/uiux",
+      "help wanted",
+      "has-closing-pr"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 2976376254,
     "number": 30704,

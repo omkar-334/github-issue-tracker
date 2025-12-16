@@ -2379,6 +2379,22 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3686917134,
+    "number": 21401,
+    "title": "[Help needed] How to pass `weights_only` param to `tuner`",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21401",
+    "created_at": "2025-12-02T17:48:34Z",
+    "user": "phoeenniixx",
+    "labels": [
+      "feature",
+      "tuner"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3687036017,
     "number": 17374,
@@ -22337,6 +22353,123 @@
     "labels": [
       "Docs",
       "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3734208223,
+    "number": 63378,
+    "title": "DOC: the type of `name` in `bdate_range` should be `Hashable`",
+    "url": "https://github.com/pandas-dev/pandas/issues/63378",
+    "created_at": "2025-12-16T10:38:15Z",
+    "user": "cmp0xff",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3734233245,
+    "number": 7905,
+    "title": "Unbounded network usage when opening Data Studio",
+    "url": "https://github.com/huggingface/datasets/issues/7905",
+    "created_at": "2025-12-16T10:45:02Z",
+    "user": "alizaredornica-sys",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 3734271132,
+    "number": 12198,
+    "title": "`ValueError: Moving window (=N) must between 1 and M` with `bottleneck` and `dask>=2024.11.0`",
+    "url": "https://github.com/dask/dask/issues/12198",
+    "created_at": "2025-12-16T10:55:07Z",
+    "user": "paololucchino",
+    "labels": [
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3734309698,
+    "number": 33054,
+    "title": "Pool limits quickly causes postgress too many client connections",
+    "url": "https://github.com/dagster-io/dagster/issues/33054",
+    "created_at": "2025-12-16T11:05:53Z",
+    "user": "ion-elgreco",
+    "labels": [
+      "type: bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3734325089,
+    "number": 1108,
+    "title": "[BUG] return _winapi.DuplicateHandle",
+    "url": "https://github.com/huggingface/lighteval/issues/1108",
+    "created_at": "2025-12-16T11:10:26Z",
+    "user": "chigkim",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3734336337,
+    "number": 170545,
+    "title": "Replacement for export_modules_as_functions in torch.onnx w/dynamo enabled",
+    "url": "https://github.com/pytorch/pytorch/issues/170545",
+    "created_at": "2025-12-16T11:13:43Z",
+    "user": "vbaddi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/lighteval",
+    "id": 3734340900,
+    "number": 1109,
+    "title": "[FT] Support for retriever-augmented and latent-memory models.",
+    "url": "https://github.com/huggingface/lighteval/issues/1109",
+    "created_at": "2025-12-16T11:15:09Z",
+    "user": "akshathmangudi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3734356646,
+    "number": 22971,
+    "title": "Shape mismatch when running code example on Apple M4",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22971",
+    "created_at": "2025-12-16T11:19:59Z",
+    "user": "pxia",
+    "labels": [
+      "bug",
+      "dependencies",
+      "detect"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
