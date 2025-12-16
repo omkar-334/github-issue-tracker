@@ -29416,6 +29416,22 @@
       "archived": false
     },
     {
+      "repo": "chroma-core/chroma",
+      "id": 3528816272,
+      "number": 5643,
+      "title": "[Install issue]: Cannot install Chromadb for Versions > Python 3.12",
+      "url": "https://github.com/chroma-core/chroma/issues/5643",
+      "created_at": "2025-10-18T13:14:44Z",
+      "user": "Subramanian-Thiagarajan",
+      "labels": [
+        "installation trouble",
+        "clients"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3529349346,
       "number": 7233,
@@ -58211,6 +58227,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3697722789,
+      "number": 30115,
+      "title": "[Feature]: MCP Support for Non Harmony Models",
+      "url": "https://github.com/vllm-project/vllm/issues/30115",
+      "created_at": "2025-12-05T06:50:15Z",
+      "user": "qandrew",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3697793921,
       "number": 59195,
@@ -73829,8 +73860,59 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "apache/arrow",
+      "id": 3733294122,
+      "number": 48553,
+      "title": "[Ruby] Add support for reading timestamp array",
+      "url": "https://github.com/apache/arrow/issues/48553",
+      "created_at": "2025-12-16T05:47:02Z",
+      "user": "kou",
+      "labels": [
+        "Type: enhancement",
+        "Component: Ruby"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3733315227,
+      "number": 18035,
+      "title": "[Feature]: Allow model_info.base_model for non azure providers",
+      "url": "https://github.com/BerriAI/litellm/issues/18035",
+      "created_at": "2025-12-16T05:57:10Z",
+      "user": "jyeros",
+      "labels": [
+        "enhancement",
+        "proxy",
+        "llm translation",
+        "SDK"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3733321941,
+      "number": 22967,
+      "title": "RuntimeError: repeat() Not Supported for Complex on Apple M2 with SAM3VideoSemanticPredictor",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22967",
+      "created_at": "2025-12-16T06:00:01Z",
+      "user": "codingbugss",
+      "labels": [
+        "bug",
+        "segment",
+        "embedded"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T05:29:51Z",
-  "total_count": 4879
+  "last_updated": "2025-12-16T06:42:39Z",
+  "total_count": 4884
 }
