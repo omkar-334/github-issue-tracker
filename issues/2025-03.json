@@ -604,6 +604,22 @@
     "archived": false
   },
   {
+    "repo": "gradio-app/gradio",
+    "id": 2918012314,
+    "number": 10803,
+    "title": "Allow developers to add custom buttons to Chatbot messages",
+    "url": "https://github.com/gradio-app/gradio/issues/10803",
+    "created_at": "2025-03-13T17:59:28Z",
+    "user": "Solomin0",
+    "labels": [
+      "enhancement",
+      "needs designing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2918778206,
     "number": 2324,

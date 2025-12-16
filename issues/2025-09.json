@@ -656,6 +656,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3380181651,
+    "number": 24179,
+    "title": "[Performance]:When running vllm at 30b-a3b MOE and turning on kv quantization, the decoding speed of 40K input drops significantly from 100t to 40t.",
+    "url": "https://github.com/vllm-project/vllm/issues/24179",
+    "created_at": "2025-09-03T14:51:56Z",
+    "user": "gengchaogit",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3380275939,
     "number": 14209,
@@ -1167,6 +1183,23 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3384820912,
+    "number": 56247,
+    "title": "[Data] Add control for block-size in rows",
+    "url": "https://github.com/ray-project/ray/issues/56247",
+    "created_at": "2025-09-04T18:05:41Z",
+    "user": "alexeykudinkin",
+    "labels": [
+      "enhancement",
+      "P1",
+      "data"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3116,6 +3149,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3405834673,
+    "number": 24650,
+    "title": "[Feature]: support messages input for classify api skywork-reward model",
+    "url": "https://github.com/vllm-project/vllm/issues/24650",
+    "created_at": "2025-09-11T10:13:10Z",
+    "user": "Snowdar",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3405889887,
     "number": 14442,
@@ -3445,6 +3494,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3408662672,
+    "number": 24714,
+    "title": "[Bug]: Hunyuan-7B-Instruct get error output",
+    "url": "https://github.com/vllm-project/vllm/issues/24714",
+    "created_at": "2025-09-12T03:04:21Z",
+    "user": "hzjane",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3408712215,
     "number": 2625,
@@ -3651,6 +3716,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3411663751,
+    "number": 24777,
+    "title": "[Bug] / [Feature]: Determinism in E2E Spec Decode Test",
+    "url": "https://github.com/vllm-project/vllm/issues/24777",
+    "created_at": "2025-09-12T19:09:08Z",
+    "user": "wwl2755",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3411806294,
     "number": 3096,
@@ -3831,6 +3912,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3412849301,
+    "number": 24800,
+    "title": "[Bug]: Fail to initialize DPEngineCoreProc when worldsize = 1 and P/D disaggregate",
+    "url": "https://github.com/vllm-project/vllm/issues/24800",
+    "created_at": "2025-09-13T08:02:30Z",
+    "user": "nwpu-zxr",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3412901005,
+    "number": 24802,
+    "title": "[Usage]: A KeyError occurred while running Qwen3-235B-A22B-Q4_KM (and int4_int8mix)",
+    "url": "https://github.com/vllm-project/vllm/issues/24802",
+    "created_at": "2025-09-13T08:35:03Z",
+    "user": "zxzx9898",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3413017990,
     "number": 2631,
@@ -3949,6 +4062,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3415233201,
+    "number": 24836,
+    "title": "[Feature]: Support for BGE embedding models in vLLM",
+    "url": "https://github.com/vllm-project/vllm/issues/24836",
+    "created_at": "2025-09-14T16:12:24Z",
+    "user": "siddhantpathakk",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3415611006,
     "number": 30559,
@@ -4006,6 +4135,59 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3416219951,
+    "number": 24850,
+    "title": "[Bug]: How to Use the VLLM_USE_NVFP4_CT_EMULATIONS=1 Flag on Non-Blackwell GPUs",
+    "url": "https://github.com/vllm-project/vllm/issues/24850",
+    "created_at": "2025-09-15T04:18:24Z",
+    "user": "songsm921",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3416877888,
+    "number": 24861,
+    "title": "[Bug]:",
+    "url": "https://github.com/vllm-project/vllm/issues/24861",
+    "created_at": "2025-09-15T08:30:53Z",
+    "user": "benayat",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3417147115,
+    "number": 56529,
+    "title": "[Ray Data] with_column API support Actor",
+    "url": "https://github.com/ray-project/ray/issues/56529",
+    "created_at": "2025-09-15T09:43:19Z",
+    "user": "codingl2k1",
+    "labels": [
+      "good-first-issue",
+      "enhancement",
+      "P1",
+      "usability",
+      "performance",
+      "data",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3417160549,
     "number": 14571,
@@ -4049,6 +4231,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3417493222,
+    "number": 24876,
+    "title": "[Bug]:  uv pip install vllm==0.10.2 --extra-index-url https://wheels.vllm.ai/0.10.2/ --torch-backend=auto  not work",
+    "url": "https://github.com/vllm-project/vllm/issues/24876",
+    "created_at": "2025-09-15T11:14:36Z",
+    "user": "108851027",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3417534731,
     "number": 3121,
@@ -4058,6 +4256,22 @@
     "user": "swastik0305",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3417563042,
+    "number": 24879,
+    "title": "[Bug]: Crash occurs when calling sleep while running vLLM engine in data parallel mode",
+    "url": "https://github.com/vllm-project/vllm/issues/24879",
+    "created_at": "2025-09-15T11:35:54Z",
+    "user": "liyuanze",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4090,6 +4304,41 @@
     "user": "xvdp",
     "labels": [
       "needs-discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3418961894,
+    "number": 24894,
+    "title": "[Doc]: vllm performance dashboard details",
+    "url": "https://github.com/vllm-project/vllm/issues/24894",
+    "created_at": "2025-09-15T18:01:48Z",
+    "user": "omkarpatil6644",
+    "labels": [
+      "documentation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3418975670,
+    "number": 24896,
+    "title": "[Bug]: triton cache path for standalone_compile seems wrong",
+    "url": "https://github.com/vllm-project/vllm/issues/24896",
+    "created_at": "2025-09-15T18:05:51Z",
+    "user": "zou3519",
+    "labels": [
+      "bug",
+      "torch.compile",
+      "stale",
+      "actionable",
+      "needs reproduction"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4205,6 +4454,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3420726563,
+    "number": 24943,
+    "title": "[Bug]:Worker failed with error 'CUDAGraphMode.FULL_AND_PIECEWISE is not supported with FlexAttentionMetadataBuilder backend (support:AttentionCGSupport.NEVER) ; please try cudagraph_mode=PIECEWISE",
+    "url": "https://github.com/vllm-project/vllm/issues/24943",
+    "created_at": "2025-09-16T06:52:53Z",
+    "user": "wangbin306",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3420916732,
+    "number": 24950,
+    "title": "[Usage]: AttributeError: 'Parameter' object has no attribute 'load_column_parallel_weight'",
+    "url": "https://github.com/vllm-project/vllm/issues/24950",
+    "created_at": "2025-09-16T07:45:52Z",
+    "user": "sallyjunjun",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3421115264,
     "number": 30568,
@@ -4216,6 +4497,22 @@
       "backend: pdf",
       "topic: text/fonts",
       "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3421651130,
+    "number": 24959,
+    "title": "[Bug]: vllm启动qwen3-32B-AWQ后进行对话报错",
+    "url": "https://github.com/vllm-project/vllm/issues/24959",
+    "created_at": "2025-09-16T10:44:15Z",
+    "user": "hyqf98",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4306,6 +4603,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3422982092,
+    "number": 24977,
+    "title": "[Bug]: libtpu.sdk crashes on Python 3.12 due to ABI incompatibility",
+    "url": "https://github.com/vllm-project/vllm/issues/24977",
+    "created_at": "2025-09-16T16:29:24Z",
+    "user": "andre-motta",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3423024177,
     "number": 3131,
@@ -4362,6 +4675,22 @@
     "labels": [
       "good first issue",
       "tracker"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3423482651,
+    "number": 24992,
+    "title": "[Bug]: Empty VllmConfig when initializing LogitsProcessor",
+    "url": "https://github.com/vllm-project/vllm/issues/24992",
+    "created_at": "2025-09-16T19:26:48Z",
+    "user": "prashantgupta24",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4434,6 +4763,22 @@
     "labels": [
       "00 - Bug",
       "component: numpy.f2py"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3424284508,
+    "number": 25015,
+    "title": "[Usage]: How to profile vllm with Nsight Compute CLI?",
+    "url": "https://github.com/vllm-project/vllm/issues/25015",
+    "created_at": "2025-09-17T02:05:13Z",
+    "user": "jessiewiswjc",
+    "labels": [
+      "usage",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4522,6 +4867,26 @@
     "created_at": "2025-09-17T16:31:46Z",
     "user": "bg51717",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3427066437,
+    "number": 56623,
+    "title": "[Data] Custom resource support for preprocessors",
+    "url": "https://github.com/ray-project/ray/issues/56623",
+    "created_at": "2025-09-17T16:50:09Z",
+    "user": "rclough",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "performance",
+      "data",
+      "community-backlog"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -5689,6 +6054,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3450712276,
+    "number": 19937,
+    "title": "Suggestion: Consider optional HMP protocol support for LlamaIndex",
+    "url": "https://github.com/run-llama/llama_index/issues/19937",
+    "created_at": "2025-09-24T19:42:42Z",
+    "user": "kagvi13",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3450871590,
     "number": 62437,
@@ -6399,6 +6780,23 @@
     "user": "kgmuzungu",
     "labels": [
       "fixed - pending confirmation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3466072768,
+    "number": 57011,
+    "title": "[data] Parallel execution of columnar operators + reduce memory movement",
+    "url": "https://github.com/ray-project/ray/issues/57011",
+    "created_at": "2025-09-29T18:15:22Z",
+    "user": "richardliaw",
+    "labels": [
+      "enhancement",
+      "P1",
+      "data"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

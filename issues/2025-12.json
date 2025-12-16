@@ -8362,6 +8362,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3704364430,
+    "number": 30224,
+    "title": "[CI Failure]:",
+    "url": "https://github.com/vllm-project/vllm/issues/30224",
+    "created_at": "2025-12-08T02:21:24Z",
+    "user": "16619932058",
+    "labels": [
+      "needs reproduction"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3704409752,
     "number": 24115,
@@ -21202,6 +21217,216 @@
     "url": "https://github.com/Dao-AILab/flash-attention/issues/2073",
     "created_at": "2025-12-16T01:33:08Z",
     "user": "imoneoi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3732796154,
+    "number": 2159,
+    "title": "[ROCm] most integration tests for Native TorchTitan is missing",
+    "url": "https://github.com/pytorch/torchtitan/issues/2159",
+    "created_at": "2025-12-16T02:05:48Z",
+    "user": "functionstackx",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Dao-AILab/flash-attention",
+    "id": 3732827299,
+    "number": 2074,
+    "title": "How to compile flash-attn 2.8.2",
+    "url": "https://github.com/Dao-AILab/flash-attention/issues/2074",
+    "created_at": "2025-12-16T02:22:45Z",
+    "user": "wxsunseas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3732848865,
+    "number": 59462,
+    "title": "[Core] Failed to reduce resident size when putting torch tensors by enabling zero copy",
+    "url": "https://github.com/ray-project/ray/issues/59462",
+    "created_at": "2025-12-16T02:35:55Z",
+    "user": "KaisennHu",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3732850537,
+    "number": 170507,
+    "title": "[MPS] F.one_hot silently fails (returns zeros) on out-of-bounds/neg indices, inconsistent with CPU/CUDA",
+    "url": "https://github.com/pytorch/pytorch/issues/170507",
+    "created_at": "2025-12-16T02:36:59Z",
+    "user": "lingebeng",
+    "labels": [
+      "module: error checking",
+      "triaged",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3732865920,
+    "number": 170508,
+    "title": "[Windows][Python 3.12] Torch 2.6.0+cu124 fails with Triton ImportError: AttrsDescriptor missing",
+    "url": "https://github.com/pytorch/pytorch/issues/170508",
+    "created_at": "2025-12-16T02:43:44Z",
+    "user": "SkybuckFlying",
+    "labels": [
+      "module: windows"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3732893534,
+    "number": 18021,
+    "title": "[Bug]: Gemini 3 Pro Image Preview not working through vertex.",
+    "url": "https://github.com/BerriAI/litellm/issues/18021",
+    "created_at": "2025-12-16T02:57:38Z",
+    "user": "aesher9o1",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3732896890,
+    "number": 170509,
+    "title": "Dynamo fails on unit tests that involve scipy.stats",
+    "url": "https://github.com/pytorch/pytorch/issues/170509",
+    "created_at": "2025-12-16T02:59:16Z",
+    "user": "wkong-amd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3732911912,
+    "number": 30736,
+    "title": "[Bug] DCP/DBO: 'NoneType' error building attention_metadata during DeepSeek-V3.1 deployment dummy run",
+    "url": "https://github.com/vllm-project/vllm/issues/30736",
+    "created_at": "2025-12-16T03:07:59Z",
+    "user": "Butterfingrz",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3732914707,
+    "number": 13377,
+    "title": "Error on OIDC Integration when running within Docker",
+    "url": "https://github.com/streamlit/streamlit/issues/13377",
+    "created_at": "2025-12-16T03:09:22Z",
+    "user": "psambit9791",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3732917801,
+    "number": 21995,
+    "title": "I suggest creating a metacode-compatible parser",
+    "url": "https://github.com/astral-sh/ruff/issues/21995",
+    "created_at": "2025-12-16T03:10:46Z",
+    "user": "pomponchik",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3732925185,
+    "number": 18024,
+    "title": "[Bug]: No support for cohere rerank supported from azure foundry",
+    "url": "https://github.com/BerriAI/litellm/issues/18024",
+    "created_at": "2025-12-16T03:15:32Z",
+    "user": "ShashankHegde16",
+    "labels": [
+      "bug",
+      "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3732942557,
+    "number": 170511,
+    "title": "No matching distribution from download.pytorch.org/whl",
+    "url": "https://github.com/pytorch/pytorch/issues/170511",
+    "created_at": "2025-12-16T03:24:41Z",
+    "user": "chris-rapson-formus",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3732968485,
+    "number": 5452,
+    "title": "[BUG]: fig.write_image fails in docker",
+    "url": "https://github.com/plotly/plotly.py/issues/5452",
+    "created_at": "2025-12-16T03:38:37Z",
+    "user": "Tony-xy-Liu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3732972227,
+    "number": 16271,
+    "title": "Android: load model from assets",
+    "url": "https://github.com/pytorch/executorch/issues/16271",
+    "created_at": "2025-12-16T03:40:03Z",
+    "user": "Bludator",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

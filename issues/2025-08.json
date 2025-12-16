@@ -409,6 +409,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3292284864,
+    "number": 22245,
+    "title": "[Bug]: VLLM_ROCM_USE_AITER=1 hit device_gemm with the specified compilation parameters does not support this GEMM problem for Qwen3-235B-A22B",
+    "url": "https://github.com/vllm-project/vllm/issues/22245",
+    "created_at": "2025-08-05T09:18:51Z",
+    "user": "billishyahao",
+    "labels": [
+      "bug",
+      "rocm",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3292315241,
     "number": 7724,
@@ -555,6 +572,23 @@
     "created_at": "2025-08-06T08:21:37Z",
     "user": "doctorpangloss",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3295766517,
+    "number": 22341,
+    "title": "[Bug]: When using streaming output, the error 'Caught handled exception, but response already started' occurs.",
+    "url": "https://github.com/vllm-project/vllm/issues/22341",
+    "created_at": "2025-08-06T08:34:19Z",
+    "user": "okLLM",
+    "labels": [
+      "bug",
+      "stale",
+      "gpt-oss"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -708,6 +742,26 @@
     "created_at": "2025-08-07T04:10:02Z",
     "user": "yjoonjang",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3299193700,
+    "number": 55354,
+    "title": "[Data] map_batches on a threaded actor shows incorrect concurrency",
+    "url": "https://github.com/ray-project/ray/issues/55354",
+    "created_at": "2025-08-07T06:37:12Z",
+    "user": "codingl2k1",
+    "labels": [
+      "bug",
+      "P1",
+      "performance",
+      "data",
+      "stability",
+      "community-backlog"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

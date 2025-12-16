@@ -765,6 +765,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2869803496,
+    "number": 50799,
+    "title": "[Data]  supper passing `pyarrow.dataset.Expression`s to `Dataset.filter`'s `expr`",
+    "url": "https://github.com/ray-project/ray/issues/50799",
+    "created_at": "2025-02-21T19:04:41Z",
+    "user": "schmidt-ai",
+    "labels": [
+      "enhancement",
+      "P1",
+      "data",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/stanza",
     "id": 2869983647,
     "number": 1463,
@@ -941,6 +959,23 @@
     "created_at": "2025-02-25T15:29:40Z",
     "user": "Deep-unlearning",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2882783750,
+    "number": 148003,
+    "title": "Error : torch/utils/_sympy/interp.py:176] [0/2] failed while executing pow_by_natural([VR1, int_oo], VR[-1, -1]])",
+    "url": "https://github.com/pytorch/pytorch/issues/148003",
+    "created_at": "2025-02-26T20:50:03Z",
+    "user": "sheridanbowman",
+    "labels": [
+      "needs reproduction",
+      "triaged",
+      "oncall: pt2"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
