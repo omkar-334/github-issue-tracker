@@ -74558,8 +74558,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3733976571,
+      "number": 20375,
+      "title": "[Bug]:  Faiss: add_with_ids called with int instead of 1-d np.array in map_store.py (possible bug)",
+      "url": "https://github.com/run-llama/llama_index/issues/20375",
+      "created_at": "2025-12-16T09:35:43Z",
+      "user": "d2726725460-cmyk",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "EleutherAI/lm-evaluation-harness",
+      "id": 3734022377,
+      "number": 3466,
+      "title": "[BUG] Cannot pickle 'msgspec.msgpack.Encoder' object when call save_results_samples func",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3466",
+      "created_at": "2025-12-16T09:47:02Z",
+      "user": "JasonCZH4",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3734060028,
+      "number": 5277,
+      "title": "Add `preview()` to Polars Datasets",
+      "url": "https://github.com/kedro-org/kedro/issues/5277",
+      "created_at": "2025-12-16T09:57:00Z",
+      "user": "nickvallana",
+      "labels": [
+        "Community"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T09:33:24Z",
-  "total_count": 4928
+  "last_updated": "2025-12-16T10:03:07Z",
+  "total_count": 4931
 }
