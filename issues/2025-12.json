@@ -23503,5 +23503,129 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3736236122,
+    "number": 24171,
+    "title": "BUG: sparse.linalg.spilu does not drop entries less than tolerance",
+    "url": "https://github.com/scipy/scipy/issues/24171",
+    "created_at": "2025-12-16T20:33:55Z",
+    "user": "broesler",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3736247057,
+    "number": 20376,
+    "title": "[Feature Request]: Support Chat Messages in ChatPromptHelper Class",
+    "url": "https://github.com/run-llama/llama_index/issues/20376",
+    "created_at": "2025-12-16T20:38:15Z",
+    "user": "bschloss",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3736274408,
+    "number": 22013,
+    "title": "Rule idea: flag literal attributes in monkeypatching/mocking APIs",
+    "url": "https://github.com/astral-sh/ruff/issues/22013",
+    "created_at": "2025-12-16T20:49:00Z",
+    "user": "woodruffw",
+    "labels": [
+      "rule"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "id": 3736278593,
+    "number": 14757,
+    "title": "Publish npm packages in CI with trusted provders",
+    "url": "https://github.com/bokeh/bokeh/issues/14757",
+    "created_at": "2025-12-16T20:50:26Z",
+    "user": "mattpap",
+    "labels": [
+      "type: task",
+      "tag: component: build"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3736302315,
+    "number": 7729,
+    "title": "[BUG] `UlyssesSPAttentionHF.register_with_transformers()` crashes with PEFT models due to overly strict `isinstance(model, PreTrainedModel)` check",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7729",
+    "created_at": "2025-12-16T20:58:37Z",
+    "user": "akshatvishu",
+    "labels": [
+      "bug",
+      "training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3736316753,
+    "number": 12570,
+    "title": "404 Bad Request using Hugging Face Spaces API",
+    "url": "https://github.com/gradio-app/gradio/issues/12570",
+    "created_at": "2025-12-16T21:04:25Z",
+    "user": "niutech",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3736333264,
+    "number": 59482,
+    "title": "[Data] Improve appearance of `repr(dataset)`",
+    "url": "https://github.com/ray-project/ray/issues/59482",
+    "created_at": "2025-12-16T21:11:15Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3736350036,
+    "number": 63388,
+    "title": "API: copy np.ndarray inputs to Index subclass constructors by default",
+    "url": "https://github.com/pandas-dev/pandas/issues/63388",
+    "created_at": "2025-12-16T21:17:41Z",
+    "user": "mroeschke",
+    "labels": [
+      "API Design",
+      "Index",
+      "Copy / view semantics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
