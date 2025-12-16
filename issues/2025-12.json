@@ -23115,5 +23115,125 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3735526881,
+    "number": 170570,
+    "title": "vLLM compile/fullgraph/test_full_graph.py::test_custom_compile_config[compilation_config5-facebook/opt-125m-model_kwargs5] failing PyTorch 2.10",
+    "url": "https://github.com/pytorch/pytorch/issues/170570",
+    "created_at": "2025-12-16T16:37:15Z",
+    "user": "zou3519",
+    "labels": [
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3735531616,
+    "number": 30798,
+    "title": "[Usage]:  vllm offline server lora model",
+    "url": "https://github.com/vllm-project/vllm/issues/30798",
+    "created_at": "2025-12-16T16:38:49Z",
+    "user": "zapqqqwe",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3735531890,
+    "number": 30445,
+    "title": "TYP: [2.4.0rc1 regression] `np.generic` no longer `Hashable`",
+    "url": "https://github.com/numpy/numpy/issues/30445",
+    "created_at": "2025-12-16T16:38:55Z",
+    "user": "inducer",
+    "labels": [
+      "41 - Static typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3735562072,
+    "number": 11879,
+    "title": "Variables not in any trees have positive gain/cover/weight",
+    "url": "https://github.com/dmlc/xgboost/issues/11879",
+    "created_at": "2025-12-16T16:47:37Z",
+    "user": "jhaneyrf",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3735597910,
+    "number": 30801,
+    "title": "[Bug]: distilbert/distilgpt2 with graph_mode on ROCm platform generates garbage output",
+    "url": "https://github.com/vllm-project/vllm/issues/30801",
+    "created_at": "2025-12-16T16:59:28Z",
+    "user": "qli88",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3735621347,
+    "number": 170573,
+    "title": "Silent Heap Buffer Overflow in standard ops (add, pinv) via implicit view resizing",
+    "url": "https://github.com/pytorch/pytorch/issues/170573",
+    "created_at": "2025-12-16T17:06:53Z",
+    "user": "jiren-the-gray",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3735633372,
+    "number": 13387,
+    "title": "st.spinner(show_time=True) timer text is visually misaligned and uses inconsistent font styling vs spinner label/icon",
+    "url": "https://github.com/streamlit/streamlit/issues/13387",
+    "created_at": "2025-12-16T17:10:52Z",
+    "user": "Panosero",
+    "labels": [
+      "type:bug",
+      "type:regression",
+      "area:styling",
+      "status:confirmed",
+      "priority:P2",
+      "feature:st.spinner"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3735644383,
+    "number": 30868,
+    "title": "[Bug]: Axe3D text() method does not allow zdir=numpy.array(...)",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30868",
+    "created_at": "2025-12-16T17:14:37Z",
+    "user": "pkienzle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
