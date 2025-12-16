@@ -1390,6 +1390,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2811602739,
+      "number": 145702,
+      "title": "PyTorch VS2022 official build Windows binary illegal instruction on AVX2(max ISA level) CPU",
+      "url": "https://github.com/pytorch/pytorch/issues/145702",
+      "created_at": "2025-01-26T14:50:39Z",
+      "user": "xuhancn",
+      "labels": [
+        "module: crash",
+        "module: build",
+        "module: windows",
+        "module: cpu",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/text",
       "id": 2811622945,
       "number": 2280,
@@ -23050,6 +23069,23 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3427259281,
+      "number": 56624,
+      "title": "[Data] Support fallback to ArrowPythonObjectType in Pandas > Arrow conversions as well",
+      "url": "https://github.com/ray-project/ray/issues/56624",
+      "created_at": "2025-09-17T17:55:39Z",
+      "user": "alexeykudinkin",
+      "labels": [
+        "enhancement",
+        "triage",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3427323569,
       "number": 21676,
@@ -23316,6 +23352,23 @@
       "user": "ashpakshaikh26732",
       "labels": [
         "type:feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3432416749,
+      "number": 14704,
+      "title": "[Bug]: `tool_choice` rejected when calling Azure GPT-5 models",
+      "url": "https://github.com/BerriAI/litellm/issues/14704",
+      "created_at": "2025-09-19T01:56:39Z",
+      "user": "kuldeepjain",
+      "labels": [
+        "bug",
+        "mlops user request",
+        "llm translation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -25900,6 +25953,21 @@
       "url": "https://github.com/openai/openai-python/issues/2677",
       "created_at": "2025-10-04T00:31:37Z",
       "user": "fsrocha-filipe",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3483266480,
+      "number": 26211,
+      "title": "[Bug]: vLLM does not support DeepSeek series on RTX PRO 6000/SM120",
+      "url": "https://github.com/vllm-project/vllm/issues/26211",
+      "created_at": "2025-10-04T05:52:15Z",
+      "user": "yuanyuan19",
       "labels": [
         "bug"
       ],
@@ -73685,8 +73753,84 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3733151070,
+      "number": 4699,
+      "title": "Do not add GOLDConfig/GOLDTrainer into __init__.py",
+      "url": "https://github.com/huggingface/trl/issues/4699",
+      "created_at": "2025-12-16T04:47:03Z",
+      "user": "141forever",
+      "labels": [
+        "🐛 bug",
+        "⏳ needs more info",
+        "🏋 GOLD"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3733199277,
+      "number": 30440,
+      "title": "Possible deprecations to finalize",
+      "url": "https://github.com/numpy/numpy/issues/30440",
+      "created_at": "2025-12-16T05:04:52Z",
+      "user": "charris",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3733204441,
+      "number": 30441,
+      "title": "BUG: MaskedRecords.view(): Missing dtype reset when dtype is ndarray subclass",
+      "url": "https://github.com/numpy/numpy/issues/30441",
+      "created_at": "2025-12-16T05:06:37Z",
+      "user": "stratakis",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3733235547,
+      "number": 5276,
+      "title": "Investigate and propose solution to performance bottleneck in KedroSession",
+      "url": "https://github.com/kedro-org/kedro/issues/5276",
+      "created_at": "2025-12-16T05:19:54Z",
+      "user": "lrcouto",
+      "labels": [
+        "Issue: Feature Request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "apache/arrow",
+      "id": 3733237980,
+      "number": 48551,
+      "title": "[Ruby] Add support for reading large UTF-8 array",
+      "url": "https://github.com/apache/arrow/issues/48551",
+      "created_at": "2025-12-16T05:21:00Z",
+      "user": "kou",
+      "labels": [
+        "Type: enhancement",
+        "Component: Ruby"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T04:41:07Z",
-  "total_count": 4870
+  "last_updated": "2025-12-16T05:29:51Z",
+  "total_count": 4879
 }

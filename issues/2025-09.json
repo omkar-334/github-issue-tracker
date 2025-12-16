@@ -4920,6 +4920,23 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3427259281,
+    "number": 56624,
+    "title": "[Data] Support fallback to ArrowPythonObjectType in Pandas > Arrow conversions as well",
+    "url": "https://github.com/ray-project/ray/issues/56624",
+    "created_at": "2025-09-17T17:55:39Z",
+    "user": "alexeykudinkin",
+    "labels": [
+      "enhancement",
+      "triage",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3427323569,
     "number": 21676,
@@ -5186,6 +5203,23 @@
     "user": "ashpakshaikh26732",
     "labels": [
       "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3432416749,
+    "number": 14704,
+    "title": "[Bug]: `tool_choice` rejected when calling Azure GPT-5 models",
+    "url": "https://github.com/BerriAI/litellm/issues/14704",
+    "created_at": "2025-09-19T01:56:39Z",
+    "user": "kuldeepjain",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "llm translation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -21534,5 +21534,81 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3733151070,
+    "number": 4699,
+    "title": "Do not add GOLDConfig/GOLDTrainer into __init__.py",
+    "url": "https://github.com/huggingface/trl/issues/4699",
+    "created_at": "2025-12-16T04:47:03Z",
+    "user": "141forever",
+    "labels": [
+      "🐛 bug",
+      "⏳ needs more info",
+      "🏋 GOLD"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3733199277,
+    "number": 30440,
+    "title": "Possible deprecations to finalize",
+    "url": "https://github.com/numpy/numpy/issues/30440",
+    "created_at": "2025-12-16T05:04:52Z",
+    "user": "charris",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3733204441,
+    "number": 30441,
+    "title": "BUG: MaskedRecords.view(): Missing dtype reset when dtype is ndarray subclass",
+    "url": "https://github.com/numpy/numpy/issues/30441",
+    "created_at": "2025-12-16T05:06:37Z",
+    "user": "stratakis",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3733235547,
+    "number": 5276,
+    "title": "Investigate and propose solution to performance bottleneck in KedroSession",
+    "url": "https://github.com/kedro-org/kedro/issues/5276",
+    "created_at": "2025-12-16T05:19:54Z",
+    "user": "lrcouto",
+    "labels": [
+      "Issue: Feature Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "apache/arrow",
+    "id": 3733237980,
+    "number": 48551,
+    "title": "[Ruby] Add support for reading large UTF-8 array",
+    "url": "https://github.com/apache/arrow/issues/48551",
+    "created_at": "2025-12-16T05:21:00Z",
+    "user": "kou",
+    "labels": [
+      "Type: enhancement",
+      "Component: Ruby"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
