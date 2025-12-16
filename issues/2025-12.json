@@ -22263,5 +22263,83 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3734093865,
+    "number": 25783,
+    "title": "Rust tail() documentation typo",
+    "url": "https://github.com/pola-rs/polars/issues/25783",
+    "created_at": "2025-12-16T10:06:07Z",
+    "user": "m1guelperez",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3734106635,
+    "number": 34382,
+    "title": "Model calls inside middleware are leaking when streaming",
+    "url": "https://github.com/langchain-ai/langchain/issues/34382",
+    "created_at": "2025-12-16T10:09:34Z",
+    "user": "Allaoua9",
+    "labels": [
+      "bug",
+      "core",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3734111213,
+    "number": 170542,
+    "title": "BuildExtension(no_python_abi_suffix=True).get_ext_filename result is incorrect when ABI part is not present in the filename.",
+    "url": "https://github.com/pytorch/pytorch/issues/170542",
+    "created_at": "2025-12-16T10:10:49Z",
+    "user": "pearu",
+    "labels": [
+      "module: cpp-extensions",
+      "topic: bug fixes"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3734147568,
+    "number": 8000,
+    "title": "Tests: Strange flakiness in TestMarginalVsLatent GP test on Windows",
+    "url": "https://github.com/pymc-devs/pymc/issues/8000",
+    "created_at": "2025-12-16T10:21:02Z",
+    "user": "maresb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3734174026,
+    "number": 63377,
+    "title": "DOC: the default value of `duplicates` in `cut` should be `\"raise\"`",
+    "url": "https://github.com/pandas-dev/pandas/issues/63377",
+    "created_at": "2025-12-16T10:28:33Z",
+    "user": "cmp0xff",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

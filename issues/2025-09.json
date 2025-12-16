@@ -1432,6 +1432,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3386651068,
+    "number": 56271,
+    "title": "[RLLib] 'evaluation_parallel_to_training' does not work properly in new API stack",
+    "url": "https://github.com/ray-project/ray/issues/56271",
+    "created_at": "2025-09-05T08:01:23Z",
+    "user": "jbedorf",
+    "labels": [
+      "bug",
+      "P1",
+      "rllib",
+      "performance",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3386867328,
     "number": 14282,

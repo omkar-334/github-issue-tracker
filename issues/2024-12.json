@@ -429,6 +429,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2744034045,
+    "number": 143373,
+    "title": "DISABLED test_disable_external_correlation (__main__.TestProfiler)",
+    "url": "https://github.com/pytorch/pytorch/issues/143373",
+    "created_at": "2024-12-17T06:20:08Z",
+    "user": "huydhn",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/stanza",
     "id": 2748894266,
     "number": 1440,
