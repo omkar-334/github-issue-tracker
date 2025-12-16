@@ -24493,6 +24493,19 @@
       "archived": false
     },
     {
+      "repo": "Dao-AILab/flash-attention",
+      "id": 3455493547,
+      "number": 1910,
+      "title": "B200 CuTE: \"free(): invalid pointer\" encountered on unrelated Conv2d operation far downstream of flash_attn_varlen_func()",
+      "url": "https://github.com/Dao-AILab/flash-attention/issues/1910",
+      "created_at": "2025-09-26T01:39:03Z",
+      "user": "Birch-san",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchrec",
       "id": 3455646265,
       "number": 3395,
@@ -55929,6 +55942,21 @@
       "archived": false
     },
     {
+      "repo": "psf/black",
+      "id": 3690365900,
+      "number": 4880,
+      "title": "Failure upon two ignores for type checkers",
+      "url": "https://github.com/psf/black/issues/4880",
+      "created_at": "2025-12-03T13:57:57Z",
+      "user": "cmp0xff",
+      "labels": [
+        "T: bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3690457056,
       "number": 17421,
@@ -66800,6 +66828,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3719305974,
+      "number": 30487,
+      "title": "[Bug] [CPU Backend]: Wrong L2 cache size on Arm CPU for Attention tiles",
+      "url": "https://github.com/vllm-project/vllm/issues/30487",
+      "created_at": "2025-12-11T12:58:33Z",
+      "user": "Radu2k",
+      "labels": [
+        "bug",
+        "cpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3719315083,
       "number": 170183,
@@ -73911,8 +73955,109 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "Dao-AILab/flash-attention",
+      "id": 3733436209,
+      "number": 2075,
+      "title": "sparse mode of FA4 have some loss in the acceleration effect",
+      "url": "https://github.com/Dao-AILab/flash-attention/issues/2075",
+      "created_at": "2025-12-16T06:45:32Z",
+      "user": "zzyplaybasketball",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3733450495,
+      "number": 170520,
+      "title": "aten._fused_dropout lacks guard for p=0, causing division-by-zero",
+      "url": "https://github.com/pytorch/pytorch/issues/170520",
+      "created_at": "2025-12-16T06:50:43Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733458059,
+      "number": 30750,
+      "title": "[Bug]: assert part_size_n % scales.nelement() == 0 (Marlin FP8 Kernel)",
+      "url": "https://github.com/vllm-project/vllm/issues/30750",
+      "created_at": "2025-12-16T06:53:54Z",
+      "user": "milizhang",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3733505283,
+      "number": 30752,
+      "title": "[Bug]: ` leaked shared_memory objects to clean up at shutdown` cause offline mode start failed.",
+      "url": "https://github.com/vllm-project/vllm/issues/30752",
+      "created_at": "2025-12-16T07:11:29Z",
+      "user": "xsank",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3733523219,
+      "number": 9001,
+      "title": "Why view op set can_reorder=True",
+      "url": "https://github.com/triton-lang/triton/issues/9001",
+      "created_at": "2025-12-16T07:18:00Z",
+      "user": "wxue1",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3733525445,
+      "number": 170524,
+      "title": "RuntimeError occurred when I train “Resnet”",
+      "url": "https://github.com/pytorch/pytorch/issues/170524",
+      "created_at": "2025-12-16T07:18:53Z",
+      "user": "niebowen666",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3733548158,
+      "number": 18039,
+      "title": "[Bug]: Litellm proxy incorrectly handles `extra_body` parameter for OpenAI client",
+      "url": "https://github.com/BerriAI/litellm/issues/18039",
+      "created_at": "2025-12-16T07:25:45Z",
+      "user": "Jac0bsad",
+      "labels": [
+        "bug",
+        "proxy",
+        "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T06:42:39Z",
-  "total_count": 4884
+  "last_updated": "2025-12-16T07:29:41Z",
+  "total_count": 4894
 }
