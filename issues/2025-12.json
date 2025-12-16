@@ -647,6 +647,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3681084525,
+    "number": 29781,
+    "title": "[Bug]: Wrong / Repetitive Generation Under High Concurrency When Using LMCache CPU Offload",
+    "url": "https://github.com/vllm-project/vllm/issues/29781",
+    "created_at": "2025-12-01T13:43:33Z",
+    "user": "quanliu1991",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/accelerate",
     "id": 3681125646,
     "number": 3867,
@@ -22470,6 +22485,154 @@
       "bug",
       "dependencies",
       "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3734382187,
+    "number": 34383,
+    "title": "[feature request] add 'role' field to BaseMessage to implement RBAC reasoning in LLM",
+    "url": "https://github.com/langchain-ai/langchain/issues/34383",
+    "created_at": "2025-12-16T11:26:47Z",
+    "user": "mmastrorilli",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3734408824,
+    "number": 42898,
+    "title": "`clean_up_tokenization_spaces` behavior changes in v5",
+    "url": "https://github.com/huggingface/transformers/issues/42898",
+    "created_at": "2025-12-16T11:34:46Z",
+    "user": "apaniukov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3734481596,
+    "number": 32908,
+    "title": "Call to estimator.score() in RANSAC even if the produced input data set is too small - fix proposed",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32908",
+    "created_at": "2025-12-16T11:57:43Z",
+    "user": "gweberbv-beep",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3734576769,
+    "number": 2785,
+    "title": "GPT 5.1 Mini wrongly listed in model list",
+    "url": "https://github.com/openai/openai-python/issues/2785",
+    "created_at": "2025-12-16T12:26:11Z",
+    "user": "LoGic142",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3734587278,
+    "number": 1530,
+    "title": "Documentation and Release Inconsistencies",
+    "url": "https://github.com/openml/openml-python/issues/1530",
+    "created_at": "2025-12-16T12:29:22Z",
+    "user": "jgyasu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3734590734,
+    "number": 30776,
+    "title": "[Usage]: Qwen3-omni's offline usage",
+    "url": "https://github.com/vllm-project/vllm/issues/30776",
+    "created_at": "2025-12-16T12:30:18Z",
+    "user": "Auraithm",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3734591349,
+    "number": 32910,
+    "title": "bug: Nested Pipeline is not fitted (sklearn 1.8)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32910",
+    "created_at": "2025-12-16T12:30:24Z",
+    "user": "auguste-probabl",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3734628220,
+    "number": 30777,
+    "title": "[Bug]: whisper-large-v3-turbo have accuracy problem on nightly build",
+    "url": "https://github.com/vllm-project/vllm/issues/30777",
+    "created_at": "2025-12-16T12:40:14Z",
+    "user": "cyysky",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3734648644,
+    "number": 42902,
+    "title": "Improve GPT OSS Conversion Script",
+    "url": "https://github.com/huggingface/transformers/issues/42902",
+    "created_at": "2025-12-16T12:46:20Z",
+    "user": "KyleMylonakisProtopia",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3734653111,
+    "number": 24165,
+    "title": "DOC: Mention that the Generalized Normal Distribution is also known as the generalized error distribution",
+    "url": "https://github.com/scipy/scipy/issues/24165",
+    "created_at": "2025-12-16T12:47:30Z",
+    "user": "Beliavsky",
+    "labels": [
+      "Documentation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

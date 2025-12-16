@@ -3199,6 +3199,19 @@
     "archived": false
   },
   {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3604975086,
+    "number": 7683,
+    "title": "compile error / linear_kernels_cuda.cu(127)",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7683",
+    "created_at": "2025-11-09T13:19:40Z",
+    "user": "mikinko",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3605098027,
     "number": 2008,
@@ -10457,6 +10470,23 @@
     "title": "Test: TestExportOnFakeCuda.test_fake_export",
     "url": "https://github.com/pytorch/pytorch/issues/168551",
     "created_at": "2025-11-22T01:02:31Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653544329,
+    "number": 168552,
+    "title": "Test: TestExportOnFakeCuda.test_preserve_original_behavior",
+    "url": "https://github.com/pytorch/pytorch/issues/168552",
+    "created_at": "2025-11-22T01:02:33Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
