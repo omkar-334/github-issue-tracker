@@ -1055,6 +1055,22 @@
       "archived": false
     },
     {
+      "repo": "apache/arrow",
+      "id": 2797967115,
+      "number": 45303,
+      "title": "[C++] Refactor bundled dependencies from ExternalProject to FetchContent",
+      "url": "https://github.com/apache/arrow/issues/45303",
+      "created_at": "2025-01-20T01:24:40Z",
+      "user": "amoeba",
+      "labels": [
+        "Type: enhancement",
+        "Component: C++"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 2799867071,
       "number": 3236,
@@ -1718,6 +1734,22 @@
       "labels": [
         "type:feature",
         "team-created"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2829931948,
+      "number": 8240,
+      "title": "[Bug]: NoneType object is not iterable",
+      "url": "https://github.com/BerriAI/litellm/issues/8240",
+      "created_at": "2025-02-04T11:34:56Z",
+      "user": "Mte90",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -2451,6 +2483,24 @@
       "created_at": "2025-02-24T12:59:27Z",
       "user": "abxxvrv",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2876279499,
+      "number": 8772,
+      "title": "[Bug]: NotFoundError (404) with Custom API Base for Gemini",
+      "url": "https://github.com/BerriAI/litellm/issues/8772",
+      "created_at": "2025-02-24T22:13:08Z",
+      "user": "n1majne3",
+      "labels": [
+        "bug",
+        "blocked",
+        "important",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -3761,6 +3811,21 @@
       "user": "Simone99",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 2950855072,
+      "number": 9564,
+      "title": "gemini 2.5 pro Error parsing chunk",
+      "url": "https://github.com/BerriAI/litellm/issues/9564",
+      "created_at": "2025-03-26T21:50:34Z",
+      "user": "qymab",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -16149,6 +16214,21 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3328165182,
+      "number": 13689,
+      "title": "I cannot open \"LiteLLM Admin Panel on /ui\"",
+      "url": "https://github.com/BerriAI/litellm/issues/13689",
+      "created_at": "2025-08-17T09:33:31Z",
+      "user": "supertoonz",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3328747051,
       "number": 3077,
@@ -18214,6 +18294,23 @@
       "labels": [
         "bug",
         "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3376866989,
+      "number": 14181,
+      "title": "[Bug]: Langfuse Error [Updated]",
+      "url": "https://github.com/BerriAI/litellm/issues/14181",
+      "created_at": "2025-09-02T17:12:30Z",
+      "user": "superpoussin22",
+      "labels": [
+        "bug",
+        "mlops user request",
         "stale"
       ],
       "has_linked_pr": false,
@@ -21967,6 +22064,23 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3419873310,
+      "number": 14595,
+      "title": "[Bug]: Wildcard model_list with google/* (and openrouter) produces errors",
+      "url": "https://github.com/BerriAI/litellm/issues/14595",
+      "created_at": "2025-09-16T00:05:03Z",
+      "user": "get-loose",
+      "labels": [
+        "bug",
+        "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3420496297,
       "number": 2634,
@@ -21991,6 +22105,22 @@
         "backend: pdf",
         "topic: text/fonts",
         "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3421912543,
+      "number": 14607,
+      "title": "[Bug]: Can't set virtual key budget on self hosted, can EDIT",
+      "url": "https://github.com/BerriAI/litellm/issues/14607",
+      "created_at": "2025-09-16T11:44:32Z",
+      "user": "eliorc",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -22095,6 +22225,22 @@
       "archived": false
     },
     {
+      "repo": "BerriAI/litellm",
+      "id": 3423202230,
+      "number": 14612,
+      "title": "[Bug]:  Toolcall results with role as \"tool\" are not guardrailed",
+      "url": "https://github.com/BerriAI/litellm/issues/14612",
+      "created_at": "2025-09-16T17:48:37Z",
+      "user": "metalshanked",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/ao",
       "id": 3423332808,
       "number": 3013,
@@ -22149,6 +22295,19 @@
         "investigate",
         "openai"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "evidentlyai/evidently",
+      "id": 3423885491,
+      "number": 1714,
+      "title": "Data Definition Object Useless or Not Working",
+      "url": "https://github.com/evidentlyai/evidently/issues/1714",
+      "created_at": "2025-09-16T22:06:29Z",
+      "user": "yiannimercer",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -37996,6 +38155,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3620514582,
+      "number": 28635,
+      "title": "[Bug]: Streaming=True causes missing or scrambled tokens with GPT-OSS 120B on vLLM v0.11.0",
+      "url": "https://github.com/vllm-project/vllm/issues/28635",
+      "created_at": "2025-11-13T10:13:47Z",
+      "user": "cxz1418",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3620562719,
       "number": 1056,
@@ -38560,6 +38734,24 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3624558443,
+      "number": 22684,
+      "title": "Android tflite 兼容性测试",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22684",
+      "created_at": "2025-11-14T08:30:00Z",
+      "user": "LYS86",
+      "labels": [
+        "bug",
+        "Stale",
+        "embedded",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3624618147,
       "number": 3587,
@@ -38698,6 +38890,22 @@
       "labels": [
         "bug",
         "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3625703763,
+      "number": 22688,
+      "title": "When will YOLO26 be released?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22688",
+      "created_at": "2025-11-14T13:48:33Z",
+      "user": "NLeRWantFly",
+      "labels": [
+        "question",
+        "Stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -38953,6 +39161,23 @@
       "labels": [
         "Enhancement",
         "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3627617032,
+      "number": 22692,
+      "title": "Error when applying weighted sampling (class balancing) in YOLO Classification",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22692",
+      "created_at": "2025-11-15T00:23:29Z",
+      "user": "guiaugustoga987",
+      "labels": [
+        "question",
+        "Stale",
+        "classify"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -54944,6 +55169,21 @@
       "created_at": "2025-12-03T15:38:23Z",
       "user": "ben-da6",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3690778882,
+      "number": 25602,
+      "title": "`register_expr_namespace` should work with intellisense",
+      "url": "https://github.com/pola-rs/polars/issues/25602",
+      "created_at": "2025-12-03T15:44:25Z",
+      "user": "EtienneT",
+      "labels": [
+        "enhancement"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -72098,8 +72338,297 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "evidentlyai/evidently",
+      "id": 3732518029,
+      "number": 1765,
+      "title": "DataDefinition should restrict column processing, not just annotate it",
+      "url": "https://github.com/evidentlyai/evidently/issues/1765",
+      "created_at": "2025-12-15T23:32:41Z",
+      "user": "yiannimercer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3732539018,
+      "number": 30726,
+      "title": "[Feature]: Suggestion: make lazy_imports.py faster",
+      "url": "https://github.com/vllm-project/vllm/issues/30726",
+      "created_at": "2025-12-15T23:44:21Z",
+      "user": "zou3519",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3732541441,
+      "number": 30727,
+      "title": "[Performance] Optimization through caching the moe modular kernels",
+      "url": "https://github.com/vllm-project/vllm/issues/30727",
+      "created_at": "2025-12-15T23:45:38Z",
+      "user": "yewentao256",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732560348,
+      "number": 170484,
+      "title": "FlexAttention HOP backtrace weird",
+      "url": "https://github.com/pytorch/pytorch/issues/170484",
+      "created_at": "2025-12-15T23:57:55Z",
+      "user": "zou3519",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "module: flex attention"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3732565339,
+      "number": 19802,
+      "title": "task runs are no longer being persisted for distributed Prefect servers",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19802",
+      "created_at": "2025-12-16T00:00:24Z",
+      "user": "levzem",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3732576945,
+      "number": 18015,
+      "title": "[Feature]: Add monitor mode support to Lakera guardrails",
+      "url": "https://github.com/BerriAI/litellm/issues/18015",
+      "created_at": "2025-12-16T00:06:15Z",
+      "user": "eurogig",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "id": 3732584735,
+      "number": 18016,
+      "title": "[Feature]: Add missing post_call hook to Lakera guardrails",
+      "url": "https://github.com/BerriAI/litellm/issues/18016",
+      "created_at": "2025-12-16T00:11:03Z",
+      "user": "eurogig",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732596899,
+      "number": 170487,
+      "title": "Support `.requires_grad_(True)` in `torch.compile`",
+      "url": "https://github.com/pytorch/pytorch/issues/170487",
+      "created_at": "2025-12-16T00:18:48Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732604443,
+      "number": 170488,
+      "title": "vLLM Distributed Tests failing on PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170488",
+      "created_at": "2025-12-16T00:23:25Z",
+      "user": "zou3519",
+      "labels": [
+        "high priority",
+        "triage review",
+        "oncall: pt2",
+        "module: dynamo",
+        "vllm-compile",
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732607713,
+      "number": 170489,
+      "title": "vLLM Attention tests failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170489",
+      "created_at": "2025-12-16T00:25:23Z",
+      "user": "zou3519",
+      "labels": [
+        "module: regression",
+        "oncall: pt2",
+        "module: dynamo",
+        "vllm-compile",
+        "module: flex attention",
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732610604,
+      "number": 170490,
+      "title": "vLLM Batch Invariance tests failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170490",
+      "created_at": "2025-12-16T00:27:14Z",
+      "user": "zou3519",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732611843,
+      "number": 170492,
+      "title": "vLLM PyTorch Fullgraph Test and PyTorch Fullgraph Smoke Test failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170492",
+      "created_at": "2025-12-16T00:27:57Z",
+      "user": "zou3519",
+      "labels": [
+        "oncall: pt2",
+        "vllm-compile",
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732614313,
+      "number": 170494,
+      "title": "vLLM LoRA TP Test (Distributed) failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170494",
+      "created_at": "2025-12-16T00:29:19Z",
+      "user": "zou3519",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732617836,
+      "number": 170495,
+      "title": "vLLM Blackwell Fusion and Compile Tests failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170495",
+      "created_at": "2025-12-16T00:30:53Z",
+      "user": "zou3519",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pymc-devs/pymc",
+      "id": 3732622197,
+      "number": 7997,
+      "title": "BUG: CategoricalGibbsMetropolis doesn't respect the tune parameter",
+      "url": "https://github.com/pymc-devs/pymc/issues/7997",
+      "created_at": "2025-12-16T00:33:10Z",
+      "user": "Armavica",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3732627269,
+      "number": 170496,
+      "title": "torch.func.grad does not support FlashAttention autograd function",
+      "url": "https://github.com/pytorch/pytorch/issues/170496",
+      "created_at": "2025-12-16T00:36:12Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Dao-AILab/flash-attention",
+      "id": 3732635455,
+      "number": 2071,
+      "title": "`setup_context` method required for FA autograd Function for working with `torch.func.grad`",
+      "url": "https://github.com/Dao-AILab/flash-attention/issues/2071",
+      "created_at": "2025-12-16T00:40:30Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3732638089,
+      "number": 24163,
+      "title": "TST, CI: _lib/tests/test_import_cycles.py::test_public_modules_importable failure on Windows-ARM",
+      "url": "https://github.com/scipy/scipy/issues/24163",
+      "created_at": "2025-12-16T00:42:02Z",
+      "user": "tylerjereddy",
+      "labels": [
+        "maintenance",
+        "CI"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Dao-AILab/flash-attention",
+      "id": 3732732119,
+      "number": 2073,
+      "title": "RuntimeError when `out_` is specified in `_flash_attn_forward`",
+      "url": "https://github.com/Dao-AILab/flash-attention/issues/2073",
+      "created_at": "2025-12-16T01:33:08Z",
+      "user": "imoneoi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-15T23:27:00Z",
-  "total_count": 4771
+  "last_updated": "2025-12-16T02:01:53Z",
+  "total_count": 4805
 }

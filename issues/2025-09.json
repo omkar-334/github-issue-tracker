@@ -413,6 +413,23 @@
   },
   {
     "repo": "BerriAI/litellm",
+    "id": 3376866989,
+    "number": 14181,
+    "title": "[Bug]: Langfuse Error [Updated]",
+    "url": "https://github.com/BerriAI/litellm/issues/14181",
+    "created_at": "2025-09-02T17:12:30Z",
+    "user": "superpoussin22",
+    "labels": [
+      "bug",
+      "mlops user request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
     "id": 3377004925,
     "number": 14182,
     "title": "[Feature]: URLs for current page state on Usage",
@@ -4158,6 +4175,23 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3419873310,
+    "number": 14595,
+    "title": "[Bug]: Wildcard model_list with google/* (and openrouter) produces errors",
+    "url": "https://github.com/BerriAI/litellm/issues/14595",
+    "created_at": "2025-09-16T00:05:03Z",
+    "user": "get-loose",
+    "labels": [
+      "bug",
+      "llm translation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3420496297,
     "number": 2634,
@@ -4182,6 +4216,22 @@
       "backend: pdf",
       "topic: text/fonts",
       "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "id": 3421912543,
+    "number": 14607,
+    "title": "[Bug]: Can't set virtual key budget on self hosted, can EDIT",
+    "url": "https://github.com/BerriAI/litellm/issues/14607",
+    "created_at": "2025-09-16T11:44:32Z",
+    "user": "eliorc",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4286,6 +4336,22 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3423202230,
+    "number": 14612,
+    "title": "[Bug]:  Toolcall results with role as \"tool\" are not guardrailed",
+    "url": "https://github.com/BerriAI/litellm/issues/14612",
+    "created_at": "2025-09-16T17:48:37Z",
+    "user": "metalshanked",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3423332808,
     "number": 3013,
@@ -4340,6 +4406,19 @@
       "investigate",
       "openai"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "evidentlyai/evidently",
+    "id": 3423885491,
+    "number": 1714,
+    "title": "Data Definition Object Useless or Not Working",
+    "url": "https://github.com/evidentlyai/evidently/issues/1714",
+    "created_at": "2025-09-16T22:06:29Z",
+    "user": "yiannimercer",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

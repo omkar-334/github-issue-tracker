@@ -672,6 +672,22 @@
     "archived": false
   },
   {
+    "repo": "apache/arrow",
+    "id": 2797967115,
+    "number": 45303,
+    "title": "[C++] Refactor bundled dependencies from ExternalProject to FetchContent",
+    "url": "https://github.com/apache/arrow/issues/45303",
+    "created_at": "2025-01-20T01:24:40Z",
+    "user": "amoeba",
+    "labels": [
+      "Type: enhancement",
+      "Component: C++"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 2799867071,
     "number": 3236,

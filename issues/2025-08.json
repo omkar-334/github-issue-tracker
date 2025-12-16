@@ -1677,6 +1677,21 @@
     "archived": false
   },
   {
+    "repo": "BerriAI/litellm",
+    "id": 3328165182,
+    "number": 13689,
+    "title": "I cannot open \"LiteLLM Admin Panel on /ui\"",
+    "url": "https://github.com/BerriAI/litellm/issues/13689",
+    "created_at": "2025-08-17T09:33:31Z",
+    "user": "supertoonz",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3328747051,
     "number": 3077,
