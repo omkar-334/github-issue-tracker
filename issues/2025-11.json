@@ -5490,6 +5490,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3623711733,
+    "number": 28699,
+    "title": "[Bug]: benchmark_dataset is throwing a ‘list index out of range’ error.",
+    "url": "https://github.com/vllm-project/vllm/issues/28699",
+    "created_at": "2025-11-14T03:20:22Z",
+    "user": "suiyan538",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3623772327,
     "number": 4525,
@@ -7560,6 +7575,22 @@
     "user": "dudany",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3639074654,
+    "number": 28947,
+    "title": "[Tracking Issue][Performance]: Speculative decoding performance/QoL improvements",
+    "url": "https://github.com/vllm-project/vllm/issues/28947",
+    "created_at": "2025-11-18T16:43:47Z",
+    "user": "xinli-sw",
+    "labels": [
+      "performance",
+      "nvidia"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

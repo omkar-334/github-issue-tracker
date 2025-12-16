@@ -1,34 +1,45 @@
 [
   {
     "repo": "astral-sh/ruff",
-    "id": 1485624551,
-    "number": 1149,
-    "title": "Support baselines, i.e., ignore existing errors for incremental adoption",
-    "url": "https://github.com/astral-sh/ruff/issues/1149",
-    "created_at": "2022-12-08T23:59:35Z",
-    "user": "edgarrmondragon",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "core",
-      "suppression"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "ultralytics/ultralytics",
-    "id": 2559718508,
-    "number": 16602,
-    "title": "Ultralytics YOLO11 Launch 🚀",
-    "url": "https://github.com/ultralytics/ultralytics/issues/16602",
-    "created_at": "2024-10-01T16:32:40Z",
-    "user": "glenn-jocher",
+    "repo": "scipy/scipy",
+    "id": 2335297283,
+    "number": 20902,
+    "title": "BUG: special.lpmv(0,v,-1) returns incorrect value for non-integer v",
+    "url": "https://github.com/scipy/scipy/issues/20902",
+    "created_at": "2024-06-05T08:55:49Z",
+    "user": "oldgreymare",
     "labels": [
-      "documentation",
-      "enhancement",
-      "segment",
-      "detect",
-      "pose"
+      "defect",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 2591445186,
+    "number": 4232,
+    "title": "How can a Kedro Pipelines use UnityCatalog Tables",
+    "url": "https://github.com/kedro-org/kedro/issues/4232",
+    "created_at": "2024-10-16T10:40:21Z",
+    "user": "Indranill",
+    "labels": [
+      "Component: Documentation 📄"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

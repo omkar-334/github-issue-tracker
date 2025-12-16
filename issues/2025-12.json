@@ -22637,5 +22637,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3734693729,
+    "number": 1914,
+    "title": "Windows Link Error: esaxx-rs dependency forces Static CRT (/MT), breaking integration with onnx",
+    "url": "https://github.com/huggingface/tokenizers/issues/1914",
+    "created_at": "2025-12-16T12:59:21Z",
+    "user": "altunenes",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3734721978,
+    "number": 30778,
+    "title": "[RFC] DBO fallout tracking metrics",
+    "url": "https://github.com/vllm-project/vllm/issues/30778",
+    "created_at": "2025-12-16T13:07:32Z",
+    "user": "markmc",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3734737315,
+    "number": 30779,
+    "title": "[Bug]: v0.11.2 can not support Qwen2.5-Omni-",
+    "url": "https://github.com/vllm-project/vllm/issues/30779",
+    "created_at": "2025-12-16T13:11:38Z",
+    "user": "GoGo-UpUp",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

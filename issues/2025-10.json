@@ -2443,6 +2443,21 @@
     "archived": false
   },
   {
+    "repo": "pymc-devs/pymc",
+    "id": 3508444609,
+    "number": 7923,
+    "title": "DOC: pm.sample doesn't use ZarrTrace with numpyro, but docs don't say this",
+    "url": "https://github.com/pymc-devs/pymc/issues/7923",
+    "created_at": "2025-10-13T04:47:46Z",
+    "user": "brendan-m-murphy",
+    "labels": [
+      "docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3509051153,
     "number": 3442,

@@ -946,6 +946,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3137615613,
+    "number": 155720,
+    "title": "[rocm] HIP Graph capture raises segmentation fault on AMD GPU but CUDA Graph capture succeeds on Nvidia GPU",
+    "url": "https://github.com/pytorch/pytorch/issues/155720",
+    "created_at": "2025-06-11T17:32:50Z",
+    "user": "fxmarty-amd",
+    "labels": [
+      "module: rocm",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/tokenizers",
     "id": 3137788177,
     "number": 83,

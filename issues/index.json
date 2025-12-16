@@ -9276,6 +9276,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3137615613,
+      "number": 155720,
+      "title": "[rocm] HIP Graph capture raises segmentation fault on AMD GPU but CUDA Graph capture succeeds on Nvidia GPU",
+      "url": "https://github.com/pytorch/pytorch/issues/155720",
+      "created_at": "2025-06-11T17:32:50Z",
+      "user": "fxmarty-amd",
+      "labels": [
+        "module: rocm",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/tokenizers",
       "id": 3137788177,
       "number": 83,
@@ -27869,6 +27885,21 @@
       "archived": false
     },
     {
+      "repo": "pymc-devs/pymc",
+      "id": 3508444609,
+      "number": 7923,
+      "title": "DOC: pm.sample doesn't use ZarrTrace with numpyro, but docs don't say this",
+      "url": "https://github.com/pymc-devs/pymc/issues/7923",
+      "created_at": "2025-10-13T04:47:46Z",
+      "user": "brendan-m-murphy",
+      "labels": [
+        "docs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3509051153,
       "number": 3442,
@@ -39477,6 +39508,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3623711733,
+      "number": 28699,
+      "title": "[Bug]: benchmark_dataset is throwing a ‘list index out of range’ error.",
+      "url": "https://github.com/vllm-project/vllm/issues/28699",
+      "created_at": "2025-11-14T03:20:22Z",
+      "user": "suiyan538",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3623772327,
       "number": 4525,
@@ -41547,6 +41593,22 @@
       "user": "dudany",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3639074654,
+      "number": 28947,
+      "title": "[Tracking Issue][Performance]: Speculative decoding performance/QoL improvements",
+      "url": "https://github.com/vllm-project/vllm/issues/28947",
+      "created_at": "2025-11-18T16:43:47Z",
+      "user": "xinli-sw",
+      "labels": [
+        "performance",
+        "nvidia"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -75095,8 +75157,51 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/tokenizers",
+      "id": 3734693729,
+      "number": 1914,
+      "title": "Windows Link Error: esaxx-rs dependency forces Static CRT (/MT), breaking integration with onnx",
+      "url": "https://github.com/huggingface/tokenizers/issues/1914",
+      "created_at": "2025-12-16T12:59:21Z",
+      "user": "altunenes",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3734721978,
+      "number": 30778,
+      "title": "[RFC] DBO fallout tracking metrics",
+      "url": "https://github.com/vllm-project/vllm/issues/30778",
+      "created_at": "2025-12-16T13:07:32Z",
+      "user": "markmc",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3734737315,
+      "number": 30779,
+      "title": "[Bug]: v0.11.2 can not support Qwen2.5-Omni-",
+      "url": "https://github.com/vllm-project/vllm/issues/30779",
+      "created_at": "2025-12-16T13:11:38Z",
+      "user": "GoGo-UpUp",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T12:57:01Z",
-  "total_count": 4963
+  "last_updated": "2025-12-16T13:44:18Z",
+  "total_count": 4970
 }
