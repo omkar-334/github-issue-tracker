@@ -1,6 +1,4 @@
 3b1b/manim
-BerriAI/litellm
-Dao-AILab/flash-attention
 EleutherAI/gpt-neox
 EleutherAI/lm-evaluation-harness
 NVIDIA/apex
@@ -9,7 +7,6 @@ Nixtla/statsforecast
 aesara-devs/aesara
 albumentations-team/albumentations
 allenai/allennlp
-apache/arrow
 arviz-devs/arviz
 astral-sh/ruff
 axolotl-ai-cloud/axolotl
@@ -59,6 +56,7 @@ huggingface/text-generation-inference
 huggingface/tokenizers
 huggingface/transformers
 huggingface/trl
+hyperactive-project/Hyperactive
 igraph/python-igraph
 interpretml/interpret
 iterative/cml
