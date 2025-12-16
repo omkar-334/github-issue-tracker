@@ -1,28 +1,49 @@
 [
   {
-    "repo": "dmlc/xgboost",
-    "id": 1537299663,
-    "number": 8694,
-    "title": "[CI] Set up pre-commit hook to automatically check formatting ",
-    "url": "https://github.com/dmlc/xgboost/issues/8694",
-    "created_at": "2023-01-18T02:21:01Z",
-    "user": "hcho3",
-    "labels": [],
+    "repo": "dagster-io/dagster",
+    "id": 2173801005,
+    "number": 20325,
+    "title": "Dagster uses an implausible number of postgresql connections",
+    "url": "https://github.com/dagster-io/dagster/issues/20325",
+    "created_at": "2024-03-07T12:54:35Z",
+    "user": "chrishiste",
+    "labels": [
+      "type: bug",
+      "area: concurrency",
+      "area: storage"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 2241839184,
-    "number": 124018,
-    "title": "Fix OOMs during parallel builds",
-    "url": "https://github.com/pytorch/pytorch/issues/124018",
-    "created_at": "2024-04-14T00:39:19Z",
-    "user": "ruro",
+    "repo": "astral-sh/ruff",
+    "id": 2365233236,
+    "number": 11955,
+    "title": "ruff with `--diff` exits 0 on errors with no diffs",
+    "url": "https://github.com/astral-sh/ruff/issues/11955",
+    "created_at": "2024-06-20T20:42:19Z",
+    "user": "wyardley",
     "labels": [
-      "module: build",
-      "triaged"
+      "cli"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2630822097,
+    "number": 21798,
+    "title": "ENH/MAINT: interpolate: Use a standardised C++ (e.g. ``mdspan``) approach",
+    "url": "https://github.com/scipy/scipy/issues/21798",
+    "created_at": "2024-11-02T21:57:16Z",
+    "user": "Kai-Striega",
+    "labels": [
+      "enhancement",
+      "scipy.interpolate",
+      "maintenance",
+      "C/C++"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

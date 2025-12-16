@@ -7512,6 +7512,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3638299504,
+    "number": 19469,
+    "title": "mypy incorrectly reports \"unused-coroutine\" errors for @task decorated functions called from @flow",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19469",
+    "created_at": "2025-11-18T13:42:02Z",
+    "user": "benjamincerigo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3638465404,
     "number": 2053,
@@ -12115,6 +12130,19 @@
       "oncall: pt2",
       "module: pt2-dispatcher"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3659343121,
+    "number": 12456,
+    "title": "Improve tweets in landing page",
+    "url": "https://github.com/gradio-app/gradio/issues/12456",
+    "created_at": "2025-11-24T15:13:44Z",
+    "user": "freddyaboulton",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

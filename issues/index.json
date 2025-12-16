@@ -1682,6 +1682,23 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 2826203515,
+      "number": 60833,
+      "title": "BUG: `.str.contains()` regex lookbehind and lookahead fail for data type `string[pyarrow]`",
+      "url": "https://github.com/pandas-dev/pandas/issues/60833",
+      "created_at": "2025-02-03T01:55:20Z",
+      "user": "noahblakesmith",
+      "labels": [
+        "Bug",
+        "Strings",
+        "Arrow"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2828838320,
       "number": 2072,
@@ -30758,6 +30775,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3545203594,
+      "number": 41819,
+      "title": "IndexError: tuple index out of range when using Tensor Parallelism with FSDP2 on GPT-OSS 20B (tensor_parallel.py, line 510)",
+      "url": "https://github.com/huggingface/transformers/issues/41819",
+      "created_at": "2025-10-23T15:23:45Z",
+      "user": "JdRion",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/sktime",
       "id": 3545867528,
       "number": 8988,
@@ -41563,6 +41595,21 @@
       "archived": false
     },
     {
+      "repo": "prefecthq/prefect",
+      "id": 3638299504,
+      "number": 19469,
+      "title": "mypy incorrectly reports \"unused-coroutine\" errors for @task decorated functions called from @flow",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19469",
+      "created_at": "2025-11-18T13:42:02Z",
+      "user": "benjamincerigo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3638465404,
       "number": 2053,
@@ -46166,6 +46213,19 @@
         "oncall: pt2",
         "module: pt2-dispatcher"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3659343121,
+      "number": 12456,
+      "title": "Improve tweets in landing page",
+      "url": "https://github.com/gradio-app/gradio/issues/12456",
+      "created_at": "2025-11-24T15:13:44Z",
+      "user": "freddyaboulton",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -53273,6 +53333,22 @@
       "labels": [
         "bug",
         "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3681268291,
+      "number": 10168,
+      "title": "Remove support for deserialization of old `pipeline_outputs` from pipeline snapshot",
+      "url": "https://github.com/deepset-ai/haystack/issues/10168",
+      "created_at": "2025-12-01T14:27:47Z",
+      "user": "Amnah199",
+      "labels": [
+        "breaking change",
+        "P2"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -65587,6 +65663,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3715605928,
+      "number": 25726,
+      "title": "Add new method to",
+      "url": "https://github.com/pola-rs/polars/issues/25726",
+      "created_at": "2025-12-10T15:06:53Z",
+      "user": "krakotay",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3715642764,
       "number": 170073,
@@ -69048,6 +69139,19 @@
       "labels": [
         "bug"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3723591479,
+      "number": 170298,
+      "title": "`resize_` updates tensor shape metadata even when storage resize fails, creating corrupted \"Zombie\" tensors",
+      "url": "https://github.com/pytorch/pytorch/issues/170298",
+      "created_at": "2025-12-12T14:19:16Z",
+      "user": "jiren-the-gray",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -74899,6 +75003,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3734076795,
+      "number": 30766,
+      "title": "[Bug]: Qwen3-32B with MTP, run failed.",
+      "url": "https://github.com/vllm-project/vllm/issues/30766",
+      "created_at": "2025-12-16T10:01:43Z",
+      "user": "wbj1995",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pola-rs/polars",
       "id": 3734093865,
       "number": 25783,
@@ -75511,8 +75630,141 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3735319264,
+      "number": 10252,
+      "title": "`RegexTextExtractor` - set `return_empty_on_no_match` default value to `False`",
+      "url": "https://github.com/deepset-ai/haystack/issues/10252",
+      "created_at": "2025-12-16T15:37:51Z",
+      "user": "anakin87",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3735327517,
+      "number": 170562,
+      "title": "PadMMTest.test_original_aten_preserved_pad_mm fails",
+      "url": "https://github.com/pytorch/pytorch/issues/170562",
+      "created_at": "2025-12-16T15:40:21Z",
+      "user": "Flamefire",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3735331131,
+      "number": 170563,
+      "title": "vLLM v1/distributed/test_eagle_dp.py Tests failing on PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170563",
+      "created_at": "2025-12-16T15:41:23Z",
+      "user": "zou3519",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3735339156,
+      "number": 63385,
+      "title": "BUG: string replace results in invalid regular expression: invalid perl operator: (?<=",
+      "url": "https://github.com/pandas-dev/pandas/issues/63385",
+      "created_at": "2025-12-16T15:43:47Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "Strings",
+        "Arrow"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3735403094,
+      "number": 3496,
+      "title": "W4A16-INT (TinyGEMM+HQQ) is 6-13x slower than FP16 for batched inference (M>1)",
+      "url": "https://github.com/pytorch/ao/issues/3496",
+      "created_at": "2025-12-16T16:00:14Z",
+      "user": "namgyu-youn",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3735458602,
+      "number": 25786,
+      "title": "Support chunking/streaming in more cases in Expr.map_batches()",
+      "url": "https://github.com/pola-rs/polars/issues/25786",
+      "created_at": "2025-12-16T16:16:32Z",
+      "user": "itamarst",
+      "labels": [
+        "enhancement",
+        "A-streaming"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3735475105,
+      "number": 42907,
+      "title": "Failing to Save Dequantized Ministrals/Devstrals",
+      "url": "https://github.com/huggingface/transformers/issues/42907",
+      "created_at": "2025-12-16T16:21:17Z",
+      "user": "pandora-s-git",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dagster-io/dagster",
+      "id": 3735483103,
+      "number": 33059,
+      "title": "Partitioned job backfills fail without retries",
+      "url": "https://github.com/dagster-io/dagster/issues/33059",
+      "created_at": "2025-12-16T16:23:46Z",
+      "user": "adam-bloom",
+      "labels": [
+        "type: bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3735502242,
+      "number": 170568,
+      "title": "vLLM compile/fullgraph/test_multimodal_compile.py::test_qwen2_5_vl_compilation failing PyTorch 2.10",
+      "url": "https://github.com/pytorch/pytorch/issues/170568",
+      "created_at": "2025-12-16T16:29:35Z",
+      "user": "zou3519",
+      "labels": [
+        "oncall: pt2",
+        "vllm-compile",
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T15:31:42Z",
-  "total_count": 4990
+  "last_updated": "2025-12-16T16:37:57Z",
+  "total_count": 5007
 }
