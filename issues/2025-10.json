@@ -7184,6 +7184,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3563451980,
+    "number": 27691,
+    "title": "[RFC]: Tracking Spec Decode Support",
+    "url": "https://github.com/vllm-project/vllm/issues/27691",
+    "created_at": "2025-10-28T21:34:28Z",
+    "user": "MatthewBonanni",
+    "labels": [
+      "RFC",
+      "speculative-decoding"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3563820671,
     "number": 8988,

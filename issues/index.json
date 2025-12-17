@@ -33323,6 +33323,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3563451980,
+      "number": 27691,
+      "title": "[RFC]: Tracking Spec Decode Support",
+      "url": "https://github.com/vllm-project/vllm/issues/27691",
+      "created_at": "2025-10-28T21:34:28Z",
+      "user": "MatthewBonanni",
+      "labels": [
+        "RFC",
+        "speculative-decoding"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3563820671,
       "number": 8988,
@@ -80027,8 +80043,106 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3740587127,
+      "number": 63403,
+      "title": "DEP: Drop NumPy 1.26 support",
+      "url": "https://github.com/pandas-dev/pandas/issues/63403",
+      "created_at": "2025-12-17T21:33:19Z",
+      "user": "rhshadrach",
+      "labels": [
+        "Dependencies"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3740616841,
+      "number": 170707,
+      "title": "Update Rendezvous etcd backend to use etcd v3 API",
+      "url": "https://github.com/pytorch/pytorch/issues/170707",
+      "created_at": "2025-12-17T21:44:12Z",
+      "user": "siyuanfoundation",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3740628914,
+      "number": 30905,
+      "title": "[Bug]: vLLM 0.11.2 AutoTune Missed Import In TorchInductor w/ Compile Sizes > 1",
+      "url": "https://github.com/vllm-project/vllm/issues/30905",
+      "created_at": "2025-12-17T21:49:12Z",
+      "user": "rouchenzi",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3740637658,
+      "number": 59518,
+      "title": "[Data] Actor OOM kill mid-task causes pipeline hang due to missing task cleanup callback",
+      "url": "https://github.com/ray-project/ray/issues/59518",
+      "created_at": "2025-12-17T21:52:40Z",
+      "user": "xyuzh",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dagster-io/dagster",
+      "id": 3740642191,
+      "number": 33077,
+      "title": "local_path_for is buggy",
+      "url": "https://github.com/dagster-io/dagster/issues/33077",
+      "created_at": "2025-12-17T21:54:08Z",
+      "user": "laudiacay",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3740698365,
+      "number": 12586,
+      "title": "Support markdown for all docs and guides pages",
+      "url": "https://github.com/gradio-app/gradio/issues/12586",
+      "created_at": "2025-12-17T22:15:19Z",
+      "user": "aliabd",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3740703305,
+      "number": 12587,
+      "title": "Create an llms.txt map of the docs and guides",
+      "url": "https://github.com/gradio-app/gradio/issues/12587",
+      "created_at": "2025-12-17T22:18:00Z",
+      "user": "aliabd",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T21:28:37Z",
-  "total_count": 5284
+  "last_updated": "2025-12-17T22:27:14Z",
+  "total_count": 5292
 }
