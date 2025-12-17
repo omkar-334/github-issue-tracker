@@ -1,14 +1,45 @@
 [
   {
-    "repo": "pola-rs/polars",
-    "id": 1682374243,
-    "number": 8482,
-    "title": "Provide Expr.to_json()",
-    "url": "https://github.com/pola-rs/polars/issues/8482",
-    "created_at": "2023-04-25T03:39:34Z",
-    "user": "PaulRudin",
+    "repo": "astral-sh/ruff",
+    "id": 1638868796,
+    "number": 3711,
+    "title": "[feature request] Support ignore block of code with noqa",
+    "url": "https://github.com/astral-sh/ruff/issues/3711",
+    "created_at": "2023-03-24T07:25:40Z",
+    "user": "woile",
     "labels": [
-      "enhancement"
+      "suppression"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2094111919,
+    "number": 117974,
+    "title": "RuntimeError: derivative for aten::_scaled_dot_product_efficient_attention_backward is not implemented",
+    "url": "https://github.com/pytorch/pytorch/issues/117974",
+    "created_at": "2024-01-22T15:00:03Z",
+    "user": "LebinDing749",
+    "labels": [
+      "triaged",
+      "module: sdpa"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

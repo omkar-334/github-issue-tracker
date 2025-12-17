@@ -3736,6 +3736,24 @@
   },
   {
     "repo": "ray-project/ray",
+    "id": 3523205651,
+    "number": 57805,
+    "title": "[llm] Support PoolingParams (e.g. truncate_prompt_tokens) when using vLLMEngineProcessorConfig",
+    "url": "https://github.com/ray-project/ray/issues/57805",
+    "created_at": "2025-10-16T19:21:10Z",
+    "user": "praateekmahajan",
+    "labels": [
+      "enhancement",
+      "triage",
+      "data",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
     "id": 3523250121,
     "number": 57806,
     "title": "[data] Support expression for monotonically increasing id",
