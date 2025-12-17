@@ -2244,6 +2244,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2856742082,
+      "number": 13373,
+      "title": "[Feature]: Qwen2_5_VLForEmbedding",
+      "url": "https://github.com/vllm-project/vllm/issues/13373",
+      "created_at": "2025-02-17T04:47:09Z",
+      "user": "ArvinZhuang",
+      "labels": [
+        "feature request",
+        "unstale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2857536338,
       "number": 147317,
@@ -9597,6 +9613,23 @@
       "archived": false
     },
     {
+      "repo": "scikit-image/scikit-image",
+      "id": 3143222615,
+      "number": 7811,
+      "title": "Memory usage in `ski.feature.blob_(doh|log|dog)` scales badly without thresholds",
+      "url": "https://github.com/scikit-image/scikit-image/issues/7811",
+      "created_at": "2025-06-13T11:11:01Z",
+      "user": "lagru",
+      "labels": [
+        ":chart_with_upwards_trend: type: Performance",
+        ":sleeping: Dormant",
+        ":bug: Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3144054104,
       "number": 2825,
@@ -11994,6 +12027,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3215159460,
+      "number": 20671,
+      "title": "[Bug]: Whisper not working on 0.9.2 docker image",
+      "url": "https://github.com/vllm-project/vllm/issues/20671",
+      "created_at": "2025-07-09T09:16:41Z",
+      "user": "andrePankraz",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3215524706,
       "number": 854,
@@ -12110,6 +12159,23 @@
       "created_at": "2025-07-09T18:59:50Z",
       "user": "mobicham",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3217547079,
+      "number": 157989,
+      "title": "[XPU] torch.xpu.mem_get_info() query failed or reports Out-Of-Memory even when there are enough free memory",
+      "url": "https://github.com/pytorch/pytorch/issues/157989",
+      "created_at": "2025-07-10T01:07:04Z",
+      "user": "Stonepia",
+      "labels": [
+        "module: windows",
+        "triaged",
+        "module: xpu"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -14714,6 +14780,23 @@
       "labels": [
         "torchrec",
         "2.8"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3277608134,
+      "number": 21943,
+      "title": "[Feature] Skip modules for disabled modalities",
+      "url": "https://github.com/vllm-project/vllm/issues/21943",
+      "created_at": "2025-07-30T15:50:17Z",
+      "user": "DarkLight1337",
+      "labels": [
+        "good first issue",
+        "feature request",
+        "multi-modality"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -21285,6 +21368,24 @@
         "enhancement",
         "stale",
         "enterprise"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3403032177,
+      "number": 162606,
+      "title": "Tensorpipe - ROCm support",
+      "url": "https://github.com/pytorch/pytorch/issues/162606",
+      "created_at": "2025-09-10T16:03:52Z",
+      "user": "pruthvistony",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: tensorpipe",
+        "rocm"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29800,6 +29901,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3529337566,
+      "number": 27157,
+      "title": "[Bug]: Qwen3-VL-30B-A3B-Instruct keeps outputting the same phrases over and over",
+      "url": "https://github.com/vllm-project/vllm/issues/27157",
+      "created_at": "2025-10-18T23:27:10Z",
+      "user": "kozanryusui",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3529349346,
       "number": 7233,
@@ -31460,6 +31576,22 @@
       "created_at": "2025-10-24T18:50:19Z",
       "user": "sammlapp",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pydantic/pydantic",
+      "id": 3550659120,
+      "number": 12448,
+      "title": "Cannot serialise and deserialise a Flag enum.",
+      "url": "https://github.com/pydantic/pydantic/issues/12448",
+      "created_at": "2025-10-24T19:03:28Z",
+      "user": "davidorme",
+      "labels": [
+        "bug V2",
+        "pending"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -76970,8 +77102,126 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3737028995,
+      "number": 170635,
+      "title": "Use cvt.rp.satfinite.ue8m0x2.f32 PTX instruction in Inductor codegen for mxfp8 quantization",
+      "url": "https://github.com/pytorch/pytorch/issues/170635",
+      "created_at": "2025-12-17T02:03:40Z",
+      "user": "danielvegamyhre",
+      "labels": [
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/optimum",
+      "id": 3737028998,
+      "number": 2393,
+      "title": "`gemma3_text` support in NormalizedConfig",
+      "url": "https://github.com/huggingface/optimum/issues/2393",
+      "created_at": "2025-12-17T02:03:41Z",
+      "user": "lmmx",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3737064718,
+      "number": 170636,
+      "title": "[xpu] No XPU implementation of multiprocessing tensor reduction.",
+      "url": "https://github.com/pytorch/pytorch/issues/170636",
+      "created_at": "2025-12-17T02:20:22Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3737101565,
+      "number": 30830,
+      "title": "[Bug]: accuracy issue on MoE online fp8 quantization",
+      "url": "https://github.com/vllm-project/vllm/issues/30830",
+      "created_at": "2025-12-17T02:40:59Z",
+      "user": "yma11",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "plotly/plotly.py",
+      "id": 3737144873,
+      "number": 5453,
+      "title": "[FEATURE]: Add dynamic sorting of the tooltip legend ordering for hovermode='x unified' mode",
+      "url": "https://github.com/plotly/plotly.py/issues/5453",
+      "created_at": "2025-12-17T03:07:14Z",
+      "user": "steveshaoucsb",
+      "labels": [
+        "feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3737147449,
+      "number": 30832,
+      "title": "[Performance]: DeepSeek-V3.2 on 8xH20 30 decode tokens/sec",
+      "url": "https://github.com/vllm-project/vllm/issues/30832",
+      "created_at": "2025-12-17T03:08:52Z",
+      "user": "lisp2025",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/tutorials",
+      "id": 3737156972,
+      "number": 3703,
+      "title": "Feedback about Quickstart",
+      "url": "https://github.com/pytorch/tutorials/issues/3703",
+      "created_at": "2025-12-17T03:14:33Z",
+      "user": "Ramkumar47",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3737162071,
+      "number": 9022,
+      "title": "argmin argmax result always 1 for input nan and inf",
+      "url": "https://github.com/triton-lang/triton/issues/9022",
+      "created_at": "2025-12-17T03:16:49Z",
+      "user": "wxue1",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T01:57:49Z",
-  "total_count": 5085
+  "last_updated": "2025-12-17T03:26:41Z",
+  "total_count": 5101
 }

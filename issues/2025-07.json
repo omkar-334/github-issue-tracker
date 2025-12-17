@@ -967,6 +967,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3215159460,
+    "number": 20671,
+    "title": "[Bug]: Whisper not working on 0.9.2 docker image",
+    "url": "https://github.com/vllm-project/vllm/issues/20671",
+    "created_at": "2025-07-09T09:16:41Z",
+    "user": "andrePankraz",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3215524706,
     "number": 854,
@@ -1083,6 +1099,23 @@
     "created_at": "2025-07-09T18:59:50Z",
     "user": "mobicham",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3217547079,
+    "number": 157989,
+    "title": "[XPU] torch.xpu.mem_get_info() query failed or reports Out-Of-Memory even when there are enough free memory",
+    "url": "https://github.com/pytorch/pytorch/issues/157989",
+    "created_at": "2025-07-10T01:07:04Z",
+    "user": "Stonepia",
+    "labels": [
+      "module: windows",
+      "triaged",
+      "module: xpu"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -3687,6 +3720,23 @@
     "labels": [
       "torchrec",
       "2.8"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3277608134,
+    "number": 21943,
+    "title": "[Feature] Skip modules for disabled modalities",
+    "url": "https://github.com/vllm-project/vllm/issues/21943",
+    "created_at": "2025-07-30T15:50:17Z",
+    "user": "DarkLight1337",
+    "labels": [
+      "good first issue",
+      "feature request",
+      "multi-modality"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -1237,6 +1237,23 @@
     "archived": false
   },
   {
+    "repo": "scikit-image/scikit-image",
+    "id": 3143222615,
+    "number": 7811,
+    "title": "Memory usage in `ski.feature.blob_(doh|log|dog)` scales badly without thresholds",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7811",
+    "created_at": "2025-06-13T11:11:01Z",
+    "user": "lagru",
+    "labels": [
+      ":chart_with_upwards_trend: type: Performance",
+      ":sleeping: Dormant",
+      ":bug: Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3144054104,
     "number": 2825,

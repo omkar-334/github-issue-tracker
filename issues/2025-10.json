@@ -4188,6 +4188,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3529337566,
+    "number": 27157,
+    "title": "[Bug]: Qwen3-VL-30B-A3B-Instruct keeps outputting the same phrases over and over",
+    "url": "https://github.com/vllm-project/vllm/issues/27157",
+    "created_at": "2025-10-18T23:27:10Z",
+    "user": "kozanryusui",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3529349346,
     "number": 7233,
@@ -5848,6 +5863,22 @@
     "created_at": "2025-10-24T18:50:19Z",
     "user": "sammlapp",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 3550659120,
+    "number": 12448,
+    "title": "Cannot serialise and deserialise a Flag enum.",
+    "url": "https://github.com/pydantic/pydantic/issues/12448",
+    "created_at": "2025-10-24T19:03:28Z",
+    "user": "davidorme",
+    "labels": [
+      "bug V2",
+      "pending"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

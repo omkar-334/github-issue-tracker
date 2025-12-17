@@ -24052,5 +24052,123 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3737028995,
+    "number": 170635,
+    "title": "Use cvt.rp.satfinite.ue8m0x2.f32 PTX instruction in Inductor codegen for mxfp8 quantization",
+    "url": "https://github.com/pytorch/pytorch/issues/170635",
+    "created_at": "2025-12-17T02:03:40Z",
+    "user": "danielvegamyhre",
+    "labels": [
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 3737028998,
+    "number": 2393,
+    "title": "`gemma3_text` support in NormalizedConfig",
+    "url": "https://github.com/huggingface/optimum/issues/2393",
+    "created_at": "2025-12-17T02:03:41Z",
+    "user": "lmmx",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3737064718,
+    "number": 170636,
+    "title": "[xpu] No XPU implementation of multiprocessing tensor reduction.",
+    "url": "https://github.com/pytorch/pytorch/issues/170636",
+    "created_at": "2025-12-17T02:20:22Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737101565,
+    "number": 30830,
+    "title": "[Bug]: accuracy issue on MoE online fp8 quantization",
+    "url": "https://github.com/vllm-project/vllm/issues/30830",
+    "created_at": "2025-12-17T02:40:59Z",
+    "user": "yma11",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3737144873,
+    "number": 5453,
+    "title": "[FEATURE]: Add dynamic sorting of the tooltip legend ordering for hovermode='x unified' mode",
+    "url": "https://github.com/plotly/plotly.py/issues/5453",
+    "created_at": "2025-12-17T03:07:14Z",
+    "user": "steveshaoucsb",
+    "labels": [
+      "feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737147449,
+    "number": 30832,
+    "title": "[Performance]: DeepSeek-V3.2 on 8xH20 30 decode tokens/sec",
+    "url": "https://github.com/vllm-project/vllm/issues/30832",
+    "created_at": "2025-12-17T03:08:52Z",
+    "user": "lisp2025",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3737156972,
+    "number": 3703,
+    "title": "Feedback about Quickstart",
+    "url": "https://github.com/pytorch/tutorials/issues/3703",
+    "created_at": "2025-12-17T03:14:33Z",
+    "user": "Ramkumar47",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3737162071,
+    "number": 9022,
+    "title": "argmin argmax result always 1 for input nan and inf",
+    "url": "https://github.com/triton-lang/triton/issues/9022",
+    "created_at": "2025-12-17T03:16:49Z",
+    "user": "wxue1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

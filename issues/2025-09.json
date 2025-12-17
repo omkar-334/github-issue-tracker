@@ -2920,6 +2920,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3403032177,
+    "number": 162606,
+    "title": "Tensorpipe - ROCm support",
+    "url": "https://github.com/pytorch/pytorch/issues/162606",
+    "created_at": "2025-09-10T16:03:52Z",
+    "user": "pruthvistony",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: tensorpipe",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3403559348,
     "number": 3149,
