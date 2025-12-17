@@ -9965,6 +9965,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3154912670,
+      "number": 31647,
+      "title": "Add Perplexity cost tracking",
+      "url": "https://github.com/langchain-ai/langchain/issues/31647",
+      "created_at": "2025-04-14T09:42:15Z",
+      "user": "vaibhav-artisan",
+      "labels": [
+        "help wanted",
+        "investigate",
+        "integration",
+        "perplexity"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 3156986853,
       "number": 2358,
@@ -15567,6 +15585,22 @@
       "archived": false
     },
     {
+      "repo": "dask/dask",
+      "id": 3294122960,
+      "number": 12044,
+      "title": "FutureWarning: ChainedAssignmentError: behaviour will change in pandas 3.0!",
+      "url": "https://github.com/dask/dask/issues/12044",
+      "created_at": "2025-08-05T19:00:18Z",
+      "user": "QuLogic",
+      "labels": [
+        "needs attention",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3294223246,
       "number": 3309,
@@ -16879,6 +16913,24 @@
       "user": "ryan-minato",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dask/dask",
+      "id": 3329207616,
+      "number": 12052,
+      "title": "Consider testing with fatal Python deprecations",
+      "url": "https://github.com/dask/dask/issues/12052",
+      "created_at": "2025-08-18T05:24:56Z",
+      "user": "QuLogic",
+      "labels": [
+        "tests",
+        "needs attention",
+        "p2",
+        "hygiene"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -45693,6 +45745,40 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653555339,
+      "number": 168808,
+      "title": "Test: TestNNDeviceType.test_ctc_loss_cudnn",
+      "url": "https://github.com/pytorch/pytorch/issues/168808",
+      "created_at": "2025-11-22T01:09:17Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653555372,
+      "number": 168809,
+      "title": "Test: TestNNDeviceType.test_ctc_loss_cudnn_tensor_cuda",
+      "url": "https://github.com/pytorch/pytorch/issues/168809",
+      "created_at": "2025-11-22T01:09:18Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653558475,
       "number": 168865,
       "title": "Test: TestTorchDeviceType.test_cauchy_kstest",
@@ -62471,6 +62557,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3706876819,
+      "number": 25676,
+      "title": "Lookup and interpolation expressions (instead of `replace`)",
+      "url": "https://github.com/pola-rs/polars/issues/25676",
+      "created_at": "2025-12-08T15:28:04Z",
+      "user": "DavidEscott",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3706914426,
       "number": 17655,
@@ -78037,8 +78138,103 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3738114257,
+      "number": 42918,
+      "title": "model parallelism unit test failed for `modeling_pe_audio_video.py` and `modeling_pe_video.py`",
+      "url": "https://github.com/huggingface/transformers/issues/42918",
+      "created_at": "2025-12-17T09:38:48Z",
+      "user": "kaixuanliu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3738123695,
+      "number": 32914,
+      "title": "Addressed: FastICA logcosh bottleneck",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32914",
+      "created_at": "2025-12-17T09:41:20Z",
+      "user": "fkay-codec",
+      "labels": [
+        "New Feature",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3738139133,
+      "number": 63393,
+      "title": "REGR: registered accessors are no longer cached per DataFrame",
+      "url": "https://github.com/pandas-dev/pandas/issues/63393",
+      "created_at": "2025-12-17T09:45:47Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "Needs Discussion",
+        "Accessors"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3738185740,
+      "number": 25796,
+      "title": "`Expr.list.eval` freezes process",
+      "url": "https://github.com/pola-rs/polars/issues/25796",
+      "created_at": "2025-12-17T09:59:08Z",
+      "user": "sebasv",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "P-medium",
+        "A-rolling"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3738263426,
+      "number": 16289,
+      "title": "usr/bin/ld: cannot find -lcustom_ops_aot_lib: No such file or directory",
+      "url": "https://github.com/pytorch/executorch/issues/16289",
+      "created_at": "2025-12-17T10:21:46Z",
+      "user": "mathpopo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pydantic/pydantic",
+      "id": 3738278876,
+      "number": 12637,
+      "title": "seems convert issue when the model is nested",
+      "url": "https://github.com/pydantic/pydantic/issues/12637",
+      "created_at": "2025-12-17T10:26:20Z",
+      "user": "lilylei013",
+      "labels": [
+        "bug V2",
+        "pending"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T09:35:10Z",
-  "total_count": 5154
+  "last_updated": "2025-12-17T10:32:06Z",
+  "total_count": 5166
 }

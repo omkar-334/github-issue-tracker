@@ -1,5 +1,34 @@
 [
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 1464296380,
+    "number": 25038,
+    "title": "Instability in fastica for float32",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/25038",
+    "created_at": "2022-11-25T10:00:12Z",
+    "user": "lesteve",
+    "labels": [
+      "Bug",
+      "module:decomposition"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 1537299663,
+    "number": 8694,
+    "title": "[CI] Set up pre-commit hook to automatically check formatting ",
+    "url": "https://github.com/dmlc/xgboost/issues/8694",
+    "created_at": "2023-01-18T02:21:01Z",
+    "user": "hcho3",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
     "repo": "astral-sh/ruff",
     "id": 1638868796,
     "number": 3711,
@@ -15,50 +44,14 @@
     "archived": true
   },
   {
-    "repo": "kedro-org/kedro",
-    "id": 1944444676,
-    "number": 3180,
-    "title": "[Spike] Explore integration with Dagster",
-    "url": "https://github.com/kedro-org/kedro/issues/3180",
-    "created_at": "2023-10-16T06:14:02Z",
-    "user": "astrojuanlu",
-    "labels": [
-      "Issue: Feature Request"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2141449149,
-    "number": 120184,
-    "title": "welfordreduce slows down forward layernorm in a bunch of cases",
-    "url": "https://github.com/pytorch/pytorch/issues/120184",
-    "created_at": "2024-02-19T03:59:13Z",
-    "user": "Chillee",
-    "labels": [
-      "triaged",
-      "oncall: pt2",
-      "module: inductor",
-      "upstream triton"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "lancedb/lancedb",
-    "id": 2463637823,
-    "number": 1539,
-    "title": "bug(python): to_polars().collect() not working with latest polars version",
-    "url": "https://github.com/lancedb/lancedb/issues/1539",
-    "created_at": "2024-08-13T15:28:58Z",
-    "user": "laxas",
-    "labels": [
-      "bug",
-      "sprint-11-18"
-    ],
+    "repo": "huggingface/datasets",
+    "id": 2002916514,
+    "number": 6439,
+    "title": "Download + preparation speed of datasets.load_dataset is 20x slower than huggingface hub snapshot and manual loding",
+    "url": "https://github.com/huggingface/datasets/issues/6439",
+    "created_at": "2023-11-20T20:07:23Z",
+    "user": "AntreasAntoniou",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

@@ -11223,6 +11223,40 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653555339,
+    "number": 168808,
+    "title": "Test: TestNNDeviceType.test_ctc_loss_cudnn",
+    "url": "https://github.com/pytorch/pytorch/issues/168808",
+    "created_at": "2025-11-22T01:09:17Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653555372,
+    "number": 168809,
+    "title": "Test: TestNNDeviceType.test_ctc_loss_cudnn_tensor_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168809",
+    "created_at": "2025-11-22T01:09:18Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653558475,
     "number": 168865,
     "title": "Test: TestTorchDeviceType.test_cauchy_kstest",

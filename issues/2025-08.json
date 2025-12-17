@@ -578,6 +578,22 @@
     "archived": false
   },
   {
+    "repo": "dask/dask",
+    "id": 3294122960,
+    "number": 12044,
+    "title": "FutureWarning: ChainedAssignmentError: behaviour will change in pandas 3.0!",
+    "url": "https://github.com/dask/dask/issues/12044",
+    "created_at": "2025-08-05T19:00:18Z",
+    "user": "QuLogic",
+    "labels": [
+      "needs attention",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3294223246,
     "number": 3309,
@@ -1890,6 +1906,24 @@
     "user": "ryan-minato",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 3329207616,
+    "number": 12052,
+    "title": "Consider testing with fatal Python deprecations",
+    "url": "https://github.com/dask/dask/issues/12052",
+    "created_at": "2025-08-18T05:24:56Z",
+    "user": "QuLogic",
+    "labels": [
+      "tests",
+      "needs attention",
+      "p2",
+      "hygiene"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
