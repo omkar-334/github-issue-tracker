@@ -447,6 +447,22 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 2745670890,
+    "number": 26547,
+    "title": "Sources undefined using `dagster-powerbi` with MotherDuck upstream tables",
+    "url": "https://github.com/dagster-io/dagster/issues/26547",
+    "created_at": "2024-12-17T18:11:40Z",
+    "user": "cmpadden",
+    "labels": [
+      "type: bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 2746892469,
     "number": 143471,
@@ -620,6 +636,22 @@
       "type: bug",
       "deployment: k8s",
       "area: tags"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2760268096,
+    "number": 143887,
+    "title": "`torch.accelerator` cross-device utilities and properties",
+    "url": "https://github.com/pytorch/pytorch/issues/143887",
+    "created_at": "2024-12-27T01:12:30Z",
+    "user": "stas00",
+    "labels": [
+      "triaged",
+      "module: accelerator"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

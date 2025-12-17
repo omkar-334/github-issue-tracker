@@ -50,6 +50,22 @@
       "archived": false
     },
     {
+      "repo": "dagster-io/dagster",
+      "id": 2745670890,
+      "number": 26547,
+      "title": "Sources undefined using `dagster-powerbi` with MotherDuck upstream tables",
+      "url": "https://github.com/dagster-io/dagster/issues/26547",
+      "created_at": "2024-12-17T18:11:40Z",
+      "user": "cmpadden",
+      "labels": [
+        "type: bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2746892469,
       "number": 143471,
@@ -223,6 +239,22 @@
         "type: bug",
         "deployment: k8s",
         "area: tags"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 2760268096,
+      "number": 143887,
+      "title": "`torch.accelerator` cross-device utilities and properties",
+      "url": "https://github.com/pytorch/pytorch/issues/143887",
+      "created_at": "2024-12-27T01:12:30Z",
+      "user": "stas00",
+      "labels": [
+        "triaged",
+        "module: accelerator"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -38892,6 +38924,22 @@
       "archived": false
     },
     {
+      "repo": "astral-sh/ruff",
+      "id": 3612620898,
+      "number": 21380,
+      "title": "Allow one empty newline after class header",
+      "url": "https://github.com/astral-sh/ruff/issues/21380",
+      "created_at": "2025-11-11T14:44:33Z",
+      "user": "laymonage",
+      "labels": [
+        "formatter",
+        "style"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "Dao-AILab/flash-attention",
       "id": 3612799468,
       "number": 2002,
@@ -44964,6 +45012,25 @@
       "created_at": "2025-11-21T20:02:19Z",
       "user": "ghunkins",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3652975749,
+      "number": 168376,
+      "title": "`TORCH_SHOW_CPP_STACKTRACES=1` often fails to display all function names",
+      "url": "https://github.com/pytorch/pytorch/issues/168376",
+      "created_at": "2025-11-21T20:18:40Z",
+      "user": "galv",
+      "labels": [
+        "module: cpp",
+        "feature",
+        "module: error checking",
+        "triaged",
+        "module: debug-build"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -79628,6 +79695,23 @@
       "archived": false
     },
     {
+      "repo": "huggingface/trl",
+      "id": 3739799541,
+      "number": 4711,
+      "title": "Add RLVR (Reinforcement Learning with Verifiable Rewards) Trainer",
+      "url": "https://github.com/huggingface/trl/issues/4711",
+      "created_at": "2025-12-17T17:29:13Z",
+      "user": "mmjerge",
+      "labels": [
+        "✨ enhancement",
+        "🏋 Reward",
+        "🏋 RLOO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 3739834889,
       "number": 32919,
@@ -79685,8 +79769,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3740112771,
+      "number": 30896,
+      "title": "[Feature]: fused GEMM +collectives helion kernel",
+      "url": "https://github.com/vllm-project/vllm/issues/30896",
+      "created_at": "2025-12-17T19:06:24Z",
+      "user": "LironKesem",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3740135660,
+      "number": 8398,
+      "title": "'circular_ladder_graph'  returns incorrect graph for n < 2 (creates spurious nodes and self-loops)",
+      "url": "https://github.com/networkx/networkx/issues/8398",
+      "created_at": "2025-12-17T19:14:16Z",
+      "user": "samay2504",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3740144327,
+      "number": 20385,
+      "title": "[Feature Request]: llama-index-llms-ollama - Allow think to use low, medium, high",
+      "url": "https://github.com/run-llama/llama_index/issues/20385",
+      "created_at": "2025-12-17T19:16:53Z",
+      "user": "elysoto",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T18:41:28Z",
-  "total_count": 5262
+  "last_updated": "2025-12-17T19:25:54Z",
+  "total_count": 5270
 }

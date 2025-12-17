@@ -4051,6 +4051,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 3612620898,
+    "number": 21380,
+    "title": "Allow one empty newline after class header",
+    "url": "https://github.com/astral-sh/ruff/issues/21380",
+    "created_at": "2025-11-11T14:44:33Z",
+    "user": "laymonage",
+    "labels": [
+      "formatter",
+      "style"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "Dao-AILab/flash-attention",
     "id": 3612799468,
     "number": 2002,
@@ -10123,6 +10139,25 @@
     "created_at": "2025-11-21T20:02:19Z",
     "user": "ghunkins",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3652975749,
+    "number": 168376,
+    "title": "`TORCH_SHOW_CPP_STACKTRACES=1` often fails to display all function names",
+    "url": "https://github.com/pytorch/pytorch/issues/168376",
+    "created_at": "2025-11-21T20:18:40Z",
+    "user": "galv",
+    "labels": [
+      "module: cpp",
+      "feature",
+      "module: error checking",
+      "triaged",
+      "module: debug-build"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
