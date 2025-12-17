@@ -50,6 +50,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2746892469,
+      "number": 143471,
+      "title": "NFS errors during DataLoader shutdown when num_workers > 1 when temporary directory is on NFS",
+      "url": "https://github.com/pytorch/pytorch/issues/143471",
+      "created_at": "2024-12-18T06:18:29Z",
+      "user": "edoyango",
+      "labels": [
+        "triaged",
+        "module: data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/stanza",
       "id": 2748894266,
       "number": 1440,
@@ -77220,8 +77236,87 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3737187863,
+      "number": 30834,
+      "title": "[Bug]: vllm0.12.0 h100 PTX was compiled with an unsupported toolchain",
+      "url": "https://github.com/vllm-project/vllm/issues/30834",
+      "created_at": "2025-12-17T03:30:34Z",
+      "user": "Qingyuncookie",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3737211271,
+      "number": 21425,
+      "title": "how to implement a customer precision with torchao",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21425",
+      "created_at": "2025-12-17T03:44:10Z",
+      "user": "qmpzzpmq",
+      "labels": [
+        "bug",
+        "needs triage",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3737223157,
+      "number": 170638,
+      "title": "[RFC] Add caching support to NCCL SymmMem",
+      "url": "https://github.com/pytorch/pytorch/issues/170638",
+      "created_at": "2025-12-17T03:52:19Z",
+      "user": "kwen2501",
+      "labels": [
+        "module: symm_mem"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3737234932,
+      "number": 170639,
+      "title": "[MPS] F.fold lacks input validation, inconsistent with CPU/CUDA implementations",
+      "url": "https://github.com/pytorch/pytorch/issues/170639",
+      "created_at": "2025-12-17T03:59:39Z",
+      "user": "lingebeng",
+      "labels": [
+        "module: error checking",
+        "triaged",
+        "module: mps"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3737277101,
+      "number": 170641,
+      "title": "[RFC] Expose window from NCCL SymmMem handle",
+      "url": "https://github.com/pytorch/pytorch/issues/170641",
+      "created_at": "2025-12-17T04:23:40Z",
+      "user": "kwen2501",
+      "labels": [
+        "module: symm_mem"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T03:26:41Z",
-  "total_count": 5101
+  "last_updated": "2025-12-17T04:38:55Z",
+  "total_count": 5107
 }

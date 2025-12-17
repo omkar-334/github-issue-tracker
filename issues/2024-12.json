@@ -447,6 +447,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2746892469,
+    "number": 143471,
+    "title": "NFS errors during DataLoader shutdown when num_workers > 1 when temporary directory is on NFS",
+    "url": "https://github.com/pytorch/pytorch/issues/143471",
+    "created_at": "2024-12-18T06:18:29Z",
+    "user": "edoyango",
+    "labels": [
+      "triaged",
+      "module: data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/stanza",
     "id": 2748894266,
     "number": 1440,
