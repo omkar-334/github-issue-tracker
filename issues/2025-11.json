@@ -1593,6 +1593,24 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3593125951,
+    "number": 21339,
+    "title": "`lr_scheduler.step()` must be called before `optimizer.step()`",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21339",
+    "created_at": "2025-11-05T22:54:29Z",
+    "user": "sravan953",
+    "labels": [
+      "bug",
+      "lr scheduler",
+      "optimizer",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3593365311,
     "number": 3558,

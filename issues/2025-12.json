@@ -4030,6 +4030,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3691189646,
+    "number": 29983,
+    "title": "[Bug]: v0.12.0 Dockerfile.cpu fails to build on ARM server",
+    "url": "https://github.com/vllm-project/vllm/issues/29983",
+    "created_at": "2025-12-03T17:27:59Z",
+    "user": "jharriga",
+    "labels": [
+      "bug",
+      "cpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3691198890,
     "number": 13211,
@@ -8232,6 +8248,23 @@
     "labels": [
       "langchain",
       "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3703618739,
+    "number": 21409,
+    "title": "DDP Validation Metric Logging got Misplaced Silently When Processes Different Metric Keys on Different Devices",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21409",
+    "created_at": "2025-12-07T15:32:13Z",
+    "user": "worldlife123",
+    "labels": [
+      "bug",
+      "strategy: ddp",
+      "ver: 2.4.x"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -24321,6 +24354,90 @@
     "url": "https://github.com/pytorch/pytorch/issues/170642",
     "created_at": "2025-12-17T05:07:23Z",
     "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google-deepmind/optax",
+    "id": 3737436784,
+    "number": 1535,
+    "title": "Add optional fast path for `clip_by_global_norm` when differentiability is not required",
+    "url": "https://github.com/google-deepmind/optax/issues/1535",
+    "created_at": "2025-12-17T05:47:35Z",
+    "user": "SanchitKS12",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3737446922,
+    "number": 3499,
+    "title": "vLLM fails to load TorchAO Int4Opaque weights due to unsupported aten.slice on Int4OpaqueTensor",
+    "url": "https://github.com/pytorch/ao/issues/3499",
+    "created_at": "2025-12-17T05:52:40Z",
+    "user": "Priyjain-amd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3737450641,
+    "number": 33064,
+    "title": "ReloadWorkspaceMutation Error",
+    "url": "https://github.com/dagster-io/dagster/issues/33064",
+    "created_at": "2025-12-17T05:54:31Z",
+    "user": "ciera-fowler",
+    "labels": [
+      "type: bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3737472413,
+    "number": 30452,
+    "title": "missing \"constexpr\" in \"quicksort_dispatch\" in quicksort.cpp",
+    "url": "https://github.com/numpy/numpy/issues/30452",
+    "created_at": "2025-12-17T06:03:46Z",
+    "user": "treeislikethis",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737516106,
+    "number": 30843,
+    "title": "[Bug]: vllm serve GLM-4.6V-Flash error",
+    "url": "https://github.com/vllm-project/vllm/issues/30843",
+    "created_at": "2025-12-17T06:23:08Z",
+    "user": "F0undLinks",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "meta-pytorch/torchtune",
+    "id": 3737547736,
+    "number": 2940,
+    "title": "Behavior differences in Qwen3 generations using Tune and Forge",
+    "url": "https://github.com/meta-pytorch/torchtune/issues/2940",
+    "created_at": "2025-12-17T06:35:45Z",
+    "user": "shangshang-wang",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
