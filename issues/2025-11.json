@@ -6238,6 +6238,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3627469310,
+    "number": 167885,
+    "title": "Ideas for Simple CUDA Dynamic Analysis Tools for Common Bugs",
+    "url": "https://github.com/pytorch/pytorch/issues/167885",
+    "created_at": "2025-11-14T23:07:09Z",
+    "user": "galv",
+    "labels": [
+      "module: performance",
+      "module: cuda",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ultralytics/ultralytics",
     "id": 3627617032,
     "number": 22692,

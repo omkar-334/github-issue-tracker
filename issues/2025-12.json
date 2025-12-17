@@ -9572,6 +9572,21 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 3707548785,
+    "number": 33006,
+    "title": "Single run backfill toggle has been removed since version 1.5",
+    "url": "https://github.com/dagster-io/dagster/issues/33006",
+    "created_at": "2025-12-08T18:28:31Z",
+    "user": "zommarin",
+    "labels": [
+      "area: docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3707585838,
     "number": 42712,
@@ -24438,6 +24453,110 @@
     "url": "https://github.com/meta-pytorch/torchtune/issues/2940",
     "created_at": "2025-12-17T06:35:45Z",
     "user": "shangshang-wang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3737563996,
+    "number": 20380,
+    "title": "[Bug]: Workflow server is unreachable",
+    "url": "https://github.com/run-llama/llama_index/issues/20380",
+    "created_at": "2025-12-17T06:42:49Z",
+    "user": "main-2983",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737573935,
+    "number": 30847,
+    "title": "[Bug]: Qwen 3VL via Efficient Video Sampling (EVS) to trim video embeddings and found that the number of tokens after timestamp in the Prompt was not aligned with the actual number of tokens after pruning?",
+    "url": "https://github.com/vllm-project/vllm/issues/30847",
+    "created_at": "2025-12-17T06:46:15Z",
+    "user": "xshqhua",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737599957,
+    "number": 30848,
+    "title": "[Bug]: Fail to run Qwen3-Next model.",
+    "url": "https://github.com/vllm-project/vllm/issues/30848",
+    "created_at": "2025-12-17T06:54:16Z",
+    "user": "MaoJianwei",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737641914,
+    "number": 30851,
+    "title": "[New Model]: FunAudioLLM/Fun-ASR-Nano-2512",
+    "url": "https://github.com/vllm-project/vllm/issues/30851",
+    "created_at": "2025-12-17T07:07:38Z",
+    "user": "verigle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3737656396,
+    "number": 34400,
+    "title": "PyMuPDFLoader and PyPDFLoader extract_images always skips all images",
+    "url": "https://github.com/langchain-ai/langchain/issues/34400",
+    "created_at": "2025-12-17T07:12:09Z",
+    "user": "jedimark2",
+    "labels": [
+      "bug",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737661896,
+    "number": 30853,
+    "title": "[Performance]: DeepSeek V3.2 Benchmarking: Significant performance discrepancy between initial and subsequent runs",
+    "url": "https://github.com/vllm-project/vllm/issues/30853",
+    "created_at": "2025-12-17T07:14:06Z",
+    "user": "zkf331",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3737683945,
+    "number": 170648,
+    "title": "fsdp2 support grad_dtype",
+    "url": "https://github.com/pytorch/pytorch/issues/170648",
+    "created_at": "2025-12-17T07:22:19Z",
+    "user": "liqing9399",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

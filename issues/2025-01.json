@@ -1113,6 +1113,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/huggingface_hub",
+    "id": 2817126380,
+    "number": 2797,
+    "title": "Unable to use HF cache on a readonly filesystem",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/2797",
+    "created_at": "2025-01-29T03:04:58Z",
+    "user": "stodoran",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2817551627,
     "number": 2062,
