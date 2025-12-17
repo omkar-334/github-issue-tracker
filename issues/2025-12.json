@@ -25352,5 +25352,165 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 3739161462,
+    "number": 12204,
+    "title": ".to_zarr function zarr_store_kwargs not a parameter",
+    "url": "https://github.com/dask/dask/issues/12204",
+    "created_at": "2025-12-17T14:33:49Z",
+    "user": "CSSFrancis",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3739162513,
+    "number": 22981,
+    "title": "Potential misattribution of YOLOv8 in an IEEE paper",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22981",
+    "created_at": "2025-12-17T14:34:04Z",
+    "user": "aoikaneko",
+    "labels": [
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3739207683,
+    "number": 13397,
+    "title": "AuthLib 1.6.6 Breaks st.login() SSO Flow",
+    "url": "https://github.com/streamlit/streamlit/issues/13397",
+    "created_at": "2025-12-17T14:46:42Z",
+    "user": "rfsmart-jswingle",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3739208476,
+    "number": 22982,
+    "title": "How to make Yolov8 Object detection model predict multiple labels per bounding box ?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22982",
+    "created_at": "2025-12-17T14:46:56Z",
+    "user": "IGlace",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3739231167,
+    "number": 170676,
+    "title": "CUBLAS_STATUS_INVALID_VALUE at F.linear((14,4096), (4096,4096)) device='cuda:0', dtype=torch.float16 on 4090 and B300",
+    "url": "https://github.com/pytorch/pytorch/issues/170676",
+    "created_at": "2025-12-17T14:53:00Z",
+    "user": "Triang-jyed-driung",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3739263636,
+    "number": 170678,
+    "title": "Wrapping a DistributedDataParallel module with another One leads to incorrect behavior.",
+    "url": "https://github.com/pytorch/pytorch/issues/170678",
+    "created_at": "2025-12-17T15:02:00Z",
+    "user": "Gao-HaoYuan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3739278468,
+    "number": 34001,
+    "title": "[mosaic] broadcast bug",
+    "url": "https://github.com/jax-ml/jax/issues/34001",
+    "created_at": "2025-12-17T15:05:51Z",
+    "user": "oliverdutton",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3739281935,
+    "number": 1901,
+    "title": "BUG: Upgrade to Gradio v6.x from v5.x and temporarily constrain dependency support",
+    "url": "https://github.com/huggingface/smolagents/issues/1901",
+    "created_at": "2025-12-17T15:06:53Z",
+    "user": "ZeroCool2u",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3739341744,
+    "number": 42925,
+    "title": "`type_vocab_size` is not documented and does not have a default value in TVP config",
+    "url": "https://github.com/huggingface/transformers/issues/42925",
+    "created_at": "2025-12-17T15:22:40Z",
+    "user": "simonreise",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3739356655,
+    "number": 19466,
+    "title": "Experiment tag \"experimentKind\" needs constants defined",
+    "url": "https://github.com/mlflow/mlflow/issues/19466",
+    "created_at": "2025-12-17T15:26:26Z",
+    "user": "sateeshmannar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3739359446,
+    "number": 170680,
+    "title": "Error when composing jit.script and jacrev",
+    "url": "https://github.com/pytorch/pytorch/issues/170680",
+    "created_at": "2025-12-17T15:27:03Z",
+    "user": "Giodiro",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
