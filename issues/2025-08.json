@@ -2529,6 +2529,27 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3344615762,
+    "number": 55833,
+    "title": "[Umbrella][serve] Advanced Observability for Serve Autoscaler",
+    "url": "https://github.com/ray-project/ray/issues/55833",
+    "created_at": "2025-08-22T08:20:41Z",
+    "user": "nadongjun",
+    "labels": [
+      "enhancement",
+      "P2",
+      "serve",
+      "usability",
+      "docs",
+      "observability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3345286773,
     "number": 7745,

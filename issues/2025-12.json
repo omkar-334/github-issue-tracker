@@ -3282,6 +3282,19 @@
     "archived": false
   },
   {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 3688806540,
+    "number": 3447,
+    "title": "mbpp extract_code filter failed to correctly filter out the generated code.",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3447",
+    "created_at": "2025-12-03T06:59:49Z",
+    "user": "konpoku",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3688851165,
     "number": 169458,
@@ -8185,6 +8198,21 @@
     "labels": [
       "type:enhancement",
       "feature:st.container"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3703424343,
+    "number": 30204,
+    "title": "[Bug]: Harmony parser skips last tokens in speculative decoding in streaming responses",
+    "url": "https://github.com/vllm-project/vllm/issues/30204",
+    "created_at": "2025-12-07T12:12:03Z",
+    "user": "AlonKejzman",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -24683,6 +24711,143 @@
       "bug",
       "python",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737925710,
+    "number": 30855,
+    "title": "[Usage]: Qwen3-30B-A3B-NVFP4 fails on Dell Pro Max GB10 with \"no kernel image is available for execution on the device\"",
+    "url": "https://github.com/vllm-project/vllm/issues/30855",
+    "created_at": "2025-12-17T08:44:11Z",
+    "user": "nanbogong",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737943671,
+    "number": 30857,
+    "title": "[Bug]: 使用VLLM进行推理会卡死",
+    "url": "https://github.com/vllm-project/vllm/issues/30857",
+    "created_at": "2025-12-17T08:49:15Z",
+    "user": "Bonjir",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3737965108,
+    "number": 30453,
+    "title": "ENH: a.asempty()",
+    "url": "https://github.com/numpy/numpy/issues/30453",
+    "created_at": "2025-12-17T08:56:37Z",
+    "user": "John-zzh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737976735,
+    "number": 30859,
+    "title": "[Bug]: set_current_vllm_config() is only done during the initialization stage but not the runtime stage",
+    "url": "https://github.com/vllm-project/vllm/issues/30859",
+    "created_at": "2025-12-17T08:59:49Z",
+    "user": "nvpohanh",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3737978085,
+    "number": 170652,
+    "title": "test_repeated_masked_load fails with Unexpected success due to stale repro expectation on newer CUDA/Triton",
+    "url": "https://github.com/pytorch/pytorch/issues/170652",
+    "created_at": "2025-12-17T09:00:07Z",
+    "user": "kumartanmay-28",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3737986096,
+    "number": 59503,
+    "title": "[Core] ray.util.multiprocessing.Pool fails to initialize if Ray cluster resources are not yet ready",
+    "url": "https://github.com/ray-project/ray/issues/59503",
+    "created_at": "2025-12-17T09:02:15Z",
+    "user": "neuyilan",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3738013035,
+    "number": 63391,
+    "title": "REGR: RangeIndex __getitem__ filtering with boolean extension array of length 1",
+    "url": "https://github.com/pandas-dev/pandas/issues/63391",
+    "created_at": "2025-12-17T09:09:36Z",
+    "user": "jorisvandenbossche",
+    "labels": [
+      "Indexing",
+      "Regression",
+      "Index"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3738068828,
+    "number": 25795,
+    "title": "`cum_sum` / `cum_prod` behavior with all-null columns differs from `sum`/`product` and Numpy",
+    "url": "https://github.com/pola-rs/polars/issues/25795",
+    "created_at": "2025-12-17T09:25:21Z",
+    "user": "taozuoqiao",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-interop-numpy"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3738075170,
+    "number": 30861,
+    "title": "[Bug]:  TypeError: unhashable type: 'dict' when serving deepseek32",
+    "url": "https://github.com/vllm-project/vllm/issues/30861",
+    "created_at": "2025-12-17T09:27:09Z",
+    "user": "jeejeelee",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

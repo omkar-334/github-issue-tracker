@@ -1,15 +1,29 @@
 [
   {
-    "repo": "numpy/numpy",
-    "id": 1531596993,
-    "number": 23005,
-    "title": "TYP: wrong return type when applying np.split to pd.DataFrame",
-    "url": "https://github.com/numpy/numpy/issues/23005",
-    "created_at": "2023-01-13T01:58:38Z",
-    "user": "dasistkeintest",
+    "repo": "astral-sh/ruff",
+    "id": 1638868796,
+    "number": 3711,
+    "title": "[feature request] Support ignore block of code with noqa",
+    "url": "https://github.com/astral-sh/ruff/issues/3711",
+    "created_at": "2023-03-24T07:25:40Z",
+    "user": "woile",
     "labels": [
-      "00 - Bug",
-      "41 - Static typing"
+      "suppression"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 1944444676,
+    "number": 3180,
+    "title": "[Spike] Explore integration with Dagster",
+    "url": "https://github.com/kedro-org/kedro/issues/3180",
+    "created_at": "2023-10-16T06:14:02Z",
+    "user": "astrojuanlu",
+    "labels": [
+      "Issue: Feature Request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -28,6 +42,22 @@
       "oncall: pt2",
       "module: inductor",
       "upstream triton"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 2463637823,
+    "number": 1539,
+    "title": "bug(python): to_polars().collect() not working with latest polars version",
+    "url": "https://github.com/lancedb/lancedb/issues/1539",
+    "created_at": "2024-08-13T15:28:58Z",
+    "user": "laxas",
+    "labels": [
+      "bug",
+      "sprint-11-18"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
