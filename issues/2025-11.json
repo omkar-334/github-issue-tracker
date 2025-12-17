@@ -6371,6 +6371,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3628218114,
+    "number": 28776,
+    "title": "[Bug]: Crash when input length equals to 8192 in GLM4.6-FP8",
+    "url": "https://github.com/vllm-project/vllm/issues/28776",
+    "created_at": "2025-11-15T06:58:25Z",
+    "user": "AlecHenx",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3628321142,
     "number": 33986,
@@ -13459,6 +13474,19 @@
       "module: typing",
       "triaged"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "arviz-devs/arviz",
+    "id": 3664420571,
+    "number": 2495,
+    "title": "relax typing of filename",
+    "url": "https://github.com/arviz-devs/arviz/issues/2495",
+    "created_at": "2025-11-25T20:00:29Z",
+    "user": "williambdean",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

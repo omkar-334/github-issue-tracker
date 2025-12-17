@@ -2984,6 +2984,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2895609079,
+      "number": 148498,
+      "title": "`distributed.checkpoint.async_save` leading to `TypedStorage is deprecated.`",
+      "url": "https://github.com/pytorch/pytorch/issues/148498",
+      "created_at": "2025-03-04T22:36:38Z",
+      "user": "jamesbraza",
+      "labels": [
+        "oncall: distributed checkpointing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "dask/dask",
       "id": 2897499480,
       "number": 11815,
@@ -27861,6 +27876,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3500611621,
+      "number": 26533,
+      "title": "[Feature]: Fix all of the mypy check",
+      "url": "https://github.com/vllm-project/vllm/issues/26533",
+      "created_at": "2025-10-09T20:59:59Z",
+      "user": "yewentao256",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3500741658,
       "number": 7811,
@@ -28765,6 +28795,22 @@
       "user": "AhnJoonSung",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3512554598,
+      "number": 26768,
+      "title": "[Performance]: Deepseek-V3 Performance Uplift Plan on ROCm Backend",
+      "url": "https://github.com/vllm-project/vllm/issues/26768",
+      "created_at": "2025-10-14T06:32:43Z",
+      "user": "wuhuikx",
+      "labels": [
+        "performance",
+        "rocm"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41011,6 +41057,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3628218114,
+      "number": 28776,
+      "title": "[Bug]: Crash when input length equals to 8192 in GLM4.6-FP8",
+      "url": "https://github.com/vllm-project/vllm/issues/28776",
+      "created_at": "2025-11-15T06:58:25Z",
+      "user": "AlecHenx",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3628321142,
       "number": 33986,
@@ -48099,6 +48160,19 @@
         "module: typing",
         "triaged"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "arviz-devs/arviz",
+      "id": 3664420571,
+      "number": 2495,
+      "title": "relax typing of filename",
+      "url": "https://github.com/arviz-devs/arviz/issues/2495",
+      "created_at": "2025-11-25T20:00:29Z",
+      "user": "williambdean",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -59950,6 +60024,21 @@
       "created_at": "2025-12-05T15:32:38Z",
       "user": "alita-moore",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3699459496,
+      "number": 30142,
+      "title": "[Bug]: `assert request.num_output_placeholders >= 0` can fail in async scheduling",
+      "url": "https://github.com/vllm-project/vllm/issues/30142",
+      "created_at": "2025-12-05T15:47:31Z",
+      "user": "remusao",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -78531,8 +78620,83 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3738809613,
+      "number": 5285,
+      "title": "Phase 2 user testing for Kedro Builder (iterate on key feedback + gather early usage signals)",
+      "url": "https://github.com/kedro-org/kedro/issues/5285",
+      "created_at": "2025-12-17T12:59:59Z",
+      "user": "jitu5",
+      "labels": [
+        "Issue: Feature Request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3738857193,
+      "number": 170673,
+      "title": "`torch.export` Fails with RuntimeError when Accessing Parameter via `.data` in `forward`",
+      "url": "https://github.com/pytorch/pytorch/issues/170673",
+      "created_at": "2025-12-17T13:12:54Z",
+      "user": "LiSsHhUuAaIi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3738887686,
+      "number": 13396,
+      "title": "plotly_chart kwargs deprecation warning",
+      "url": "https://github.com/streamlit/streamlit/issues/13396",
+      "created_at": "2025-12-17T13:20:29Z",
+      "user": "Jamiefaber",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3738891838,
+      "number": 12573,
+      "title": "unable to remove the buttons (download, share, fullscreen) from an image block",
+      "url": "https://github.com/gradio-app/gradio/issues/12573",
+      "created_at": "2025-12-17T13:21:35Z",
+      "user": "VMilewskiFF",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3738927576,
+      "number": 19462,
+      "title": "[BUG] crash when using custom scorers on Databricks",
+      "url": "https://github.com/mlflow/mlflow/issues/19462",
+      "created_at": "2025-12-17T13:30:20Z",
+      "user": "ptc-emaggio",
+      "labels": [
+        "bug",
+        "area/evaluation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T12:57:15Z",
-  "total_count": 5185
+  "last_updated": "2025-12-17T13:38:41Z",
+  "total_count": 5196
 }
