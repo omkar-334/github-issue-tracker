@@ -26309,5 +26309,98 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3740717532,
+    "number": 33079,
+    "title": "K8sRunLauncher proxy error",
+    "url": "https://github.com/dagster-io/dagster/issues/33079",
+    "created_at": "2025-12-17T22:25:43Z",
+    "user": "alexknorr",
+    "labels": [
+      "type: bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3740734845,
+    "number": 12588,
+    "title": "Rewrite behavior section of component docs",
+    "url": "https://github.com/gradio-app/gradio/issues/12588",
+    "created_at": "2025-12-17T22:35:14Z",
+    "user": "aliabd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3740743955,
+    "number": 12589,
+    "title": "Rewrite API reference docs",
+    "url": "https://github.com/gradio-app/gradio/issues/12589",
+    "created_at": "2025-12-17T22:40:09Z",
+    "user": "aliabd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3740746997,
+    "number": 8009,
+    "title": "point to location of `as_xtensor`",
+    "url": "https://github.com/pymc-devs/pymc/issues/8009",
+    "created_at": "2025-12-17T22:41:37Z",
+    "user": "williambdean",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3740747745,
+    "number": 12590,
+    "title": "Surface related guides in a better on docs",
+    "url": "https://github.com/gradio-app/gradio/issues/12590",
+    "created_at": "2025-12-17T22:42:03Z",
+    "user": "aliabd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3740750547,
+    "number": 12591,
+    "title": "Make initialization table expandable in the docs",
+    "url": "https://github.com/gradio-app/gradio/issues/12591",
+    "created_at": "2025-12-17T22:43:43Z",
+    "user": "aliabd",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3740752067,
+    "number": 42936,
+    "title": "Mask2former model's ignore_value not used after definition",
+    "url": "https://github.com/huggingface/transformers/issues/42936",
+    "created_at": "2025-12-17T22:44:36Z",
+    "user": "mhmd-j",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

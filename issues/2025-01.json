@@ -701,6 +701,23 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 2800027239,
+    "number": 22370,
+    "title": "RFC: Feature roadmap for 3D spatial transformations",
+    "url": "https://github.com/scipy/scipy/issues/22370",
+    "created_at": "2025-01-20T18:00:18Z",
+    "user": "scottshambaugh",
+    "labels": [
+      "enhancement",
+      "scipy.spatial",
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2801283140,
     "number": 3872,
