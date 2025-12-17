@@ -1260,6 +1260,23 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 2953432685,
+    "number": 20679,
+    "title": "Non-reproducible results with num_workers=0",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/20679",
+    "created_at": "2025-03-27T15:25:07Z",
+    "user": "mrava87",
+    "labels": [
+      "bug",
+      "reproducibility",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2953908635,
     "number": 9008,

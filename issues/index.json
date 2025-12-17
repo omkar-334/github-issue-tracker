@@ -4050,6 +4050,23 @@
       "archived": false
     },
     {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 2953432685,
+      "number": 20679,
+      "title": "Non-reproducible results with num_workers=0",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/20679",
+      "created_at": "2025-03-27T15:25:07Z",
+      "user": "mrava87",
+      "labels": [
+        "bug",
+        "reproducibility",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 2953908635,
       "number": 9008,
@@ -14668,6 +14685,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3273406082,
+      "number": 159359,
+      "title": "Activation Checkpointing dtype Mismatch in Recomputed Activations Due to Skipped Type Casting in FSDPv2 _pre_forward",
+      "url": "https://github.com/pytorch/pytorch/issues/159359",
+      "created_at": "2025-07-29T12:16:18Z",
+      "user": "KimbingNg",
+      "labels": [
+        "oncall: distributed",
+        "module: activation checkpointing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3273681198,
       "number": 13087,
@@ -25198,6 +25231,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3458904617,
+      "number": 163984,
+      "title": "[inductor] Convert complex operations to real-block matrices",
+      "url": "https://github.com/pytorch/pytorch/issues/163984",
+      "created_at": "2025-09-26T19:43:37Z",
+      "user": "Marius-Juston",
+      "labels": [
+        "triaged",
+        "module: complex",
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numpy/numpy",
       "id": 3458919908,
       "number": 29818,
@@ -25582,6 +25632,21 @@
       "user": "Tanky-Zhang",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "zenml-io/zenml",
+      "id": 3468155546,
+      "number": 4019,
+      "title": "Upgrade type hints to 3.10+ style",
+      "url": "https://github.com/zenml-io/zenml/issues/4019",
+      "created_at": "2025-09-30T08:25:37Z",
+      "user": "Json-Andriopoulos",
+      "labels": [
+        "core-team"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -78233,8 +78298,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3738370589,
+      "number": 30865,
+      "title": "[Usage]:Tools GLM4.6v with vLLM",
+      "url": "https://github.com/vllm-project/vllm/issues/30865",
+      "created_at": "2025-12-17T10:51:34Z",
+      "user": "qBrabus",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3738417503,
+      "number": 30866,
+      "title": "[Bug]: Deploying DeepSeek-V3.1-Terminus with vLLM v0.11.2, streaming requests that include tool calls suffer from a missing first token issue.",
+      "url": "https://github.com/vllm-project/vllm/issues/30866",
+      "created_at": "2025-12-17T11:05:01Z",
+      "user": "controlRun",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pyg-team/pytorch_geometric",
+      "id": 3738429512,
+      "number": 10560,
+      "title": "Incorrect data in QM9 dataset",
+      "url": "https://github.com/pyg-team/pytorch_geometric/issues/10560",
+      "created_at": "2025-12-17T11:08:39Z",
+      "user": "dgg95223",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3738461005,
+      "number": 170665,
+      "title": "[custom op] Custom Op with OpaqueType fails in min cut partitioner",
+      "url": "https://github.com/pytorch/pytorch/issues/170665",
+      "created_at": "2025-12-17T11:17:51Z",
+      "user": "kshitij12345",
+      "labels": [
+        "module: custom-operators",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3738469225,
+      "number": 170666,
+      "title": "Inductor Fails to Compile Models Containing `nn.RReLU` Due to Incorrect Meta Kernel for `aten.uniform.default`",
+      "url": "https://github.com/pytorch/pytorch/issues/170666",
+      "created_at": "2025-12-17T11:20:27Z",
+      "user": "LiSsHhUuAaIi",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T10:32:06Z",
-  "total_count": 5166
+  "last_updated": "2025-12-17T11:27:12Z",
+  "total_count": 5175
 }

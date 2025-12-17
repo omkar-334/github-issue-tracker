@@ -3543,6 +3543,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3273406082,
+    "number": 159359,
+    "title": "Activation Checkpointing dtype Mismatch in Recomputed Activations Due to Skipped Type Casting in FSDPv2 _pre_forward",
+    "url": "https://github.com/pytorch/pytorch/issues/159359",
+    "created_at": "2025-07-29T12:16:18Z",
+    "user": "KimbingNg",
+    "labels": [
+      "oncall: distributed",
+      "module: activation checkpointing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3273681198,
     "number": 13087,

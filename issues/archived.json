@@ -1,29 +1,16 @@
 [
   {
     "repo": "scikit-learn/scikit-learn",
-    "id": 1464296380,
-    "number": 25038,
-    "title": "Instability in fastica for float32",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/25038",
-    "created_at": "2022-11-25T10:00:12Z",
-    "user": "lesteve",
+    "id": 1144866599,
+    "number": 22551,
+    "title": "LinearRegression in User Guide seems to have $w_0=0$",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/22551",
+    "created_at": "2022-02-19T22:59:09Z",
+    "user": "thomasoliveira",
     "labels": [
-      "Bug",
-      "module:decomposition"
+      "Documentation",
+      "module:linear_model"
     ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dmlc/xgboost",
-    "id": 1537299663,
-    "number": 8694,
-    "title": "[CI] Set up pre-commit hook to automatically check formatting ",
-    "url": "https://github.com/dmlc/xgboost/issues/8694",
-    "created_at": "2023-01-18T02:21:01Z",
-    "user": "hcho3",
-    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
@@ -44,14 +31,32 @@
     "archived": true
   },
   {
-    "repo": "huggingface/datasets",
-    "id": 2002916514,
-    "number": 6439,
-    "title": "Download + preparation speed of datasets.load_dataset is 20x slower than huggingface hub snapshot and manual loding",
-    "url": "https://github.com/huggingface/datasets/issues/6439",
-    "created_at": "2023-11-20T20:07:23Z",
-    "user": "AntreasAntoniou",
-    "labels": [],
+    "repo": "streamlit/streamlit",
+    "id": 1720443726,
+    "number": 6726,
+    "title": "Add Copy to Clipboard feature  to Markdown and other fields",
+    "url": "https://github.com/streamlit/streamlit/issues/6726",
+    "created_at": "2023-05-22T20:18:16Z",
+    "user": "Hyperrick",
+    "labels": [
+      "type:enhancement",
+      "feature:markdown"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

@@ -24962,5 +24962,82 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3738370589,
+    "number": 30865,
+    "title": "[Usage]:Tools GLM4.6v with vLLM",
+    "url": "https://github.com/vllm-project/vllm/issues/30865",
+    "created_at": "2025-12-17T10:51:34Z",
+    "user": "qBrabus",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3738417503,
+    "number": 30866,
+    "title": "[Bug]: Deploying DeepSeek-V3.1-Terminus with vLLM v0.11.2, streaming requests that include tool calls suffer from a missing first token issue.",
+    "url": "https://github.com/vllm-project/vllm/issues/30866",
+    "created_at": "2025-12-17T11:05:01Z",
+    "user": "controlRun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "id": 3738429512,
+    "number": 10560,
+    "title": "Incorrect data in QM9 dataset",
+    "url": "https://github.com/pyg-team/pytorch_geometric/issues/10560",
+    "created_at": "2025-12-17T11:08:39Z",
+    "user": "dgg95223",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3738461005,
+    "number": 170665,
+    "title": "[custom op] Custom Op with OpaqueType fails in min cut partitioner",
+    "url": "https://github.com/pytorch/pytorch/issues/170665",
+    "created_at": "2025-12-17T11:17:51Z",
+    "user": "kshitij12345",
+    "labels": [
+      "module: custom-operators",
+      "oncall: pt2",
+      "module: pt2-dispatcher"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3738469225,
+    "number": 170666,
+    "title": "Inductor Fails to Compile Models Containing `nn.RReLU` Due to Incorrect Meta Kernel for `aten.uniform.default`",
+    "url": "https://github.com/pytorch/pytorch/issues/170666",
+    "created_at": "2025-12-17T11:20:27Z",
+    "user": "LiSsHhUuAaIi",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
