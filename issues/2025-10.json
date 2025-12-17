@@ -779,6 +779,23 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3484014016,
+    "number": 12694,
+    "title": "Support built-in color names for the `color` parameter of charts",
+    "url": "https://github.com/streamlit/streamlit/issues/12694",
+    "created_at": "2025-10-04T18:09:19Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "feature:builtin-charts"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3484024265,
     "number": 23732,

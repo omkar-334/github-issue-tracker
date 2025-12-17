@@ -9785,6 +9785,21 @@
     "archived": false
   },
   {
+    "repo": "gradio-app/gradio",
+    "id": 3707969363,
+    "number": 12529,
+    "title": "Gradio 6 regression: `gr.Tab` inside `gr.render()` does not appear",
+    "url": "https://github.com/gradio-app/gradio/issues/12529",
+    "created_at": "2025-12-08T20:49:29Z",
+    "user": "abidlabs",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3707988439,
     "number": 169874,
@@ -11495,6 +11510,21 @@
     "archived": false
   },
   {
+    "repo": "gradio-app/gradio",
+    "id": 3711854437,
+    "number": 12535,
+    "title": "Hiding an Accordion Will Lose Value of Child Components",
+    "url": "https://github.com/gradio-app/gradio/issues/12535",
+    "created_at": "2025-12-09T17:07:39Z",
+    "user": "freddyaboulton",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3711860479,
     "number": 17729,
@@ -12341,6 +12371,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3713338270,
+    "number": 30370,
+    "title": "[Performance]: DeepSeek-V3.2 AWQ Performance is lower then i expected",
+    "url": "https://github.com/vllm-project/vllm/issues/30370",
+    "created_at": "2025-12-10T02:45:30Z",
+    "user": "yongho-chang",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3713340295,
     "number": 3742,
@@ -12919,6 +12964,21 @@
     "user": "albertvillanova",
     "labels": [
       "🐛 bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3714699908,
+    "number": 12542,
+    "title": "i18n does not work in gradio v6.0 and v6.1",
+    "url": "https://github.com/gradio-app/gradio/issues/12542",
+    "created_at": "2025-12-10T11:00:28Z",
+    "user": "songyz2019",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -25716,6 +25776,128 @@
     "created_at": "2025-12-17T16:31:34Z",
     "user": "jikechao",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3739628927,
+    "number": 170688,
+    "title": "[BUG][Inconsistency]Numerical mismatch between eager and inductor for aten.__interpolate",
+    "url": "https://github.com/pytorch/pytorch/issues/170688",
+    "created_at": "2025-12-17T16:38:37Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3739681154,
+    "number": 12579,
+    "title": "ChatInterface freezes when using ` additional_inputs=[gr.Textbox()],` and `  save_history=True, ` together.",
+    "url": "https://github.com/gradio-app/gradio/issues/12579",
+    "created_at": "2025-12-17T16:54:42Z",
+    "user": "justinzyw",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "id": 3739682967,
+    "number": 14759,
+    "title": "Update build/release workflows to support conda package format v2",
+    "url": "https://github.com/bokeh/bokeh/issues/14759",
+    "created_at": "2025-12-17T16:55:10Z",
+    "user": "mattpap",
+    "labels": [
+      "type: task",
+      "tag: component: build"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3739686382,
+    "number": 25804,
+    "title": "UDF being called multiple times after `unnest `",
+    "url": "https://github.com/pola-rs/polars/issues/25804",
+    "created_at": "2025-12-17T16:55:58Z",
+    "user": "gab23r",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3739700145,
+    "number": 30889,
+    "title": "[CI Failure]: distributed-tests-h200",
+    "url": "https://github.com/vllm-project/vllm/issues/30889",
+    "created_at": "2025-12-17T16:59:47Z",
+    "user": "zou3519",
+    "labels": [
+      "torch.compile",
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3739725705,
+    "number": 2875,
+    "title": "Feature: Change the `IntoArrow` trait to use the C data interface",
+    "url": "https://github.com/lancedb/lancedb/issues/2875",
+    "created_at": "2025-12-17T17:07:26Z",
+    "user": "westonpace",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3739775539,
+    "number": 42930,
+    "title": "Inconsistent handling of video_metadata in Qwen3VLVideoProcessor usage example",
+    "url": "https://github.com/huggingface/transformers/issues/42930",
+    "created_at": "2025-12-17T17:21:00Z",
+    "user": "wagoriginal",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3739785517,
+    "number": 30893,
+    "title": "[Bug]: V1 Engine splits offline embedding batches unexpectedly when multiprocessing is enabled",
+    "url": "https://github.com/vllm-project/vllm/issues/30893",
+    "created_at": "2025-12-17T17:24:14Z",
+    "user": "dmadicTT",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

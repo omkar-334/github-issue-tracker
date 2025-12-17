@@ -1218,6 +1218,23 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3588696956,
+    "number": 62990,
+    "title": "BUG: Series.loc slicing raises KeyError unexpectedly",
+    "url": "https://github.com/pandas-dev/pandas/issues/62990",
+    "created_at": "2025-11-05T01:29:43Z",
+    "user": "DominikHallab",
+    "labels": [
+      "Bug",
+      "Indexing",
+      "Error Reporting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3588820407,
     "number": 28087,
