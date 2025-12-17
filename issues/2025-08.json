@@ -1523,6 +1523,23 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3318532102,
+    "number": 24046,
+    "title": "Sample code does not compile",
+    "url": "https://github.com/pola-rs/polars/issues/24046",
+    "created_at": "2025-08-13T13:42:28Z",
+    "user": "rodya-mirov",
+    "labels": [
+      "bug",
+      "rust",
+      "needs repro"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3319014658,
     "number": 2338,

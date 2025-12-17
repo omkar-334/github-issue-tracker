@@ -8256,6 +8256,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3100206178,
+      "number": 154606,
+      "title": "`torch.cumprod` for complex128 produces inconsistent results between CPU and CUDA",
+      "url": "https://github.com/pytorch/pytorch/issues/154606",
+      "created_at": "2025-05-29T12:34:08Z",
+      "user": "rookieLiu2018",
+      "labels": [
+        "low priority",
+        "triaged",
+        "module: complex",
+        "module: NaNs and Infs",
+        "module: edge cases"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 3100464987,
       "number": 1857,
@@ -13572,6 +13591,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3246338086,
+      "number": 158719,
+      "title": "[FSDP2] FSDP Fails when parameters are used differently across ranks",
+      "url": "https://github.com/pytorch/pytorch/issues/158719",
+      "created_at": "2025-07-20T12:58:34Z",
+      "user": "man2machine",
+      "labels": [
+        "oncall: distributed",
+        "triaged",
+        "module: fsdp"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3246369678,
       "number": 7693,
@@ -16557,6 +16593,23 @@
       "user": "sujitwarrier11",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3318532102,
+      "number": 24046,
+      "title": "Sample code does not compile",
+      "url": "https://github.com/pola-rs/polars/issues/24046",
+      "created_at": "2025-08-13T13:42:28Z",
+      "user": "rodya-mirov",
+      "labels": [
+        "bug",
+        "rust",
+        "needs repro"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -78375,8 +78428,111 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/lighteval",
+      "id": 3738503690,
+      "number": 1110,
+      "title": "[FT] Support setting the multiple random seeds and decoupling it from model deployment?",
+      "url": "https://github.com/huggingface/lighteval/issues/1110",
+      "created_at": "2025-12-17T11:29:45Z",
+      "user": "Kwen-Chen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3738574577,
+      "number": 19460,
+      "title": "[BUG] Searching in the \"Search field\" bar of a pandas dataset with a MultiIndex column throws an error",
+      "url": "https://github.com/mlflow/mlflow/issues/19460",
+      "created_at": "2025-12-17T11:52:13Z",
+      "user": "b-a0",
+      "labels": [
+        "bug",
+        "area/uiux"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3738647975,
+      "number": 170672,
+      "title": "torch.export.export Fails with RuntimeError and \"Please file an issue on github\" for In-Place Parameter Updates in forward",
+      "url": "https://github.com/pytorch/pytorch/issues/170672",
+      "created_at": "2025-12-17T12:13:46Z",
+      "user": "LiSsHhUuAaIi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3738699954,
+      "number": 63396,
+      "title": "Constructor with invalid unicode: automatically fall back to object dtype?",
+      "url": "https://github.com/pandas-dev/pandas/issues/63396",
+      "created_at": "2025-12-17T12:27:37Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "Strings"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "zenml-io/zenml",
+      "id": 3738736806,
+      "number": 4366,
+      "title": "Misc improvements",
+      "url": "https://github.com/zenml-io/zenml/issues/4366",
+      "created_at": "2025-12-17T12:38:46Z",
+      "user": "github-actions[bot]",
+      "labels": [
+        "enhancement",
+        "internal",
+        "snack",
+        "release-notes"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3738742931,
+      "number": 24176,
+      "title": "BUG: Core dump in B-spline interpolation derivatives if order is high enough",
+      "url": "https://github.com/scipy/scipy/issues/24176",
+      "created_at": "2025-12-17T12:40:31Z",
+      "user": "cuk0776",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3738747432,
+      "number": 7730,
+      "title": "Does DeepSpeed support tensor parallelism combined with pipeline parallelism ?",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7730",
+      "created_at": "2025-12-17T12:41:51Z",
+      "user": "rockcute",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T11:27:12Z",
-  "total_count": 5175
+  "last_updated": "2025-12-17T12:57:15Z",
+  "total_count": 5185
 }

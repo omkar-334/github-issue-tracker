@@ -2430,6 +2430,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3246338086,
+    "number": 158719,
+    "title": "[FSDP2] FSDP Fails when parameters are used differently across ranks",
+    "url": "https://github.com/pytorch/pytorch/issues/158719",
+    "created_at": "2025-07-20T12:58:34Z",
+    "user": "man2machine",
+    "labels": [
+      "oncall: distributed",
+      "triaged",
+      "module: fsdp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3246369678,
     "number": 7693,

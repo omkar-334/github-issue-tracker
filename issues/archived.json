@@ -1,21 +1,5 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 1144866599,
-    "number": 22551,
-    "title": "LinearRegression in User Guide seems to have $w_0=0$",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/22551",
-    "created_at": "2022-02-19T22:59:09Z",
-    "user": "thomasoliveira",
-    "labels": [
-      "Documentation",
-      "module:linear_model"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
     "id": 1638868796,
     "number": 3711,
@@ -25,37 +9,6 @@
     "user": "woile",
     "labels": [
       "suppression"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "id": 1720443726,
-    "number": 6726,
-    "title": "Add Copy to Clipboard feature  to Markdown and other fields",
-    "url": "https://github.com/streamlit/streamlit/issues/6726",
-    "created_at": "2023-05-22T20:18:16Z",
-    "user": "Hyperrick",
-    "labels": [
-      "type:enhancement",
-      "feature:markdown"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

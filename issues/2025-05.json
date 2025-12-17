@@ -2180,6 +2180,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3100206178,
+    "number": 154606,
+    "title": "`torch.cumprod` for complex128 produces inconsistent results between CPU and CUDA",
+    "url": "https://github.com/pytorch/pytorch/issues/154606",
+    "created_at": "2025-05-29T12:34:08Z",
+    "user": "rookieLiu2018",
+    "labels": [
+      "low priority",
+      "triaged",
+      "module: complex",
+      "module: NaNs and Infs",
+      "module: edge cases"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3100464987,
     "number": 1857,
