@@ -4107,6 +4107,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 2957034234,
+      "number": 22757,
+      "title": "MAINT: Collect low-level code under SRC folder per module respectively",
+      "url": "https://github.com/scipy/scipy/issues/22757",
+      "created_at": "2025-03-28T19:40:43Z",
+      "user": "ilayn",
+      "labels": [
+        "maintenance",
+        "C/C++"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2958043478,
       "number": 2176,
@@ -37918,6 +37934,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3608458680,
+      "number": 15700,
+      "title": "YOLO-NAS model diverges with Vulkan backend",
+      "url": "https://github.com/pytorch/executorch/issues/15700",
+      "created_at": "2025-11-10T15:04:11Z",
+      "user": "lsauerr",
+      "labels": [
+        "module: vulkan"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3608858695,
       "number": 12624,
@@ -45595,6 +45626,23 @@
       "title": "Test: TestCudaPrimaryCtx.test_set_device_0",
       "url": "https://github.com/pytorch/pytorch/issues/168743",
       "created_at": "2025-11-22T01:07:34Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653552879,
+      "number": 168749,
+      "title": "Test: FakeTensorTest.test_cudnn_rnn",
+      "url": "https://github.com/pytorch/pytorch/issues/168749",
+      "created_at": "2025-11-22T01:07:44Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -65471,6 +65519,22 @@
       "archived": false
     },
     {
+      "repo": "pydantic/pydantic",
+      "id": 3713631408,
+      "number": 12618,
+      "title": "Premature warning about Python 3.14 in pydantic.v1",
+      "url": "https://github.com/pydantic/pydantic/issues/12618",
+      "created_at": "2025-12-10T05:19:56Z",
+      "user": "davidgilbertson",
+      "labels": [
+        "bug V2",
+        "pending"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "chroma-core/chroma",
       "id": 3713653322,
       "number": 6009,
@@ -66005,6 +66069,21 @@
       "labels": [
         "bug",
         "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3714840648,
+      "number": 30387,
+      "title": "[Bug]: illegal memory access countered when using kv-cache-type=fp8  loading  a weight-fp8 model for evaltest  in flash-attn backend",
+      "url": "https://github.com/vllm-project/vllm/issues/30387",
+      "created_at": "2025-12-10T11:43:05Z",
+      "user": "youngze0016",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -68956,6 +69035,22 @@
       "labels": [
         "partner: qualcomm",
         "module: qnn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3721809279,
+      "number": 30533,
+      "title": "[Bug]: Fail to run Qwen3-Next-80B-A3B-Instruct vllm with CPU backend",
+      "url": "https://github.com/vllm-project/vllm/issues/30533",
+      "created_at": "2025-12-12T03:32:39Z",
+      "user": "MaoJianwei",
+      "labels": [
+        "bug",
+        "cpu"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -77677,8 +77772,87 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3737716210,
+      "number": 22977,
+      "title": "Documentation error: `save` argument in Python API does not work when passed to predictor()",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22977",
+      "created_at": "2025-12-17T07:34:23Z",
+      "user": "dingjie-ai",
+      "labels": [
+        "bug",
+        "documentation",
+        "segment"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3737719708,
+      "number": 42915,
+      "title": "Qwen3Moe failed with FineGrainedFP8Config",
+      "url": "https://github.com/huggingface/transformers/issues/42915",
+      "created_at": "2025-12-17T07:35:47Z",
+      "user": "jessiewiswjc",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3737739281,
+      "number": 3780,
+      "title": "Bug: ...Environment variables completely invalid on WSL2",
+      "url": "https://github.com/browser-use/browser-use/issues/3780",
+      "created_at": "2025-12-17T07:42:41Z",
+      "user": "bricklayer-co",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3737780462,
+      "number": 30854,
+      "title": "[CI Failure]: Entrypoints Integration Test (API Server)",
+      "url": "https://github.com/vllm-project/vllm/issues/30854",
+      "created_at": "2025-12-17T07:55:49Z",
+      "user": "SungMinCho",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3737829706,
+      "number": 25793,
+      "title": "Quantile midpoint interpolation not working properly in `cumulative_eval` and `rolling` context",
+      "url": "https://github.com/pola-rs/polars/issues/25793",
+      "created_at": "2025-12-17T08:13:03Z",
+      "user": "t-ded",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T07:29:34Z",
-  "total_count": 5131
+  "last_updated": "2025-12-17T08:38:59Z",
+  "total_count": 5142
 }

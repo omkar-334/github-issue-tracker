@@ -1317,6 +1317,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 2957034234,
+    "number": 22757,
+    "title": "MAINT: Collect low-level code under SRC folder per module respectively",
+    "url": "https://github.com/scipy/scipy/issues/22757",
+    "created_at": "2025-03-28T19:40:43Z",
+    "user": "ilayn",
+    "labels": [
+      "maintenance",
+      "C/C++"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2958043478,
     "number": 2176,

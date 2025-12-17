@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "repo": "numpy/numpy",
+    "id": 1531596993,
+    "number": 23005,
+    "title": "TYP: wrong return type when applying np.split to pd.DataFrame",
+    "url": "https://github.com/numpy/numpy/issues/23005",
+    "created_at": "2023-01-13T01:58:38Z",
+    "user": "dasistkeintest",
+    "labels": [
+      "00 - Bug",
+      "41 - Static typing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2141449149,
+    "number": 120184,
+    "title": "welfordreduce slows down forward layernorm in a bunch of cases",
+    "url": "https://github.com/pytorch/pytorch/issues/120184",
+    "created_at": "2024-02-19T03:59:13Z",
+    "user": "Chillee",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: inductor",
+      "upstream triton"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

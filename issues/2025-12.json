@@ -12371,6 +12371,22 @@
     "archived": false
   },
   {
+    "repo": "pydantic/pydantic",
+    "id": 3713631408,
+    "number": 12618,
+    "title": "Premature warning about Python 3.14 in pydantic.v1",
+    "url": "https://github.com/pydantic/pydantic/issues/12618",
+    "created_at": "2025-12-10T05:19:56Z",
+    "user": "davidgilbertson",
+    "labels": [
+      "bug V2",
+      "pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "chroma-core/chroma",
     "id": 3713653322,
     "number": 6009,
@@ -12905,6 +12921,21 @@
     "labels": [
       "bug",
       "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3714840648,
+    "number": 30387,
+    "title": "[Bug]: illegal memory access countered when using kv-cache-type=fp8  loading  a weight-fp8 model for evaltest  in flash-attn backend",
+    "url": "https://github.com/vllm-project/vllm/issues/30387",
+    "created_at": "2025-12-10T11:43:05Z",
+    "user": "youngze0016",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -15840,6 +15871,22 @@
     "labels": [
       "partner: qualcomm",
       "module: qnn"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3721809279,
+    "number": 30533,
+    "title": "[Bug]: Fail to run Qwen3-Next-80B-A3B-Instruct vllm with CPU backend",
+    "url": "https://github.com/vllm-project/vllm/issues/30533",
+    "created_at": "2025-12-12T03:32:39Z",
+    "user": "MaoJianwei",
+    "labels": [
+      "bug",
+      "cpu"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -24558,6 +24605,85 @@
     "created_at": "2025-12-17T07:22:19Z",
     "user": "liqing9399",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3737716210,
+    "number": 22977,
+    "title": "Documentation error: `save` argument in Python API does not work when passed to predictor()",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22977",
+    "created_at": "2025-12-17T07:34:23Z",
+    "user": "dingjie-ai",
+    "labels": [
+      "bug",
+      "documentation",
+      "segment"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3737719708,
+    "number": 42915,
+    "title": "Qwen3Moe failed with FineGrainedFP8Config",
+    "url": "https://github.com/huggingface/transformers/issues/42915",
+    "created_at": "2025-12-17T07:35:47Z",
+    "user": "jessiewiswjc",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3737739281,
+    "number": 3780,
+    "title": "Bug: ...Environment variables completely invalid on WSL2",
+    "url": "https://github.com/browser-use/browser-use/issues/3780",
+    "created_at": "2025-12-17T07:42:41Z",
+    "user": "bricklayer-co",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737780462,
+    "number": 30854,
+    "title": "[CI Failure]: Entrypoints Integration Test (API Server)",
+    "url": "https://github.com/vllm-project/vllm/issues/30854",
+    "created_at": "2025-12-17T07:55:49Z",
+    "user": "SungMinCho",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3737829706,
+    "number": 25793,
+    "title": "Quantile midpoint interpolation not working properly in `cumulative_eval` and `rolling` context",
+    "url": "https://github.com/pola-rs/polars/issues/25793",
+    "created_at": "2025-12-17T08:13:03Z",
+    "user": "t-ded",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
