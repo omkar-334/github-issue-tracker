@@ -13367,6 +13367,21 @@
   },
   {
     "repo": "pola-rs/polars",
+    "id": 3715599998,
+    "number": 25725,
+    "title": "Concat horizontal strict: ignore empty lazyframes",
+    "url": "https://github.com/pola-rs/polars/issues/25725",
+    "created_at": "2025-12-10T15:05:35Z",
+    "user": "cBournhonesque",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
     "id": 3715605928,
     "number": 25726,
     "title": "Add new method to",
@@ -26060,6 +26075,62 @@
     "labels": [
       "enhancement",
       "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3740170675,
+    "number": 170694,
+    "title": "Proposal to simplify `DeviceThreadHandlePool`",
+    "url": "https://github.com/pytorch/pytorch/issues/170694",
+    "created_at": "2025-12-17T19:25:42Z",
+    "user": "lakshayg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3740255600,
+    "number": 170696,
+    "title": "[torch.compile] `CatchErrorsWrapper' object has no attribute '__closure__`  when wrapping a fullgraph'd function in fullgraph'd module forward",
+    "url": "https://github.com/pytorch/pytorch/issues/170696",
+    "created_at": "2025-12-17T19:56:48Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3740268251,
+    "number": 5288,
+    "title": "Write article on Kedro support for agentic workflows",
+    "url": "https://github.com/kedro-org/kedro/issues/5288",
+    "created_at": "2025-12-17T20:01:26Z",
+    "user": "AliceCima10",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3740342146,
+    "number": 34010,
+    "title": "Crash for CNN with a specific batch size",
+    "url": "https://github.com/jax-ml/jax/issues/34010",
+    "created_at": "2025-12-17T20:26:11Z",
+    "user": "cherrywoods",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

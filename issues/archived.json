@@ -1,29 +1,16 @@
 [
   {
-    "repo": "pola-rs/polars",
-    "id": 2328399839,
-    "number": 16637,
-    "title": "Support CSE on python UDFs",
-    "url": "https://github.com/pola-rs/polars/issues/16637",
-    "created_at": "2024-05-31T18:42:31Z",
-    "user": "kszlim",
+    "repo": "matplotlib/matplotlib",
+    "id": 1075981202,
+    "number": 21898,
+    "title": "Reprs on formatters and locaters",
+    "url": "https://github.com/matplotlib/matplotlib/issues/21898",
+    "created_at": "2021-12-09T20:28:30Z",
+    "user": "story645",
     "labels": [
-      "enhancement"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "id": 2668253690,
-    "number": 10866,
-    "title": "ErrorDetail loc does not use alias, which is inconsistent with V1",
-    "url": "https://github.com/pydantic/pydantic/issues/10866",
-    "created_at": "2024-11-18T11:31:45Z",
-    "user": "khaind",
-    "labels": [
-      "feature request"
+      "New feature",
+      "Difficulty: Medium",
+      "topic: ticks axis labels"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
