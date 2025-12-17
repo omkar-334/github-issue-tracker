@@ -1810,6 +1810,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3326630105,
+    "number": 23015,
+    "title": "[Bug]: Is the chat template for gpt-oss hard-coded?",
+    "url": "https://github.com/vllm-project/vllm/issues/23015",
+    "created_at": "2025-08-16T00:17:25Z",
+    "user": "lance0108",
+    "labels": [
+      "bug",
+      "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 3326745348,
     "number": 2382,
@@ -3317,6 +3333,23 @@
     "created_at": "2025-08-29T18:32:23Z",
     "user": "relativity-codes",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3368533033,
+    "number": 23975,
+    "title": "[gpt-oss]: Ability to set model_identity dynamically which is used in building the system prompt",
+    "url": "https://github.com/vllm-project/vllm/issues/23975",
+    "created_at": "2025-08-30T00:33:26Z",
+    "user": "gittb",
+    "labels": [
+      "feature request",
+      "stale",
+      "gpt-oss"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

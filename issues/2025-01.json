@@ -714,6 +714,19 @@
     "archived": false
   },
   {
+    "repo": "facebook/prophet",
+    "id": 2801610352,
+    "number": 2653,
+    "title": "worsening of predictions in the prophet model when reducing the dataset",
+    "url": "https://github.com/facebook/prophet/issues/2653",
+    "created_at": "2025-01-21T11:50:19Z",
+    "user": "carlosknop01",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2801769729,
     "number": 1726,

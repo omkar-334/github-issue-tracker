@@ -2562,6 +2562,19 @@
     "archived": false
   },
   {
+    "repo": "facebook/prophet",
+    "id": 3247781841,
+    "number": 2679,
+    "title": "How to further breakdown trend contribution",
+    "url": "https://github.com/facebook/prophet/issues/2679",
+    "created_at": "2025-07-21T09:01:34Z",
+    "user": "RajamannarAanjaram",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3249255610,
     "number": 3301,

@@ -3437,6 +3437,22 @@
     "archived": false
   },
   {
+    "repo": "holoviz/panel",
+    "id": 3689271582,
+    "number": 8326,
+    "title": "Define migration plan for integrating panel-material-ui into core Panel",
+    "url": "https://github.com/holoviz/panel/issues/8326",
+    "created_at": "2025-12-03T09:19:45Z",
+    "user": "philippjfr",
+    "labels": [
+      "type: discussion",
+      "api"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3689299360,
     "number": 3298,
@@ -25228,6 +25244,110 @@
     "labels": [
       "bug",
       "area/evaluation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "zenml-io/zenml",
+    "id": 3738961635,
+    "number": 4367,
+    "title": "Follow-up on log improvements",
+    "url": "https://github.com/zenml-io/zenml/issues/4367",
+    "created_at": "2025-12-17T13:39:11Z",
+    "user": "bcdurak",
+    "labels": [
+      "planned",
+      "core-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3738977890,
+    "number": 170674,
+    "title": "Flex attention cannot support page size/block mask size != 128 for prefill.",
+    "url": "https://github.com/pytorch/pytorch/issues/170674",
+    "created_at": "2025-12-17T13:43:56Z",
+    "user": "man2machine",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3739008396,
+    "number": 32915,
+    "title": "[for discussion]: adding link to Contributing Guide to top menu",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32915",
+    "created_at": "2025-12-17T13:52:28Z",
+    "user": "reshamas",
+    "labels": [
+      "Documentation",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3739045852,
+    "number": 12574,
+    "title": "Améliorer la documentation pour la rendre plus visuelle et intuitive",
+    "url": "https://github.com/gradio-app/gradio/issues/12574",
+    "created_at": "2025-12-17T14:02:00Z",
+    "user": "leoMainard",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3739065719,
+    "number": 20382,
+    "title": "[Question]: how to convert gradio openai-like history format to llama-index history format?",
+    "url": "https://github.com/run-llama/llama_index/issues/20382",
+    "created_at": "2025-12-17T14:07:17Z",
+    "user": "justinzyw",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3739107534,
+    "number": 30872,
+    "title": "[Bug]: Triton kernel failing for LoRA on SM100",
+    "url": "https://github.com/vllm-project/vllm/issues/30872",
+    "created_at": "2025-12-17T14:18:48Z",
+    "user": "josefdra",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3739114065,
+    "number": 22980,
+    "title": "loss decreases slowly, but extremely small mAP(1*10-5-1*10-4)",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22980",
+    "created_at": "2025-12-17T14:20:40Z",
+    "user": "zhanxn666",
+    "labels": [
+      "question",
+      "detect"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
