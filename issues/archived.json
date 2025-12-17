@@ -1,16 +1,14 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1075981202,
-    "number": 21898,
-    "title": "Reprs on formatters and locaters",
-    "url": "https://github.com/matplotlib/matplotlib/issues/21898",
-    "created_at": "2021-12-09T20:28:30Z",
-    "user": "story645",
+    "repo": "pytorch/pytorch",
+    "id": 2175829538,
+    "number": 121486,
+    "title": "Kubernetes API server as Rendezvous backend",
+    "url": "https://github.com/pytorch/pytorch/issues/121486",
+    "created_at": "2024-03-08T11:13:15Z",
+    "user": "sathyanarays",
     "labels": [
-      "New feature",
-      "Difficulty: Medium",
-      "topic: ticks axis labels"
+      "oncall: distributed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

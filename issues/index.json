@@ -5018,6 +5018,27 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 2989201911,
+      "number": 52257,
+      "title": "[Data] Aggregation is doing internal conversions that breaks on list-like AggType",
+      "url": "https://github.com/ray-project/ray/issues/52257",
+      "created_at": "2025-04-11T16:51:43Z",
+      "user": "oxiez",
+      "labels": [
+        "bug",
+        "P1",
+        "python",
+        "@external-author-action-required",
+        "data",
+        "community-contribution",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 2989596112,
       "number": 10040,
@@ -26864,6 +26885,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3483924257,
+      "number": 24761,
+      "title": "What is the replacement for GetOutput in Polars 0.51.0 (rust)?",
+      "url": "https://github.com/pola-rs/polars/issues/24761",
+      "created_at": "2025-10-04T16:17:06Z",
+      "user": "WarrenWilkinson",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/sktime",
       "id": 3483973584,
       "number": 8905,
@@ -28995,6 +29031,22 @@
       "user": "mwqgithub",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3512577835,
+      "number": 26769,
+      "title": "[Bug]: deploying Qwen3-VL-30B-A3B on AMD MI308X GPU, failed to start with worker process dying unexpectedly after loading weights",
+      "url": "https://github.com/vllm-project/vllm/issues/26769",
+      "created_at": "2025-10-14T06:42:05Z",
+      "user": "YoungZnBIT",
+      "labels": [
+        "bug",
+        "rocm"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -79899,8 +79951,84 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3740367278,
+      "number": 5289,
+      "title": "Create Kedro product demo",
+      "url": "https://github.com/kedro-org/kedro/issues/5289",
+      "created_at": "2025-12-17T20:34:05Z",
+      "user": "AliceCima10",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3740374365,
+      "number": 12583,
+      "title": "Trimming audio in `gr.Tab` crashes demo",
+      "url": "https://github.com/gradio-app/gradio/issues/12583",
+      "created_at": "2025-12-17T20:36:33Z",
+      "user": "dawoodkhan82",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3740418864,
+      "number": 59515,
+      "title": "[Data] Ray Data doesn't respect read `concurrency` if the read gets fused",
+      "url": "https://github.com/ray-project/ray/issues/59515",
+      "created_at": "2025-12-17T20:49:53Z",
+      "user": "bveeramani",
+      "labels": [
+        "bug",
+        "P0",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3740510448,
+      "number": 20386,
+      "title": "[Feature Request]: Deterministic tool I/O pre/post-processing (middleware/hooks) for agents (MCP motivating case)",
+      "url": "https://github.com/run-llama/llama_index/issues/20386",
+      "created_at": "2025-12-17T21:15:25Z",
+      "user": "dgenio",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3740537567,
+      "number": 30904,
+      "title": "[Bug]: Empty content on NVIDIA-Nemotron-3-Nano-30B-A3B-FP8",
+      "url": "https://github.com/vllm-project/vllm/issues/30904",
+      "created_at": "2025-12-17T21:21:48Z",
+      "user": "puppetm4st3r",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T20:32:37Z",
-  "total_count": 5276
+  "last_updated": "2025-12-17T21:28:37Z",
+  "total_count": 5284
 }

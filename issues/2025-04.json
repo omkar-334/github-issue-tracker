@@ -651,6 +651,27 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2989201911,
+    "number": 52257,
+    "title": "[Data] Aggregation is doing internal conversions that breaks on list-like AggType",
+    "url": "https://github.com/ray-project/ray/issues/52257",
+    "created_at": "2025-04-11T16:51:43Z",
+    "user": "oxiez",
+    "labels": [
+      "bug",
+      "P1",
+      "python",
+      "@external-author-action-required",
+      "data",
+      "community-contribution",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 2989596112,
     "number": 10040,
