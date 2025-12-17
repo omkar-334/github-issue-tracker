@@ -4647,6 +4647,19 @@
       "archived": false
     },
     {
+      "repo": "lancedb/lancedb",
+      "id": 2978167527,
+      "number": 2319,
+      "title": "Question: sync changes across databases",
+      "url": "https://github.com/lancedb/lancedb/issues/2319",
+      "created_at": "2025-04-07T22:53:27Z",
+      "user": "p8a",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2978550962,
       "number": 150823,
@@ -6896,6 +6909,24 @@
       "user": "phoeenniixx",
       "labels": [
         "API design"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3058103591,
+      "number": 153410,
+      "title": "[Feature request] `torch.export` .save/.load could support `safetensors` and/or `weights_only=True`",
+      "url": "https://github.com/pytorch/pytorch/issues/153410",
+      "created_at": "2025-05-12T20:49:55Z",
+      "user": "stu-twelvelabs",
+      "labels": [
+        "good first issue",
+        "oncall: pt2",
+        "export-triaged",
+        "oncall: export"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -79081,8 +79112,215 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3739426875,
+      "number": 170682,
+      "title": "[BUG][Inconsistency]aten.__upsample_nearest gives different results on Inductor vs Eager with bfloat16",
+      "url": "https://github.com/pytorch/pytorch/issues/170682",
+      "created_at": "2025-12-17T15:42:37Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3739432389,
+      "number": 25803,
+      "title": "JSON roundtrip fails for several dtypes (`struct.json_encode` and `str.json_decode`)",
+      "url": "https://github.com/pola-rs/polars/issues/25803",
+      "created_at": "2025-12-17T15:44:01Z",
+      "user": "jjurm",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-dtype-struct",
+        "A-io-json"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3739435362,
+      "number": 30879,
+      "title": "[Doc]: Add some documentation about encoder compilation",
+      "url": "https://github.com/vllm-project/vllm/issues/30879",
+      "created_at": "2025-12-17T15:44:50Z",
+      "user": "zou3519",
+      "labels": [
+        "documentation",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3739447277,
+      "number": 30880,
+      "title": "[Feature]: more robust way to detect if compile_sizes/compile_ranges applies to the current compilation",
+      "url": "https://github.com/vllm-project/vllm/issues/30880",
+      "created_at": "2025-12-17T15:47:53Z",
+      "user": "zou3519",
+      "labels": [
+        "feature request",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3739461805,
+      "number": 19467,
+      "title": "[BUG] Mlflow GC fails to delete artifact",
+      "url": "https://github.com/mlflow/mlflow/issues/19467",
+      "created_at": "2025-12-17T15:52:19Z",
+      "user": "alvespatrick",
+      "labels": [
+        "bug",
+        "area/tracking"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3739498466,
+      "number": 34406,
+      "title": "Empty AIMessage when using astream() with Anthropic programmatic tool calling",
+      "url": "https://github.com/langchain-ai/langchain/issues/34406",
+      "created_at": "2025-12-17T16:03:12Z",
+      "user": "rns70",
+      "labels": [
+        "bug",
+        "anthropic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3739520837,
+      "number": 3782,
+      "title": "Mismatch Between system_prompt.md and Generated Browser State",
+      "url": "https://github.com/browser-use/browser-use/issues/3782",
+      "created_at": "2025-12-17T16:09:05Z",
+      "user": "JhengLu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3739538339,
+      "number": 63399,
+      "title": "BUG: pandas copy_on_write mode deprecation warning points to `contextlib` module",
+      "url": "https://github.com/pandas-dev/pandas/issues/63399",
+      "created_at": "2025-12-17T16:13:44Z",
+      "user": "TomAugspurger",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3739554902,
+      "number": 170684,
+      "title": "[Bug][Inductor] Numerical inconsistency with eager for aten.cosine_similarity",
+      "url": "https://github.com/pytorch/pytorch/issues/170684",
+      "created_at": "2025-12-17T16:17:35Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3739558095,
+      "number": 2874,
+      "title": "bug(rust): assertion failed: (offset + length) <= self.len() in MergeInsertJob",
+      "url": "https://github.com/lancedb/lancedb/issues/2874",
+      "created_at": "2025-12-17T16:18:26Z",
+      "user": "valkum",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "chroma-core/chroma",
+      "id": 3739563459,
+      "number": 6052,
+      "title": "ChromaDB upsert silently exits on Windows Server",
+      "url": "https://github.com/chroma-core/chroma/issues/6052",
+      "created_at": "2025-12-17T16:19:40Z",
+      "user": "MahdiElahi",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3739566786,
+      "number": 10258,
+      "title": "The Qwen3 model cannot obtain the meta usage for streaming.",
+      "url": "https://github.com/deepset-ai/haystack/issues/10258",
+      "created_at": "2025-12-17T16:20:33Z",
+      "user": "Silence-Well",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3739599157,
+      "number": 30874,
+      "title": "[Bug]: Layout overlap with constrained_layout when adding colorbar and long labels",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30874",
+      "created_at": "2025-12-17T16:29:24Z",
+      "user": "sanchit122006",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3739605680,
+      "number": 170686,
+      "title": "[BUG][Inductor ] Inductor fails on aten._to_sparse_bsc due to incorrect stride assumption for Sparse BSC tensors",
+      "url": "https://github.com/pytorch/pytorch/issues/170686",
+      "created_at": "2025-12-17T16:31:34Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T15:32:38Z",
-  "total_count": 5222
+  "last_updated": "2025-12-17T16:37:31Z",
+  "total_count": 5238
 }

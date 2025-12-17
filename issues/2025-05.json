@@ -798,6 +798,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3058103591,
+    "number": 153410,
+    "title": "[Feature request] `torch.export` .save/.load could support `safetensors` and/or `weights_only=True`",
+    "url": "https://github.com/pytorch/pytorch/issues/153410",
+    "created_at": "2025-05-12T20:49:55Z",
+    "user": "stu-twelvelabs",
+    "labels": [
+      "good first issue",
+      "oncall: pt2",
+      "export-triaged",
+      "oncall: export"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3060364503,
     "number": 2725,
