@@ -1,24 +1,6 @@
 {
   "issues": [
     {
-      "repo": "BerriAI/litellm",
-      "id": 2742691967,
-      "number": 7254,
-      "title": "[Bug]: LiteLLM Azure TTS Streaming Issue",
-      "url": "https://github.com/BerriAI/litellm/issues/7254",
-      "created_at": "2024-12-16T15:26:35Z",
-      "user": "yigitkonur",
-      "labels": [
-        "bug",
-        "stale",
-        "august 2025",
-        "triage"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "huggingface/accelerate",
       "id": 2743785502,
       "number": 3300,
@@ -3262,6 +3244,22 @@
         "good first issue",
         "feature:multipage-apps",
         "feature:st.navigation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 2915152151,
+      "number": 1998,
+      "title": "Unsloth: Your GPU is too old!",
+      "url": "https://github.com/unslothai/unsloth/issues/1998",
+      "created_at": "2025-03-12T20:58:48Z",
+      "user": "pavelprosto94",
+      "labels": [
+        "currently fixing",
+        "URGENT BUG"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -35453,6 +35451,21 @@
       "labels": [
         "New feature",
         "status: needs comment/discussion"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3588820407,
+      "number": 28087,
+      "title": "[Bug]: vllm serving deepseek-r1-0528 model on AWS EFA with 8*H200",
+      "url": "https://github.com/vllm-project/vllm/issues/28087",
+      "created_at": "2025-11-05T02:17:22Z",
+      "user": "CalebZ9909",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -69556,6 +69569,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3723966894,
+      "number": 170302,
+      "title": "DISABLED test_opaque_obj_training_ir_to_decomp_nonstrict (__main__.TrainingIRToRunDecompExportNonStrictTestExport)",
+      "url": "https://github.com/pytorch/pytorch/issues/170302",
+      "created_at": "2025-12-12T16:04:41Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/huggingface_hub",
       "id": 3723990715,
       "number": 3619,
@@ -76772,8 +76803,175 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3736718922,
+      "number": 8390,
+      "title": "ENH: Add support for callables to capacity attributes in flow algorithms",
+      "url": "https://github.com/networkx/networkx/issues/8390",
+      "created_at": "2025-12-16T23:36:40Z",
+      "user": "rossbar",
+      "labels": [
+        "type: Enhancements"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3736744821,
+      "number": 19831,
+      "title": "Support for AWS IAM Assume Role authentication in AWSCredentials Block",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19831",
+      "created_at": "2025-12-16T23:47:31Z",
+      "user": "bdalpe",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3736760901,
+      "number": 19832,
+      "title": "Add AWS CodeCommit git authentication support",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19832",
+      "created_at": "2025-12-16T23:54:45Z",
+      "user": "bdalpe",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3736783273,
+      "number": 170626,
+      "title": "Invariant Checks for Sparse Tensors",
+      "url": "https://github.com/pytorch/pytorch/issues/170626",
+      "created_at": "2025-12-17T00:05:41Z",
+      "user": "amjames",
+      "labels": [
+        "module: sparse"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3736817584,
+      "number": 30824,
+      "title": "[Feature]: xinference has xllamacpp, can you add something in vllm for gguf files",
+      "url": "https://github.com/vllm-project/vllm/issues/30824",
+      "created_at": "2025-12-17T00:24:29Z",
+      "user": "aynig",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3736827495,
+      "number": 19834,
+      "title": "Prefect UI: Link from Deployment/Flow Run/Flow to code repository",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19834",
+      "created_at": "2025-12-17T00:30:29Z",
+      "user": "bkkkk",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3736837381,
+      "number": 33987,
+      "title": "AttributeError when assigning constant to Ref inside grad()",
+      "url": "https://github.com/jax-ml/jax/issues/33987",
+      "created_at": "2025-12-17T00:35:46Z",
+      "user": "danijar",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3736839900,
+      "number": 34398,
+      "title": "Add BuiltinToolsMiddleWare to support native llm builtin tools like web_search, code_execution, file_content, etc.",
+      "url": "https://github.com/langchain-ai/langchain/issues/34398",
+      "created_at": "2025-12-17T00:37:24Z",
+      "user": "tetv",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3736845400,
+      "number": 4708,
+      "title": "qwen3_schema fails to parse multiple parallel tool calls",
+      "url": "https://github.com/huggingface/trl/issues/4708",
+      "created_at": "2025-12-17T00:40:48Z",
+      "user": "austinmw",
+      "labels": [
+        "🐛 bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3736871872,
+      "number": 8393,
+      "title": "API: deprecate `maximum_flow_value` and `minimum_cut_value`?",
+      "url": "https://github.com/networkx/networkx/issues/8393",
+      "created_at": "2025-12-17T00:58:00Z",
+      "user": "rossbar",
+      "labels": [
+        "Discussion",
+        "type: API"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3736999736,
+      "number": 30828,
+      "title": "[Bug]: The tokenizer you are loading from '/models/GLM-4.6V-Flash' with an incorrect regex pattern: https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503/discussions/84#69121093e8b480e709447d5e. This will lead to incorrect tokenization.",
+      "url": "https://github.com/vllm-project/vllm/issues/30828",
+      "created_at": "2025-12-17T01:51:51Z",
+      "user": "jieguolove",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-16T23:26:23Z",
-  "total_count": 5072
+  "last_updated": "2025-12-17T01:57:49Z",
+  "total_count": 5085
 }

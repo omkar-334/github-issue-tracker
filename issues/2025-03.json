@@ -507,6 +507,22 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 2915152151,
+    "number": 1998,
+    "title": "Unsloth: Your GPU is too old!",
+    "url": "https://github.com/unslothai/unsloth/issues/1998",
+    "created_at": "2025-03-12T20:58:48Z",
+    "user": "pavelprosto94",
+    "labels": [
+      "currently fixing",
+      "URGENT BUG"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 2916064546,
     "number": 8966,

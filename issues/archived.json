@@ -1,50 +1,53 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1219192201,
-    "number": 76557,
-    "title": "Pip packaging and publishing improvements in pytorch wheels for better integration with poetry",
-    "url": "https://github.com/pytorch/pytorch/issues/76557",
-    "created_at": "2022-04-28T19:40:35Z",
-    "user": "suneeta-mall",
+    "repo": "mlflow/mlflow",
+    "id": 1897736285,
+    "number": 9642,
+    "title": "[BUG] Permission database initialize error when use MYSQL",
+    "url": "https://github.com/mlflow/mlflow/issues/9642",
+    "created_at": "2023-09-15T05:33:55Z",
+    "user": "JiayuZhai",
     "labels": [
-      "module: binaries",
-      "triaged"
+      "bug",
+      "area/sqlalchemy",
+      "area/server-infra"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "numpy/numpy",
-    "id": 1531596993,
-    "number": 23005,
-    "title": "BUG: wrong return type when applying np.split to pd.DataFrame",
-    "url": "https://github.com/numpy/numpy/issues/23005",
-    "created_at": "2023-01-13T01:58:38Z",
-    "user": "dasistkeintest",
+    "repo": "ultralytics/ultralytics",
+    "id": 2559718508,
+    "number": 16602,
+    "title": "Ultralytics YOLO11 Launch 🚀",
+    "url": "https://github.com/ultralytics/ultralytics/issues/16602",
+    "created_at": "2024-10-01T16:32:40Z",
+    "user": "glenn-jocher",
     "labels": [
-      "00 - Bug",
-      "41 - Static typing"
+      "documentation",
+      "enhancement",
+      "segment",
+      "detect",
+      "pose"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 2523327452,
-    "number": 135892,
-    "title": "torch.compile with mode = \"max-autotune\" breaks when starting from inference_mode",
-    "url": "https://github.com/pytorch/pytorch/issues/135892",
-    "created_at": "2024-09-12T20:50:32Z",
-    "user": "JanRocketMan",
+    "repo": "BerriAI/litellm",
+    "id": 2742691967,
+    "number": 7254,
+    "title": "[Bug]: LiteLLM Azure TTS Streaming Issue",
+    "url": "https://github.com/BerriAI/litellm/issues/7254",
+    "created_at": "2024-12-16T15:26:35Z",
+    "user": "yigitkonur",
     "labels": [
-      "high priority",
-      "triaged",
-      "module: cuda graphs",
-      "inference mode",
-      "oncall: pt2"
+      "bug",
+      "stale",
+      "august 2025",
+      "triage"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
