@@ -12338,6 +12338,23 @@
     "archived": false
   },
   {
+    "repo": "dask/distributed",
+    "id": 3713666047,
+    "number": 9163,
+    "title": "dask unstable; multiple race condition errors: P2PConsistencyError, RuntimeError, FutureCancelledError ...",
+    "url": "https://github.com/dask/distributed/issues/9163",
+    "created_at": "2025-12-10T05:34:46Z",
+    "user": "lbesnard",
+    "labels": [
+      "bug",
+      "needs info",
+      "needs reproducer"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3713675220,
     "number": 3703,
@@ -15932,6 +15949,22 @@
     "created_at": "2025-12-12T06:57:32Z",
     "user": "howitry",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3722363280,
+    "number": 170284,
+    "title": "selective activation checkpoint compatibility to async activation offload",
+    "url": "https://github.com/pytorch/pytorch/issues/170284",
+    "created_at": "2025-12-12T07:39:36Z",
+    "user": "984881878",
+    "labels": [
+      "module: activation checkpointing",
+      "triaged"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -24246,6 +24279,49 @@
     "labels": [
       "module: symm_mem"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3737317739,
+    "number": 30839,
+    "title": "[RFC]: Enabling Zero-Copy Video with PyNvVideoCodec and IPC",
+    "url": "https://github.com/vllm-project/vllm/issues/30839",
+    "created_at": "2025-12-17T04:46:59Z",
+    "user": "brandonpelfrey",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3737335320,
+    "number": 3779,
+    "title": "Bug: Does not detect chromium installed by playwright 1.57.0",
+    "url": "https://github.com/browser-use/browser-use/issues/3779",
+    "created_at": "2025-12-17T04:56:20Z",
+    "user": "stevbev",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3737356544,
+    "number": 170642,
+    "title": "_cudnn_init_dropout_state crashes with dtype != Byte",
+    "url": "https://github.com/pytorch/pytorch/issues/170642",
+    "created_at": "2025-12-17T05:07:23Z",
+    "user": "jikechao",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
