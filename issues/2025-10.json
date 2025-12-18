@@ -3572,6 +3572,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3519588644,
+    "number": 26946,
+    "title": "[RFC]: Enable libtorch-ABI-stable vLLM cuda wheels",
+    "url": "https://github.com/vllm-project/vllm/issues/26946",
+    "created_at": "2025-10-15T21:10:09Z",
+    "user": "janeyx99",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3519634905,
     "number": 1020,
@@ -8061,6 +8076,25 @@
     "created_at": "2025-10-30T15:02:51Z",
     "user": "qgallouedec",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3571291598,
+    "number": 166643,
+    "title": "Significant Memory Regression in `F.conv3d` with `bfloat16` Inputs in `PyTorch 2.9.0`",
+    "url": "https://github.com/pytorch/pytorch/issues/166643",
+    "created_at": "2025-10-30T15:19:03Z",
+    "user": "emre-synnada",
+    "labels": [
+      "module: binaries",
+      "module: cuda",
+      "module: convolution",
+      "triaged",
+      "module: regression"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

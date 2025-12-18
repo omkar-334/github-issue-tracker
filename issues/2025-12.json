@@ -28212,5 +28212,161 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3743884768,
+    "number": 170778,
+    "title": "torch-cpp incorrectly detect ROCm as CPU build",
+    "url": "https://github.com/pytorch/pytorch/issues/170778",
+    "created_at": "2025-12-18T16:37:09Z",
+    "user": "thiagocrepaldi",
+    "labels": [
+      "module: cpp-extensions",
+      "module: rocm",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3743901344,
+    "number": 5146,
+    "title": "Nnx.pop leaves module with new static attribute",
+    "url": "https://github.com/google/flax/issues/5146",
+    "created_at": "2025-12-18T16:42:55Z",
+    "user": "samanklesaria",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3743903320,
+    "number": 30470,
+    "title": "BUG: numpy logarithm behavior does not match CPython 3.14 `cmath.log` behavior",
+    "url": "https://github.com/numpy/numpy/issues/30470",
+    "created_at": "2025-12-18T16:43:34Z",
+    "user": "cpcloud",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3743921265,
+    "number": 170781,
+    "title": "meta_model.to_empty(...) equivalent for FakeTensor",
+    "url": "https://github.com/pytorch/pytorch/issues/170781",
+    "created_at": "2025-12-18T16:49:02Z",
+    "user": "ezyang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3743929209,
+    "number": 170782,
+    "title": "[BUG][Inductor] TorchInductor crashes with CUDA illegal memory access for aten._no_grad_embedding_renorm_",
+    "url": "https://github.com/pytorch/pytorch/issues/170782",
+    "created_at": "2025-12-18T16:50:57Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3743935533,
+    "number": 170783,
+    "title": "New higher order ops to handle loops",
+    "url": "https://github.com/pytorch/pytorch/issues/170783",
+    "created_at": "2025-12-18T16:52:57Z",
+    "user": "xadupre",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3743944204,
+    "number": 25818,
+    "title": "Inconsistent behavior of fmt_str_lengths between __str__ (print) and _repr_html (Jupyter display)",
+    "url": "https://github.com/pola-rs/polars/issues/25818",
+    "created_at": "2025-12-18T16:55:23Z",
+    "user": "dakoop",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3743978441,
+    "number": 59551,
+    "title": "SLURM issue tracker",
+    "url": "https://github.com/ray-project/ray/issues/59551",
+    "created_at": "2025-12-18T17:06:28Z",
+    "user": "richardliaw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3743987828,
+    "number": 16319,
+    "title": "Android Demo App : Realtime Bird Watching App [Yolo + Bird Classifier]",
+    "url": "https://github.com/pytorch/executorch/issues/16319",
+    "created_at": "2025-12-18T17:09:39Z",
+    "user": "psiddh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3744009436,
+    "number": 13410,
+    "title": "Bug: Altair charts with VConcat and HConcat broken on st v1.42 onwards",
+    "url": "https://github.com/streamlit/streamlit/issues/13410",
+    "created_at": "2025-12-18T17:16:32Z",
+    "user": "connortann",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3744016876,
+    "number": 11884,
+    "title": "xgboost4j-spark-gpu fails to run on multi-GPU server with GPUs in exclusive process mode and spark-rapids plugin",
+    "url": "https://github.com/dmlc/xgboost/issues/11884",
+    "created_at": "2025-12-18T17:18:39Z",
+    "user": "eordentlich",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
