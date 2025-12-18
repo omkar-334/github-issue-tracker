@@ -2828,6 +2828,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3352336902,
+    "number": 23567,
+    "title": "[Bug]: openai_harmony.HarmonyError: unexpected tokens remaining in message header",
+    "url": "https://github.com/vllm-project/vllm/issues/23567",
+    "created_at": "2025-08-25T15:46:01Z",
+    "user": "MoellerAI",
+    "labels": [
+      "bug",
+      "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3352459544,
     "number": 7106,

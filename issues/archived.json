@@ -1,29 +1,62 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1888696675,
-    "number": 26729,
-    "title": "[ENH]: Turn 3d Axes view angle attributes (azim/elev/roll) into Matplotlib properties",
-    "url": "https://github.com/matplotlib/matplotlib/issues/26729",
-    "created_at": "2023-09-09T11:16:25Z",
-    "user": "anntzer",
+    "repo": "microsoft/LightGBM",
+    "id": 794742546,
+    "number": 3867,
+    "title": "[ci] warnings from mypy",
+    "url": "https://github.com/microsoft/LightGBM/issues/3867",
+    "created_at": "2021-01-27T03:46:19Z",
+    "user": "jameslamb",
     "labels": [
-      "New feature",
-      "topic: mplot3d"
+      "help wanted",
+      "good first issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "open-mmlab/mmcv",
-    "id": 2263101695,
-    "number": 3096,
-    "title": "[Bug] AssertionError: MMCV==2.2.0 is used but incompatible. Please install mmcv>=2.0.0rc4, <2.2.0.",
-    "url": "https://github.com/open-mmlab/mmcv/issues/3096",
-    "created_at": "2024-04-25T09:20:20Z",
-    "user": "Grushus",
-    "labels": [],
+    "repo": "huggingface/huggingface_hub",
+    "id": 2616681769,
+    "number": 2637,
+    "title": "Spacy packages not installable via (uv) pip",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/2637",
+    "created_at": "2024-10-27T15:39:49Z",
+    "user": "jcorrie",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 2691898113,
+    "number": 34928,
+    "title": "Recomputed tensor size does not match when using activation checkpointing when using FSDP and accelerate",
+    "url": "https://github.com/huggingface/transformers/issues/34928",
+    "created_at": "2024-11-25T19:02:12Z",
+    "user": "jjbuck",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2743096721,
+    "number": 26523,
+    "title": "Split Embedded ELT into packages for dlt and Sling",
+    "url": "https://github.com/dagster-io/dagster/issues/26523",
+    "created_at": "2024-12-16T18:29:23Z",
+    "user": "deepyaman",
+    "labels": [
+      "integration: embedded-elt",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
