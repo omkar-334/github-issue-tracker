@@ -26402,5 +26402,146 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3740823891,
+    "number": 59522,
+    "title": "[data][llm] LLM Batch Inference Resiliency Thread",
+    "url": "https://github.com/ray-project/ray/issues/59522",
+    "created_at": "2025-12-17T23:26:46Z",
+    "user": "jiangwu300",
+    "labels": [
+      "enhancement",
+      "triage",
+      "data",
+      "llm",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "id": 3740896315,
+    "number": 4727,
+    "title": "Provide ability to do an exact search with IndexHNSW structure",
+    "url": "https://github.com/facebookresearch/faiss/issues/4727",
+    "created_at": "2025-12-18T00:10:09Z",
+    "user": "navneet1v",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3740932805,
+    "number": 63404,
+    "title": "BUG: `Series([], dtype=\"datetime/timedelta64[non-nano]\").quantile()` raises instead of returning NaT",
+    "url": "https://github.com/pandas-dev/pandas/issues/63404",
+    "created_at": "2025-12-18T00:29:21Z",
+    "user": "mroeschke",
+    "labels": [
+      "Bug",
+      "Timedelta",
+      "Reduction Operations"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3740988850,
+    "number": 34413,
+    "title": "ChatGoogleGenerativeAI: on_llm_new_token receives list instead of string with Gemini 3 Flash",
+    "url": "https://github.com/langchain-ai/langchain/issues/34413",
+    "created_at": "2025-12-18T00:55:52Z",
+    "user": "Kevin-McIsaac",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3741037024,
+    "number": 21428,
+    "title": "Optimizer.step called after on_epoch_end",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21428",
+    "created_at": "2025-12-18T01:22:47Z",
+    "user": "RorryB",
+    "labels": [
+      "bug",
+      "needs triage",
+      "ver: 2.1.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3741048666,
+    "number": 170736,
+    "title": "DISABLED test_rms_norm_sharing_weights_split_reductions_False_bfloat16 (__main__.MixOrderReductionTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/170736",
+    "created_at": "2025-12-18T01:29:53Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3741049135,
+    "number": 59525,
+    "title": "[serve][llm] DP Group Replica Feature Milestone Tracker",
+    "url": "https://github.com/ray-project/ray/issues/59525",
+    "created_at": "2025-12-18T01:30:14Z",
+    "user": "eicherseiji",
+    "labels": [
+      "enhancement",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3741057025,
+    "number": 170737,
+    "title": "Expect to open the is_privateuseone branch in the LSTM interface of PyTorch's RNN.cpp to develop corresponding LSTM functionality on NPU.",
+    "url": "https://github.com/pytorch/pytorch/issues/170737",
+    "created_at": "2025-12-18T01:34:31Z",
+    "user": "jxj9049",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3741060961,
+    "number": 9132,
+    "title": "[Feature] Add docstrings for dspy/predict/multi_chain_comparison.py MultiChainComparison class",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9132",
+    "created_at": "2025-12-18T01:36:34Z",
+    "user": "muhammadazeemhaider",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

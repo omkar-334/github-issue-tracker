@@ -1643,6 +1643,19 @@
     "archived": false
   },
   {
+    "repo": "triton-lang/triton",
+    "id": 3593284946,
+    "number": 8648,
+    "title": "tl.dot_scaled throws compiler error for FP8 E4M3 input type with BlockWise1x128 scaling",
+    "url": "https://github.com/triton-lang/triton/issues/8648",
+    "created_at": "2025-11-06T00:06:02Z",
+    "user": "jananisriram",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3593365311,
     "number": 3558,
@@ -3455,6 +3468,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3606366054,
+    "number": 28380,
+    "title": "[Feature]: WhisperX support",
+    "url": "https://github.com/vllm-project/vllm/issues/28380",
+    "created_at": "2025-11-10T06:37:35Z",
+    "user": "abd-km",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3606562812,
     "number": 9264,
@@ -3902,6 +3930,21 @@
       "feature request",
       "rocm",
       "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dmlc/dgl",
+    "id": 3611664598,
+    "number": 7910,
+    "title": "🚨 Security Vulnerability: Remote Code Execution via eval() in ParquetArrayParser",
+    "url": "https://github.com/dmlc/dgl/issues/7910",
+    "created_at": "2025-11-11T10:22:58Z",
+    "user": "Cherno-x",
+    "labels": [
+      "stale-issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6884,6 +6927,24 @@
     "user": "amasss",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3630591017,
+    "number": 22702,
+    "title": "Converting best.pt file into rknn formate",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22702",
+    "created_at": "2025-11-16T13:56:31Z",
+    "user": "sanskarjainba-hub",
+    "labels": [
+      "question",
+      "Stale",
+      "embedded",
+      "exports"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

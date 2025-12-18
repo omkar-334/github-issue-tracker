@@ -1,71 +1,6 @@
 {
   "issues": [
     {
-      "repo": "huggingface/accelerate",
-      "id": 2743785502,
-      "number": 3300,
-      "title": "[Feature Request] add a memory logging manager",
-      "url": "https://github.com/huggingface/accelerate/issues/3300",
-      "created_at": "2024-12-17T02:29:52Z",
-      "user": "sayakpaul",
-      "labels": [
-        "feature request",
-        "contributions-welcome"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "3b1b/manim",
-      "id": 2743979996,
-      "number": 2281,
-      "title": "DashedVMobject was displayed abnormal",
-      "url": "https://github.com/3b1b/manim/issues/2281",
-      "created_at": "2024-12-17T05:38:18Z",
-      "user": "sundebug",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "pytorch/pytorch",
-      "id": 2744034045,
-      "number": 143373,
-      "title": "DISABLED test_disable_external_correlation (__main__.TestProfiler)",
-      "url": "https://github.com/pytorch/pytorch/issues/143373",
-      "created_at": "2024-12-17T06:20:08Z",
-      "user": "huydhn",
-      "labels": [
-        "module: rocm",
-        "triaged",
-        "skipped",
-        "rocm-skipped-tests"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "dagster-io/dagster",
-      "id": 2745670890,
-      "number": 26547,
-      "title": "Sources undefined using `dagster-powerbi` with MotherDuck upstream tables",
-      "url": "https://github.com/dagster-io/dagster/issues/26547",
-      "created_at": "2024-12-17T18:11:40Z",
-      "user": "cmpadden",
-      "labels": [
-        "type: bug",
-        "stale"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "pytorch/pytorch",
       "id": 2746892469,
       "number": 143471,
@@ -36600,6 +36535,19 @@
       "archived": false
     },
     {
+      "repo": "triton-lang/triton",
+      "id": 3593284946,
+      "number": 8648,
+      "title": "tl.dot_scaled throws compiler error for FP8 E4M3 input type with BlockWise1x128 scaling",
+      "url": "https://github.com/triton-lang/triton/issues/8648",
+      "created_at": "2025-11-06T00:06:02Z",
+      "user": "jananisriram",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3593365311,
       "number": 3558,
@@ -38428,6 +38376,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3606366054,
+      "number": 28380,
+      "title": "[Feature]: WhisperX support",
+      "url": "https://github.com/vllm-project/vllm/issues/28380",
+      "created_at": "2025-11-10T06:37:35Z",
+      "user": "abd-km",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3606562812,
       "number": 9264,
@@ -38875,6 +38838,21 @@
         "feature request",
         "rocm",
         "gpt-oss"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dmlc/dgl",
+      "id": 3611664598,
+      "number": 7910,
+      "title": "🚨 Security Vulnerability: Remote Code Execution via eval() in ParquetArrayParser",
+      "url": "https://github.com/dmlc/dgl/issues/7910",
+      "created_at": "2025-11-11T10:22:58Z",
+      "user": "Cherno-x",
+      "labels": [
+        "stale-issue"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41857,6 +41835,24 @@
       "user": "amasss",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3630591017,
+      "number": 22702,
+      "title": "Converting best.pt file into rknn formate",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22702",
+      "created_at": "2025-11-16T13:56:31Z",
+      "user": "sanskarjainba-hub",
+      "labels": [
+        "question",
+        "Stale",
+        "embedded",
+        "exports"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -80251,8 +80247,149 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3740823891,
+      "number": 59522,
+      "title": "[data][llm] LLM Batch Inference Resiliency Thread",
+      "url": "https://github.com/ray-project/ray/issues/59522",
+      "created_at": "2025-12-17T23:26:46Z",
+      "user": "jiangwu300",
+      "labels": [
+        "enhancement",
+        "triage",
+        "data",
+        "llm",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "facebookresearch/faiss",
+      "id": 3740896315,
+      "number": 4727,
+      "title": "Provide ability to do an exact search with IndexHNSW structure",
+      "url": "https://github.com/facebookresearch/faiss/issues/4727",
+      "created_at": "2025-12-18T00:10:09Z",
+      "user": "navneet1v",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3740932805,
+      "number": 63404,
+      "title": "BUG: `Series([], dtype=\"datetime/timedelta64[non-nano]\").quantile()` raises instead of returning NaT",
+      "url": "https://github.com/pandas-dev/pandas/issues/63404",
+      "created_at": "2025-12-18T00:29:21Z",
+      "user": "mroeschke",
+      "labels": [
+        "Bug",
+        "Timedelta",
+        "Reduction Operations"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3740988850,
+      "number": 34413,
+      "title": "ChatGoogleGenerativeAI: on_llm_new_token receives list instead of string with Gemini 3 Flash",
+      "url": "https://github.com/langchain-ai/langchain/issues/34413",
+      "created_at": "2025-12-18T00:55:52Z",
+      "user": "Kevin-McIsaac",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3741037024,
+      "number": 21428,
+      "title": "Optimizer.step called after on_epoch_end",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21428",
+      "created_at": "2025-12-18T01:22:47Z",
+      "user": "RorryB",
+      "labels": [
+        "bug",
+        "needs triage",
+        "ver: 2.1.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3741048666,
+      "number": 170736,
+      "title": "DISABLED test_rms_norm_sharing_weights_split_reductions_False_bfloat16 (__main__.MixOrderReductionTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/170736",
+      "created_at": "2025-12-18T01:29:53Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3741049135,
+      "number": 59525,
+      "title": "[serve][llm] DP Group Replica Feature Milestone Tracker",
+      "url": "https://github.com/ray-project/ray/issues/59525",
+      "created_at": "2025-12-18T01:30:14Z",
+      "user": "eicherseiji",
+      "labels": [
+        "enhancement",
+        "llm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3741057025,
+      "number": 170737,
+      "title": "Expect to open the is_privateuseone branch in the LSTM interface of PyTorch's RNN.cpp to develop corresponding LSTM functionality on NPU.",
+      "url": "https://github.com/pytorch/pytorch/issues/170737",
+      "created_at": "2025-12-18T01:34:31Z",
+      "user": "jxj9049",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3741060961,
+      "number": 9132,
+      "title": "[Feature] Add docstrings for dspy/predict/multi_chain_comparison.py MultiChainComparison class",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9132",
+      "created_at": "2025-12-18T01:36:34Z",
+      "user": "muhammadazeemhaider",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-17T23:26:58Z",
-  "total_count": 5300
+  "last_updated": "2025-12-18T01:58:02Z",
+  "total_count": 5309
 }
