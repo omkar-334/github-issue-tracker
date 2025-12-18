@@ -1011,6 +1011,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2939568144,
+    "number": 149768,
+    "title": "[FSDP2][DTensor] numeric bug for DTensor + python float in gradient clipping",
+    "url": "https://github.com/pytorch/pytorch/issues/149768",
+    "created_at": "2025-03-21T21:47:57Z",
+    "user": "weifengpy",
+    "labels": [
+      "oncall: distributed",
+      "triaged",
+      "module: correctness (silent)",
+      "module: fsdp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2939854087,
     "number": 3133,

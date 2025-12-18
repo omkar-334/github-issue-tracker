@@ -3814,6 +3814,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2939568144,
+      "number": 149768,
+      "title": "[FSDP2][DTensor] numeric bug for DTensor + python float in gradient clipping",
+      "url": "https://github.com/pytorch/pytorch/issues/149768",
+      "created_at": "2025-03-21T21:47:57Z",
+      "user": "weifengpy",
+      "labels": [
+        "oncall: distributed",
+        "triaged",
+        "module: correctness (silent)",
+        "module: fsdp"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 2939854087,
       "number": 3133,
@@ -24146,6 +24164,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3427761900,
+      "number": 163193,
+      "title": "Incorrect results when adding partial DTensor with a scalar",
+      "url": "https://github.com/pytorch/pytorch/issues/163193",
+      "created_at": "2025-09-17T20:50:03Z",
+      "user": "ppwwyyxx",
+      "labels": [
+        "oncall: distributed",
+        "module: correctness (silent)",
+        "module: dtensor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3427793207,
       "number": 56638,
@@ -30950,6 +30985,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3529398901,
+      "number": 27160,
+      "title": "[New Model]: Add support for TrOCR model",
+      "url": "https://github.com/vllm-project/vllm/issues/27160",
+      "created_at": "2025-10-19T01:19:23Z",
+      "user": "what-in-the-nim",
+      "labels": [
+        "new-model",
+        "multi-modality"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 3529467853,
       "number": 1877,
@@ -36839,6 +36890,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3590608152,
+      "number": 42032,
+      "title": "ValueError: Unrecognized configuration class <class 'transformers.models.qwen3_omni_moe.configuration_qwen3_omni_moe.Qwen3OmniMoeConfig'> for this kind of AutoModel: AutoModel.",
+      "url": "https://github.com/huggingface/transformers/issues/42032",
+      "created_at": "2025-11-05T11:39:39Z",
+      "user": "Tortoise17",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3590615868,
       "number": 21822,
@@ -41103,6 +41169,21 @@
       "url": "https://github.com/huggingface/transformers/issues/42199",
       "created_at": "2025-11-13T23:46:02Z",
       "user": "jveitchmichaelis",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3623324953,
+      "number": 42200,
+      "title": "Request of rewriting implementation of prediction_step in trainer.py",
+      "url": "https://github.com/huggingface/transformers/issues/42200",
+      "created_at": "2025-11-14T00:13:40Z",
+      "user": "Yacklin",
       "labels": [
         "bug"
       ],
@@ -81583,8 +81664,126 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741831966,
+      "number": 30939,
+      "title": "[Bug]: The same input produces outputs of different lengths in the same batch.",
+      "url": "https://github.com/vllm-project/vllm/issues/30939",
+      "created_at": "2025-12-18T07:29:49Z",
+      "user": "sorenwu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3741834380,
+      "number": 9134,
+      "title": "[Feature] Docker based code execution for program-of-thought & codeact",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9134",
+      "created_at": "2025-12-18T07:30:39Z",
+      "user": "srmsoumya",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3741842927,
+      "number": 20390,
+      "title": "[Question]: Original HITL via send_event is no longer work",
+      "url": "https://github.com/run-llama/llama_index/issues/20390",
+      "created_at": "2025-12-18T07:33:40Z",
+      "user": "stg609",
+      "labels": [
+        "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741847704,
+      "number": 30940,
+      "title": "[Feature]: The issue of being unable to achieve streaming output in function call inference",
+      "url": "https://github.com/vllm-project/vllm/issues/30940",
+      "created_at": "2025-12-18T07:35:40Z",
+      "user": "cluo991",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741862220,
+      "number": 30941,
+      "title": "[Performance]: Why Does Latency Remain Unchanged in vLLM 0.11.0 When Input Token Count Decreases for qwen3-vl-30b-a3b?",
+      "url": "https://github.com/vllm-project/vllm/issues/30941",
+      "created_at": "2025-12-18T07:40:35Z",
+      "user": "Hormoney",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741865989,
+      "number": 30942,
+      "title": "[Bug]: Scale Elastic EP is Pending on EngineCore",
+      "url": "https://github.com/vllm-project/vllm/issues/30942",
+      "created_at": "2025-12-18T07:41:54Z",
+      "user": "xeonliu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741872805,
+      "number": 30943,
+      "title": "[Bug]: memory leak (nvidia v100, mineru, dp*8)",
+      "url": "https://github.com/vllm-project/vllm/issues/30943",
+      "created_at": "2025-12-18T07:44:14Z",
+      "user": "ChrisKimZHT",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3741887182,
+      "number": 170756,
+      "title": "[xpu][inductor] performance regression due to bf16 atomic ops not fallback to eager",
+      "url": "https://github.com/pytorch/pytorch/issues/170756",
+      "created_at": "2025-12-18T07:49:50Z",
+      "user": "jianyizh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T07:29:23Z",
-  "total_count": 5386
+  "last_updated": "2025-12-18T08:37:52Z",
+  "total_count": 5399
 }

@@ -4326,6 +4326,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3529398901,
+    "number": 27160,
+    "title": "[New Model]: Add support for TrOCR model",
+    "url": "https://github.com/vllm-project/vllm/issues/27160",
+    "created_at": "2025-10-19T01:19:23Z",
+    "user": "what-in-the-nim",
+    "labels": [
+      "new-model",
+      "multi-modality"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3529467853,
     "number": 1877,

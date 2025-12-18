@@ -27008,5 +27008,123 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741831966,
+    "number": 30939,
+    "title": "[Bug]: The same input produces outputs of different lengths in the same batch.",
+    "url": "https://github.com/vllm-project/vllm/issues/30939",
+    "created_at": "2025-12-18T07:29:49Z",
+    "user": "sorenwu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3741834380,
+    "number": 9134,
+    "title": "[Feature] Docker based code execution for program-of-thought & codeact",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9134",
+    "created_at": "2025-12-18T07:30:39Z",
+    "user": "srmsoumya",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3741842927,
+    "number": 20390,
+    "title": "[Question]: Original HITL via send_event is no longer work",
+    "url": "https://github.com/run-llama/llama_index/issues/20390",
+    "created_at": "2025-12-18T07:33:40Z",
+    "user": "stg609",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741847704,
+    "number": 30940,
+    "title": "[Feature]: The issue of being unable to achieve streaming output in function call inference",
+    "url": "https://github.com/vllm-project/vllm/issues/30940",
+    "created_at": "2025-12-18T07:35:40Z",
+    "user": "cluo991",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741862220,
+    "number": 30941,
+    "title": "[Performance]: Why Does Latency Remain Unchanged in vLLM 0.11.0 When Input Token Count Decreases for qwen3-vl-30b-a3b?",
+    "url": "https://github.com/vllm-project/vllm/issues/30941",
+    "created_at": "2025-12-18T07:40:35Z",
+    "user": "Hormoney",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741865989,
+    "number": 30942,
+    "title": "[Bug]: Scale Elastic EP is Pending on EngineCore",
+    "url": "https://github.com/vllm-project/vllm/issues/30942",
+    "created_at": "2025-12-18T07:41:54Z",
+    "user": "xeonliu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741872805,
+    "number": 30943,
+    "title": "[Bug]: memory leak (nvidia v100, mineru, dp*8)",
+    "url": "https://github.com/vllm-project/vllm/issues/30943",
+    "created_at": "2025-12-18T07:44:14Z",
+    "user": "ChrisKimZHT",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3741887182,
+    "number": 170756,
+    "title": "[xpu][inductor] performance regression due to bf16 atomic ops not fallback to eager",
+    "url": "https://github.com/pytorch/pytorch/issues/170756",
+    "created_at": "2025-12-18T07:49:50Z",
+    "user": "jianyizh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

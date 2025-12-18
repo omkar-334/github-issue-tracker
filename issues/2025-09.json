@@ -5232,6 +5232,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3427761900,
+    "number": 163193,
+    "title": "Incorrect results when adding partial DTensor with a scalar",
+    "url": "https://github.com/pytorch/pytorch/issues/163193",
+    "created_at": "2025-09-17T20:50:03Z",
+    "user": "ppwwyyxx",
+    "labels": [
+      "oncall: distributed",
+      "module: correctness (silent)",
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3427793207,
     "number": 56638,

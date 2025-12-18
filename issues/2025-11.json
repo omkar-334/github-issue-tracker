@@ -1401,6 +1401,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3590608152,
+    "number": 42032,
+    "title": "ValueError: Unrecognized configuration class <class 'transformers.models.qwen3_omni_moe.configuration_qwen3_omni_moe.Qwen3OmniMoeConfig'> for this kind of AutoModel: AutoModel.",
+    "url": "https://github.com/huggingface/transformers/issues/42032",
+    "created_at": "2025-11-05T11:39:39Z",
+    "user": "Tortoise17",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3590615868,
     "number": 21822,
@@ -5649,6 +5664,21 @@
     "url": "https://github.com/huggingface/transformers/issues/42199",
     "created_at": "2025-11-13T23:46:02Z",
     "user": "jveitchmichaelis",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3623324953,
+    "number": 42200,
+    "title": "Request of rewriting implementation of prediction_step in trainer.py",
+    "url": "https://github.com/huggingface/transformers/issues/42200",
+    "created_at": "2025-11-14T00:13:40Z",
+    "user": "Yacklin",
     "labels": [
       "bug"
     ],
