@@ -6190,6 +6190,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3697663384,
+    "number": 30112,
+    "title": "[RFC]: Elastic DP Rank Recovery: Graceful Handling of GPU Hardware Failures Without Full Cluster Restart",
+    "url": "https://github.com/vllm-project/vllm/issues/30112",
+    "created_at": "2025-12-05T06:21:59Z",
+    "user": "tzulingk",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3697697244,
     "number": 59194,
@@ -16142,6 +16157,24 @@
     "user": "abidlabs",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3721727043,
+    "number": 170278,
+    "title": "macOS Parallel Builds Fail with jobs > 4",
+    "url": "https://github.com/pytorch/pytorch/issues/170278",
+    "created_at": "2025-12-12T02:51:51Z",
+    "user": "essandess",
+    "labels": [
+      "needs reproduction",
+      "module: ci",
+      "triaged",
+      "module: macos"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -28591,6 +28624,81 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3744750774,
+    "number": 3786,
+    "title": "Bug: Gemini API - Empty OBJECT type properties in response_schema cause BadRequestError",
+    "url": "https://github.com/browser-use/browser-use/issues/3786",
+    "created_at": "2025-12-18T20:32:44Z",
+    "user": "bveiseh",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3744754316,
+    "number": 25822,
+    "title": "More expressive error messages on casting related ArrowInvalid exceptions",
+    "url": "https://github.com/pola-rs/polars/issues/25822",
+    "created_at": "2025-12-18T20:33:58Z",
+    "user": "matteogrechi",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3744788567,
+    "number": 22060,
+    "title": "UP032 fix misinterprets `\\N` in a raw string as an escape sequence",
+    "url": "https://github.com/astral-sh/ruff/issues/22060",
+    "created_at": "2025-12-18T20:45:47Z",
+    "user": "dscorbett",
+    "labels": [
+      "bug",
+      "fixes",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/ao",
+    "id": 3744791164,
+    "number": 3516,
+    "title": "Making torchao ABI compatible and moving closer to python only",
+    "url": "https://github.com/pytorch/ao/issues/3516",
+    "created_at": "2025-12-18T20:46:25Z",
+    "user": "jerryzh168",
+    "labels": [
+      "tracker"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3744806594,
+    "number": 170806,
+    "title": "Flaky test failures `Unexpectedly not in LocalTensorMode` in `test_pointwise_ops.py` DTensor tests",
+    "url": "https://github.com/pytorch/pytorch/issues/170806",
+    "created_at": "2025-12-18T20:51:44Z",
+    "user": "frost-intel",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

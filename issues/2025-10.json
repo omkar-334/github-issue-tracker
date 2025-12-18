@@ -241,6 +241,21 @@
     "archived": false
   },
   {
+    "repo": "jax-ml/jax",
+    "id": 3475585590,
+    "number": 32276,
+    "title": "Profiling Traces Disappear",
+    "url": "https://github.com/jax-ml/jax/issues/32276",
+    "created_at": "2025-10-02T00:24:48Z",
+    "user": "cdelv",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/tokenizers",
     "id": 3475659199,
     "number": 131,
@@ -2759,6 +2774,22 @@
     "labels": [
       "type:feature",
       "stat:awaiting response from contributor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3511211303,
+    "number": 165354,
+    "title": "[ONNX] Idea of a `torch.onnx.ExportableModule`",
+    "url": "https://github.com/pytorch/pytorch/issues/165354",
+    "created_at": "2025-10-13T19:22:55Z",
+    "user": "justinchuby",
+    "labels": [
+      "module: onnx",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

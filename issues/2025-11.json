@@ -11518,6 +11518,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653550986,
+    "number": 168712,
+    "title": "Test: TestCuda.test_index_out_of_bounds_exception_cuda",
+    "url": "https://github.com/pytorch/pytorch/issues/168712",
+    "created_at": "2025-11-22T01:06:46Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653552703,
     "number": 168743,
     "title": "Test: TestCudaPrimaryCtx.test_set_device_0",

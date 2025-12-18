@@ -1,15 +1,30 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 1800933869,
-    "number": 18867,
-    "title": "Tracker: array types (CuPy, PyTorch & co) and array API standard support",
-    "url": "https://github.com/scipy/scipy/issues/18867",
-    "created_at": "2023-07-12T12:58:36Z",
-    "user": "rgommers",
+    "repo": "pytorch/executorch",
+    "id": 2125747122,
+    "number": 1890,
+    "title": "Debugging to_executorch() call",
+    "url": "https://github.com/pytorch/executorch/issues/1890",
+    "created_at": "2024-02-08T17:42:52Z",
+    "user": "stanislawmorawski-digica",
     "labels": [
-      "enhancement",
-      "array types"
+      "module: devtools",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -17,16 +32,15 @@
   },
   {
     "repo": "pytorch/executorch",
-    "id": 2655143211,
-    "number": 6813,
-    "title": "How to convert tokenizer of SmolLM model as accepted by executorch",
-    "url": "https://github.com/pytorch/executorch/issues/6813",
-    "created_at": "2024-11-13T11:19:13Z",
-    "user": "Arpit2601",
+    "id": 2272865135,
+    "number": 3444,
+    "title": "checkpoint str has no attribute 'get'",
+    "url": "https://github.com/pytorch/executorch/issues/3444",
+    "created_at": "2024-05-01T03:29:55Z",
+    "user": "antmikinka",
     "labels": [
       "triaged",
-      "module: extension",
-      "module: user experience"
+      "module: coreml"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -34,14 +48,63 @@
   },
   {
     "repo": "pytorch/executorch",
-    "id": 2657987844,
-    "number": 6848,
-    "title": "meta-llama/Llama-3.2-1B, The model is not working properly",
-    "url": "https://github.com/pytorch/executorch/issues/6848",
-    "created_at": "2024-11-14T08:17:12Z",
-    "user": "yangh0597",
+    "id": 2513552943,
+    "number": 5176,
+    "title": "Torch export can't support dynamics shapes for lstm",
+    "url": "https://github.com/pytorch/executorch/issues/5176",
+    "created_at": "2024-09-09T10:22:58Z",
+    "user": "ZORO-Q",
     "labels": [
-      "module: examples",
+      "module: exir",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2526848608,
+    "number": 5381,
+    "title": "Operator torch._ops.aten.unfold.default is not Aten Canonical",
+    "url": "https://github.com/pytorch/executorch/issues/5381",
+    "created_at": "2024-09-15T10:30:44Z",
+    "user": "ari-ruokamo",
+    "labels": [
+      "module: exir",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2557540515,
+    "number": 5766,
+    "title": "\"No such file or directory: program.fbs\" when export_add.py file is a sibling of `executorch` repo directory",
+    "url": "https://github.com/pytorch/executorch/issues/5766",
+    "created_at": "2024-09-30T20:04:48Z",
+    "user": "andrei-cioaca",
+    "labels": [
+      "module: doc",
+      "actionable",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2568347503,
+    "number": 5914,
+    "title": "QNN GPU or DSP backend issue",
+    "url": "https://github.com/pytorch/executorch/issues/5914",
+    "created_at": "2024-10-05T22:21:07Z",
+    "user": "ismaeelbashir03",
+    "labels": [
+      "partner: qualcomm",
       "triaged",
       "module: qnn"
     ],
