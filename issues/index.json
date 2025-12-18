@@ -305,6 +305,22 @@
       "archived": false
     },
     {
+      "repo": "astral-sh/ruff",
+      "id": 2761948511,
+      "number": 15169,
+      "title": "Feature Request: Warn when instance attribute shadows class attribute",
+      "url": "https://github.com/astral-sh/ruff/issues/15169",
+      "created_at": "2024-12-28T20:59:47Z",
+      "user": "alippai",
+      "labels": [
+        "rule",
+        "type-inference"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 2762309859,
       "number": 2285,
@@ -44336,6 +44352,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3645049952,
+      "number": 29053,
+      "title": "[Feature]: AMD radeon 8060s rocm7.1 torch== 2.10.0.dev20251113+rocm7.1",
+      "url": "https://github.com/vllm-project/vllm/issues/29053",
+      "created_at": "2025-11-20T01:42:39Z",
+      "user": "gqyalh",
+      "labels": [
+        "feature request",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3645119742,
       "number": 4550,
@@ -44657,6 +44689,21 @@
         "feature:st.altair_chart",
         "feature:st.vega_lite_chart",
         "feature:builtin-charts"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3647616487,
+      "number": 29095,
+      "title": "[Performance]: gpt-oss-120b runs 4 times slower on v0.11.2 than on v0.11.0",
+      "url": "https://github.com/vllm-project/vllm/issues/29095",
+      "created_at": "2025-11-20T14:46:56Z",
+      "user": "mosalov",
+      "labels": [
+        "performance"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -80973,8 +81020,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741314173,
+      "number": 30921,
+      "title": "[Feature]: Models with different quantization for different layers/blocks",
+      "url": "https://github.com/vllm-project/vllm/issues/30921",
+      "created_at": "2025-12-18T03:37:03Z",
+      "user": "Datta0",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741368393,
+      "number": 30922,
+      "title": "[Bug]: Use the offical doucment  vllm online method deploy DeepSeek-OCR，the result is very bad . but I ust the offline method the result is normal. why ?",
+      "url": "https://github.com/vllm-project/vllm/issues/30922",
+      "created_at": "2025-12-18T04:08:46Z",
+      "user": "git-liweichao",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T03:27:39Z",
-  "total_count": 5346
+  "last_updated": "2025-12-18T04:40:19Z",
+  "total_count": 5351
 }

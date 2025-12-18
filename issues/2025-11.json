@@ -8978,6 +8978,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3645049952,
+    "number": 29053,
+    "title": "[Feature]: AMD radeon 8060s rocm7.1 torch== 2.10.0.dev20251113+rocm7.1",
+    "url": "https://github.com/vllm-project/vllm/issues/29053",
+    "created_at": "2025-11-20T01:42:39Z",
+    "user": "gqyalh",
+    "labels": [
+      "feature request",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3645119742,
     "number": 4550,
@@ -9299,6 +9315,21 @@
       "feature:st.altair_chart",
       "feature:st.vega_lite_chart",
       "feature:builtin-charts"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3647616487,
+    "number": 29095,
+    "title": "[Performance]: gpt-oss-120b runs 4 times slower on v0.11.2 than on v0.11.0",
+    "url": "https://github.com/vllm-project/vllm/issues/29095",
+    "created_at": "2025-11-20T14:46:56Z",
+    "user": "mosalov",
+    "labels": [
+      "performance"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

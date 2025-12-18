@@ -767,6 +767,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 2761948511,
+    "number": 15169,
+    "title": "Feature Request: Warn when instance attribute shadows class attribute",
+    "url": "https://github.com/astral-sh/ruff/issues/15169",
+    "created_at": "2024-12-28T20:59:47Z",
+    "user": "alippai",
+    "labels": [
+      "rule",
+      "type-inference"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2762309859,
     "number": 2285,

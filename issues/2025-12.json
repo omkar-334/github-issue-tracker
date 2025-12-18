@@ -26647,5 +26647,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741314173,
+    "number": 30921,
+    "title": "[Feature]: Models with different quantization for different layers/blocks",
+    "url": "https://github.com/vllm-project/vllm/issues/30921",
+    "created_at": "2025-12-18T03:37:03Z",
+    "user": "Datta0",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741368393,
+    "number": 30922,
+    "title": "[Bug]: Use the offical doucment  vllm online method deploy DeepSeek-OCR，the result is very bad . but I ust the offline method the result is normal. why ?",
+    "url": "https://github.com/vllm-project/vllm/issues/30922",
+    "created_at": "2025-12-18T04:08:46Z",
+    "user": "git-liweichao",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
