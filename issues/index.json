@@ -36552,6 +36552,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3585281579,
+      "number": 28033,
+      "title": "[Bug]: CUDA Illegal Memory Access with VLM Models (Qwen3-VL/Qwen2.5-VL) when using logprobs=True under high concurrency",
+      "url": "https://github.com/vllm-project/vllm/issues/28033",
+      "created_at": "2025-11-04T08:23:23Z",
+      "user": "asdfqwer2015",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3585469799,
       "number": 3551,
@@ -61849,6 +61864,25 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3700107192,
+      "number": 25649,
+      "title": "`collect_schema()` succeeds for `list.concat` and `list.explode` on non-list columns",
+      "url": "https://github.com/pola-rs/polars/issues/25649",
+      "created_at": "2025-12-05T19:24:29Z",
+      "user": "mcrumiller",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "P-medium",
+        "A-plan"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3700133488,
       "number": 2388,
@@ -82269,6 +82303,19 @@
       "archived": false
     },
     {
+      "repo": "triton-lang/triton",
+      "id": 3742468480,
+      "number": 9038,
+      "title": "LLVM build workflow is broken on ubuntu \"no space left on device\"",
+      "url": "https://github.com/triton-lang/triton/issues/9038",
+      "created_at": "2025-12-18T10:29:34Z",
+      "user": "metaflow",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3742486333,
       "number": 30958,
@@ -82656,8 +82703,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3743073504,
+      "number": 30880,
+      "title": "[Doc]: Clarify OO vs pyplot API in basic sine wave example",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30880",
+      "created_at": "2025-12-18T13:04:01Z",
+      "user": "VINAYAKGAUR237",
+      "labels": [
+        "Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3743159222,
+      "number": 2964,
+      "title": "Regex support for elements in target_modules list",
+      "url": "https://github.com/huggingface/peft/issues/2964",
+      "created_at": "2025-12-18T13:24:33Z",
+      "user": "juzhxng",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3743207028,
+      "number": 59547,
+      "title": "[Core] placement group PACK strategy continuous bundles not scheduled to same nodes.",
+      "url": "https://github.com/ray-project/ray/issues/59547",
+      "created_at": "2025-12-18T13:37:07Z",
+      "user": "wuxibin89",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T12:55:52Z",
-  "total_count": 5456
+  "last_updated": "2025-12-18T13:42:42Z",
+  "total_count": 5462
 }
