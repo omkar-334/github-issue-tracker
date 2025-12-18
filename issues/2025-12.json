@@ -27245,5 +27245,74 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3742330265,
+    "number": 19862,
+    "title": "100% cpu usage in prefect 3.6.6",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19862",
+    "created_at": "2025-12-18T09:52:32Z",
+    "user": "vkrot-innio",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3742356906,
+    "number": 170761,
+    "title": "Inductor error: NotImplementedError: Cannot access storage of SparseTensorImpl",
+    "url": "https://github.com/pytorch/pytorch/issues/170761",
+    "created_at": "2025-12-18T09:59:41Z",
+    "user": "markc-614",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3742387542,
+    "number": 3743,
+    "title": "[Bug] OOM finetuning Qwen3-4B on A100 but work on 4090",
+    "url": "https://github.com/unslothai/unsloth/issues/3743",
+    "created_at": "2025-12-18T10:08:40Z",
+    "user": "hongyiD",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3742391891,
+    "number": 6064,
+    "title": "Issue building chroma-types v0.10.0: protoc cannot find google/protobuf/timestamp.proto",
+    "url": "https://github.com/chroma-core/chroma/issues/6064",
+    "created_at": "2025-12-18T10:09:56Z",
+    "user": "probaku1234",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3742404276,
+    "number": 170762,
+    "title": "[BUG][Inconsistency] aten.cudnn_batch_norm_backward produces numerical mismatch between eager and inductor",
+    "url": "https://github.com/pytorch/pytorch/issues/170762",
+    "created_at": "2025-12-18T10:13:39Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

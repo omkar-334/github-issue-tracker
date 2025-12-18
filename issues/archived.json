@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "astral-sh/ruff",
-    "id": 1800956298,
-    "number": 5709,
-    "title": "CPY001: Make diagnostic fixable (flake8_copyright)",
-    "url": "https://github.com/astral-sh/ruff/issues/5709",
-    "created_at": "2023-07-12T13:11:21Z",
-    "user": "jvcop",
-    "labels": [
-      "fixes",
-      "needs-decision"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
