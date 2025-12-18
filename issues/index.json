@@ -12069,6 +12069,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3212033653,
+      "number": 12270,
+      "title": "CRNN model decomposition Error with ARM Ethos-U backend",
+      "url": "https://github.com/pytorch/executorch/issues/12270",
+      "created_at": "2025-07-08T10:51:38Z",
+      "user": "tymons",
+      "labels": [
+        "need-user-input",
+        "triaged",
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3212354370,
       "number": 16643,
@@ -17281,6 +17298,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3333242170,
+      "number": 13508,
+      "title": "Zephyr : Path to GA",
+      "url": "https://github.com/pytorch/executorch/issues/13508",
+      "created_at": "2025-08-19T07:27:42Z",
+      "user": "psiddh",
+      "labels": [
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "astral-sh/ruff",
       "id": 3333290483,
       "number": 19983,
@@ -17516,6 +17548,22 @@
       "user": "arunpatala",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3337910874,
+      "number": 13547,
+      "title": "Reenable test-models-arm-zephyr",
+      "url": "https://github.com/pytorch/executorch/issues/13547",
+      "created_at": "2025-08-20T12:18:11Z",
+      "user": "digantdesai",
+      "labels": [
+        "module: arm",
+        "module: microcontrollers"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -55413,6 +55461,21 @@
       "archived": false
     },
     {
+      "repo": "triton-lang/triton",
+      "id": 3682096870,
+      "number": 8862,
+      "title": "[v.3.6.0] Release Tracker",
+      "url": "https://github.com/triton-lang/triton/issues/8862",
+      "created_at": "2025-12-01T17:35:12Z",
+      "user": "atalman",
+      "labels": [
+        "release"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3682274282,
       "number": 169298,
@@ -59153,6 +59216,21 @@
       "created_at": "2025-12-04T03:25:09Z",
       "user": "tinywisdom",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3692731958,
+      "number": 30023,
+      "title": "[Feature]: Support qwen3next with GGUF?",
+      "url": "https://github.com/vllm-project/vllm/issues/30023",
+      "created_at": "2025-12-04T03:40:26Z",
+      "user": "zeerd",
+      "labels": [
+        "feature request"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -81271,8 +81349,141 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741532790,
+      "number": 30929,
+      "title": "[CI Failure]:  mi325_4: DeepSeek V2-Lite Async EPLB Accuracy",
+      "url": "https://github.com/vllm-project/vllm/issues/30929",
+      "created_at": "2025-12-18T05:32:42Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741560758,
+      "number": 30930,
+      "title": "[Draft] [RFC]: vLLM + UCC Backend",
+      "url": "https://github.com/vllm-project/vllm/issues/30930",
+      "created_at": "2025-12-18T05:45:47Z",
+      "user": "lengrongfu",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3741571592,
+      "number": 30878,
+      "title": "Decomposition tree–style hierarchical drill-down visualization",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30878",
+      "created_at": "2025-12-18T05:52:26Z",
+      "user": "pranavo72bex",
+      "labels": [
+        "New feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741594428,
+      "number": 30931,
+      "title": "[Bug]: Prefix Cache Corruption with LoRA  with the same name but different id",
+      "url": "https://github.com/vllm-project/vllm/issues/30931",
+      "created_at": "2025-12-18T06:01:29Z",
+      "user": "Butanium",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3741610787,
+      "number": 12593,
+      "title": "点击\"从剪贴板粘贴\"区域时报错，Ctrl + V 粘贴图片不成功。",
+      "url": "https://github.com/gradio-app/gradio/issues/12593",
+      "created_at": "2025-12-18T06:07:01Z",
+      "user": "xuebin-git",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3741637725,
+      "number": 8341,
+      "title": "JSON Pane not readable in dark mode",
+      "url": "https://github.com/holoviz/panel/issues/8341",
+      "created_at": "2025-12-18T06:16:03Z",
+      "user": "MarcSkovMadsen",
+      "labels": [
+        "TRIAGE"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741644626,
+      "number": 30933,
+      "title": "[Usage]: What is the latest instruction to run DeepSeek V3.2?",
+      "url": "https://github.com/vllm-project/vllm/issues/30933",
+      "created_at": "2025-12-18T06:18:29Z",
+      "user": "IKACE",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3741649444,
+      "number": 16310,
+      "title": "ModuleNotFoundError: No module named 'executorch.backends.qualcomm.python'",
+      "url": "https://github.com/pytorch/executorch/issues/16310",
+      "created_at": "2025-12-18T06:20:09Z",
+      "user": "ThreeD-H",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741695285,
+      "number": 30934,
+      "title": "[Bug]:  Qwen3-VL-235B-A22B-Thinking-FP8 not divisible by weight quantization block_n = 128.",
+      "url": "https://github.com/vllm-project/vllm/issues/30934",
+      "created_at": "2025-12-18T06:39:09Z",
+      "user": "serser",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T05:30:10Z",
-  "total_count": 5365
+  "last_updated": "2025-12-18T06:41:59Z",
+  "total_count": 5379
 }

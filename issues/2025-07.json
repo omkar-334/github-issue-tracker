@@ -813,6 +813,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3212033653,
+    "number": 12270,
+    "title": "CRNN model decomposition Error with ARM Ethos-U backend",
+    "url": "https://github.com/pytorch/executorch/issues/12270",
+    "created_at": "2025-07-08T10:51:38Z",
+    "user": "tymons",
+    "labels": [
+      "need-user-input",
+      "triaged",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3212354370,
     "number": 16643,
