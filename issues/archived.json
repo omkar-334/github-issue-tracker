@@ -1,49 +1,46 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 5804577,
-    "number": 1037,
-    "title": "Feature request: rotating axes label text in 3D",
-    "url": "https://github.com/matplotlib/matplotlib/issues/1037",
-    "created_at": "2012-07-24T14:51:40Z",
-    "user": "sniemi",
+    "repo": "dagster-io/dagster",
+    "id": 2012731774,
+    "number": 18293,
+    "title": "Nested config not populating correctly",
+    "url": "https://github.com/dagster-io/dagster/issues/18293",
+    "created_at": "2023-11-27T17:11:17Z",
+    "user": "dagsir[bot]",
     "labels": [
-      "New feature",
-      "topic: mplot3d",
-      "keep"
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "statsmodels/statsmodels",
-    "id": 1509803775,
-    "number": 8594,
-    "title": "ENH: penalized mixin: custom penalization with model properties",
-    "url": "https://github.com/statsmodels/statsmodels/issues/8594",
-    "created_at": "2022-12-23T21:49:47Z",
-    "user": "josef-pkt",
+    "repo": "dagster-io/dagster",
+    "id": 2012740569,
+    "number": 18295,
+    "title": "Allow for backfill view to mirror the type of partition being materialized",
+    "url": "https://github.com/dagster-io/dagster/issues/18295",
+    "created_at": "2023-11-27T17:16:56Z",
+    "user": "dagsir[bot]",
     "labels": [
-      "type-enh",
-      "comp-genmod",
-      "comp-discrete",
-      "topic-penalization"
+      "type: feature-request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pandas-dev/pandas",
-    "id": 2099560717,
-    "number": 57064,
-    "title": "RLS: 3.0",
-    "url": "https://github.com/pandas-dev/pandas/issues/57064",
-    "created_at": "2024-01-25T04:47:17Z",
-    "user": "datapythonista",
+    "repo": "pydantic/pydantic",
+    "id": 2444778518,
+    "number": 10033,
+    "title": "Pydantic V3 — 🙂 not 😱",
+    "url": "https://github.com/pydantic/pydantic/issues/10033",
+    "created_at": "2024-08-02T11:41:20Z",
+    "user": "samuelcolvin",
     "labels": [
-      "Release"
+      "meta",
+      "v3"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -61,22 +58,6 @@
       "defect",
       "scipy.stats",
       "scipy.special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2538491503,
-    "number": 5509,
-    "title": "phi-3-mini is not a valid Python package name",
-    "url": "https://github.com/pytorch/executorch/issues/5509",
-    "created_at": "2024-09-20T10:43:37Z",
-    "user": "sbrugman",
-    "labels": [
-      "module: examples",
-      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

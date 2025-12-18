@@ -28768,5 +28768,66 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3745101282,
+    "number": 59562,
+    "title": "[core] Add more context information to `ObjectLostError`",
+    "url": "https://github.com/ray-project/ray/issues/59562",
+    "created_at": "2025-12-18T22:41:14Z",
+    "user": "edoakes",
+    "labels": [
+      "P1",
+      "usability",
+      "core",
+      "contribution-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3745119199,
+    "number": 1905,
+    "title": "BUG: Agent code should not be able to catch FinalAnswerException",
+    "url": "https://github.com/huggingface/smolagents/issues/1905",
+    "created_at": "2025-12-18T22:48:29Z",
+    "user": "borja-optiak",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3745149308,
+    "number": 24188,
+    "title": "BUG: nondeterminism in scipy.sparse.linalg.expm_multiply",
+    "url": "https://github.com/scipy/scipy/issues/24188",
+    "created_at": "2025-12-18T22:59:34Z",
+    "user": "jeffspence",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745156437,
+    "number": 170819,
+    "title": "`asarray` removes `requires_grad`",
+    "url": "https://github.com/pytorch/pytorch/issues/170819",
+    "created_at": "2025-12-18T23:02:33Z",
+    "user": "amacati",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
