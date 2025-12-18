@@ -6271,6 +6271,22 @@
     "archived": false
   },
   {
+    "repo": "facebookresearch/faiss",
+    "id": 3446402464,
+    "number": 4588,
+    "title": "Support for parallel Faiss CAGRA index builds on single GPU",
+    "url": "https://github.com/facebookresearch/faiss/issues/4588",
+    "created_at": "2025-09-23T19:19:32Z",
+    "user": "rchitale7",
+    "labels": [
+      "GPU",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3446612700,
     "number": 3185,

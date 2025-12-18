@@ -28702,5 +28702,71 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3744949575,
+    "number": 42950,
+    "title": "`masking_utils.create_causal_mask` fails in `@torch.compile(fullgraph=True)`",
+    "url": "https://github.com/huggingface/transformers/issues/42950",
+    "created_at": "2025-12-18T21:39:17Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3744971275,
+    "number": 30989,
+    "title": "[Bug]: CUTLASS BLOCK SCALE FP8 IMA on B200",
+    "url": "https://github.com/vllm-project/vllm/issues/30989",
+    "created_at": "2025-12-18T21:49:10Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3744976317,
+    "number": 25825,
+    "title": "`strict` parameter ignored during Series construction with Struct dtypes",
+    "url": "https://github.com/pola-rs/polars/issues/25825",
+    "created_at": "2025-12-18T21:51:14Z",
+    "user": "jjurm",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-dtype-struct"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745056300,
+    "number": 170813,
+    "title": "Test Failure: TestFlexAttentionCUDA.test_strided_inputs_q_s1_k_s3_v_s3_do_s2_cuda_float16 - CUDA Misaligned Address Error",
+    "url": "https://github.com/pytorch/pytorch/issues/170813",
+    "created_at": "2025-12-18T22:22:16Z",
+    "user": "xwang233",
+    "labels": [
+      "module: cuda",
+      "oncall: pt2",
+      "module: inductor",
+      "module: flex attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

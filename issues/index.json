@@ -135,6 +135,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2756214604,
+      "number": 7428,
+      "title": "I am trying to use export custom model to a executorch",
+      "url": "https://github.com/pytorch/executorch/issues/7428",
+      "created_at": "2024-12-23T14:49:04Z",
+      "user": "dinusha94",
+      "labels": [
+        "module: exir",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 2756269793,
       "number": 2283,
@@ -887,6 +903,40 @@
       "user": "Rassibassi",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2792007305,
+      "number": 7695,
+      "title": "Expose export_llama.py as a library or function able to be called and imported in Python",
+      "url": "https://github.com/pytorch/executorch/issues/7695",
+      "created_at": "2025-01-16T08:22:11Z",
+      "user": "ProjectProgramAMark",
+      "labels": [
+        "enhancement",
+        "triaged",
+        "module: user experience"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2792010235,
+      "number": 7696,
+      "title": "Support for Huggingface safetensors and tokenizer.json for LLM exporting",
+      "url": "https://github.com/pytorch/executorch/issues/7696",
+      "created_at": "2025-01-16T08:23:35Z",
+      "user": "ProjectProgramAMark",
+      "labels": [
+        "enhancement",
+        "module: exir",
+        "triaged"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -2547,6 +2597,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2870233748,
+      "number": 8631,
+      "title": "Executorch does not seem to be able to accelerate Anomaly Transformer inference",
+      "url": "https://github.com/pytorch/executorch/issues/8631",
+      "created_at": "2025-02-21T23:45:09Z",
+      "user": "TaylorYangX",
+      "labels": [
+        "module: llm",
+        "module: user experience"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2870366824,
       "number": 147662,
@@ -2691,6 +2757,25 @@
       "created_at": "2025-02-25T15:29:40Z",
       "user": "Deep-unlearning",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2880792901,
+      "number": 8725,
+      "title": "Long Prompt || .pte Generation || Mediatek",
+      "url": "https://github.com/pytorch/executorch/issues/8725",
+      "created_at": "2025-02-26T09:02:17Z",
+      "user": "shreshth-tru",
+      "labels": [
+        "triaged",
+        "module: llm/evaluation",
+        "partner: mediatek",
+        "module: user experience",
+        "module: mediatek"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -2861,6 +2946,22 @@
       "created_at": "2025-03-01T10:26:11Z",
       "user": "abheesht17",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2888810311,
+      "number": 8870,
+      "title": "Successfully registered all kernels from shared library: NOT_SUPPORTED",
+      "url": "https://github.com/pytorch/executorch/issues/8870",
+      "created_at": "2025-03-01T10:46:35Z",
+      "user": "ismukhin",
+      "labels": [
+        "module: kernels",
+        "triaged"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -3337,6 +3438,21 @@
         "core",
         "rdt",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2913277027,
+      "number": 9180,
+      "title": "Convert model.safetensors in order to be able to execute it with ExecuteTorch: how to prepare the example input and dynamic shape information?",
+      "url": "https://github.com/pytorch/executorch/issues/9180",
+      "created_at": "2025-03-12T09:17:50Z",
+      "user": "raphael10-collab",
+      "labels": [
+        "module: user experience"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -4009,6 +4125,21 @@
         "enhancement",
         "area/model-registry",
         "has-closing-pr"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2944881485,
+      "number": 9567,
+      "title": "[Request help] Failed running call_function <built-in function getitem>",
+      "url": "https://github.com/pytorch/executorch/issues/9567",
+      "created_at": "2025-03-25T01:24:14Z",
+      "user": "liye0626",
+      "labels": [
+        "module: user experience"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -9449,6 +9580,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3129934421,
+      "number": 11471,
+      "title": "Export fails: sdpa_with_kv_cache not registered despite clean build from source (_portable_lib missing)",
+      "url": "https://github.com/pytorch/executorch/issues/11471",
+      "created_at": "2025-06-09T10:52:16Z",
+      "user": "AllanK24",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3130055454,
       "number": 19361,
@@ -10164,6 +10308,22 @@
         "feature request",
         "rocm",
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3152048667,
+      "number": 11749,
+      "title": "Gradle Error while opening the project",
+      "url": "https://github.com/pytorch/executorch/issues/11749",
+      "created_at": "2025-06-17T04:47:20Z",
+      "user": "TryCAEarvr",
+      "labels": [
+        "triaged",
+        "module: android"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -10935,6 +11095,22 @@
       "created_at": "2025-06-24T00:11:35Z",
       "user": "bkumar4-sc",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3170284301,
+      "number": 11868,
+      "title": "Using ExecuTorch on iOS error",
+      "url": "https://github.com/pytorch/executorch/issues/11868",
+      "created_at": "2025-06-24T05:04:51Z",
+      "user": "MrJungle1",
+      "labels": [
+        "triaged",
+        "module: ios"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -15100,6 +15276,19 @@
       "labels": [
         "feature request"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3272698837,
+      "number": 12953,
+      "title": "pip install fails after running install_executorch.sh",
+      "url": "https://github.com/pytorch/executorch/issues/12953",
+      "created_at": "2025-07-29T08:40:03Z",
+      "user": "shyam-jagannathan",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -25520,6 +25709,22 @@
       "created_at": "2025-09-23T18:31:08Z",
       "user": "GregoryComer",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "facebookresearch/faiss",
+      "id": 3446402464,
+      "number": 4588,
+      "title": "Support for parallel Faiss CAGRA index builds on single GPU",
+      "url": "https://github.com/facebookresearch/faiss/issues/4588",
+      "created_at": "2025-09-23T19:19:32Z",
+      "user": "rchitale7",
+      "labels": [
+        "GPU",
+        "feature request"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -47662,6 +47867,40 @@
       "title": "Test: TestCommon.test_python_ref_executor",
       "url": "https://github.com/pytorch/pytorch/issues/168816",
       "created_at": "2025-11-22T01:09:29Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653557907,
+      "number": 168857,
+      "title": "Test: TestTesting.test_cuda_assert_should_stop_common_device_type_test_suite",
+      "url": "https://github.com/pytorch/pytorch/issues/168857",
+      "created_at": "2025-11-22T01:10:33Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653558001,
+      "number": 168858,
+      "title": "Test: TestTesting.test_cuda_assert_should_not_stop_common_distributed_test_suite",
+      "url": "https://github.com/pytorch/pytorch/issues/168858",
+      "created_at": "2025-11-22T01:10:35Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -84064,8 +84303,74 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3744949575,
+      "number": 42950,
+      "title": "`masking_utils.create_causal_mask` fails in `@torch.compile(fullgraph=True)`",
+      "url": "https://github.com/huggingface/transformers/issues/42950",
+      "created_at": "2025-12-18T21:39:17Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3744971275,
+      "number": 30989,
+      "title": "[Bug]: CUTLASS BLOCK SCALE FP8 IMA on B200",
+      "url": "https://github.com/vllm-project/vllm/issues/30989",
+      "created_at": "2025-12-18T21:49:10Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3744976317,
+      "number": 25825,
+      "title": "`strict` parameter ignored during Series construction with Struct dtypes",
+      "url": "https://github.com/pola-rs/polars/issues/25825",
+      "created_at": "2025-12-18T21:51:14Z",
+      "user": "jjurm",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-dtype-struct"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3745056300,
+      "number": 170813,
+      "title": "Test Failure: TestFlexAttentionCUDA.test_strided_inputs_q_s1_k_s3_v_s3_do_s2_cuda_float16 - CUDA Misaligned Address Error",
+      "url": "https://github.com/pytorch/pytorch/issues/170813",
+      "created_at": "2025-12-18T22:22:16Z",
+      "user": "xwang233",
+      "labels": [
+        "module: cuda",
+        "oncall: pt2",
+        "module: inductor",
+        "module: flex attention"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T21:24:15Z",
-  "total_count": 5549
+  "last_updated": "2025-12-18T22:27:38Z",
+  "total_count": 5568
 }

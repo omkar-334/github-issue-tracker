@@ -747,6 +747,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3129934421,
+    "number": 11471,
+    "title": "Export fails: sdpa_with_kv_cache not registered despite clean build from source (_portable_lib missing)",
+    "url": "https://github.com/pytorch/executorch/issues/11471",
+    "created_at": "2025-06-09T10:52:16Z",
+    "user": "AllanK24",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3130055454,
     "number": 19361,
@@ -1462,6 +1475,22 @@
       "feature request",
       "rocm",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3152048667,
+    "number": 11749,
+    "title": "Gradle Error while opening the project",
+    "url": "https://github.com/pytorch/executorch/issues/11749",
+    "created_at": "2025-06-17T04:47:20Z",
+    "user": "TryCAEarvr",
+    "labels": [
+      "triaged",
+      "module: android"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2200,6 +2229,22 @@
     "created_at": "2025-06-24T00:11:35Z",
     "user": "bkumar4-sc",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3170284301,
+    "number": 11868,
+    "title": "Using ExecuTorch on iOS error",
+    "url": "https://github.com/pytorch/executorch/issues/11868",
+    "created_at": "2025-06-24T05:04:51Z",
+    "user": "MrJungle1",
+    "labels": [
+      "triaged",
+      "module: ios"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

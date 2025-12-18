@@ -13,6 +13,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 2888810311,
+    "number": 8870,
+    "title": "Successfully registered all kernels from shared library: NOT_SUPPORTED",
+    "url": "https://github.com/pytorch/executorch/issues/8870",
+    "created_at": "2025-03-01T10:46:35Z",
+    "user": "ismukhin",
+    "labels": [
+      "module: kernels",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2889442182,
     "number": 2204,
@@ -484,6 +500,21 @@
       "core",
       "rdt",
       "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2913277027,
+    "number": 9180,
+    "title": "Convert model.safetensors in order to be able to execute it with ExecuteTorch: how to prepare the example input and dynamic shape information?",
+    "url": "https://github.com/pytorch/executorch/issues/9180",
+    "created_at": "2025-03-12T09:17:50Z",
+    "user": "raphael10-collab",
+    "labels": [
+      "module: user experience"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1156,6 +1187,21 @@
       "enhancement",
       "area/model-registry",
       "has-closing-pr"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2944881485,
+    "number": 9567,
+    "title": "[Request help] Failed running call_function <built-in function getitem>",
+    "url": "https://github.com/pytorch/executorch/issues/9567",
+    "created_at": "2025-03-25T01:24:14Z",
+    "user": "liye0626",
+    "labels": [
+      "module: user experience"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -1,112 +1,82 @@
 [
   {
-    "repo": "pytorch/executorch",
-    "id": 2125747122,
-    "number": 1890,
-    "title": "Debugging to_executorch() call",
-    "url": "https://github.com/pytorch/executorch/issues/1890",
-    "created_at": "2024-02-08T17:42:52Z",
-    "user": "stanislawmorawski-digica",
+    "repo": "matplotlib/matplotlib",
+    "id": 5804577,
+    "number": 1037,
+    "title": "Feature request: rotating axes label text in 3D",
+    "url": "https://github.com/matplotlib/matplotlib/issues/1037",
+    "created_at": "2012-07-24T14:51:40Z",
+    "user": "sniemi",
     "labels": [
-      "module: devtools",
+      "New feature",
+      "topic: mplot3d",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "id": 1509803775,
+    "number": 8594,
+    "title": "ENH: penalized mixin: custom penalization with model properties",
+    "url": "https://github.com/statsmodels/statsmodels/issues/8594",
+    "created_at": "2022-12-23T21:49:47Z",
+    "user": "josef-pkt",
+    "labels": [
+      "type-enh",
+      "comp-genmod",
+      "comp-discrete",
+      "topic-penalization"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 2099560717,
+    "number": 57064,
+    "title": "RLS: 3.0",
+    "url": "https://github.com/pandas-dev/pandas/issues/57064",
+    "created_at": "2024-01-25T04:47:17Z",
+    "user": "datapythonista",
+    "labels": [
+      "Release"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2461857692,
+    "number": 21370,
+    "title": "BUG: stats.tukeylambda: Bad behavior of the `cdf()` and `sf()` methods in the tails.",
+    "url": "https://github.com/scipy/scipy/issues/21370",
+    "created_at": "2024-08-12T20:41:58Z",
+    "user": "WarrenWeckesser",
+    "labels": [
+      "defect",
+      "scipy.stats",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2538491503,
+    "number": 5509,
+    "title": "phi-3-mini is not a valid Python package name",
+    "url": "https://github.com/pytorch/executorch/issues/5509",
+    "created_at": "2024-09-20T10:43:37Z",
+    "user": "sbrugman",
+    "labels": [
+      "module: examples",
       "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2272865135,
-    "number": 3444,
-    "title": "checkpoint str has no attribute 'get'",
-    "url": "https://github.com/pytorch/executorch/issues/3444",
-    "created_at": "2024-05-01T03:29:55Z",
-    "user": "antmikinka",
-    "labels": [
-      "triaged",
-      "module: coreml"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2513552943,
-    "number": 5176,
-    "title": "Torch export can't support dynamics shapes for lstm",
-    "url": "https://github.com/pytorch/executorch/issues/5176",
-    "created_at": "2024-09-09T10:22:58Z",
-    "user": "ZORO-Q",
-    "labels": [
-      "module: exir",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2526848608,
-    "number": 5381,
-    "title": "Operator torch._ops.aten.unfold.default is not Aten Canonical",
-    "url": "https://github.com/pytorch/executorch/issues/5381",
-    "created_at": "2024-09-15T10:30:44Z",
-    "user": "ari-ruokamo",
-    "labels": [
-      "module: exir",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2557540515,
-    "number": 5766,
-    "title": "\"No such file or directory: program.fbs\" when export_add.py file is a sibling of `executorch` repo directory",
-    "url": "https://github.com/pytorch/executorch/issues/5766",
-    "created_at": "2024-09-30T20:04:48Z",
-    "user": "andrei-cioaca",
-    "labels": [
-      "module: doc",
-      "actionable",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2568347503,
-    "number": 5914,
-    "title": "QNN GPU or DSP backend issue",
-    "url": "https://github.com/pytorch/executorch/issues/5914",
-    "created_at": "2024-10-05T22:21:07Z",
-    "user": "ismaeelbashir03",
-    "labels": [
-      "partner: qualcomm",
-      "triaged",
-      "module: qnn"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

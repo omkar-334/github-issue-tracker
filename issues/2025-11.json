@@ -11688,6 +11688,40 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653557907,
+    "number": 168857,
+    "title": "Test: TestTesting.test_cuda_assert_should_stop_common_device_type_test_suite",
+    "url": "https://github.com/pytorch/pytorch/issues/168857",
+    "created_at": "2025-11-22T01:10:33Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653558001,
+    "number": 168858,
+    "title": "Test: TestTesting.test_cuda_assert_should_not_stop_common_distributed_test_suite",
+    "url": "https://github.com/pytorch/pytorch/issues/168858",
+    "created_at": "2025-11-22T01:10:35Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653558475,
     "number": 168865,
     "title": "Test: TestTorchDeviceType.test_cauchy_kstest",

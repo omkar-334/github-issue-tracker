@@ -597,6 +597,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 2756214604,
+    "number": 7428,
+    "title": "I am trying to use export custom model to a executorch",
+    "url": "https://github.com/pytorch/executorch/issues/7428",
+    "created_at": "2024-12-23T14:49:04Z",
+    "user": "dinusha94",
+    "labels": [
+      "module: exir",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2756269793,
     "number": 2283,
