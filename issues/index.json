@@ -16834,6 +16834,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 3318841701,
+      "number": 23460,
+      "title": "DEV: spin `cpu_count` check is not robust",
+      "url": "https://github.com/scipy/scipy/issues/23460",
+      "created_at": "2025-08-13T15:09:14Z",
+      "user": "lucascolley",
+      "labels": [
+        "query",
+        "DX"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3319014658,
       "number": 2338,
@@ -37565,6 +37581,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3594653052,
+      "number": 28197,
+      "title": "[Bug]: MoE models quantized with LLM compressor require `Linear` targets (which llmcompressor doesn't add by default)",
+      "url": "https://github.com/vllm-project/vllm/issues/28197",
+      "created_at": "2025-11-06T08:18:18Z",
+      "user": "mratsim",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3594688135,
       "number": 3563,
@@ -47851,6 +47882,22 @@
       "labels": [
         "type:enhancement",
         "area:frontend"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3656606952,
+      "number": 168935,
+      "title": "[ROCm] enabling compile should not cause signficiant accuracy loss on many important models",
+      "url": "https://github.com/pytorch/pytorch/issues/168935",
+      "created_at": "2025-11-23T23:41:47Z",
+      "user": "functionstackx",
+      "labels": [
+        "module: rocm",
+        "triaged"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -82824,8 +82871,167 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3743415898,
+      "number": 25814,
+      "title": "Windows Access Violation when calling .to_list() on unique categorical Series cast from Int64 on ARM64 Windows",
+      "url": "https://github.com/pola-rs/polars/issues/25814",
+      "created_at": "2025-12-18T14:32:28Z",
+      "user": "Dan-Gelderd",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "A-dtype-categorical",
+        "P-high"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3743431042,
+      "number": 10268,
+      "title": "Adopt Python 3.10 in the Haystack ecosystem",
+      "url": "https://github.com/deepset-ai/haystack/issues/10268",
+      "created_at": "2025-12-18T14:36:05Z",
+      "user": "anakin87",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3743432891,
+      "number": 30969,
+      "title": "[Bug]: SmolLM3-3B FP8 models fail to load in v0.11.1 with \"Unable to find matching target\" error in compressed-tensors config",
+      "url": "https://github.com/vllm-project/vllm/issues/30969",
+      "created_at": "2025-12-18T14:36:30Z",
+      "user": "GauthierRoy",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3743479461,
+      "number": 30881,
+      "title": "[ENH]: pyplot.hist should raise error if passed a masked array",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30881",
+      "created_at": "2025-12-18T14:48:29Z",
+      "user": "nhsavage",
+      "labels": [
+        "New feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3743507954,
+      "number": 30970,
+      "title": "[Bug]:  MPClient sends queue message but EngineCoreProc does not receive, causing timeout.",
+      "url": "https://github.com/vllm-project/vllm/issues/30970",
+      "created_at": "2025-12-18T14:54:05Z",
+      "user": "YuYun329",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3743511063,
+      "number": 170770,
+      "title": "FakeTensorMode induced Cannot swap t1 because it has weakref associated with it",
+      "url": "https://github.com/pytorch/pytorch/issues/170770",
+      "created_at": "2025-12-18T14:54:45Z",
+      "user": "ezyang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3743541378,
+      "number": 170771,
+      "title": "[Inductor] F.lp_pool2d raise confusing ZeroDivisionError when capturing scalars",
+      "url": "https://github.com/pytorch/pytorch/issues/170771",
+      "created_at": "2025-12-18T15:01:40Z",
+      "user": "lingebeng",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3743586534,
+      "number": 20392,
+      "title": "[Question]: When to use FunctionTool vs a regular Python function",
+      "url": "https://github.com/run-llama/llama_index/issues/20392",
+      "created_at": "2025-12-18T15:13:15Z",
+      "user": "kpb",
+      "labels": [
+        "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/tutorials",
+      "id": 3743616326,
+      "number": 3706,
+      "title": "Feedback about Reinforcement Learning (PPO) with TorchRL Tutorial",
+      "url": "https://github.com/pytorch/tutorials/issues/3706",
+      "created_at": "2025-12-18T15:21:46Z",
+      "user": "Fizpok1",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3743624152,
+      "number": 170774,
+      "title": "CUPTI metrics not recorded in profiler",
+      "url": "https://github.com/pytorch/pytorch/issues/170774",
+      "created_at": "2025-12-18T15:23:58Z",
+      "user": "kwohlfahrt",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3743640882,
+      "number": 9039,
+      "title": "[WS] Support per-partition loop.stage / loop.cluster annotations in auto-ws passes",
+      "url": "https://github.com/triton-lang/triton/issues/9039",
+      "created_at": "2025-12-18T15:28:25Z",
+      "user": "3gx",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T14:30:32Z",
-  "total_count": 5467
+  "last_updated": "2025-12-18T15:31:22Z",
+  "total_count": 5481
 }

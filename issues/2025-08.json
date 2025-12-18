@@ -1557,6 +1557,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3318841701,
+    "number": 23460,
+    "title": "DEV: spin `cpu_count` check is not robust",
+    "url": "https://github.com/scipy/scipy/issues/23460",
+    "created_at": "2025-08-13T15:09:14Z",
+    "user": "lucascolley",
+    "labels": [
+      "query",
+      "DX"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3319014658,
     "number": 2338,

@@ -1,62 +1,94 @@
 [
   {
-    "repo": "microsoft/LightGBM",
-    "id": 794742546,
-    "number": 3867,
-    "title": "[ci] warnings from mypy",
-    "url": "https://github.com/microsoft/LightGBM/issues/3867",
-    "created_at": "2021-01-27T03:46:19Z",
-    "user": "jameslamb",
+    "repo": "scipy/scipy",
+    "id": 1067380357,
+    "number": 15129,
+    "title": "Consider unifying the two OpenBLAS libraries in NumPy and SciPy wheels Create OpenBLAS wheel",
+    "url": "https://github.com/scipy/scipy/issues/15129",
+    "created_at": "2021-11-30T15:37:35Z",
+    "user": "rgommers",
     "labels": [
-      "help wanted",
-      "good first issue"
+      "Official binaries"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "huggingface/huggingface_hub",
-    "id": 2616681769,
-    "number": 2637,
-    "title": "Spacy packages not installable via (uv) pip",
-    "url": "https://github.com/huggingface/huggingface_hub/issues/2637",
-    "created_at": "2024-10-27T15:39:49Z",
-    "user": "jcorrie",
+    "repo": "scipy/scipy",
+    "id": 1399521196,
+    "number": 17158,
+    "title": "ENH/TYP: Publish PEP 561 `py.typed` markers",
+    "url": "https://github.com/scipy/scipy/issues/17158",
+    "created_at": "2022-10-06T12:29:23Z",
+    "user": "Trolldemorted",
     "labels": [
-      "bug"
+      "enhancement",
+      "static typing"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "huggingface/transformers",
-    "id": 2691898113,
-    "number": 34928,
-    "title": "Recomputed tensor size does not match when using activation checkpointing when using FSDP and accelerate",
-    "url": "https://github.com/huggingface/transformers/issues/34928",
-    "created_at": "2024-11-25T19:02:12Z",
-    "user": "jjbuck",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "bug"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "dagster-io/dagster",
-    "id": 2743096721,
-    "number": 26523,
-    "title": "Split Embedded ELT into packages for dlt and Sling",
-    "url": "https://github.com/dagster-io/dagster/issues/26523",
-    "created_at": "2024-12-16T18:29:23Z",
-    "user": "deepyaman",
+    "repo": "pytorch/pytorch",
+    "id": 2546603324,
+    "number": 136586,
+    "title": "support FakeTensor input for torch.compile",
+    "url": "https://github.com/pytorch/pytorch/issues/136586",
+    "created_at": "2024-09-24T23:48:18Z",
+    "user": "weifengpy",
     "labels": [
-      "integration: embedded-elt",
-      "stale"
+      "triaged",
+      "oncall: pt2",
+      "module: fakeTensor",
+      "module: dynamo",
+      "module: pt2-dispatcher"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2573852298,
+    "number": 137505,
+    "title": "RuntimeError: Backend nccl does not support allgather_into_tensor_coalesced",
+    "url": "https://github.com/pytorch/pytorch/issues/137505",
+    "created_at": "2024-10-08T17:56:30Z",
+    "user": "zjost",
+    "labels": [
+      "oncall: distributed",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 2626873843,
+    "number": 7269,
+    "title": "Memory leak when streaming",
+    "url": "https://github.com/huggingface/datasets/issues/7269",
+    "created_at": "2024-10-31T13:33:52Z",
+    "user": "Jourdelune",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
