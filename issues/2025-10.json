@@ -1666,6 +1666,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3498040658,
+    "number": 26473,
+    "title": "[Bug][ROCm]: Failed to send request to Qwen3-Next",
+    "url": "https://github.com/vllm-project/vllm/issues/26473",
+    "created_at": "2025-10-09T07:52:51Z",
+    "user": "zhentaocc",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3498252572,
     "number": 2430,

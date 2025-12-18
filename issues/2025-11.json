@@ -11474,6 +11474,57 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653552766,
+    "number": 168745,
+    "title": "Test: TestTorchDlPack.test_dlpack_convert_default_stream",
+    "url": "https://github.com/pytorch/pytorch/issues/168745",
+    "created_at": "2025-11-22T01:07:37Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653552792,
+    "number": 168746,
+    "title": "Test: TestTorchDlPack.test_dlpack_cuda_per_thread_stream",
+    "url": "https://github.com/pytorch/pytorch/issues/168746",
+    "created_at": "2025-11-22T01:07:39Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653552823,
+    "number": 168747,
+    "title": "Test: TestTorchDlPack.test_dlpack_invalid_cuda_streams",
+    "url": "https://github.com/pytorch/pytorch/issues/168747",
+    "created_at": "2025-11-22T01:07:41Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653552879,
     "number": 168749,
     "title": "Test: FakeTensorTest.test_cudnn_rnn",

@@ -978,6 +978,21 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3682406712,
+    "number": 25568,
+    "title": "Add python wheel builds for Alpine Linux",
+    "url": "https://github.com/pola-rs/polars/issues/25568",
+    "created_at": "2025-12-01T18:51:15Z",
+    "user": "Andrene",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3682439565,
     "number": 17319,
@@ -27263,6 +27278,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3742287704,
+    "number": 3742,
+    "title": "[Bug] Version 2025.12.5 leads to infinite loading times in jupyter",
+    "url": "https://github.com/unslothai/unsloth/issues/3742",
+    "created_at": "2025-12-18T09:41:25Z",
+    "user": "thorGabe123",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "prefecthq/prefect",
     "id": 3742330265,
     "number": 19862,
@@ -27444,6 +27474,277 @@
       "question",
       "classify",
       "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3742708175,
+    "number": 63412,
+    "title": "BUG: regresssion in 3.0rc: cannot save df with MultiIndex to HDF",
+    "url": "https://github.com/pandas-dev/pandas/issues/63412",
+    "created_at": "2025-12-18T11:29:51Z",
+    "user": "gdementen",
+    "labels": [
+      "Regression",
+      "IO HDF5",
+      "Strings"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3742730049,
+    "number": 42943,
+    "title": "Continuous batching: output queue requeue starvation and request-scoped iterator does not terminate on completion",
+    "url": "https://github.com/huggingface/transformers/issues/42943",
+    "created_at": "2025-12-18T11:35:58Z",
+    "user": "pythongiant",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3742757659,
+    "number": 20391,
+    "title": "[Feature Request]: Does it not support VLLM yet?",
+    "url": "https://github.com/run-llama/llama_index/issues/20391",
+    "created_at": "2025-12-18T11:44:02Z",
+    "user": "manglu097",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3742758696,
+    "number": 3323,
+    "title": "[Bug] Enabling bf16 (for weights) disables fp8 mixed precision on H100",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3323",
+    "created_at": "2025-12-18T11:44:19Z",
+    "user": "AllanK24",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-image/scikit-image",
+    "id": 3742780649,
+    "number": 7986,
+    "title": "Mode options for some `skimage.transform` functions are not consistent with the documentation",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7986",
+    "created_at": "2025-12-18T11:50:38Z",
+    "user": "hroskes",
+    "labels": [
+      ":bug: Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3742787402,
+    "number": 7733,
+    "title": "[BUG] `scale_lr` fails for `lr_scaling_method=\"sqrt\"` due to `torch.sqrt` on Python float",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7733",
+    "created_at": "2025-12-18T11:52:14Z",
+    "user": "alismil",
+    "labels": [
+      "bug",
+      "training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 3742844649,
+    "number": 2794,
+    "title": "Introduce item_reference as ConversationItem in realtime types",
+    "url": "https://github.com/openai/openai-python/issues/2794",
+    "created_at": "2025-12-18T12:06:26Z",
+    "user": "SalvatoreMarragony",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3742846904,
+    "number": 33082,
+    "title": "The example for custom components is not working",
+    "url": "https://github.com/dagster-io/dagster/issues/33082",
+    "created_at": "2025-12-18T12:07:04Z",
+    "user": "jan-benisek-lgtm",
+    "labels": [
+      "area: docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3742884677,
+    "number": 19864,
+    "title": "duplicate key value violates unique constraint \"uq_task_run__flow_run_id_task_key_dynamic_key\"",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19864",
+    "created_at": "2025-12-18T12:17:04Z",
+    "user": "vkrot-innio",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 3742901524,
+    "number": 12642,
+    "title": "Update docs and classifiers to reflect that 3.7 is no longer supported",
+    "url": "https://github.com/pydantic/pydantic/issues/12642",
+    "created_at": "2025-12-18T12:21:27Z",
+    "user": "alexander-alderman-webb",
+    "labels": [
+      "bug V1",
+      "pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3742918702,
+    "number": 3744,
+    "title": "[Bug] Evaluation metrics logged to training in wandb",
+    "url": "https://github.com/unslothai/unsloth/issues/3744",
+    "created_at": "2025-12-18T12:26:21Z",
+    "user": "AJain9199",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 3742951469,
+    "number": 2479,
+    "title": "ValueError in model.generate() with JAX backend: \"Triggering jax_array() during abstractification is no longer supported\"",
+    "url": "https://github.com/keras-team/keras-hub/issues/2479",
+    "created_at": "2025-12-18T12:35:28Z",
+    "user": "pctablet505",
+    "labels": [
+      "type:Bug",
+      "keras-team-review-pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3742953326,
+    "number": 19865,
+    "title": "Support for DockerWorker not to login to registry every flow run",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19865",
+    "created_at": "2025-12-18T12:36:01Z",
+    "user": "LoG1s7",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3742956618,
+    "number": 3745,
+    "title": "[Bug] Assigning HidePrintMessage(sys.stderr) to sys.stderr halts further execution in jupyter notebook",
+    "url": "https://github.com/unslothai/unsloth/issues/3745",
+    "created_at": "2025-12-18T12:36:52Z",
+    "user": "janvdp",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3742966843,
+    "number": 7734,
+    "title": "Deepspeed dual-machine single-card streaming inference has an error",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7734",
+    "created_at": "2025-12-18T12:39:39Z",
+    "user": "Haneeeeeeee",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3742990419,
+    "number": 30963,
+    "title": "[Bug]: AssertionError: Failed to apply prompt replacement for mm_items['image'][0]",
+    "url": "https://github.com/vllm-project/vllm/issues/30963",
+    "created_at": "2025-12-18T12:45:16Z",
+    "user": "liaomingg",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3743010443,
+    "number": 4719,
+    "title": "Loss calculation of `GKDTrainer` may be inaccurate when performing gradient accumulation?",
+    "url": "https://github.com/huggingface/trl/issues/4719",
+    "created_at": "2025-12-18T12:50:05Z",
+    "user": "jue-jue-zi",
+    "labels": [
+      "🐛 bug",
+      "🏋 GKD"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3743011646,
+    "number": 30964,
+    "title": "[Bug]: Qwen3-Next-80B-A3B-Instruct ran failed for long data",
+    "url": "https://github.com/vllm-project/vllm/issues/30964",
+    "created_at": "2025-12-18T12:50:19Z",
+    "user": "AIR-hl",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
