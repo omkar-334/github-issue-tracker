@@ -14650,6 +14650,29 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3263970064,
+      "number": 54923,
+      "title": "[Roadmap] Ray Q3 2025",
+      "url": "https://github.com/ray-project/ray/issues/54923",
+      "created_at": "2025-07-25T17:55:01Z",
+      "user": "cszhu",
+      "labels": [
+        "serve",
+        "rllib",
+        "train",
+        "kuberay",
+        "core",
+        "data",
+        "observability",
+        "llm",
+        "stability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3264545064,
       "number": 2982,
@@ -18698,6 +18721,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3369200197,
+      "number": 23992,
+      "title": "[Bug]: vLLM Deployment of Qwen3-8B Model Streaming Output Tool Content Missing Issue",
+      "url": "https://github.com/vllm-project/vllm/issues/23992",
+      "created_at": "2025-08-30T14:57:55Z",
+      "user": "TBice123123",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3369416498,
       "number": 4074,
@@ -21297,6 +21335,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3397802669,
+      "number": 24499,
+      "title": "[Installation]: 在amd rocm6.4.2设备上安装报错",
+      "url": "https://github.com/vllm-project/vllm/issues/24499",
+      "created_at": "2025-09-09T10:32:26Z",
+      "user": "tanghui886",
+      "labels": [
+        "installation",
+        "rocm",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3397924246,
       "number": 1764,
@@ -23213,6 +23268,21 @@
       "labels": [
         "bug",
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3416918894,
+      "number": 24865,
+      "title": "[Bug]: v0.10.2 Qwen 3 Next 80b FP8 Slow first request and potential format mismatch: seq_len (4) < num_heads (8)",
+      "url": "https://github.com/vllm-project/vllm/issues/24865",
+      "created_at": "2025-09-15T08:42:46Z",
+      "user": "Syst3m1cAn0maly",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29800,6 +29870,21 @@
       "labels": [
         "bug",
         "P3"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3515225899,
+      "number": 26838,
+      "title": "[Performance]: RTX 6000 PRO - FP8 in sglang is faster",
+      "url": "https://github.com/vllm-project/vllm/issues/26838",
+      "created_at": "2025-10-14T19:41:14Z",
+      "user": "voipmonitor",
+      "labels": [
+        "performance"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -44118,6 +44203,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3643463302,
+      "number": 168161,
+      "title": "Way to make torch.utils.checkpoint inert when doing graph tracing",
+      "url": "https://github.com/pytorch/pytorch/issues/168161",
+      "created_at": "2025-11-19T16:15:45Z",
+      "user": "ezyang",
+      "labels": [
+        "module: activation checkpointing",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3643537443,
       "number": 63153,
@@ -44156,6 +44257,23 @@
       "created_at": "2025-11-19T16:44:44Z",
       "user": "andrewor14",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3643582336,
+      "number": 168163,
+      "title": "Dynamo overguards on checkpoint policy functions that are closed over by compiled region",
+      "url": "https://github.com/pytorch/pytorch/issues/168163",
+      "created_at": "2025-11-19T16:45:01Z",
+      "user": "ezyang",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -67978,6 +68096,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3715268206,
+      "number": 30392,
+      "title": "[Bug]: Docker image v0.12.0 Fail to serve via Docker image",
+      "url": "https://github.com/vllm-project/vllm/issues/30392",
+      "created_at": "2025-12-10T13:43:59Z",
+      "user": "kuopching",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3715298852,
       "number": 2137,
@@ -81782,8 +81915,112 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3742109921,
+      "number": 170758,
+      "title": "bf16 layernorm has wrong answer",
+      "url": "https://github.com/pytorch/pytorch/issues/170758",
+      "created_at": "2025-12-18T08:54:49Z",
+      "user": "yuchengliu1",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3742110370,
+      "number": 30465,
+      "title": "DEP: remove npymath.ini and mlib.ini",
+      "url": "https://github.com/numpy/numpy/issues/30465",
+      "created_at": "2025-12-18T08:54:53Z",
+      "user": "mattip",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3742134919,
+      "number": 25808,
+      "title": "Add PyArrow schema support to `LazyFrame.sink_parquet` for Iceberg field IDs and per-column metadata",
+      "url": "https://github.com/pola-rs/polars/issues/25808",
+      "created_at": "2025-12-18T09:01:08Z",
+      "user": "atodekangae",
+      "labels": [
+        "enhancement",
+        "accepted",
+        "A-io-parquet",
+        "A-io-iceberg"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3742178039,
+      "number": 5143,
+      "title": "Fix CI due to Numpy warning",
+      "url": "https://github.com/google/flax/issues/5143",
+      "created_at": "2025-12-18T09:13:17Z",
+      "user": "vfdev-5",
+      "labels": [
+        "help-wanted"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3742216137,
+      "number": 34417,
+      "title": "Why is rate limiter available with only the python chat models and not with the embedding models ?",
+      "url": "https://github.com/langchain-ai/langchain/issues/34417",
+      "created_at": "2025-12-18T09:23:04Z",
+      "user": "vsnakul",
+      "labels": [
+        "langchain",
+        "feature request",
+        "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "open-mmlab/mmcv",
+      "id": 3742246105,
+      "number": 3318,
+      "title": "[Bug]",
+      "url": "https://github.com/open-mmlab/mmcv/issues/3318",
+      "created_at": "2025-12-18T09:30:37Z",
+      "user": "zcr45468-alt",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3742264598,
+      "number": 30956,
+      "title": "[Feature]: could output the given format logger ?",
+      "url": "https://github.com/vllm-project/vllm/issues/30956",
+      "created_at": "2025-12-18T09:35:22Z",
+      "user": "ucas010",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T08:37:52Z",
-  "total_count": 5399
+  "last_updated": "2025-12-18T09:43:29Z",
+  "total_count": 5414
 }

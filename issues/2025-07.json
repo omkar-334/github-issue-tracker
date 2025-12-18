@@ -3376,6 +3376,29 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3263970064,
+    "number": 54923,
+    "title": "[Roadmap] Ray Q3 2025",
+    "url": "https://github.com/ray-project/ray/issues/54923",
+    "created_at": "2025-07-25T17:55:01Z",
+    "user": "cszhu",
+    "labels": [
+      "serve",
+      "rllib",
+      "train",
+      "kuberay",
+      "core",
+      "data",
+      "observability",
+      "llm",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3264545064,
     "number": 2982,

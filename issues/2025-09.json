@@ -2365,6 +2365,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3397802669,
+    "number": 24499,
+    "title": "[Installation]: 在amd rocm6.4.2设备上安装报错",
+    "url": "https://github.com/vllm-project/vllm/issues/24499",
+    "created_at": "2025-09-09T10:32:26Z",
+    "user": "tanghui886",
+    "labels": [
+      "installation",
+      "rocm",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3397924246,
     "number": 1764,
@@ -4281,6 +4298,21 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3416918894,
+    "number": 24865,
+    "title": "[Bug]: v0.10.2 Qwen 3 Next 80b FP8 Slow first request and potential format mismatch: seq_len (4) < num_heads (8)",
+    "url": "https://github.com/vllm-project/vllm/issues/24865",
+    "created_at": "2025-09-15T08:42:46Z",
+    "user": "Syst3m1cAn0maly",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

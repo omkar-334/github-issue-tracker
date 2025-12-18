@@ -8613,6 +8613,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3643463302,
+    "number": 168161,
+    "title": "Way to make torch.utils.checkpoint inert when doing graph tracing",
+    "url": "https://github.com/pytorch/pytorch/issues/168161",
+    "created_at": "2025-11-19T16:15:45Z",
+    "user": "ezyang",
+    "labels": [
+      "module: activation checkpointing",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3643537443,
     "number": 63153,
@@ -8651,6 +8667,23 @@
     "created_at": "2025-11-19T16:44:44Z",
     "user": "andrewor14",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3643582336,
+    "number": 168163,
+    "title": "Dynamo overguards on checkpoint policy functions that are closed over by compiled region",
+    "url": "https://github.com/pytorch/pytorch/issues/168163",
+    "created_at": "2025-11-19T16:45:01Z",
+    "user": "ezyang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
