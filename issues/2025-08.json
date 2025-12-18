@@ -3134,6 +3134,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3359504844,
+    "number": 5366,
+    "title": "[Bug]: chromadb.errors.InternalError: Error in compaction: Failed to apply logs to the metadata segment",
+    "url": "https://github.com/chroma-core/chroma/issues/5366",
+    "created_at": "2025-08-27T14:04:01Z",
+    "user": "YiJunSachs",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3359564378,
     "number": 23752,

@@ -194,6 +194,22 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3195781314,
+    "number": 23397,
+    "title": "Empty `group_by` should be allowed",
+    "url": "https://github.com/pola-rs/polars/issues/23397",
+    "created_at": "2025-07-02T12:41:26Z",
+    "user": "soerenwolfers",
+    "labels": [
+      "enhancement",
+      "A-api"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3195944717,
     "number": 21448,

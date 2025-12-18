@@ -3254,6 +3254,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3603613689,
+    "number": 15688,
+    "title": "please support normal java and scala3",
+    "url": "https://github.com/pytorch/executorch/issues/15688",
+    "created_at": "2025-11-08T14:23:35Z",
+    "user": "mullerhai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "stanfordnlp/dspy",
     "id": 3603657910,
     "number": 9034,

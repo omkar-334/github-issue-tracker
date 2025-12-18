@@ -28045,5 +28045,172 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3743654816,
+    "number": 19489,
+    "title": "[BUG] mlflow.agno.autolog(): Agno team cannot get member run_id when streaming is enabled",
+    "url": "https://github.com/mlflow/mlflow/issues/19489",
+    "created_at": "2025-12-18T15:32:25Z",
+    "user": "zhenxiay",
+    "labels": [
+      "bug",
+      "area/tracing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "networkx/networkx",
+    "id": 3743656064,
+    "number": 8400,
+    "title": "nx.neighbors() return type",
+    "url": "https://github.com/networkx/networkx/issues/8400",
+    "created_at": "2025-12-18T15:32:49Z",
+    "user": "leondeppe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 3743686783,
+    "number": 12646,
+    "title": "Improve validation error messages",
+    "url": "https://github.com/pydantic/pydantic/issues/12646",
+    "created_at": "2025-12-18T15:42:00Z",
+    "user": "Viicos",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3743740641,
+    "number": 3707,
+    "title": "Feedback: Saving a DDP-Wrapped Model",
+    "url": "https://github.com/pytorch/tutorials/issues/3707",
+    "created_at": "2025-12-18T15:58:18Z",
+    "user": "Samirkar05",
+    "labels": [
+      "distributed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3743769644,
+    "number": 30882,
+    "title": "[Bug]: Flaky tests with \"Python 3.11 on ubuntu-22.04 (Minimum Versions)\"",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30882",
+    "created_at": "2025-12-18T16:06:05Z",
+    "user": "timhoffm",
+    "labels": [
+      "CI: testing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3743779571,
+    "number": 21431,
+    "title": "Trainer.save_checkpoint() occasionally saves corrupt checkpoint in Docker/WSL",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21431",
+    "created_at": "2025-12-18T16:08:40Z",
+    "user": "stf976",
+    "labels": [
+      "bug",
+      "needs triage",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/audio",
+    "id": 3743813070,
+    "number": 4161,
+    "title": "The CMUARCTIC dataset yields the wrong text transcripts",
+    "url": "https://github.com/pytorch/audio/issues/4161",
+    "created_at": "2025-12-18T16:17:31Z",
+    "user": "rhdunn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3743815318,
+    "number": 3747,
+    "title": "[Feature] Add Fine-Tuning Support for FastVLM Vision-Language Models",
+    "url": "https://github.com/unslothai/unsloth/issues/3747",
+    "created_at": "2025-12-18T16:18:06Z",
+    "user": "sebastianherreramonterrosa",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3743817873,
+    "number": 3632,
+    "title": "upload to organization dataset PR fails with 404 error",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3632",
+    "created_at": "2025-12-18T16:18:50Z",
+    "user": "drnhhl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3743836255,
+    "number": 63415,
+    "title": "DOC: Show source link in documentation appears broken",
+    "url": "https://github.com/pandas-dev/pandas/issues/63415",
+    "created_at": "2025-12-18T16:23:41Z",
+    "user": "benrutter",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3743839145,
+    "number": 25817,
+    "title": "Incorrect filter execution for empty string in LazyFrame",
+    "url": "https://github.com/pola-rs/polars/issues/25817",
+    "created_at": "2025-12-18T16:24:30Z",
+    "user": "srajan0149",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
