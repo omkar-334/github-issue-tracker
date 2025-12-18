@@ -2943,6 +2943,21 @@
       "archived": false
     },
     {
+      "repo": "matplotlib/matplotlib",
+      "id": 2891444616,
+      "number": 29699,
+      "title": "[ENH]: Add `zorder` (grid, scatter, line, etc) in `rcParams`",
+      "url": "https://github.com/matplotlib/matplotlib/issues/29699",
+      "created_at": "2025-03-03T14:40:52Z",
+      "user": "JosephBARBIERDARNAL",
+      "labels": [
+        "New feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 2891579854,
       "number": 600,
@@ -3649,6 +3664,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2925101749,
+      "number": 9311,
+      "title": "Is the QNN backend support the model of Llama 3.2 3B instead of XNNPACK？",
+      "url": "https://github.com/pytorch/executorch/issues/9311",
+      "created_at": "2025-03-17T13:28:39Z",
+      "user": "tombang",
+      "labels": [
+        "need-user-input",
+        "partner: qualcomm",
+        "module: qnn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 2925270353,
       "number": 30323,
@@ -3686,6 +3718,21 @@
       "user": "Nav31",
       "labels": [
         "Feature Request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2927348304,
+      "number": 9353,
+      "title": "Qwen2.5-0.5b SpinQuant export .pte fail",
+      "url": "https://github.com/pytorch/executorch/issues/9353",
+      "created_at": "2025-03-18T06:40:01Z",
+      "user": "Francis235",
+      "labels": [
+        "need-user-input"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -7201,6 +7248,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3065588645,
+      "number": 10899,
+      "title": "cyclic dependency while executing the example/arm/setup.sh",
+      "url": "https://github.com/pytorch/executorch/issues/10899",
+      "created_at": "2025-05-15T09:32:50Z",
+      "user": "antonyathomas",
+      "labels": [
+        "module: build/install",
+        "partner: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 3066646480,
       "number": 5613,
@@ -8734,6 +8797,21 @@
       "url": "https://github.com/pola-rs/polars/issues/23038",
       "created_at": "2025-06-02T08:51:06Z",
       "user": "FrithjofWinkelmannQC",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3109894307,
+      "number": 23048,
+      "title": "Enhancement: Support sorting by multiple columns in Expr.rank",
+      "url": "https://github.com/pola-rs/polars/issues/23048",
+      "created_at": "2025-06-02T12:03:24Z",
+      "user": "josemuller",
       "labels": [
         "enhancement"
       ],
@@ -14385,6 +14463,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3258270838,
+      "number": 12805,
+      "title": "Support for Dynamic Data Dependent Tensor Slicing",
+      "url": "https://github.com/pytorch/executorch/issues/12805",
+      "created_at": "2025-07-24T02:31:40Z",
+      "user": "pkmandke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3258399515,
       "number": 159013,
@@ -16364,6 +16455,22 @@
       "user": "DamyanBG",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3303882672,
+      "number": 22519,
+      "title": "[Bug]: [gpt oss 20b] [tool_call] Unexpected token 12606 while expecting start token 200006",
+      "url": "https://github.com/vllm-project/vllm/issues/22519",
+      "created_at": "2025-08-08T12:29:19Z",
+      "user": "nanhexinyu",
+      "labels": [
+        "bug",
+        "gpt-oss"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -83663,8 +83770,131 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3744524175,
+      "number": 25821,
+      "title": "Panic from slicing a list of structs containing an Enum field",
+      "url": "https://github.com/pola-rs/polars/issues/25821",
+      "created_at": "2025-12-18T19:23:33Z",
+      "user": "lnguyenPHI",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-panic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-image/scikit-image",
+      "id": 3744534246,
+      "number": 7989,
+      "title": "Evaluate usage of softprops/action-gh-release in release workflow",
+      "url": "https://github.com/scikit-image/scikit-image/issues/7989",
+      "created_at": "2025-12-18T19:26:44Z",
+      "user": "lagru",
+      "labels": [
+        ":speech_balloon: Discussion",
+        ":robot: type: Infrastructure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3744534653,
+      "number": 24186,
+      "title": "BUG: array API: `torch.asarray` removes `requires_grad` from torch tensors",
+      "url": "https://github.com/scipy/scipy/issues/24186",
+      "created_at": "2025-12-18T19:26:54Z",
+      "user": "mschuck-rai",
+      "labels": [
+        "query",
+        "upstream bug",
+        "array types"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3744547527,
+      "number": 24187,
+      "title": "ENH: spatial: New syntax for composing (..., 3) arrays representing translations with Rotations and RigidTransforms",
+      "url": "https://github.com/scipy/scipy/issues/24187",
+      "created_at": "2025-12-18T19:30:34Z",
+      "user": "scottshambaugh",
+      "labels": [
+        "enhancement",
+        "scipy.spatial"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3744579313,
+      "number": 5148,
+      "title": "`nnx.jit` doesn't work with Jax 0.8.2",
+      "url": "https://github.com/google/flax/issues/5148",
+      "created_at": "2025-12-18T19:39:50Z",
+      "user": "julian-q",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3744600580,
+      "number": 170798,
+      "title": "nn.functiona.pad silently changes the padding value if input dtype is int64 and padding value is larger than 2^53",
+      "url": "https://github.com/pytorch/pytorch/issues/170798",
+      "created_at": "2025-12-18T19:46:44Z",
+      "user": "bellecp",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3744663993,
+      "number": 30985,
+      "title": "[RFC]: DRY Dependencies for Better Hardware-Specific vLLM Dependency Management",
+      "url": "https://github.com/vllm-project/vllm/issues/30985",
+      "created_at": "2025-12-18T20:06:41Z",
+      "user": "wjhrdy",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3744699995,
+      "number": 2877,
+      "title": "Feature: Support OIDC GCP secret",
+      "url": "https://github.com/lancedb/lancedb/issues/2877",
+      "created_at": "2025-12-18T20:16:02Z",
+      "user": "MeihanLi",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T19:23:13Z",
-  "total_count": 5523
+  "last_updated": "2025-12-18T20:29:20Z",
+  "total_count": 5538
 }

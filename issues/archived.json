@@ -1,15 +1,49 @@
 [
   {
     "repo": "scipy/scipy",
-    "id": 2422997554,
-    "number": 21232,
-    "title": "META: vendored code tracker",
-    "url": "https://github.com/scipy/scipy/issues/21232",
-    "created_at": "2024-07-22T14:16:55Z",
-    "user": "lucascolley",
+    "id": 1800933869,
+    "number": 18867,
+    "title": "Tracker: array types (CuPy, PyTorch & co) and array API standard support",
+    "url": "https://github.com/scipy/scipy/issues/18867",
+    "created_at": "2023-07-12T12:58:36Z",
+    "user": "rgommers",
     "labels": [
-      "maintenance",
-      "information"
+      "enhancement",
+      "array types"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2655143211,
+    "number": 6813,
+    "title": "How to convert tokenizer of SmolLM model as accepted by executorch",
+    "url": "https://github.com/pytorch/executorch/issues/6813",
+    "created_at": "2024-11-13T11:19:13Z",
+    "user": "Arpit2601",
+    "labels": [
+      "triaged",
+      "module: extension",
+      "module: user experience"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 2657987844,
+    "number": 6848,
+    "title": "meta-llama/Llama-3.2-1B, The model is not working properly",
+    "url": "https://github.com/pytorch/executorch/issues/6848",
+    "created_at": "2024-11-14T08:17:12Z",
+    "user": "yangh0597",
+    "labels": [
+      "module: examples",
+      "triaged",
+      "module: qnn"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

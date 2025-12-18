@@ -28471,5 +28471,128 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3744524175,
+    "number": 25821,
+    "title": "Panic from slicing a list of structs containing an Enum field",
+    "url": "https://github.com/pola-rs/polars/issues/25821",
+    "created_at": "2025-12-18T19:23:33Z",
+    "user": "lnguyenPHI",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-image/scikit-image",
+    "id": 3744534246,
+    "number": 7989,
+    "title": "Evaluate usage of softprops/action-gh-release in release workflow",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7989",
+    "created_at": "2025-12-18T19:26:44Z",
+    "user": "lagru",
+    "labels": [
+      ":speech_balloon: Discussion",
+      ":robot: type: Infrastructure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3744534653,
+    "number": 24186,
+    "title": "BUG: array API: `torch.asarray` removes `requires_grad` from torch tensors",
+    "url": "https://github.com/scipy/scipy/issues/24186",
+    "created_at": "2025-12-18T19:26:54Z",
+    "user": "mschuck-rai",
+    "labels": [
+      "query",
+      "upstream bug",
+      "array types"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3744547527,
+    "number": 24187,
+    "title": "ENH: spatial: New syntax for composing (..., 3) arrays representing translations with Rotations and RigidTransforms",
+    "url": "https://github.com/scipy/scipy/issues/24187",
+    "created_at": "2025-12-18T19:30:34Z",
+    "user": "scottshambaugh",
+    "labels": [
+      "enhancement",
+      "scipy.spatial"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3744579313,
+    "number": 5148,
+    "title": "`nnx.jit` doesn't work with Jax 0.8.2",
+    "url": "https://github.com/google/flax/issues/5148",
+    "created_at": "2025-12-18T19:39:50Z",
+    "user": "julian-q",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3744600580,
+    "number": 170798,
+    "title": "nn.functiona.pad silently changes the padding value if input dtype is int64 and padding value is larger than 2^53",
+    "url": "https://github.com/pytorch/pytorch/issues/170798",
+    "created_at": "2025-12-18T19:46:44Z",
+    "user": "bellecp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3744663993,
+    "number": 30985,
+    "title": "[RFC]: DRY Dependencies for Better Hardware-Specific vLLM Dependency Management",
+    "url": "https://github.com/vllm-project/vllm/issues/30985",
+    "created_at": "2025-12-18T20:06:41Z",
+    "user": "wjhrdy",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3744699995,
+    "number": 2877,
+    "title": "Feature: Support OIDC GCP secret",
+    "url": "https://github.com/lancedb/lancedb/issues/2877",
+    "created_at": "2025-12-18T20:16:02Z",
+    "user": "MeihanLi",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
