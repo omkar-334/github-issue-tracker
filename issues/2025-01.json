@@ -556,6 +556,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2793942001,
+    "number": 49896,
+    "title": "[Ray dashboard] Add warning about truncated tasks in the job UI",
+    "url": "https://github.com/ray-project/ray/issues/49896",
+    "created_at": "2025-01-16T22:53:03Z",
+    "user": "scottsun94",
+    "labels": [
+      "bug",
+      "good-first-issue",
+      "triage",
+      "observability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2794004925,
     "number": 2046,

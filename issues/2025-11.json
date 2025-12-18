@@ -3826,6 +3826,21 @@
     "archived": false
   },
   {
+    "repo": "triton-lang/triton",
+    "id": 3611084726,
+    "number": 8695,
+    "title": "GatedDeltaNet backward error 'error: operand #2 does not dominate this use' on Blackwell",
+    "url": "https://github.com/triton-lang/triton/issues/8695",
+    "created_at": "2025-11-11T07:38:04Z",
+    "user": "wangsiyu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3611147196,
     "number": 12632,
@@ -6298,6 +6313,22 @@
     "labels": [
       "triaged",
       "module: cuda graphs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3626898881,
+    "number": 28746,
+    "title": "[CI]: Move setup commands from test jobs to test image",
+    "url": "https://github.com/vllm-project/vllm/issues/28746",
+    "created_at": "2025-11-14T19:30:49Z",
+    "user": "khluu",
+    "labels": [
+      "feature request",
+      "ci"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -14293,6 +14324,22 @@
     "created_at": "2025-11-26T08:15:55Z",
     "user": "mansiag05",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "hyperactive-project/Hyperactive",
+    "id": 3666409755,
+    "number": 213,
+    "title": "[ENH] Metadata Dictionary Returns Empty Information",
+    "url": "https://github.com/hyperactive-project/Hyperactive/issues/213",
+    "created_at": "2025-11-26T08:23:17Z",
+    "user": "SimonBlanke",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
