@@ -7131,6 +7131,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3460950140,
+    "number": 56987,
+    "title": "[Core] Support Alternative runtime_env packaging options",
+    "url": "https://github.com/ray-project/ray/issues/56987",
+    "created_at": "2025-09-28T01:55:39Z",
+    "user": "J-Meyers",
+    "labels": [
+      "enhancement",
+      "P2",
+      "usability",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3461913303,
     "number": 3598,

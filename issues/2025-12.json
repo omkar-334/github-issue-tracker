@@ -26677,5 +26677,102 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3741442192,
+    "number": 25805,
+    "title": "`head(n)` after LazyFrame map_groups returns incorrect number of rows",
+    "url": "https://github.com/pola-rs/polars/issues/25805",
+    "created_at": "2025-12-18T04:47:29Z",
+    "user": "spdskatr",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3741444905,
+    "number": 170745,
+    "title": "[BUG][Inconsistency][Inductor] poisson_nll_loss output differnt results between eager and inductor",
+    "url": "https://github.com/pytorch/pytorch/issues/170745",
+    "created_at": "2025-12-18T04:48:42Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3741464696,
+    "number": 30877,
+    "title": "[DOC] [BLD] Building / developing matplotlib with uv",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30877",
+    "created_at": "2025-12-18T04:59:10Z",
+    "user": "scottshambaugh",
+    "labels": [
+      "Documentation",
+      "Build"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3741480117,
+    "number": 25806,
+    "title": "Panic writing parquet with single boolean column",
+    "url": "https://github.com/pola-rs/polars/issues/25806",
+    "created_at": "2025-12-18T05:06:05Z",
+    "user": "nameexhaustion",
+    "labels": [
+      "bug",
+      "python",
+      "regression",
+      "accepted",
+      "P-critical",
+      "A-io-parquet",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741492731,
+    "number": 30926,
+    "title": "[CI Failure]: mi325_1: V1 Test entrypoints",
+    "url": "https://github.com/vllm-project/vllm/issues/30926",
+    "created_at": "2025-12-18T05:11:26Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741507922,
+    "number": 30927,
+    "title": "[CI Failure]: mi325_1: LM Eval Small Models",
+    "url": "https://github.com/vllm-project/vllm/issues/30927",
+    "created_at": "2025-12-18T05:20:25Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

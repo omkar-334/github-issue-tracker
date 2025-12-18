@@ -13840,6 +13840,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3665139712,
+    "number": 29467,
+    "title": "[CI Failure]: mi325_4: 2 Node Tests (4 GPUs in total)",
+    "url": "https://github.com/vllm-project/vllm/issues/29467",
+    "created_at": "2025-11-26T00:49:57Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3665151331,
     "number": 29468,
     "title": "[CI Failure]: mi325_1: Basic Models Tests (Other)",
@@ -14975,6 +14990,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3668460948,
+    "number": 29511,
+    "title": "[CI Failure]: mi325_1: Multi-Modal Models Test (Extended) 1",
+    "url": "https://github.com/vllm-project/vllm/issues/29511",
+    "created_at": "2025-11-26T17:36:17Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3668486124,
     "number": 19058,
@@ -15111,6 +15141,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3668609513,
+    "number": 29520,
+    "title": "[CI Failure]: mi325_1: Multi-Modal Models Test (Standard)",
+    "url": "https://github.com/vllm-project/vllm/issues/29520",
+    "created_at": "2025-11-26T18:24:37Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3668617297,
     "number": 4583,
@@ -15120,6 +15165,21 @@
     "user": "albertvillanova",
     "labels": [
       "🐛 bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3668649275,
+    "number": 29526,
+    "title": "[CI Failure]: mi325_1: Entrypoints Integration Test (Pooling)",
+    "url": "https://github.com/vllm-project/vllm/issues/29526",
+    "created_at": "2025-11-26T18:38:40Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -15220,6 +15280,36 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3668749685,
+    "number": 29534,
+    "title": "[CI Failure]: mi325_8: LoRA Test %N",
+    "url": "https://github.com/vllm-project/vllm/issues/29534",
+    "created_at": "2025-11-26T19:12:59Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3668789902,
+    "number": 29536,
+    "title": "[CI Failure]: mi325_1: Multi-Modal Models Test (Extended) 2",
+    "url": "https://github.com/vllm-project/vllm/issues/29536",
+    "created_at": "2025-11-26T19:25:54Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3668874880,
     "number": 29539,
     "title": "[Bug]: FULL_AND_PIECEWISE cudagraph mode leading to !!! in generated text",
@@ -15242,6 +15332,21 @@
     "created_at": "2025-11-26T20:03:53Z",
     "user": "ruisizhang123",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3668900443,
+    "number": 29541,
+    "title": "[CI Failure]: mi325_1: Entrypoints Integration Test (API Server 1)",
+    "url": "https://github.com/vllm-project/vllm/issues/29541",
+    "created_at": "2025-11-26T20:07:54Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
