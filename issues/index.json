@@ -28380,6 +28380,19 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3498892686,
+      "number": 3427,
+      "title": "Load the base model Qwen2.5-14B and pre-trained LoRA weights using Unsloth, and continue LoRA training.",
+      "url": "https://github.com/unslothai/unsloth/issues/3427",
+      "created_at": "2025-10-09T12:08:14Z",
+      "user": "zhanglv0209",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-image/scikit-image",
       "id": 3498934754,
       "number": 7919,
@@ -46877,6 +46890,23 @@
       "title": "Test: TestNNDeviceType.test_ctc_loss_cudnn_tensor_cuda",
       "url": "https://github.com/pytorch/pytorch/issues/168809",
       "created_at": "2025-11-22T01:09:18Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653555881,
+      "number": 168816,
+      "title": "Test: TestCommon.test_python_ref_executor",
+      "url": "https://github.com/pytorch/pytorch/issues/168816",
+      "created_at": "2025-11-22T01:09:29Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -81482,8 +81512,79 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3741718809,
+      "number": 170750,
+      "title": "CUDA: Tensor.index_select out-of-bounds index triggers device-side assert (Indexing.cu:1237) instead of a regular error",
+      "url": "https://github.com/pytorch/pytorch/issues/170750",
+      "created_at": "2025-12-18T06:48:01Z",
+      "user": "DeLightor",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/evaluate",
+      "id": 3741721297,
+      "number": 723,
+      "title": "FileNotFoundError: Couldn't find a module script at /workspace/weiw13@xiaopeng.com/VLM/evaluate/meteor/meteor.py. Module 'meteor' doesn't exist on the Hugging Face Hub either.",
+      "url": "https://github.com/huggingface/evaluate/issues/723",
+      "created_at": "2025-12-18T06:49:00Z",
+      "user": "viviansmlie",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3741723149,
+      "number": 21429,
+      "title": "TypeError: 'numpy.float64' object cannot be interpreted as an integer",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21429",
+      "created_at": "2025-12-18T06:49:52Z",
+      "user": "Vanillaholic",
+      "labels": [
+        "bug",
+        "needs triage",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3741777813,
+      "number": 30938,
+      "title": "[Feature]: Support NVIDIA ModelOpt FP8 PTQ variants (FP8_PER_CHANNEL_PER_TOKEN / FP8_PB_WO) in vLLM",
+      "url": "https://github.com/vllm-project/vllm/issues/30938",
+      "created_at": "2025-12-18T07:11:56Z",
+      "user": "CedricHwong",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3741816318,
+      "number": 170753,
+      "title": "[CI][Windows][Infrastructure] Support for RTX GPU workflows on Windows",
+      "url": "https://github.com/pytorch/pytorch/issues/170753",
+      "created_at": "2025-12-18T07:25:16Z",
+      "user": "gkanugula-nv",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T06:41:59Z",
-  "total_count": 5379
+  "last_updated": "2025-12-18T07:29:23Z",
+  "total_count": 5386
 }
