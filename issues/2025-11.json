@@ -105,6 +105,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3577428688,
+    "number": 166789,
+    "title": "[Flex Flash] Track down why different strided closures",
+    "url": "https://github.com/pytorch/pytorch/issues/166789",
+    "created_at": "2025-11-01T07:13:20Z",
+    "user": "drisspg",
+    "labels": [
+      "triaged",
+      "topic: bug fixes",
+      "oncall: pt2",
+      "module: flex attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3577463781,
     "number": 3274,

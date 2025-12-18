@@ -27888,6 +27888,19 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3743403396,
+    "number": 3746,
+    "title": "where can i find Dockerfile?",
+    "url": "https://github.com/unslothai/unsloth/issues/3746",
+    "created_at": "2025-12-18T14:29:18Z",
+    "user": "pureGavin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pola-rs/polars",
     "id": 3743415898,
     "number": 25814,
@@ -28365,6 +28378,63 @@
     "created_at": "2025-12-18T17:18:39Z",
     "user": "eordentlich",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3744067598,
+    "number": 170787,
+    "title": "[ARM] Unit test regression AArch64 - int4mm kernels require bf16 hw support",
+    "url": "https://github.com/pytorch/pytorch/issues/170787",
+    "created_at": "2025-12-18T17:30:38Z",
+    "user": "robert-hardwick",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3744141707,
+    "number": 3750,
+    "title": "TypeError: get_transformers_model_type() got an unexpected keyword argument 'trust_remote_code'",
+    "url": "https://github.com/unslothai/unsloth/issues/3750",
+    "created_at": "2025-12-18T17:47:10Z",
+    "user": "dtometzki",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3744156282,
+    "number": 3708,
+    "title": "Feedback about Train a Mario-playing RL Agent",
+    "url": "https://github.com/pytorch/tutorials/issues/3708",
+    "created_at": "2025-12-18T17:50:42Z",
+    "user": "Fizpok1",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3744328139,
+    "number": 25819,
+    "title": "PanicException: should not fail: SchemaMismatch(ErrString(\"type Float64 is incompatible with expected type Null\"))",
+    "url": "https://github.com/pola-rs/polars/issues/25819",
+    "created_at": "2025-12-18T18:35:48Z",
+    "user": "jesusestevez",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-panic"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

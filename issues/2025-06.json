@@ -74,6 +74,21 @@
   },
   {
     "repo": "pola-rs/polars",
+    "id": 3108620541,
+    "number": 23036,
+    "title": "Rolling count or improve rolling sum",
+    "url": "https://github.com/pola-rs/polars/issues/23036",
+    "created_at": "2025-06-02T05:24:19Z",
+    "user": "sharky564",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
     "id": 3109227154,
     "number": 23038,
     "title": "Support named placeholders in `pl.format()`",

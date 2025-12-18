@@ -1,47 +1,29 @@
 [
   {
-    "repo": "streamlit/streamlit",
-    "id": 1952793260,
-    "number": 7578,
-    "title": "Add --config-file arg to `streamlit run` for manual specification of config.toml location",
-    "url": "https://github.com/streamlit/streamlit/issues/7578",
-    "created_at": "2023-10-19T18:00:39Z",
-    "user": "cwurman",
+    "repo": "numba/numba",
+    "id": 300690001,
+    "number": 2774,
+    "title": "reversed is not supported?",
+    "url": "https://github.com/numba/numba/issues/2774",
+    "created_at": "2018-02-27T16:01:41Z",
+    "user": "wjaskowski",
     "labels": [
-      "type:enhancement",
-      "good first issue",
-      "feature:config"
+      "feature_request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pola-rs/polars",
-    "id": 2189927703,
-    "number": 15096,
-    "title": "polars.DataFrame.join: Add information on the source of each row.",
-    "url": "https://github.com/pola-rs/polars/issues/15096",
-    "created_at": "2024-03-16T11:41:48Z",
-    "user": "jesusestevez",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "enhancement"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2598379428,
-    "number": 60073,
-    "title": "BUG: ArrowDtype Series: Broadcasting Error with Single-Value Arrays in Arithmetic Operations",
-    "url": "https://github.com/pandas-dev/pandas/issues/60073",
-    "created_at": "2024-10-18T20:57:49Z",
-    "user": "hombit",
-    "labels": [
-      "Bug",
-      "Arrow"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

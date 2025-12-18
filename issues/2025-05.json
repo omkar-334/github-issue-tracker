@@ -26,6 +26,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3032984738,
+    "number": 17514,
+    "title": "[Bug]: tool calling error",
+    "url": "https://github.com/vllm-project/vllm/issues/17514",
+    "created_at": "2025-05-01T01:58:13Z",
+    "user": "weiminw",
+    "labels": [
+      "bug",
+      "unstale",
+      "tool-calling"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3033561737,
     "number": 3205,
