@@ -1089,6 +1089,22 @@
       "archived": false
     },
     {
+      "repo": "jax-ml/jax",
+      "id": 2799027558,
+      "number": 25986,
+      "title": "jax.nn.dot_product_attention CuDNN implementation raises tensor stride error during jit compile",
+      "url": "https://github.com/jax-ml/jax/issues/25986",
+      "created_at": "2025-01-20T11:38:25Z",
+      "user": "liamclarkza",
+      "labels": [
+        "bug",
+        "NVIDIA GPU"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 2799867071,
       "number": 3236,
@@ -28550,6 +28566,22 @@
         "enhancement",
         "area/evaluation",
         "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-image/scikit-image",
+      "id": 3497795050,
+      "number": 7918,
+      "title": "Python 3.14 support",
+      "url": "https://github.com/scikit-image/scikit-image/issues/7918",
+      "created_at": "2025-10-09T06:22:14Z",
+      "user": "ngoldbaum",
+      "labels": [
+        ":warning: Priority",
+        ":pray: Feature request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -83598,8 +83630,41 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3744390336,
+      "number": 25820,
+      "title": "`scan_csv` `unwrap_failed` on S3 path",
+      "url": "https://github.com/pola-rs/polars/issues/25820",
+      "created_at": "2025-12-18T18:50:19Z",
+      "user": "hutch3232",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-cloud"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3744470098,
+      "number": 42947,
+      "title": "Gradient Checkpointing Ineffective with PEFT LoRA Despite Proper Configuration",
+      "url": "https://github.com/huggingface/transformers/issues/42947",
+      "created_at": "2025-12-18T19:10:03Z",
+      "user": "yurkoff-mv",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-18T18:40:44Z",
-  "total_count": 5519
+  "last_updated": "2025-12-18T19:23:13Z",
+  "total_count": 5523
 }

@@ -707,6 +707,22 @@
     "archived": false
   },
   {
+    "repo": "jax-ml/jax",
+    "id": 2799027558,
+    "number": 25986,
+    "title": "jax.nn.dot_product_attention CuDNN implementation raises tensor stride error during jit compile",
+    "url": "https://github.com/jax-ml/jax/issues/25986",
+    "created_at": "2025-01-20T11:38:25Z",
+    "user": "liamclarkza",
+    "labels": [
+      "bug",
+      "NVIDIA GPU"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 2799867071,
     "number": 3236,

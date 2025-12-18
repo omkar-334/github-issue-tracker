@@ -28438,5 +28438,38 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3744390336,
+    "number": 25820,
+    "title": "`scan_csv` `unwrap_failed` on S3 path",
+    "url": "https://github.com/pola-rs/polars/issues/25820",
+    "created_at": "2025-12-18T18:50:19Z",
+    "user": "hutch3232",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-io-cloud"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3744470098,
+    "number": 42947,
+    "title": "Gradient Checkpointing Ineffective with PEFT LoRA Despite Proper Configuration",
+    "url": "https://github.com/huggingface/transformers/issues/42947",
+    "created_at": "2025-12-18T19:10:03Z",
+    "user": "yurkoff-mv",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

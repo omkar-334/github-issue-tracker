@@ -1,29 +1,15 @@
 [
   {
-    "repo": "numba/numba",
-    "id": 300690001,
-    "number": 2774,
-    "title": "reversed is not supported?",
-    "url": "https://github.com/numba/numba/issues/2774",
-    "created_at": "2018-02-27T16:01:41Z",
-    "user": "wjaskowski",
+    "repo": "scipy/scipy",
+    "id": 2422997554,
+    "number": 21232,
+    "title": "META: vendored code tracker",
+    "url": "https://github.com/scipy/scipy/issues/21232",
+    "created_at": "2024-07-22T14:16:55Z",
+    "user": "lucascolley",
     "labels": [
-      "feature_request"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
+      "maintenance",
+      "information"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
