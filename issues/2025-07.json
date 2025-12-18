@@ -2575,6 +2575,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3248148926,
+    "number": 21301,
+    "title": "[Bug]: Hermes tool parser returns invalid arguments",
+    "url": "https://github.com/vllm-project/vllm/issues/21301",
+    "created_at": "2025-07-21T10:53:28Z",
+    "user": "web3-luoxi",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3249255610,
     "number": 3301,

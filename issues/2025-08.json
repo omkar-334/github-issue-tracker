@@ -903,6 +903,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3303382963,
+    "number": 22515,
+    "title": "[Bug]: gpt oss 20b; [serving_chat.py:1001] openai_harmony.HarmonyError: Unexpected token 12606 while expecting start token 200006",
+    "url": "https://github.com/vllm-project/vllm/issues/22515",
+    "created_at": "2025-08-08T09:43:00Z",
+    "user": "KKKSQJ",
+    "labels": [
+      "bug",
+      "stale",
+      "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3303629040,
     "number": 2530,
@@ -2381,6 +2398,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3339081573,
+    "number": 23278,
+    "title": "[Bug]: gpt-oss 120b does not work while gpt-oss 20b works on H100",
+    "url": "https://github.com/vllm-project/vllm/issues/23278",
+    "created_at": "2025-08-20T18:05:17Z",
+    "user": "QichangZheng",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3339336747,
     "number": 161081,
@@ -3032,6 +3065,22 @@
     "labels": [
       "stat:contributions welcome",
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3359564378,
+    "number": 23752,
+    "title": "[Bug]: DeepSeek R1 with DP=8 on one 8xB200 node has 3x TPOT when concurrency < 8 than concurrency >= 8",
+    "url": "https://github.com/vllm-project/vllm/issues/23752",
+    "created_at": "2025-08-27T14:21:21Z",
+    "user": "smarterclayton",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

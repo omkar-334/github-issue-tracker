@@ -15362,6 +15362,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3719985634,
+    "number": 30493,
+    "title": "[Bug]: 5090 RTX seems to be broken",
+    "url": "https://github.com/vllm-project/vllm/issues/30493",
+    "created_at": "2025-12-11T15:56:47Z",
+    "user": "mobicham",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3720006214,
     "number": 24142,
@@ -26540,6 +26555,95 @@
     "labels": [
       "enhancement"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3741110983,
+    "number": 20388,
+    "title": "[Feature Request]: Add `MENTIONS` relationship in Nebula Property Graph Store",
+    "url": "https://github.com/run-llama/llama_index/issues/20388",
+    "created_at": "2025-12-18T01:58:56Z",
+    "user": "douglasrfaisal-gl",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3741161586,
+    "number": 42937,
+    "title": "[Bug] RuntimeError with torch.compile (reduce-overhead) and StaticCache on Qwen2.5",
+    "url": "https://github.com/huggingface/transformers/issues/42937",
+    "created_at": "2025-12-18T02:25:17Z",
+    "user": "lotato",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741201339,
+    "number": 30918,
+    "title": "[Bug] Qwen3-VL Visual Grounding Offset Issue After Upgrade from v0.11.0",
+    "url": "https://github.com/vllm-project/vllm/issues/30918",
+    "created_at": "2025-12-18T02:47:39Z",
+    "user": "Sylar-W",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3741249626,
+    "number": 19861,
+    "title": "Block references in deployment YAML resolve to dicts instead of Block instances",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19861",
+    "created_at": "2025-12-18T03:11:02Z",
+    "user": "bdalpe",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3741264408,
+    "number": 30919,
+    "title": "[Bug]: GPT-OSS-120B NotImplementedError: FlashInfer backend currently does not support attention sinks",
+    "url": "https://github.com/vllm-project/vllm/issues/30919",
+    "created_at": "2025-12-18T03:16:27Z",
+    "user": "shyeh25",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3741269417,
+    "number": 170743,
+    "title": "Reference count modifications led to performance drop",
+    "url": "https://github.com/pytorch/pytorch/issues/170743",
+    "created_at": "2025-12-18T03:17:43Z",
+    "user": "shiyang-weng",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

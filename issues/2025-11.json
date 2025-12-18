@@ -13112,6 +13112,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3661507372,
+    "number": 29373,
+    "title": "[Bug]: Multinode inference request with Ray and vLLM crashes - regression from vLLM v0.7.3",
+    "url": "https://github.com/vllm-project/vllm/issues/29373",
+    "created_at": "2025-11-25T05:01:15Z",
+    "user": "ysimeonovatnvidia",
+    "labels": [
+      "bug",
+      "ray"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3661658315,
     "number": 42375,
@@ -13801,6 +13817,21 @@
     "user": "AndreasKaratzas",
     "labels": [
       "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3665217923,
+    "number": 29469,
+    "title": "[Bug]: NVIDIA GB10，vllm docker v0.11.2 failed to run Qwen3-VL-30B-A3B-Instruct",
+    "url": "https://github.com/vllm-project/vllm/issues/29469",
+    "created_at": "2025-11-26T01:20:45Z",
+    "user": "goactiongo",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

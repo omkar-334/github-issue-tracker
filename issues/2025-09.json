@@ -741,6 +741,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3381050547,
+    "number": 24192,
+    "title": "[New Model]: New model support stepfun-ai/Step-Audio-2-mini",
+    "url": "https://github.com/vllm-project/vllm/issues/24192",
+    "created_at": "2025-09-03T19:41:53Z",
+    "user": "pratapyash",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3381077922,
     "number": 162092,
@@ -1539,6 +1555,23 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3387726956,
+    "number": 24325,
+    "title": "[Bug]: Unable to use GPT-OSS-120B with speculative decoding",
+    "url": "https://github.com/vllm-project/vllm/issues/24325",
+    "created_at": "2025-09-05T14:16:38Z",
+    "user": "hit023",
+    "labels": [
+      "bug",
+      "stale",
+      "gpt-oss"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -2559,6 +2592,22 @@
       "stale",
       "enterprise",
       "P0"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3399957847,
+    "number": 24535,
+    "title": "[Bug]: 500 internal server error when BS>8 for ISL/OSL: 1K/1K, 1K/8K.",
+    "url": "https://github.com/vllm-project/vllm/issues/24535",
+    "created_at": "2025-09-09T21:09:45Z",
+    "user": "lpc0220",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4841,6 +4890,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3423948529,
+    "number": 25002,
+    "title": "[Bug]: Empty VllmConfig causing issues with Pooler.for_embed",
+    "url": "https://github.com/vllm-project/vllm/issues/25002",
+    "created_at": "2025-09-16T22:38:58Z",
+    "user": "prashantgupta24",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3424284508,
     "number": 25015,
     "title": "[Usage]: How to profile vllm with Nsight Compute CLI?",
@@ -4865,6 +4930,54 @@
     "user": "myeongjaeking",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3424375043,
+    "number": 25021,
+    "title": "[Feature]: Ship some basic html UI with vllm for most basic testing (not for prod usage)",
+    "url": "https://github.com/vllm-project/vllm/issues/25021",
+    "created_at": "2025-09-17T02:37:52Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3424711502,
+    "number": 25039,
+    "title": "[Bug]: Failed to run qwen3 next fp8 with TP on Ampere GPU",
+    "url": "https://github.com/vllm-project/vllm/issues/25039",
+    "created_at": "2025-09-17T05:21:42Z",
+    "user": "JaheimLee",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3425093721,
+    "number": 25051,
+    "title": "[Feature]: Can vllm support user use token_ids as input for `chat completions` interface?",
+    "url": "https://github.com/vllm-project/vllm/issues/25051",
+    "created_at": "2025-09-17T07:46:07Z",
+    "user": "GGBond8488",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -4899,6 +5012,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3425647543,
+    "number": 25063,
+    "title": "[Bug]: ShardedStateLoader Appears Not to Support MLA Architecture Models Like DeepSeek​",
+    "url": "https://github.com/vllm-project/vllm/issues/25063",
+    "created_at": "2025-09-17T10:18:18Z",
+    "user": "lirong-lirong",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3426028777,
     "number": 973,
@@ -4908,6 +5037,22 @@
     "user": "elichen3051",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3426315071,
+    "number": 25073,
+    "title": "[Bug]: Step3 inference failure",
+    "url": "https://github.com/vllm-project/vllm/issues/25073",
+    "created_at": "2025-09-17T13:25:46Z",
+    "user": "xd1073321804",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5071,6 +5216,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3427734015,
+    "number": 25097,
+    "title": "[Feature]: TPU Support for Prompt Embeds",
+    "url": "https://github.com/vllm-project/vllm/issues/25097",
+    "created_at": "2025-09-17T20:37:42Z",
+    "user": "qthequartermasterman",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3427793207,
     "number": 56638,
@@ -5098,6 +5259,22 @@
     "created_at": "2025-09-17T21:21:31Z",
     "user": "jim-plus",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3427902701,
+    "number": 25102,
+    "title": "[Bug]: Crash when using CUTLASS_MLA on B200 with flashinfer 0.3.1: `UnboundLocalError: cannot access local variable 'returned_lse' where it is not associated with a value`",
+    "url": "https://github.com/vllm-project/vllm/issues/25102",
+    "created_at": "2025-09-17T21:54:42Z",
+    "user": "smarterclayton",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -5135,6 +5312,54 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3428399338,
+    "number": 25124,
+    "title": "[Bug]: The variable orig_to_new_prefix in Qwen2.5-VL likely contains a bug.",
+    "url": "https://github.com/vllm-project/vllm/issues/25124",
+    "created_at": "2025-09-18T02:27:46Z",
+    "user": "moguizhizi",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3428413404,
+    "number": 25125,
+    "title": "[Bug]: eagle3  tensor-parallel",
+    "url": "https://github.com/vllm-project/vllm/issues/25125",
+    "created_at": "2025-09-18T02:33:32Z",
+    "user": "wangyxbh",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3428438888,
+    "number": 25127,
+    "title": "[Bug]: vLLM server won’t exit; process stuck in R state and GPU becomes unusable (H100 80GB, gpu_memory_utilization=0.6)",
+    "url": "https://github.com/vllm-project/vllm/issues/25127",
+    "created_at": "2025-09-18T02:49:50Z",
+    "user": "KOOVIE",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3428466474,
     "number": 2638,
@@ -5144,6 +5369,70 @@
     "user": "ANYMS-A",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3428578442,
+    "number": 25134,
+    "title": "[Bug]: Eagle3 not support Qwen3-30B-A3B-FP8",
+    "url": "https://github.com/vllm-project/vllm/issues/25134",
+    "created_at": "2025-09-18T04:10:27Z",
+    "user": "wangyxbh",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3429207072,
+    "number": 25147,
+    "title": "[Doc]: vllm performance dashboard configuration",
+    "url": "https://github.com/vllm-project/vllm/issues/25147",
+    "created_at": "2025-09-18T08:11:27Z",
+    "user": "omkarpatil6644",
+    "labels": [
+      "documentation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3429484297,
+    "number": 25154,
+    "title": "[Bug]: AttributeError: 'Parameter' object has no attribute 'load_column_parallel_weight'",
+    "url": "https://github.com/vllm-project/vllm/issues/25154",
+    "created_at": "2025-09-18T09:26:31Z",
+    "user": "sallyjunjun",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3429727660,
+    "number": 25158,
+    "title": "[Bug]: An error occurred when directly deploying the Qwen3-Next 80B-A3B-Thinking model saved by the save_pretrained of transformers using vllm. However, directly deploying the original model was normal",
+    "url": "https://github.com/vllm-project/vllm/issues/25158",
+    "created_at": "2025-09-18T10:33:10Z",
+    "user": "zhanlun150729",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5173,6 +5462,54 @@
     "created_at": "2025-09-18T12:57:28Z",
     "user": "BIGBALLON",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3430387567,
+    "number": 25169,
+    "title": "[Doc]: Quantization support on Arm CPU missing documentation",
+    "url": "https://github.com/vllm-project/vllm/issues/25169",
+    "created_at": "2025-09-18T13:26:32Z",
+    "user": "AshokBhat",
+    "labels": [
+      "documentation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3430502281,
+    "number": 25170,
+    "title": "[Feature]: support chunked prefill on non-x86 platform",
+    "url": "https://github.com/vllm-project/vllm/issues/25170",
+    "created_at": "2025-09-18T13:54:54Z",
+    "user": "cyb70289",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3430778979,
+    "number": 25176,
+    "title": "[Bug]: Internvl3-2B/8B can't inference with video input when combined with AsyncLLMEngine",
+    "url": "https://github.com/vllm-project/vllm/issues/25176",
+    "created_at": "2025-09-18T15:01:04Z",
+    "user": "JiancongWang",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -5265,6 +5602,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3431520093,
+    "number": 25192,
+    "title": "[Bug]: Make Whisper model compatible with cuda graphs",
+    "url": "https://github.com/vllm-project/vllm/issues/25192",
+    "created_at": "2025-09-18T18:34:54Z",
+    "user": "russellb",
+    "labels": [
+      "bug",
+      "help wanted",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3431632039,
     "number": 2409,
@@ -5274,6 +5628,22 @@
     "user": "ashpakshaikh26732",
     "labels": [
       "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3432060980,
+    "number": 25210,
+    "title": "[Feature]: Use deterministic hashing for KV events always",
+    "url": "https://github.com/vllm-project/vllm/issues/25210",
+    "created_at": "2025-09-18T21:54:47Z",
+    "user": "PeaBrane",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7040,6 +7410,21 @@
     "user": "Tanky-Zhang",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3468029235,
+    "number": 41208,
+    "title": "Integrate mamba SSM kernels from the hub",
+    "url": "https://github.com/huggingface/transformers/issues/41208",
+    "created_at": "2025-09-30T07:50:52Z",
+    "user": "romitjain",
+    "labels": [
+      "Feature request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
