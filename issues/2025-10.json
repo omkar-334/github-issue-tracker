@@ -7838,6 +7838,22 @@
     "archived": false
   },
   {
+    "repo": "unit8co/darts",
+    "id": 3568604734,
+    "number": 2938,
+    "title": "[QUESTION] Cannot replicate 2nd iteration results of my historical_forecasts() using predict()",
+    "url": "https://github.com/unit8co/darts/issues/2938",
+    "created_at": "2025-10-30T01:49:16Z",
+    "user": "lubibi13",
+    "labels": [
+      "question",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3568691174,
     "number": 41943,

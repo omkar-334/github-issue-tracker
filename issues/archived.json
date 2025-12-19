@@ -1,53 +1,67 @@
 [
   {
-    "repo": "ray-project/ray",
-    "id": 725917412,
-    "number": 11509,
-    "title": "[core] ray stop should support `--address`",
-    "url": "https://github.com/ray-project/ray/issues/11509",
-    "created_at": "2020-10-20T20:24:21Z",
-    "user": "richardliaw",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 1647478756,
+    "number": 26024,
+    "title": "Make more of the \"tools\" of scikit-learn Array API compatible",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/26024",
+    "created_at": "2023-03-30T12:01:18Z",
+    "user": "betatim",
     "labels": [
-      "good-first-issue",
+      "API",
+      "Meta-issue",
+      "Array API"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2254762707,
+    "number": 20544,
+    "title": "ENH: stats: add array API-support",
+    "url": "https://github.com/scipy/scipy/issues/20544",
+    "created_at": "2024-04-20T23:32:00Z",
+    "user": "mdhaber",
+    "labels": [
+      "scipy.stats",
       "enhancement",
-      "P2",
-      "usability",
-      "infra",
-      "core",
-      "cluster-launcher"
+      "array types"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "networkx/networkx",
-    "id": 1162999923,
-    "number": 5377,
-    "title": "In docstrings, the parameter type \"container\" has ambiguous meaning",
-    "url": "https://github.com/networkx/networkx/issues/5377",
-    "created_at": "2022-03-08T18:47:23Z",
-    "user": "Matthew-Signorotti",
+    "repo": "pola-rs/polars",
+    "id": 2634493728,
+    "number": 19635,
+    "title": "`pl.read_ipc` is up to 10x slower when not using pyarrow",
+    "url": "https://github.com/pola-rs/polars/issues/19635",
+    "created_at": "2024-11-05T05:53:51Z",
+    "user": "legendre6891",
     "labels": [
-      "type: Bug fix",
-      "type: Documentation"
+      "python",
+      "performance",
+      "P-medium"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1327549710,
-    "number": 23544,
-    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
-    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
-    "created_at": "2022-08-03T17:08:28Z",
-    "user": "scottshambaugh",
+    "repo": "dagster-io/dagster",
+    "id": 2658129211,
+    "number": 25918,
+    "title": "Request: icons for gmail, posthog, and/or langfuse",
+    "url": "https://github.com/dagster-io/dagster/issues/25918",
+    "created_at": "2024-11-14T09:11:50Z",
+    "user": "elliottower",
     "labels": [
-      "New feature",
-      "topic: mplot3d",
-      "status: inactive"
+      "type: feature-request",
+      "area: tags",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

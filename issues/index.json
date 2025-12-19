@@ -35412,6 +35412,22 @@
       "archived": false
     },
     {
+      "repo": "unit8co/darts",
+      "id": 3568604734,
+      "number": 2938,
+      "title": "[QUESTION] Cannot replicate 2nd iteration results of my historical_forecasts() using predict()",
+      "url": "https://github.com/unit8co/darts/issues/2938",
+      "created_at": "2025-10-30T01:49:16Z",
+      "user": "lubibi13",
+      "labels": [
+        "question",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3568691174,
       "number": 41943,
@@ -85517,6 +85533,22 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3746005364,
+      "number": 170851,
+      "title": "Add forward_by_train and forward_by_eval convenience methods to nn.Module",
+      "url": "https://github.com/pytorch/pytorch/issues/170851",
+      "created_at": "2025-12-19T04:38:13Z",
+      "user": "msdsm",
+      "labels": [
+        "module: nn",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3746112786,
       "number": 170853,
       "title": "DISABLED test_view_as_complex_xpu (__main__.TestViewOpsXPU)",
@@ -85805,6 +85837,21 @@
       "created_at": "2025-12-19T08:31:01Z",
       "user": "EelcoKoster",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3746618642,
+      "number": 170866,
+      "title": "[RFC][Inductor] Support the judgment of training or inference scenarios for custom post grad fx pass",
+      "url": "https://github.com/pytorch/pytorch/issues/170866",
+      "created_at": "2025-12-19T08:37:01Z",
+      "user": "cdzhan",
+      "labels": [
+        "oncall: pt2"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -86405,8 +86452,130 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747770650,
+      "number": 25837,
+      "title": "`arg_min`/`arg_max` silently returns nulls for binary, decimal types, should be supported",
+      "url": "https://github.com/pola-rs/polars/issues/25837",
+      "created_at": "2025-12-19T14:46:08Z",
+      "user": "orlp",
+      "labels": [
+        "enhancement",
+        "accepted",
+        "P-medium"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747778071,
+      "number": 25838,
+      "title": "`arg_min` / `arg_max` incorrectly return NaN as result if array has nulls and first element is NaN",
+      "url": "https://github.com/pola-rs/polars/issues/25838",
+      "created_at": "2025-12-19T14:48:46Z",
+      "user": "orlp",
+      "labels": [
+        "bug",
+        "accepted",
+        "P-high"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "catboost/catboost",
+      "id": 3747826558,
+      "number": 2980,
+      "title": "Class labels in the C API",
+      "url": "https://github.com/catboost/catboost/issues/2980",
+      "created_at": "2025-12-19T15:05:20Z",
+      "user": "lnicola",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3747859548,
+      "number": 170877,
+      "title": "AArch64 unit test failure test_transpose_mxn_16_16_bf16_fp16 on Neoverse-V1",
+      "url": "https://github.com/pytorch/pytorch/issues/170877",
+      "created_at": "2025-12-19T15:15:39Z",
+      "user": "robert-hardwick",
+      "labels": [
+        "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3747864095,
+      "number": 9057,
+      "title": "Heap corruption in Triton ReduceOp shape inference",
+      "url": "https://github.com/triton-lang/triton/issues/9057",
+      "created_at": "2025-12-19T15:17:13Z",
+      "user": "sairam2661",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras",
+      "id": 3747870647,
+      "number": 21942,
+      "title": "Training stateful RNN fails due to symbolic tensor",
+      "url": "https://github.com/keras-team/keras/issues/21942",
+      "created_at": "2025-12-19T15:19:37Z",
+      "user": "fhchl",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3747871386,
+      "number": 31033,
+      "title": "[Bug]: gpt-oss-20b fails to start when using W4A8 Marlin with VLLM_MARLIN_INPUT_DTYPE=int8",
+      "url": "https://github.com/vllm-project/vllm/issues/31033",
+      "created_at": "2025-12-19T15:19:53Z",
+      "user": "mgoin",
+      "labels": [
+        "bug",
+        "gpt-oss"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "zenml-io/zenml",
+      "id": 3747890162,
+      "number": 4373,
+      "title": "Heartbeat performance improvements",
+      "url": "https://github.com/zenml-io/zenml/issues/4373",
+      "created_at": "2025-12-19T15:26:14Z",
+      "user": "Json-Andriopoulos",
+      "labels": [
+        "planned",
+        "core-team"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T14:29:25Z",
-  "total_count": 5700
+  "last_updated": "2025-12-19T15:31:27Z",
+  "total_count": 5711
 }
