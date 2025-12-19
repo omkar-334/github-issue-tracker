@@ -1,117 +1,31 @@
 [
   {
-    "repo": "dask/dask",
-    "id": 1699217517,
-    "number": 10270,
-    "title": "Poor performance with `read_csv` and many thousands of s3 files",
-    "url": "https://github.com/dask/dask/issues/10270",
-    "created_at": "2023-05-07T20:08:31Z",
-    "user": "shughes-uk",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "needs attention",
-      "needs triage"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1915444931,
-    "number": 26931,
-    "title": "[ENH]: Provide ISO linestyles",
-    "url": "https://github.com/matplotlib/matplotlib/issues/26931",
-    "created_at": "2023-09-27T12:19:18Z",
-    "user": "drew-parsons",
+    "repo": "huggingface/transformers",
+    "id": 2369076620,
+    "number": 31561,
+    "title": "Add argument to set number of eval steps in Trainer",
+    "url": "https://github.com/huggingface/transformers/issues/31561",
+    "created_at": "2024-06-24T02:43:33Z",
+    "user": "brianhill11",
     "labels": [
-      "New feature"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "openai/openai-python",
-    "id": 1998303875,
-    "number": 843,
-    "title": "Add shell auto completion for different shell, like bash, zsh, fish, powershell",
-    "url": "https://github.com/openai/openai-python/issues/843",
-    "created_at": "2023-11-17T05:26:09Z",
-    "user": "chunlea",
-    "labels": [
-      "enhancement",
-      "good first issue",
-      "CLI"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "ray-project/ray",
-    "id": 2496321574,
-    "number": 47419,
-    "title": "[Core]Ray head crashed silently - improve observability for redis timeouts causing said crash",
-    "url": "https://github.com/ray-project/ray/issues/47419",
-    "created_at": "2024-08-30T06:05:41Z",
-    "user": "zhangsikai123",
-    "labels": [
-      "bug",
-      "P1",
-      "core"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2604036100,
-    "number": 25415,
-    "title": "[dagster-fivetran] Trying to connect to a new Fivetran connector that has not been synced yet fails: dagster._core.definitions.events.Failure: Max retries (3) exceeded with url: ­https://api.fivetran.com/v1/connectors/{connector_name}/schemas",
-    "url": "https://github.com/dagster-io/dagster/issues/25415",
-    "created_at": "2024-10-22T02:08:25Z",
-    "user": "garethbrickman",
-    "labels": [
-      "type: bug",
-      "integration: fivetran",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "ray-project/ray",
-    "id": 2652509226,
-    "number": 48701,
-    "title": "[Core] `ray job submit` doesn't always catch the last lines of the job logs",
-    "url": "https://github.com/ray-project/ray/issues/48701",
-    "created_at": "2024-11-12T15:22:44Z",
-    "user": "kpouget",
-    "labels": [
-      "bug",
-      "P1",
-      "core",
-      "community-backlog"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "ray-project/ray",
-    "id": 2657060677,
-    "number": 48733,
-    "title": "[core][release] Need to update azure-cli-core version to update paramiko",
-    "url": "https://github.com/ray-project/ray/issues/48733",
-    "created_at": "2024-11-13T23:02:05Z",
-    "user": "rynewang",
-    "labels": [
-      "bug",
-      "P1",
-      "core",
-      "community-backlog"
+      "Good First Issue",
+      "trainer",
+      "Feature request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
