@@ -181,6 +181,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2758719788,
+      "number": 7437,
+      "title": "Follow the guide of qnn Android demo to run until coredump occurs during qnn model quantization",
+      "url": "https://github.com/pytorch/executorch/issues/7437",
+      "created_at": "2024-12-25T10:40:17Z",
+      "user": "AndreaChiChengdu",
+      "labels": [
+        "partner: qualcomm",
+        "triaged",
+        "module: qnn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2760268096,
       "number": 143887,
@@ -890,6 +907,19 @@
       "url": "https://github.com/huggingface/sentence-transformers/issues/3173",
       "created_at": "2025-01-15T09:16:20Z",
       "user": "Hypothesis-Z",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/smolagents",
+      "id": 2789743196,
+      "number": 201,
+      "title": "Repeatedly getting \"Error in code parsing: Your code snippet is invalid\"",
+      "url": "https://github.com/huggingface/smolagents/issues/201",
+      "created_at": "2025-01-15T12:41:48Z",
+      "user": "rnckp",
       "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -3078,6 +3108,25 @@
       "labels": [
         "bug",
         "module:classification"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2890747479,
+      "number": 8878,
+      "title": "Temperature Settings in Android llama demo (Mediatek)",
+      "url": "https://github.com/pytorch/executorch/issues/8878",
+      "created_at": "2025-03-03T10:00:01Z",
+      "user": "shreshth-tru",
+      "labels": [
+        "triaged",
+        "module: android",
+        "partner: mediatek",
+        "module: llm",
+        "module: mediatek"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -86971,8 +87020,70 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3748466688,
+      "number": 31044,
+      "title": "[CI Failure]: Blackwell Fusion Tests",
+      "url": "https://github.com/vllm-project/vllm/issues/31044",
+      "created_at": "2025-12-19T18:49:59Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "help wanted",
+        "torch.compile",
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3748471140,
+      "number": 9063,
+      "title": "Heap corruption in tt.expand_dims with invalid axis during error recovery",
+      "url": "https://github.com/triton-lang/triton/issues/9063",
+      "created_at": "2025-12-19T18:52:09Z",
+      "user": "sairam2661",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3748473481,
+      "number": 9064,
+      "title": "Crash in --convert-triton-amdgpu-to-llvm when tensor lacks GPU encoding",
+      "url": "https://github.com/triton-lang/triton/issues/9064",
+      "created_at": "2025-12-19T18:53:17Z",
+      "user": "sairam2661",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3748502786,
+      "number": 19902,
+      "title": "PrefectEventSubscriber kills entire flow on websocket handshake timeout",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19902",
+      "created_at": "2025-12-19T19:04:16Z",
+      "user": "levzem",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T18:38:57Z",
-  "total_count": 5734
+  "last_updated": "2025-12-19T19:23:20Z",
+  "total_count": 5741
 }

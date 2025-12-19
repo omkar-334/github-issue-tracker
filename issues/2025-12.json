@@ -30547,5 +30547,67 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3748466688,
+    "number": 31044,
+    "title": "[CI Failure]: Blackwell Fusion Tests",
+    "url": "https://github.com/vllm-project/vllm/issues/31044",
+    "created_at": "2025-12-19T18:49:59Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "help wanted",
+      "torch.compile",
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3748471140,
+    "number": 9063,
+    "title": "Heap corruption in tt.expand_dims with invalid axis during error recovery",
+    "url": "https://github.com/triton-lang/triton/issues/9063",
+    "created_at": "2025-12-19T18:52:09Z",
+    "user": "sairam2661",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3748473481,
+    "number": 9064,
+    "title": "Crash in --convert-triton-amdgpu-to-llvm when tensor lacks GPU encoding",
+    "url": "https://github.com/triton-lang/triton/issues/9064",
+    "created_at": "2025-12-19T18:53:17Z",
+    "user": "sairam2661",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3748502786,
+    "number": 19902,
+    "title": "PrefectEventSubscriber kills entire flow on websocket handshake timeout",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19902",
+    "created_at": "2025-12-19T19:04:16Z",
+    "user": "levzem",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

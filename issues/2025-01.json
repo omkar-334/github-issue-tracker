@@ -513,6 +513,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/smolagents",
+    "id": 2789743196,
+    "number": 201,
+    "title": "Repeatedly getting \"Error in code parsing: Your code snippet is invalid\"",
+    "url": "https://github.com/huggingface/smolagents/issues/201",
+    "created_at": "2025-01-15T12:41:48Z",
+    "user": "rnckp",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2789994244,
     "number": 13730,
