@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1338784034,
+    "number": 23624,
+    "title": "Patch3D constructor fundamentally incorrect.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23624",
+    "created_at": "2022-08-15T10:01:30Z",
+    "user": "oscargus",
+    "labels": [
+      "topic: mplot3d",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

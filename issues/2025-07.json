@@ -3131,6 +3131,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 3259644376,
+    "number": 12811,
+    "title": "[Delegate Testing] Add Support for Arm Ethos-U backend (AOT)",
+    "url": "https://github.com/pytorch/executorch/issues/12811",
+    "created_at": "2025-07-24T12:02:07Z",
+    "user": "digantdesai",
+    "labels": [
+      "actionable",
+      "module: arm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3260214816,
     "number": 2978,
