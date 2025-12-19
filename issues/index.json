@@ -1089,6 +1089,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2795071156,
+      "number": 7723,
+      "title": "[Bug] AARCH64+UBUNTU22.04, meet ERROR: No matching distribution found for ai-edge-model-explorer-adapter==0.1.5.",
+      "url": "https://github.com/pytorch/executorch/issues/7723",
+      "created_at": "2025-01-17T10:14:35Z",
+      "user": "HarryBXie",
+      "labels": [
+        "need-user-input",
+        "module: build/install",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 2795467362,
       "number": 30662,
@@ -3016,6 +3033,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2887029084,
+      "number": 8830,
+      "title": "XnnpackBackend init failed while running export-based quantized pte model using ExecuTorch Runtime",
+      "url": "https://github.com/pytorch/executorch/issues/8830",
+      "created_at": "2025-02-28T12:28:38Z",
+      "user": "JoshuaGhost",
+      "labels": [
+        "module: xnnpack",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 2887324790,
       "number": 13761,
@@ -3145,6 +3178,23 @@
       "labels": [
         "bug",
         "module:classification"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 2890049918,
+      "number": 8873,
+      "title": "[Request Help] “torch._dynamo.exc.UserError\"",
+      "url": "https://github.com/pytorch/executorch/issues/8873",
+      "created_at": "2025-03-03T03:11:03Z",
+      "user": "liye0626",
+      "labels": [
+        "module: exir",
+        "triaged",
+        "module: user experience"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -48884,6 +48934,24 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653556335,
+      "number": 168825,
+      "title": "Test: TestSparseCSR.test_csr_matvec",
+      "url": "https://github.com/pytorch/pytorch/issues/168825",
+      "created_at": "2025-11-22T01:09:42Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: sparse",
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653557907,
       "number": 168857,
       "title": "Test: TestTesting.test_cuda_assert_should_stop_common_device_type_test_suite",
@@ -86744,6 +86812,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3747437134,
+      "number": 31030,
+      "title": "[Performance]: Regression between 0.10.2 and 0.12.0",
+      "url": "https://github.com/vllm-project/vllm/issues/31030",
+      "created_at": "2025-12-19T12:52:06Z",
+      "user": "maximegmd",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pola-rs/polars",
       "id": 3747451368,
       "number": 25832,
@@ -87406,8 +87489,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3749122588,
+      "number": 34070,
+      "title": "Update `jax.checkpoint` API to support more flexible `static` arguments like `jax.jit`",
+      "url": "https://github.com/jax-ml/jax/issues/34070",
+      "created_at": "2025-12-19T22:33:29Z",
+      "user": "tloen",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T22:27:31Z",
-  "total_count": 5761
+  "last_updated": "2025-12-19T23:26:40Z",
+  "total_count": 5767
 }

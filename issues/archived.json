@@ -1,65 +1,15 @@
 [
   {
-    "repo": "pandas-dev/pandas",
-    "id": 2099560717,
-    "number": 57064,
-    "title": "RLS: 3.0",
-    "url": "https://github.com/pandas-dev/pandas/issues/57064",
-    "created_at": "2024-01-25T04:47:17Z",
-    "user": "datapythonista",
-    "labels": [
-      "Release"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 2254762707,
-    "number": 20544,
-    "title": "ENH: stats: add array API-support",
-    "url": "https://github.com/scipy/scipy/issues/20544",
-    "created_at": "2024-04-20T23:32:00Z",
-    "user": "mdhaber",
-    "labels": [
-      "scipy.stats",
-      "enhancement",
-      "array types"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2400641587,
-    "number": 59221,
-    "title": "ENH: Replacing behavior currently provided by pandas.to_numeric using errors=\"ignore\"",
-    "url": "https://github.com/pandas-dev/pandas/issues/59221",
-    "created_at": "2024-07-10T12:33:59Z",
-    "user": "ahobeost",
-    "labels": [
-      "Enhancement",
-      "Needs Discussion",
-      "Closing Candidate"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "pytorch/pytorch",
-    "id": 2575242025,
-    "number": 137574,
-    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
-    "url": "https://github.com/pytorch/pytorch/issues/137574",
-    "created_at": "2024-10-09T08:47:36Z",
-    "user": "vadimkantorov",
+    "id": 1065449916,
+    "number": 68966,
+    "title": "`torch.ldexp` generated tests fail on call to `torch.mul`",
+    "url": "https://github.com/pytorch/pytorch/issues/68966",
+    "created_at": "2021-11-28T22:10:39Z",
+    "user": "saketh-are",
     "labels": [
-      "triaged",
-      "enhancement",
-      "module: sdpa"
+      "module: autograd",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

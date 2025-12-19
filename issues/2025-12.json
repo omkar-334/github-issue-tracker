@@ -30110,6 +30110,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3747437134,
+    "number": 31030,
+    "title": "[Performance]: Regression between 0.10.2 and 0.12.0",
+    "url": "https://github.com/vllm-project/vllm/issues/31030",
+    "created_at": "2025-12-19T12:52:06Z",
+    "user": "maximegmd",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pola-rs/polars",
     "id": 3747451368,
     "number": 25832,
@@ -30768,6 +30783,21 @@
     "user": "qgallouedec",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3749122588,
+    "number": 34070,
+    "title": "Update `jax.checkpoint` API to support more flexible `static` arguments like `jax.jit`",
+    "url": "https://github.com/jax-ml/jax/issues/34070",
+    "created_at": "2025-12-19T22:33:29Z",
+    "user": "tloen",
+    "labels": [
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

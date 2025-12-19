@@ -11964,6 +11964,24 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653556335,
+    "number": 168825,
+    "title": "Test: TestSparseCSR.test_csr_matvec",
+    "url": "https://github.com/pytorch/pytorch/issues/168825",
+    "created_at": "2025-11-22T01:09:42Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: sparse",
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653557907,
     "number": 168857,
     "title": "Test: TestTesting.test_cuda_assert_should_stop_common_device_type_test_suite",

@@ -689,6 +689,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 2795071156,
+    "number": 7723,
+    "title": "[Bug] AARCH64+UBUNTU22.04, meet ERROR: No matching distribution found for ai-edge-model-explorer-adapter==0.1.5.",
+    "url": "https://github.com/pytorch/executorch/issues/7723",
+    "created_at": "2025-01-17T10:14:35Z",
+    "user": "HarryBXie",
+    "labels": [
+      "need-user-input",
+      "module: build/install",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 2795467362,
     "number": 30662,

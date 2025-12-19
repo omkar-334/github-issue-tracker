@@ -76,6 +76,23 @@
   },
   {
     "repo": "pytorch/executorch",
+    "id": 2890049918,
+    "number": 8873,
+    "title": "[Request Help] “torch._dynamo.exc.UserError\"",
+    "url": "https://github.com/pytorch/executorch/issues/8873",
+    "created_at": "2025-03-03T03:11:03Z",
+    "user": "liye0626",
+    "labels": [
+      "module: exir",
+      "triaged",
+      "module: user experience"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
     "id": 2890747479,
     "number": 8878,
     "title": "Temperature Settings in Android llama demo (Mediatek)",
