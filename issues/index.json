@@ -16239,6 +16239,25 @@
       "archived": false
     },
     {
+      "repo": "mlflow/mlflow",
+      "id": 3291112545,
+      "number": 17046,
+      "title": "Add support for custom headers in `MlflowException`",
+      "url": "https://github.com/mlflow/mlflow/issues/17046",
+      "created_at": "2025-08-05T00:01:33Z",
+      "user": "kimminw00",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/tracking",
+        "has-closing-pr",
+        "domain/platform"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3291216782,
       "number": 895,
@@ -86232,8 +86251,112 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747451368,
+      "number": 25832,
+      "title": "Streaming CSV decompression tracking (OSS)",
+      "url": "https://github.com/pola-rs/polars/issues/25832",
+      "created_at": "2025-12-19T12:57:20Z",
+      "user": "Voultapher",
+      "labels": [
+        "A-streaming",
+        "A-io-csv"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3747475175,
+      "number": 170870,
+      "title": "Looks",
+      "url": "https://github.com/pytorch/pytorch/issues/170870",
+      "created_at": "2025-12-19T13:05:57Z",
+      "user": "Spacebounddaily",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unit8co/darts",
+      "id": 3747505937,
+      "number": 2973,
+      "title": "[DEVOPS] Relax upper cap on scikit-learn<1.8.0 once catboost releases a fix",
+      "url": "https://github.com/unit8co/darts/issues/2973",
+      "created_at": "2025-12-19T13:16:35Z",
+      "user": "dennisbader",
+      "labels": [
+        "devops",
+        "dependencies"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3747506764,
+      "number": 19527,
+      "title": "[BUG] enable_git_model_versioning does not work if script is not run from git repo root directory",
+      "url": "https://github.com/mlflow/mlflow/issues/19527",
+      "created_at": "2025-12-19T13:16:52Z",
+      "user": "ptc-emaggio",
+      "labels": [
+        "bug",
+        "has-closing-pr"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3747507710,
+      "number": 12602,
+      "title": "`gr.Textbox`'s background is white when `max_lines=1` in dark mode",
+      "url": "https://github.com/gradio-app/gradio/issues/12602",
+      "created_at": "2025-12-19T13:17:11Z",
+      "user": "yujincheng08",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747516710,
+      "number": 25833,
+      "title": "Quantile Clip for Expr, Series and DataFrame",
+      "url": "https://github.com/pola-rs/polars/issues/25833",
+      "created_at": "2025-12-19T13:20:21Z",
+      "user": "PelinV",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3747552519,
+      "number": 170873,
+      "title": "Type promotion logic for tensor operations(tensor & tensor combination ops) sucks,its'nt  supporitng for  shell dtypes,its justifiable,even  though the tensors are of the same dtype, not returning the output tensor with the same dtype,(throwing error now)",
+      "url": "https://github.com/pytorch/pytorch/issues/170873",
+      "created_at": "2025-12-19T13:31:57Z",
+      "user": "gouthamk1926",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T12:54:43Z",
-  "total_count": 5689
+  "last_updated": "2025-12-19T13:39:37Z",
+  "total_count": 5697
 }

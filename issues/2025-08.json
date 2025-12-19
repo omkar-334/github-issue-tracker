@@ -364,6 +364,25 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3291112545,
+    "number": 17046,
+    "title": "Add support for custom headers in `MlflowException`",
+    "url": "https://github.com/mlflow/mlflow/issues/17046",
+    "created_at": "2025-08-05T00:01:33Z",
+    "user": "kimminw00",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "area/tracking",
+      "has-closing-pr",
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3291216782,
     "number": 895,
