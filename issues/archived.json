@@ -1,31 +1,53 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "ray-project/ray",
+    "id": 725917412,
+    "number": 11509,
+    "title": "[core] ray stop should support `--address`",
+    "url": "https://github.com/ray-project/ray/issues/11509",
+    "created_at": "2020-10-20T20:24:21Z",
+    "user": "richardliaw",
     "labels": [
-      "internal"
+      "good-first-issue",
+      "enhancement",
+      "P2",
+      "usability",
+      "infra",
+      "core",
+      "cluster-launcher"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 2720647948,
-    "number": 142134,
-    "title": "Unit test failure on ARM - Tensor-likes are not close! CPUReproTests.test_disabled_amp",
-    "url": "https://github.com/pytorch/pytorch/issues/142134",
-    "created_at": "2024-12-05T15:00:08Z",
-    "user": "robert-hardwick",
+    "repo": "networkx/networkx",
+    "id": 1162999923,
+    "number": 5377,
+    "title": "In docstrings, the parameter type \"container\" has ambiguous meaning",
+    "url": "https://github.com/networkx/networkx/issues/5377",
+    "created_at": "2022-03-08T18:47:23Z",
+    "user": "Matthew-Signorotti",
     "labels": [
-      "module: tests",
-      "triaged",
-      "module: arm"
+      "type: Bug fix",
+      "type: Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1327549710,
+    "number": 23544,
+    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
+    "created_at": "2022-08-03T17:08:28Z",
+    "user": "scottshambaugh",
+    "labels": [
+      "New feature",
+      "topic: mplot3d",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

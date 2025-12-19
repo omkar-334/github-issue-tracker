@@ -540,6 +540,22 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2752580837,
+    "number": 20385,
+    "title": "Supporting ADBC \"numeric\" data",
+    "url": "https://github.com/pola-rs/polars/issues/20385",
+    "created_at": "2024-12-20T11:52:57Z",
+    "user": "diviyank",
+    "labels": [
+      "enhancement",
+      "A-io-database"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 2752822436,
     "number": 1081,

@@ -30166,5 +30166,39 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3747616415,
+    "number": 25834,
+    "title": "Writing DF with large pl.Binary entries fails with PanicException",
+    "url": "https://github.com/pola-rs/polars/issues/25834",
+    "created_at": "2025-12-19T13:53:27Z",
+    "user": "berkgercek",
+    "labels": [
+      "bug",
+      "python",
+      "regression",
+      "P-high",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3747669029,
+    "number": 22084,
+    "title": "Rule to sort imports by line length, not the module name length",
+    "url": "https://github.com/astral-sh/ruff/issues/22084",
+    "created_at": "2025-12-19T14:12:00Z",
+    "user": "kuyugama",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
