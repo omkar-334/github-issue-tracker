@@ -2950,6 +2950,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3353209810,
+    "number": 23588,
+    "title": "[CI]: Reduce docker build time with caching",
+    "url": "https://github.com/vllm-project/vllm/issues/23588",
+    "created_at": "2025-08-25T21:04:30Z",
+    "user": "njhill",
+    "labels": [
+      "ci/build"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3353329068,
     "number": 13950,

@@ -1,65 +1,32 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1433940290,
-    "number": 88380,
-    "title": "cuDNN error (CUDNN_STATUS_NOT_SUPPORTED) for torch.nn.functional.grid_sample()",
-    "url": "https://github.com/pytorch/pytorch/issues/88380",
-    "created_at": "2022-11-03T00:14:05Z",
-    "user": "timothygebhard",
-    "labels": [
-      "module: cudnn",
-      "module: cuda",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "sktime/sktime",
-    "id": 2190345153,
-    "number": 6142,
-    "title": "[ENH] Interfacing LagLLama",
-    "url": "https://github.com/sktime/sktime/issues/6142",
-    "created_at": "2024-03-16T23:27:36Z",
-    "user": "benHeid",
-    "labels": [
-      "good first issue",
-      "interfacing algorithms",
-      "module:forecasting",
-      "enhancement"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "scikit-learn/scikit-learn",
-    "id": 2304732174,
-    "number": 29048,
-    "title": "Make `zero_division` parameter consistent in the different metric",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29048",
-    "created_at": "2024-05-19T18:40:45Z",
-    "user": "glemaitre",
+    "id": 1464296380,
+    "number": 25038,
+    "title": "Instability in fastica for float32",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/25038",
+    "created_at": "2022-11-25T10:00:12Z",
+    "user": "lesteve",
     "labels": [
-      "Enhancement",
-      "help wanted"
+      "Bug",
+      "module:decomposition"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "keras-team/keras-hub",
-    "id": 2527202975,
-    "number": 1833,
-    "title": "Buggy BloomCausalLM text generation",
-    "url": "https://github.com/keras-team/keras-hub/issues/1833",
-    "created_at": "2024-09-15T21:14:25Z",
-    "user": "ashep29",
+    "repo": "streamlit/streamlit",
+    "id": 2199536700,
+    "number": 8345,
+    "title": "Support for audio and video via column config for `st.dataframe`",
+    "url": "https://github.com/streamlit/streamlit/issues/8345",
+    "created_at": "2024-03-21T08:36:37Z",
+    "user": "hadariru",
     "labels": [
-      "type:Bug"
+      "type:enhancement",
+      "feature:st.dataframe",
+      "feature:st.column_config"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
