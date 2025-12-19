@@ -1742,6 +1742,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 2823211598,
+      "number": 50161,
+      "title": "[Core] cannot pass namespace package at runtime via py_modules",
+      "url": "https://github.com/ray-project/ray/issues/50161",
+      "created_at": "2025-01-31T11:54:35Z",
+      "user": "BramVanRensbergen",
+      "labels": [
+        "bug",
+        "P1",
+        "core",
+        "core-runtime-env",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 2823367123,
       "number": 1730,
@@ -3345,6 +3364,21 @@
         "core",
         "rdt",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 2904171285,
+      "number": 27004,
+      "title": "Improve Performance jnp.argsort",
+      "url": "https://github.com/jax-ml/jax/issues/27004",
+      "created_at": "2025-03-07T23:45:03Z",
+      "user": "cdelv",
+      "labels": [
+        "enhancement"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -5763,6 +5797,27 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3007402507,
+      "number": 52480,
+      "title": "[RayCluster] WorkerPods Unexpectedly Restart When Injecting Failures into Ray HeadPod with GCS FT Enabled on K8S",
+      "url": "https://github.com/ray-project/ray/issues/52480",
+      "created_at": "2025-04-21T02:15:04Z",
+      "user": "infzo",
+      "labels": [
+        "bug",
+        "P1",
+        "kuberay",
+        "core",
+        "stability",
+        "clusters",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3007501019,
       "number": 681,
@@ -6201,6 +6256,26 @@
       "created_at": "2025-04-27T21:03:40Z",
       "user": "kundeng",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3023559252,
+      "number": 52639,
+      "title": "[Core] Ray dashboard agent high memory usage",
+      "url": "https://github.com/ray-project/ray/issues/52639",
+      "created_at": "2025-04-28T02:52:12Z",
+      "user": "eviltomato",
+      "labels": [
+        "bug",
+        "P1",
+        "dashboard",
+        "performance",
+        "core",
+        "community-backlog"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -7691,6 +7766,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3070890594,
+      "number": 53115,
+      "title": "[Ray Serve] Pluggable key value store for GCS backup apart from Redis",
+      "url": "https://github.com/ray-project/ray/issues/53115",
+      "created_at": "2025-05-17T15:44:03Z",
+      "user": "adityamohan93",
+      "labels": [
+        "enhancement",
+        "P1",
+        "core",
+        "core-gcs",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3070892427,
       "number": 2746,
@@ -9126,6 +9220,24 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3110178295,
+      "number": 53475,
+      "title": "[Ray Serve] GCS Segmentation Fault on failed Redis requests",
+      "url": "https://github.com/ray-project/ray/issues/53475",
+      "created_at": "2025-06-02T13:22:44Z",
+      "user": "tvaucher",
+      "labels": [
+        "bug",
+        "P1",
+        "core",
+        "stability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3110877965,
       "number": 3382,
@@ -10127,6 +10239,27 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3138676495,
+      "number": 53758,
+      "title": "[Core]  Ray hangs with vllm0.8.5 v1 api for tp8+pp4",
+      "url": "https://github.com/ray-project/ray/issues/53758",
+      "created_at": "2025-06-12T03:16:43Z",
+      "user": "strgrb",
+      "labels": [
+        "bug",
+        "P1",
+        "core",
+        "llm",
+        "stability",
+        "compiled-graphs",
+        "vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 3139117060,
       "number": 1887,
@@ -10252,6 +10385,26 @@
       "created_at": "2025-06-13T08:50:59Z",
       "user": "Daraan",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3142867563,
+      "number": 53799,
+      "title": "[Core] Ray causes a 25% slower GPU performance compared with manually written Multi-processing program on 8 Hopper GPUs",
+      "url": "https://github.com/ray-project/ray/issues/53799",
+      "created_at": "2025-06-13T09:20:12Z",
+      "user": "Novemser",
+      "labels": [
+        "bug",
+        "question",
+        "P1",
+        "performance",
+        "core",
+        "gpu"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -14334,6 +14487,26 @@
       "user": "paul-goblin",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3246774694,
+      "number": 54768,
+      "title": "[Core][uv] ray job submit hangs when entrypoint uses uv from a different directory with its own pyproject.toml",
+      "url": "https://github.com/ray-project/ray/issues/54768",
+      "created_at": "2025-07-20T23:20:21Z",
+      "user": "SumanthRH",
+      "labels": [
+        "bug",
+        "P1",
+        "core",
+        "core-runtime-env",
+        "jobs",
+        "stability"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29358,6 +29531,21 @@
       "labels": [
         "bug",
         "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3498418648,
+      "number": 26480,
+      "title": "[Bug][v0.11.0]: gpt-oss-120b generates with no output",
+      "url": "https://github.com/vllm-project/vllm/issues/26480",
+      "created_at": "2025-10-09T09:45:22Z",
+      "user": "AlessandroSpallina",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -60706,6 +60894,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3692011047,
+      "number": 29998,
+      "title": "[Bug]: cannot send two POST to /v1/chat/completions endpoint with identic tool function name with model GPT-OSS-120B",
+      "url": "https://github.com/vllm-project/vllm/issues/29998",
+      "created_at": "2025-12-03T21:41:35Z",
+      "user": "pd-t",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3692044865,
       "number": 59151,
@@ -86574,8 +86777,92 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747959993,
+      "number": 25840,
+      "title": "Incorrect handling of skip_rows in CSV",
+      "url": "https://github.com/pola-rs/polars/issues/25840",
+      "created_at": "2025-12-19T15:51:50Z",
+      "user": "Voultapher",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-csv"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747965985,
+      "number": 25841,
+      "title": "Incorrect handling of comments after header in CSV",
+      "url": "https://github.com/pola-rs/polars/issues/25841",
+      "created_at": "2025-12-19T15:54:07Z",
+      "user": "Voultapher",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-csv"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3747967641,
+      "number": 31035,
+      "title": "[Bug]: ROCm docker image failed to build",
+      "url": "https://github.com/vllm-project/vllm/issues/31035",
+      "created_at": "2025-12-19T15:54:34Z",
+      "user": "Katharta",
+      "labels": [
+        "bug",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3747981980,
+      "number": 22087,
+      "title": "Address performance concerns in range suppression builder",
+      "url": "https://github.com/astral-sh/ruff/issues/22087",
+      "created_at": "2025-12-19T15:59:46Z",
+      "user": "amyreese",
+      "labels": [
+        "internal",
+        "suppression"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3748018797,
+      "number": 63433,
+      "title": "BUG: DataFrame.astype leave the dataframe extremely fragmented (one block per column)",
+      "url": "https://github.com/pandas-dev/pandas/issues/63433",
+      "created_at": "2025-12-19T16:11:59Z",
+      "user": "CaselIT",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T15:31:27Z",
-  "total_count": 5711
+  "last_updated": "2025-12-19T16:35:36Z",
+  "total_count": 5727
 }

@@ -1359,6 +1359,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2823211598,
+    "number": 50161,
+    "title": "[Core] cannot pass namespace package at runtime via py_modules",
+    "url": "https://github.com/ray-project/ray/issues/50161",
+    "created_at": "2025-01-31T11:54:35Z",
+    "user": "BramVanRensbergen",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "core-runtime-env",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 2823367123,
     "number": 1730,

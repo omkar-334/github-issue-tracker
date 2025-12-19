@@ -1166,6 +1166,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3070890594,
+    "number": 53115,
+    "title": "[Ray Serve] Pluggable key value store for GCS backup apart from Redis",
+    "url": "https://github.com/ray-project/ray/issues/53115",
+    "created_at": "2025-05-17T15:44:03Z",
+    "user": "adityamohan93",
+    "labels": [
+      "enhancement",
+      "P1",
+      "core",
+      "core-gcs",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3070892427,
     "number": 2746,

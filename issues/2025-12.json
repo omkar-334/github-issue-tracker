@@ -4501,6 +4501,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3692011047,
+    "number": 29998,
+    "title": "[Bug]: cannot send two POST to /v1/chat/completions endpoint with identic tool function name with model GPT-OSS-120B",
+    "url": "https://github.com/vllm-project/vllm/issues/29998",
+    "created_at": "2025-12-03T21:41:35Z",
+    "user": "pd-t",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3692044865,
     "number": 59151,
@@ -30349,6 +30364,90 @@
     "labels": [
       "planned",
       "core-team"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3747959993,
+    "number": 25840,
+    "title": "Incorrect handling of skip_rows in CSV",
+    "url": "https://github.com/pola-rs/polars/issues/25840",
+    "created_at": "2025-12-19T15:51:50Z",
+    "user": "Voultapher",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-io-csv"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3747965985,
+    "number": 25841,
+    "title": "Incorrect handling of comments after header in CSV",
+    "url": "https://github.com/pola-rs/polars/issues/25841",
+    "created_at": "2025-12-19T15:54:07Z",
+    "user": "Voultapher",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-io-csv"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3747967641,
+    "number": 31035,
+    "title": "[Bug]: ROCm docker image failed to build",
+    "url": "https://github.com/vllm-project/vllm/issues/31035",
+    "created_at": "2025-12-19T15:54:34Z",
+    "user": "Katharta",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3747981980,
+    "number": 22087,
+    "title": "Address performance concerns in range suppression builder",
+    "url": "https://github.com/astral-sh/ruff/issues/22087",
+    "created_at": "2025-12-19T15:59:46Z",
+    "user": "amyreese",
+    "labels": [
+      "internal",
+      "suppression"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3748018797,
+    "number": 63433,
+    "title": "BUG: DataFrame.astype leave the dataframe extremely fragmented (one block per column)",
+    "url": "https://github.com/pandas-dev/pandas/issues/63433",
+    "created_at": "2025-12-19T16:11:59Z",
+    "user": "CaselIT",
+    "labels": [
+      "Bug",
+      "Needs Triage"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

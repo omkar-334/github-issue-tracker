@@ -167,6 +167,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3110178295,
+    "number": 53475,
+    "title": "[Ray Serve] GCS Segmentation Fault on failed Redis requests",
+    "url": "https://github.com/ray-project/ray/issues/53475",
+    "created_at": "2025-06-02T13:22:44Z",
+    "user": "tvaucher",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3110877965,
     "number": 3382,
@@ -1168,6 +1186,27 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3138676495,
+    "number": 53758,
+    "title": "[Core]  Ray hangs with vllm0.8.5 v1 api for tp8+pp4",
+    "url": "https://github.com/ray-project/ray/issues/53758",
+    "created_at": "2025-06-12T03:16:43Z",
+    "user": "strgrb",
+    "labels": [
+      "bug",
+      "P1",
+      "core",
+      "llm",
+      "stability",
+      "compiled-graphs",
+      "vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3139117060,
     "number": 1887,
@@ -1293,6 +1332,26 @@
     "created_at": "2025-06-13T08:50:59Z",
     "user": "Daraan",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3142867563,
+    "number": 53799,
+    "title": "[Core] Ray causes a 25% slower GPU performance compared with manually written Multi-processing program on 8 Hopper GPUs",
+    "url": "https://github.com/ray-project/ray/issues/53799",
+    "created_at": "2025-06-13T09:20:12Z",
+    "user": "Novemser",
+    "labels": [
+      "bug",
+      "question",
+      "P1",
+      "performance",
+      "core",
+      "gpu"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
