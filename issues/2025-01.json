@@ -372,6 +372,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/executorch",
+    "id": 2786356291,
+    "number": 7644,
+    "title": "FileNotFoundError: [Errno 2] No such file or directory: '/torchgen/packaged/ATen/native/native_functions.yaml' while building QNN backend",
+    "url": "https://github.com/pytorch/executorch/issues/7644",
+    "created_at": "2025-01-14T06:19:22Z",
+    "user": "lifelongeeek",
+    "labels": [
+      "need-user-input",
+      "module: build/install",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2786556114,
     "number": 2156,

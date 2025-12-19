@@ -10161,6 +10161,24 @@
   },
   {
     "repo": "ray-project/ray",
+    "id": 3650305764,
+    "number": 58876,
+    "title": "[RFC] Drop Support for Pydantic v1 in Ray",
+    "url": "https://github.com/ray-project/ray/issues/58876",
+    "created_at": "2025-11-21T05:45:46Z",
+    "user": "abrarsheikh",
+    "labels": [
+      "serve",
+      "performance",
+      "core",
+      "tech-debt"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
     "id": 3650579792,
     "number": 58878,
     "title": "[RayTrainer] Severe stall when setting up process group for: env: //",
@@ -10875,6 +10893,24 @@
     "title": "Test: TestShardedTensorFromLocalShards.test_init_from_local_shards_and_global_metadata",
     "url": "https://github.com/pytorch/pytorch/issues/168431",
     "created_at": "2025-11-22T00:59:23Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653539963,
+    "number": 168448,
+    "title": "Test: DistMatrixOpsTest.test_grouped_mm",
+    "url": "https://github.com/pytorch/pytorch/issues/168448",
+    "created_at": "2025-11-22T00:59:49Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",

@@ -30680,5 +30680,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3748813320,
+    "number": 9181,
+    "title": "[BUG] IndexError when calling twe_alignment_path()",
+    "url": "https://github.com/sktime/sktime/issues/9181",
+    "created_at": "2025-12-19T20:44:12Z",
+    "user": "UberLuu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
