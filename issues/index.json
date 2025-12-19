@@ -33486,6 +33486,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3551211117,
+      "number": 166205,
+      "title": "Enable Graph Capture & Profiler Integration for PrivateUse1 Backends",
+      "url": "https://github.com/pytorch/pytorch/issues/166205",
+      "created_at": "2025-10-24T22:32:13Z",
+      "user": "trajepl",
+      "labels": [
+        "feature",
+        "oncall: profiler",
+        "module: PrivateUse1"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3551346226,
       "number": 1029,
@@ -84947,8 +84964,86 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3745920051,
+      "number": 31004,
+      "title": "[New Model]: T5Gemma 2",
+      "url": "https://github.com/vllm-project/vllm/issues/31004",
+      "created_at": "2025-12-19T03:55:00Z",
+      "user": "ducviet00-h2",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3745921655,
+      "number": 19508,
+      "title": "[FR] Overall Dashboard for easy viewing",
+      "url": "https://github.com/mlflow/mlflow/issues/19508",
+      "created_at": "2025-12-19T03:56:10Z",
+      "user": "sasuke00",
+      "labels": [
+        "enhancement",
+        "area/tracking",
+        "domain/platform"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3745926933,
+      "number": 24190,
+      "title": "MAINT:optimize: Add license details of optimize solvers",
+      "url": "https://github.com/scipy/scipy/issues/24190",
+      "created_at": "2025-12-19T03:59:54Z",
+      "user": "ilayn",
+      "labels": [
+        "scipy.optimize",
+        "maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3745932199,
+      "number": 22997,
+      "title": "Does YOLOv11 support using no-box images as training data?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22997",
+      "created_at": "2025-12-19T04:03:32Z",
+      "user": "anonymoussss",
+      "labels": [
+        "question",
+        "detect",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "3b1b/manim",
+      "id": 3745963128,
+      "number": 2413,
+      "title": "text rendering error in manim OpenGL",
+      "url": "https://github.com/3b1b/manim/issues/2413",
+      "created_at": "2025-12-19T04:21:44Z",
+      "user": "nicholas348",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T03:41:54Z",
-  "total_count": 5606
+  "last_updated": "2025-12-19T04:40:16Z",
+  "total_count": 5612
 }
