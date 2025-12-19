@@ -27886,6 +27886,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3478478015,
+      "number": 26121,
+      "title": "[Bug]:  vLLM merges special XML-like tags into single tokens, causing tokenization mismatch with HuggingFace",
+      "url": "https://github.com/vllm-project/vllm/issues/26121",
+      "created_at": "2025-10-02T18:20:30Z",
+      "user": "yxchng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "axolotl-ai-cloud/axolotl",
       "id": 3478947855,
       "number": 3196,
@@ -33631,6 +33646,21 @@
       "created_at": "2025-10-25T00:00:34Z",
       "user": "liudangyi",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3551446145,
+      "number": 41856,
+      "title": "Performance regression: `allow_is_causal_skip` incorrectly disabled when `use_cache=False`",
+      "url": "https://github.com/huggingface/transformers/issues/41856",
+      "created_at": "2025-10-25T00:55:18Z",
+      "user": "williamsnell",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -85416,8 +85446,130 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746442072,
+      "number": 19515,
+      "title": "[FR] Add REST API and UI for dataset row deletion",
+      "url": "https://github.com/mlflow/mlflow/issues/19515",
+      "created_at": "2025-12-19T07:31:37Z",
+      "user": "B-Step62",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/evaluation",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746465563,
+      "number": 19516,
+      "title": "[FR] Render markdown in prompt registry UI",
+      "url": "https://github.com/mlflow/mlflow/issues/19516",
+      "created_at": "2025-12-19T07:40:03Z",
+      "user": "B-Step62",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3746475690,
+      "number": 170863,
+      "title": "[BUG][Dynamo] Host segfault/coredump caused by passing a device tensor pointer to a generated CPU kernel",
+      "url": "https://github.com/pytorch/pytorch/issues/170863",
+      "created_at": "2025-12-19T07:44:33Z",
+      "user": "peaceorwell",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/sktime",
+      "id": 3746491677,
+      "number": 9180,
+      "title": "[BUG] `mlflow` integration failures",
+      "url": "https://github.com/sktime/sktime/issues/9180",
+      "created_at": "2025-12-19T07:51:04Z",
+      "user": "fkiraly",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openai/openai-python",
+      "id": 3746504155,
+      "number": 2796,
+      "title": "Bug: Dead code - `sse.event == \"error\"` check is unreachable in _streaming.py",
+      "url": "https://github.com/openai/openai-python/issues/2796",
+      "created_at": "2025-12-19T07:56:29Z",
+      "user": "joyceleeor",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3746524840,
+      "number": 31016,
+      "title": "[Bug]: Wrong outputs with the FlashInfer backend after resuming from sleep, caused by not restoring block_table_arange in attn_metadata in version v0.10.1.",
+      "url": "https://github.com/vllm-project/vllm/issues/31016",
+      "created_at": "2025-12-19T08:04:19Z",
+      "user": "xiaoxiaosuaxuan",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746549148,
+      "number": 19517,
+      "title": "[BUG] Bad model artifact download speed after upgrade from 3.1.4 to 3.7.0 for large models",
+      "url": "https://github.com/mlflow/mlflow/issues/19517",
+      "created_at": "2025-12-19T08:13:00Z",
+      "user": "hanlaur",
+      "labels": [
+        "bug",
+        "area/tracking"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746601063,
+      "number": 19519,
+      "title": "[QUESTION] OpenTelemetry: What is the tag for session id?",
+      "url": "https://github.com/mlflow/mlflow/issues/19519",
+      "created_at": "2025-12-19T08:31:01Z",
+      "user": "EelcoKoster",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T07:28:55Z",
-  "total_count": 5635
+  "last_updated": "2025-12-19T08:38:29Z",
+  "total_count": 5645
 }

@@ -442,6 +442,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3478478015,
+    "number": 26121,
+    "title": "[Bug]:  vLLM merges special XML-like tags into single tokens, causing tokenization mismatch with HuggingFace",
+    "url": "https://github.com/vllm-project/vllm/issues/26121",
+    "created_at": "2025-10-02T18:20:30Z",
+    "user": "yxchng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3478947855,
     "number": 3196,
@@ -6187,6 +6202,21 @@
     "created_at": "2025-10-25T00:00:34Z",
     "user": "liudangyi",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3551446145,
+    "number": 41856,
+    "title": "Performance regression: `allow_is_causal_skip` incorrectly disabled when `use_cache=False`",
+    "url": "https://github.com/huggingface/transformers/issues/41856",
+    "created_at": "2025-10-25T00:55:18Z",
+    "user": "williamsnell",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
