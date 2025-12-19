@@ -707,6 +707,23 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 2779803127,
+      "number": 20655,
+      "title": "Casting lazy frame columns cause type mismatch when collecting/writing",
+      "url": "https://github.com/pola-rs/polars/issues/20655",
+      "created_at": "2025-01-10T10:14:34Z",
+      "user": "guidocioni",
+      "labels": [
+        "bug",
+        "python",
+        "needs repro"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2785313132,
       "number": 1752,
@@ -42280,6 +42297,22 @@
         "status:confirmed",
         "priority:P3",
         "feature:st.dialog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3622723058,
+      "number": 167762,
+      "title": "Conan Support",
+      "url": "https://github.com/pytorch/pytorch/issues/167762",
+      "created_at": "2025-11-13T20:31:58Z",
+      "user": "Khrysys",
+      "labels": [
+        "module: cpp",
+        "triaged"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -85881,8 +85914,97 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3746994618,
+      "number": 170867,
+      "title": "Operator benchmark: option to measure GPU execution time only (less CPU noise)",
+      "url": "https://github.com/pytorch/pytorch/issues/170867",
+      "created_at": "2025-12-19T10:31:38Z",
+      "user": "apakbin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3747000677,
+      "number": 31023,
+      "title": "[Doc]: FP8 KV Cache: Does softmax output multiply with FP8 V directly or after dequantization?",
+      "url": "https://github.com/vllm-project/vllm/issues/31023",
+      "created_at": "2025-12-19T10:33:22Z",
+      "user": "jorjiang",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3747019443,
+      "number": 34049,
+      "title": "NVIDIA GPU init failed with self built jaxlib",
+      "url": "https://github.com/jax-ml/jax/issues/34049",
+      "created_at": "2025-12-19T10:38:28Z",
+      "user": "gotorion",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3747032900,
+      "number": 30883,
+      "title": "[MNT]: More efficient CI usage",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30883",
+      "created_at": "2025-12-19T10:42:20Z",
+      "user": "timhoffm",
+      "labels": [
+        "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3747047894,
+      "number": 24192,
+      "title": "BUG: Segmentation fault for BSpline basis_element constructed with internal knots of length 1",
+      "url": "https://github.com/scipy/scipy/issues/24192",
+      "created_at": "2025-12-19T10:46:33Z",
+      "user": "cuk0776",
+      "labels": [
+        "defect",
+        "scipy.interpolate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3747138333,
+      "number": 42954,
+      "title": "XiaoMi MiMo",
+      "url": "https://github.com/huggingface/transformers/issues/42954",
+      "created_at": "2025-12-19T11:15:41Z",
+      "user": "ArthurZucker",
+      "labels": [
+        "New model"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T10:30:28Z",
-  "total_count": 5666
+  "last_updated": "2025-12-19T11:25:43Z",
+  "total_count": 5674
 }

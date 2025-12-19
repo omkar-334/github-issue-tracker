@@ -340,6 +340,23 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2779803127,
+    "number": 20655,
+    "title": "Casting lazy frame columns cause type mismatch when collecting/writing",
+    "url": "https://github.com/pola-rs/polars/issues/20655",
+    "created_at": "2025-01-10T10:14:34Z",
+    "user": "guidocioni",
+    "labels": [
+      "bug",
+      "python",
+      "needs repro"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2785313132,
     "number": 1752,

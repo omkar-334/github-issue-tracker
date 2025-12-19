@@ -5772,6 +5772,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3622723058,
+    "number": 167762,
+    "title": "Conan Support",
+    "url": "https://github.com/pytorch/pytorch/issues/167762",
+    "created_at": "2025-11-13T20:31:58Z",
+    "user": "Khrysys",
+    "labels": [
+      "module: cpp",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "jax-ml/jax",
     "id": 3622771440,
     "number": 33309,
