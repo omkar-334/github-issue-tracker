@@ -29913,5 +29913,154 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "py-why/dowhy",
+    "id": 3747178786,
+    "number": 1375,
+    "title": "Yet another stundet coursework",
+    "url": "https://github.com/py-why/dowhy/issues/1375",
+    "created_at": "2025-12-19T11:28:24Z",
+    "user": "CHB-0r1s",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3747180373,
+    "number": 63430,
+    "title": "BLD: Windows nightlies are missing from scientific-python-nightly-wheels",
+    "url": "https://github.com/pandas-dev/pandas/issues/63430",
+    "created_at": "2025-12-19T11:28:59Z",
+    "user": "bashtage",
+    "labels": [
+      "CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3747239635,
+    "number": 59576,
+    "title": "[RLlib|rllib-models] Make initializer of FCNET modular",
+    "url": "https://github.com/ray-project/ray/issues/59576",
+    "created_at": "2025-12-19T11:49:10Z",
+    "user": "EricavanderSar",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3747245620,
+    "number": 31027,
+    "title": "[Bug]: 0.13.0 start with CUDA error: the provided PTX was compiled with an unsupported toolchain.",
+    "url": "https://github.com/vllm-project/vllm/issues/31027",
+    "created_at": "2025-12-19T11:50:56Z",
+    "user": "xsank",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3747252790,
+    "number": 24193,
+    "title": "BUG: optimize `minimize(..., method=\"BFGS\")` float32 behaviour incorrect",
+    "url": "https://github.com/scipy/scipy/issues/24193",
+    "created_at": "2025-12-19T11:53:19Z",
+    "user": "hsorsky",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn-contrib/imbalanced-learn",
+    "id": 3747314763,
+    "number": 1155,
+    "title": "[BUG] imbalanced-learn 0.14.0 incompatible with scikit-learn 1.8.0 (ImportError + AdaBoost API break)",
+    "url": "https://github.com/scikit-learn-contrib/imbalanced-learn/issues/1155",
+    "created_at": "2025-12-19T12:10:50Z",
+    "user": "yasin-arafat-05",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3747326568,
+    "number": 25830,
+    "title": "list.get on pl.col returns null instead of value even when indices are valid for List[Decimal]",
+    "url": "https://github.com/pola-rs/polars/issues/25830",
+    "created_at": "2025-12-19T12:14:40Z",
+    "user": "SbzGitExi",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "A-dtype-decimal",
+      "P-high"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3747330144,
+    "number": 59578,
+    "title": "[Serve]How to set up API key authentication (Authorization header validation) with Ray Serve / Ray Serve LLM?",
+    "url": "https://github.com/ray-project/ray/issues/59578",
+    "created_at": "2025-12-19T12:15:38Z",
+    "user": "tingjun-cs",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3747364877,
+    "number": 31028,
+    "title": "[RFC]: AMD-Quark Online Quantization",
+    "url": "https://github.com/vllm-project/vllm/issues/31028",
+    "created_at": "2025-12-19T12:27:00Z",
+    "user": "hangy-amd",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3747427523,
+    "number": 170869,
+    "title": "Feedback about torch.addcdiv",
+    "url": "https://github.com/pytorch/pytorch/issues/170869",
+    "created_at": "2025-12-19T12:48:30Z",
+    "user": "mcw-anasuya",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

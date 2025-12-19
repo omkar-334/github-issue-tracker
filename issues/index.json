@@ -1026,6 +1026,23 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 2795467362,
+      "number": 30662,
+      "title": "HistGradientBoostingClassifier/Regressor 15x slowdown on small data problems compared to disabled OpenMP threading",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/30662",
+      "created_at": "2025-01-17T13:19:13Z",
+      "user": "ogrisel",
+      "labels": [
+        "Performance",
+        "High Priority",
+        "module:ensemble"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2796097376,
       "number": 2048,
@@ -11859,6 +11876,21 @@
       "created_at": "2025-07-01T17:14:32Z",
       "user": "zdzichukowalski",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3193562892,
+      "number": 9580,
+      "title": "Async tool not awaited",
+      "url": "https://github.com/deepset-ai/haystack/issues/9580",
+      "created_at": "2025-07-01T19:20:44Z",
+      "user": "michiel2002v",
+      "labels": [
+        "P3"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -28983,6 +29015,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3494149672,
+      "number": 14880,
+      "title": "ExecuTorch CMSIS-Pack Integration for Cortex-M Development",
+      "url": "https://github.com/pytorch/executorch/issues/14880",
+      "created_at": "2025-10-08T07:03:31Z",
+      "user": "MatthiasHertel80",
+      "labels": [
+        "partner: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3495127956,
       "number": 41447,
@@ -41327,6 +41374,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3616129033,
+      "number": 167635,
+      "title": "TorchDynamo Compilation Error: Invalid Class Type in Custom Tensor Subclass During Gradient Computation",
+      "url": "https://github.com/pytorch/pytorch/issues/167635",
+      "created_at": "2025-11-12T11:23:50Z",
+      "user": "Blooming-Tree",
+      "labels": [
+        "triaged",
+        "tensor subclass",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-tensor-subclasses",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3616156792,
       "number": 3590,
@@ -49040,6 +49107,19 @@
         "partner: qualcomm",
         "module: qnn"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3656970029,
+      "number": 7702,
+      "title": "How to use tp or tp when I traning models from transformers?",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7702",
+      "created_at": "2025-11-24T03:50:24Z",
+      "user": "Mulbetty",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -86003,8 +86083,157 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "py-why/dowhy",
+      "id": 3747178786,
+      "number": 1375,
+      "title": "Yet another stundet coursework",
+      "url": "https://github.com/py-why/dowhy/issues/1375",
+      "created_at": "2025-12-19T11:28:24Z",
+      "user": "CHB-0r1s",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3747180373,
+      "number": 63430,
+      "title": "BLD: Windows nightlies are missing from scientific-python-nightly-wheels",
+      "url": "https://github.com/pandas-dev/pandas/issues/63430",
+      "created_at": "2025-12-19T11:28:59Z",
+      "user": "bashtage",
+      "labels": [
+        "CI"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3747239635,
+      "number": 59576,
+      "title": "[RLlib|rllib-models] Make initializer of FCNET modular",
+      "url": "https://github.com/ray-project/ray/issues/59576",
+      "created_at": "2025-12-19T11:49:10Z",
+      "user": "EricavanderSar",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3747245620,
+      "number": 31027,
+      "title": "[Bug]: 0.13.0 start with CUDA error: the provided PTX was compiled with an unsupported toolchain.",
+      "url": "https://github.com/vllm-project/vllm/issues/31027",
+      "created_at": "2025-12-19T11:50:56Z",
+      "user": "xsank",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3747252790,
+      "number": 24193,
+      "title": "BUG: optimize `minimize(..., method=\"BFGS\")` float32 behaviour incorrect",
+      "url": "https://github.com/scipy/scipy/issues/24193",
+      "created_at": "2025-12-19T11:53:19Z",
+      "user": "hsorsky",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn-contrib/imbalanced-learn",
+      "id": 3747314763,
+      "number": 1155,
+      "title": "[BUG] imbalanced-learn 0.14.0 incompatible with scikit-learn 1.8.0 (ImportError + AdaBoost API break)",
+      "url": "https://github.com/scikit-learn-contrib/imbalanced-learn/issues/1155",
+      "created_at": "2025-12-19T12:10:50Z",
+      "user": "yasin-arafat-05",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3747326568,
+      "number": 25830,
+      "title": "list.get on pl.col returns null instead of value even when indices are valid for List[Decimal]",
+      "url": "https://github.com/pola-rs/polars/issues/25830",
+      "created_at": "2025-12-19T12:14:40Z",
+      "user": "SbzGitExi",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "A-dtype-decimal",
+        "P-high"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3747330144,
+      "number": 59578,
+      "title": "[Serve]How to set up API key authentication (Authorization header validation) with Ray Serve / Ray Serve LLM?",
+      "url": "https://github.com/ray-project/ray/issues/59578",
+      "created_at": "2025-12-19T12:15:38Z",
+      "user": "tingjun-cs",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3747364877,
+      "number": 31028,
+      "title": "[RFC]: AMD-Quark Online Quantization",
+      "url": "https://github.com/vllm-project/vllm/issues/31028",
+      "created_at": "2025-12-19T12:27:00Z",
+      "user": "hangy-amd",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3747427523,
+      "number": 170869,
+      "title": "Feedback about torch.addcdiv",
+      "url": "https://github.com/pytorch/pytorch/issues/170869",
+      "created_at": "2025-12-19T12:48:30Z",
+      "user": "mcw-anasuya",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T11:25:43Z",
-  "total_count": 5674
+  "last_updated": "2025-12-19T12:54:43Z",
+  "total_count": 5689
 }

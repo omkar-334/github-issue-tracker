@@ -4796,6 +4796,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3616129033,
+    "number": 167635,
+    "title": "TorchDynamo Compilation Error: Invalid Class Type in Custom Tensor Subclass During Gradient Computation",
+    "url": "https://github.com/pytorch/pytorch/issues/167635",
+    "created_at": "2025-11-12T11:23:50Z",
+    "user": "Blooming-Tree",
+    "labels": [
+      "triaged",
+      "tensor subclass",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-tensor-subclasses",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3616156792,
     "number": 3590,
@@ -12509,6 +12529,19 @@
       "partner: qualcomm",
       "module: qnn"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3656970029,
+    "number": 7702,
+    "title": "How to use tp or tp when I traning models from transformers?",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7702",
+    "created_at": "2025-11-24T03:50:24Z",
+    "user": "Mulbetty",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

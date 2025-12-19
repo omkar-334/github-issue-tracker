@@ -659,6 +659,23 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2795467362,
+    "number": 30662,
+    "title": "HistGradientBoostingClassifier/Regressor 15x slowdown on small data problems compared to disabled OpenMP threading",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30662",
+    "created_at": "2025-01-17T13:19:13Z",
+    "user": "ogrisel",
+    "labels": [
+      "Performance",
+      "High Priority",
+      "module:ensemble"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2796097376,
     "number": 2048,
