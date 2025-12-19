@@ -971,6 +971,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 2875955179,
+    "number": 16355,
+    "title": "Take Python version from the .python-version file",
+    "url": "https://github.com/astral-sh/ruff/issues/16355",
+    "created_at": "2025-02-24T19:27:17Z",
+    "user": "kevinrenskers",
+    "labels": [
+      "configuration",
+      "wish"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 2876279499,
     "number": 8772,

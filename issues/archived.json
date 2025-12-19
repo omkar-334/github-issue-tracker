@@ -1,13 +1,66 @@
 [
   {
-    "repo": "huggingface/datasets",
-    "id": 2626873843,
-    "number": 7269,
-    "title": "Memory leak when streaming",
-    "url": "https://github.com/huggingface/datasets/issues/7269",
-    "created_at": "2024-10-31T13:33:52Z",
-    "user": "Jourdelune",
-    "labels": [],
+    "repo": "pytorch/pytorch",
+    "id": 1433940290,
+    "number": 88380,
+    "title": "cuDNN error (CUDNN_STATUS_NOT_SUPPORTED) for torch.nn.functional.grid_sample()",
+    "url": "https://github.com/pytorch/pytorch/issues/88380",
+    "created_at": "2022-11-03T00:14:05Z",
+    "user": "timothygebhard",
+    "labels": [
+      "module: cudnn",
+      "module: cuda",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 2190345153,
+    "number": 6142,
+    "title": "[ENH] Interfacing LagLLama",
+    "url": "https://github.com/sktime/sktime/issues/6142",
+    "created_at": "2024-03-16T23:27:36Z",
+    "user": "benHeid",
+    "labels": [
+      "good first issue",
+      "interfacing algorithms",
+      "module:forecasting",
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2304732174,
+    "number": 29048,
+    "title": "Make `zero_division` parameter consistent in the different metric",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29048",
+    "created_at": "2024-05-19T18:40:45Z",
+    "user": "glemaitre",
+    "labels": [
+      "Enhancement",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "keras-team/keras-hub",
+    "id": 2527202975,
+    "number": 1833,
+    "title": "Buggy BloomCausalLM text generation",
+    "url": "https://github.com/keras-team/keras-hub/issues/1833",
+    "created_at": "2024-09-15T21:14:25Z",
+    "user": "ashep29",
+    "labels": [
+      "type:Bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

@@ -2689,6 +2689,22 @@
       "archived": false
     },
     {
+      "repo": "astral-sh/ruff",
+      "id": 2875955179,
+      "number": 16355,
+      "title": "Take Python version from the .python-version file",
+      "url": "https://github.com/astral-sh/ruff/issues/16355",
+      "created_at": "2025-02-24T19:27:17Z",
+      "user": "kevinrenskers",
+      "labels": [
+        "configuration",
+        "wish"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 2876279499,
       "number": 8772,
@@ -54539,6 +54555,21 @@
       "archived": false
     },
     {
+      "repo": "astral-sh/ruff",
+      "id": 3674980402,
+      "number": 21677,
+      "title": "false positive syntax errors when using syntax for newer python version in `.pyi` files",
+      "url": "https://github.com/astral-sh/ruff/issues/21677",
+      "created_at": "2025-11-28T13:42:39Z",
+      "user": "DetachHead",
+      "labels": [
+        "needs-decision"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3675026984,
       "number": 17259,
@@ -85111,6 +85142,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3745670542,
+      "number": 30996,
+      "title": "[Bug]: vLLM 0.12.0 + LMCache outputs ERROR: PrometheusLogger instance already created with different metadata.",
+      "url": "https://github.com/vllm-project/vllm/issues/30996",
+      "created_at": "2025-12-19T01:59:40Z",
+      "user": "keivenchang",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3745672963,
       "number": 4722,
@@ -85568,8 +85614,124 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3746651910,
+      "number": 31018,
+      "title": "[Bug]: ImportError: libcudart.so.12: cannot open shared object file: No such file or directory",
+      "url": "https://github.com/vllm-project/vllm/issues/31018",
+      "created_at": "2025-12-19T08:47:52Z",
+      "user": "shahizat",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/sentence-transformers",
+      "id": 3746688232,
+      "number": 3599,
+      "title": "Make progress bar in `SentenceTransformer.encode()` configurable",
+      "url": "https://github.com/huggingface/sentence-transformers/issues/3599",
+      "created_at": "2025-12-19T09:00:14Z",
+      "user": "lbhm",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3746700269,
+      "number": 63429,
+      "title": "BUG: `NotImplementedError: eq not implemented for <class 'range'>` when comparing `columns` and `range` in pandas 3.0.0rc0",
+      "url": "https://github.com/pandas-dev/pandas/issues/63429",
+      "created_at": "2025-12-19T09:04:19Z",
+      "user": "harupy",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3746726006,
+      "number": 34047,
+      "title": "Regression in 0.8.2 for FFI interface?",
+      "url": "https://github.com/jax-ml/jax/issues/34047",
+      "created_at": "2025-12-19T09:11:56Z",
+      "user": "mariogeiger",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3746745693,
+      "number": 31019,
+      "title": "[Bug]: Qwen3-VL 2:4 sparsity llm-compressor RuntimeError: shape mismatch (0.12, 0.13rc2)",
+      "url": "https://github.com/vllm-project/vllm/issues/31019",
+      "created_at": "2025-12-19T09:18:00Z",
+      "user": "SorenDreano",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pymc-devs/pymc",
+      "id": 3746768021,
+      "number": 8012,
+      "title": "Investigate CI failure of `TestSimulator.test_custom_dist_sum_stat[float32]`",
+      "url": "https://github.com/pymc-devs/pymc/issues/8012",
+      "created_at": "2025-12-19T09:25:39Z",
+      "user": "ricardoV94",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3746779462,
+      "number": 59573,
+      "title": "[Core] Add a CLI command ray kill --actor-id <actor_id> to forcefully terminate actors (including detached ones)",
+      "url": "https://github.com/ray-project/ray/issues/59573",
+      "created_at": "2025-12-19T09:28:40Z",
+      "user": "muyihao",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-image/scikit-image",
+      "id": 3746780632,
+      "number": 7991,
+      "title": "Publish wheels for Windows ARM64",
+      "url": "https://github.com/scikit-image/scikit-image/issues/7991",
+      "created_at": "2025-12-19T09:29:04Z",
+      "user": "martinResearch",
+      "labels": [
+        ":pray: Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T08:38:29Z",
-  "total_count": 5645
+  "last_updated": "2025-12-19T09:32:01Z",
+  "total_count": 5656
 }
