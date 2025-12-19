@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "shap/shap",
-    "id": 2048005523,
-    "number": 3441,
-    "title": "BUG: Corresponding output_ids are not removed with duplicate masks",
-    "url": "https://github.com/shap/shap/issues/3441",
-    "created_at": "2023-12-19T06:23:20Z",
-    "user": "TPCOther",
-    "labels": [
-      "bug",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

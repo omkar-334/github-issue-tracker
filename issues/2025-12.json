@@ -29115,6 +29115,22 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 3745672963,
+    "number": 4722,
+    "title": "GRPO agent notebook install failure",
+    "url": "https://github.com/huggingface/trl/issues/4722",
+    "created_at": "2025-12-19T02:00:33Z",
+    "user": "austinmw",
+    "labels": [
+      "🐛 bug",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3745722029,
     "number": 19500,
@@ -29244,6 +29260,51 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3746004226,
+    "number": 31005,
+    "title": "[Bug]: Incorrect warning message for tensor parallel size in Ray executor (ray_utils.py:331-340)",
+    "url": "https://github.com/vllm-project/vllm/issues/31005",
+    "created_at": "2025-12-19T04:37:50Z",
+    "user": "jarieshan",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3746112786,
+    "number": 170853,
+    "title": "DISABLED test_view_as_complex_xpu (__main__.TestViewOpsXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/170853",
+    "created_at": "2025-12-19T05:24:30Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3746118422,
+    "number": 31009,
+    "title": "[Docs] Feedback for `/en/latest/`",
+    "url": "https://github.com/vllm-project/vllm/issues/31009",
+    "created_at": "2025-12-19T05:26:52Z",
+    "user": "Leopipi26",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

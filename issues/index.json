@@ -34709,6 +34709,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3563950557,
+      "number": 166484,
+      "title": "DISABLED test_all_gather_collective (__main__.FxGraphRunnableTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/166484",
+      "created_at": "2025-10-29T01:10:40Z",
+      "user": "pytorch-bot[bot]",
+      "labels": [
+        "triaged",
+        "module: flaky-tests",
+        "skipped",
+        "oncall: pt2",
+        "module: dynamo"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "streamlit/streamlit",
       "id": 3564032011,
       "number": 12886,
@@ -37607,6 +37626,21 @@
       "labels": [
         "question",
         "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3589110011,
+      "number": 28093,
+      "title": "[Bug]: predict qwen3vl-8b with lora err",
+      "url": "https://github.com/vllm-project/vllm/issues/28093",
+      "created_at": "2025-11-05T03:52:42Z",
+      "user": "VincentZ-2020",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -84910,6 +84944,22 @@
       "archived": false
     },
     {
+      "repo": "huggingface/trl",
+      "id": 3745672963,
+      "number": 4722,
+      "title": "GRPO agent notebook install failure",
+      "url": "https://github.com/huggingface/trl/issues/4722",
+      "created_at": "2025-12-19T02:00:33Z",
+      "user": "austinmw",
+      "labels": [
+        "🐛 bug",
+        "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3745722029,
       "number": 19500,
@@ -85042,8 +85092,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3746004226,
+      "number": 31005,
+      "title": "[Bug]: Incorrect warning message for tensor parallel size in Ray executor (ray_utils.py:331-340)",
+      "url": "https://github.com/vllm-project/vllm/issues/31005",
+      "created_at": "2025-12-19T04:37:50Z",
+      "user": "jarieshan",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3746112786,
+      "number": 170853,
+      "title": "DISABLED test_view_as_complex_xpu (__main__.TestViewOpsXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/170853",
+      "created_at": "2025-12-19T05:24:30Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3746118422,
+      "number": 31009,
+      "title": "[Docs] Feedback for `/en/latest/`",
+      "url": "https://github.com/vllm-project/vllm/issues/31009",
+      "created_at": "2025-12-19T05:26:52Z",
+      "user": "Leopipi26",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T04:40:16Z",
-  "total_count": 5612
+  "last_updated": "2025-12-19T05:29:43Z",
+  "total_count": 5618
 }
