@@ -492,6 +492,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2985270898,
+    "number": 16406,
+    "title": "[New Model]: Multimodal Embedding Model GME.",
+    "url": "https://github.com/vllm-project/vllm/issues/16406",
+    "created_at": "2025-04-10T10:54:05Z",
+    "user": "Adenialzz",
+    "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/text",
     "id": 2985566121,
     "number": 2288,
@@ -1262,6 +1277,22 @@
       "usability",
       "data",
       "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3016823706,
+    "number": 17103,
+    "title": "[Bug]: AsyncLLM sleep then wake_up produces meaningless outputs",
+    "url": "https://github.com/vllm-project/vllm/issues/17103",
+    "created_at": "2025-04-24T10:41:47Z",
+    "user": "wuxibin89",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

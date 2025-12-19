@@ -1333,6 +1333,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3589426296,
+    "number": 58407,
+    "title": "[Ray Tune] Any option to skip packaging or exclude certain path when running on local machine",
+    "url": "https://github.com/ray-project/ray/issues/58407",
+    "created_at": "2025-11-05T05:42:17Z",
+    "user": "PadishahIII",
+    "labels": [
+      "bug",
+      "question",
+      "tune",
+      "triage",
+      "usability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3589469983,
     "number": 42024,

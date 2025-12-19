@@ -1765,6 +1765,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3324665843,
+    "number": 22975,
+    "title": "[Bug]: sometimes tool calling is not correctly parsed but remains in the plain content for qwen3 coder",
+    "url": "https://github.com/vllm-project/vllm/issues/22975",
+    "created_at": "2025-08-15T08:17:31Z",
+    "user": "Co1lin",
+    "labels": [
+      "bug",
+      "stale",
+      "tool-calling"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3325344123,
     "number": 160739,

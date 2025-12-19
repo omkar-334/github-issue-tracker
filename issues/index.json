@@ -5085,6 +5085,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2985270898,
+      "number": 16406,
+      "title": "[New Model]: Multimodal Embedding Model GME.",
+      "url": "https://github.com/vllm-project/vllm/issues/16406",
+      "created_at": "2025-04-10T10:54:05Z",
+      "user": "Adenialzz",
+      "labels": [
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/text",
       "id": 2985566121,
       "number": 2288,
@@ -5855,6 +5870,22 @@
         "usability",
         "data",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3016823706,
+      "number": 17103,
+      "title": "[Bug]: AsyncLLM sleep then wake_up produces meaningless outputs",
+      "url": "https://github.com/vllm-project/vllm/issues/17103",
+      "created_at": "2025-04-24T10:41:47Z",
+      "user": "wuxibin89",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -8927,6 +8958,22 @@
       "user": "FrithjofWinkelmannQC",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3109532183,
+      "number": 19018,
+      "title": "[Bug]:RuntimeError: CUDA error: no kernel image is available for execution on the device",
+      "url": "https://github.com/vllm-project/vllm/issues/19018",
+      "created_at": "2025-06-02T10:20:25Z",
+      "user": "anyiz",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17437,6 +17484,23 @@
       "labels": [
         "bug",
         "llm translation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3324665843,
+      "number": 22975,
+      "title": "[Bug]: sometimes tool calling is not correctly parsed but remains in the plain content for qwen3 coder",
+      "url": "https://github.com/vllm-project/vllm/issues/22975",
+      "created_at": "2025-08-15T08:17:31Z",
+      "user": "Co1lin",
+      "labels": [
+        "bug",
+        "stale",
+        "tool-calling"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -37544,6 +37608,26 @@
         "mx",
         "training",
         "moe"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3589426296,
+      "number": 58407,
+      "title": "[Ray Tune] Any option to skip packaging or exclude certain path when running on local machine",
+      "url": "https://github.com/ray-project/ray/issues/58407",
+      "created_at": "2025-11-05T05:42:17Z",
+      "user": "PadishahIII",
+      "labels": [
+        "bug",
+        "question",
+        "tune",
+        "triage",
+        "usability",
+        "community-backlog"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -62114,6 +62198,37 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3698359460,
+      "number": 30128,
+      "title": "[Bug]: raise error when setting --pipeline_parallel_size > 3 in ray cluster",
+      "url": "https://github.com/vllm-project/vllm/issues/30128",
+      "created_at": "2025-12-05T10:16:38Z",
+      "user": "sz-xuejin",
+      "labels": [
+        "bug",
+        "ray"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3698417308,
+      "number": 30129,
+      "title": "[Feature]: About video input for qwen3vl",
+      "url": "https://github.com/vllm-project/vllm/issues/30129",
+      "created_at": "2025-12-05T10:32:06Z",
+      "user": "lingcco",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/accelerate",
       "id": 3698476064,
       "number": 3875,
@@ -67715,6 +67830,21 @@
       "labels": [
         "bug",
         "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3712698520,
+      "number": 30359,
+      "title": "[RFC] [QeRL]: Online Quantization and Model Reloading",
+      "url": "https://github.com/vllm-project/vllm/issues/30359",
+      "created_at": "2025-12-09T21:24:20Z",
+      "user": "kylesayrs",
+      "labels": [
+        "RFC"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -84761,8 +84891,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3745722029,
+      "number": 19500,
+      "title": "[BUG] Security Vulnerability",
+      "url": "https://github.com/mlflow/mlflow/issues/19500",
+      "created_at": "2025-12-19T02:17:25Z",
+      "user": "bilisheep",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3745785847,
+      "number": 30476,
+      "title": "BUG: Uninitialized variables in arraydescr_setstate when unpickling malformed dtype",
+      "url": "https://github.com/numpy/numpy/issues/30476",
+      "created_at": "2025-12-19T02:44:24Z",
+      "user": "stratakis",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3745855784,
+      "number": 30477,
+      "title": "BUG: Buffer overflow in npy__cpu_validate_baseline when CPU lacks baseline features",
+      "url": "https://github.com/numpy/numpy/issues/30477",
+      "created_at": "2025-12-19T03:17:57Z",
+      "user": "stratakis",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3745867227,
+      "number": 8342,
+      "title": "ChatStep title is too big and no obvious way to reduce the size of the ChatStep title",
+      "url": "https://github.com/holoviz/panel/issues/8342",
+      "created_at": "2025-12-19T03:24:14Z",
+      "user": "bakkiaraj",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T02:01:19Z",
-  "total_count": 5594
+  "last_updated": "2025-12-19T03:41:54Z",
+  "total_count": 5606
 }

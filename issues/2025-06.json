@@ -103,6 +103,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3109532183,
+    "number": 19018,
+    "title": "[Bug]:RuntimeError: CUDA error: no kernel image is available for execution on the device",
+    "url": "https://github.com/vllm-project/vllm/issues/19018",
+    "created_at": "2025-06-02T10:20:25Z",
+    "user": "anyiz",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pola-rs/polars",
     "id": 3109894307,
     "number": 23048,

@@ -1,124 +1,97 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 1922824248,
-    "number": 9795,
-    "title": "Automatically save checkpoints when training with Tensorflow/PyTorch/Keras",
-    "url": "https://github.com/mlflow/mlflow/issues/9795",
-    "created_at": "2023-10-02T22:11:17Z",
-    "user": "chenmoneygithub",
+    "repo": "matplotlib/matplotlib",
+    "id": 1327549710,
+    "number": 23544,
+    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
+    "created_at": "2022-08-03T17:08:28Z",
+    "user": "scottshambaugh",
     "labels": [
-      "stale"
+      "New feature",
+      "topic: mplot3d",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1965386482,
-    "number": 10194,
-    "title": "`mlflow.tensorflow.log_model` crashed with \"KeyError: 'experiment_id'\"",
-    "url": "https://github.com/mlflow/mlflow/issues/10194",
-    "created_at": "2023-10-27T12:05:54Z",
-    "user": "sfo",
+    "repo": "matplotlib/matplotlib",
+    "id": 1334948861,
+    "number": 23599,
+    "title": "[ENH]: Propose a more balanced set of styles toward the dark side",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23599",
+    "created_at": "2022-08-10T17:25:57Z",
+    "user": "ubitux",
     "labels": [
-      "stale"
+      "New feature",
+      "topic: styles",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1976576514,
-    "number": 10290,
-    "title": "[DOC-FIX] Migration readme is hopelessly out of date and not helpful.",
-    "url": "https://github.com/mlflow/mlflow/issues/10290",
-    "created_at": "2023-11-03T16:44:53Z",
-    "user": "ozzy92",
+    "repo": "matplotlib/matplotlib",
+    "id": 1337774979,
+    "number": 23611,
+    "title": "[Bug]: Colorbar cax shrinks when reused for a new colorbar",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23611",
+    "created_at": "2022-08-12T23:21:21Z",
+    "user": "efiring",
     "labels": [
-      "area/docs",
-      "stale"
+      "topic: color/colorbar",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1976627241,
-    "number": 10293,
-    "title": "[DOC-FIX] LLM RAG Evaluation notebooks are missing information",
-    "url": "https://github.com/mlflow/mlflow/issues/10293",
-    "created_at": "2023-11-03T17:19:14Z",
-    "user": "lz-chen",
+    "repo": "matplotlib/matplotlib",
+    "id": 1338784034,
+    "number": 23624,
+    "title": "Patch3D constructor fundamentally incorrect.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23624",
+    "created_at": "2022-08-15T10:01:30Z",
+    "user": "oscargus",
     "labels": [
-      "area/docs",
-      "stale"
+      "topic: mplot3d",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1976942232,
-    "number": 10294,
-    "title": "Feature Request: Experiments Column Selection Should Have \"auto\" width to allow for expanding on long field names",
-    "url": "https://github.com/mlflow/mlflow/issues/10294",
-    "created_at": "2023-11-03T21:16:34Z",
-    "user": "bschulth",
+    "repo": "matplotlib/matplotlib",
+    "id": 1339530102,
+    "number": 23633,
+    "title": "[MNT]: Deprecated / discourage less used Axes methods forwarding to Axis methods",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23633",
+    "created_at": "2022-08-15T21:26:43Z",
+    "user": "timhoffm",
     "labels": [
-      "stale"
+      "Maintenance",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1986284653,
-    "number": 10336,
-    "title": "RFC: deprecating model registry stages",
-    "url": "https://github.com/mlflow/mlflow/issues/10336",
-    "created_at": "2023-11-09T19:40:32Z",
-    "user": "jerrylian-db",
+    "repo": "huggingface/diffusers",
+    "id": 1994050441,
+    "number": 5800,
+    "title": "[Control-LoRA] Picking Control-LoRA up again",
+    "url": "https://github.com/huggingface/diffusers/issues/5800",
+    "created_at": "2023-11-15T05:00:45Z",
+    "user": "sayakpaul",
     "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1986737275,
-    "number": 10350,
-    "title": "[DOC-FIX] Document the process of creating new R flavors with MLFlow",
-    "url": "https://github.com/mlflow/mlflow/issues/10350",
-    "created_at": "2023-11-10T02:31:54Z",
-    "user": "lewinfox",
-    "labels": [
-      "area/docs",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1988851976,
-    "number": 10363,
-    "title": "[DOC-FIX] RunInfo.status wrongly states to return a value of `RunStatus`",
-    "url": "https://github.com/mlflow/mlflow/issues/10363",
-    "created_at": "2023-11-11T09:04:09Z",
-    "user": "ORippler",
-    "labels": [
-      "area/docs",
-      "stale",
-      "has-closing-pr"
+      "Good second issue",
+      "contributions-welcome"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -126,12 +99,12 @@
   },
   {
     "repo": "dagster-io/dagster",
-    "id": 2012252898,
-    "number": 18269,
-    "title": "Querying Run Tags Table Causing Slow Down",
-    "url": "https://github.com/dagster-io/dagster/issues/18269",
-    "created_at": "2023-11-27T13:17:08Z",
-    "user": "ChristopherFyfe",
+    "id": 2183805598,
+    "number": 20444,
+    "title": "gRPC servers spawned by the dagster-daemon seem to create zombie processes",
+    "url": "https://github.com/dagster-io/dagster/issues/20444",
+    "created_at": "2024-03-13T11:49:51Z",
+    "user": "gtesoro",
     "labels": [
       "type: bug",
       "area: deployment",
@@ -142,156 +115,44 @@
     "archived": true
   },
   {
-    "repo": "dagster-io/dagster",
-    "id": 2012606153,
-    "number": 18274,
-    "title": "Add an option to \"Materialize Failed\"",
-    "url": "https://github.com/dagster-io/dagster/issues/18274",
-    "created_at": "2023-11-27T16:03:10Z",
-    "user": "lq-wisetack",
+    "repo": "pytorch/pytorch",
+    "id": 2396107507,
+    "number": 130253,
+    "title": " RuntimeError: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling `cublasGemmEx( handle, opa, opb, m, n, k, &falpha, a, CUDA_R_16F, lda, b, CUDA_R_16F, ldb, &fbeta, c, CUDA_R_16F, ldc, CUDA_R_32F, CUBLAS_GEMM_DEFAULT_TENSOR_OP)`",
+    "url": "https://github.com/pytorch/pytorch/issues/130253",
+    "created_at": "2024-07-08T16:51:00Z",
+    "user": "lucasjinreal",
     "labels": [
-      "type: feature-request",
-      "area: UI/UX",
-      "stale"
+      "needs reproduction",
+      "module: cuda",
+      "triaged",
+      "module: cublas"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 2040420021,
-    "number": 10686,
-    "title": "[FR] PyTorch infer_signature should be able to take `torch.tensor` as input and output",
-    "url": "https://github.com/mlflow/mlflow/issues/10686",
-    "created_at": "2023-12-13T20:28:11Z",
-    "user": "chenmoneygithub",
-    "labels": [
-      "stale"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 2050764552,
-    "number": 10730,
-    "title": "[BUG] Security Vulnerability",
-    "url": "https://github.com/mlflow/mlflow/issues/10730",
-    "created_at": "2023-12-20T15:19:03Z",
-    "user": "ghost",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2099560717,
-    "number": 57064,
-    "title": "RLS: 3.0",
-    "url": "https://github.com/pandas-dev/pandas/issues/57064",
-    "created_at": "2024-01-25T04:47:17Z",
-    "user": "datapythonista",
-    "labels": [
-      "Release"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pymc-devs/pymc",
-    "id": 2349106276,
-    "number": 7354,
-    "title": "ConnectionResetError from multiprocess sampling",
-    "url": "https://github.com/pymc-devs/pymc/issues/7354",
-    "created_at": "2024-06-12T15:44:42Z",
-    "user": "fonnesbeck",
-    "labels": [
-      "bug",
-      "samplers"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "id": 2444778518,
-    "number": 10033,
-    "title": "Pydantic V3 — 🙂 not 😱",
-    "url": "https://github.com/pydantic/pydantic/issues/10033",
-    "created_at": "2024-08-02T11:41:20Z",
-    "user": "samuelcolvin",
-    "labels": [
-      "meta",
-      "v3"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 2461857692,
-    "number": 21370,
-    "title": "BUG: stats.tukeylambda: Bad behavior of the `cdf()` and `sf()` methods in the tails.",
-    "url": "https://github.com/scipy/scipy/issues/21370",
-    "created_at": "2024-08-12T20:41:58Z",
-    "user": "WarrenWeckesser",
-    "labels": [
-      "defect",
-      "scipy.stats",
-      "scipy.special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pola-rs/polars",
-    "id": 2487671651,
-    "number": 18389,
-    "title": "assert_series_equal and assert_frame_equal are inconsistent ",
-    "url": "https://github.com/pola-rs/polars/issues/18389",
-    "created_at": "2024-08-26T20:04:56Z",
-    "user": "jcmuel",
-    "labels": [
-      "bug",
-      "python",
-      "needs triage"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "EleutherAI/lm-evaluation-harness",
-    "id": 2601734804,
-    "number": 2418,
-    "title": "vllm mode shows much slow inference speed than normal (hf) mode.",
-    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/2418",
-    "created_at": "2024-10-21T08:14:21Z",
-    "user": "95jinchul",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -299,30 +160,16 @@
   },
   {
     "repo": "pytorch/pytorch",
-    "id": 2746892469,
-    "number": 143471,
-    "title": "NFS errors during DataLoader shutdown when num_workers > 1 when temporary directory is on NFS",
-    "url": "https://github.com/pytorch/pytorch/issues/143471",
-    "created_at": "2024-12-18T06:18:29Z",
-    "user": "edoyango",
+    "id": 2575242025,
+    "number": 137574,
+    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
+    "url": "https://github.com/pytorch/pytorch/issues/137574",
+    "created_at": "2024-10-09T08:47:36Z",
+    "user": "vadimkantorov",
     "labels": [
       "triaged",
-      "module: data"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "stanfordnlp/stanza",
-    "id": 2748894266,
-    "number": 1440,
-    "title": "Weird tokenization in Spanish",
-    "url": "https://github.com/stanfordnlp/stanza/issues/1440",
-    "created_at": "2024-12-18T22:51:45Z",
-    "user": "CrackedBeefcake",
-    "labels": [
-      "bug"
+      "enhancement",
+      "module: sdpa"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
