@@ -1,5 +1,52 @@
 [
   {
+    "repo": "scipy/scipy",
+    "id": 55020537,
+    "number": 4446,
+    "title": "Gauss hypergeometric function scipy.special.hyp2f1 returns NaN instead of 0.0",
+    "url": "https://github.com/scipy/scipy/issues/4446",
+    "created_at": "2015-01-21T13:48:32Z",
+    "user": "aaszodi",
+    "labels": [
+      "defect",
+      "scipy.special"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "cython/cython",
+    "id": 1599975203,
+    "number": 5260,
+    "title": "[ENH] Auto-generation of generalized ufuncs",
+    "url": "https://github.com/cython/cython/issues/5260",
+    "created_at": "2023-02-26T08:43:36Z",
+    "user": "da-woods",
+    "labels": [
+      "feature",
+      "numpy"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1915444931,
+    "number": 26931,
+    "title": "[ENH]: Provide ISO linestyles",
+    "url": "https://github.com/matplotlib/matplotlib/issues/26931",
+    "created_at": "2023-09-27T12:19:18Z",
+    "user": "drew-parsons",
+    "labels": [
+      "New feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
     "repo": "astral-sh/ruff",
     "id": 2206313455,
     "number": 10578,
@@ -15,17 +62,17 @@
     "archived": true
   },
   {
-    "repo": "huggingface/transformers",
-    "id": 2369076620,
-    "number": 31561,
-    "title": "Add argument to set number of eval steps in Trainer",
-    "url": "https://github.com/huggingface/transformers/issues/31561",
-    "created_at": "2024-06-24T02:43:33Z",
-    "user": "brianhill11",
+    "repo": "pytorch/pytorch",
+    "id": 2575242025,
+    "number": 137574,
+    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
+    "url": "https://github.com/pytorch/pytorch/issues/137574",
+    "created_at": "2024-10-09T08:47:36Z",
+    "user": "vadimkantorov",
     "labels": [
-      "Good First Issue",
-      "trainer",
-      "Feature request"
+      "triaged",
+      "enhancement",
+      "module: sdpa"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

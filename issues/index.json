@@ -39388,6 +39388,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3599649271,
+      "number": 3533,
+      "title": "httpx.ConnectError: EOF occurred in violation of protocol (_ssl.c:997)",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3533",
+      "created_at": "2025-11-07T10:19:06Z",
+      "user": "asyhyxcqdx",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3600068309,
       "number": 33869,
@@ -86874,8 +86889,90 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3748253028,
+      "number": 31039,
+      "title": "[Feature]: Integrate Sonic MoE",
+      "url": "https://github.com/vllm-project/vllm/issues/31039",
+      "created_at": "2025-12-19T17:29:59Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3748310264,
+      "number": 59582,
+      "title": "[Core] Inconsistent context manager behavior between `ray.init(address='auto')` and `ray.init(\"ray://...\")` (Client mode)",
+      "url": "https://github.com/ray-project/ray/issues/59582",
+      "created_at": "2025-12-19T17:52:06Z",
+      "user": "chajath",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3748400902,
+      "number": 31043,
+      "title": "[BugFix]: move torch.Size across graphs in split_graph",
+      "url": "https://github.com/vllm-project/vllm/issues/31043",
+      "created_at": "2025-12-19T18:24:58Z",
+      "user": "BoyuanFeng",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3748403576,
+      "number": 24196,
+      "title": "RFC: How should `xp_capabilities` work and be used for classes?",
+      "url": "https://github.com/scipy/scipy/issues/24196",
+      "created_at": "2025-12-19T18:26:14Z",
+      "user": "steppi",
+      "labels": [
+        "Documentation",
+        "RFC",
+        "array types"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3748419534,
+      "number": 21433,
+      "title": "MLFlow Logger Tests Not Passing",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21433",
+      "created_at": "2025-12-19T18:32:12Z",
+      "user": "alexeatscake",
+      "labels": [
+        "bug",
+        "needs triage",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T17:24:53Z",
-  "total_count": 5728
+  "last_updated": "2025-12-19T18:38:57Z",
+  "total_count": 5734
 }
