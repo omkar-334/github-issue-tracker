@@ -30609,5 +30609,76 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3748566092,
+    "number": 31045,
+    "title": "[Bug]: No <think> start tag using Qwen3-235B-A22B-Thinking-2507-FP8",
+    "url": "https://github.com/vllm-project/vllm/issues/31045",
+    "created_at": "2025-12-19T19:22:29Z",
+    "user": "celsowm",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3748610128,
+    "number": 170894,
+    "title": "Delete or implement NVSHMEMAllocation copy and move ctors",
+    "url": "https://github.com/pytorch/pytorch/issues/170894",
+    "created_at": "2025-12-19T19:35:52Z",
+    "user": "Skylion007",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3748626444,
+    "number": 16347,
+    "title": "Benchmark CMSIS Conv & DW Conv and improve operator selection",
+    "url": "https://github.com/pytorch/executorch/issues/16347",
+    "created_at": "2025-12-19T19:42:03Z",
+    "user": "rascani",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3748633416,
+    "number": 19536,
+    "title": "[BUG] Traces are not nested when using async predict_fn and Prompt Optimization",
+    "url": "https://github.com/mlflow/mlflow/issues/19536",
+    "created_at": "2025-12-19T19:44:22Z",
+    "user": "baalexander",
+    "labels": [
+      "bug",
+      "area/tracing",
+      "area/evaluation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3748737882,
+    "number": 12604,
+    "title": "Docs: Highlight Python syntax",
+    "url": "https://github.com/gradio-app/gradio/issues/12604",
+    "created_at": "2025-12-19T20:20:21Z",
+    "user": "afeld",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

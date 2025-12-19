@@ -1,17 +1,29 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 2461857692,
-    "number": 21370,
-    "title": "BUG: stats.tukeylambda: Bad behavior of the `cdf()` and `sf()` methods in the tails.",
-    "url": "https://github.com/scipy/scipy/issues/21370",
-    "created_at": "2024-08-12T20:41:58Z",
-    "user": "WarrenWeckesser",
+    "repo": "streamlit/streamlit",
+    "id": 1238468215,
+    "number": 4742,
+    "title": "Logging strategy should follow the standard",
+    "url": "https://github.com/streamlit/streamlit/issues/4742",
+    "created_at": "2022-05-17T11:03:21Z",
+    "user": "whitphx",
     "labels": [
-      "defect",
-      "scipy.stats",
-      "scipy.special"
+      "type:enhancement",
+      "area:debugging"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "holoviz/panel",
+    "id": 1887743964,
+    "number": 5491,
+    "title": "\"getting started\" example fails with kernel from virtual env",
+    "url": "https://github.com/holoviz/panel/issues/5491",
+    "created_at": "2023-09-08T13:57:35Z",
+    "user": "itcarroll",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
@@ -28,73 +40,6 @@
       "triaged",
       "enhancement",
       "module: sdpa"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2602030203,
-    "number": 6388,
-    "title": "Error from LLaMA 3.2 3B Instruct Model generation (.pte)",
-    "url": "https://github.com/pytorch/executorch/issues/6388",
-    "created_at": "2024-10-21T10:04:50Z",
-    "user": "justin-Kor",
-    "labels": [
-      "partner: qualcomm",
-      "triaged",
-      "module: qnn"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2634713582,
-    "number": 6655,
-    "title": "How To Building and Running Llama 3.2 1B Instruct with Qualcomm AI Engine Direct Backend？",
-    "url": "https://github.com/pytorch/executorch/issues/6655",
-    "created_at": "2024-11-05T08:00:19Z",
-    "user": "baotonghe",
-    "labels": [
-      "partner: qualcomm",
-      "triaged",
-      "module: qnn",
-      "module: llm"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2713847653,
-    "number": 7156,
-    "title": "llama3.2 on iPhone 16 generates repeated, bad responses",
-    "url": "https://github.com/pytorch/executorch/issues/7156",
-    "created_at": "2024-12-03T02:45:50Z",
-    "user": "fighting300",
-    "labels": [
-      "triaged",
-      "module: llm"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2729421212,
-    "number": 7263,
-    "title": "export llama 3.2-1B error with executorch 4.0 and main branch",
-    "url": "https://github.com/pytorch/executorch/issues/7263",
-    "created_at": "2024-12-10T08:45:38Z",
-    "user": "fighting300",
-    "labels": [
-      "triaged",
-      "module: llm"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

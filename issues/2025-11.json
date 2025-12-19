@@ -8235,6 +8235,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3639462037,
+    "number": 168092,
+    "title": "On a single rank, dist.reduce_scatter_tensor with op=dist.ReduceOp.AVG can miss some elements",
+    "url": "https://github.com/pytorch/pytorch/issues/168092",
+    "created_at": "2025-11-18T18:23:46Z",
+    "user": "henrylhtsang",
+    "labels": [
+      "high priority",
+      "triage review",
+      "oncall: distributed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3639499632,
     "number": 4543,
