@@ -6353,6 +6353,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3446859114,
+    "number": 25523,
+    "title": "[Bug]: MAGMA and LAPACK support for pytorch missing for rocm/vllm images",
+    "url": "https://github.com/vllm-project/vllm/issues/25523",
+    "created_at": "2025-09-23T22:36:41Z",
+    "user": "SAtacker",
+    "labels": [
+      "bug",
+      "feature request",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3446918369,
     "number": 29801,

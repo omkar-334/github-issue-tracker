@@ -772,6 +772,19 @@
     "archived": false
   },
   {
+    "repo": "opencv/opencv-python",
+    "id": 3209869264,
+    "number": 1122,
+    "title": "Numpy version fix",
+    "url": "https://github.com/opencv/opencv-python/issues/1122",
+    "created_at": "2025-07-07T18:11:44Z",
+    "user": "Houbein",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3210986975,
     "number": 3431,

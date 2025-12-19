@@ -2832,6 +2832,21 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 3351008099,
+    "number": 31923,
+    "title": "Production-Ready Kafka Integration with Confluent Connect for Dagster",
+    "url": "https://github.com/dagster-io/dagster/issues/31923",
+    "created_at": "2025-08-25T08:55:44Z",
+    "user": "kingsley-123",
+    "labels": [
+      "type: feature-request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3351267496,
     "number": 3498,

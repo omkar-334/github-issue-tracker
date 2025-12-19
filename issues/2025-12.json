@@ -28829,5 +28829,243 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3745267569,
+    "number": 63417,
+    "title": "PERF/API: arithmetic result.index.dtype with mismatched-dtype equal-values indexes",
+    "url": "https://github.com/pandas-dev/pandas/issues/63417",
+    "created_at": "2025-12-18T23:33:33Z",
+    "user": "jbrockmendel",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3745316522,
+    "number": 34422,
+    "title": "gemini 3 flash preview , isn't working, cuz they have a thinking-parameter, plz fix it asap",
+    "url": "https://github.com/langchain-ai/langchain/issues/34422",
+    "created_at": "2025-12-18T23:51:00Z",
+    "user": "bigrender",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3745317808,
+    "number": 34423,
+    "title": "gemini 3 flash preview , isn't working, cuz they have a thinking-parameter, plz fix it asap",
+    "url": "https://github.com/langchain-ai/langchain/issues/34423",
+    "created_at": "2025-12-18T23:51:29Z",
+    "user": "bigrender",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3745319010,
+    "number": 63418,
+    "title": "ENH: Add read/write support for the Vortex columnar format",
+    "url": "https://github.com/pandas-dev/pandas/issues/63418",
+    "created_at": "2025-12-18T23:51:55Z",
+    "user": "d33bs",
+    "labels": [
+      "Enhancement",
+      "Needs Triage",
+      "IO Format Request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3745401964,
+    "number": 63419,
+    "title": "BUG: pd.to_datetime with low-reso unit and high-reso origin",
+    "url": "https://github.com/pandas-dev/pandas/issues/63419",
+    "created_at": "2025-12-19T00:20:40Z",
+    "user": "jbrockmendel",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745406615,
+    "number": 170831,
+    "title": "Mixed dtype support for FlexAttention (low precision K/V)",
+    "url": "https://github.com/pytorch/pytorch/issues/170831",
+    "created_at": "2025-12-19T00:22:21Z",
+    "user": "howardzhang-cv",
+    "labels": [
+      "oncall: pt2",
+      "module: flex attention"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745455601,
+    "number": 170834,
+    "title": "Generated torch.Library autograd functions seem not have `setup_context` which breaks `torch.func.grad` usage",
+    "url": "https://github.com/pytorch/pytorch/issues/170834",
+    "created_at": "2025-12-19T00:39:46Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745563138,
+    "number": 170837,
+    "title": "MPS backend - inconsistent results for batched inference on BERT/RoBERTa",
+    "url": "https://github.com/pytorch/pytorch/issues/170837",
+    "created_at": "2025-12-19T01:19:04Z",
+    "user": "jsrozner",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3745567487,
+    "number": 34041,
+    "title": "Can't index jax.Array that's been device_put() into host memory_space",
+    "url": "https://github.com/jax-ml/jax/issues/34041",
+    "created_at": "2025-12-19T01:20:52Z",
+    "user": "georgevdd",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3745576260,
+    "number": 25827,
+    "title": "Series.equals inconsistent for list vs scalar dtypes",
+    "url": "https://github.com/pola-rs/polars/issues/25827",
+    "created_at": "2025-12-19T01:24:35Z",
+    "user": "jjurm",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3745578518,
+    "number": 63420,
+    "title": "BUG: Failing to set list of `pd.NaT` on column of dataframe of type datetime64[us]",
+    "url": "https://github.com/pandas-dev/pandas/issues/63420",
+    "created_at": "2025-12-19T01:25:36Z",
+    "user": "loicdiridollou",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebookresearch/xformers",
+    "id": 3745594364,
+    "number": 1365,
+    "title": "Wheels for rocm7.1",
+    "url": "https://github.com/facebookresearch/xformers/issues/1365",
+    "created_at": "2025-12-19T01:31:19Z",
+    "user": "Calandracas606",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3745605033,
+    "number": 30995,
+    "title": "[Bug]: Fused MoE errors without safe serialization",
+    "url": "https://github.com/vllm-project/vllm/issues/30995",
+    "created_at": "2025-12-19T01:35:36Z",
+    "user": "ojh31",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3745620103,
+    "number": 170839,
+    "title": "Varlen attention API with custom varlen `attn_mask`",
+    "url": "https://github.com/pytorch/pytorch/issues/170839",
+    "created_at": "2025-12-19T01:41:06Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3745643117,
+    "number": 9050,
+    "title": "Does the histogram support numbers outside the range [0, numbins)?",
+    "url": "https://github.com/triton-lang/triton/issues/9050",
+    "created_at": "2025-12-19T01:49:27Z",
+    "user": "gym580299",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "open-mmlab/mmdetection",
+    "id": 3745644959,
+    "number": 12421,
+    "title": "list index out of range when finetuning  mmgrounding dino",
+    "url": "https://github.com/open-mmlab/mmdetection/issues/12421",
+    "created_at": "2025-12-19T01:50:11Z",
+    "user": "drillingself",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
