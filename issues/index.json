@@ -2649,6 +2649,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2869203135,
+      "number": 147625,
+      "title": "aten.grid_sampler_3d.default is missing a c-shim implementation, using proxy executor as fallback",
+      "url": "https://github.com/pytorch/pytorch/issues/147625",
+      "created_at": "2025-02-21T14:36:34Z",
+      "user": "bhack",
+      "labels": [
+        "good first issue",
+        "triaged",
+        "oncall: pt2",
+        "module: inductor",
+        "oncall: export",
+        "module: aotinductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 2869803496,
       "number": 50799,
@@ -47644,6 +47664,42 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653538099,
+      "number": 168409,
+      "title": "Test: TestReplicateMixedPrecisionTraining.test_compute_dtype",
+      "url": "https://github.com/pytorch/pytorch/issues/168409",
+      "created_at": "2025-11-22T00:58:47Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653538131,
+      "number": 168410,
+      "title": "Test: TestReplicateMixedPrecisionTraining.test_reduce_dtype",
+      "url": "https://github.com/pytorch/pytorch/issues/168410",
+      "created_at": "2025-11-22T00:58:49Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653538246,
       "number": 168413,
       "title": "Test: TestShardedTensorChunked.test_partial_world_size",
@@ -47811,6 +47867,24 @@
       "title": "Test: DistMatrixOpsTest.test_grouped_mm",
       "url": "https://github.com/pytorch/pytorch/issues/168448",
       "created_at": "2025-11-22T00:59:49Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: ddp",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653539994,
+      "number": 168450,
+      "title": "Test: DistTensorOpsTest.test_index",
+      "url": "https://github.com/pytorch/pytorch/issues/168450",
+      "created_at": "2025-11-22T00:59:52Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -87255,8 +87329,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3748938859,
+      "number": 2879,
+      "title": "Feature(python): API parity between async and sync create index APIs",
+      "url": "https://github.com/lancedb/lancedb/issues/2879",
+      "created_at": "2025-12-19T21:27:15Z",
+      "user": "wjones127",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3748943216,
+      "number": 24199,
+      "title": "ENH: I discovered a method to bypass atan2 in rotation",
+      "url": "https://github.com/scipy/scipy/issues/24199",
+      "created_at": "2025-12-19T21:29:00Z",
+      "user": "maher1719",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3748955528,
+      "number": 19903,
+      "title": "CLI improvements for automation and agent usage",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19903",
+      "created_at": "2025-12-19T21:34:32Z",
+      "user": "zzstoatzz",
+      "labels": [
+        "enhancement",
+        "cli"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3748956385,
+      "number": 19904,
+      "title": "Add batch delete support for flow runs",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19904",
+      "created_at": "2025-12-19T21:34:52Z",
+      "user": "zzstoatzz",
+      "labels": [
+        "enhancement",
+        "cli"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3748976299,
+      "number": 42968,
+      "title": "`LlavaNextForConditionalGeneration` forward pass broken",
+      "url": "https://github.com/huggingface/transformers/issues/42968",
+      "created_at": "2025-12-19T21:42:30Z",
+      "user": "qgallouedec",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T21:26:03Z",
-  "total_count": 5752
+  "last_updated": "2025-12-19T22:27:31Z",
+  "total_count": 5761
 }

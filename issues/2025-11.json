@@ -10744,6 +10744,42 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653538099,
+    "number": 168409,
+    "title": "Test: TestReplicateMixedPrecisionTraining.test_compute_dtype",
+    "url": "https://github.com/pytorch/pytorch/issues/168409",
+    "created_at": "2025-11-22T00:58:47Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653538131,
+    "number": 168410,
+    "title": "Test: TestReplicateMixedPrecisionTraining.test_reduce_dtype",
+    "url": "https://github.com/pytorch/pytorch/issues/168410",
+    "created_at": "2025-11-22T00:58:49Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653538246,
     "number": 168413,
     "title": "Test: TestShardedTensorChunked.test_partial_world_size",
@@ -10911,6 +10947,24 @@
     "title": "Test: DistMatrixOpsTest.test_grouped_mm",
     "url": "https://github.com/pytorch/pytorch/issues/168448",
     "created_at": "2025-11-22T00:59:49Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: ddp",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653539994,
+    "number": 168450,
+    "title": "Test: DistTensorOpsTest.test_index",
+    "url": "https://github.com/pytorch/pytorch/issues/168450",
+    "created_at": "2025-11-22T00:59:52Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
