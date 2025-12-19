@@ -3823,6 +3823,26 @@
     "archived": false
   },
   {
+    "repo": "mlflow/mlflow",
+    "id": 3411324740,
+    "number": 17702,
+    "title": "[FR] Add support to Amazon Bedrock Converse API to unlock universal support for all Bedrock models",
+    "url": "https://github.com/mlflow/mlflow/issues/17702",
+    "created_at": "2025-09-12T17:19:58Z",
+    "user": "alar0330",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "area/scoring",
+      "area/tracking",
+      "area/evaluation",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3411611165,
     "number": 7766,

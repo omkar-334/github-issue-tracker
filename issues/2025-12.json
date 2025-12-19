@@ -29382,5 +29382,73 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3746353040,
+    "number": 20397,
+    "title": "[Bug]: MultiModalVectorStoreIndex does not function correctly with chromadb when handling image embeddings.",
+    "url": "https://github.com/run-llama/llama_index/issues/20397",
+    "created_at": "2025-12-19T07:00:15Z",
+    "user": "amaheshar",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 3746362684,
+    "number": 12647,
+    "title": "Faster _fields.py collect_model_fields",
+    "url": "https://github.com/pydantic/pydantic/issues/12647",
+    "created_at": "2025-12-19T07:04:14Z",
+    "user": "peterchenadded",
+    "labels": [
+      "bug V2",
+      "pending"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3746396669,
+    "number": 19513,
+    "title": "[FR] Support search_traces() API in TypeScript SDK",
+    "url": "https://github.com/mlflow/mlflow/issues/19513",
+    "created_at": "2025-12-19T07:16:03Z",
+    "user": "B-Step62",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "area/tracing",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3746410875,
+    "number": 19514,
+    "title": "[FR] Support reasoning block in the trace UI",
+    "url": "https://github.com/mlflow/mlflow/issues/19514",
+    "created_at": "2025-12-19T07:20:36Z",
+    "user": "B-Step62",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "area/tracing",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -578,6 +578,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 2855821215,
+    "number": 147274,
+    "title": "PaddleOCR PyTorch conflicts",
+    "url": "https://github.com/pytorch/pytorch/issues/147274",
+    "created_at": "2025-02-16T01:58:03Z",
+    "user": "monkeycc",
+    "labels": [
+      "module: binaries",
+      "module: windows",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 2855901075,
     "number": 147277,
     "title": "[inductor][fuzzer] decomposition failed on `torch.unsafe_chunk` with empty size input tensor",

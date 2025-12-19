@@ -86,6 +86,24 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3192752127,
+    "number": 31802,
+    "title": "`EvaluationResult.feedback_config` silently drops unknown or partial dict fields without error",
+    "url": "https://github.com/langchain-ai/langchain/issues/31802",
+    "created_at": "2025-07-01T14:34:14Z",
+    "user": "Alioth99",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "bug",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3192890001,
     "number": 2865,
@@ -1739,6 +1757,25 @@
     "labels": [
       "bug",
       "Audio"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3230139202,
+    "number": 16724,
+    "title": "[FR] Allow user to set tracing uri display uri",
+    "url": "https://github.com/mlflow/mlflow/issues/16724",
+    "created_at": "2025-07-14T21:53:43Z",
+    "user": "kelvinhammond",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "area/docker",
+      "area/tracing",
+      "domain/genai"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

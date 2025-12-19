@@ -2296,6 +2296,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 2855821215,
+      "number": 147274,
+      "title": "PaddleOCR PyTorch conflicts",
+      "url": "https://github.com/pytorch/pytorch/issues/147274",
+      "created_at": "2025-02-16T01:58:03Z",
+      "user": "monkeycc",
+      "labels": [
+        "module: binaries",
+        "module: windows",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 2855901075,
       "number": 147277,
       "title": "[inductor][fuzzer] decomposition failed on `torch.unsafe_chunk` with empty size input tensor",
@@ -11755,6 +11772,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3192752127,
+      "number": 31802,
+      "title": "`EvaluationResult.feedback_config` silently drops unknown or partial dict fields without error",
+      "url": "https://github.com/langchain-ai/langchain/issues/31802",
+      "created_at": "2025-07-01T14:34:14Z",
+      "user": "Alioth99",
+      "labels": [
+        "documentation",
+        "help wanted",
+        "bug",
+        "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3192890001,
       "number": 2865,
@@ -13408,6 +13443,25 @@
       "labels": [
         "bug",
         "Audio"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3230139202,
+      "number": 16724,
+      "title": "[FR] Allow user to set tracing uri display uri",
+      "url": "https://github.com/mlflow/mlflow/issues/16724",
+      "created_at": "2025-07-14T21:53:43Z",
+      "user": "kelvinhammond",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/docker",
+        "area/tracing",
+        "domain/genai"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -23365,6 +23419,26 @@
       "user": "vince62s",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3411324740,
+      "number": 17702,
+      "title": "[FR] Add support to Amazon Bedrock Converse API to unlock universal support for all Bedrock models",
+      "url": "https://github.com/mlflow/mlflow/issues/17702",
+      "created_at": "2025-09-12T17:19:58Z",
+      "user": "alar0330",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/scoring",
+        "area/tracking",
+        "area/evaluation",
+        "domain/genai"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -38826,6 +38900,21 @@
       "created_at": "2025-11-07T07:17:42Z",
       "user": "kwgqjj",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3599127451,
+      "number": 28274,
+      "title": "[Bug]: Vllm loading gptq quantization of int8 accuracy Qwen3-Next-80b-A3B model error KeyError: 'layers.0.mlp.experts.w2_weight'",
+      "url": "https://github.com/vllm-project/vllm/issues/28274",
+      "created_at": "2025-11-07T07:41:13Z",
+      "user": "xiaotianns",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -85259,8 +85348,76 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3746353040,
+      "number": 20397,
+      "title": "[Bug]: MultiModalVectorStoreIndex does not function correctly with chromadb when handling image embeddings.",
+      "url": "https://github.com/run-llama/llama_index/issues/20397",
+      "created_at": "2025-12-19T07:00:15Z",
+      "user": "amaheshar",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pydantic/pydantic",
+      "id": 3746362684,
+      "number": 12647,
+      "title": "Faster _fields.py collect_model_fields",
+      "url": "https://github.com/pydantic/pydantic/issues/12647",
+      "created_at": "2025-12-19T07:04:14Z",
+      "user": "peterchenadded",
+      "labels": [
+        "bug V2",
+        "pending"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746396669,
+      "number": 19513,
+      "title": "[FR] Support search_traces() API in TypeScript SDK",
+      "url": "https://github.com/mlflow/mlflow/issues/19513",
+      "created_at": "2025-12-19T07:16:03Z",
+      "user": "B-Step62",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/tracing",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3746410875,
+      "number": 19514,
+      "title": "[FR] Support reasoning block in the trace UI",
+      "url": "https://github.com/mlflow/mlflow/issues/19514",
+      "created_at": "2025-12-19T07:20:36Z",
+      "user": "B-Step62",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "area/tracing",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-19T06:40:47Z",
-  "total_count": 5626
+  "last_updated": "2025-12-19T07:28:55Z",
+  "total_count": 5635
 }
