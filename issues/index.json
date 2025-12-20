@@ -84109,6 +84109,19 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 3741698349,
+      "number": 12859,
+      "title": "load_lora_weights(), unload_lora_weights these doesn't work with LongCatImagePipeline.",
+      "url": "https://github.com/huggingface/diffusers/issues/12859",
+      "created_at": "2025-12-18T06:40:40Z",
+      "user": "ovi054",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3741718809,
       "number": 170750,
@@ -88419,8 +88432,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3749968297,
+      "number": 13426,
+      "title": "Nested lists in `st.html()` lose their indenting",
+      "url": "https://github.com/streamlit/streamlit/issues/13426",
+      "created_at": "2025-12-20T11:28:05Z",
+      "user": "chrispy-snps",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3749980567,
+      "number": 23002,
+      "title": "cls-abnomal img",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23002",
+      "created_at": "2025-12-20T11:45:20Z",
+      "user": "liusse",
+      "labels": [
+        "question",
+        "classify"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3750020713,
+      "number": 3755,
+      "title": "[Bug] RuntimeError: `Failed to make input require gradients!` adapting Gemma 3 Vision workflow for T5Gemma 2 (Enc-Dec)",
+      "url": "https://github.com/unslothai/unsloth/issues/3755",
+      "created_at": "2025-12-20T12:38:11Z",
+      "user": "megecoban",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T11:22:29Z",
-  "total_count": 5827
+  "last_updated": "2025-12-20T12:49:42Z",
+  "total_count": 5831
 }
