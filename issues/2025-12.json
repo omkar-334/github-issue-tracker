@@ -11885,6 +11885,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3711978963,
+    "number": 20349,
+    "title": "[Bug]: `thinking_delta` not populated on AgentStream events when thinking is enabled.",
+    "url": "https://github.com/run-llama/llama_index/issues/20349",
+    "created_at": "2025-12-09T17:37:18Z",
+    "user": "alexplazas-wk",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3711979045,
     "number": 169967,
@@ -30495,6 +30511,21 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3748237869,
+    "number": 23000,
+    "title": "WandB run names do not align with the local naming convention for model outputs, when using RayTune for hyperparameter tuning",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23000",
+    "created_at": "2025-12-19T17:23:38Z",
+    "user": "rwilks-earthobs",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3748253028,
     "number": 31039,
@@ -31568,6 +31599,37 @@
     "user": "hjordache",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3750277629,
+    "number": 34436,
+    "title": "In agent, there is no suitable reasoning_content for deepseek",
+    "url": "https://github.com/langchain-ai/langchain/issues/34436",
+    "created_at": "2025-12-20T18:04:42Z",
+    "user": "wpx1997-stack",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3750282795,
+    "number": 31085,
+    "title": "[Feature]: Add SM120 (RTX 6000/5000 Blackwell) support for native NVFP4 MoE kernels",
+    "url": "https://github.com/vllm-project/vllm/issues/31085",
+    "created_at": "2025-12-20T18:11:01Z",
+    "user": "Ramalama2",
+    "labels": [
+      "feature request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
