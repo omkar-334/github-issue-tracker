@@ -129,6 +129,22 @@
     "archived": false
   },
   {
+    "repo": "facebookresearch/faiss",
+    "id": 3286637871,
+    "number": 4498,
+    "title": "FAISS with CUDA 12.8 compilation error",
+    "url": "https://github.com/facebookresearch/faiss/issues/4498",
+    "created_at": "2025-08-03T03:49:35Z",
+    "user": "zxpshadow",
+    "labels": [
+      "GPU",
+      "backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3286638585,
     "number": 3506,

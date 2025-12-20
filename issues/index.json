@@ -16382,6 +16382,22 @@
       "archived": false
     },
     {
+      "repo": "facebookresearch/faiss",
+      "id": 3286637871,
+      "number": 4498,
+      "title": "FAISS with CUDA 12.8 compilation error",
+      "url": "https://github.com/facebookresearch/faiss/issues/4498",
+      "created_at": "2025-08-03T03:49:35Z",
+      "user": "zxpshadow",
+      "labels": [
+        "GPU",
+        "backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3286638585,
       "number": 3506,
@@ -88479,8 +88495,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numba/numba",
+      "id": 3750069417,
+      "number": 10388,
+      "title": "LLVM backend code generation error on ARM64",
+      "url": "https://github.com/numba/numba/issues/10388",
+      "created_at": "2025-12-20T13:41:07Z",
+      "user": "Detrilemma",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "sktime/pytorch-forecasting",
+      "id": 3750098319,
+      "number": 2011,
+      "title": "[ENH] separate `NBeats` blocks from kan",
+      "url": "https://github.com/sktime/pytorch-forecasting/issues/2011",
+      "created_at": "2025-12-20T14:18:20Z",
+      "user": "fkiraly",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "module:layers"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T13:33:44Z",
-  "total_count": 5831
+  "last_updated": "2025-12-20T14:25:13Z",
+  "total_count": 5834
 }
