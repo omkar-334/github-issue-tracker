@@ -760,6 +760,21 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2917540941,
+    "number": 30991,
+    "title": "Halving searches crash when using a PredefinedSplit as cv",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/30991",
+    "created_at": "2025-03-13T15:16:26Z",
+    "user": "Korne127",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "gradio-app/gradio",
     "id": 2918012314,
     "number": 10803,
