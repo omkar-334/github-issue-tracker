@@ -19417,6 +19417,24 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 3358214606,
+      "number": 32709,
+      "title": "RAG model in tutorial outputs JSON without thoughts instead of saying 'I don't know'",
+      "url": "https://github.com/langchain-ai/langchain/issues/32709",
+      "created_at": "2025-08-27T06:46:51Z",
+      "user": "anupamck",
+      "labels": [
+        "documentation",
+        "help wanted",
+        "bug",
+        "investigate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3358369976,
       "number": 7751,
@@ -88310,8 +88328,99 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3749916017,
+      "number": 31081,
+      "title": "[Bug]: v0.12.0 beam search result is incorrect",
+      "url": "https://github.com/vllm-project/vllm/issues/31081",
+      "created_at": "2025-12-20T10:36:55Z",
+      "user": "stltqhs",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3749917468,
+      "number": 25844,
+      "title": "Scanning a glob of a HF dataset hits rate limit",
+      "url": "https://github.com/pola-rs/polars/issues/25844",
+      "created_at": "2025-12-20T10:38:55Z",
+      "user": "lmmx",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3749925491,
+      "number": 4730,
+      "title": "change in behavior of mean_token_accuracy from trl==0.15 to trl==0.26 when using liger-kernel",
+      "url": "https://github.com/huggingface/trl/issues/4730",
+      "created_at": "2025-12-20T10:47:04Z",
+      "user": "mvish7",
+      "labels": [
+        "🐛 bug",
+        "⚡ PEFT",
+        "⚡accelerate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3749936819,
+      "number": 13425,
+      "title": "not able to login to streamlit.io to cloud it showing Huh. This isn’t supposed to happen. Please contact support.   Error: Your account has exceeded the fair-use limits and was blocked by the system.",
+      "url": "https://github.com/streamlit/streamlit/issues/13425",
+      "created_at": "2025-12-20T10:55:14Z",
+      "user": "biswa2026",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3749940516,
+      "number": 22107,
+      "title": "Adding a linter for Django templates",
+      "url": "https://github.com/astral-sh/ruff/issues/22107",
+      "created_at": "2025-12-20T10:57:31Z",
+      "user": "ulgens",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openai/openai-python",
+      "id": 3749956228,
+      "number": 2797,
+      "title": "Model not aware of Battlefield 6 release",
+      "url": "https://github.com/openai/openai-python/issues/2797",
+      "created_at": "2025-12-20T11:11:41Z",
+      "user": "ososwdda",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T10:27:38Z",
-  "total_count": 5820
+  "last_updated": "2025-12-20T11:22:29Z",
+  "total_count": 5827
 }

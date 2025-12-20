@@ -3164,6 +3164,24 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3358214606,
+    "number": 32709,
+    "title": "RAG model in tutorial outputs JSON without thoughts instead of saying 'I don't know'",
+    "url": "https://github.com/langchain-ai/langchain/issues/32709",
+    "created_at": "2025-08-27T06:46:51Z",
+    "user": "anupamck",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "bug",
+      "investigate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3358369976,
     "number": 7751,
