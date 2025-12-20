@@ -1,91 +1,42 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 1912328309,
-    "number": 9713,
-    "title": "Add autologging support for Keras Core",
-    "url": "https://github.com/mlflow/mlflow/issues/9713",
-    "created_at": "2023-09-25T21:45:06Z",
-    "user": "chenmoneygithub",
+    "repo": "matplotlib/matplotlib",
+    "id": 1327549710,
+    "number": 23544,
+    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
+    "created_at": "2022-08-03T17:08:28Z",
+    "user": "scottshambaugh",
     "labels": [
-      "stale"
+      "New feature",
+      "topic: mplot3d"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1916241842,
-    "number": 9733,
-    "title": "What value does the server TrackingStoreRegistryWrapper have over TrackingStoreRegistry?",
-    "url": "https://github.com/mlflow/mlflow/issues/9733",
-    "created_at": "2023-09-27T20:10:47Z",
-    "user": "DidgetyTech",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1916619803,
-    "number": 9744,
-    "title": "[OSS Community] Audit docstring",
-    "url": "https://github.com/mlflow/mlflow/issues/9744",
-    "created_at": "2023-09-28T02:56:31Z",
-    "user": "chenmoneygithub",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "keras-team/keras-tuner",
-    "id": 2749373076,
-    "number": 1032,
-    "title": "Tuning leads to `All-NaN axis encountered` after long time",
-    "url": "https://github.com/keras-team/keras-tuner/issues/1032",
-    "created_at": "2024-12-19T06:20:34Z",
-    "user": "GhostDog98",
-    "labels": [
-      "bug"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/audio",
-    "id": 2750840732,
-    "number": 3865,
-    "title": "TypeError: unsupported operand type(s) for //: 'NoneType' and 'int'",
-    "url": "https://github.com/pytorch/audio/issues/3865",
-    "created_at": "2024-12-19T16:19:58Z",
-    "user": "kabyanil",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/torchchat",
-    "id": 2750899551,
-    "number": 1430,
-    "title": "[KNOWN BUG] Broken Support for TextOnly Models from torchtune ",
-    "url": "https://github.com/pytorch/torchchat/issues/1430",
-    "created_at": "2024-12-19T16:41:44Z",
-    "user": "Jack-Khuu",
-    "labels": [
-      "bug",
-      "Known Gaps",
-      "triaged",
-      "torchtune"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

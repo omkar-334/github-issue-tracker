@@ -9577,6 +9577,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3119100340,
+      "number": 19161,
+      "title": "[RFC]: Enhancing vLLM Plugin Architecture",
+      "url": "https://github.com/vllm-project/vllm/issues/19161",
+      "created_at": "2025-06-04T20:59:37Z",
+      "user": "kzawora-intel",
+      "labels": [
+        "RFC",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 3119573879,
       "number": 5618,
@@ -13508,6 +13524,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3225214588,
+      "number": 20860,
+      "title": "[Bug]: Ray + vLLM failing to automatically release GPU memory when tensor parallelism size (tp_size) > 1",
+      "url": "https://github.com/vllm-project/vllm/issues/20860",
+      "created_at": "2025-07-12T11:11:25Z",
+      "user": "ShiyuNee",
+      "labels": [
+        "bug",
+        "ray",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/text",
       "id": 3225239965,
       "number": 2294,
@@ -14597,6 +14630,22 @@
         "core-runtime-env",
         "jobs",
         "stability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3246902541,
+      "number": 21274,
+      "title": "[Bug]: nvfp4 support on sm120",
+      "url": "https://github.com/vllm-project/vllm/issues/21274",
+      "created_at": "2025-07-21T01:23:23Z",
+      "user": "qibaoyuan",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -15890,6 +15939,22 @@
       "labels": [
         "stat:contributions welcome",
         "team-created"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3275140902,
+      "number": 21873,
+      "title": "[Usage]: Qwen 2.5 VL 7B throughput",
+      "url": "https://github.com/vllm-project/vllm/issues/21873",
+      "created_at": "2025-07-29T22:29:31Z",
+      "user": "gnagarajan2",
+      "labels": [
+        "usage",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18483,6 +18548,25 @@
       "labels": [
         "enhancement",
         "segment"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3336098540,
+      "number": 23217,
+      "title": "[Feature]: GPT-OSS harmony format support",
+      "url": "https://github.com/vllm-project/vllm/issues/23217",
+      "created_at": "2025-08-20T00:12:15Z",
+      "user": "heheda12345",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature request",
+        "stale",
+        "gpt-oss"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -24638,6 +24722,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3419543965,
+      "number": 24917,
+      "title": "[Performance]: Fuse padding onto GEMM by making the GEMM out-of-place",
+      "url": "https://github.com/vllm-project/vllm/issues/24917",
+      "created_at": "2025-09-15T21:11:34Z",
+      "user": "ProExpertProg",
+      "labels": [
+        "performance",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3419873310,
       "number": 14595,
@@ -24857,6 +24957,22 @@
       "user": "cemde",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3423071700,
+      "number": 24980,
+      "title": "[Bug]: Loading `spinquant` Model Fails Due to Hardware Capability Check and Weight Loading Errors",
+      "url": "https://github.com/vllm-project/vllm/issues/24980",
+      "created_at": "2025-09-16T16:59:39Z",
+      "user": "HelloCard",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -25503,6 +25619,23 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3428921782,
+      "number": 25144,
+      "title": "[RFC]: vLLM’s Path to Sustainable CI/CD",
+      "url": "https://github.com/vllm-project/vllm/issues/25144",
+      "created_at": "2025-09-18T06:54:18Z",
+      "user": "yeqcharlotte",
+      "labels": [
+        "RFC",
+        "ci/build",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3429207072,
       "number": 25147,
       "title": "[Doc]: vllm performance dashboard configuration",
@@ -25791,6 +25924,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3432595614,
+      "number": 25225,
+      "title": "[Bug]: CUDA error during start the vllm serve",
+      "url": "https://github.com/vllm-project/vllm/issues/25225",
+      "created_at": "2025-09-19T03:30:06Z",
+      "user": "gameboy777x",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3432701593,
       "number": 1725,
@@ -25799,6 +25948,22 @@
       "created_at": "2025-09-19T04:26:08Z",
       "user": "yosoyjay",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3432926745,
+      "number": 25229,
+      "title": "[Bug]: Deepseek vl2 model decoding phase has a very worse performance in both online and offline inference",
+      "url": "https://github.com/vllm-project/vllm/issues/25229",
+      "created_at": "2025-09-19T05:45:14Z",
+      "user": "beyondHJM",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -25840,6 +26005,38 @@
       "created_at": "2025-09-19T07:31:29Z",
       "user": "yurivict",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3433268443,
+      "number": 25234,
+      "title": "[Usage]: How to enable the thinking mode in deepseekv3.1 by default？",
+      "url": "https://github.com/vllm-project/vllm/issues/25234",
+      "created_at": "2025-09-19T07:42:20Z",
+      "user": "LeeX852",
+      "labels": [
+        "usage",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3433298154,
+      "number": 25236,
+      "title": "[Bug]: llm.chat does crashes when using gpt-oss 20b",
+      "url": "https://github.com/vllm-project/vllm/issues/25236",
+      "created_at": "2025-09-19T07:51:31Z",
+      "user": "HTuennermann",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -26036,6 +26233,21 @@
       "user": "seungduk-yanolja",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3437314763,
+      "number": 25316,
+      "title": "logic on `enable_chunked_prefill` is bit of chaotic",
+      "url": "https://github.com/vllm-project/vllm/issues/25316",
+      "created_at": "2025-09-20T16:59:32Z",
+      "user": "xianxingg",
+      "labels": [
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -87610,8 +87822,113 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3749411399,
+      "number": 24208,
+      "title": "BUG: ndimage: uninitialized variable \"icoor\" in NI_GeometricTransform",
+      "url": "https://github.com/scipy/scipy/issues/24208",
+      "created_at": "2025-12-20T02:01:22Z",
+      "user": "stratakis",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749436326,
+      "number": 170934,
+      "title": "[DTensor] index_put on sharded dimension fails",
+      "url": "https://github.com/pytorch/pytorch/issues/170934",
+      "created_at": "2025-12-20T02:29:09Z",
+      "user": "pianpwk",
+      "labels": [
+        "module: dtensor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3749441753,
+      "number": 31056,
+      "title": "[Bug]: GLM4-MoE AssertionError with --all2all-backend pplx (dtype mismatch)",
+      "url": "https://github.com/vllm-project/vllm/issues/31056",
+      "created_at": "2025-12-20T02:33:28Z",
+      "user": "ReinforcedKnowledge",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749462549,
+      "number": 170936,
+      "title": "NaN-checking anomaly mode should work with DTensor",
+      "url": "https://github.com/pytorch/pytorch/issues/170936",
+      "created_at": "2025-12-20T02:49:36Z",
+      "user": "ezyang",
+      "labels": [
+        "module: dtensor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749463913,
+      "number": 170937,
+      "title": "[Inductor] F.lp_pool{1,2,3}d fail with OverflowError when norm_type=float('inf')",
+      "url": "https://github.com/pytorch/pytorch/issues/170937",
+      "created_at": "2025-12-20T02:51:41Z",
+      "user": "lingebeng",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749473802,
+      "number": 170939,
+      "title": "[Inductor] F.pdist fails with \"RuntimeError: _pdist_forward requires contiguous input\" on non-contiguous inputs",
+      "url": "https://github.com/pytorch/pytorch/issues/170939",
+      "created_at": "2025-12-20T03:06:03Z",
+      "user": "lingebeng",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3749481640,
+      "number": 59603,
+      "title": "[CI] `linux://python/ray/tests:test_task_metrics` is failing/flaky on master.",
+      "url": "https://github.com/ray-project/ray/issues/59603",
+      "created_at": "2025-12-20T03:15:55Z",
+      "user": "codope",
+      "labels": [
+        "flaky-tracker"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T01:55:18Z",
-  "total_count": 5774
+  "last_updated": "2025-12-20T03:22:27Z",
+  "total_count": 5794
 }

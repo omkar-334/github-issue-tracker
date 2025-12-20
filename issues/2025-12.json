@@ -30908,5 +30908,110 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3749411399,
+    "number": 24208,
+    "title": "BUG: ndimage: uninitialized variable \"icoor\" in NI_GeometricTransform",
+    "url": "https://github.com/scipy/scipy/issues/24208",
+    "created_at": "2025-12-20T02:01:22Z",
+    "user": "stratakis",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749436326,
+    "number": 170934,
+    "title": "[DTensor] index_put on sharded dimension fails",
+    "url": "https://github.com/pytorch/pytorch/issues/170934",
+    "created_at": "2025-12-20T02:29:09Z",
+    "user": "pianpwk",
+    "labels": [
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3749441753,
+    "number": 31056,
+    "title": "[Bug]: GLM4-MoE AssertionError with --all2all-backend pplx (dtype mismatch)",
+    "url": "https://github.com/vllm-project/vllm/issues/31056",
+    "created_at": "2025-12-20T02:33:28Z",
+    "user": "ReinforcedKnowledge",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749462549,
+    "number": 170936,
+    "title": "NaN-checking anomaly mode should work with DTensor",
+    "url": "https://github.com/pytorch/pytorch/issues/170936",
+    "created_at": "2025-12-20T02:49:36Z",
+    "user": "ezyang",
+    "labels": [
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749463913,
+    "number": 170937,
+    "title": "[Inductor] F.lp_pool{1,2,3}d fail with OverflowError when norm_type=float('inf')",
+    "url": "https://github.com/pytorch/pytorch/issues/170937",
+    "created_at": "2025-12-20T02:51:41Z",
+    "user": "lingebeng",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749473802,
+    "number": 170939,
+    "title": "[Inductor] F.pdist fails with \"RuntimeError: _pdist_forward requires contiguous input\" on non-contiguous inputs",
+    "url": "https://github.com/pytorch/pytorch/issues/170939",
+    "created_at": "2025-12-20T03:06:03Z",
+    "user": "lingebeng",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3749481640,
+    "number": 59603,
+    "title": "[CI] `linux://python/ray/tests:test_task_metrics` is failing/flaky on master.",
+    "url": "https://github.com/ray-project/ray/issues/59603",
+    "created_at": "2025-12-20T03:15:55Z",
+    "user": "codope",
+    "labels": [
+      "flaky-tracker"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

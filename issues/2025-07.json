@@ -1498,6 +1498,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3225214588,
+    "number": 20860,
+    "title": "[Bug]: Ray + vLLM failing to automatically release GPU memory when tensor parallelism size (tp_size) > 1",
+    "url": "https://github.com/vllm-project/vllm/issues/20860",
+    "created_at": "2025-07-12T11:11:25Z",
+    "user": "ShiyuNee",
+    "labels": [
+      "bug",
+      "ray",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/text",
     "id": 3225239965,
     "number": 2294,
@@ -2587,6 +2604,22 @@
       "core-runtime-env",
       "jobs",
       "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3246902541,
+    "number": 21274,
+    "title": "[Bug]: nvfp4 support on sm120",
+    "url": "https://github.com/vllm-project/vllm/issues/21274",
+    "created_at": "2025-07-21T01:23:23Z",
+    "user": "qibaoyuan",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3880,6 +3913,22 @@
     "labels": [
       "stat:contributions welcome",
       "team-created"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3275140902,
+    "number": 21873,
+    "title": "[Usage]: Qwen 2.5 VL 7B throughput",
+    "url": "https://github.com/vllm-project/vllm/issues/21873",
+    "created_at": "2025-07-29T22:29:31Z",
+    "user": "gnagarajan2",
+    "labels": [
+      "usage",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

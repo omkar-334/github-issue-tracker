@@ -4626,6 +4626,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3419543965,
+    "number": 24917,
+    "title": "[Performance]: Fuse padding onto GEMM by making the GEMM out-of-place",
+    "url": "https://github.com/vllm-project/vllm/issues/24917",
+    "created_at": "2025-09-15T21:11:34Z",
+    "user": "ProExpertProg",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3419873310,
     "number": 14595,
@@ -4845,6 +4861,22 @@
     "user": "cemde",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3423071700,
+    "number": 24980,
+    "title": "[Bug]: Loading `spinquant` Model Fails Due to Hardware Capability Check and Weight Loading Errors",
+    "url": "https://github.com/vllm-project/vllm/issues/24980",
+    "created_at": "2025-09-16T16:59:39Z",
+    "user": "HelloCard",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -5491,6 +5523,23 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3428921782,
+    "number": 25144,
+    "title": "[RFC]: vLLM’s Path to Sustainable CI/CD",
+    "url": "https://github.com/vllm-project/vllm/issues/25144",
+    "created_at": "2025-09-18T06:54:18Z",
+    "user": "yeqcharlotte",
+    "labels": [
+      "RFC",
+      "ci/build",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3429207072,
     "number": 25147,
     "title": "[Doc]: vllm performance dashboard configuration",
@@ -5779,6 +5828,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3432595614,
+    "number": 25225,
+    "title": "[Bug]: CUDA error during start the vllm serve",
+    "url": "https://github.com/vllm-project/vllm/issues/25225",
+    "created_at": "2025-09-19T03:30:06Z",
+    "user": "gameboy777x",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3432701593,
     "number": 1725,
@@ -5787,6 +5852,22 @@
     "created_at": "2025-09-19T04:26:08Z",
     "user": "yosoyjay",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3432926745,
+    "number": 25229,
+    "title": "[Bug]: Deepseek vl2 model decoding phase has a very worse performance in both online and offline inference",
+    "url": "https://github.com/vllm-project/vllm/issues/25229",
+    "created_at": "2025-09-19T05:45:14Z",
+    "user": "beyondHJM",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -5828,6 +5909,38 @@
     "created_at": "2025-09-19T07:31:29Z",
     "user": "yurivict",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3433268443,
+    "number": 25234,
+    "title": "[Usage]: How to enable the thinking mode in deepseekv3.1 by default？",
+    "url": "https://github.com/vllm-project/vllm/issues/25234",
+    "created_at": "2025-09-19T07:42:20Z",
+    "user": "LeeX852",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3433298154,
+    "number": 25236,
+    "title": "[Bug]: llm.chat does crashes when using gpt-oss 20b",
+    "url": "https://github.com/vllm-project/vllm/issues/25236",
+    "created_at": "2025-09-19T07:51:31Z",
+    "user": "HTuennermann",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -6024,6 +6137,21 @@
     "user": "seungduk-yanolja",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3437314763,
+    "number": 25316,
+    "title": "logic on `enable_chunked_prefill` is bit of chaotic",
+    "url": "https://github.com/vllm-project/vllm/issues/25316",
+    "created_at": "2025-09-20T16:59:32Z",
+    "user": "xianxingg",
+    "labels": [
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
