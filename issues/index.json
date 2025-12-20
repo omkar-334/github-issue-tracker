@@ -88210,8 +88210,50 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749833216,
+      "number": 170954,
+      "title": "`torch.linspace(0, 999, 20).long()` produces an out-of-range value 1000",
+      "url": "https://github.com/pytorch/pytorch/issues/170954",
+      "created_at": "2025-12-20T09:12:31Z",
+      "user": "HiDolen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3749836169,
+      "number": 21437,
+      "title": "MLflow model format required for the Register Model",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21437",
+      "created_at": "2025-12-20T09:16:01Z",
+      "user": "GustavoDCC",
+      "labels": [
+        "feature",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749842356,
+      "number": 170955,
+      "title": "`grouped_mm` does grouping on CPU on 5060 Ti (Windows)",
+      "url": "https://github.com/pytorch/pytorch/issues/170955",
+      "created_at": "2025-12-20T09:23:26Z",
+      "user": "lostmsu",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T08:34:11Z",
-  "total_count": 5813
+  "last_updated": "2025-12-20T09:27:38Z",
+  "total_count": 5816
 }
