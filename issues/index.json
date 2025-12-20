@@ -88122,8 +88122,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749666306,
+      "number": 170948,
+      "title": "torch.compile fails with tiny constants (1e-56)",
+      "url": "https://github.com/pytorch/pytorch/issues/170948",
+      "created_at": "2025-12-20T06:47:05Z",
+      "user": "ad8e",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "open-mmlab/mmdetection",
+      "id": 3749678422,
+      "number": 12422,
+      "title": "为什么我5070的显卡跑这个一直会报错，我按照其他人提供的50系列的配置环境也不行",
+      "url": "https://github.com/open-mmlab/mmdetection/issues/12422",
+      "created_at": "2025-12-20T06:59:23Z",
+      "user": "mzq1158582537-lab",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3749680960,
+      "number": 23001,
+      "title": "New version project migration",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23001",
+      "created_at": "2025-12-20T07:02:04Z",
+      "user": "nezcs",
+      "labels": [
+        "question",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T06:39:14Z",
-  "total_count": 5807
+  "last_updated": "2025-12-20T07:25:15Z",
+  "total_count": 5810
 }
