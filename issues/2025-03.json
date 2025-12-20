@@ -1037,6 +1037,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2929963551,
+    "number": 149447,
+    "title": "DTensor slicing on sharded dimension leads to replication",
+    "url": "https://github.com/pytorch/pytorch/issues/149447",
+    "created_at": "2025-03-18T22:00:52Z",
+    "user": "garrett361",
+    "labels": [
+      "high priority",
+      "triage review",
+      "oncall: distributed",
+      "triaged",
+      "module: dtensor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 2930130677,
     "number": 2218,

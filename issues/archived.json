@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 2400641587,
+    "number": 59221,
+    "title": "ENH: Replacing behavior currently provided by pandas.to_numeric using errors=\"ignore\"",
+    "url": "https://github.com/pandas-dev/pandas/issues/59221",
+    "created_at": "2024-07-10T12:33:59Z",
+    "user": "ahobeost",
+    "labels": [
+      "Enhancement",
+      "Needs Discussion",
+      "Closing Candidate"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
