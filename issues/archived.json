@@ -1,38 +1,5 @@
 [
   {
-    "repo": "numpy/numpy",
-    "id": 273607590,
-    "number": 10019,
-    "title": "histogram doesn't always work with masked arrays",
-    "url": "https://github.com/numpy/numpy/issues/10019",
-    "created_at": "2017-11-13T22:54:32Z",
-    "user": "fredrik-1",
-    "labels": [
-      "component: numpy.ma"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 1284311322,
-    "number": 80256,
-    "title": "[complex] dropout and it's variants should support complex tensors",
-    "url": "https://github.com/pytorch/pytorch/issues/80256",
-    "created_at": "2022-06-24T23:31:44Z",
-    "user": "kshitij12345",
-    "labels": [
-      "feature",
-      "module: nn",
-      "triaged",
-      "module: complex"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "matplotlib/matplotlib",
     "id": 1549563250,
     "number": 25032,
