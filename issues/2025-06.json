@@ -243,6 +243,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3112110725,
+    "number": 19044,
+    "title": "[Usage]: TorchDispatchMode does not work for vllm",
+    "url": "https://github.com/vllm-project/vllm/issues/19044",
+    "created_at": "2025-06-03T01:59:54Z",
+    "user": "helunwencser",
+    "labels": [
+      "usage",
+      "torch.compile",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3112279447,
     "number": 3030,

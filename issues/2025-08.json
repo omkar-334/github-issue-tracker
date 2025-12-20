@@ -3517,6 +3517,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3364916622,
+    "number": 23865,
+    "title": "[Bug]: CI not running all tests/compile tests",
+    "url": "https://github.com/vllm-project/vllm/issues/23865",
+    "created_at": "2025-08-28T23:08:04Z",
+    "user": "zou3519",
+    "labels": [
+      "bug",
+      "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3365166619,
     "number": 3505,
@@ -3595,6 +3611,22 @@
     "created_at": "2025-08-29T18:32:23Z",
     "user": "relativity-codes",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3368332269,
+    "number": 23970,
+    "title": "[Bug]: Torch Compilation Failure for Gemma3n with LoRA Support - Dynamic Shape Constraints Violated",
+    "url": "https://github.com/vllm-project/vllm/issues/23970",
+    "created_at": "2025-08-29T22:13:07Z",
+    "user": "pratapyash",
+    "labels": [
+      "bug",
+      "torch.compile"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

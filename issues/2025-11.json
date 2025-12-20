@@ -809,6 +809,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3583429969,
+    "number": 27998,
+    "title": "[Bug]: Sequence Parallel Pass doesn't work for MoE models",
+    "url": "https://github.com/vllm-project/vllm/issues/27998",
+    "created_at": "2025-11-03T19:28:55Z",
+    "user": "jasonlizhengjian",
+    "labels": [
+      "bug",
+      "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "chroma-core/chroma",
     "id": 3583615005,
     "number": 5791,
@@ -1251,6 +1267,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3588402912,
+    "number": 28077,
+    "title": "[Bug]: Compile Mode Will Cause Error",
+    "url": "https://github.com/vllm-project/vllm/issues/28077",
+    "created_at": "2025-11-04T23:09:26Z",
+    "user": "NorthmanPKU",
+    "labels": [
+      "bug",
+      "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3588464033,
     "number": 30727,
@@ -1552,6 +1584,21 @@
       "oncall: pt2",
       "upstream triton",
       "module: floatx (formerly float8)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3591728119,
+    "number": 28137,
+    "title": "[Feature]: Refactor `aiter_shared_expert_fusion`",
+    "url": "https://github.com/vllm-project/vllm/issues/28137",
+    "created_at": "2025-11-05T15:54:09Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "help wanted"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -3765,6 +3812,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3609087679,
+    "number": 28408,
+    "title": "[Feature]: Generalize RoutingMethodType for broader MoE routing control",
+    "url": "https://github.com/vllm-project/vllm/issues/28408",
+    "created_at": "2025-11-10T17:52:48Z",
+    "user": "mgoin",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3609398760,
     "number": 30738,
@@ -3781,6 +3843,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3609826156,
+    "number": 28423,
+    "title": "[Feature][Kernels]: Integrate FlashInfer MoE Fused Finalize",
+    "url": "https://github.com/vllm-project/vllm/issues/28423",
+    "created_at": "2025-11-10T21:50:36Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "feature request",
+      "torch.compile"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3609854930,
     "number": 63068,
@@ -3791,6 +3869,21 @@
     "labels": [
       "Docs",
       "Timestamp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3609884878,
+    "number": 28427,
+    "title": "[Feature][Kernel]: DeepSeek-R1 KV Proj is Too Slow for TP",
+    "url": "https://github.com/vllm-project/vllm/issues/28427",
+    "created_at": "2025-11-10T22:09:39Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "feature request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7791,6 +7884,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3635232007,
+    "number": 28882,
+    "title": "[Bug]: [H200] DeepSeek-R1 EP 1.5x TTFT due to MoE backend behavior changes",
+    "url": "https://github.com/vllm-project/vllm/issues/28882",
+    "created_at": "2025-11-17T21:56:08Z",
+    "user": "jhaotingc",
+    "labels": [
+      "bug",
+      "deepseek"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3635293595,
     "number": 28883,
     "title": "[Tracking Issue][Performance]: (G)B200/300 performance improvements",
@@ -7815,6 +7924,38 @@
     "user": "giltirn",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3635445810,
+    "number": 28887,
+    "title": "[Bug]: [H200] DeepSeek R1 `--enable-expert-parallel True` is slower than `False`.",
+    "url": "https://github.com/vllm-project/vllm/issues/28887",
+    "created_at": "2025-11-17T23:23:51Z",
+    "user": "jhaotingc",
+    "labels": [
+      "bug",
+      "deepseek"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3635509920,
+    "number": 28889,
+    "title": "[Feature]: More control over expert parallelism (--moe_ep_size, --moe_tp_size)",
+    "url": "https://github.com/vllm-project/vllm/issues/28889",
+    "created_at": "2025-11-17T23:54:53Z",
+    "user": "jhaotingc",
+    "labels": [
+      "feature request",
+      "deepseek"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -7064,6 +7064,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3454629007,
+    "number": 25700,
+    "title": "[RFC]: Limit the use of envvars in vLLM",
+    "url": "https://github.com/vllm-project/vllm/issues/25700",
+    "created_at": "2025-09-25T18:13:19Z",
+    "user": "zhuohan123",
+    "labels": [
+      "good first issue",
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3455230264,
     "number": 3191,

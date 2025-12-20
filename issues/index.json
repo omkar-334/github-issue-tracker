@@ -9452,6 +9452,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3112110725,
+      "number": 19044,
+      "title": "[Usage]: TorchDispatchMode does not work for vllm",
+      "url": "https://github.com/vllm-project/vllm/issues/19044",
+      "created_at": "2025-06-03T01:59:54Z",
+      "user": "helunwencser",
+      "labels": [
+        "usage",
+        "torch.compile",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchrec",
       "id": 3112279447,
       "number": 3030,
@@ -12245,6 +12262,23 @@
       "created_at": "2025-07-01T23:45:04Z",
       "user": "groklab",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3194100776,
+      "number": 20342,
+      "title": "[Bug]: V1 pre-compiled graph loading much slower than V0",
+      "url": "https://github.com/vllm-project/vllm/issues/20342",
+      "created_at": "2025-07-01T23:47:53Z",
+      "user": "OscarSavNS",
+      "labels": [
+        "bug",
+        "torch.compile",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -19864,6 +19898,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3364916622,
+      "number": 23865,
+      "title": "[Bug]: CI not running all tests/compile tests",
+      "url": "https://github.com/vllm-project/vllm/issues/23865",
+      "created_at": "2025-08-28T23:08:04Z",
+      "user": "zou3519",
+      "labels": [
+        "bug",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3365166619,
       "number": 3505,
@@ -19942,6 +19992,22 @@
       "created_at": "2025-08-29T18:32:23Z",
       "user": "relativity-codes",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3368332269,
+      "number": 23970,
+      "title": "[Bug]: Torch Compilation Failure for Gemma3n with LoRA Support - Dynamic Shape Constraints Violated",
+      "url": "https://github.com/vllm-project/vllm/issues/23970",
+      "created_at": "2025-08-29T22:13:07Z",
+      "user": "pratapyash",
+      "labels": [
+        "bug",
+        "torch.compile"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -27299,6 +27365,22 @@
         "oncall: pt2",
         "module: inductor",
         "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3454629007,
+      "number": 25700,
+      "title": "[RFC]: Limit the use of envvars in vLLM",
+      "url": "https://github.com/vllm-project/vllm/issues/25700",
+      "created_at": "2025-09-25T18:13:19Z",
+      "user": "zhuohan123",
+      "labels": [
+        "good first issue",
+        "RFC"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -35628,6 +35710,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3563160803,
+      "number": 27680,
+      "title": "☂️[AMD][CI Failure]: AMD CI Issues Master",
+      "url": "https://github.com/vllm-project/vllm/issues/27680",
+      "created_at": "2025-10-28T19:58:46Z",
+      "user": "zhewenl",
+      "labels": [
+        "rocm",
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/tokenizers",
       "id": 3563264623,
       "number": 153,
@@ -38137,6 +38235,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3583429969,
+      "number": 27998,
+      "title": "[Bug]: Sequence Parallel Pass doesn't work for MoE models",
+      "url": "https://github.com/vllm-project/vllm/issues/27998",
+      "created_at": "2025-11-03T19:28:55Z",
+      "user": "jasonlizhengjian",
+      "labels": [
+        "bug",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "chroma-core/chroma",
       "id": 3583615005,
       "number": 5791,
@@ -38579,6 +38693,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3588402912,
+      "number": 28077,
+      "title": "[Bug]: Compile Mode Will Cause Error",
+      "url": "https://github.com/vllm-project/vllm/issues/28077",
+      "created_at": "2025-11-04T23:09:26Z",
+      "user": "NorthmanPKU",
+      "labels": [
+        "bug",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3588464033,
       "number": 30727,
@@ -38880,6 +39010,21 @@
         "oncall: pt2",
         "upstream triton",
         "module: floatx (formerly float8)"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3591728119,
+      "number": 28137,
+      "title": "[Feature]: Refactor `aiter_shared_expert_fusion`",
+      "url": "https://github.com/vllm-project/vllm/issues/28137",
+      "created_at": "2025-11-05T15:54:09Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "help wanted"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41109,6 +41254,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3609087679,
+      "number": 28408,
+      "title": "[Feature]: Generalize RoutingMethodType for broader MoE routing control",
+      "url": "https://github.com/vllm-project/vllm/issues/28408",
+      "created_at": "2025-11-10T17:52:48Z",
+      "user": "mgoin",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3609398760,
       "number": 30738,
@@ -41125,6 +41285,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3609826156,
+      "number": 28423,
+      "title": "[Feature][Kernels]: Integrate FlashInfer MoE Fused Finalize",
+      "url": "https://github.com/vllm-project/vllm/issues/28423",
+      "created_at": "2025-11-10T21:50:36Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "feature request",
+        "torch.compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3609854930,
       "number": 63068,
@@ -41135,6 +41311,21 @@
       "labels": [
         "Docs",
         "Timestamp"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3609884878,
+      "number": 28427,
+      "title": "[Feature][Kernel]: DeepSeek-R1 KV Proj is Too Slow for TP",
+      "url": "https://github.com/vllm-project/vllm/issues/28427",
+      "created_at": "2025-11-10T22:09:39Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "feature request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -45135,6 +45326,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3635232007,
+      "number": 28882,
+      "title": "[Bug]: [H200] DeepSeek-R1 EP 1.5x TTFT due to MoE backend behavior changes",
+      "url": "https://github.com/vllm-project/vllm/issues/28882",
+      "created_at": "2025-11-17T21:56:08Z",
+      "user": "jhaotingc",
+      "labels": [
+        "bug",
+        "deepseek"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3635293595,
       "number": 28883,
       "title": "[Tracking Issue][Performance]: (G)B200/300 performance improvements",
@@ -45159,6 +45366,38 @@
       "user": "giltirn",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3635445810,
+      "number": 28887,
+      "title": "[Bug]: [H200] DeepSeek R1 `--enable-expert-parallel True` is slower than `False`.",
+      "url": "https://github.com/vllm-project/vllm/issues/28887",
+      "created_at": "2025-11-17T23:23:51Z",
+      "user": "jhaotingc",
+      "labels": [
+        "bug",
+        "deepseek"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3635509920,
+      "number": 28889,
+      "title": "[Feature]: More control over expert parallelism (--moe_ep_size, --moe_tp_size)",
+      "url": "https://github.com/vllm-project/vllm/issues/28889",
+      "created_at": "2025-11-17T23:54:53Z",
+      "user": "jhaotingc",
+      "labels": [
+        "feature request",
+        "deepseek"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -88858,8 +89097,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3750433734,
+      "number": 63442,
+      "title": "API: read_json should follow general default of microseconds",
+      "url": "https://github.com/pandas-dev/pandas/issues/63442",
+      "created_at": "2025-12-20T21:23:15Z",
+      "user": "jorisvandenbossche",
+      "labels": [
+        "IO JSON",
+        "Timestamp"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3750457982,
+      "number": 12864,
+      "title": "Please create a Diffusers SKILL for Claude and a Diffusers Plugin for Claude Code",
+      "url": "https://github.com/huggingface/diffusers/issues/12864",
+      "created_at": "2025-12-20T21:52:41Z",
+      "user": "Emasoft",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3750458964,
+      "number": 59608,
+      "title": "[RLlib] DreamerV3: Add support for MultiDiscrete action spaces",
+      "url": "https://github.com/ray-project/ray/issues/59608",
+      "created_at": "2025-12-20T21:54:10Z",
+      "user": "merhovon",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3750461676,
+      "number": 34439,
+      "title": "Reasoning trace is not being returned when using an AzureChatOpenAI model from Microsoft Foundry",
+      "url": "https://github.com/langchain-ai/langchain/issues/34439",
+      "created_at": "2025-12-20T21:57:17Z",
+      "user": "jackirvine97",
+      "labels": [
+        "bug",
+        "openai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3750469805,
+      "number": 31086,
+      "title": "[Bug][ROCm]: Triton attention with vision input fails: case study Pixtral ",
+      "url": "https://github.com/vllm-project/vllm/issues/31086",
+      "created_at": "2025-12-20T22:09:31Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "bug",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T21:23:34Z",
-  "total_count": 5855
+  "last_updated": "2025-12-20T22:25:43Z",
+  "total_count": 5875
 }

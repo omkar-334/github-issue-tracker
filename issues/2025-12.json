@@ -31705,5 +31705,82 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3750433734,
+    "number": 63442,
+    "title": "API: read_json should follow general default of microseconds",
+    "url": "https://github.com/pandas-dev/pandas/issues/63442",
+    "created_at": "2025-12-20T21:23:15Z",
+    "user": "jorisvandenbossche",
+    "labels": [
+      "IO JSON",
+      "Timestamp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3750457982,
+    "number": 12864,
+    "title": "Please create a Diffusers SKILL for Claude and a Diffusers Plugin for Claude Code",
+    "url": "https://github.com/huggingface/diffusers/issues/12864",
+    "created_at": "2025-12-20T21:52:41Z",
+    "user": "Emasoft",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3750458964,
+    "number": 59608,
+    "title": "[RLlib] DreamerV3: Add support for MultiDiscrete action spaces",
+    "url": "https://github.com/ray-project/ray/issues/59608",
+    "created_at": "2025-12-20T21:54:10Z",
+    "user": "merhovon",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3750461676,
+    "number": 34439,
+    "title": "Reasoning trace is not being returned when using an AzureChatOpenAI model from Microsoft Foundry",
+    "url": "https://github.com/langchain-ai/langchain/issues/34439",
+    "created_at": "2025-12-20T21:57:17Z",
+    "user": "jackirvine97",
+    "labels": [
+      "bug",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3750469805,
+    "number": 31086,
+    "title": "[Bug][ROCm]: Triton attention with vision input fails: case study Pixtral ",
+    "url": "https://github.com/vllm-project/vllm/issues/31086",
+    "created_at": "2025-12-20T22:09:31Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

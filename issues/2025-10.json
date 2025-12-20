@@ -7369,6 +7369,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3563160803,
+    "number": 27680,
+    "title": "☂️[AMD][CI Failure]: AMD CI Issues Master",
+    "url": "https://github.com/vllm-project/vllm/issues/27680",
+    "created_at": "2025-10-28T19:58:46Z",
+    "user": "zhewenl",
+    "labels": [
+      "rocm",
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/tokenizers",
     "id": 3563264623,
     "number": 153,
