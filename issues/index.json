@@ -29428,6 +29428,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3491706659,
+      "number": 3418,
+      "title": "[Bug] Potential regression in VRAM usage",
+      "url": "https://github.com/unslothai/unsloth/issues/3418",
+      "created_at": "2025-10-07T14:19:34Z",
+      "user": "mags0ft",
+      "labels": [
+        "unsure bug?"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3491766218,
       "number": 18171,
@@ -88525,8 +88540,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3750144911,
+      "number": 42971,
+      "title": "Please create a Huggingface Transformers SKILL for Claude",
+      "url": "https://github.com/huggingface/transformers/issues/42971",
+      "created_at": "2025-12-20T15:17:03Z",
+      "user": "Emasoft",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T14:25:13Z",
-  "total_count": 5834
+  "last_updated": "2025-12-20T15:26:16Z",
+  "total_count": 5836
 }
