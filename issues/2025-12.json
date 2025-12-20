@@ -605,6 +605,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3680829676,
+    "number": 22857,
+    "title": "bounding boxes for yolo training",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22857",
+    "created_at": "2025-12-01T12:41:10Z",
+    "user": "sarabhan",
+    "labels": [
+      "question",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3680870356,
     "number": 30341,
@@ -2162,6 +2178,22 @@
     "created_at": "2025-12-02T14:12:20Z",
     "user": "AdrianLundell",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3686053298,
+    "number": 22865,
+    "title": "Which activation is used for classification in detection task - Softmax or Sigmoid",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22865",
+    "created_at": "2025-12-02T14:15:31Z",
+    "user": "RahulRewale",
+    "labels": [
+      "question",
+      "detect"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -29418,6 +29450,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3746119132,
+    "number": 170854,
+    "title": "DISABLED test_template_bad_epilogue_fusion_use_async_compile_False (__main__.TestEpilogueFusionStaticAnalysis)",
+    "url": "https://github.com/pytorch/pytorch/issues/170854",
+    "created_at": "2025-12-19T05:27:14Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3746174628,
     "number": 31012,
@@ -31778,6 +31827,21 @@
     "labels": [
       "bug",
       "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3750514368,
+    "number": 30492,
+    "title": "illegal instruction on import",
+    "url": "https://github.com/numpy/numpy/issues/30492",
+    "created_at": "2025-12-20T23:18:53Z",
+    "user": "highvelcty",
+    "labels": [
+      "32 - Installation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
