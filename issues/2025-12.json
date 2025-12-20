@@ -31117,5 +31117,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3749612592,
+    "number": 31064,
+    "title": "[RFC]: Optional Hidden States Transfer in `KVConnectorBase_V1` to Eliminate Decoder Prefix-Prefill in P/D Disaggregation",
+    "url": "https://github.com/vllm-project/vllm/issues/31064",
+    "created_at": "2025-12-20T05:56:32Z",
+    "user": "xinyu-intel",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3749629464,
+    "number": 30885,
+    "title": "[TST] Upcoming dependency test failures",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30885",
+    "created_at": "2025-12-20T06:08:25Z",
+    "user": "github-actions[bot]",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3749643883,
+    "number": 31066,
+    "title": "[Doc]: Formatting issue in markdown file",
+    "url": "https://github.com/vllm-project/vllm/issues/31066",
+    "created_at": "2025-12-20T06:23:44Z",
+    "user": "ssaketh-ch",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
