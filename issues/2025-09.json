@@ -1609,6 +1609,21 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3388407140,
+    "number": 29688,
+    "title": "BUG: `SystemError` from np.dot when given certain incompatible types.",
+    "url": "https://github.com/numpy/numpy/issues/29688",
+    "created_at": "2025-09-05T18:20:21Z",
+    "user": "WarrenWeckesser",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchtune",
     "id": 3389151670,
     "number": 2924,

@@ -30802,5 +30802,111 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3749221241,
+    "number": 2168,
+    "title": "Wrong commands in compiler_toolkit  .md?",
+    "url": "https://github.com/pytorch/torchtitan/issues/2168",
+    "created_at": "2025-12-19T23:25:19Z",
+    "user": "yushangdi",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749265045,
+    "number": 170921,
+    "title": "Uncompiled flex_attention would give CUDA_ERROR_INVALID_VALUE under compute-sanitizer",
+    "url": "https://github.com/pytorch/pytorch/issues/170921",
+    "created_at": "2025-12-19T23:54:16Z",
+    "user": "henrylhtsang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3749274290,
+    "number": 24203,
+    "title": "BUG: optimize.shgo: identical branches in sampling_custom",
+    "url": "https://github.com/scipy/scipy/issues/24203",
+    "created_at": "2025-12-20T00:01:14Z",
+    "user": "stratakis",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749287845,
+    "number": 170923,
+    "title": "DISABLED test_template_bad_epilogue_fusion_use_async_compile_True (__main__.TestEpilogueFusionStaticAnalysis)",
+    "url": "https://github.com/pytorch/pytorch/issues/170923",
+    "created_at": "2025-12-20T00:13:31Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3749293929,
+    "number": 24205,
+    "title": "RFC: Should Dask support remain a priority?",
+    "url": "https://github.com/scipy/scipy/issues/24205",
+    "created_at": "2025-12-20T00:19:35Z",
+    "user": "steppi",
+    "labels": [
+      "RFC",
+      "array types"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3749311085,
+    "number": 170926,
+    "title": "Could we have a unified method on c10::Stream to access the underlying pointer that the c10::Stream wraps?",
+    "url": "https://github.com/pytorch/pytorch/issues/170926",
+    "created_at": "2025-12-20T00:35:56Z",
+    "user": "mikaylagawarecki",
+    "labels": [
+      "triaged",
+      "module: PrivateUse1",
+      "module: accelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3749360045,
+    "number": 5455,
+    "title": "[BUG]: Small treemap sectors can disappear",
+    "url": "https://github.com/plotly/plotly.py/issues/5455",
+    "created_at": "2025-12-20T01:20:44Z",
+    "user": "fedarko",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

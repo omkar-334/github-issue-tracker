@@ -2299,6 +2299,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3597860481,
+    "number": 22606,
+    "title": "Is there any Problem with while we same dataset with additional labels  for doing transfer training with YOLO11",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22606",
+    "created_at": "2025-11-06T22:14:31Z",
+    "user": "Amalu97",
+    "labels": [
+      "question",
+      "Stale",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3597956498,
     "number": 2736,
@@ -8810,6 +8828,19 @@
     "labels": [
       "00 - Bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "evidentlyai/evidently",
+    "id": 3642404491,
+    "number": 1744,
+    "title": "Bug: Valid report&run metadata leads to `Report` tab being bricked with Server error 500 on evidently server/dashboard",
+    "url": "https://github.com/evidentlyai/evidently/issues/1744",
+    "created_at": "2025-11-19T11:59:45Z",
+    "user": "SebastianScherer88",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
