@@ -1380,6 +1380,23 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 2805994033,
+      "number": 50031,
+      "title": "Ray Head Node leave zombie processes after job is finished",
+      "url": "https://github.com/ray-project/ray/issues/50031",
+      "created_at": "2025-01-23T05:58:02Z",
+      "user": "wangxin201492",
+      "labels": [
+        "P2",
+        "@external-author-action-required",
+        "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 2806634805,
       "number": 5593,
@@ -38257,6 +38274,22 @@
         "serve",
         "stability",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3587378172,
+      "number": 28052,
+      "title": "[Bug]: rocm/vllm:rocm7.0.0_vllm_0.11.1_20251103 has an error with flash attention",
+      "url": "https://github.com/vllm-project/vllm/issues/28052",
+      "created_at": "2025-11-04T16:41:42Z",
+      "user": "capteen-hook",
+      "labels": [
+        "bug",
+        "rocm"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -87927,8 +87960,67 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749494497,
+      "number": 170940,
+      "title": "[BUG][Inductor] Triton AssertionError (assert isinstance(k, tuple)) during torch.compile",
+      "url": "https://github.com/pytorch/pytorch/issues/170940",
+      "created_at": "2025-12-20T03:35:30Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3749501308,
+      "number": 9136,
+      "title": "[Feature] Add docstrings to dspy/retrievers/embeddings.py Embedding class",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9136",
+      "created_at": "2025-12-20T03:43:34Z",
+      "user": "juntaoyou",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3749503058,
+      "number": 170941,
+      "title": "`torch._inductor.codegen.triton.TritonKernel` can be wrongly treated as reduction when TMA is enabled",
+      "url": "https://github.com/pytorch/pytorch/issues/170941",
+      "created_at": "2025-12-20T03:46:13Z",
+      "user": "crcrpar",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3749527033,
+      "number": 31063,
+      "title": "[Bug]: Qwen3VL-8B-instruct-FP8 has larger result diff rate than sglang compared with transformers",
+      "url": "https://github.com/vllm-project/vllm/issues/31063",
+      "created_at": "2025-12-20T04:23:15Z",
+      "user": "DamonsJ",
+      "labels": [
+        "bug",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-20T03:22:27Z",
-  "total_count": 5794
+  "last_updated": "2025-12-20T04:33:29Z",
+  "total_count": 5800
 }

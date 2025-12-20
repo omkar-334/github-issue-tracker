@@ -1128,6 +1128,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3587378172,
+    "number": 28052,
+    "title": "[Bug]: rocm/vllm:rocm7.0.0_vllm_0.11.1_20251103 has an error with flash attention",
+    "url": "https://github.com/vllm-project/vllm/issues/28052",
+    "created_at": "2025-11-04T16:41:42Z",
+    "user": "capteen-hook",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3587404370,
     "number": 23926,
