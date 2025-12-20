@@ -17,15 +17,16 @@
   },
   {
     "repo": "dagster-io/dagster",
-    "id": 2721534022,
-    "number": 26300,
-    "title": "Attempting to show unified asset health for assets with dimension of different lengths",
-    "url": "https://github.com/dagster-io/dagster/issues/26300",
-    "created_at": "2024-12-05T22:08:31Z",
-    "user": "brycelund",
+    "id": 2726678979,
+    "number": 26347,
+    "title": "The sensor interface has no content.",
+    "url": "https://github.com/dagster-io/dagster/issues/26347",
+    "created_at": "2024-12-09T10:50:38Z",
+    "user": "lokinnnnnn",
     "labels": [
       "type: bug",
-      "area: UI/UX",
+      "area: sensor",
+      "deployment: ecs",
       "stale"
     ],
     "has_linked_pr": false,
@@ -34,66 +35,15 @@
   },
   {
     "repo": "dagster-io/dagster",
-    "id": 2722939027,
-    "number": 26311,
-    "title": "Possibility to disable init containers + possibility to add side-car ",
-    "url": "https://github.com/dagster-io/dagster/issues/26311",
-    "created_at": "2024-12-06T12:24:12Z",
-    "user": "rlneczyk",
-    "labels": [
-      "deployment: k8s",
-      "type: feature-request",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2725404033,
-    "number": 26342,
-    "title": "CustomClass cannot be used in dagster.yaml file",
-    "url": "https://github.com/dagster-io/dagster/issues/26342",
-    "created_at": "2024-12-08T17:17:10Z",
-    "user": "danielkroeders",
+    "id": 2728760063,
+    "number": 26373,
+    "title": "Slow start of scheduling",
+    "url": "https://github.com/dagster-io/dagster/issues/26373",
+    "created_at": "2024-12-10T02:17:07Z",
+    "user": "lokinnnnnn",
     "labels": [
       "type: bug",
-      "area: storage",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2727922319,
-    "number": 26355,
-    "title": "[dagster_polars] Support for arrow serialization in polars I/O manager",
-    "url": "https://github.com/dagster-io/dagster/issues/26355",
-    "created_at": "2024-12-09T18:27:14Z",
-    "user": "aebrahim",
-    "labels": [
-      "type: feature-request",
-      "integration: polars",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2728414429,
-    "number": 26366,
-    "title": "Confusing UX with the new asset filter",
-    "url": "https://github.com/dagster-io/dagster/issues/26366",
-    "created_at": "2024-12-09T22:24:34Z",
-    "user": "askyel",
-    "labels": [
-      "type: UI/UX usability",
-      "area: UI/UX",
+      "deployment: ecs",
       "stale"
     ],
     "has_linked_pr": false,

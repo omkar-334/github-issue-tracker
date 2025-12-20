@@ -31634,5 +31634,41 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3750318614,
+    "number": 25845,
+    "title": "Regression: Parquet write panics in Polars 1.36.1 with large null-heavy String columns",
+    "url": "https://github.com/pola-rs/polars/issues/25845",
+    "created_at": "2025-12-20T19:00:08Z",
+    "user": "dgrine",
+    "labels": [
+      "bug",
+      "python",
+      "regression",
+      "needs triage",
+      "A-io-parquet",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3750332033,
+    "number": 23004,
+    "title": "Please hep! My model seems to have completely crashed",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23004",
+    "created_at": "2025-12-20T19:17:38Z",
+    "user": "Kaelrox",
+    "labels": [
+      "question",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
