@@ -32280,5 +32280,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751397974,
+    "number": 170984,
+    "title": "Mention other pytorch libraries in readme",
+    "url": "https://github.com/pytorch/pytorch/issues/170984",
+    "created_at": "2025-12-21T17:37:31Z",
+    "user": "LucasColas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
