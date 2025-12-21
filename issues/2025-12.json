@@ -32098,5 +32098,38 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3751123531,
+    "number": 24215,
+    "title": "BUG: `import scipy.stats.sampling` raises `AttributeError` on NumPy 2.4.0",
+    "url": "https://github.com/scipy/scipy/issues/24215",
+    "created_at": "2025-12-21T13:00:56Z",
+    "user": "jorenham",
+    "labels": [
+      "defect",
+      "scipy.stats"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3751144014,
+    "number": 25847,
+    "title": "Overly strict typing in lazyframe name parsing methods",
+    "url": "https://github.com/pola-rs/polars/issues/25847",
+    "created_at": "2025-12-21T13:26:30Z",
+    "user": "t-ded",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
