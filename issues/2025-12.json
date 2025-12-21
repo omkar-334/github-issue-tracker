@@ -31991,5 +31991,68 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3750923663,
+    "number": 170974,
+    "title": "DISABLED test_view_as_real_xpu_complex64 (__main__.TestViewOpsXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/170974",
+    "created_at": "2025-12-21T08:45:01Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3750924027,
+    "number": 170975,
+    "title": "DISABLED test_triton_kernel_ill_formed (__main__.KernelTests)",
+    "url": "https://github.com/pytorch/pytorch/issues/170975",
+    "created_at": "2025-12-21T08:45:32Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3750928538,
+    "number": 34441,
+    "title": "Python 3.14 support",
+    "url": "https://github.com/langchain-ai/langchain/issues/34441",
+    "created_at": "2025-12-21T08:52:04Z",
+    "user": "iddobergerbioz",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3750930826,
+    "number": 170976,
+    "title": "FAILED: [code=1] caffe2/CMakeFiles/torch_cpu.dir/__/torch/csrc/shim_common.cpp.o",
+    "url": "https://github.com/pytorch/pytorch/issues/170976",
+    "created_at": "2025-12-21T08:55:39Z",
+    "user": "0xra0",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
