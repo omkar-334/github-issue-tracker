@@ -8250,6 +8250,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3638137549,
+    "number": 22717,
+    "title": "[BUG] cpu inference hangs if integrate with fastapi",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22717",
+    "created_at": "2025-11-18T13:07:58Z",
+    "user": "GingerMoon",
+    "labels": [
+      "question",
+      "Stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "prefecthq/prefect",
     "id": 3638299504,
     "number": 19469,
@@ -12260,6 +12276,78 @@
     "labels": [
       "module: rocm",
       "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653559473,
+    "number": 168881,
+    "title": "Test: TestVarlenAttention.test_basic_functionality",
+    "url": "https://github.com/pytorch/pytorch/issues/168881",
+    "created_at": "2025-11-22T01:11:14Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: sdpa",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653559500,
+    "number": 168882,
+    "title": "Test: TestVarlenAttention.test_custom_op_compliance",
+    "url": "https://github.com/pytorch/pytorch/issues/168882",
+    "created_at": "2025-11-22T01:11:16Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: sdpa",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653559524,
+    "number": 168883,
+    "title": "Test: TestVarlenAttention.test_custom_op_registration",
+    "url": "https://github.com/pytorch/pytorch/issues/168883",
+    "created_at": "2025-11-22T01:11:18Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: sdpa",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653559545,
+    "number": 168884,
+    "title": "Test: TestVarlenAttention.test_varlen_vs_sdpa",
+    "url": "https://github.com/pytorch/pytorch/issues/168884",
+    "created_at": "2025-11-22T01:11:20Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: sdpa",
       "rocm-skipped-tests"
     ],
     "has_linked_pr": false,

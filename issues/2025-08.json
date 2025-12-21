@@ -1767,6 +1767,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3323263130,
+    "number": 22932,
+    "title": "[RFC]: Path to vLLM 1.0 Release",
+    "url": "https://github.com/vllm-project/vllm/issues/22932",
+    "created_at": "2025-08-14T18:56:25Z",
+    "user": "robertgshaw2-redhat",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3323877138,
     "number": 12223,

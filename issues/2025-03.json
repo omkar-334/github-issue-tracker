@@ -1233,6 +1233,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2940498314,
+    "number": 15338,
+    "title": "[Bug]:  Expected there to be 4 prompt updates corresponding to 4 image items, but instead found 3 prompt updates! Either the prompt text has missing/incorrect tokens for multi-modal inputs",
+    "url": "https://github.com/vllm-project/vllm/issues/15338",
+    "created_at": "2025-03-22T16:58:54Z",
+    "user": "moshilangzi",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "google/flax",
     "id": 2942607644,
     "number": 4644,

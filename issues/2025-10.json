@@ -9056,6 +9056,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3576440367,
+    "number": 22555,
+    "title": "Metod detecion",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22555",
+    "created_at": "2025-10-31T20:52:34Z",
+    "user": "adrianandryszczak-create",
+    "labels": [
+      "question",
+      "Stale",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3576573951,
     "number": 23902,

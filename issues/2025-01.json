@@ -838,6 +838,23 @@
     "archived": false
   },
   {
+    "repo": "keras-team/keras",
+    "id": 2799305701,
+    "number": 20788,
+    "title": "Incorrect values returned by the evaluate method in Model API",
+    "url": "https://github.com/keras-team/keras/issues/20788",
+    "created_at": "2025-01-20T13:41:48Z",
+    "user": "Carath",
+    "labels": [
+      "stat:contributions welcome",
+      "stale",
+      "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 2799867071,
     "number": 3236,
