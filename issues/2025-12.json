@@ -32371,6 +32371,21 @@
     "archived": false
   },
   {
+    "repo": "numpy/numpy",
+    "id": 3751496339,
+    "number": 30493,
+    "title": "numpy 1.19 failure during make checks",
+    "url": "https://github.com/numpy/numpy/issues/30493",
+    "created_at": "2025-12-21T19:19:27Z",
+    "user": "puneet336",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3751503272,
     "number": 19551,
@@ -32438,6 +32453,34 @@
     "labels": [
       "defect"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3751582609,
+    "number": 30495,
+    "title": "BUG: `numpy.polynomial.legendre.legder` segfaults with invalid arguments",
+    "url": "https://github.com/numpy/numpy/issues/30495",
+    "created_at": "2025-12-21T20:30:51Z",
+    "user": "BergLucas",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3751593112,
+    "number": 22131,
+    "title": "TC006 fix creates quoted type expressions with escape sequences",
+    "url": "https://github.com/astral-sh/ruff/issues/22131",
+    "created_at": "2025-12-21T20:44:55Z",
+    "user": "dscorbett",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
