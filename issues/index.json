@@ -62753,6 +62753,19 @@
       "archived": false
     },
     {
+      "repo": "psf/black",
+      "id": 3693263597,
+      "number": 4882,
+      "title": "Thinking about `wrap_long_dict_values_in_parens`",
+      "url": "https://github.com/psf/black/issues/4882",
+      "created_at": "2025-12-04T07:15:05Z",
+      "user": "hauntsaninja",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/accelerate",
       "id": 3693296698,
       "number": 3873,
@@ -90160,8 +90173,71 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3751460876,
+      "number": 170986,
+      "title": "Legacy custom ops with wrong alias annotation.",
+      "url": "https://github.com/pytorch/pytorch/issues/170986",
+      "created_at": "2025-12-21T18:36:21Z",
+      "user": "tugsbayasgalan",
+      "labels": [
+        "high priority",
+        "triage review",
+        "oncall: pt2",
+        "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3751464939,
+      "number": 23011,
+      "title": "Yolo OBB, poor orientation on squares - proposal on fixing isotropic bounding box issue",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23011",
+      "created_at": "2025-12-21T18:41:22Z",
+      "user": "Scherlac",
+      "labels": [
+        "bug",
+        "enhancement",
+        "OBB"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3751483984,
+      "number": 19550,
+      "title": "[BUG] `PyFuncOutput` type alias missing `dict` for ResponsesAgent/ChatAgent/ChatModel predictions",
+      "url": "https://github.com/mlflow/mlflow/issues/19550",
+      "created_at": "2025-12-21T19:04:31Z",
+      "user": "mr-brobot",
+      "labels": [
+        "area/scoring"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3751484378,
+      "number": 42981,
+      "title": "Change from v4 to v5c1: DeprecationWarning: builtin type SwigPyPacked/Object has no __module__ attribute",
+      "url": "https://github.com/huggingface/transformers/issues/42981",
+      "created_at": "2025-12-21T19:04:58Z",
+      "user": "jrp2014",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-21T18:36:51Z",
-  "total_count": 5937
+  "last_updated": "2025-12-21T19:22:31Z",
+  "total_count": 5942
 }
