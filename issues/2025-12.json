@@ -32369,5 +32369,77 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3751503272,
+    "number": 19551,
+    "title": "[FR] Responses API: Use Pydantic discriminated unions for type narrowing",
+    "url": "https://github.com/mlflow/mlflow/issues/19551",
+    "created_at": "2025-12-21T19:29:06Z",
+    "user": "mr-brobot",
+    "labels": [
+      "area/scoring",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3751509515,
+    "number": 1911,
+    "title": "Create New Release?",
+    "url": "https://github.com/huggingface/smolagents/issues/1911",
+    "created_at": "2025-12-21T19:35:40Z",
+    "user": "ZeroCool2u",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3751557550,
+    "number": 30494,
+    "title": "Multithreaded scaling bottlenecks on free-threaded Python",
+    "url": "https://github.com/numpy/numpy/issues/30494",
+    "created_at": "2025-12-21T20:07:21Z",
+    "user": "ngoldbaum",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3751568166,
+    "number": 24216,
+    "title": "BUG: `scipy.cluster.vq.kmeans` and `scipy.cluster.vq.kmeans2` segfaults with extreme values",
+    "url": "https://github.com/scipy/scipy/issues/24216",
+    "created_at": "2025-12-21T20:17:28Z",
+    "user": "BergLucas",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3751572661,
+    "number": 24217,
+    "title": "BUG: `scipy.special.pro_cv_seq` aborts with some values",
+    "url": "https://github.com/scipy/scipy/issues/24217",
+    "created_at": "2025-12-21T20:22:11Z",
+    "user": "BergLucas",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -308,6 +308,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2900741378,
+    "number": 14365,
+    "title": "[Bug]: API Connection Error after concurrent API calls",
+    "url": "https://github.com/vllm-project/vllm/issues/14365",
+    "created_at": "2025-03-06T15:33:31Z",
+    "user": "venki-lfc",
+    "labels": [
+      "bug",
+      "unstale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2901321042,
     "number": 1789,
@@ -1716,6 +1732,23 @@
     "user": "HarshithMjh",
     "labels": [
       "bug report"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 2960794162,
+    "number": 22001,
+    "title": "Remove `union` from `pl.Enum`",
+    "url": "https://github.com/pola-rs/polars/issues/22001",
+    "created_at": "2025-03-31T15:10:52Z",
+    "user": "mcrumiller",
+    "labels": [
+      "bug",
+      "python",
+      "accepted"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
