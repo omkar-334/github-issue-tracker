@@ -2622,6 +2622,23 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3246464891,
+    "number": 11991,
+    "title": "Don't show JPG and JPEG on `st.file_uploader`",
+    "url": "https://github.com/streamlit/streamlit/issues/11991",
+    "created_at": "2025-07-20T15:45:22Z",
+    "user": "sfc-gh-jrieke",
+    "labels": [
+      "type:enhancement",
+      "good first issue",
+      "feature:st.file_uploader"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 3246639925,
     "number": 2372,
