@@ -49076,6 +49076,101 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653544071,
+      "number": 168543,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_with_wrapper_basic",
+      "url": "https://github.com/pytorch/pytorch/issues/168543",
+      "created_at": "2025-11-22T01:02:19Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653544137,
+      "number": 168545,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_with_backward",
+      "url": "https://github.com/pytorch/pytorch/issues/168545",
+      "created_at": "2025-11-22T01:02:22Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653544162,
+      "number": 168546,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_with_cache",
+      "url": "https://github.com/pytorch/pytorch/issues/168546",
+      "created_at": "2025-11-22T01:02:24Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653544182,
+      "number": 168547,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_with_sac_must_save",
+      "url": "https://github.com/pytorch/pytorch/issues/168547",
+      "created_at": "2025-11-22T01:02:25Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653544215,
+      "number": 168548,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_with_sac_prefer_recompute",
+      "url": "https://github.com/pytorch/pytorch/issues/168548",
+      "created_at": "2025-11-22T01:02:27Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653544292,
       "number": 168551,
       "title": "Test: TestExportOnFakeCuda.test_fake_export",
@@ -89502,8 +89597,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/tokenizers",
+      "id": 3750709386,
+      "number": 1917,
+      "title": "`spm_precompiled` dependency bricks rust-analyzer in certain build setups",
+      "url": "https://github.com/huggingface/tokenizers/issues/1917",
+      "created_at": "2025-12-21T04:07:46Z",
+      "user": "gvilums",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3750710669,
+      "number": 31091,
+      "title": "[Usage]: Image Embedding Models (CLIP, Siglip, etc)",
+      "url": "https://github.com/vllm-project/vllm/issues/31091",
+      "created_at": "2025-12-21T04:10:10Z",
+      "user": "JamesDConley",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-21T04:06:46Z",
-  "total_count": 5895
+  "last_updated": "2025-12-21T05:28:41Z",
+  "total_count": 5902
 }
