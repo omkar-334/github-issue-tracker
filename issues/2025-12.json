@@ -32146,5 +32146,96 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unit8co/darts",
+    "id": 3751258576,
+    "number": 2976,
+    "title": "[New Model] TimesFM-2.5 Foundation Model",
+    "url": "https://github.com/unit8co/darts/issues/2976",
+    "created_at": "2025-12-21T15:34:58Z",
+    "user": "daidahao",
+    "labels": [
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3751261853,
+    "number": 3640,
+    "title": "Test",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3640",
+    "created_at": "2025-12-21T15:37:25Z",
+    "user": "Kenzo-0",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "holoviz/panel",
+    "id": 3751266473,
+    "number": 8344,
+    "title": "Add how-to convert Panel app to desktop or mobile app",
+    "url": "https://github.com/holoviz/panel/issues/8344",
+    "created_at": "2025-12-21T15:42:37Z",
+    "user": "MarcSkovMadsen",
+    "labels": [
+      "type: feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3751269991,
+    "number": 23009,
+    "title": "Multi card operation error",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23009",
+    "created_at": "2025-12-21T15:45:56Z",
+    "user": "zyc01",
+    "labels": [
+      "question",
+      "dependencies",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3751306752,
+    "number": 34444,
+    "title": "[bug] `draw_mermaid_png()` cause a mermaid.ink API error (status code: 400)",
+    "url": "https://github.com/langchain-ai/langchain/issues/34444",
+    "created_at": "2025-12-21T16:08:08Z",
+    "user": "sankantsu",
+    "labels": [
+      "bug",
+      "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751329653,
+    "number": 170983,
+    "title": "ROCm: .ci/pytorch/common.sh: line 11: /etc/rocm_env.sh: No such file or directory",
+    "url": "https://github.com/pytorch/pytorch/issues/170983",
+    "created_at": "2025-12-21T16:29:06Z",
+    "user": "srinivamd",
+    "labels": [
+      "module: rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
