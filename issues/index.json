@@ -22139,6 +22139,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3390836517,
+      "number": 162338,
+      "title": "Incorrect AVG reduction for GLOO",
+      "url": "https://github.com/pytorch/pytorch/issues/162338",
+      "created_at": "2025-09-06T20:14:23Z",
+      "user": "ppwwyyxx",
+      "labels": [
+        "high priority",
+        "triage review",
+        "oncall: distributed",
+        "module: correctness (silent)"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3391402299,
       "number": 2349,
@@ -89788,8 +89806,37 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3751039090,
+      "number": 16354,
+      "title": "[Build][Android] Ninja fails with wildcard error \"glsl/*\" on macOS (Darwin Kernel 26) / NDK 29",
+      "url": "https://github.com/pytorch/executorch/issues/16354",
+      "created_at": "2025-12-21T11:15:01Z",
+      "user": "Peddinti-Sriram-Bharadwaj",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3751041636,
+      "number": 34442,
+      "title": "Add AND-capable trigger conditions to Python SummarizationMiddleware (parity with LangChain.js)",
+      "url": "https://github.com/langchain-ai/langchain/issues/34442",
+      "created_at": "2025-12-21T11:18:32Z",
+      "user": "yasirali0",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-21T10:28:28Z",
-  "total_count": 5913
+  "last_updated": "2025-12-21T11:23:13Z",
+  "total_count": 5916
 }

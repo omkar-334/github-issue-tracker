@@ -1734,6 +1734,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3390836517,
+    "number": 162338,
+    "title": "Incorrect AVG reduction for GLOO",
+    "url": "https://github.com/pytorch/pytorch/issues/162338",
+    "created_at": "2025-09-06T20:14:23Z",
+    "user": "ppwwyyxx",
+    "labels": [
+      "high priority",
+      "triage review",
+      "oncall: distributed",
+      "module: correctness (silent)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3391402299,
     "number": 2349,
