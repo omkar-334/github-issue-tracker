@@ -89640,8 +89640,37 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pydantic/pydantic",
+      "id": 3750848156,
+      "number": 12651,
+      "title": "Python 3.14 does not support use_attribute_docstring",
+      "url": "https://github.com/pydantic/pydantic/issues/12651",
+      "created_at": "2025-12-21T07:01:36Z",
+      "user": "HanzCEO",
+      "labels": [
+        "bug V2",
+        "pending"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3750857605,
+      "number": 3894,
+      "title": "How to specify different number of process per node",
+      "url": "https://github.com/huggingface/accelerate/issues/3894",
+      "created_at": "2025-12-21T07:09:15Z",
+      "user": "AIML001",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-21T06:39:59Z",
-  "total_count": 5903
+  "last_updated": "2025-12-21T07:26:06Z",
+  "total_count": 5905
 }
