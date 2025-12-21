@@ -3546,6 +3546,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3263504724,
+    "number": 61949,
+    "title": "BUG: border attribute used in html.py was deprecated in HTML5",
+    "url": "https://github.com/pandas-dev/pandas/issues/61949",
+    "created_at": "2025-07-25T14:55:19Z",
+    "user": "JonahDelman",
+    "labels": [
+      "Bug",
+      "IO HTML"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 3263506079,
     "number": 13855,

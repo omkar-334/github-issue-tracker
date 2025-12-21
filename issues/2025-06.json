@@ -185,6 +185,22 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3110431983,
+    "number": 53478,
+    "title": "[core|serve] Migrate shared utilities from `ray._private` to `ray._common`",
+    "url": "https://github.com/ray-project/ray/issues/53478",
+    "created_at": "2025-06-02T14:27:00Z",
+    "user": "abrarsheikh",
+    "labels": [
+      "good-first-issue",
+      "serve"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3110877965,
     "number": 3382,
@@ -1488,6 +1504,22 @@
     "user": "fkiraly",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3148362129,
+    "number": 19670,
+    "title": "[Bug]: torch.distributed.DistNetworkError: The client socket has timed out after 600000ms while trying to connect to (172.17.0.9, 46229).",
+    "url": "https://github.com/vllm-project/vllm/issues/19670",
+    "created_at": "2025-06-16T02:44:26Z",
+    "user": "zerosurplus",
+    "labels": [
+      "bug",
+      "unstale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

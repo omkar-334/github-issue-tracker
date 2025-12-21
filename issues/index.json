@@ -9398,6 +9398,22 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3110431983,
+      "number": 53478,
+      "title": "[core|serve] Migrate shared utilities from `ray._private` to `ray._common`",
+      "url": "https://github.com/ray-project/ray/issues/53478",
+      "created_at": "2025-06-02T14:27:00Z",
+      "user": "abrarsheikh",
+      "labels": [
+        "good-first-issue",
+        "serve"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3110877965,
       "number": 3382,
@@ -10701,6 +10717,22 @@
       "user": "fkiraly",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3148362129,
+      "number": 19670,
+      "title": "[Bug]: torch.distributed.DistNetworkError: The client socket has timed out after 600000ms while trying to connect to (172.17.0.9, 46229).",
+      "url": "https://github.com/vllm-project/vllm/issues/19670",
+      "created_at": "2025-06-16T02:44:26Z",
+      "user": "zerosurplus",
+      "labels": [
+        "bug",
+        "unstale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -15659,6 +15691,22 @@
       "archived": false
     },
     {
+      "repo": "pandas-dev/pandas",
+      "id": 3263504724,
+      "number": 61949,
+      "title": "BUG: border attribute used in html.py was deprecated in HTML5",
+      "url": "https://github.com/pandas-dev/pandas/issues/61949",
+      "created_at": "2025-07-25T14:55:19Z",
+      "user": "JonahDelman",
+      "labels": [
+        "Bug",
+        "IO HTML"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3263506079,
       "number": 13855,
@@ -19999,6 +20047,21 @@
       "created_at": "2025-08-29T09:23:44Z",
       "user": "mengxiaosen-patsnap",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3366993567,
+      "number": 23943,
+      "title": "[Feature]: Any plans to add nvidia/parakeet-tdt-0.6b-v3 to vllm?",
+      "url": "https://github.com/vllm-project/vllm/issues/23943",
+      "created_at": "2025-08-29T14:05:43Z",
+      "user": "lukaLLM",
+      "labels": [
+        "feature request"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -45436,6 +45499,21 @@
       "labels": [
         "feature request",
         "deepseek"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3635688993,
+      "number": 58725,
+      "title": "[Data] Add Kafka as a new Datasink",
+      "url": "https://github.com/ray-project/ray/issues/58725",
+      "created_at": "2025-11-18T01:24:47Z",
+      "user": "owenowenisme",
+      "labels": [
+        "data"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -89409,8 +89487,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3750692959,
+      "number": 3757,
+      "title": "implementation of flex attention for learnable sink",
+      "url": "https://github.com/unslothai/unsloth/issues/3757",
+      "created_at": "2025-12-21T03:39:23Z",
+      "user": "jordane95",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-21T02:33:41Z",
-  "total_count": 5889
+  "last_updated": "2025-12-21T04:06:46Z",
+  "total_count": 5895
 }
