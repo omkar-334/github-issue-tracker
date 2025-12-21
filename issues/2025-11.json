@@ -7608,6 +7608,26 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3633014062,
+    "number": 58700,
+    "title": "[Core] Support Viewing PIDs for Dashboard and Runtime Env Agent",
+    "url": "https://github.com/ray-project/ray/issues/58700",
+    "created_at": "2025-11-17T11:56:43Z",
+    "user": "Vito-Yang",
+    "labels": [
+      "enhancement",
+      "P1",
+      "usability",
+      "core",
+      "observability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/trl",
     "id": 3633078086,
     "number": 4531,

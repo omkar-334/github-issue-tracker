@@ -13087,6 +13087,22 @@
       "archived": false
     },
     {
+      "repo": "kedro-org/kedro",
+      "id": 3212379853,
+      "number": 4950,
+      "title": "Support running multiple pipelines with `--pipeline` option",
+      "url": "https://github.com/kedro-org/kedro/issues/4950",
+      "created_at": "2025-07-08T12:33:49Z",
+      "user": "ElenaKhaustova",
+      "labels": [
+        "Issue: Feature Request",
+        "Hacktoberfest"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/sentence-transformers",
       "id": 3213182581,
       "number": 3434,
@@ -45242,6 +45258,26 @@
       "created_at": "2025-11-17T11:55:56Z",
       "user": "Z-NAVY",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3633014062,
+      "number": 58700,
+      "title": "[Core] Support Viewing PIDs for Dashboard and Runtime Env Agent",
+      "url": "https://github.com/ray-project/ray/issues/58700",
+      "created_at": "2025-11-17T11:56:43Z",
+      "user": "Vito-Yang",
+      "labels": [
+        "enhancement",
+        "P1",
+        "usability",
+        "core",
+        "observability",
+        "community-backlog"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -89948,6 +89984,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-21T14:25:20Z",
-  "total_count": 5923
+  "last_updated": "2025-12-21T15:26:30Z",
+  "total_count": 5925
 }

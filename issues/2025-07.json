@@ -927,6 +927,22 @@
     "archived": false
   },
   {
+    "repo": "kedro-org/kedro",
+    "id": 3212379853,
+    "number": 4950,
+    "title": "Support running multiple pipelines with `--pipeline` option",
+    "url": "https://github.com/kedro-org/kedro/issues/4950",
+    "created_at": "2025-07-08T12:33:49Z",
+    "user": "ElenaKhaustova",
+    "labels": [
+      "Issue: Feature Request",
+      "Hacktoberfest"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3213182581,
     "number": 3434,
