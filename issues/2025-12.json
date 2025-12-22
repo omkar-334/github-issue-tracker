@@ -33903,5 +33903,81 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unit8co/darts",
+    "id": 3754466479,
+    "number": 2977,
+    "title": "[FEATURE] Add native Plotly support for interactive TimeSeries visualization",
+    "url": "https://github.com/unit8co/darts/issues/2977",
+    "created_at": "2025-12-22T16:48:11Z",
+    "user": "brunnedu",
+    "labels": [
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3754497886,
+    "number": 9078,
+    "title": "Assertion failure in GlobalScratchAllocOpConversion when ttg.global_scratch_alloc lacks offset attribute",
+    "url": "https://github.com/triton-lang/triton/issues/9078",
+    "created_at": "2025-12-22T16:59:13Z",
+    "user": "sairam2661",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3754500244,
+    "number": 59618,
+    "title": "[Serve] Catalog Ray Serve Configuration Variables",
+    "url": "https://github.com/ray-project/ray/issues/59618",
+    "created_at": "2025-12-22T16:59:59Z",
+    "user": "harshit-anyscale",
+    "labels": [
+      "serve"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3754506909,
+    "number": 1531,
+    "title": "[MNT] add python 3.14 support and deprecate 3.8, 3.9 after EOL",
+    "url": "https://github.com/openml/openml-python/issues/1531",
+    "created_at": "2025-12-22T17:02:04Z",
+    "user": "fkiraly",
+    "labels": [
+      "Good First Issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3754566001,
+    "number": 13436,
+    "title": "Configure a tab to be disabled",
+    "url": "https://github.com/streamlit/streamlit/issues/13436",
+    "created_at": "2025-12-22T17:18:38Z",
+    "user": "sfc-gh-lwilby",
+    "labels": [
+      "type:enhancement",
+      "feature:st.tabs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

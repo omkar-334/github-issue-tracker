@@ -15,18 +15,18 @@
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 748053851,
-    "number": 48365,
-    "title": "Custom exception for out of memory",
-    "url": "https://github.com/pytorch/pytorch/issues/48365",
-    "created_at": "2020-11-21T16:40:09Z",
-    "user": "jonasteuwen",
+    "repo": "streamlit/streamlit",
+    "id": 1553625318,
+    "number": 6004,
+    "title": "[Coming soon] st.tabs: know and control state",
+    "url": "https://github.com/streamlit/streamlit/issues/6004",
+    "created_at": "2023-01-23T19:17:02Z",
+    "user": "MathCatsAnd",
     "labels": [
-      "high priority",
-      "feature",
-      "triaged",
-      "better-engineering"
+      "type:enhancement",
+      "area:events",
+      "feature:st.tabs",
+      "status:likely"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
