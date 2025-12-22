@@ -4313,6 +4313,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/transformers",
+    "id": 3611986041,
+    "number": 42147,
+    "title": "Ray Tune trials fail importing datasets",
+    "url": "https://github.com/huggingface/transformers/issues/42147",
+    "created_at": "2025-11-11T11:54:59Z",
+    "user": "filbeofITK",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3611997510,
     "number": 15734,

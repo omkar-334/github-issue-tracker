@@ -337,6 +337,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3477230530,
+    "number": 26090,
+    "title": "[Bug]: Cuda invalid device ordinal error since v0.11.0 with tensor-parallel-size 2 with 2xH100",
+    "url": "https://github.com/vllm-project/vllm/issues/26090",
+    "created_at": "2025-10-02T11:53:05Z",
+    "user": "dotmobo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3477306372,
     "number": 1002,
@@ -4467,6 +4482,21 @@
     "archived": false
   },
   {
+    "repo": "gradio-app/gradio",
+    "id": 3528981716,
+    "number": 12082,
+    "title": "Textbox doesn't resize automatically",
+    "url": "https://github.com/gradio-app/gradio/issues/12082",
+    "created_at": "2025-10-18T16:43:26Z",
+    "user": "daniandtheweb",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3529337566,
     "number": 27157,
@@ -6622,6 +6652,21 @@
     "labels": [
       "✨ enhancement",
       "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3555646069,
+    "number": 27562,
+    "title": "[Bug]: Qwen 3 VL 30bA3 Flash Attention head dim",
+    "url": "https://github.com/vllm-project/vllm/issues/27562",
+    "created_at": "2025-10-27T08:34:47Z",
+    "user": "bhaktatejas922",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

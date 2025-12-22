@@ -29340,6 +29340,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3477230530,
+      "number": 26090,
+      "title": "[Bug]: Cuda invalid device ordinal error since v0.11.0 with tensor-parallel-size 2 with 2xH100",
+      "url": "https://github.com/vllm-project/vllm/issues/26090",
+      "created_at": "2025-10-02T11:53:05Z",
+      "user": "dotmobo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3477306372,
       "number": 1002,
@@ -33470,6 +33485,21 @@
       "archived": false
     },
     {
+      "repo": "gradio-app/gradio",
+      "id": 3528981716,
+      "number": 12082,
+      "title": "Textbox doesn't resize automatically",
+      "url": "https://github.com/gradio-app/gradio/issues/12082",
+      "created_at": "2025-10-18T16:43:26Z",
+      "user": "daniandtheweb",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3529337566,
       "number": 27157,
@@ -35625,6 +35655,21 @@
       "labels": [
         "✨ enhancement",
         "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3555646069,
+      "number": 27562,
+      "title": "[Bug]: Qwen 3 VL 30bA3 Flash Attention head dim",
+      "url": "https://github.com/vllm-project/vllm/issues/27562",
+      "created_at": "2025-10-27T08:34:47Z",
+      "user": "bhaktatejas922",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -42495,6 +42540,21 @@
       "created_at": "2025-11-11T11:05:38Z",
       "user": "KCKawalkar",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3611986041,
+      "number": 42147,
+      "title": "Ray Tune trials fail importing datasets",
+      "url": "https://github.com/huggingface/transformers/issues/42147",
+      "created_at": "2025-11-11T11:54:59Z",
+      "user": "filbeofITK",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -91589,8 +91649,101 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3752659910,
+      "number": 42994,
+      "title": "quantized model saving failed",
+      "url": "https://github.com/huggingface/transformers/issues/42994",
+      "created_at": "2025-12-22T07:35:08Z",
+      "user": "jiqing-feng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3752661598,
+      "number": 31128,
+      "title": "[Feature]: Add support of Blackwell SM121(DGX Spark)",
+      "url": "https://github.com/vllm-project/vllm/issues/31128",
+      "created_at": "2025-12-22T07:35:55Z",
+      "user": "yanyunl1991",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3752695916,
+      "number": 19558,
+      "title": "[FR] In the UI, support different run label shapes",
+      "url": "https://github.com/mlflow/mlflow/issues/19558",
+      "created_at": "2025-12-22T07:50:44Z",
+      "user": "vaxenburg",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3752744550,
+      "number": 25848,
+      "title": "Null Support for rolling operations (e.g. rolling_xyz_by)",
+      "url": "https://github.com/pola-rs/polars/issues/25848",
+      "created_at": "2025-12-22T08:07:48Z",
+      "user": "CatchemAL",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3752757697,
+      "number": 23014,
+      "title": "How to fine-tune the YOLOE model via the CLI?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23014",
+      "created_at": "2025-12-22T08:12:31Z",
+      "user": "huangqiu15444",
+      "labels": [
+        "question",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3752825787,
+      "number": 23015,
+      "title": "can OBB task add NMS when export engine files",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23015",
+      "created_at": "2025-12-22T08:35:15Z",
+      "user": "ChenJian7578",
+      "labels": [
+        "enhancement",
+        "OBB",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T07:31:52Z",
-  "total_count": 6029
+  "last_updated": "2025-12-22T08:39:49Z",
+  "total_count": 6039
 }
