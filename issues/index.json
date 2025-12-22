@@ -2850,6 +2850,19 @@
       "archived": false
     },
     {
+      "repo": "EleutherAI/lm-evaluation-harness",
+      "id": 2875715435,
+      "number": 2731,
+      "title": "Issue with the Tokenizer of Pixtral-12B-2409",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/2731",
+      "created_at": "2025-02-24T17:38:54Z",
+      "user": "aminfarajian",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "astral-sh/ruff",
       "id": 2875955179,
       "number": 16355,
@@ -5423,6 +5436,22 @@
       "user": "DimiChatzipavlis",
       "labels": [
         "type:feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 2985150130,
+      "number": 17331,
+      "title": "Ruff formatter ignoring `fmt: skip`",
+      "url": "https://github.com/astral-sh/ruff/issues/17331",
+      "created_at": "2025-04-10T10:05:01Z",
+      "user": "madduck",
+      "labels": [
+        "bug",
+        "formatter"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -51730,6 +51759,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3657169931,
+      "number": 29295,
+      "title": "[RFC DRAFT]: Support Dynamic Context Parallelism",
+      "url": "https://github.com/vllm-project/vllm/issues/29295",
+      "created_at": "2025-11-24T05:42:53Z",
+      "user": "Kurumi5210",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/sktime",
       "id": 3657185692,
       "number": 9108,
@@ -92423,8 +92467,123 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pyg-team/pytorch_geometric",
+      "id": 3754009790,
+      "number": 10566,
+      "title": "Induced graph sampling cannot be performed when a time attribute is specified, even if pyg-lib has been installed.",
+      "url": "https://github.com/pyg-team/pytorch_geometric/issues/10566",
+      "created_at": "2025-12-22T14:30:24Z",
+      "user": "Les1ie",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "EleutherAI/lm-evaluation-harness",
+      "id": 3754011618,
+      "number": 3475,
+      "title": "Evaluation result of hendrycks_math keeps 0",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3475",
+      "created_at": "2025-12-22T14:30:48Z",
+      "user": "oximi123",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3754049809,
+      "number": 19925,
+      "title": "Prefect UI can not see tasks when using DaskRunner",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19925",
+      "created_at": "2025-12-22T14:42:50Z",
+      "user": "Freeverc",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3754079971,
+      "number": 31154,
+      "title": "[Bug]:  Ngram draft tokens diverge across TP ranks when using external_launcher.",
+      "url": "https://github.com/vllm-project/vllm/issues/31154",
+      "created_at": "2025-12-22T14:52:09Z",
+      "user": "xiaoxiaosuaxuan",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3754090476,
+      "number": 34087,
+      "title": "What is the replacement for `jax.core.mapped_aval`?",
+      "url": "https://github.com/jax-ml/jax/issues/34087",
+      "created_at": "2025-12-22T14:55:33Z",
+      "user": "patrick-kidger",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3754093145,
+      "number": 31155,
+      "title": "[Bug] [ROCm] [Critical]: ROCm build broken",
+      "url": "https://github.com/vllm-project/vllm/issues/31155",
+      "created_at": "2025-12-22T14:56:29Z",
+      "user": "tjtanaa",
+      "labels": [
+        "bug",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3754101988,
+      "number": 171096,
+      "title": "vLLM PyTorch Compilation Unit Tests failing PyTorch 2.10 with OOM errors",
+      "url": "https://github.com/pytorch/pytorch/issues/171096",
+      "created_at": "2025-12-22T14:59:52Z",
+      "user": "zou3519",
+      "labels": [
+        "module: vllm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3754200444,
+      "number": 171100,
+      "title": "Feedback about torch.bernoulli",
+      "url": "https://github.com/pytorch/pytorch/issues/171100",
+      "created_at": "2025-12-22T15:26:04Z",
+      "user": "wbmlr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T14:29:36Z",
-  "total_count": 6083
+  "last_updated": "2025-12-22T15:30:46Z",
+  "total_count": 6094
 }

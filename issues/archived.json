@@ -1,118 +1,30 @@
 [
   {
-    "repo": "pandas-dev/pandas",
-    "id": 611137016,
-    "number": 33940,
-    "title": "API: how strict should the equals() method be?",
-    "url": "https://github.com/pandas-dev/pandas/issues/33940",
-    "created_at": "2020-05-02T08:36:29Z",
-    "user": "jorisvandenbossche",
-    "labels": [
-      "API Design",
-      "Needs Discussion",
-      "API - Consistency"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 1065449916,
-    "number": 68966,
-    "title": "`torch.ldexp` generated tests fail on call to `torch.mul`",
-    "url": "https://github.com/pytorch/pytorch/issues/68966",
-    "created_at": "2021-11-28T22:10:39Z",
-    "user": "saketh-are",
-    "labels": [
-      "module: autograd",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 1355698912,
-    "number": 48312,
-    "title": "BUG: timedelta64[s] series constructor isn't equal with alternative constructor using to_timedelta unit='s'",
-    "url": "https://github.com/pandas-dev/pandas/issues/48312",
-    "created_at": "2022-08-30T12:34:27Z",
-    "user": "ntachukwu",
-    "labels": [
-      "Bug",
-      "Timedelta",
-      "Constructors",
-      "Non-Nano"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 1562312603,
-    "number": 51060,
-    "title": "BUG: can't round-trip non-nano Timestamp",
-    "url": "https://github.com/pandas-dev/pandas/issues/51060",
-    "created_at": "2023-01-30T12:03:46Z",
-    "user": "MarcoGorelli",
-    "labels": [
-      "Bug",
-      "Non-Nano"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 1656080402,
-    "number": 52457,
-    "title": "BUG: Series([int],  dtype=\"timedelta64[non-nano]\") returns 0 result",
-    "url": "https://github.com/pandas-dev/pandas/issues/52457",
-    "created_at": "2023-04-05T18:15:12Z",
-    "user": "mroeschke",
-    "labels": [
-      "Bug",
-      "Timedelta",
-      "Constructors",
-      "Non-Nano"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 1754404452,
-    "number": 53643,
-    "title": "BUG: Timedelta with non-ns unit does not add correctly to stdlib datetime.datetime",
-    "url": "https://github.com/pandas-dev/pandas/issues/53643",
-    "created_at": "2023-06-13T09:09:17Z",
-    "user": "Flix6x",
-    "labels": [
-      "Bug",
-      "Numeric Operations",
-      "Timedelta",
-      "Upstream issue",
-      "Non-Nano"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1561215140,
+    "number": 2323,
+    "title": "Support flake8-annotations-complexity",
+    "url": "https://github.com/astral-sh/ruff/issues/2323",
+    "created_at": "2023-01-29T10:00:49Z",
+    "user": "Crocmagnon",
     "labels": [
-      "internal"
+      "plugin"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 2142077007,
+    "number": 14587,
+    "title": "Add SAS database read support (.sas7bdat) as pl.read_sas(filepath:str, **kwargs)",
+    "url": "https://github.com/pola-rs/polars/issues/14587",
+    "created_at": "2024-02-19T10:48:37Z",
+    "user": "louisbrulenaudet",
+    "labels": [
+      "enhancement",
+      "A-io"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
