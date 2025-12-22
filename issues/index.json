@@ -25452,6 +25452,21 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3420805887,
+      "number": 24946,
+      "title": "[Bug]: The inference speed of the whisper model under the v1 engine is much slower than v0",
+      "url": "https://github.com/vllm-project/vllm/issues/24946",
+      "created_at": "2025-09-16T07:15:22Z",
+      "user": "qaz-t",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3420916732,
       "number": 24950,
       "title": "[Usage]: AttributeError: 'Parameter' object has no attribute 'load_column_parallel_weight'",
@@ -40610,6 +40625,24 @@
         "oncall: pt2",
         "module: fakeTensor",
         "module: pt2-dispatcher"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3598139735,
+      "number": 167266,
+      "title": "TorchDynamo Tracing Error: Unable to Trace Builtin bool() Operator on Tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/167266",
+      "created_at": "2025-11-07T00:26:30Z",
+      "user": "Blooming-Tree",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -72938,6 +72971,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3717878384,
+      "number": 30461,
+      "title": "[Bug]: Lora support don't work on 0.12.0 with Qwen3-30B-A30B-Instuct-2507",
+      "url": "https://github.com/vllm-project/vllm/issues/30461",
+      "created_at": "2025-12-11T05:49:45Z",
+      "user": "bash99",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3717888228,
       "number": 12821,
@@ -91454,8 +91502,95 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3752533780,
+      "number": 31124,
+      "title": "[Bug]: vllm.entrypoints.openai.api_server started but can't be accessed in wsl",
+      "url": "https://github.com/vllm-project/vllm/issues/31124",
+      "created_at": "2025-12-22T06:44:45Z",
+      "user": "Usigned",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3752547526,
+      "number": 22135,
+      "title": "S101 assert can be used in testing.",
+      "url": "https://github.com/astral-sh/ruff/issues/22135",
+      "created_at": "2025-12-22T06:51:39Z",
+      "user": "bytepure",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3752576455,
+      "number": 23013,
+      "title": "Decoupled and Configurable Detection Heads and Loss Functions for Better Extensibility",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23013",
+      "created_at": "2025-12-22T07:05:28Z",
+      "user": "Miaoge-Ge",
+      "labels": [
+        "enhancement",
+        "detect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3752585758,
+      "number": 34080,
+      "title": "[BUG] batch variant: the results of jax.lax.dot_general vary from batches.",
+      "url": "https://github.com/jax-ml/jax/issues/34080",
+      "created_at": "2025-12-22T07:08:33Z",
+      "user": "aolemila",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3752625337,
+      "number": 30497,
+      "title": "TYP: np.select type regression, array default value",
+      "url": "https://github.com/numpy/numpy/issues/30497",
+      "created_at": "2025-12-22T07:21:57Z",
+      "user": "HexDecimal",
+      "labels": [
+        "41 - Static typing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3752631625,
+      "number": 16360,
+      "title": "Android ExecuTorch :Improve ET Dump (Prod / Release ready) with Runtime control",
+      "url": "https://github.com/pytorch/executorch/issues/16360",
+      "created_at": "2025-12-22T07:24:39Z",
+      "user": "psiddh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T06:44:18Z",
-  "total_count": 6020
+  "last_updated": "2025-12-22T07:31:52Z",
+  "total_count": 6029
 }
