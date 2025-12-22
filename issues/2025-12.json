@@ -33370,5 +33370,109 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3753425188,
+    "number": 34083,
+    "title": "`ValueError` \"INTERNAL: CpuCallback error calling callback\" rather than `JaxRuntimeError` since jax>=0.7.2, depending on execution order",
+    "url": "https://github.com/jax-ml/jax/issues/34083",
+    "created_at": "2025-12-22T11:25:31Z",
+    "user": "bonauer-pf",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3753447559,
+    "number": 7911,
+    "title": "IndexError when saving few large examples to disk",
+    "url": "https://github.com/huggingface/datasets/issues/7911",
+    "created_at": "2025-12-22T11:33:19Z",
+    "user": "CloseChoice",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3753479957,
+    "number": 42999,
+    "title": "is_flash_attn_2_available() gives packaging.version.InvalidVersion: Invalid version: 'N/A'",
+    "url": "https://github.com/huggingface/transformers/issues/42999",
+    "created_at": "2025-12-22T11:44:51Z",
+    "user": "dylanprins",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3753565843,
+    "number": 25849,
+    "title": "Inconsistent `.sum()` management of `np.inf` in `group_by()`",
+    "url": "https://github.com/pola-rs/polars/issues/25849",
+    "created_at": "2025-12-22T12:12:12Z",
+    "user": "RizzoV",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3753591447,
+    "number": 59614,
+    "title": "[<Ray component: Core|RLlib|etc...>] Logs fail to load in the Dashboard when authentication is enabled",
+    "url": "https://github.com/ray-project/ray/issues/59614",
+    "created_at": "2025-12-22T12:20:21Z",
+    "user": "Iooooot",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3753596535,
+    "number": 31145,
+    "title": "[Bug]: [P/D] multi-connector cannot be used together with a KV connector that uses a push scheme",
+    "url": "https://github.com/vllm-project/vllm/issues/31145",
+    "created_at": "2025-12-22T12:21:53Z",
+    "user": "liziyu179",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3753695033,
+    "number": 59615,
+    "title": "[Core] Demote \"stale sync message drop\" log to DEBUG in RaySyncer",
+    "url": "https://github.com/ray-project/ray/issues/59615",
+    "created_at": "2025-12-22T12:48:55Z",
+    "user": "yancanmao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

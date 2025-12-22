@@ -179,6 +179,21 @@
     "archived": false
   },
   {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3373820163,
+    "number": 3325,
+    "title": "Infinite retry loop in upload_large_folder when encountering HTTP 403 storage limit errors",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3325",
+    "created_at": "2025-09-01T21:47:36Z",
+    "user": "nyuuzyou",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3374012809,
     "number": 14157,

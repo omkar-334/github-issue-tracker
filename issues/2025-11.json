@@ -11735,6 +11735,25 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653544115,
+    "number": 168544,
+    "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_visible_in_debug_mode",
+    "url": "https://github.com/pytorch/pytorch/issues/168544",
+    "created_at": "2025-11-22T01:02:21Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: flex attention",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653544137,
     "number": 168545,
     "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_with_backward",
@@ -11797,6 +11816,25 @@
     "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_with_sac_prefer_recompute",
     "url": "https://github.com/pytorch/pytorch/issues/168548",
     "created_at": "2025-11-22T01:02:27Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "oncall: pt2",
+      "module: flex attention",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653544239,
+    "number": 168549,
+    "title": "Test: TestWrapInductorCompiledRegions.test_sac_outer_compile_inner_flex_attention",
+    "url": "https://github.com/pytorch/pytorch/issues/168549",
+    "created_at": "2025-11-22T01:02:28Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",
@@ -12636,6 +12674,24 @@
     "title": "Test: TestVarlenAttention.test_varlen_vs_sdpa",
     "url": "https://github.com/pytorch/pytorch/issues/168884",
     "created_at": "2025-11-22T01:11:20Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: sdpa",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653559596,
+    "number": 168885,
+    "title": "Test: TestVarlenAttention.test_batch_invariance",
+    "url": "https://github.com/pytorch/pytorch/issues/168885",
+    "created_at": "2025-11-22T01:11:21Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",

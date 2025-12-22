@@ -2374,6 +2374,23 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3170127642,
+    "number": 20932,
+    "title": "MlflowException when logging checkpoints with MLFlowLogger",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/20932",
+    "created_at": "2025-06-24T03:43:26Z",
+    "user": "leike0813",
+    "labels": [
+      "bug",
+      "logger: mlflow",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3170284301,
     "number": 11868,

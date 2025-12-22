@@ -11750,6 +11750,23 @@
       "archived": false
     },
     {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3170127642,
+      "number": 20932,
+      "title": "MlflowException when logging checkpoints with MLFlowLogger",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/20932",
+      "created_at": "2025-06-24T03:43:26Z",
+      "user": "leike0813",
+      "labels": [
+        "bug",
+        "logger: mlflow",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3170284301,
       "number": 11868,
@@ -20871,6 +20888,21 @@
       "user": "ogencoglu",
       "labels": [
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3373820163,
+      "number": 3325,
+      "title": "Infinite retry loop in upload_large_folder when encountering HTTP 403 storage limit errors",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3325",
+      "created_at": "2025-09-01T21:47:36Z",
+      "user": "nyuuzyou",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -50028,6 +50060,25 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653544115,
+      "number": 168544,
+      "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_visible_in_debug_mode",
+      "url": "https://github.com/pytorch/pytorch/issues/168544",
+      "created_at": "2025-11-22T01:02:21Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653544137,
       "number": 168545,
       "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_wrapper_with_backward",
@@ -50090,6 +50141,25 @@
       "title": "Test: TestWrapInductorCompiledRegions.test_flex_attention_with_sac_prefer_recompute",
       "url": "https://github.com/pytorch/pytorch/issues/168548",
       "created_at": "2025-11-22T01:02:27Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "oncall: pt2",
+        "module: flex attention",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653544239,
+      "number": 168549,
+      "title": "Test: TestWrapInductorCompiledRegions.test_sac_outer_compile_inner_flex_attention",
+      "url": "https://github.com/pytorch/pytorch/issues/168549",
+      "created_at": "2025-11-22T01:02:28Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -50929,6 +50999,24 @@
       "title": "Test: TestVarlenAttention.test_varlen_vs_sdpa",
       "url": "https://github.com/pytorch/pytorch/issues/168884",
       "created_at": "2025-11-22T01:11:20Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "module: sdpa",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653559596,
+      "number": 168885,
+      "title": "Test: TestVarlenAttention.test_batch_invariance",
+      "url": "https://github.com/pytorch/pytorch/issues/168885",
+      "created_at": "2025-11-22T01:11:21Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -92007,8 +92095,112 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3753425188,
+      "number": 34083,
+      "title": "`ValueError` \"INTERNAL: CpuCallback error calling callback\" rather than `JaxRuntimeError` since jax>=0.7.2, depending on execution order",
+      "url": "https://github.com/jax-ml/jax/issues/34083",
+      "created_at": "2025-12-22T11:25:31Z",
+      "user": "bonauer-pf",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/datasets",
+      "id": 3753447559,
+      "number": 7911,
+      "title": "IndexError when saving few large examples to disk",
+      "url": "https://github.com/huggingface/datasets/issues/7911",
+      "created_at": "2025-12-22T11:33:19Z",
+      "user": "CloseChoice",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3753479957,
+      "number": 42999,
+      "title": "is_flash_attn_2_available() gives packaging.version.InvalidVersion: Invalid version: 'N/A'",
+      "url": "https://github.com/huggingface/transformers/issues/42999",
+      "created_at": "2025-12-22T11:44:51Z",
+      "user": "dylanprins",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3753565843,
+      "number": 25849,
+      "title": "Inconsistent `.sum()` management of `np.inf` in `group_by()`",
+      "url": "https://github.com/pola-rs/polars/issues/25849",
+      "created_at": "2025-12-22T12:12:12Z",
+      "user": "RizzoV",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3753591447,
+      "number": 59614,
+      "title": "[<Ray component: Core|RLlib|etc...>] Logs fail to load in the Dashboard when authentication is enabled",
+      "url": "https://github.com/ray-project/ray/issues/59614",
+      "created_at": "2025-12-22T12:20:21Z",
+      "user": "Iooooot",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3753596535,
+      "number": 31145,
+      "title": "[Bug]: [P/D] multi-connector cannot be used together with a KV connector that uses a push scheme",
+      "url": "https://github.com/vllm-project/vllm/issues/31145",
+      "created_at": "2025-12-22T12:21:53Z",
+      "user": "liziyu179",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3753695033,
+      "number": 59615,
+      "title": "[Core] Demote \"stale sync message drop\" log to DEBUG in RaySyncer",
+      "url": "https://github.com/ray-project/ray/issues/59615",
+      "created_at": "2025-12-22T12:48:55Z",
+      "user": "yancanmao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T11:26:24Z",
-  "total_count": 6057
+  "last_updated": "2025-12-22T12:54:55Z",
+  "total_count": 6069
 }
