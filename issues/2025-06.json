@@ -227,6 +227,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3111502903,
+    "number": 19038,
+    "title": "[RFC]: Prefill-only optimizations for PD disaggregation in vLLM",
+    "url": "https://github.com/vllm-project/vllm/issues/19038",
+    "created_at": "2025-06-02T20:16:32Z",
+    "user": "KuntaiDu",
+    "labels": [
+      "RFC",
+      "keep-open"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 3111648279,
     "number": 1870,
