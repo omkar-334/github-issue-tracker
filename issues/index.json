@@ -1212,6 +1212,22 @@
       "archived": false
     },
     {
+      "repo": "dask/dask",
+      "id": 2800504789,
+      "number": 11686,
+      "title": "`map_blocks` shape and chunk calculations are wrong when combining chunk aligned but different `ndim` arrays",
+      "url": "https://github.com/dask/dask/issues/11686",
+      "created_at": "2025-01-21T01:27:54Z",
+      "user": "tasansal",
+      "labels": [
+        "needs attention",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 2801283140,
       "number": 3872,
@@ -2595,6 +2611,22 @@
       "labels": [
         "00 - Bug",
         "component: numpy.ufunc"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dask/dask",
+      "id": 2867125271,
+      "number": 11768,
+      "title": "querying df.compute(concatenate=True)",
+      "url": "https://github.com/dask/dask/issues/11768",
+      "created_at": "2025-02-20T19:50:49Z",
+      "user": "martindurant",
+      "labels": [
+        "needs attention",
+        "needs triage"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -8631,6 +8663,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3084966441,
+      "number": 18582,
+      "title": "[Usage]: How to use the appropriate --gpu-memory-utilization",
+      "url": "https://github.com/vllm-project/vllm/issues/18582",
+      "created_at": "2025-05-23T02:29:26Z",
+      "user": "ChEnYoNgB",
+      "labels": [
+        "usage",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 3086747344,
       "number": 3918,
@@ -8967,6 +9015,22 @@
       "labels": [
         "defect",
         "scipy.linalg"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3096216115,
+      "number": 18811,
+      "title": "[Bug]: python sampler is faster than flashinfer sampler",
+      "url": "https://github.com/vllm-project/vllm/issues/18811",
+      "created_at": "2025-05-28T06:38:19Z",
+      "user": "ErykCh",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -12470,6 +12534,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3196736507,
+      "number": 20394,
+      "title": "[RFC][UX]: debug mode for vLLM-compile",
+      "url": "https://github.com/vllm-project/vllm/issues/20394",
+      "created_at": "2025-07-02T17:56:56Z",
+      "user": "zou3519",
+      "labels": [
+        "RFC",
+        "torch.compile",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "plotly/plotly.py",
       "id": 3196920010,
       "number": 5260,
@@ -13545,6 +13626,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3220192737,
+      "number": 20776,
+      "title": "[Feature]: Add LFM2 models",
+      "url": "https://github.com/vllm-project/vllm/issues/20776",
+      "created_at": "2025-07-10T17:54:29Z",
+      "user": "egorsmkv",
+      "labels": [
+        "new-model",
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 3220348099,
       "number": 2320,
@@ -14446,6 +14544,22 @@
       "archived": false
     },
     {
+      "repo": "jax-ml/jax",
+      "id": 3240086030,
+      "number": 30281,
+      "title": "[Feature Request] Add Sparse Attention kernel for GPUs in Pallas",
+      "url": "https://github.com/jax-ml/jax/issues/30281",
+      "created_at": "2025-07-17T15:54:05Z",
+      "user": "gmancusi",
+      "labels": [
+        "enhancement",
+        "pallas"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/smolagents",
       "id": 3240290514,
       "number": 1572,
@@ -14626,6 +14740,22 @@
       "created_at": "2025-07-18T15:20:37Z",
       "user": "gnatesan",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3244485653,
+      "number": 21207,
+      "title": "[Feature]: Support xformers on ARM GPU machines including GB200.",
+      "url": "https://github.com/vllm-project/vllm/issues/21207",
+      "created_at": "2025-07-18T22:17:40Z",
+      "user": "kathyyu-google",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -18013,6 +18143,22 @@
       "user": "SebLz",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3315045944,
+      "number": 22750,
+      "title": "[Bug]: Non-functional max_capture_size of gpt-oss causes OOM",
+      "url": "https://github.com/vllm-project/vllm/issues/22750",
+      "created_at": "2025-08-12T16:36:42Z",
+      "user": "QwertyJack",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -22018,6 +22164,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3387258284,
+      "number": 24320,
+      "title": "[Feature]: Batch interface request reordering to boost APC hits",
+      "url": "https://github.com/vllm-project/vllm/issues/24320",
+      "created_at": "2025-09-05T11:39:06Z",
+      "user": "kexinoh",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3387546976,
       "number": 62261,
@@ -22958,6 +23120,22 @@
       "created_at": "2025-09-09T11:59:20Z",
       "user": "Scott-Simmons",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3398412621,
+      "number": 24506,
+      "title": "[Feature]: Add speculative decoding with draft model pruning",
+      "url": "https://github.com/vllm-project/vllm/issues/24506",
+      "created_at": "2025-09-09T13:09:05Z",
+      "user": "jmamou",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -24376,6 +24554,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3411042558,
+      "number": 24755,
+      "title": "[Installation]: VLLM dependency Issue",
+      "url": "https://github.com/vllm-project/vllm/issues/24755",
+      "created_at": "2025-09-12T16:00:20Z",
+      "user": "NishTewari",
+      "labels": [
+        "installation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3411324740,
       "number": 17702,
@@ -25620,6 +25814,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3424889695,
+      "number": 25047,
+      "title": "[Bug]: vLLM fails to load k_scale and v_scale for FP8 quantized Qwen3-MOE models",
+      "url": "https://github.com/vllm-project/vllm/issues/25047",
+      "created_at": "2025-09-17T06:36:30Z",
+      "user": "zkf331",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "networkx/networkx",
       "id": 3424939007,
       "number": 8275,
@@ -26546,6 +26756,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3435007862,
+      "number": 25270,
+      "title": "[Bug]: type object 'GroupShape' has no attribute '__origin__' when trying to use with torch.compile",
+      "url": "https://github.com/vllm-project/vllm/issues/25270",
+      "created_at": "2025-09-19T16:24:26Z",
+      "user": "ElizaWszola",
+      "labels": [
+        "bug",
+        "torch.compile",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 3435040016,
       "number": 10239,
@@ -26750,6 +26977,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3437975826,
+      "number": 25336,
+      "title": "[Bug]: metrics",
+      "url": "https://github.com/vllm-project/vllm/issues/25336",
+      "created_at": "2025-09-21T07:59:25Z",
+      "user": "sidikbro",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3438124852,
       "number": 14763,
@@ -26766,6 +27009,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3438455054,
+      "number": 25352,
+      "title": "[Bug]: AssertionError while passing otlp_traces_endpoint in Mac",
+      "url": "https://github.com/vllm-project/vllm/issues/25352",
+      "created_at": "2025-09-21T17:51:50Z",
+      "user": "skshashankkumar41",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "openai/openai-python",
       "id": 3438744874,
       "number": 2656,
@@ -26775,6 +27034,54 @@
       "user": "HamzaYslmn",
       "labels": [
         "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3438930675,
+      "number": 25361,
+      "title": "[Installation]: H20 vllm==0.10.2  for Qwen3-Next-80B，RuntimeError: Worker failed with error ''staticmethod' object is not callable', please check the stack trace above for the root cause",
+      "url": "https://github.com/vllm-project/vllm/issues/25361",
+      "created_at": "2025-09-22T02:20:42Z",
+      "user": "XTLYC",
+      "labels": [
+        "installation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3439932266,
+      "number": 25373,
+      "title": "[Feature]: Optimize Tokenization and First Token Generation Redundancy Between Prefill and Decode Stages in Disaggregated Prefill",
+      "url": "https://github.com/vllm-project/vllm/issues/25373",
+      "created_at": "2025-09-22T09:16:38Z",
+      "user": "Zaragoto",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3439952410,
+      "number": 25375,
+      "title": "[Bug]: Issue downloading model from a local HF repository in Jfrog Artifactory",
+      "url": "https://github.com/vllm-project/vllm/issues/25375",
+      "created_at": "2025-09-22T09:22:07Z",
+      "user": "sergiomh499",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -26842,6 +27149,38 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3441308997,
+      "number": 25387,
+      "title": "[Bug] Nightly crash with Qwen3-14B-FP8-dynamic: CUDA illegal memory access (EngineDeadError)",
+      "url": "https://github.com/vllm-project/vllm/issues/25387",
+      "created_at": "2025-09-22T14:34:00Z",
+      "user": "celsowm",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3441588994,
+      "number": 25399,
+      "title": "[Performance]: Load KV with partial block",
+      "url": "https://github.com/vllm-project/vllm/issues/25399",
+      "created_at": "2025-09-22T15:39:34Z",
+      "user": "Zhathw",
+      "labels": [
+        "performance",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/tutorials",
       "id": 3441737824,
       "number": 3583,
@@ -26880,6 +27219,22 @@
       "created_at": "2025-09-22T20:52:14Z",
       "user": "Ahmad21Omar",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3442924577,
+      "number": 25426,
+      "title": "[Bug]: NotImplementedError: Auto tool choice is not supported yet unless using Harmony",
+      "url": "https://github.com/vllm-project/vllm/issues/25426",
+      "created_at": "2025-09-22T22:09:51Z",
+      "user": "Anna4242",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -35138,6 +35493,22 @@
       "archived": false
     },
     {
+      "repo": "pydantic/pydantic",
+      "id": 3554958717,
+      "number": 12452,
+      "title": "support python 3.14 subinterpreters",
+      "url": "https://github.com/pydantic/pydantic/issues/12452",
+      "created_at": "2025-10-27T04:04:03Z",
+      "user": "ruiyang2015",
+      "labels": [
+        "feature request",
+        "deferred"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3555141657,
       "number": 41881,
@@ -35475,6 +35846,21 @@
       "user": "prakritishetty",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dagster-io/dagster",
+      "id": 3558055739,
+      "number": 32644,
+      "title": "DeltaLake support merge operation",
+      "url": "https://github.com/dagster-io/dagster/issues/32644",
+      "created_at": "2025-10-27T18:27:54Z",
+      "user": "mtrninic-sumer-avico",
+      "labels": [
+        "type: feature-request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -90817,8 +91203,129 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3751988854,
+      "number": 171022,
+      "title": "In-place real-domain FFT operators for memory-efficient training (bf16 support)",
+      "url": "https://github.com/pytorch/pytorch/issues/171022",
+      "created_at": "2025-12-22T02:07:50Z",
+      "user": "DxyDb",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3752021497,
+      "number": 171026,
+      "title": "RuntimeError: Output size of the matrix multiplication is larger than currently supported by the MPS backend: 47616,190464, needs to be less than 2**32 elements.File a feature request for this use case against the MPS backend",
+      "url": "https://github.com/pytorch/pytorch/issues/171026",
+      "created_at": "2025-12-22T02:22:51Z",
+      "user": "scottharmon",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3752043591,
+      "number": 34446,
+      "title": "When i used deepseek-r1 in non-streaming, i found cannot get reasoning_content from langchain",
+      "url": "https://github.com/langchain-ai/langchain/issues/34446",
+      "created_at": "2025-12-22T02:35:55Z",
+      "user": "alizsl19921016-beep",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3752060140,
+      "number": 31108,
+      "title": "[Bug]: vLLM fails to load mistralai/Mamba-Codestral-7B-v0.1 due to incorrect weight prefix assumption",
+      "url": "https://github.com/vllm-project/vllm/issues/31108",
+      "created_at": "2025-12-22T02:45:34Z",
+      "user": "sicong-lin",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/sentence-transformers",
+      "id": 3752061824,
+      "number": 3601,
+      "title": "how to finetuning a bi-encoder embedding model of multimodel input",
+      "url": "https://github.com/huggingface/sentence-transformers/issues/3601",
+      "created_at": "2025-12-22T02:46:43Z",
+      "user": "fancyerii",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3752103102,
+      "number": 42987,
+      "title": "backwards compatibility with older versions",
+      "url": "https://github.com/huggingface/transformers/issues/42987",
+      "created_at": "2025-12-22T03:08:44Z",
+      "user": "MasoudMaani",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3752137331,
+      "number": 171034,
+      "title": "The incorrect result of matmul_bf16",
+      "url": "https://github.com/pytorch/pytorch/issues/171034",
+      "created_at": "2025-12-22T03:21:26Z",
+      "user": "jinmang-zhxy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3752169411,
+      "number": 3799,
+      "title": "browser-use can not parallel",
+      "url": "https://github.com/browser-use/browser-use/issues/3799",
+      "created_at": "2025-12-22T03:30:13Z",
+      "user": "scorpiord",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3752230140,
+      "number": 171039,
+      "title": "When using torch.multiprocessing for CUDA IPC, memory cannot be released.",
+      "url": "https://github.com/pytorch/pytorch/issues/171039",
+      "created_at": "2025-12-22T04:03:05Z",
+      "user": "mengph",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T02:07:50Z",
-  "total_count": 5979
+  "last_updated": "2025-12-22T04:09:45Z",
+  "total_count": 6012
 }

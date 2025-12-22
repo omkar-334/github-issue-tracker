@@ -1836,6 +1836,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3084966441,
+    "number": 18582,
+    "title": "[Usage]: How to use the appropriate --gpu-memory-utilization",
+    "url": "https://github.com/vllm-project/vllm/issues/18582",
+    "created_at": "2025-05-23T02:29:26Z",
+    "user": "ChEnYoNgB",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 3086747344,
     "number": 3918,
@@ -2172,6 +2188,22 @@
     "labels": [
       "defect",
       "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3096216115,
+    "number": 18811,
+    "title": "[Bug]: python sampler is faster than flashinfer sampler",
+    "url": "https://github.com/vllm-project/vllm/issues/18811",
+    "created_at": "2025-05-28T06:38:19Z",
+    "user": "ErykCh",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

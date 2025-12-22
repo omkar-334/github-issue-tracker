@@ -1,30 +1,111 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 1274293117,
-    "number": 6087,
-    "title": "[FR] [Roadmap] Support color palette for MLflow plots to support users with color differentiation struggles",
-    "url": "https://github.com/mlflow/mlflow/issues/6087",
-    "created_at": "2022-06-17T00:36:09Z",
-    "user": "BenWilson2",
+    "repo": "numba/numba",
+    "id": 688148028,
+    "number": 6184,
+    "title": "Improve error message for NumPy alias type used as dtype in ArrayNdCtors",
+    "url": "https://github.com/numba/numba/issues/6184",
+    "created_at": "2020-08-28T15:16:24Z",
+    "user": "stuartarchibald",
     "labels": [
-      "area/uiux",
-      "stale",
-      "javascript"
+      "feature_request",
+      "good first issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1289093507,
-    "number": 6162,
-    "title": "[BUG] MLFlow does not support a predictions DataFrame with a MultiIndex",
-    "url": "https://github.com/mlflow/mlflow/issues/6162",
-    "created_at": "2022-06-29T18:02:10Z",
-    "user": "varunsridhar1",
+    "repo": "matplotlib/matplotlib",
+    "id": 1125218960,
+    "number": 22416,
+    "title": "[MNT]: Does postscript output with usetex always need to be ghostscript-distilled?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22416",
+    "created_at": "2022-02-06T14:32:50Z",
+    "user": "anntzer",
     "labels": [
+      "backend: ps",
+      "Maintenance",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1131354710,
+    "number": 22448,
+    "title": "[Bug]: GPU memory leak with plt.figure()",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22448",
+    "created_at": "2022-02-11T00:45:39Z",
+    "user": "patrickhaoy",
+    "labels": [
+      "GUI: tk",
+      "Performance",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1349994273,
+    "number": 23731,
+    "title": "[Bug]: inconsistency between `inline` and other backends (`ipympl`, `qt`)",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23731",
+    "created_at": "2022-08-24T20:36:14Z",
+    "user": "ericpre",
+    "labels": [
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1353263041,
+    "number": 23763,
+    "title": "[Bug]: Inconsistent rendering between backends when rendering Mathtext horizontal rule",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23763",
+    "created_at": "2022-08-28T06:34:09Z",
+    "user": "tfpf",
+    "labels": [
+      "topic: text/mathtext",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1366893922,
+    "number": 23831,
+    "title": "[Doc]: Be more explicit about development dependencies",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23831",
+    "created_at": "2022-09-08T19:33:55Z",
+    "user": "greglucas",
+    "labels": [
+      "Documentation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "shap/shap",
+    "id": 2006730230,
+    "number": 3400,
+    "title": "ENH: support for elementwise multiplication for pytorchdeep ",
+    "url": "https://github.com/shap/shap/issues/3400",
+    "created_at": "2023-11-22T16:41:37Z",
+    "user": "ruochiz",
+    "labels": [
+      "enhancement",
       "stale"
     ],
     "has_linked_pr": false,
@@ -32,136 +113,44 @@
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1297333768,
-    "number": 6209,
-    "title": "Train and batch inference pipelines in same directory",
-    "url": "https://github.com/mlflow/mlflow/issues/6209",
-    "created_at": "2022-07-07T12:18:17Z",
-    "user": "JasperHG90",
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 2229776671,
+    "number": 1682,
+    "title": "Add docstring for HFLM's many keyword args",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/1682",
+    "created_at": "2024-04-07T13:37:00Z",
+    "user": "haileyschoelkopf",
     "labels": [
-      "stale",
-      "area/recipes",
-      "has-closing-pr"
+      "documentation",
+      "help wanted",
+      "feature request",
+      "good first issue"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1318664211,
-    "number": 6335,
-    "title": "We'd like your feedback on MLflow Pipelines",
-    "url": "https://github.com/mlflow/mlflow/issues/6335",
-    "created_at": "2022-07-26T19:27:36Z",
-    "user": "dbczumar",
-    "labels": [
-      "stale"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1333745298,
-    "number": 6431,
-    "title": "MLflow Roadmap: Request for contributions",
-    "url": "https://github.com/mlflow/mlflow/issues/6431",
-    "created_at": "2022-08-09T20:22:41Z",
-    "user": "dbczumar",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1333749471,
-    "number": 6432,
-    "title": "Contribute your first feature or improvement!",
-    "url": "https://github.com/mlflow/mlflow/issues/6432",
-    "created_at": "2022-08-09T20:26:54Z",
-    "user": "dbczumar",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1338310159,
-    "number": 6458,
-    "title": "[DOC-FIX] Implement HTTP 301 redirect for MLflow 1.28.0 change of mlflow.tracking.MlflowClient to mlflow.client.MlflowClient to preserve existing documentation hyperlinks",
-    "url": "https://github.com/mlflow/mlflow/issues/6458",
-    "created_at": "2022-08-14T17:45:06Z",
-    "user": "amesar",
-    "labels": [
-      "area/docs",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1347203953,
-    "number": 6546,
-    "title": "I want to start the MLFlow UI using the (mlflow server --backend-store-uri ...) command , but I am facing Issue with SSL DB Connection",
-    "url": "https://github.com/mlflow/mlflow/issues/6546",
-    "created_at": "2022-08-23T01:44:49Z",
-    "user": "nov301996",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "id": 1359148688,
-    "number": 6675,
-    "title": "Use the MLflow import-export tool for migrating between MLflow Tracking servers",
-    "url": "https://github.com/mlflow/mlflow/issues/6675",
-    "created_at": "2022-09-01T17:02:24Z",
-    "user": "dbczumar",
-    "labels": [
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "explosion/spaCy",
-    "id": 2753907535,
-    "number": 13724,
-    "title": "AssertionError when using nlp.rehearse() with `en_core_web_trf`",
-    "url": "https://github.com/explosion/spaCy/issues/13724",
-    "created_at": "2024-12-21T11:15:50Z",
-    "user": "jama1017",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",

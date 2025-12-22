@@ -885,6 +885,22 @@
     "archived": false
   },
   {
+    "repo": "dask/dask",
+    "id": 2800504789,
+    "number": 11686,
+    "title": "`map_blocks` shape and chunk calculations are wrong when combining chunk aligned but different `ndim` arrays",
+    "url": "https://github.com/dask/dask/issues/11686",
+    "created_at": "2025-01-21T01:27:54Z",
+    "user": "tasansal",
+    "labels": [
+      "needs attention",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2801283140,
     "number": 3872,

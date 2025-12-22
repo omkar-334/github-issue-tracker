@@ -1529,6 +1529,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3387258284,
+    "number": 24320,
+    "title": "[Feature]: Batch interface request reordering to boost APC hits",
+    "url": "https://github.com/vllm-project/vllm/issues/24320",
+    "created_at": "2025-09-05T11:39:06Z",
+    "user": "kexinoh",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3387546976,
     "number": 62261,
@@ -2469,6 +2485,22 @@
     "created_at": "2025-09-09T11:59:20Z",
     "user": "Scott-Simmons",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3398412621,
+    "number": 24506,
+    "title": "[Feature]: Add speculative decoding with draft model pruning",
+    "url": "https://github.com/vllm-project/vllm/issues/24506",
+    "created_at": "2025-09-09T13:09:05Z",
+    "user": "jmamou",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -3887,6 +3919,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3411042558,
+    "number": 24755,
+    "title": "[Installation]: VLLM dependency Issue",
+    "url": "https://github.com/vllm-project/vllm/issues/24755",
+    "created_at": "2025-09-12T16:00:20Z",
+    "user": "NishTewari",
+    "labels": [
+      "installation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3411324740,
     "number": 17702,
@@ -5131,6 +5179,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3424889695,
+    "number": 25047,
+    "title": "[Bug]: vLLM fails to load k_scale and v_scale for FP8 quantized Qwen3-MOE models",
+    "url": "https://github.com/vllm-project/vllm/issues/25047",
+    "created_at": "2025-09-17T06:36:30Z",
+    "user": "zkf331",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "networkx/networkx",
     "id": 3424939007,
     "number": 8275,
@@ -6057,6 +6121,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3435007862,
+    "number": 25270,
+    "title": "[Bug]: type object 'GroupShape' has no attribute '__origin__' when trying to use with torch.compile",
+    "url": "https://github.com/vllm-project/vllm/issues/25270",
+    "created_at": "2025-09-19T16:24:26Z",
+    "user": "ElizaWszola",
+    "labels": [
+      "bug",
+      "torch.compile",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3435040016,
     "number": 10239,
@@ -6261,6 +6342,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3437975826,
+    "number": 25336,
+    "title": "[Bug]: metrics",
+    "url": "https://github.com/vllm-project/vllm/issues/25336",
+    "created_at": "2025-09-21T07:59:25Z",
+    "user": "sidikbro",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3438124852,
     "number": 14763,
@@ -6277,6 +6374,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3438455054,
+    "number": 25352,
+    "title": "[Bug]: AssertionError while passing otlp_traces_endpoint in Mac",
+    "url": "https://github.com/vllm-project/vllm/issues/25352",
+    "created_at": "2025-09-21T17:51:50Z",
+    "user": "skshashankkumar41",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3438744874,
     "number": 2656,
@@ -6286,6 +6399,54 @@
     "user": "HamzaYslmn",
     "labels": [
       "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3438930675,
+    "number": 25361,
+    "title": "[Installation]: H20 vllm==0.10.2  for Qwen3-Next-80B，RuntimeError: Worker failed with error ''staticmethod' object is not callable', please check the stack trace above for the root cause",
+    "url": "https://github.com/vllm-project/vllm/issues/25361",
+    "created_at": "2025-09-22T02:20:42Z",
+    "user": "XTLYC",
+    "labels": [
+      "installation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3439932266,
+    "number": 25373,
+    "title": "[Feature]: Optimize Tokenization and First Token Generation Redundancy Between Prefill and Decode Stages in Disaggregated Prefill",
+    "url": "https://github.com/vllm-project/vllm/issues/25373",
+    "created_at": "2025-09-22T09:16:38Z",
+    "user": "Zaragoto",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3439952410,
+    "number": 25375,
+    "title": "[Bug]: Issue downloading model from a local HF repository in Jfrog Artifactory",
+    "url": "https://github.com/vllm-project/vllm/issues/25375",
+    "created_at": "2025-09-22T09:22:07Z",
+    "user": "sergiomh499",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6353,6 +6514,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3441308997,
+    "number": 25387,
+    "title": "[Bug] Nightly crash with Qwen3-14B-FP8-dynamic: CUDA illegal memory access (EngineDeadError)",
+    "url": "https://github.com/vllm-project/vllm/issues/25387",
+    "created_at": "2025-09-22T14:34:00Z",
+    "user": "celsowm",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3441588994,
+    "number": 25399,
+    "title": "[Performance]: Load KV with partial block",
+    "url": "https://github.com/vllm-project/vllm/issues/25399",
+    "created_at": "2025-09-22T15:39:34Z",
+    "user": "Zhathw",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3441737824,
     "number": 3583,
@@ -6391,6 +6584,22 @@
     "created_at": "2025-09-22T20:52:14Z",
     "user": "Ahmad21Omar",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3442924577,
+    "number": 25426,
+    "title": "[Bug]: NotImplementedError: Auto tool choice is not supported yet unless using Harmony",
+    "url": "https://github.com/vllm-project/vllm/issues/25426",
+    "created_at": "2025-09-22T22:09:51Z",
+    "user": "Anna4242",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

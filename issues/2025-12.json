@@ -32817,5 +32817,126 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751988854,
+    "number": 171022,
+    "title": "In-place real-domain FFT operators for memory-efficient training (bf16 support)",
+    "url": "https://github.com/pytorch/pytorch/issues/171022",
+    "created_at": "2025-12-22T02:07:50Z",
+    "user": "DxyDb",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3752021497,
+    "number": 171026,
+    "title": "RuntimeError: Output size of the matrix multiplication is larger than currently supported by the MPS backend: 47616,190464, needs to be less than 2**32 elements.File a feature request for this use case against the MPS backend",
+    "url": "https://github.com/pytorch/pytorch/issues/171026",
+    "created_at": "2025-12-22T02:22:51Z",
+    "user": "scottharmon",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3752043591,
+    "number": 34446,
+    "title": "When i used deepseek-r1 in non-streaming, i found cannot get reasoning_content from langchain",
+    "url": "https://github.com/langchain-ai/langchain/issues/34446",
+    "created_at": "2025-12-22T02:35:55Z",
+    "user": "alizsl19921016-beep",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3752060140,
+    "number": 31108,
+    "title": "[Bug]: vLLM fails to load mistralai/Mamba-Codestral-7B-v0.1 due to incorrect weight prefix assumption",
+    "url": "https://github.com/vllm-project/vllm/issues/31108",
+    "created_at": "2025-12-22T02:45:34Z",
+    "user": "sicong-lin",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3752061824,
+    "number": 3601,
+    "title": "how to finetuning a bi-encoder embedding model of multimodel input",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3601",
+    "created_at": "2025-12-22T02:46:43Z",
+    "user": "fancyerii",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3752103102,
+    "number": 42987,
+    "title": "backwards compatibility with older versions",
+    "url": "https://github.com/huggingface/transformers/issues/42987",
+    "created_at": "2025-12-22T03:08:44Z",
+    "user": "MasoudMaani",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3752137331,
+    "number": 171034,
+    "title": "The incorrect result of matmul_bf16",
+    "url": "https://github.com/pytorch/pytorch/issues/171034",
+    "created_at": "2025-12-22T03:21:26Z",
+    "user": "jinmang-zhxy",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3752169411,
+    "number": 3799,
+    "title": "browser-use can not parallel",
+    "url": "https://github.com/browser-use/browser-use/issues/3799",
+    "created_at": "2025-12-22T03:30:13Z",
+    "user": "scorpiord",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3752230140,
+    "number": 171039,
+    "title": "When using torch.multiprocessing for CUDA IPC, memory cannot be released.",
+    "url": "https://github.com/pytorch/pytorch/issues/171039",
+    "created_at": "2025-12-22T04:03:05Z",
+    "user": "mengph",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -6536,6 +6536,22 @@
     "archived": false
   },
   {
+    "repo": "pydantic/pydantic",
+    "id": 3554958717,
+    "number": 12452,
+    "title": "support python 3.14 subinterpreters",
+    "url": "https://github.com/pydantic/pydantic/issues/12452",
+    "created_at": "2025-10-27T04:04:03Z",
+    "user": "ruiyang2015",
+    "labels": [
+      "feature request",
+      "deferred"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3555141657,
     "number": 41881,
@@ -6873,6 +6889,21 @@
     "user": "prakritishetty",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3558055739,
+    "number": 32644,
+    "title": "DeltaLake support merge operation",
+    "url": "https://github.com/dagster-io/dagster/issues/32644",
+    "created_at": "2025-10-27T18:27:54Z",
+    "user": "mtrninic-sumer-avico",
+    "labels": [
+      "type: feature-request"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

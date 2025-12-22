@@ -789,6 +789,22 @@
     "archived": false
   },
   {
+    "repo": "dask/dask",
+    "id": 2867125271,
+    "number": 11768,
+    "title": "querying df.compute(concatenate=True)",
+    "url": "https://github.com/dask/dask/issues/11768",
+    "created_at": "2025-02-20T19:50:49Z",
+    "user": "martindurant",
+    "labels": [
+      "needs attention",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "skorch-dev/skorch",
     "id": 2867249985,
     "number": 1096,

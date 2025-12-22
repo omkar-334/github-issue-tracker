@@ -1518,6 +1518,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3315045944,
+    "number": 22750,
+    "title": "[Bug]: Non-functional max_capture_size of gpt-oss causes OOM",
+    "url": "https://github.com/vllm-project/vllm/issues/22750",
+    "created_at": "2025-08-12T16:36:42Z",
+    "user": "QwertyJack",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3316116488,
     "number": 2752,

@@ -290,6 +290,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3196736507,
+    "number": 20394,
+    "title": "[RFC][UX]: debug mode for vLLM-compile",
+    "url": "https://github.com/vllm-project/vllm/issues/20394",
+    "created_at": "2025-07-02T17:56:56Z",
+    "user": "zou3519",
+    "labels": [
+      "RFC",
+      "torch.compile",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3196920010,
     "number": 5260,
@@ -1365,6 +1382,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3220192737,
+    "number": 20776,
+    "title": "[Feature]: Add LFM2 models",
+    "url": "https://github.com/vllm-project/vllm/issues/20776",
+    "created_at": "2025-07-10T17:54:29Z",
+    "user": "egorsmkv",
+    "labels": [
+      "new-model",
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3220348099,
     "number": 2320,
@@ -2266,6 +2300,22 @@
     "archived": false
   },
   {
+    "repo": "jax-ml/jax",
+    "id": 3240086030,
+    "number": 30281,
+    "title": "[Feature Request] Add Sparse Attention kernel for GPUs in Pallas",
+    "url": "https://github.com/jax-ml/jax/issues/30281",
+    "created_at": "2025-07-17T15:54:05Z",
+    "user": "gmancusi",
+    "labels": [
+      "enhancement",
+      "pallas"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3240290514,
     "number": 1572,
@@ -2446,6 +2496,22 @@
     "created_at": "2025-07-18T15:20:37Z",
     "user": "gnatesan",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3244485653,
+    "number": 21207,
+    "title": "[Feature]: Support xformers on ARM GPU machines including GB200.",
+    "url": "https://github.com/vllm-project/vllm/issues/21207",
+    "created_at": "2025-07-18T22:17:40Z",
+    "user": "kathyyu-google",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
