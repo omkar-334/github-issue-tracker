@@ -5307,6 +5307,22 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2978996984,
+      "number": 11050,
+      "title": "Add the ability to initialize the cache (and orchestrate its refreshment)",
+      "url": "https://github.com/streamlit/streamlit/issues/11050",
+      "created_at": "2025-04-08T08:18:43Z",
+      "user": "ghilesmeddour",
+      "labels": [
+        "type:enhancement",
+        "feature:cache"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 2980606657,
       "number": 22816,
@@ -45120,6 +45136,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3626618981,
+      "number": 167849,
+      "title": "DISABLED trunk-rocm-mi300 / linux-jammy-rocm-py3.10 / test",
+      "url": "https://github.com/pytorch/pytorch/issues/167849",
+      "created_at": "2025-11-14T17:58:56Z",
+      "user": "jithunnair-amd",
+      "labels": [
+        "module: rocm",
+        "module: ci",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3626736849,
       "number": 2046,
@@ -50985,6 +51018,24 @@
       "title": "Test: TestSparseCSR.test_csr_matvec",
       "url": "https://github.com/pytorch/pytorch/issues/168825",
       "created_at": "2025-11-22T01:09:42Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: sparse",
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653556463,
+      "number": 168828,
+      "title": "Test: TestSparseCSR.test_addmm_all_sparse_csr",
+      "url": "https://github.com/pytorch/pytorch/issues/168828",
+      "created_at": "2025-11-22T01:09:47Z",
       "user": "jeffdaily",
       "labels": [
         "module: sparse",
@@ -93085,8 +93136,101 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3755267295,
+      "number": 9139,
+      "title": "[Feature] Add Google style docstrings to dspy/clients/provider.py file",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9139",
+      "created_at": "2025-12-22T21:25:02Z",
+      "user": "dev-josias",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755275451,
+      "number": 171130,
+      "title": "UNSTABLE pull / linux-jammy-py3.10-gcc11 / test (docs_test)",
+      "url": "https://github.com/pytorch/pytorch/issues/171130",
+      "created_at": "2025-12-22T21:28:46Z",
+      "user": "clee2000",
+      "labels": [
+        "module: ci",
+        "unstable"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3755356893,
+      "number": 31186,
+      "title": "[Bug]: Qwen3-Next MTP Crash",
+      "url": "https://github.com/vllm-project/vllm/issues/31186",
+      "created_at": "2025-12-22T22:02:57Z",
+      "user": "benchislett",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3755370529,
+      "number": 63465,
+      "title": "ENH: display.timedelta_format similar to display.float_format",
+      "url": "https://github.com/pandas-dev/pandas/issues/63465",
+      "created_at": "2025-12-22T22:07:48Z",
+      "user": "sam-s",
+      "labels": [
+        "Enhancement",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3755413093,
+      "number": 32929,
+      "title": "FastICA rejects a default value for the `fun` parameter",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32929",
+      "created_at": "2025-12-22T22:23:42Z",
+      "user": "lmmx",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755413284,
+      "number": 171135,
+      "title": "DISABLED test_pretrained (__main__.TestHFPretrained)",
+      "url": "https://github.com/pytorch/pytorch/issues/171135",
+      "created_at": "2025-12-22T22:23:47Z",
+      "user": "jeffdaily",
+      "labels": [
+        "skipped"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T21:26:12Z",
-  "total_count": 6127
+  "last_updated": "2025-12-22T22:28:20Z",
+  "total_count": 6136
 }

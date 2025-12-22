@@ -34219,5 +34219,98 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "id": 3755267295,
+    "number": 9139,
+    "title": "[Feature] Add Google style docstrings to dspy/clients/provider.py file",
+    "url": "https://github.com/stanfordnlp/dspy/issues/9139",
+    "created_at": "2025-12-22T21:25:02Z",
+    "user": "dev-josias",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3755275451,
+    "number": 171130,
+    "title": "UNSTABLE pull / linux-jammy-py3.10-gcc11 / test (docs_test)",
+    "url": "https://github.com/pytorch/pytorch/issues/171130",
+    "created_at": "2025-12-22T21:28:46Z",
+    "user": "clee2000",
+    "labels": [
+      "module: ci",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3755356893,
+    "number": 31186,
+    "title": "[Bug]: Qwen3-Next MTP Crash",
+    "url": "https://github.com/vllm-project/vllm/issues/31186",
+    "created_at": "2025-12-22T22:02:57Z",
+    "user": "benchislett",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3755370529,
+    "number": 63465,
+    "title": "ENH: display.timedelta_format similar to display.float_format",
+    "url": "https://github.com/pandas-dev/pandas/issues/63465",
+    "created_at": "2025-12-22T22:07:48Z",
+    "user": "sam-s",
+    "labels": [
+      "Enhancement",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3755413093,
+    "number": 32929,
+    "title": "FastICA rejects a default value for the `fun` parameter",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32929",
+    "created_at": "2025-12-22T22:23:42Z",
+    "user": "lmmx",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3755413284,
+    "number": 171135,
+    "title": "DISABLED test_pretrained (__main__.TestHFPretrained)",
+    "url": "https://github.com/pytorch/pytorch/issues/171135",
+    "created_at": "2025-12-22T22:23:47Z",
+    "user": "jeffdaily",
+    "labels": [
+      "skipped"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
