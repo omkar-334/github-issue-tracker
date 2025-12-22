@@ -3720,6 +3720,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3519935533,
+    "number": 26963,
+    "title": "[Feature][XPU]:  speculative decoding support on XPU.",
+    "url": "https://github.com/vllm-project/vllm/issues/26963",
+    "created_at": "2025-10-16T00:37:30Z",
+    "user": "jikunshang",
+    "labels": [
+      "feature request",
+      "intel-gpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 3519938577,
     "number": 8975,

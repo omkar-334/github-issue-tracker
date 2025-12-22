@@ -5493,6 +5493,28 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3618879728,
+    "number": 167693,
+    "title": "DISABLED test_side_stream_backward_overlap_cuda (__main__.TestAutogradStreamSynchronizationCUDA)",
+    "url": "https://github.com/pytorch/pytorch/issues/167693",
+    "created_at": "2025-11-13T01:09:33Z",
+    "user": "pytorch-bot[bot]",
+    "labels": [
+      "high priority",
+      "triage review",
+      "module: autograd",
+      "module: rocm",
+      "triaged",
+      "module: flaky-tests",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 3619112684,
     "number": 2405,
