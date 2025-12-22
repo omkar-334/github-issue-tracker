@@ -3191,6 +3191,22 @@
     "archived": false
   },
   {
+    "repo": "lancedb/lancedb",
+    "id": 3357106090,
+    "number": 2612,
+    "title": "Feature: fast_search in Python sync API",
+    "url": "https://github.com/lancedb/lancedb/issues/2612",
+    "created_at": "2025-08-26T20:57:26Z",
+    "user": "npip99",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3357153227,
     "number": 3108,

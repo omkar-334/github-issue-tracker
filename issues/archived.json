@@ -1,30 +1,32 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 1561215140,
-    "number": 2323,
-    "title": "Support flake8-annotations-complexity",
-    "url": "https://github.com/astral-sh/ruff/issues/2323",
-    "created_at": "2023-01-29T10:00:49Z",
-    "user": "Crocmagnon",
+    "repo": "numpy/numpy",
+    "id": 273607590,
+    "number": 10019,
+    "title": "histogram doesn't always work with masked arrays",
+    "url": "https://github.com/numpy/numpy/issues/10019",
+    "created_at": "2017-11-13T22:54:32Z",
+    "user": "fredrik-1",
     "labels": [
-      "plugin"
+      "component: numpy.ma"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pola-rs/polars",
-    "id": 2142077007,
-    "number": 14587,
-    "title": "Add SAS database read support (.sas7bdat) as pl.read_sas(filepath:str, **kwargs)",
-    "url": "https://github.com/pola-rs/polars/issues/14587",
-    "created_at": "2024-02-19T10:48:37Z",
-    "user": "louisbrulenaudet",
+    "repo": "pytorch/pytorch",
+    "id": 748053851,
+    "number": 48365,
+    "title": "Custom exception for out of memory",
+    "url": "https://github.com/pytorch/pytorch/issues/48365",
+    "created_at": "2020-11-21T16:40:09Z",
+    "user": "jonasteuwen",
     "labels": [
-      "enhancement",
-      "A-io"
+      "high priority",
+      "feature",
+      "triaged",
+      "better-engineering"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
