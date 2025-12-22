@@ -7644,6 +7644,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3566148291,
+    "number": 22523,
+    "title": "Single class object detection with extreme number of null images",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22523",
+    "created_at": "2025-10-29T14:00:28Z",
+    "user": "fabi34an",
+    "labels": [
+      "question",
+      "Stale",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3566193588,
     "number": 3521,

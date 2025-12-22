@@ -32514,5 +32514,308 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "id": 3751747630,
+    "number": 2884,
+    "title": "Feature: Update Arrow to 57",
+    "url": "https://github.com/lancedb/lancedb/issues/2884",
+    "created_at": "2025-12-21T23:26:55Z",
+    "user": "realonbebeto",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3751773913,
+    "number": 3758,
+    "title": "[Bug] Qwen3-30B-A3B-bnb-4bit takes much longer time than gpt-oss-20b in training",
+    "url": "https://github.com/unslothai/unsloth/issues/3758",
+    "created_at": "2025-12-21T23:56:04Z",
+    "user": "bchau-calliope",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "facebook/prophet",
+    "id": 3751793489,
+    "number": 2702,
+    "title": "R CRAN package is scheduled for removal due to deprecation of C++11",
+    "url": "https://github.com/facebook/prophet/issues/2702",
+    "created_at": "2025-12-22T00:09:31Z",
+    "user": "joranE",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3751854008,
+    "number": 19552,
+    "title": "[FR] Responses API: Factory methods should return typed Pydantic models",
+    "url": "https://github.com/mlflow/mlflow/issues/19552",
+    "created_at": "2025-12-22T00:44:22Z",
+    "user": "mr-brobot",
+    "labels": [
+      "area/scoring",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3751868649,
+    "number": 3759,
+    "title": "[Feature]可以更新支持训练Nanbeige/Nanbeige4-3B-Thinking-2511吗？",
+    "url": "https://github.com/unslothai/unsloth/issues/3759",
+    "created_at": "2025-12-22T00:55:19Z",
+    "user": "772181052",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3751874995,
+    "number": 1913,
+    "title": "Is it possible to turn off deepseek v3 thinking with smolagents?",
+    "url": "https://github.com/huggingface/smolagents/issues/1913",
+    "created_at": "2025-12-22T01:01:52Z",
+    "user": "XinyueZ",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3751875372,
+    "number": 19553,
+    "title": "[FR] Responses API: Use discriminated unions for stream events",
+    "url": "https://github.com/mlflow/mlflow/issues/19553",
+    "created_at": "2025-12-22T01:02:09Z",
+    "user": "mr-brobot",
+    "labels": [
+      "area/scoring",
+      "domain/genai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751937368,
+    "number": 171010,
+    "title": "DISABLED test_tiling_split_valid (__main__.TestTilingExtra)",
+    "url": "https://github.com/pytorch/pytorch/issues/171010",
+    "created_at": "2025-12-22T01:40:32Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751953979,
+    "number": 171012,
+    "title": "DISABLED test_view_as_real_xpu_complex32 (__main__.TestViewOpsXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171012",
+    "created_at": "2025-12-22T01:52:41Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751954898,
+    "number": 171013,
+    "title": "DISABLED test_view_as_real_xpu_complex128 (__main__.TestViewOpsXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171013",
+    "created_at": "2025-12-22T01:53:16Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751957599,
+    "number": 171014,
+    "title": "DISABLED test_comprehensive_fft_rfftn_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171014",
+    "created_at": "2025-12-22T01:54:18Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751958484,
+    "number": 171015,
+    "title": "DISABLED test_comprehensive_fft_rfftn_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171015",
+    "created_at": "2025-12-22T01:54:50Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751962952,
+    "number": 171016,
+    "title": "DISABLED test_comprehensive_fft_fft2_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171016",
+    "created_at": "2025-12-22T01:56:26Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751965715,
+    "number": 171017,
+    "title": "DISABLED test_comprehensive_fft_ifft2_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171017",
+    "created_at": "2025-12-22T01:57:29Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3751965863,
+    "number": 13429,
+    "title": "st.data_editor doesn’t respect user-defined blank/whitespace option for column config",
+    "url": "https://github.com/streamlit/streamlit/issues/13429",
+    "created_at": "2025-12-22T01:57:31Z",
+    "user": "lucario387",
+    "labels": [
+      "type:bug",
+      "status:needs-triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751966561,
+    "number": 171018,
+    "title": "DISABLED test_comprehensive_fft_ihfft2_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171018",
+    "created_at": "2025-12-22T01:57:57Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751969014,
+    "number": 171019,
+    "title": "DISABLED test_comprehensive_fft_hfft_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171019",
+    "created_at": "2025-12-22T01:58:44Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3751973102,
+    "number": 171020,
+    "title": "DISABLED test_comprehensive_fft_ihfft_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171020",
+    "created_at": "2025-12-22T02:00:47Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3751977551,
+    "number": 42986,
+    "title": "dia model generation precision error because of generation config change.",
+    "url": "https://github.com/huggingface/transformers/issues/42986",
+    "created_at": "2025-12-22T02:03:06Z",
+    "user": "jiqing-feng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
