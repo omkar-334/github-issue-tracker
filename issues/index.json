@@ -23439,6 +23439,24 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3400312991,
+      "number": 56398,
+      "title": "[core][rdt] Better support asyncio with RDT",
+      "url": "https://github.com/ray-project/ray/issues/56398",
+      "created_at": "2025-09-09T23:35:13Z",
+      "user": "dayshah",
+      "labels": [
+        "enhancement",
+        "P1",
+        "core",
+        "rdt"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3400720279,
       "number": 21653,
@@ -69686,6 +69704,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3710042434,
+      "number": 30326,
+      "title": "[Bug]: H200 GPT-OSS-120B has perf drop",
+      "url": "https://github.com/vllm-project/vllm/issues/30326",
+      "created_at": "2025-12-09T09:41:02Z",
+      "user": "shyeh25",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3710046681,
       "number": 169934,
@@ -90706,6 +90739,25 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3750757198,
+      "number": 25846,
+      "title": "Polars segfaults when using an io plugin to create a LazyFrame that has an extension type and is written out via sink_parquet/sink_ipc",
+      "url": "https://github.com/pola-rs/polars/issues/25846",
+      "created_at": "2025-12-21T05:28:14Z",
+      "user": "reductionnist",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-parquet",
+        "A-plugin"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3750762299,
       "number": 42977,
@@ -92199,8 +92251,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3753717441,
+      "number": 34450,
+      "title": "There is no output of thought content.",
+      "url": "https://github.com/langchain-ai/langchain/issues/34450",
+      "created_at": "2025-12-22T12:56:30Z",
+      "user": "xxxlwb",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3753729945,
+      "number": 24222,
+      "title": "ShortTimeFFT slowness",
+      "url": "https://github.com/scipy/scipy/issues/24222",
+      "created_at": "2025-12-22T13:01:15Z",
+      "user": "gideonKogan",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3753779258,
+      "number": 31148,
+      "title": "[Bug]: Jais2 model in vLLM 0.13.0: get_rope() called with unsupported rotary_dim kwarg (TypeError during model init)",
+      "url": "https://github.com/vllm-project/vllm/issues/31148",
+      "created_at": "2025-12-22T13:18:01Z",
+      "user": "NikolasTh90",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T12:54:55Z",
-  "total_count": 6069
+  "last_updated": "2025-12-22T13:41:00Z",
+  "total_count": 6075
 }
