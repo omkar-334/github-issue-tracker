@@ -2516,6 +2516,21 @@
       "archived": false
     },
     {
+      "repo": "pymc-devs/pymc",
+      "id": 2858644822,
+      "number": 7683,
+      "title": "ENH: progressbar=False should silence all sampling output",
+      "url": "https://github.com/pymc-devs/pymc/issues/7683",
+      "created_at": "2025-02-17T19:26:47Z",
+      "user": "fonnesbeck",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 2859818751,
       "number": 2313,
@@ -42217,6 +42232,23 @@
       "user": "eustlb",
       "labels": [
         "Audio"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3607289304,
+      "number": 167459,
+      "title": "Dynamic number of omp threads of torch.compile cache",
+      "url": "https://github.com/pytorch/pytorch/issues/167459",
+      "created_at": "2025-11-10T10:24:23Z",
+      "user": "SUSYUSTC",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "oncall: cpu inductor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -92940,8 +92972,60 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755002475,
+      "number": 171119,
+      "title": "DISABLED test_index (__main__.DistTensorOpsTest)",
+      "url": "https://github.com/pytorch/pytorch/issues/171119",
+      "created_at": "2025-12-22T19:46:23Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "skipped",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3755020861,
+      "number": 25855,
+      "title": "Panic on unwrap when writing boolean series to parquet",
+      "url": "https://github.com/pola-rs/polars/issues/25855",
+      "created_at": "2025-12-22T19:52:54Z",
+      "user": "ChristopherRussell",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-parquet",
+        "A-panic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755035393,
+      "number": 171123,
+      "title": "ROCm linux.rocm.gpu.gfx942.*.b runners switching providers",
+      "url": "https://github.com/pytorch/pytorch/issues/171123",
+      "created_at": "2025-12-22T19:59:11Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "ci: sev"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T19:24:39Z",
-  "total_count": 6118
+  "last_updated": "2025-12-22T20:31:59Z",
+  "total_count": 6123
 }

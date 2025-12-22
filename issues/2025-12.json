@@ -34106,5 +34106,57 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3755002475,
+    "number": 171119,
+    "title": "DISABLED test_index (__main__.DistTensorOpsTest)",
+    "url": "https://github.com/pytorch/pytorch/issues/171119",
+    "created_at": "2025-12-22T19:46:23Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "skipped",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3755020861,
+    "number": 25855,
+    "title": "Panic on unwrap when writing boolean series to parquet",
+    "url": "https://github.com/pola-rs/polars/issues/25855",
+    "created_at": "2025-12-22T19:52:54Z",
+    "user": "ChristopherRussell",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-io-parquet",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3755035393,
+    "number": 171123,
+    "title": "ROCm linux.rocm.gpu.gfx942.*.b runners switching providers",
+    "url": "https://github.com/pytorch/pytorch/issues/171123",
+    "created_at": "2025-12-22T19:59:11Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "ci: sev"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

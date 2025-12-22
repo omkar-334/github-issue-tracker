@@ -688,6 +688,21 @@
     "archived": false
   },
   {
+    "repo": "pymc-devs/pymc",
+    "id": 2858644822,
+    "number": 7683,
+    "title": "ENH: progressbar=False should silence all sampling output",
+    "url": "https://github.com/pymc-devs/pymc/issues/7683",
+    "created_at": "2025-02-17T19:26:47Z",
+    "user": "fonnesbeck",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2859818751,
     "number": 2313,
