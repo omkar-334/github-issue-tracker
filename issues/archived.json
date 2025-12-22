@@ -1,17 +1,31 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 344055161,
-    "number": 11764,
-    "title": "Feature request: savefig with separated pad_inches in each direction",
-    "url": "https://github.com/matplotlib/matplotlib/issues/11764",
-    "created_at": "2018-07-24T14:10:46Z",
-    "user": "scarlehoff",
+    "repo": "numba/numba",
+    "id": 688148028,
+    "number": 6184,
+    "title": "Improve error message for NumPy alias type used as dtype in ArrayNdCtors",
+    "url": "https://github.com/numba/numba/issues/6184",
+    "created_at": "2020-08-28T15:16:24Z",
+    "user": "stuartarchibald",
     "labels": [
-      "API: consistency",
-      "API: changes",
-      "status: inactive",
-      "status: closed as inactive"
+      "feature_request",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 2021808081,
+    "number": 4,
+    "title": "Apple Silicon Support",
+    "url": "https://github.com/unslothai/unsloth/issues/4",
+    "created_at": "2023-12-02T02:14:16Z",
+    "user": "nicosuave",
+    "labels": [
+      "on roadmap",
+      "help wanted"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

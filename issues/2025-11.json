@@ -20235,6 +20235,19 @@
     "archived": false
   },
   {
+    "repo": "psf/black",
+    "id": 3678478224,
+    "number": 4877,
+    "title": "wrap_comprehension_in: Black preview style removes parentheses that make code harder to read",
+    "url": "https://github.com/psf/black/issues/4877",
+    "created_at": "2025-11-30T21:58:28Z",
+    "user": "hauntsaninja",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3678506634,
     "number": 59078,
