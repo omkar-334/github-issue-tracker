@@ -7823,6 +7823,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3066088513,
+      "number": 153614,
+      "title": "Add opentelemetry traces",
+      "url": "https://github.com/pytorch/pytorch/issues/153614",
+      "created_at": "2025-05-15T12:31:09Z",
+      "user": "McPatate",
+      "labels": [
+        "oncall: profiler"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 3066646480,
       "number": 5613,
@@ -15467,6 +15482,23 @@
         "triaged",
         "module: bfloat16",
         "module: arm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3256650953,
+      "number": 61930,
+      "title": "PERF: `DataFrame.copy(deep=True)` returns a view on the original pyarrow buffer",
+      "url": "https://github.com/pandas-dev/pandas/issues/61930",
+      "created_at": "2025-07-23T14:37:26Z",
+      "user": "TomAugspurger",
+      "labels": [
+        "Performance",
+        "Needs Discussion",
+        "Copy / view semantics"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -91742,8 +91774,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3752954620,
+      "number": 59612,
+      "title": "[LLM] boto3 is missing from dependencies list",
+      "url": "https://github.com/ray-project/ray/issues/59612",
+      "created_at": "2025-12-22T09:14:12Z",
+      "user": "kpal-lilt",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3752963400,
+      "number": 12874,
+      "title": "StabilityAI just take down their SD2 from huggingface",
+      "url": "https://github.com/huggingface/diffusers/issues/12874",
+      "created_at": "2025-12-22T09:16:13Z",
+      "user": "Bili-Sakura",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3753008623,
+      "number": 23016,
+      "title": "[Triton] Ensemble vs BLS: Handling empty inputs / conditional execution",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23016",
+      "created_at": "2025-12-22T09:27:01Z",
+      "user": "sh1man999",
+      "labels": [
+        "question",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T08:39:49Z",
-  "total_count": 6039
+  "last_updated": "2025-12-22T09:37:03Z",
+  "total_count": 6044
 }

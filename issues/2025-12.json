@@ -33194,5 +33194,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3752954620,
+    "number": 59612,
+    "title": "[LLM] boto3 is missing from dependencies list",
+    "url": "https://github.com/ray-project/ray/issues/59612",
+    "created_at": "2025-12-22T09:14:12Z",
+    "user": "kpal-lilt",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3752963400,
+    "number": 12874,
+    "title": "StabilityAI just take down their SD2 from huggingface",
+    "url": "https://github.com/huggingface/diffusers/issues/12874",
+    "created_at": "2025-12-22T09:16:13Z",
+    "user": "Bili-Sakura",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3753008623,
+    "number": 23016,
+    "title": "[Triton] Ensemble vs BLS: Handling empty inputs / conditional execution",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23016",
+    "created_at": "2025-12-22T09:27:01Z",
+    "user": "sh1man999",
+    "labels": [
+      "question",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

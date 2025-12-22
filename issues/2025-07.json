@@ -3213,6 +3213,23 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3256650953,
+    "number": 61930,
+    "title": "PERF: `DataFrame.copy(deep=True)` returns a view on the original pyarrow buffer",
+    "url": "https://github.com/pandas-dev/pandas/issues/61930",
+    "created_at": "2025-07-23T14:37:26Z",
+    "user": "TomAugspurger",
+    "labels": [
+      "Performance",
+      "Needs Discussion",
+      "Copy / view semantics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3256831685,
     "number": 1606,
