@@ -5085,6 +5085,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3537565100,
+    "number": 22458,
+    "title": "License Ambiguity: Ultralytics Website does not follow the spirit of GNU AGPLv3",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22458",
+    "created_at": "2025-10-21T17:45:25Z",
+    "user": "Vinyzu",
+    "labels": [
+      "question",
+      "enterprise"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3538002413,
     "number": 7246,

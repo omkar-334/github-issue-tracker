@@ -28622,6 +28622,19 @@
       "archived": false
     },
     {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3465916280,
+      "number": 21255,
+      "title": "Allow weight reuse in a different lightning module",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21255",
+      "created_at": "2025-09-29T17:25:45Z",
+      "user": "ziw-liu",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3465917535,
       "number": 41203,
@@ -34114,6 +34127,22 @@
       "user": "sklam",
       "labels": [
         "bug - failure to compile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3537565100,
+      "number": 22458,
+      "title": "License Ambiguity: Ultralytics Website does not follow the spirit of GNU AGPLv3",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22458",
+      "created_at": "2025-10-21T17:45:25Z",
+      "user": "Vinyzu",
+      "labels": [
+        "question",
+        "enterprise"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -45135,6 +45164,21 @@
         "module: performance",
         "module: cuda",
         "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3627473062,
+      "number": 28762,
+      "title": "[Installation]: getting vLLM installed with a free-threaded Python interpreter (3.14t)",
+      "url": "https://github.com/vllm-project/vllm/issues/28762",
+      "created_at": "2025-11-14T23:09:39Z",
+      "user": "rgommers",
+      "labels": [
+        "installation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -91860,8 +91904,111 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3753249238,
+      "number": 63458,
+      "title": "BUG: 3.0rc0: comparing `StringArray`s with `==` yields a `bool[pyarrow]` array with no `.sum()` method",
+      "url": "https://github.com/pandas-dev/pandas/issues/63458",
+      "created_at": "2025-12-22T10:29:27Z",
+      "user": "flying-sheep",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3753279715,
+      "number": 23017,
+      "title": "Validation error during training due to class mismatch despite using model.set_classes()",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23017",
+      "created_at": "2025-12-22T10:39:49Z",
+      "user": "Azen-Huang",
+      "labels": [
+        "bug",
+        "detect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3753350608,
+      "number": 31139,
+      "title": "[Bug]: Build vllm/rocm docker image",
+      "url": "https://github.com/vllm-project/vllm/issues/31139",
+      "created_at": "2025-12-22T11:01:47Z",
+      "user": "JartX",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3753370632,
+      "number": 19923,
+      "title": "ValueError: ZoneInfo keys may not be absolute paths, got: /UTC",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19923",
+      "created_at": "2025-12-22T11:07:31Z",
+      "user": "epicwhale",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3753375020,
+      "number": 171087,
+      "title": "test_Callable in dynamo/cpython/3_13/test_collections.py fails",
+      "url": "https://github.com/pytorch/pytorch/issues/171087",
+      "created_at": "2025-12-22T11:08:49Z",
+      "user": "wkong-amd",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3753390652,
+      "number": 19924,
+      "title": "Ctrl + C ability to terminate a `prefect server start` running in foreground",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19924",
+      "created_at": "2025-12-22T11:13:07Z",
+      "user": "epicwhale",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3753396864,
+      "number": 2170,
+      "title": "Attention scaling is never used",
+      "url": "https://github.com/pytorch/torchtitan/issues/2170",
+      "created_at": "2025-12-22T11:15:14Z",
+      "user": "francesco-bertolotti",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T10:31:33Z",
-  "total_count": 6047
+  "last_updated": "2025-12-22T11:26:24Z",
+  "total_count": 6057
 }
