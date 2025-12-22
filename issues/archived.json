@@ -1,30 +1,119 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1565235122,
-    "number": 93531,
-    "title": "TorchInductor CPU Performance Dashboard",
-    "url": "https://github.com/pytorch/pytorch/issues/93531",
-    "created_at": "2022-10-13T02:29:48Z",
-    "user": "blzheng",
+    "repo": "pandas-dev/pandas",
+    "id": 611137016,
+    "number": 33940,
+    "title": "API: how strict should the equals() method be?",
+    "url": "https://github.com/pandas-dev/pandas/issues/33940",
+    "created_at": "2020-05-02T08:36:29Z",
+    "user": "jorisvandenbossche",
     "labels": [
-      "triaged",
-      "oncall: pt2",
-      "oncall: cpu inductor"
+      "API Design",
+      "Needs Discussion",
+      "API - Consistency"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1877975015,
-    "number": 9513,
-    "title": "Official Mlflow docker image does not support postgres",
-    "url": "https://github.com/mlflow/mlflow/issues/9513",
-    "created_at": "2023-09-01T19:51:36Z",
-    "user": "benelot",
-    "labels": [],
+    "repo": "pytorch/pytorch",
+    "id": 1065449916,
+    "number": 68966,
+    "title": "`torch.ldexp` generated tests fail on call to `torch.mul`",
+    "url": "https://github.com/pytorch/pytorch/issues/68966",
+    "created_at": "2021-11-28T22:10:39Z",
+    "user": "saketh-are",
+    "labels": [
+      "module: autograd",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1355698912,
+    "number": 48312,
+    "title": "BUG: timedelta64[s] series constructor isn't equal with alternative constructor using to_timedelta unit='s'",
+    "url": "https://github.com/pandas-dev/pandas/issues/48312",
+    "created_at": "2022-08-30T12:34:27Z",
+    "user": "ntachukwu",
+    "labels": [
+      "Bug",
+      "Timedelta",
+      "Constructors",
+      "Non-Nano"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1562312603,
+    "number": 51060,
+    "title": "BUG: can't round-trip non-nano Timestamp",
+    "url": "https://github.com/pandas-dev/pandas/issues/51060",
+    "created_at": "2023-01-30T12:03:46Z",
+    "user": "MarcoGorelli",
+    "labels": [
+      "Bug",
+      "Non-Nano"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1656080402,
+    "number": 52457,
+    "title": "BUG: Series([int],  dtype=\"timedelta64[non-nano]\") returns 0 result",
+    "url": "https://github.com/pandas-dev/pandas/issues/52457",
+    "created_at": "2023-04-05T18:15:12Z",
+    "user": "mroeschke",
+    "labels": [
+      "Bug",
+      "Timedelta",
+      "Constructors",
+      "Non-Nano"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1754404452,
+    "number": 53643,
+    "title": "BUG: Timedelta with non-ns unit does not add correctly to stdlib datetime.datetime",
+    "url": "https://github.com/pandas-dev/pandas/issues/53643",
+    "created_at": "2023-06-13T09:09:17Z",
+    "user": "Flix6x",
+    "labels": [
+      "Bug",
+      "Numeric Operations",
+      "Timedelta",
+      "Upstream issue",
+      "Non-Nano"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
