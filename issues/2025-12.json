@@ -32938,5 +32938,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3752241709,
+    "number": 30890,
+    "title": "[ENH]: Built-in support for multi-color and multi-style text.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30890",
+    "created_at": "2025-12-22T04:10:33Z",
+    "user": "ra8in",
+    "labels": [
+      "New feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3752258668,
+    "number": 21445,
+    "title": "Fix broken examples exploration link in README (404 Error)",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21445",
+    "created_at": "2025-12-22T04:22:09Z",
+    "user": "shokrydev",
+    "labels": [
+      "docs",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
