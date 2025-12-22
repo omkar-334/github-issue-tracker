@@ -93024,8 +93024,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755136415,
+      "number": 171128,
+      "title": "Updating Docker image results in libstdc++.so.6 import error",
+      "url": "https://github.com/pytorch/pytorch/issues/171128",
+      "created_at": "2025-12-22T20:34:38Z",
+      "user": "svekars",
+      "labels": [
+        "module: dependency bug",
+        "module: doc infra",
+        "module: infra",
+        "dependency issue"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3755151008,
+      "number": 3761,
+      "title": "[Bug] Qwen3 VL guide seems to recommend incorrect settings",
+      "url": "https://github.com/unslothai/unsloth/issues/3761",
+      "created_at": "2025-12-22T20:40:50Z",
+      "user": "donnielrt",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3755156851,
+      "number": 22147,
+      "title": "Linter: [TRY400] unexpected behavior with loguru",
+      "url": "https://github.com/astral-sh/ruff/issues/22147",
+      "created_at": "2025-12-22T20:43:47Z",
+      "user": "thisisarko",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3755205736,
+      "number": 31181,
+      "title": "[CI Failure]: Transformers Nightly Models Test",
+      "url": "https://github.com/vllm-project/vllm/issues/31181",
+      "created_at": "2025-12-22T21:04:35Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T20:31:59Z",
-  "total_count": 6123
+  "last_updated": "2025-12-22T21:26:12Z",
+  "total_count": 6127
 }
