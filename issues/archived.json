@@ -1,32 +1,32 @@
 [
   {
-    "repo": "numpy/numpy",
-    "id": 273607590,
-    "number": 10019,
-    "title": "histogram doesn't always work with masked arrays",
-    "url": "https://github.com/numpy/numpy/issues/10019",
-    "created_at": "2017-11-13T22:54:32Z",
-    "user": "fredrik-1",
+    "repo": "matplotlib/matplotlib",
+    "id": 344055161,
+    "number": 11764,
+    "title": "Feature request: savefig with separated pad_inches in each direction",
+    "url": "https://github.com/matplotlib/matplotlib/issues/11764",
+    "created_at": "2018-07-24T14:10:46Z",
+    "user": "scarlehoff",
     "labels": [
-      "component: numpy.ma"
+      "API: consistency",
+      "API: changes",
+      "status: inactive",
+      "status: closed as inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "streamlit/streamlit",
-    "id": 1553625318,
-    "number": 6004,
-    "title": "[Coming soon] st.tabs: know and control state",
-    "url": "https://github.com/streamlit/streamlit/issues/6004",
-    "created_at": "2023-01-23T19:17:02Z",
-    "user": "MathCatsAnd",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "type:enhancement",
-      "area:events",
-      "feature:st.tabs",
-      "status:likely"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

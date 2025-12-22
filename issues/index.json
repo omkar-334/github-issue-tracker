@@ -17963,6 +17963,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3306617224,
+      "number": 3123,
+      "title": "[Bug] Invalid dim size when increasing batch size more than 1 in orpheus tts fine-tuning",
+      "url": "https://github.com/unslothai/unsloth/issues/3123",
+      "created_at": "2025-08-09T17:28:05Z",
+      "user": "kkailaasa",
+      "labels": [
+        "fixed - pending confirmation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3306933996,
       "number": 9173,
@@ -92517,6 +92532,21 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3754001130,
+      "number": 171094,
+      "title": "Using cutlass gives cuda illegal memory access",
+      "url": "https://github.com/pytorch/pytorch/issues/171094",
+      "created_at": "2025-12-22T14:28:01Z",
+      "user": "ben-da6",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pyg-team/pytorch_geometric",
       "id": 3754009790,
       "number": 10566,
@@ -92798,8 +92828,90 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3754598360,
+      "number": 1532,
+      "title": "[MNT] merge `openml-sklearn` extension back into `openml`",
+      "url": "https://github.com/openml/openml-python/issues/1532",
+      "created_at": "2025-12-22T17:26:56Z",
+      "user": "fkiraly",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3754630955,
+      "number": 19927,
+      "title": "PrefectDbtRunner not working when running in parallel tasks",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19927",
+      "created_at": "2025-12-22T17:35:34Z",
+      "user": "sol-joseph",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3754768382,
+      "number": 10280,
+      "title": "PipelineTool.from_dict() corrupts input dictionary, causing failure on repeated deserialization",
+      "url": "https://github.com/deepset-ai/haystack/issues/10280",
+      "created_at": "2025-12-22T18:17:50Z",
+      "user": "Hansehart",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3754777207,
+      "number": 22146,
+      "title": "Rules documentation flake8 pyflakes",
+      "url": "https://github.com/astral-sh/ruff/issues/22146",
+      "created_at": "2025-12-22T18:21:37Z",
+      "user": "fulminemizzega",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3754784779,
+      "number": 16365,
+      "title": "[v1.1.0] Release Tracker",
+      "url": "https://github.com/pytorch/executorch/issues/16365",
+      "created_at": "2025-12-22T18:24:34Z",
+      "user": "mergennachin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3754791216,
+      "number": 12878,
+      "title": "This new version of diffusers causes problems when doing inference with Flux 1.D and Wan2.2 Text To Image (explanation below)",
+      "url": "https://github.com/huggingface/diffusers/issues/12878",
+      "created_at": "2025-12-22T18:27:38Z",
+      "user": "ukaprch",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T17:26:20Z",
-  "total_count": 6108
+  "last_updated": "2025-12-22T18:40:07Z",
+  "total_count": 6116
 }
