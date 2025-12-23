@@ -3083,6 +3083,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3512741195,
+    "number": 26777,
+    "title": "[Bug]: Deploying Qwen2.5-VL-7B with Eagle3, the service crashes when concurrency increases.",
+    "url": "https://github.com/vllm-project/vllm/issues/26777",
+    "created_at": "2025-10-14T07:38:05Z",
+    "user": "taoyun951753",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3512783057,
     "number": 15526,

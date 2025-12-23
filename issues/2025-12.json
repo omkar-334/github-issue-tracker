@@ -34520,5 +34520,66 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3755833459,
+    "number": 23023,
+    "title": "Is there any way to export the TensorRT engine file for SAM3?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23023",
+    "created_at": "2025-12-23T02:52:00Z",
+    "user": "willyhuang-dev",
+    "labels": [
+      "question",
+      "exports"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3755864802,
+    "number": 43010,
+    "title": "Cache's (and Layer's) `update(...)` method to be decorated with `@torch.no_grad`",
+    "url": "https://github.com/huggingface/transformers/issues/43010",
+    "created_at": "2025-12-23T03:08:33Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3755872144,
+    "number": 43011,
+    "title": "`StaticLayer` cache layer to implement `.crop(seq_len)` to match API of `DynamicLayer`",
+    "url": "https://github.com/huggingface/transformers/issues/43011",
+    "created_at": "2025-12-23T03:13:30Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3755904016,
+    "number": 31204,
+    "title": "[RFC]: Supporting Multi MTP layers in Speculative Decoding (EagleProposer)",
+    "url": "https://github.com/vllm-project/vllm/issues/31204",
+    "created_at": "2025-12-23T03:34:05Z",
+    "user": "DingYibin",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

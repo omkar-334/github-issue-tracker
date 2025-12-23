@@ -3069,6 +3069,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2887135833,
+      "number": 14040,
+      "title": "[Bug]: RuntimeError: ('Quantization scheme is not supported for ', 'the current GPU. Min capability: 80. ', 'Current capability: 75.')",
+      "url": "https://github.com/vllm-project/vllm/issues/14040",
+      "created_at": "2025-02-28T13:18:24Z",
+      "user": "Bakht-Ullah",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 2887324790,
       "number": 13761,
@@ -23274,6 +23290,21 @@
       "archived": false
     },
     {
+      "repo": "prefecthq/prefect",
+      "id": 3396789221,
+      "number": 18894,
+      "title": "Intermittent schedule duplication causing double flow runs",
+      "url": "https://github.com/PrefectHQ/prefect/issues/18894",
+      "created_at": "2025-09-09T06:05:39Z",
+      "user": "Spichon",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 3397033293,
       "number": 2351,
@@ -32320,6 +32351,21 @@
         "oncall: pt2",
         "module: dynamo",
         "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3512741195,
+      "number": 26777,
+      "title": "[Bug]: Deploying Qwen2.5-VL-7B with Eagle3, the service crashes when concurrency increases.",
+      "url": "https://github.com/vllm-project/vllm/issues/26777",
+      "created_at": "2025-10-14T07:38:05Z",
+      "user": "taoyun951753",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -54026,6 +54072,21 @@
       "created_at": "2025-11-26T07:38:26Z",
       "user": "bejaeger",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3666283274,
+      "number": 29486,
+      "title": "[Performance]: Add optimized fused-moe kernels for low bit quantized gguf models",
+      "url": "https://github.com/vllm-project/vllm/issues/29486",
+      "created_at": "2025-11-26T07:46:54Z",
+      "user": "ZelinMa557",
+      "labels": [
+        "performance"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -93510,8 +93571,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3755833459,
+      "number": 23023,
+      "title": "Is there any way to export the TensorRT engine file for SAM3?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23023",
+      "created_at": "2025-12-23T02:52:00Z",
+      "user": "willyhuang-dev",
+      "labels": [
+        "question",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3755864802,
+      "number": 43010,
+      "title": "Cache's (and Layer's) `update(...)` method to be decorated with `@torch.no_grad`",
+      "url": "https://github.com/huggingface/transformers/issues/43010",
+      "created_at": "2025-12-23T03:08:33Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3755872144,
+      "number": 43011,
+      "title": "`StaticLayer` cache layer to implement `.crop(seq_len)` to match API of `DynamicLayer`",
+      "url": "https://github.com/huggingface/transformers/issues/43011",
+      "created_at": "2025-12-23T03:13:30Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3755904016,
+      "number": 31204,
+      "title": "[RFC]: Supporting Multi MTP layers in Speculative Decoding (EagleProposer)",
+      "url": "https://github.com/vllm-project/vllm/issues/31204",
+      "created_at": "2025-12-23T03:34:05Z",
+      "user": "DingYibin",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T02:03:16Z",
-  "total_count": 6154
+  "last_updated": "2025-12-23T03:45:48Z",
+  "total_count": 6162
 }

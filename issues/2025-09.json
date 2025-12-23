@@ -2414,6 +2414,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3396789221,
+    "number": 18894,
+    "title": "Intermittent schedule duplication causing double flow runs",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18894",
+    "created_at": "2025-09-09T06:05:39Z",
+    "user": "Spichon",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/optimum",
     "id": 3397033293,
     "number": 2351,

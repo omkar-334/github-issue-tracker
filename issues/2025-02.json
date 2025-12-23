@@ -1257,6 +1257,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2887135833,
+    "number": 14040,
+    "title": "[Bug]: RuntimeError: ('Quantization scheme is not supported for ', 'the current GPU. Min capability: 80. ', 'Current capability: 75.')",
+    "url": "https://github.com/vllm-project/vllm/issues/14040",
+    "created_at": "2025-02-28T13:18:24Z",
+    "user": "Bakht-Ullah",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2887324790,
     "number": 13761,
