@@ -1,30 +1,43 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2149576701,
-    "number": 28507,
-    "title": "Allow `RandomForest*` and `ExtraTrees*` to have a higher max_samples than 1.0 when `bootstrap=True`",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/28507",
-    "created_at": "2024-02-22T17:36:36Z",
-    "user": "adam2392",
+    "repo": "pytorch/pytorch",
+    "id": 1393611320,
+    "number": 86060,
+    "title": "[MPS] Pin_memory on MPS backend raises exception of setting wrong device storage",
+    "url": "https://github.com/pytorch/pytorch/issues/86060",
+    "created_at": "2022-10-02T01:51:20Z",
+    "user": "CaoZhongZ",
     "labels": [
-      "New Feature",
-      "Needs Decision"
+      "triaged",
+      "module: mps"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "numpy/numpy",
+    "id": 2582762147,
+    "number": 27545,
+    "title": "ENH: `numpy.isdtype` with custom dtypes",
+    "url": "https://github.com/numpy/numpy/issues/27545",
+    "created_at": "2024-10-12T10:06:34Z",
+    "user": "keewis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 2699431308,
+    "number": 27871,
+    "title": "DOC: Should we create an FAQ (or see if we already have a place)",
+    "url": "https://github.com/numpy/numpy/issues/27871",
+    "created_at": "2024-11-27T18:26:03Z",
+    "user": "seberg",
     "labels": [
-      "internal"
+      "component: documentation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

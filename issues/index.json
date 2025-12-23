@@ -94221,8 +94221,152 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3756759167,
+      "number": 4739,
+      "title": "CI fails with test dependencies: ValueError: Default process group has not been initialized",
+      "url": "https://github.com/huggingface/trl/issues/4739",
+      "created_at": "2025-12-23T09:40:04Z",
+      "user": "albertvillanova",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3756775420,
+      "number": 22158,
+      "title": "Prefer `monkeypatch.setenv` over direct `os.environ` mutation in tests",
+      "url": "https://github.com/astral-sh/ruff/issues/22158",
+      "created_at": "2025-12-23T09:46:23Z",
+      "user": "harupy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3756776167,
+      "number": 3765,
+      "title": "[Bug] RuntimeError: Boolean value of Tensor with more than one value is ambiguous",
+      "url": "https://github.com/unslothai/unsloth/issues/3765",
+      "created_at": "2025-12-23T09:46:40Z",
+      "user": "qtcg",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3756802639,
+      "number": 3766,
+      "title": "[Bug] RuntimeError: Boolean value of Tensor with more than one value is ambiguous",
+      "url": "https://github.com/unslothai/unsloth/issues/3766",
+      "created_at": "2025-12-23T09:56:12Z",
+      "user": "qtcg",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3756844330,
+      "number": 12884,
+      "title": "Compatibility issues regarding checkpoint/VAE dependency conflicts when Diffusers load Civitai LoRA",
+      "url": "https://github.com/huggingface/diffusers/issues/12884",
+      "created_at": "2025-12-23T10:11:27Z",
+      "user": "hhhFuture",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3756846466,
+      "number": 59626,
+      "title": "erros related to Ray in nv-ingest pod of RAG blueprint of NVIDIA",
+      "url": "https://github.com/ray-project/ray/issues/59626",
+      "created_at": "2025-12-23T10:12:01Z",
+      "user": "sanzende",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3756869573,
+      "number": 24231,
+      "title": "BUG: `scipy.spatial.voronoi` Qhull internal issue with infinite edges ?",
+      "url": "https://github.com/scipy/scipy/issues/24231",
+      "created_at": "2025-12-23T10:20:27Z",
+      "user": "antoinecollet5",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3756870745,
+      "number": 21448,
+      "title": "Manual `Dataloader` reloading during training",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21448",
+      "created_at": "2025-12-23T10:20:56Z",
+      "user": "FilippoOlivo",
+      "labels": [
+        "feature",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3756877518,
+      "number": 31216,
+      "title": "[RFC]: Sampling Optimization: move gather of logits after argmax.",
+      "url": "https://github.com/vllm-project/vllm/issues/31216",
+      "created_at": "2025-12-23T10:23:34Z",
+      "user": "whx-sjtu",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3756883862,
+      "number": 1548,
+      "title": "[BUG] fix docstring style for the API",
+      "url": "https://github.com/openml/openml-python/issues/1548",
+      "created_at": "2025-12-23T10:26:00Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T09:33:45Z",
-  "total_count": 6202
+  "last_updated": "2025-12-23T10:32:39Z",
+  "total_count": 6212
 }
