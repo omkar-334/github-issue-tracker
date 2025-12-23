@@ -55460,6 +55460,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3668554522,
+      "number": 29515,
+      "title": "[CI Failure]: mi325_1: V1 Test attention (H100)",
+      "url": "https://github.com/vllm-project/vllm/issues/29515",
+      "created_at": "2025-11-26T18:06:58Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3668583937,
       "number": 17148,
@@ -55620,6 +55635,21 @@
       "title": "[CI Failure]: mi325_8: LoRA Test %N",
       "url": "https://github.com/vllm-project/vllm/issues/29534",
       "created_at": "2025-11-26T19:12:59Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668764186,
+      "number": 29535,
+      "title": "[CI Failure]: mi325_2: Distributed Tests (H200)",
+      "url": "https://github.com/vllm-project/vllm/issues/29535",
+      "created_at": "2025-11-26T19:17:32Z",
       "user": "AndreasKaratzas",
       "labels": [
         "ci-failure"
@@ -95473,8 +95503,82 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3758727059,
+      "number": 19961,
+      "title": "Incorrect handling of dbt ephemeral models in PrefectDbtRunner",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19961",
+      "created_at": "2025-12-23T22:33:48Z",
+      "user": "vyagubov",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3758728815,
+      "number": 22166,
+      "title": "RUF012 warns for ctypes Structure._fields_",
+      "url": "https://github.com/astral-sh/ruff/issues/22166",
+      "created_at": "2025-12-23T22:35:08Z",
+      "user": "behrmann",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3758739715,
+      "number": 31244,
+      "title": "[CI Failure]:  mi325_2: Plugin Tests (2 GPUs)",
+      "url": "https://github.com/vllm-project/vllm/issues/31244",
+      "created_at": "2025-12-23T22:43:40Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3758743083,
+      "number": 31245,
+      "title": "[CI Failure]:  mi325_4: DeepSeek V2-Lite Async EPLB Accuracy",
+      "url": "https://github.com/vllm-project/vllm/issues/31245",
+      "created_at": "2025-12-23T22:46:27Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3758763152,
+      "number": 63476,
+      "title": "ENH: Add an opt in operation report for time memory and copy behavior",
+      "url": "https://github.com/pandas-dev/pandas/issues/63476",
+      "created_at": "2025-12-23T23:03:14Z",
+      "user": "gautamvarmadatla",
+      "labels": [
+        "Enhancement",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T22:27:56Z",
-  "total_count": 6284
+  "last_updated": "2025-12-23T23:27:01Z",
+  "total_count": 6291
 }

@@ -1,30 +1,28 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
+    "repo": "dask/distributed",
+    "id": 945309531,
+    "number": 5069,
+    "title": "distributed.utils_test.popen does not use binaries from PATH",
+    "url": "https://github.com/dask/distributed/issues/5069",
+    "created_at": "2021-07-15T12:04:49Z",
+    "user": "jacobtomlinson",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 2736599003,
-    "number": 29294,
-    "title": "[Doc]: Style methods documented as part of matplotlib but not pyplot",
-    "url": "https://github.com/matplotlib/matplotlib/issues/29294",
-    "created_at": "2024-12-12T18:20:05Z",
-    "user": "jsdodge",
+    "repo": "streamlit/streamlit",
+    "id": 1518133652,
+    "number": 5908,
+    "title": "Button or API for users to switch between themes without the Hamburger menu",
+    "url": "https://github.com/streamlit/streamlit/issues/5908",
+    "created_at": "2023-01-04T00:59:01Z",
+    "user": "lesser-panda",
     "labels": [
-      "Documentation",
-      "status: needs comment/discussion"
+      "type:enhancement",
+      "feature:theming"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
