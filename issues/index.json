@@ -93632,8 +93632,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3755941571,
+      "number": 43012,
+      "title": "Compiling a bfloat16 model triggers float32 precision PyTorch warning",
+      "url": "https://github.com/huggingface/transformers/issues/43012",
+      "created_at": "2025-12-23T03:59:45Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755971708,
+      "number": 171158,
+      "title": "`torch.func.grad` to allow some inplace ops",
+      "url": "https://github.com/pytorch/pytorch/issues/171158",
+      "created_at": "2025-12-23T04:16:33Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T03:45:48Z",
-  "total_count": 6162
+  "last_updated": "2025-12-23T04:44:12Z",
+  "total_count": 6164
 }
