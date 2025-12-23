@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "repo": "numpy/numpy",
+    "id": 2699431308,
+    "number": 27871,
+    "title": "DOC: Should we create an FAQ (or see if we already have a place)",
+    "url": "https://github.com/numpy/numpy/issues/27871",
+    "created_at": "2024-11-27T18:26:03Z",
+    "user": "seberg",
+    "labels": [
+      "component: documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

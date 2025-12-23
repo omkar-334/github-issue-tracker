@@ -34768,5 +34768,163 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3756409779,
+    "number": 25857,
+    "title": "Improve Wasm compatibility: parquet feature transitively enables object_store and mio even when cloud is disabled",
+    "url": "https://github.com/pola-rs/polars/issues/25857",
+    "created_at": "2025-12-23T07:30:03Z",
+    "user": "wangjiawen2013",
+    "labels": [
+      "A-io-cloud",
+      "A-io-parquet"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3756454632,
+    "number": 1540,
+    "title": "[ENH] Refactor `OpenMLEvaluation` to Use Dataclass",
+    "url": "https://github.com/openml/openml-python/issues/1540",
+    "created_at": "2025-12-23T07:48:15Z",
+    "user": "SimonBlanke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3756459872,
+    "number": 1541,
+    "title": "[ENH] Refactor `OpenMLParameter` to Use Dataclass",
+    "url": "https://github.com/openml/openml-python/issues/1541",
+    "created_at": "2025-12-23T07:50:28Z",
+    "user": "SimonBlanke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3756460911,
+    "number": 1542,
+    "title": "[BUG] Fix Sklearn Models detection by safely registering SklearnExtension",
+    "url": "https://github.com/openml/openml-python/issues/1542",
+    "created_at": "2025-12-23T07:50:51Z",
+    "user": "geetu040",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3756480057,
+    "number": 43016,
+    "title": "Dia model cannot load/ generation error",
+    "url": "https://github.com/huggingface/transformers/issues/43016",
+    "created_at": "2025-12-23T07:59:41Z",
+    "user": "jiqing-feng",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3756487090,
+    "number": 31210,
+    "title": "[Bug]: Wrong Generation Under High Concurrency When Using KVCache CPU Offload (vLLM 0.13.0)",
+    "url": "https://github.com/vllm-project/vllm/issues/31210",
+    "created_at": "2025-12-23T08:02:55Z",
+    "user": "wangqia0309",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3756510832,
+    "number": 3763,
+    "title": "[Bug] RuntimeError: Direct module loading failed for unsloth_compiled_module_gpt2: unexpected indent (unsloth_compiled_module_gpt2.py, line 730)",
+    "url": "https://github.com/unslothai/unsloth/issues/3763",
+    "created_at": "2025-12-23T08:12:59Z",
+    "user": "zhi-lu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3756515581,
+    "number": 9085,
+    "title": "Does the dot type require the input to be of the same type as the acc type?",
+    "url": "https://github.com/triton-lang/triton/issues/9085",
+    "created_at": "2025-12-23T08:15:06Z",
+    "user": "chongweizhi01",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3756563725,
+    "number": 1543,
+    "title": "[DOC] Update Example for Converting Model to Flow",
+    "url": "https://github.com/openml/openml-python/issues/1543",
+    "created_at": "2025-12-23T08:33:58Z",
+    "user": "jgyasu",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3756564201,
+    "number": 3764,
+    "title": "[Bug] Error when install unsloth docker in ASUS Ascent GX10",
+    "url": "https://github.com/unslothai/unsloth/issues/3764",
+    "created_at": "2025-12-23T08:34:11Z",
+    "user": "PizzaSnow",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3756567263,
+    "number": 31211,
+    "title": "[Doc]: Add missing GPT-OSS tool calling instructions",
+    "url": "https://github.com/vllm-project/vllm/issues/31211",
+    "created_at": "2025-12-23T08:35:09Z",
+    "user": "amithkk",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

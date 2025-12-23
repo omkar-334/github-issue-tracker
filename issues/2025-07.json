@@ -2963,6 +2963,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3251410484,
+    "number": 158827,
+    "title": "[RFC] Graph generalization",
+    "url": "https://github.com/pytorch/pytorch/issues/158827",
+    "created_at": "2025-07-22T07:10:21Z",
+    "user": "majing921201",
+    "labels": [
+      "triaged",
+      "enhancement",
+      "needs research",
+      "module: PrivateUse1",
+      "module: accelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "dmlc/dgl",
     "id": 3251895067,
     "number": 7891,
