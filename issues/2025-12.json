@@ -34417,5 +34417,108 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3755668727,
+    "number": 171148,
+    "title": "Flaky warning during call of torch.compile-d function `W1223 00:39:19.723000 2515880 .venv/lib/python3.12/site-packages/torch/_dynamo/utils.py:1915] [!0] ChromiumEventLogger: Start event not in stack, ignoring`",
+    "url": "https://github.com/pytorch/pytorch/issues/171148",
+    "created_at": "2025-12-23T00:59:34Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3755702929,
+    "number": 19935,
+    "title": "Prefect 500 error on usage of malformed block documents.",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19935",
+    "created_at": "2025-12-23T01:22:50Z",
+    "user": "PontyPandySam",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3755732985,
+    "number": 13441,
+    "title": "How to Right Justify st.chat_message?",
+    "url": "https://github.com/streamlit/streamlit/issues/13441",
+    "created_at": "2025-12-23T01:42:57Z",
+    "user": "zhaowei0315",
+    "labels": [
+      "type:enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/sentence-transformers",
+    "id": 3755736572,
+    "number": 3602,
+    "title": "Support for T5Gemma2 Encoder",
+    "url": "https://github.com/huggingface/sentence-transformers/issues/3602",
+    "created_at": "2025-12-23T01:45:27Z",
+    "user": "contrebande-labs",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3755737320,
+    "number": 31199,
+    "title": "[Bug]: UnpicklingError during concurrent model compilation on multiple GPUs",
+    "url": "https://github.com/vllm-project/vllm/issues/31199",
+    "created_at": "2025-12-23T01:46:05Z",
+    "user": "AIDevCuda",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3755748396,
+    "number": 12881,
+    "title": "Is that a bug of prompt2prompt pipeline with replace word pormpt?",
+    "url": "https://github.com/huggingface/diffusers/issues/12881",
+    "created_at": "2025-12-23T01:55:06Z",
+    "user": "lincion",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3755749586,
+    "number": 31200,
+    "title": "[Bug]: class Request and  block_hasher has cirular reference, may cause memory leak.",
+    "url": "https://github.com/vllm-project/vllm/issues/31200",
+    "created_at": "2025-12-23T01:55:47Z",
+    "user": "frelam",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

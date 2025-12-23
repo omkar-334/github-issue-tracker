@@ -1,22 +1,6 @@
 {
   "issues": [
     {
-      "repo": "scikit-learn/scikit-learn",
-      "id": 2754763010,
-      "number": 30527,
-      "title": "Feature Selectors fail to route metadata when inside a Pipeline",
-      "url": "https://github.com/scikit-learn/scikit-learn/issues/30527",
-      "created_at": "2024-12-22T17:35:04Z",
-      "user": "kschluns",
-      "labels": [
-        "Bug",
-        "Metadata Routing"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "keras-team/keras-hub",
       "id": 2755748445,
       "number": 2027,
@@ -5988,6 +5972,26 @@
       "labels": [
         "bug",
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3004901642,
+      "number": 151670,
+      "title": "[inductor] [cuda] [fake tensor] `torch.ones(x.size(0))` becomes a fake tensor for `torch.diagonal_scatter`",
+      "url": "https://github.com/pytorch/pytorch/issues/151670",
+      "created_at": "2025-04-18T12:54:37Z",
+      "user": "shaoyuyoung",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: fakeTensor",
+        "module: dynamo",
+        "module: pt2-dispatcher"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -18847,6 +18851,24 @@
       "user": "abheesht17",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3327911804,
+      "number": 160833,
+      "title": "How to address the bug 'unwaited collective calls' when using DTensor?",
+      "url": "https://github.com/pytorch/pytorch/issues/160833",
+      "created_at": "2025-08-17T03:54:50Z",
+      "user": "arminzhu",
+      "labels": [
+        "high priority",
+        "triage review",
+        "needs reproduction",
+        "oncall: distributed"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -44072,6 +44094,23 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3619195363,
+      "number": 22670,
+      "title": "Inconsistency in the training log with YOLO11n-cls",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22670",
+      "created_at": "2025-11-13T03:17:18Z",
+      "user": "brenoslinhares",
+      "labels": [
+        "question",
+        "Stale",
+        "classify"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3619391782,
       "number": 12646,
@@ -46619,6 +46658,24 @@
       "user": "owenowenisme",
       "labels": [
         "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3635697997,
+      "number": 168058,
+      "title": "[DTensor] inconsistency of distributed RNG (Shard(0) != Shard(1) or  8 GPU != 4 GPU != 1 GPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/168058",
+      "created_at": "2025-11-18T01:29:44Z",
+      "user": "leonardo0lyj",
+      "labels": [
+        "high priority",
+        "triage review",
+        "oncall: distributed",
+        "module: dtensor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -93350,8 +93407,111 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3755668727,
+      "number": 171148,
+      "title": "Flaky warning during call of torch.compile-d function `W1223 00:39:19.723000 2515880 .venv/lib/python3.12/site-packages/torch/_dynamo/utils.py:1915] [!0] ChromiumEventLogger: Start event not in stack, ignoring`",
+      "url": "https://github.com/pytorch/pytorch/issues/171148",
+      "created_at": "2025-12-23T00:59:34Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3755702929,
+      "number": 19935,
+      "title": "Prefect 500 error on usage of malformed block documents.",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19935",
+      "created_at": "2025-12-23T01:22:50Z",
+      "user": "PontyPandySam",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3755732985,
+      "number": 13441,
+      "title": "How to Right Justify st.chat_message?",
+      "url": "https://github.com/streamlit/streamlit/issues/13441",
+      "created_at": "2025-12-23T01:42:57Z",
+      "user": "zhaowei0315",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/sentence-transformers",
+      "id": 3755736572,
+      "number": 3602,
+      "title": "Support for T5Gemma2 Encoder",
+      "url": "https://github.com/huggingface/sentence-transformers/issues/3602",
+      "created_at": "2025-12-23T01:45:27Z",
+      "user": "contrebande-labs",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3755737320,
+      "number": 31199,
+      "title": "[Bug]: UnpicklingError during concurrent model compilation on multiple GPUs",
+      "url": "https://github.com/vllm-project/vllm/issues/31199",
+      "created_at": "2025-12-23T01:46:05Z",
+      "user": "AIDevCuda",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3755748396,
+      "number": 12881,
+      "title": "Is that a bug of prompt2prompt pipeline with replace word pormpt?",
+      "url": "https://github.com/huggingface/diffusers/issues/12881",
+      "created_at": "2025-12-23T01:55:06Z",
+      "user": "lincion",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3755749586,
+      "number": 31200,
+      "title": "[Bug]: class Request and  block_hasher has cirular reference, may cause memory leak.",
+      "url": "https://github.com/vllm-project/vllm/issues/31200",
+      "created_at": "2025-12-23T01:55:47Z",
+      "user": "frelam",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-22T23:27:03Z",
-  "total_count": 6144
+  "last_updated": "2025-12-23T02:03:16Z",
+  "total_count": 6154
 }

@@ -5606,6 +5606,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3619195363,
+    "number": 22670,
+    "title": "Inconsistency in the training log with YOLO11n-cls",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22670",
+    "created_at": "2025-11-13T03:17:18Z",
+    "user": "brenoslinhares",
+    "labels": [
+      "question",
+      "Stale",
+      "classify"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3619391782,
     "number": 12646,
@@ -8153,6 +8170,24 @@
     "user": "owenowenisme",
     "labels": [
       "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3635697997,
+    "number": 168058,
+    "title": "[DTensor] inconsistency of distributed RNG (Shard(0) != Shard(1) or  8 GPU != 4 GPU != 1 GPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/168058",
+    "created_at": "2025-11-18T01:29:44Z",
+    "user": "leonardo0lyj",
+    "labels": [
+      "high priority",
+      "triage review",
+      "oncall: distributed",
+      "module: dtensor"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
