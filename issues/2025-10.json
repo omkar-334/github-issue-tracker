@@ -5131,6 +5131,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3537976967,
+    "number": 57962,
+    "title": "[core][rdt] Free rdt object metadata on borrowers when using NIXL put / get",
+    "url": "https://github.com/ray-project/ray/issues/57962",
+    "created_at": "2025-10-21T19:53:34Z",
+    "user": "dayshah",
+    "labels": [
+      "enhancement",
+      "P1",
+      "core",
+      "rdt"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3538002413,
     "number": 7246,

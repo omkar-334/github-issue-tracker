@@ -35260,5 +35260,129 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3757067081,
+    "number": 25859,
+    "title": "Accept Mapping Protocols for DataFrame construction",
+    "url": "https://github.com/pola-rs/polars/issues/25859",
+    "created_at": "2025-12-23T11:29:44Z",
+    "user": "OutSquareCapital",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3757092007,
+    "number": 34094,
+    "title": "XLA GPU: “Contracting dimension is too fragmented” triggered by certain seq_len × batch combinations",
+    "url": "https://github.com/jax-ml/jax/issues/34094",
+    "created_at": "2025-12-23T11:39:30Z",
+    "user": "lych1233",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3757111554,
+    "number": 4741,
+    "title": "CI fails with test dependencies: torch.AcceleratorError: CUDA error: device-side assert",
+    "url": "https://github.com/huggingface/trl/issues/4741",
+    "created_at": "2025-12-23T11:46:50Z",
+    "user": "albertvillanova",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3757133625,
+    "number": 7744,
+    "title": "Please publish DeeepSpeed Python 3.13 Windows wheels already",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7744",
+    "created_at": "2025-12-23T11:55:56Z",
+    "user": "FurkanGozukara",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3757134832,
+    "number": 19592,
+    "title": "[BUG] UI not working on plain HTTP",
+    "url": "https://github.com/mlflow/mlflow/issues/19592",
+    "created_at": "2025-12-23T11:56:26Z",
+    "user": "stefanwayon",
+    "labels": [
+      "bug",
+      "area/uiux"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3757184516,
+    "number": 25860,
+    "title": "`pivot` PanicException if datatype does not support `aggregate_function`",
+    "url": "https://github.com/pola-rs/polars/issues/25860",
+    "created_at": "2025-12-23T12:15:33Z",
+    "user": "cmdlineluser",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3757215632,
+    "number": 31219,
+    "title": "[Bug]: Concurrent requests with audio_embeds of different lengths crash EngineCore: \"audio_embeds contains inconsistent shapes\"",
+    "url": "https://github.com/vllm-project/vllm/issues/31219",
+    "created_at": "2025-12-23T12:25:57Z",
+    "user": "ykkk1",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3757271557,
+    "number": 25861,
+    "title": "Bigquery BIGNUMERIC fails to convert from arrow to polars df",
+    "url": "https://github.com/pola-rs/polars/issues/25861",
+    "created_at": "2025-12-23T12:46:49Z",
+    "user": "zigzagalex",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
