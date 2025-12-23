@@ -35911,5 +35911,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "id": 3758353699,
+    "number": 10567,
+    "title": "Clarify in radius and radius_graph that the implementation is O(N^2) on GPU",
+    "url": "https://github.com/pyg-team/pytorch_geometric/issues/10567",
+    "created_at": "2025-12-23T19:35:57Z",
+    "user": "Shihab-Shahriar",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3758370618,
+    "number": 171204,
+    "title": "Dynamo can't trace a code when we construct nn.Parameter in the forward.",
+    "url": "https://github.com/pytorch/pytorch/issues/171204",
+    "created_at": "2025-12-23T19:41:48Z",
+    "user": "tugsbayasgalan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
