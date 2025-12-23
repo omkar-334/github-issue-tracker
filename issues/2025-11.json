@@ -14638,6 +14638,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3662668405,
+    "number": 29403,
+    "title": "[Bug]: fastsafetensors in tensor parallel requires too much VRAM",
+    "url": "https://github.com/vllm-project/vllm/issues/29403",
+    "created_at": "2025-11-25T11:26:40Z",
+    "user": "Jannik2099",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3662843837,
     "number": 169055,

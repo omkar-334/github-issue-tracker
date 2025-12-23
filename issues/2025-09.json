@@ -5902,6 +5902,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3431127683,
+    "number": 163266,
+    "title": "`align_corners` option of `torch.nn.functional.interpolate` has incorrect default",
+    "url": "https://github.com/pytorch/pytorch/issues/163266",
+    "created_at": "2025-09-18T16:31:36Z",
+    "user": "schabertrobbinger",
+    "labels": [
+      "module: nn",
+      "triaged",
+      "topic: docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3431164584,
     "number": 30584,

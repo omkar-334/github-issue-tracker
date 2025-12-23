@@ -470,6 +470,22 @@
     "archived": false
   },
   {
+    "repo": "networkx/networkx",
+    "id": 3118125342,
+    "number": 8099,
+    "title": "nx.optimal_edit_paths not finding optimal",
+    "url": "https://github.com/networkx/networkx/issues/8099",
+    "created_at": "2025-06-04T14:47:30Z",
+    "user": "amcandio",
+    "labels": [
+      "type: Bug fix",
+      "Question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3118255761,
     "number": 2757,
