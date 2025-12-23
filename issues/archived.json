@@ -1,29 +1,77 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 1899771260,
-    "number": 9650,
-    "title": "[FR] Add Preview For JupyterNotebook files .ipynb",
-    "url": "https://github.com/mlflow/mlflow/issues/9650",
-    "created_at": "2023-09-17T12:41:47Z",
-    "user": "AdnenKhiari",
+    "repo": "scipy/scipy",
+    "id": 1052869507,
+    "number": 15036,
+    "title": "BUG: zeta(1/2, 1) returns nan",
+    "url": "https://github.com/scipy/scipy/issues/15036",
+    "created_at": "2021-11-14T07:21:33Z",
+    "user": "ghost",
     "labels": [
-      "enhancement"
+      "defect",
+      "scipy.special"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "matplotlib/matplotlib",
+    "id": 1327549710,
+    "number": 23544,
+    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
+    "created_at": "2022-08-03T17:08:28Z",
+    "user": "scottshambaugh",
     "labels": [
-      "internal"
+      "New feature",
+      "topic: mplot3d"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "google-deepmind/chex",
+    "id": 2248191892,
+    "number": 347,
+    "title": "Test files are in binary package distribution",
+    "url": "https://github.com/google-deepmind/chex/issues/347",
+    "created_at": "2024-04-17T12:36:47Z",
+    "user": "daskol",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "google-deepmind/optax",
+    "id": 2432599764,
+    "number": 1028,
+    "title": "Feature request: GaLore optimizer",
+    "url": "https://github.com/google-deepmind/optax/issues/1028",
+    "created_at": "2024-07-26T16:48:12Z",
+    "user": "giladturok",
+    "labels": [
+      "type:feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2680980753,
+    "number": 141287,
+    "title": "MPS operator coverage tracking issue (2.6+ version)",
+    "url": "https://github.com/pytorch/pytorch/issues/141287",
+    "created_at": "2024-11-21T21:15:46Z",
+    "user": "malfet",
+    "labels": [
+      "feature",
+      "triaged",
+      "tracker",
+      "module: mps"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -3539,6 +3539,19 @@
       "archived": false
     },
     {
+      "repo": "google-deepmind/chex",
+      "id": 2903121521,
+      "number": 382,
+      "title": "Example of chex.variants with pytest",
+      "url": "https://github.com/google-deepmind/chex/issues/382",
+      "created_at": "2025-03-07T14:16:36Z",
+      "user": "chMoussa",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 2903947888,
       "number": 51173,
@@ -10467,6 +10480,26 @@
       "created_at": "2025-06-10T13:13:39Z",
       "user": "SuriyaaMM",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3133911176,
+      "number": 23146,
+      "title": "List arithmetic with bool PanicException",
+      "url": "https://github.com/pola-rs/polars/issues/23146",
+      "created_at": "2025-06-10T14:49:41Z",
+      "user": "cmdlineluser",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "P-low",
+        "A-dtype-list/array",
+        "A-panic"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -94349,6 +94382,19 @@
     },
     {
       "repo": "huggingface/trl",
+      "id": 3756739572,
+      "number": 4738,
+      "title": "completion_only_loss=True give wrong training steps",
+      "url": "https://github.com/huggingface/trl/issues/4738",
+      "created_at": "2025-12-23T09:32:38Z",
+      "user": "HuangChiEn",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
       "id": 3756759167,
       "number": 4739,
       "title": "CI fails with test dependencies: ValueError: Default process group has not been initialized",
@@ -94778,6 +94824,25 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3757512237,
+      "number": 25864,
+      "title": "`scan_csv` on empty file should succeed with empty DataFrame when schema is provided and `has_header=False`",
+      "url": "https://github.com/pola-rs/polars/issues/25864",
+      "created_at": "2025-12-23T14:11:14Z",
+      "user": "nameexhaustion",
+      "labels": [
+        "python",
+        "enhancement",
+        "accepted",
+        "P-low",
+        "A-io-csv"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pandas-dev/pandas",
       "id": 3757547321,
       "number": 63472,
@@ -94823,8 +94888,112 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3757573719,
+      "number": 34462,
+      "title": "Pip install of langchain fails in python3.13t (nogil/free threading) due to orjson",
+      "url": "https://github.com/langchain-ai/langchain/issues/34462",
+      "created_at": "2025-12-23T14:31:49Z",
+      "user": "montsamu",
+      "labels": [
+        "bug",
+        "core",
+        "ollama"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3757610160,
+      "number": 16374,
+      "title": "`strided_copy` operator in output graph when sample input has been transposed",
+      "url": "https://github.com/pytorch/executorch/issues/16374",
+      "created_at": "2025-12-23T14:45:30Z",
+      "user": "etrommer",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3757619336,
+      "number": 43023,
+      "title": "How to investigate \"CAS service error\" during model downloading?",
+      "url": "https://github.com/huggingface/transformers/issues/43023",
+      "created_at": "2025-12-23T14:48:51Z",
+      "user": "satyrmipt",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3757642156,
+      "number": 23027,
+      "title": "[TRT ENGINE] Performance Comparison: PyTorch (DLPack) vs NumPy in Triton Python Backend",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23027",
+      "created_at": "2025-12-23T14:56:57Z",
+      "user": "sh1man",
+      "labels": [
+        "question",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "axolotl-ai-cloud/axolotl",
+      "id": 3757672191,
+      "number": 3331,
+      "title": "[ Cleanup ] Remove dead sdpa patches",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3331",
+      "created_at": "2025-12-23T15:07:24Z",
+      "user": "NanoCode012",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dask/dask",
+      "id": 3757690172,
+      "number": 12208,
+      "title": "cannot request --mem-per-gpu=40G as a job_extra_directives",
+      "url": "https://github.com/dask/dask/issues/12208",
+      "created_at": "2025-12-23T15:13:42Z",
+      "user": "jlmeunier",
+      "labels": [
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras-rs",
+      "id": 3757699327,
+      "number": 175,
+      "title": "Examples regarding implicit interactions",
+      "url": "https://github.com/keras-team/keras-rs/issues/175",
+      "created_at": "2025-12-23T15:17:03Z",
+      "user": "lpoug",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T14:29:49Z",
-  "total_count": 6242
+  "last_updated": "2025-12-23T15:31:28Z",
+  "total_count": 6253
 }

@@ -394,6 +394,19 @@
     "archived": false
   },
   {
+    "repo": "google-deepmind/chex",
+    "id": 2903121521,
+    "number": 382,
+    "title": "Example of chex.variants with pytest",
+    "url": "https://github.com/google-deepmind/chex/issues/382",
+    "created_at": "2025-03-07T14:16:36Z",
+    "user": "chMoussa",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 2903947888,
     "number": 51173,
