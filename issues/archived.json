@@ -1,77 +1,14 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 1052869507,
-    "number": 15036,
-    "title": "BUG: zeta(1/2, 1) returns nan",
-    "url": "https://github.com/scipy/scipy/issues/15036",
-    "created_at": "2021-11-14T07:21:33Z",
-    "user": "ghost",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "defect",
-      "scipy.special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1327549710,
-    "number": 23544,
-    "title": "[ENH]: Add ability to snap view to primary axis planes in 3D plots",
-    "url": "https://github.com/matplotlib/matplotlib/issues/23544",
-    "created_at": "2022-08-03T17:08:28Z",
-    "user": "scottshambaugh",
-    "labels": [
-      "New feature",
-      "topic: mplot3d"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "google-deepmind/chex",
-    "id": 2248191892,
-    "number": 347,
-    "title": "Test files are in binary package distribution",
-    "url": "https://github.com/google-deepmind/chex/issues/347",
-    "created_at": "2024-04-17T12:36:47Z",
-    "user": "daskol",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "google-deepmind/optax",
-    "id": 2432599764,
-    "number": 1028,
-    "title": "Feature request: GaLore optimizer",
-    "url": "https://github.com/google-deepmind/optax/issues/1028",
-    "created_at": "2024-07-26T16:48:12Z",
-    "user": "giladturok",
-    "labels": [
-      "type:feature"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2680980753,
-    "number": 141287,
-    "title": "MPS operator coverage tracking issue (2.6+ version)",
-    "url": "https://github.com/pytorch/pytorch/issues/141287",
-    "created_at": "2024-11-21T21:15:46Z",
-    "user": "malfet",
-    "labels": [
-      "feature",
-      "triaged",
-      "tracker",
-      "module: mps"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -89,6 +26,74 @@
       "bug",
       "performance",
       "Database"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2739230186,
+    "number": 26489,
+    "title": "Support for n-dimensional partition definitions",
+    "url": "https://github.com/dagster-io/dagster/issues/26489",
+    "created_at": "2024-12-13T21:22:19Z",
+    "user": "chrishiste",
+    "labels": [
+      "type: feature-request",
+      "area: partitions",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2753437136,
+    "number": 26648,
+    "title": "KeyError in exposure in dbt cloud",
+    "url": "https://github.com/dagster-io/dagster/issues/26648",
+    "created_at": "2024-12-20T20:23:34Z",
+    "user": "bramrodenburg",
+    "labels": [
+      "type: bug",
+      "integration: dbt",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2754395900,
+    "number": 26664,
+    "title": "Update `dagster-sdf` to most recent versions of SDF (0.10.8 vs 0.3.24)",
+    "url": "https://github.com/dagster-io/dagster/issues/26664",
+    "created_at": "2024-12-21T23:02:50Z",
+    "user": "elliottower",
+    "labels": [
+      "area: integrations",
+      "type: feature-request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2754742878,
+    "number": 26668,
+    "title": "Helm repo - missing index",
+    "url": "https://github.com/dagster-io/dagster/issues/26668",
+    "created_at": "2024-12-22T16:47:54Z",
+    "user": "pomverte",
+    "labels": [
+      "type: bug",
+      "deployment: k8s",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

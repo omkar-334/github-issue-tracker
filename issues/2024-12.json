@@ -598,6 +598,22 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 2755054430,
+    "number": 26673,
+    "title": "DagsterSlingTranslator.sanitize_stream_name() forces asset names to be lowercase",
+    "url": "https://github.com/dagster-io/dagster/issues/26673",
+    "created_at": "2024-12-23T02:09:49Z",
+    "user": "Cogito",
+    "labels": [
+      "integration: embedded-elt",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2755748445,
     "number": 2027,

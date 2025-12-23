@@ -1,6 +1,22 @@
 {
   "issues": [
     {
+      "repo": "dagster-io/dagster",
+      "id": 2755054430,
+      "number": 26673,
+      "title": "DagsterSlingTranslator.sanitize_stream_name() forces asset names to be lowercase",
+      "url": "https://github.com/dagster-io/dagster/issues/26673",
+      "created_at": "2024-12-23T02:09:49Z",
+      "user": "Cogito",
+      "labels": [
+        "integration: embedded-elt",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2755748445,
       "number": 2027,
@@ -5935,6 +5951,22 @@
       "created_at": "2025-04-16T10:16:31Z",
       "user": "WangXinYi111",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 2999369646,
+      "number": 29928,
+      "title": "[Doc]: Blitting minimal example missing draw_event callback",
+      "url": "https://github.com/matplotlib/matplotlib/issues/29928",
+      "created_at": "2025-04-16T11:38:34Z",
+      "user": "the-yrr",
+      "labels": [
+        "Documentation",
+        "topic: animation"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -94992,8 +95024,147 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3757757640,
+      "number": 1550,
+      "title": "[MNT] Updating `ruff` version for `pre-commit`",
+      "url": "https://github.com/openml/openml-python/issues/1550",
+      "created_at": "2025-12-23T15:38:33Z",
+      "user": "satvshr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3757778079,
+      "number": 30509,
+      "title": "DOC: Missing `import numpy as np` in interactive example of `np.testing.assert_array_equal.html`",
+      "url": "https://github.com/numpy/numpy/issues/30509",
+      "created_at": "2025-12-23T15:46:58Z",
+      "user": "ns-rse",
+      "labels": [
+        "04 - Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3757785766,
+      "number": 25865,
+      "title": "replace_strict fails for lazy evaluation when used in  a filter",
+      "url": "https://github.com/pola-rs/polars/issues/25865",
+      "created_at": "2025-12-23T15:50:18Z",
+      "user": "matyas-mattanelli-sf",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3757797408,
+      "number": 34096,
+      "title": "Regression in JAX 0.8.2: XLA `permutation_sort_simplifier` HLO verifier crashes compiling argsort-based inverse permutation (int64/x64)",
+      "url": "https://github.com/jax-ml/jax/issues/34096",
+      "created_at": "2025-12-23T15:54:30Z",
+      "user": "bmucsanyi",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3757805233,
+      "number": 171190,
+      "title": "torch.compile (Inductor) silently ignores explicit dtype casts in SDPA, diverging from eager semantics",
+      "url": "https://github.com/pytorch/pytorch/issues/171190",
+      "created_at": "2025-12-23T15:57:12Z",
+      "user": "Prorrrice",
+      "labels": [
+        "oncall: pt2",
+        "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3757814607,
+      "number": 171191,
+      "title": "torch.compile (Inductor) ignores float64→float32 dtype promotion in SDPA, diverging from eager semantics",
+      "url": "https://github.com/pytorch/pytorch/issues/171191",
+      "created_at": "2025-12-23T16:00:32Z",
+      "user": "Prorrrice",
+      "labels": [
+        "oncall: pt2",
+        "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3757836877,
+      "number": 34463,
+      "title": "create_agent falls back to ToolStrategy for Gemini 3 models when tools and response_format are passed",
+      "url": "https://github.com/langchain-ai/langchain/issues/34463",
+      "created_at": "2025-12-23T16:09:45Z",
+      "user": "thdesc",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3757872697,
+      "number": 19939,
+      "title": "Support for Redis Clusters",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19939",
+      "created_at": "2025-12-23T16:22:19Z",
+      "user": "bdalpe",
+      "labels": [
+        "enhancement",
+        "integrations"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3757898059,
+      "number": 43025,
+      "title": "Enable passing block_size and bf16_stochastic_round to torchao optimizers via TrainingArguments",
+      "url": "https://github.com/huggingface/transformers/issues/43025",
+      "created_at": "2025-12-23T16:30:42Z",
+      "user": "klae01",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T15:31:28Z",
-  "total_count": 6253
+  "last_updated": "2025-12-23T16:37:06Z",
+  "total_count": 6264
 }

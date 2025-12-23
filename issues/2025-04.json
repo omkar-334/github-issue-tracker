@@ -946,6 +946,22 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 2999369646,
+    "number": 29928,
+    "title": "[Doc]: Blitting minimal example missing draw_event callback",
+    "url": "https://github.com/matplotlib/matplotlib/issues/29928",
+    "created_at": "2025-04-16T11:38:34Z",
+    "user": "the-yrr",
+    "labels": [
+      "Documentation",
+      "topic: animation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3000151686,
     "number": 2362,
