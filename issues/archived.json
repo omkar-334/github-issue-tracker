@@ -1,15 +1,46 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 296204085,
-    "number": 10417,
-    "title": "wxPython 4.0: backends not yet working w. Wayland / Ubuntu 17",
-    "url": "https://github.com/matplotlib/matplotlib/issues/10417",
-    "created_at": "2018-02-11T16:41:58Z",
-    "user": "DietmarSchwertberger",
+    "repo": "mlflow/mlflow",
+    "id": 1899771260,
+    "number": 9650,
+    "title": "[FR] Add Preview For JupyterNotebook files .ipynb",
+    "url": "https://github.com/mlflow/mlflow/issues/9650",
+    "created_at": "2023-09-17T12:41:47Z",
+    "user": "AdnenKhiari",
     "labels": [
-      "GUI: wx",
-      "keep"
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 2728477043,
+    "number": 16299,
+    "title": "Prefect Server Experiencing Timeouts Due to Slow Database Communication",
+    "url": "https://github.com/PrefectHQ/prefect/issues/16299",
+    "created_at": "2024-12-09T23:04:43Z",
+    "user": "tomukmatthews",
+    "labels": [
+      "bug",
+      "performance",
+      "Database"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

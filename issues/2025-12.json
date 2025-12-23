@@ -35466,5 +35466,52 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3757547321,
+    "number": 63472,
+    "title": "BUG: specifying unit in to_datetime when parsing strings causes different error behaviour",
+    "url": "https://github.com/pandas-dev/pandas/issues/63472",
+    "created_at": "2025-12-23T14:22:14Z",
+    "user": "jorisvandenbossche",
+    "labels": [
+      "Bug",
+      "Non-Nano",
+      "Timestamp"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3757557341,
+    "number": 171187,
+    "title": "vLLM PyTorch V1 Test e2e + engine, test_eagle_correctness[FLASH_ATTN-deepseek_eagle] - RuntimeError",
+    "url": "https://github.com/pytorch/pytorch/issues/171187",
+    "created_at": "2025-12-23T14:25:42Z",
+    "user": "atalman",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3757557515,
+    "number": 19596,
+    "title": "[BUG] genai.evaluate does not work with mlflow + sagemaker-mlflow",
+    "url": "https://github.com/mlflow/mlflow/issues/19596",
+    "created_at": "2025-12-23T14:25:47Z",
+    "user": "ndenStanford",
+    "labels": [
+      "bug",
+      "area/scoring",
+      "area/evaluation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
