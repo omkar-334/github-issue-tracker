@@ -1115,6 +1115,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2930706709,
+    "number": 15102,
+    "title": "[Bug]: 0.8.0(V1) RayChannelTimeoutError when inferencing DeepSeekV3 on 16 H20 with large batch size",
+    "url": "https://github.com/vllm-project/vllm/issues/15102",
+    "created_at": "2025-03-19T07:13:52Z",
+    "user": "jeffye-dev",
+    "labels": [
+      "bug",
+      "ray"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 2932832158,
     "number": 9377,

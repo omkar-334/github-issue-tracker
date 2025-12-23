@@ -278,6 +278,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3042364693,
+    "number": 18635,
+    "title": "[Bug]: In qwen3, specifying \"chat_template_kwargs\": {\"enable_thinking\": False} in OpenAILike does not take effect.",
+    "url": "https://github.com/run-llama/llama_index/issues/18635",
+    "created_at": "2025-05-06T10:32:44Z",
+    "user": "OKC13",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3042584801,
     "number": 3350,

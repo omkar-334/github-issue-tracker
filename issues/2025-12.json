@@ -34583,6 +34583,21 @@
     "archived": false
   },
   {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3755917481,
+    "number": 32930,
+    "title": "DOC Supervised clustering metrics specify array input dtype",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32930",
+    "created_at": "2025-12-23T03:44:12Z",
+    "user": "lucyleeow",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3755941571,
     "number": 43012,
@@ -35146,6 +35161,101 @@
     "url": "https://github.com/openml/openml-python/issues/1548",
     "created_at": "2025-12-23T10:26:00Z",
     "user": "SimonBlanke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3756907718,
+    "number": 30508,
+    "title": "BUG: memleak in iter_ass_subscript / PyArray_IterNew",
+    "url": "https://github.com/numpy/numpy/issues/30508",
+    "created_at": "2025-12-23T10:35:35Z",
+    "user": "msalle",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3756930284,
+    "number": 31217,
+    "title": "[Usage]: suffix decoding",
+    "url": "https://github.com/vllm-project/vllm/issues/31217",
+    "created_at": "2025-12-23T10:43:45Z",
+    "user": "jiangix-paper",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3756960678,
+    "number": 22159,
+    "title": "[Fix error, FAST002] \"Fix introduced a syntax error. Reverting all changes\"",
+    "url": "https://github.com/astral-sh/ruff/issues/22159",
+    "created_at": "2025-12-23T10:55:27Z",
+    "user": "tuttle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "igraph/python-igraph",
+    "id": 3756993643,
+    "number": 871,
+    "title": "`get_adjacency_sparse` broken with scipy 1.13",
+    "url": "https://github.com/igraph/python-igraph/issues/871",
+    "created_at": "2025-12-23T11:06:17Z",
+    "user": "flying-sheep",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3757016726,
+    "number": 22160,
+    "title": "PLR0124 Documentation Issue",
+    "url": "https://github.com/astral-sh/ruff/issues/22160",
+    "created_at": "2025-12-23T11:12:53Z",
+    "user": "bruno-brant",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3757025921,
+    "number": 1549,
+    "title": "[MNT] Update PR description template",
+    "url": "https://github.com/openml/openml-python/issues/1549",
+    "created_at": "2025-12-23T11:15:29Z",
+    "user": "satvshr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "evidentlyai/evidently",
+    "id": 3757042472,
+    "number": 1781,
+    "title": "embedding drift with domain classifier",
+    "url": "https://github.com/evidentlyai/evidently/issues/1781",
+    "created_at": "2025-12-23T11:20:42Z",
+    "user": "jiayaopeng",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
