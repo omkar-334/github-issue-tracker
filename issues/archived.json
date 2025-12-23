@@ -1,47 +1,30 @@
 [
   {
-    "repo": "cython/cython",
-    "id": 824935200,
-    "number": 4029,
-    "title": "[ENH] PEP 634 - Structural Pattern Matching",
-    "url": "https://github.com/cython/cython/issues/4029",
-    "created_at": "2021-03-08T20:42:43Z",
-    "user": "da-woods",
-    "labels": [
-      "feature",
-      "Python Semantics"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
-    "id": 1869305043,
-    "number": 6936,
-    "title": "Formatter: `string_processing` preview style",
-    "url": "https://github.com/astral-sh/ruff/issues/6936",
-    "created_at": "2023-08-28T08:46:54Z",
-    "user": "MichaReiser",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "formatter",
-      "style"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pymc-devs/pymc",
-    "id": 2349106276,
-    "number": 7354,
-    "title": "ConnectionResetError from multiprocess sampling",
-    "url": "https://github.com/pymc-devs/pymc/issues/7354",
-    "created_at": "2024-06-12T15:44:42Z",
-    "user": "fonnesbeck",
+    "repo": "matplotlib/matplotlib",
+    "id": 2736599003,
+    "number": 29294,
+    "title": "[Doc]: Style methods documented as part of matplotlib but not pyplot",
+    "url": "https://github.com/matplotlib/matplotlib/issues/29294",
+    "created_at": "2024-12-12T18:20:05Z",
+    "user": "jsdodge",
     "labels": [
-      "bug",
-      "samplers"
+      "Documentation",
+      "status: needs comment/discussion"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
