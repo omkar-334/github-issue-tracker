@@ -6541,6 +6541,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3624768495,
+    "number": 167825,
+    "title": "extra mem copy for value to assign when dispatching `index_put` to `masked_fill` on PrivateUse1 backend.",
+    "url": "https://github.com/pytorch/pytorch/issues/167825",
+    "created_at": "2025-11-14T09:28:54Z",
+    "user": "sunjiabin17",
+    "labels": [
+      "triaged",
+      "module: advanced indexing",
+      "module: PrivateUse1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3624852912,
     "number": 16634,

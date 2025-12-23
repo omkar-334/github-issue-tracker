@@ -1353,6 +1353,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3308362770,
+    "number": 55473,
+    "title": "[Serve] [LLM] Ray Serve HTTP Proxy Scaling Bottleneck Under High Concurrency",
+    "url": "https://github.com/ray-project/ray/issues/55473",
+    "created_at": "2025-08-11T03:54:24Z",
+    "user": "nrghosh",
+    "labels": [
+      "bug",
+      "serve",
+      "performance",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "deepset-ai/haystack",
     "id": 3309423204,
     "number": 9701,
