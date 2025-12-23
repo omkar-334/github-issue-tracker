@@ -5082,6 +5082,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3693702862,
+    "number": 30043,
+    "title": "[Performance]: big perf loss between 0.11.2 and 0.12.0 on rms_norm",
+    "url": "https://github.com/vllm-project/vllm/issues/30043",
+    "created_at": "2025-12-04T09:34:14Z",
+    "user": "vince62s",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3693764583,
     "number": 17473,
@@ -35784,6 +35799,71 @@
     "user": "klae01",
     "labels": [
       "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3757913655,
+    "number": 20406,
+    "title": "[Question]: How does DocumentSummaryIndex work?",
+    "url": "https://github.com/run-llama/llama_index/issues/20406",
+    "created_at": "2025-12-23T16:35:53Z",
+    "user": "justinzyw",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3757916665,
+    "number": 25866,
+    "title": "PanicException suggesting polars[rt64] on a dataframe with 65k rows",
+    "url": "https://github.com/pola-rs/polars/issues/25866",
+    "created_at": "2025-12-23T16:37:01Z",
+    "user": "anosrepenilno",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3757983575,
+    "number": 171194,
+    "title": "CUDA Smoke tests: Extend smoke tests to include profiler coverage",
+    "url": "https://github.com/pytorch/pytorch/issues/171194",
+    "created_at": "2025-12-23T17:00:13Z",
+    "user": "atalman",
+    "labels": [
+      "module: binaries",
+      "module: cuda",
+      "topic: binaries"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3758037577,
+    "number": 3643,
+    "title": "snapshot_download reports success despite blob checksum mismatch (large files, XET storage)",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3643",
+    "created_at": "2025-12-23T17:19:58Z",
+    "user": "volodymyrjf",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
