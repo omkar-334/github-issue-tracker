@@ -647,6 +647,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3052116829,
+    "number": 3069,
+    "title": "Model File Lookup by SHA256 Hash",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3069",
+    "created_at": "2025-05-09T13:06:52Z",
+    "user": "cgf120",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3052545274,
     "number": 3357,
@@ -1607,6 +1620,22 @@
     "created_at": "2025-05-21T03:25:05Z",
     "user": "ChuanqiXu9",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3078968707,
+    "number": 11034,
+    "title": "Quantized model repository for different backends",
+    "url": "https://github.com/pytorch/executorch/issues/11034",
+    "created_at": "2025-05-21T05:24:32Z",
+    "user": "shreshth-tru",
+    "labels": [
+      "triaged",
+      "module: llm"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -699,6 +699,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3482717515,
+    "number": 26201,
+    "title": "[Tracking Issue]: Prefix Caching for Hybrid Models",
+    "url": "https://github.com/vllm-project/vllm/issues/26201",
+    "created_at": "2025-10-03T22:17:47Z",
+    "user": "bohnstingl",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3482957915,
     "number": 2677,
@@ -1371,6 +1386,19 @@
       "bug",
       "module:forecasting"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3492720202,
+    "number": 26376,
+    "title": "[Roadmap] vLLM Roadmap Q4 2025",
+    "url": "https://github.com/vllm-project/vllm/issues/26376",
+    "created_at": "2025-10-07T19:18:36Z",
+    "user": "simon-mo",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
