@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "repo": "facebookresearch/xformers",
+    "id": 1695177874,
+    "number": 740,
+    "title": "no model named 'torch'",
+    "url": "https://github.com/facebookresearch/xformers/issues/740",
+    "created_at": "2023-05-04T03:14:54Z",
+    "user": "DeForestDiamond",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
