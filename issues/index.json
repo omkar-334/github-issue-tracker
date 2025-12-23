@@ -469,6 +469,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2769284213,
+      "number": 144211,
+      "title": "`torch.nn.functional.one_hot` has inconsistent execution behavior under torch.compile",
+      "url": "https://github.com/pytorch/pytorch/issues/144211",
+      "created_at": "2025-01-05T13:50:27Z",
+      "user": "meetmul",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 2769316845,
       "number": 2295,
@@ -31771,6 +31790,21 @@
       "labels": [
         "✨ enhancement",
         "🏋 GRPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3502173515,
+      "number": 14984,
+      "title": "Build for Android NDK with Vulkan fails",
+      "url": "https://github.com/pytorch/executorch/issues/14984",
+      "created_at": "2025-10-10T10:01:02Z",
+      "user": "Ipsedo",
+      "labels": [
+        "module: vulkan"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -95258,8 +95292,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3758267215,
+      "number": 22165,
+      "title": "Can we add a rule to turn the `Invalid # ruff: noqa directive` warnings into an error?",
+      "url": "https://github.com/astral-sh/ruff/issues/22165",
+      "created_at": "2025-12-23T19:04:59Z",
+      "user": "yilei",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3758282103,
+      "number": 19949,
+      "title": "CustomWebhook form data not accepting string, only object",
+      "url": "https://github.com/PrefectHQ/prefect/issues/19949",
+      "created_at": "2025-12-23T19:11:20Z",
+      "user": "jbw-vtl",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T18:40:40Z",
-  "total_count": 6270
+  "last_updated": "2025-12-23T19:24:33Z",
+  "total_count": 6274
 }

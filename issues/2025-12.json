@@ -35883,5 +35883,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3758267215,
+    "number": 22165,
+    "title": "Can we add a rule to turn the `Invalid # ruff: noqa directive` warnings into an error?",
+    "url": "https://github.com/astral-sh/ruff/issues/22165",
+    "created_at": "2025-12-23T19:04:59Z",
+    "user": "yilei",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3758282103,
+    "number": 19949,
+    "title": "CustomWebhook form data not accepting string, only object",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19949",
+    "created_at": "2025-12-23T19:11:20Z",
+    "user": "jbw-vtl",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

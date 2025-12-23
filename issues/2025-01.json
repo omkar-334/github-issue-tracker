@@ -142,6 +142,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2769284213,
+    "number": 144211,
+    "title": "`torch.nn.functional.one_hot` has inconsistent execution behavior under torch.compile",
+    "url": "https://github.com/pytorch/pytorch/issues/144211",
+    "created_at": "2025-01-05T13:50:27Z",
+    "user": "meetmul",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2769316845,
     "number": 2295,
