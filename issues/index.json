@@ -96921,8 +96921,116 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3760356923,
+      "number": 23038,
+      "title": "[TRT ENGINE] gpu preprocessing is slower than cpu",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23038",
+      "created_at": "2025-12-24T13:39:14Z",
+      "user": "sh1man999",
+      "labels": [
+        "question",
+        "exports",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3760368085,
+      "number": 171263,
+      "title": "[CUDA Graphs] Capture failure leaves generator state corrupted, causing \"Offset increment outside graph capture encountered unexpectedly\" on subsequent RNG operations",
+      "url": "https://github.com/pytorch/pytorch/issues/171263",
+      "created_at": "2025-12-24T13:45:39Z",
+      "user": "alpha0422",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3760374823,
+      "number": 34477,
+      "title": "Middleware for Interactive Parameter Completion",
+      "url": "https://github.com/langchain-ai/langchain/issues/34477",
+      "created_at": "2025-12-24T13:49:48Z",
+      "user": "TangBoheng",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3760376864,
+      "number": 25873,
+      "title": "Inconsistent behaviour in `Expr.cat.get_categories` and `Series.cat.get_categories`",
+      "url": "https://github.com/pola-rs/polars/issues/25873",
+      "created_at": "2025-12-24T13:51:05Z",
+      "user": "PelinV",
+      "labels": [
+        "invalid",
+        "python",
+        "A-dtype-categorical",
+        "closing-candidate"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3760402515,
+      "number": 59651,
+      "title": "[Core] Add capability to limit total resource usage per job",
+      "url": "https://github.com/ray-project/ray/issues/59651",
+      "created_at": "2025-12-24T14:05:52Z",
+      "user": "lmcl90",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3760404590,
+      "number": 12887,
+      "title": "z-image-turbo from_single_file errors",
+      "url": "https://github.com/huggingface/diffusers/issues/12887",
+      "created_at": "2025-12-24T14:07:04Z",
+      "user": "vladmandic",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3760414050,
+      "number": 43032,
+      "title": "[v5 Regression] BitsAndBytes 4-bit quantization OOM - core_model_loading bypasses quantizer device placement",
+      "url": "https://github.com/huggingface/transformers/issues/43032",
+      "created_at": "2025-12-24T14:11:26Z",
+      "user": "jwm1969",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T13:38:27Z",
-  "total_count": 6378
+  "last_updated": "2025-12-24T14:28:03Z",
+  "total_count": 6385
 }

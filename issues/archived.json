@@ -1,31 +1,32 @@
 [
   {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1718549828,
+    "number": 4560,
+    "title": "Fix (E712) changing `==`/`!=` to `is`/`is not` is not correct for some types",
+    "url": "https://github.com/astral-sh/ruff/issues/4560",
+    "created_at": "2023-05-21T15:51:41Z",
+    "user": "zanieb",
     "labels": [
-      "internal"
+      "bug",
+      "type-inference"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "prefecthq/prefect",
-    "id": 2728477043,
-    "number": 16299,
-    "title": "Prefect Server Experiencing Timeouts Due to Slow Database Communication",
-    "url": "https://github.com/PrefectHQ/prefect/issues/16299",
-    "created_at": "2024-12-09T23:04:43Z",
-    "user": "tomukmatthews",
+    "repo": "huggingface/transformers",
+    "id": 2504129656,
+    "number": 33290,
+    "title": "oom when using adafactor optimizer in deepspeed",
+    "url": "https://github.com/huggingface/transformers/issues/33290",
+    "created_at": "2024-09-04T01:56:08Z",
+    "user": "zhangvia",
     "labels": [
-      "bug",
-      "performance",
-      "Database"
+      "Usage",
+      "Good First Issue",
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
