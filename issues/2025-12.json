@@ -36486,5 +36486,78 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3759521279,
+    "number": 3772,
+    "title": "How to Ensure Loss Is Computed Only on Assistant Responses During VLM SFT",
+    "url": "https://github.com/unslothai/unsloth/issues/3772",
+    "created_at": "2025-12-24T07:43:46Z",
+    "user": "Zuozhuo",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3759557836,
+    "number": 34471,
+    "title": "Structured output and tool invocation",
+    "url": "https://github.com/langchain-ai/langchain/issues/34471",
+    "created_at": "2025-12-24T07:59:42Z",
+    "user": "ZYJ-3721",
+    "labels": [
+      "feature request",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3759561750,
+    "number": 22170,
+    "title": "Cannot use `**` in `known-third-party`",
+    "url": "https://github.com/astral-sh/ruff/issues/22170",
+    "created_at": "2025-12-24T08:01:39Z",
+    "user": "felixfontein",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3759562367,
+    "number": 25869,
+    "title": "Series.__setitem__ fails for Decimal dtypes",
+    "url": "https://github.com/pola-rs/polars/issues/25869",
+    "created_at": "2025-12-24T08:01:57Z",
+    "user": "samkohn",
+    "labels": [
+      "bug",
+      "python",
+      "A-dtype-decimal",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3759592824,
+    "number": 171254,
+    "title": "[RFC][X86][Inductor] Convert fp32 -> fp8_e4m3 with the new AVX10.2 ISA",
+    "url": "https://github.com/pytorch/pytorch/issues/171254",
+    "created_at": "2025-12-24T08:13:47Z",
+    "user": "Xia-Weiwen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

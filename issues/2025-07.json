@@ -652,6 +652,22 @@
     "archived": false
   },
   {
+    "repo": "microsoft/LightGBM",
+    "id": 3204335651,
+    "number": 6961,
+    "title": "[CUDA] Crash when using device_type=cuda",
+    "url": "https://github.com/microsoft/LightGBM/issues/6961",
+    "created_at": "2025-07-05T05:29:47Z",
+    "user": "asenzz",
+    "labels": [
+      "question",
+      "gpu (CUDA)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3204373671,
     "number": 7003,
