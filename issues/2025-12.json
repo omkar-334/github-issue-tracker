@@ -35823,6 +35823,21 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3757911376,
+    "number": 3769,
+    "title": "[Bug] UnslothFusedLossBackward tensor breaks with Transformers default `average_tokens_across_devices=True`, causing loss to become int",
+    "url": "https://github.com/unslothai/unsloth/issues/3769",
+    "created_at": "2025-12-23T16:35:03Z",
+    "user": "wang-7",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "run-llama/llama_index",
     "id": 3757913655,
     "number": 20406,
@@ -36857,6 +36872,22 @@
       "bug",
       "python",
       "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3760342978,
+    "number": 59649,
+    "title": "[Data]  Task mode doesn't properly respect label_selector for resource pool selection - Feature Request for Enhancement",
+    "url": "https://github.com/ray-project/ray/issues/59649",
+    "created_at": "2025-12-24T13:31:10Z",
+    "user": "lmcl90",
+    "labels": [
+      "enhancement",
+      "triage"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

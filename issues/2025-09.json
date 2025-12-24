@@ -1188,6 +1188,21 @@
     "archived": false
   },
   {
+    "repo": "triton-lang/triton",
+    "id": 3384530445,
+    "number": 8072,
+    "title": "Pipeline failed while executing TritonGPUAutomaticWarpSpecialization and TritonGPUPartitionLoops",
+    "url": "https://github.com/triton-lang/triton/issues/8072",
+    "created_at": "2025-09-04T16:40:34Z",
+    "user": "jansel",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3384624854,
     "number": 3131,

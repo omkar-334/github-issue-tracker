@@ -1,17 +1,31 @@
 [
   {
-    "repo": "pola-rs/polars",
-    "id": 2513389210,
-    "number": 18624,
-    "title": "`rename` + `concat` PanicException instead of ShapeError",
-    "url": "https://github.com/pola-rs/polars/issues/18624",
-    "created_at": "2024-09-09T09:10:28Z",
-    "user": "cmdlineluser",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 2728477043,
+    "number": 16299,
+    "title": "Prefect Server Experiencing Timeouts Due to Slow Database Communication",
+    "url": "https://github.com/PrefectHQ/prefect/issues/16299",
+    "created_at": "2024-12-09T23:04:43Z",
+    "user": "tomukmatthews",
     "labels": [
       "bug",
-      "python",
-      "needs triage",
-      "A-panic"
+      "performance",
+      "Database"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
