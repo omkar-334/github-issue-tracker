@@ -352,6 +352,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3115465618,
+    "number": 53529,
+    "title": "[data] pyarrow.lib.ArrowInvalid: Struct child array #5 does not match type field: null vs double",
+    "url": "https://github.com/ray-project/ray/issues/53529",
+    "created_at": "2025-06-03T21:17:12Z",
+    "user": "skritika",
+    "labels": [
+      "bug",
+      "question",
+      "P2",
+      "data",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 3115775643,
     "number": 2352,

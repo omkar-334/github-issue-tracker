@@ -9933,6 +9933,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3115465618,
+      "number": 53529,
+      "title": "[data] pyarrow.lib.ArrowInvalid: Struct child array #5 does not match type field: null vs double",
+      "url": "https://github.com/ray-project/ray/issues/53529",
+      "created_at": "2025-06-03T21:17:12Z",
+      "user": "skritika",
+      "labels": [
+        "bug",
+        "question",
+        "P2",
+        "data",
+        "stability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 3115775643,
       "number": 2352,
@@ -96539,8 +96558,80 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3759687520,
+      "number": 31269,
+      "title": "[Feature]: Add support for NVIDIA Jetson AGX Thor",
+      "url": "https://github.com/vllm-project/vllm/issues/31269",
+      "created_at": "2025-12-24T08:50:46Z",
+      "user": "yekangming",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3759733970,
+      "number": 31270,
+      "title": "[Bug]: Can run  Speculative decode with PP >2?",
+      "url": "https://github.com/vllm-project/vllm/issues/31270",
+      "created_at": "2025-12-24T09:10:05Z",
+      "user": "frankie-ys",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3759747032,
+      "number": 16391,
+      "title": "Tokenizer fails on iOS (RE2 lookahead unsupported) – need regex_lookahead static lib or guidance",
+      "url": "https://github.com/pytorch/executorch/issues/16391",
+      "created_at": "2025-12-24T09:14:42Z",
+      "user": "quocanh0712",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3759761682,
+      "number": 4747,
+      "title": "Addition of Supervised Reinforcement Learning",
+      "url": "https://github.com/huggingface/trl/issues/4747",
+      "created_at": "2025-12-24T09:20:32Z",
+      "user": "kushalgarg101",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3759762547,
+      "number": 34474,
+      "title": "Streaming Output for Multi-Agent Systems",
+      "url": "https://github.com/langchain-ai/langchain/issues/34474",
+      "created_at": "2025-12-24T09:20:59Z",
+      "user": "Serein-Lm",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T08:39:08Z",
-  "total_count": 6352
+  "last_updated": "2025-12-24T09:32:55Z",
+  "total_count": 6358
 }
