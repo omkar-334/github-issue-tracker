@@ -36361,5 +36361,46 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3759272854,
+    "number": 22169,
+    "title": "False positive F821 with Annotation when accessing dictionary",
+    "url": "https://github.com/astral-sh/ruff/issues/22169",
+    "created_at": "2025-12-24T05:31:03Z",
+    "user": "brendan-morin",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3759329603,
+    "number": 171244,
+    "title": "`torch._inductor.config.skip_l1_cache` could fail due to the lack of key check in `buffer_read_counts`",
+    "url": "https://github.com/pytorch/pytorch/issues/171244",
+    "created_at": "2025-12-24T06:07:34Z",
+    "user": "crcrpar",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3759377289,
+    "number": 4746,
+    "title": "examples/notebooks/grpo_qwen3_vl.ipynb fails with TypeError: string indices must be integers, not 'str'",
+    "url": "https://github.com/huggingface/trl/issues/4746",
+    "created_at": "2025-12-24T06:32:19Z",
+    "user": "ympan0508",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

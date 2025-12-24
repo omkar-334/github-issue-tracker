@@ -12547,6 +12547,24 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653553915,
+    "number": 168774,
+    "title": "Test: TestMatmulCuda.test_cublas_addmm",
+    "url": "https://github.com/pytorch/pytorch/issues/168774",
+    "created_at": "2025-11-22T01:08:24Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "module: linear algebra",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653554994,
     "number": 168800,
     "title": "Test: TestNN.test_batchnorm",
