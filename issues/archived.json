@@ -1,50 +1,84 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 968363927,
-    "number": 63138,
-    "title": "Sign in slogdet is set to requires_grad = False even when using complex numbers. ",
-    "url": "https://github.com/pytorch/pytorch/issues/63138",
-    "created_at": "2021-08-12T08:40:54Z",
-    "user": "koji-inui",
+    "repo": "matplotlib/matplotlib",
+    "id": 1270182684,
+    "number": 23265,
+    "title": "[ENH]:how to Color 3-D Bars by Height like matlab bar3 function?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23265",
+    "created_at": "2022-06-14T02:55:59Z",
+    "user": "renjf1",
     "labels": [
-      "triaged",
-      "module: complex",
-      "module: linear algebra",
-      "complex_autograd"
+      "New feature",
+      "topic: mplot3d",
+      "topic: color/color & colormaps",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "mlflow/mlflow",
-    "id": 1207819734,
-    "number": 5722,
-    "title": "How to obtain the azureml mlflow tracking server URL",
-    "url": "https://github.com/mlflow/mlflow/issues/5722",
-    "created_at": "2022-04-19T06:35:21Z",
-    "user": "manishpyy",
+    "repo": "matplotlib/matplotlib",
+    "id": 1368910905,
+    "number": 23866,
+    "title": "Show deprecation warnings in doc build?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23866",
+    "created_at": "2022-09-11T11:10:42Z",
+    "user": "oscargus",
     "labels": [
-      "stale"
+      "Documentation",
+      "API: consistency",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 1231980605,
-    "number": 77230,
-    "title": "fast `gradcheck` fails when outputs that do not require grad precede outputs that do",
-    "url": "https://github.com/pytorch/pytorch/issues/77230",
-    "created_at": "2022-05-11T04:11:59Z",
-    "user": "upupyy",
+    "repo": "matplotlib/matplotlib",
+    "id": 1379586220,
+    "number": 23967,
+    "title": "[ENH]: User-defined named colors",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23967",
+    "created_at": "2022-09-20T15:11:33Z",
+    "user": "AlvaroFurlani",
     "labels": [
-      "module: autograd",
-      "triaged",
-      "module: linear algebra",
-      "actionable"
+      "New feature",
+      "topic: color/colorbar",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1380819634,
+    "number": 23972,
+    "title": "[Bug]: wx backend can be easily hung",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23972",
+    "created_at": "2022-09-21T12:04:59Z",
+    "user": "oscargus",
+    "labels": [
+      "GUI: wx",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1386399845,
+    "number": 24012,
+    "title": "[Bug]: FigureCanvasCairo.draw is a no-op",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24012",
+    "created_at": "2022-09-26T16:39:22Z",
+    "user": "anntzer",
+    "labels": [
+      "backend: cairo",
+      "status: inactive",
+      "keep"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -52,77 +86,42 @@
   },
   {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 2190312689,
+    "number": 10432,
+    "title": "Feature request: Option to use lowercase hex literals",
+    "url": "https://github.com/astral-sh/ruff/issues/10432",
+    "created_at": "2024-03-16T22:59:14Z",
+    "user": "DavidBuchanan314",
     "labels": [
-      "internal"
+      "formatter",
+      "style"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "dagster-io/dagster",
-    "id": 2755054430,
-    "number": 26673,
-    "title": "DagsterSlingTranslator.sanitize_stream_name() forces asset names to be lowercase",
-    "url": "https://github.com/dagster-io/dagster/issues/26673",
-    "created_at": "2024-12-23T02:09:49Z",
-    "user": "Cogito",
-    "labels": [
-      "integration: embedded-elt",
-      "stale"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "keras-team/keras-hub",
-    "id": 2755748445,
-    "number": 2027,
-    "title": "Add ModernBERT to KerasHub",
-    "url": "https://github.com/keras-team/keras-hub/issues/2027",
-    "created_at": "2024-12-23T10:45:00Z",
-    "user": "gcuder",
-    "labels": [
-      "type:feature"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/executorch",
-    "id": 2756214604,
-    "number": 7428,
-    "title": "I am trying to use export custom model to a executorch",
-    "url": "https://github.com/pytorch/executorch/issues/7428",
-    "created_at": "2024-12-23T14:49:04Z",
-    "user": "dinusha94",
-    "labels": [
-      "module: exir",
-      "triaged"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "3b1b/manim",
-    "id": 2756269793,
-    "number": 2283,
-    "title": "audioop was   deprecated since version 3.11, removed in version 3.13. ",
-    "url": "https://github.com/3b1b/manim/issues/2283",
-    "created_at": "2024-12-23T15:20:32Z",
-    "user": "sundebug",
-    "labels": [
-      "bug"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

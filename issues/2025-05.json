@@ -2330,6 +2330,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3099559587,
+    "number": 18890,
+    "title": "[Bug]: vllm启动模型后使用openai格式请求传base64值有问题",
+    "url": "https://github.com/vllm-project/vllm/issues/18890",
+    "created_at": "2025-05-29T08:12:33Z",
+    "user": "wqw0806",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3099623022,
     "number": 3247,

@@ -3904,6 +3904,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3267992451,
+    "number": 21708,
+    "title": "[Bug]: vLLM Server Crash with CUDA Memory Error when serving `gemma-3-27b-it-FP8-Dynamic`",
+    "url": "https://github.com/vllm-project/vllm/issues/21708",
+    "created_at": "2025-07-28T04:09:12Z",
+    "user": "hnt2601",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3268499670,
     "number": 3471,

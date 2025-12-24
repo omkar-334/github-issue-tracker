@@ -1093,6 +1093,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3304786872,
+    "number": 22532,
+    "title": "[Bug]: NIXL disaggregation example does not work",
+    "url": "https://github.com/vllm-project/vllm/issues/22532",
+    "created_at": "2025-08-08T17:45:53Z",
+    "user": "piotr-topnotch",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3304958867,
     "number": 2538,
@@ -1230,6 +1246,23 @@
     "created_at": "2025-08-09T22:32:41Z",
     "user": "Brokttv",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3307147954,
+    "number": 22578,
+    "title": "[Bug]: [gpt-oss-120b] Chat Completions endpoint tool_call support is not working",
+    "url": "https://github.com/vllm-project/vllm/issues/22578",
+    "created_at": "2025-08-10T04:10:04Z",
+    "user": "gaopeijie",
+    "labels": [
+      "bug",
+      "stale",
+      "gpt-oss"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -2729,6 +2762,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3339690632,
+    "number": 23292,
+    "title": "[Feature][Chat Completion] Support builtin tools of gpt-oss",
+    "url": "https://github.com/vllm-project/vllm/issues/23292",
+    "created_at": "2025-08-20T22:16:46Z",
+    "user": "heheda12345",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3340172113,
     "number": 1704,
@@ -3165,6 +3214,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3353229361,
+    "number": 23590,
+    "title": "[CI]: Audit use of fixtures across tests to minimize server starts",
+    "url": "https://github.com/vllm-project/vllm/issues/23590",
+    "created_at": "2025-08-25T21:11:29Z",
+    "user": "njhill",
+    "labels": [
+      "ci/build",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3353329068,
     "number": 13950,
@@ -3206,6 +3271,22 @@
     "created_at": "2025-08-26T05:17:18Z",
     "user": "xiaoshihou514",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3354439835,
+    "number": 23627,
+    "title": "[Usage]: How to start deepseek with pd disaggregation through vllm p2pncclcommunicator?",
+    "url": "https://github.com/vllm-project/vllm/issues/23627",
+    "created_at": "2025-08-26T07:12:54Z",
+    "user": "LJL36",
+    "labels": [
+      "usage",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -500,6 +500,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2909618384,
+    "number": 14603,
+    "title": "[Doc]: Does vllm CPU backend support Intel AMX?",
+    "url": "https://github.com/vllm-project/vllm/issues/14603",
+    "created_at": "2025-03-11T08:34:12Z",
+    "user": "awangzy",
+    "labels": [
+      "documentation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2910623476,
     "number": 1792,
@@ -829,6 +845,22 @@
     "user": "TiagoMLucio",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 2918813737,
+    "number": 10775,
+    "title": "Support `width=\"content\"` in `st.table()`",
+    "url": "https://github.com/streamlit/streamlit/issues/10775",
+    "created_at": "2025-03-14T02:12:31Z",
+    "user": "JosephMarinier",
+    "labels": [
+      "type:enhancement",
+      "feature:st.table"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

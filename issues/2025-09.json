@@ -6355,6 +6355,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3436930908,
+    "number": 25310,
+    "title": "[Feature]: Proactive, scheduler-bypass pull-KV path to reduce KV-transfer latency",
+    "url": "https://github.com/vllm-project/vllm/issues/25310",
+    "created_at": "2025-09-20T08:43:09Z",
+    "user": "Zaragoto",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3437102095,
+    "number": 25312,
+    "title": "[Bug]: Random startup failures on single device with uneven GPUs",
+    "url": "https://github.com/vllm-project/vllm/issues/25312",
+    "created_at": "2025-09-20T12:35:58Z",
+    "user": "edgeinfinity1",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3437175505,
     "number": 2652,
@@ -6519,6 +6551,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3439852754,
+    "number": 25371,
+    "title": "[Feature]: Distribute API servers across multiple nodes",
+    "url": "https://github.com/vllm-project/vllm/issues/25371",
+    "created_at": "2025-09-22T08:55:44Z",
+    "user": "Zhathw",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3439932266,
     "number": 25373,
     "title": "[Feature]: Optimize Tokenization and First Token Generation Redundancy Between Prefill and Decode Stages in Disaggregated Prefill",
@@ -6643,6 +6691,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3441662796,
+    "number": 25402,
+    "title": "[Bug]: Speculative decoding has poor UX",
+    "url": "https://github.com/vllm-project/vllm/issues/25402",
+    "created_at": "2025-09-22T15:59:28Z",
+    "user": "MatthewBonanni",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3441737824,
     "number": 3583,
@@ -6723,6 +6787,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3443323294,
+    "number": 25437,
+    "title": "[Bug][Qwen3-Next][DP]: Assert when serving Qwen3-Next using DP",
+    "url": "https://github.com/vllm-project/vllm/issues/25437",
+    "created_at": "2025-09-23T01:40:41Z",
+    "user": "tlrmchlsmth",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3443674140,
     "number": 25448,
     "title": "[New Model]: Issac 0.1",
@@ -6731,6 +6811,54 @@
     "user": "ywang96",
     "labels": [
       "new-model"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3443795087,
+    "number": 25452,
+    "title": "[Usage]:  Autoscaling vLLM with kuberay (pipeline parallel",
+    "url": "https://github.com/vllm-project/vllm/issues/25452",
+    "created_at": "2025-09-23T05:49:44Z",
+    "user": "akash-syook",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3443800478,
+    "number": 25453,
+    "title": "[Feature]: MXFP4 support for the SM75 device.",
+    "url": "https://github.com/vllm-project/vllm/issues/25453",
+    "created_at": "2025-09-23T05:51:41Z",
+    "user": "wang824892540",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3444018555,
+    "number": 25460,
+    "title": "[Bug]: MTP assert error when num_speculative_tokeens > 1",
+    "url": "https://github.com/vllm-project/vllm/issues/25460",
+    "created_at": "2025-09-23T07:16:21Z",
+    "user": "mpjlu",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6833,6 +6961,22 @@
     "user": "jeanschmidt",
     "labels": [
       "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3445761887,
+    "number": 25484,
+    "title": "[Feature][WideEP]: More \"masked-m\" GEMM and quant kernels for use with DeepEP LowLatency + PPLX All2Alls",
+    "url": "https://github.com/vllm-project/vllm/issues/25484",
+    "created_at": "2025-09-23T15:29:32Z",
+    "user": "tlrmchlsmth",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6989,6 +7133,38 @@
     "user": "jyang2-q-retail",
     "labels": [
       "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3447293968,
+    "number": 25529,
+    "title": "[Chore]:  Get rid of annoying pre-commit error on MacOS",
+    "url": "https://github.com/vllm-project/vllm/issues/25529",
+    "created_at": "2025-09-24T02:09:55Z",
+    "user": "panpan0000",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3447388726,
+    "number": 25536,
+    "title": "[Bug]: Inconsistent P90 TTFT Results with Identical Benchmark Parameters",
+    "url": "https://github.com/vllm-project/vllm/issues/25536",
+    "created_at": "2025-09-24T03:01:58Z",
+    "user": "jinqinn",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7163,6 +7339,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3450150426,
+    "number": 25595,
+    "title": "[RFC]: Support openai HarmonyContext plugin",
+    "url": "https://github.com/vllm-project/vllm/issues/25595",
+    "created_at": "2025-09-24T16:36:28Z",
+    "user": "frank-wei",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3450187671,
     "number": 3181,
@@ -7218,6 +7410,22 @@
     "created_at": "2025-09-24T18:50:38Z",
     "user": "sambaPython24",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3450556456,
+    "number": 25600,
+    "title": "[Bug]: Partial TPU chip usage hangs indefinitely with MP backend",
+    "url": "https://github.com/vllm-project/vllm/issues/25600",
+    "created_at": "2025-09-24T18:55:25Z",
+    "user": "thameem-abbas",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
