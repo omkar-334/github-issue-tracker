@@ -1,33 +1,13 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 1718549828,
-    "number": 4560,
-    "title": "Fix (E712) changing `==`/`!=` to `is`/`is not` is not correct for some types",
-    "url": "https://github.com/astral-sh/ruff/issues/4560",
-    "created_at": "2023-05-21T15:51:41Z",
-    "user": "zanieb",
-    "labels": [
-      "bug",
-      "type-inference"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "huggingface/transformers",
-    "id": 2504129656,
-    "number": 33290,
-    "title": "oom when using adafactor optimizer in deepspeed",
-    "url": "https://github.com/huggingface/transformers/issues/33290",
-    "created_at": "2024-09-04T01:56:08Z",
-    "user": "zhangvia",
-    "labels": [
-      "Usage",
-      "Good First Issue",
-      "bug"
-    ],
+    "repo": "huggingface/accelerate",
+    "id": 2695214261,
+    "number": 3265,
+    "title": "accelerator.prepare",
+    "url": "https://github.com/huggingface/accelerate/issues/3265",
+    "created_at": "2024-11-26T15:59:18Z",
+    "user": "wfan1203",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

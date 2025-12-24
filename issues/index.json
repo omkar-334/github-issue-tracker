@@ -41913,6 +41913,25 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3598234586,
+      "number": 167275,
+      "title": "TorchDynamo intentionally breaks graph on GRU in compiled mode",
+      "url": "https://github.com/pytorch/pytorch/issues/167275",
+      "created_at": "2025-11-07T01:19:16Z",
+      "user": "Blooming-Tree",
+      "labels": [
+        "module: rnn",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamo",
+        "dynamo-triage-dec2025"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 3598431264,
       "number": 23946,
@@ -97029,8 +97048,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3760546093,
+      "number": 31296,
+      "title": "[Bug]: Streaming output issue in vLLM v0.10.2",
+      "url": "https://github.com/vllm-project/vllm/issues/31296",
+      "created_at": "2025-12-24T15:08:04Z",
+      "user": "keilove",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3760569720,
+      "number": 171267,
+      "title": "[Flex Flash] CuteDSL 4.3.4 has much higher cpu overhead",
+      "url": "https://github.com/pytorch/pytorch/issues/171267",
+      "created_at": "2025-12-24T15:18:50Z",
+      "user": "drisspg",
+      "labels": [
+        "oncall: pt2",
+        "module: flex attention"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T14:28:03Z",
-  "total_count": 6385
+  "last_updated": "2025-12-24T15:29:59Z",
+  "total_count": 6388
 }
