@@ -2235,6 +2235,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3332155345,
+    "number": 21730,
+    "title": "YOLO11 training with dynamic image sizes: rect=True → poor results; rect=False → doesn’t force 640×640 square resize? Best practice to keep aspect ratio for training & inference",
+    "url": "https://github.com/ultralytics/ultralytics/issues/21730",
+    "created_at": "2025-08-18T21:18:48Z",
+    "user": "Bo-Wen-Yao",
+    "labels": [
+      "question",
+      "Stale",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3332401210,
     "number": 5330,

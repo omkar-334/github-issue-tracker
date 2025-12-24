@@ -1,68 +1,6 @@
 {
   "issues": [
     {
-      "repo": "dagster-io/dagster",
-      "id": 2755054430,
-      "number": 26673,
-      "title": "DagsterSlingTranslator.sanitize_stream_name() forces asset names to be lowercase",
-      "url": "https://github.com/dagster-io/dagster/issues/26673",
-      "created_at": "2024-12-23T02:09:49Z",
-      "user": "Cogito",
-      "labels": [
-        "integration: embedded-elt",
-        "stale"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "keras-team/keras-hub",
-      "id": 2755748445,
-      "number": 2027,
-      "title": "Add ModernBERT to KerasHub",
-      "url": "https://github.com/keras-team/keras-hub/issues/2027",
-      "created_at": "2024-12-23T10:45:00Z",
-      "user": "gcuder",
-      "labels": [
-        "type:feature"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "pytorch/executorch",
-      "id": 2756214604,
-      "number": 7428,
-      "title": "I am trying to use export custom model to a executorch",
-      "url": "https://github.com/pytorch/executorch/issues/7428",
-      "created_at": "2024-12-23T14:49:04Z",
-      "user": "dinusha94",
-      "labels": [
-        "module: exir",
-        "triaged"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "3b1b/manim",
-      "id": 2756269793,
-      "number": 2283,
-      "title": "audioop was   deprecated since version 3.11, removed in version 3.13. ",
-      "url": "https://github.com/3b1b/manim/issues/2283",
-      "created_at": "2024-12-23T15:20:32Z",
-      "user": "sundebug",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "keras-team/keras-tuner",
       "id": 2757125603,
       "number": 1033,
@@ -19233,6 +19171,23 @@
       "created_at": "2025-08-18T17:28:38Z",
       "user": "evmaki",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3332155345,
+      "number": 21730,
+      "title": "YOLO11 training with dynamic image sizes: rect=True → poor results; rect=False → doesn’t force 640×640 square resize? Best practice to keep aspect ratio for training & inference",
+      "url": "https://github.com/ultralytics/ultralytics/issues/21730",
+      "created_at": "2025-08-18T21:18:48Z",
+      "user": "Bo-Wen-Yao",
+      "labels": [
+        "question",
+        "Stale",
+        "detect"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -95577,8 +95532,131 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3758812850,
+      "number": 34469,
+      "title": "STTI-001: Proposal for “No Side Effect Without Provenance” invariant",
+      "url": "https://github.com/langchain-ai/langchain/issues/34469",
+      "created_at": "2025-12-23T23:50:14Z",
+      "user": "joshuavetos",
+      "labels": [
+        "core",
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3758816568,
+      "number": 24233,
+      "title": "DOC: `find_peaks_cwt` docs reference `cwt`, which no longer exists",
+      "url": "https://github.com/scipy/scipy/issues/24233",
+      "created_at": "2025-12-23T23:54:13Z",
+      "user": "igurin-invn",
+      "labels": [
+        "scipy.signal",
+        "Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3758829643,
+      "number": 31249,
+      "title": "[RFC]: Improve environment variable declaration and handling",
+      "url": "https://github.com/vllm-project/vllm/issues/31249",
+      "created_at": "2025-12-24T00:05:13Z",
+      "user": "ProExpertProg",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3758831338,
+      "number": 171220,
+      "title": "Compilation events should emit profiler events too",
+      "url": "https://github.com/pytorch/pytorch/issues/171220",
+      "created_at": "2025-12-24T00:06:40Z",
+      "user": "ezyang",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3758845644,
+      "number": 16381,
+      "title": "Numeric Discrepancy detector for ExecuTorch Qualcomm backend.",
+      "url": "https://github.com/pytorch/executorch/issues/16381",
+      "created_at": "2025-12-24T00:18:42Z",
+      "user": "Gasoonjia",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3758884473,
+      "number": 59639,
+      "title": "[Core] `uv run` `runtime_env` hook can start workers on a different Python than the driver, causing “Version mismatch” failures",
+      "url": "https://github.com/ray-project/ray/issues/59639",
+      "created_at": "2025-12-24T00:52:25Z",
+      "user": "dlwh",
+      "labels": [
+        "bug",
+        "triage",
+        "core",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3758894443,
+      "number": 3770,
+      "title": "[Bug] partial multimodal token full attention not supported",
+      "url": "https://github.com/unslothai/unsloth/issues/3770",
+      "created_at": "2025-12-24T01:02:06Z",
+      "user": "dipta007",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3758953739,
+      "number": 43026,
+      "title": "Sequential Sampling",
+      "url": "https://github.com/huggingface/transformers/issues/43026",
+      "created_at": "2025-12-24T01:48:28Z",
+      "user": "jiosephlee",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-23T23:27:01Z",
-  "total_count": 6291
+  "last_updated": "2025-12-24T02:02:02Z",
+  "total_count": 6296
 }

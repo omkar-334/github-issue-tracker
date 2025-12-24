@@ -36065,5 +36065,128 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3758812850,
+    "number": 34469,
+    "title": "STTI-001: Proposal for “No Side Effect Without Provenance” invariant",
+    "url": "https://github.com/langchain-ai/langchain/issues/34469",
+    "created_at": "2025-12-23T23:50:14Z",
+    "user": "joshuavetos",
+    "labels": [
+      "core",
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3758816568,
+    "number": 24233,
+    "title": "DOC: `find_peaks_cwt` docs reference `cwt`, which no longer exists",
+    "url": "https://github.com/scipy/scipy/issues/24233",
+    "created_at": "2025-12-23T23:54:13Z",
+    "user": "igurin-invn",
+    "labels": [
+      "scipy.signal",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3758829643,
+    "number": 31249,
+    "title": "[RFC]: Improve environment variable declaration and handling",
+    "url": "https://github.com/vllm-project/vllm/issues/31249",
+    "created_at": "2025-12-24T00:05:13Z",
+    "user": "ProExpertProg",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3758831338,
+    "number": 171220,
+    "title": "Compilation events should emit profiler events too",
+    "url": "https://github.com/pytorch/pytorch/issues/171220",
+    "created_at": "2025-12-24T00:06:40Z",
+    "user": "ezyang",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3758845644,
+    "number": 16381,
+    "title": "Numeric Discrepancy detector for ExecuTorch Qualcomm backend.",
+    "url": "https://github.com/pytorch/executorch/issues/16381",
+    "created_at": "2025-12-24T00:18:42Z",
+    "user": "Gasoonjia",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3758884473,
+    "number": 59639,
+    "title": "[Core] `uv run` `runtime_env` hook can start workers on a different Python than the driver, causing “Version mismatch” failures",
+    "url": "https://github.com/ray-project/ray/issues/59639",
+    "created_at": "2025-12-24T00:52:25Z",
+    "user": "dlwh",
+    "labels": [
+      "bug",
+      "triage",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3758894443,
+    "number": 3770,
+    "title": "[Bug] partial multimodal token full attention not supported",
+    "url": "https://github.com/unslothai/unsloth/issues/3770",
+    "created_at": "2025-12-24T01:02:06Z",
+    "user": "dipta007",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3758953739,
+    "number": 43026,
+    "title": "Sequential Sampling",
+    "url": "https://github.com/huggingface/transformers/issues/43026",
+    "created_at": "2025-12-24T01:48:28Z",
+    "user": "jiosephlee",
+    "labels": [
+      "Feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
