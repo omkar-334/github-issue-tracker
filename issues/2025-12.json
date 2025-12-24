@@ -36738,5 +36738,128 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3760094641,
+    "number": 31278,
+    "title": "[Usage]:请问Qwen3-VL本地加载模式支持单独加载LoRA么？",
+    "url": "https://github.com/vllm-project/vllm/issues/31278",
+    "created_at": "2025-12-24T11:33:08Z",
+    "user": "dengdeng-cat",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3760102612,
+    "number": 171256,
+    "title": "[Inductor] Significant numerically inconsistent results for aten.trapezoid",
+    "url": "https://github.com/pytorch/pytorch/issues/171256",
+    "created_at": "2025-12-24T11:37:43Z",
+    "user": "Cookiee235",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3760105402,
+    "number": 9319,
+    "title": "Add CINIC-10 dataset",
+    "url": "https://github.com/pytorch/vision/issues/9319",
+    "created_at": "2025-12-24T11:39:17Z",
+    "user": "aliphys",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3760138623,
+    "number": 3773,
+    "title": "[Bug] GGUF conversion fails for large models: Unsloth fails to recognize sharded output files",
+    "url": "https://github.com/unslothai/unsloth/issues/3773",
+    "created_at": "2025-12-24T11:55:08Z",
+    "user": "dtometzki",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3760150986,
+    "number": 171258,
+    "title": "[Inductor] TorchInductor produces inconsistent results with eager for `aten.fractional_max_pool2d`",
+    "url": "https://github.com/pytorch/pytorch/issues/171258",
+    "created_at": "2025-12-24T12:01:48Z",
+    "user": "Cookiee235",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google-deepmind/optax",
+    "id": 3760161916,
+    "number": 1537,
+    "title": "Extend Muon optimizer to support callable masks in weight_dimension_numbers",
+    "url": "https://github.com/google-deepmind/optax/issues/1537",
+    "created_at": "2025-12-24T12:06:53Z",
+    "user": "yash194",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3760205767,
+    "number": 16392,
+    "title": "Reasoning without using the think function",
+    "url": "https://github.com/pytorch/executorch/issues/16392",
+    "created_at": "2025-12-24T12:24:35Z",
+    "user": "imjking",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3760209052,
+    "number": 171259,
+    "title": "torch.AcceleratorError: CUDA error: device-side assert triggered",
+    "url": "https://github.com/pytorch/pytorch/issues/171259",
+    "created_at": "2025-12-24T12:26:28Z",
+    "user": "Cookiee235",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3760253058,
+    "number": 25871,
+    "title": "Deltalake MERGE with schema evolution does not add new columns",
+    "url": "https://github.com/pola-rs/polars/issues/25871",
+    "created_at": "2025-12-24T12:46:37Z",
+    "user": "surendrachoudhary11",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
