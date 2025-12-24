@@ -3014,6 +3014,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3512109878,
+    "number": 165392,
+    "title": "[xpu][bug] Conv1d produces incorrect results with permuted input under eager mode",
+    "url": "https://github.com/pytorch/pytorch/issues/165392",
+    "created_at": "2025-10-14T02:23:00Z",
+    "user": "etaf",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3512142196,
     "number": 3447,

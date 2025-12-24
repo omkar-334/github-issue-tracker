@@ -4565,6 +4565,22 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 2948583009,
+      "number": 9637,
+      "title": "QNN Export Llama Model Error \"failed to load context binary\"",
+      "url": "https://github.com/pytorch/executorch/issues/9637",
+      "created_at": "2025-03-26T06:57:47Z",
+      "user": "shreshth-tru",
+      "labels": [
+        "partner: qualcomm",
+        "module: qnn"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/audio",
       "id": 2948742339,
       "number": 3896,
@@ -13490,6 +13506,21 @@
       "created_at": "2025-07-08T04:37:30Z",
       "user": "yjoonjang",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3211156349,
+      "number": 9595,
+      "title": "Bright Data web search component",
+      "url": "https://github.com/deepset-ai/haystack/issues/9595",
+      "created_at": "2025-07-08T06:01:53Z",
+      "user": "meirk-brd",
+      "labels": [
+        "P3"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -32977,6 +33008,22 @@
       "user": "IgnacioJPickering",
       "labels": [
         "Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3512109878,
+      "number": 165392,
+      "title": "[xpu][bug] Conv1d produces incorrect results with permuted input under eager mode",
+      "url": "https://github.com/pytorch/pytorch/issues/165392",
+      "created_at": "2025-10-14T02:23:00Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "module: xpu"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -96319,8 +96366,92 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3759412627,
+      "number": 59642,
+      "title": "[Core] Actor Creation got error: Check failed: !WorkerID::FromBinary(worker_addr.worker_id()).IsNil()",
+      "url": "https://github.com/ray-project/ray/issues/59642",
+      "created_at": "2025-12-24T06:51:48Z",
+      "user": "Catch-Bull",
+      "labels": [
+        "bug",
+        "triage",
+        "core",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3759412658,
+      "number": 59643,
+      "title": "[Core] Deadlock in DataClient due to recursive lock acquisition during garbage collection (`__del__`)",
+      "url": "https://github.com/ray-project/ray/issues/59643",
+      "created_at": "2025-12-24T06:51:49Z",
+      "user": "g199209",
+      "labels": [
+        "bug",
+        "triage",
+        "core",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3759432974,
+      "number": 31262,
+      "title": "[Bug]: When running vLLM 0.13.0 in a CUDA 13.0 environment, the non-quantized version of the MoE model works without issues, but the FP8 quantized version fails to run.",
+      "url": "https://github.com/vllm-project/vllm/issues/31262",
+      "created_at": "2025-12-24T07:03:24Z",
+      "user": "xzwgit",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3759457218,
+      "number": 59644,
+      "title": "[core][rdt] Support borrowing from owner that's not the creator in RDT",
+      "url": "https://github.com/ray-project/ray/issues/59644",
+      "created_at": "2025-12-24T07:16:19Z",
+      "user": "dayshah",
+      "labels": [
+        "enhancement",
+        "P1",
+        "core",
+        "rdt"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3759463826,
+      "number": 171249,
+      "title": "[Bug] softplus returns inf for large beta while other frameworks return finite value",
+      "url": "https://github.com/pytorch/pytorch/issues/171249",
+      "created_at": "2025-12-24T07:19:25Z",
+      "user": "Thrsu",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T06:44:01Z",
-  "total_count": 6338
+  "last_updated": "2025-12-24T07:31:40Z",
+  "total_count": 6346
 }
