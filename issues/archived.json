@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "astral-sh/ruff",
-    "id": 1838159263,
-    "number": 6371,
-    "title": "Support heading setting for isort",
-    "url": "https://github.com/astral-sh/ruff/issues/6371",
-    "created_at": "2023-08-06T11:02:27Z",
-    "user": "applied-mathematician",
-    "labels": [
-      "isort",
-      "accepted"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
