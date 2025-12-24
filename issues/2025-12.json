@@ -37121,5 +37121,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3760692957,
+    "number": 22178,
+    "title": "TypeVar special handling doesn't recognize ** for ARG001",
+    "url": "https://github.com/astral-sh/ruff/issues/22178",
+    "created_at": "2025-12-24T16:40:18Z",
+    "user": "henryiii",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3760694976,
+    "number": 31304,
+    "title": "[Feature]: Support explicit dependency to enable interaction between requests",
+    "url": "https://github.com/vllm-project/vllm/issues/31304",
+    "created_at": "2025-12-24T16:42:04Z",
+    "user": "FLesic",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3760744744,
+    "number": 24236,
+    "title": "ENH: planar k(2)-center support",
+    "url": "https://github.com/scipy/scipy/issues/24236",
+    "created_at": "2025-12-24T17:19:46Z",
+    "user": "tylerjereddy",
+    "labels": [
+      "enhancement",
+      "scipy.spatial"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

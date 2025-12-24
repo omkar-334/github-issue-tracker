@@ -1,84 +1,15 @@
 [
   {
-    "repo": "pandas-dev/pandas",
-    "id": 1164194103,
-    "number": 46294,
-    "title": "BUG: Setting datetime value using dataframe masking appears to transpose the mask",
-    "url": "https://github.com/pandas-dev/pandas/issues/46294",
-    "created_at": "2022-03-09T16:52:06Z",
-    "user": "agural",
-    "labels": [
-      "Bug",
-      "Datetime",
-      "Indexing",
-      "Missing-data",
-      "good first issue",
-      "Needs Tests"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "psf/black",
-    "id": 1205098940,
-    "number": 3015,
-    "title": "Document using pre-commit and how --force-exclude can help ",
-    "url": "https://github.com/psf/black/issues/3015",
-    "created_at": "2022-04-14T23:19:53Z",
-    "user": "ichard26",
-    "labels": [
-      "good first issue",
-      "T: documentation",
-      "C: integrations",
-      "C: file collection"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1838159263,
+    "number": 6371,
+    "title": "Support heading setting for isort",
+    "url": "https://github.com/astral-sh/ruff/issues/6371",
+    "created_at": "2023-08-06T11:02:27Z",
+    "user": "applied-mathematician",
     "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "id": 2214763738,
-    "number": 58063,
-    "title": "DOC: Enforce Numpy Docstring Validation (Parent Issue)",
-    "url": "https://github.com/pandas-dev/pandas/issues/58063",
-    "created_at": "2024-03-29T06:39:46Z",
-    "user": "jordan-d-murphy",
-    "labels": [
-      "Docs",
-      "good first issue"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "lancedb/lancedb",
-    "id": 2711259616,
-    "number": 1898,
-    "title": "bug(python): S3 storage access fails if bucket address contains dots",
-    "url": "https://github.com/lancedb/lancedb/issues/1898",
-    "created_at": "2024-12-02T09:41:52Z",
-    "user": "qbit-",
-    "labels": [
-      "bug",
-      "good first issue"
+      "isort",
+      "accepted"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
