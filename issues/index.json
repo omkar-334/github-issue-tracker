@@ -96942,6 +96942,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3760350213,
+      "number": 171262,
+      "title": "TorchInductor returns wrong output shape for aten.isin with scalar input",
+      "url": "https://github.com/pytorch/pytorch/issues/171262",
+      "created_at": "2025-12-24T13:35:14Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ultralytics/ultralytics",
       "id": 3760356923,
       "number": 23038,
@@ -97079,8 +97092,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3760594826,
+      "number": 23039,
+      "title": "Returning data structure of dataloader",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23039",
+      "created_at": "2025-12-24T15:34:14Z",
+      "user": "vohai2003",
+      "labels": [
+        "question",
+        "segment",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3760607680,
+      "number": 59652,
+      "title": "[Data] Improve Read Lance doc",
+      "url": "https://github.com/ray-project/ray/issues/59652",
+      "created_at": "2025-12-24T15:42:43Z",
+      "user": "owenowenisme",
+      "labels": [
+        "docs",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3760634626,
+      "number": 25875,
+      "title": "Generic `pl.Categorical` Type",
+      "url": "https://github.com/pola-rs/polars/issues/25875",
+      "created_at": "2025-12-24T16:00:39Z",
+      "user": "PelinV",
+      "labels": [
+        "enhancement",
+        "A-dtype-categorical"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3760659918,
+      "number": 34102,
+      "title": "[mosaic GPU] Transformed SMEM buffer load from a dynamic, non-aligned offset has wrong semantics",
+      "url": "https://github.com/jax-ml/jax/issues/34102",
+      "created_at": "2025-12-24T16:17:33Z",
+      "user": "Topologized",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "great-expectations/great_expectations",
+      "id": 3760671233,
+      "number": 11576,
+      "title": "Fix typing for module reexport",
+      "url": "https://github.com/great-expectations/great_expectations/issues/11576",
+      "created_at": "2025-12-24T16:25:35Z",
+      "user": "temarych",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T15:29:59Z",
-  "total_count": 6388
+  "last_updated": "2025-12-24T16:34:50Z",
+  "total_count": 6394
 }
