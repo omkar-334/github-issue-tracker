@@ -8087,6 +8087,22 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3568095967,
+    "number": 25086,
+    "title": "DataFrame.drop(\"*\") drops all columns, not the column named \"*\"",
+    "url": "https://github.com/pola-rs/polars/issues/25086",
+    "created_at": "2025-10-29T22:08:40Z",
+    "user": "samkohn",
+    "labels": [
+      "documentation",
+      "needs decision"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3568333367,
     "number": 3527,
