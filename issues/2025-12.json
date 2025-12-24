@@ -37258,5 +37258,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3760894100,
+    "number": 7914,
+    "title": "[ROCm] please install 'torchcodec'",
+    "url": "https://github.com/huggingface/datasets/issues/7914",
+    "created_at": "2025-12-24T19:39:17Z",
+    "user": "AndreasKaratzas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3760907080,
+    "number": 25876,
+    "title": "Extend support for JAX arrays in `pl.DataFrame`.",
+    "url": "https://github.com/pola-rs/polars/issues/25876",
+    "created_at": "2025-12-24T19:50:52Z",
+    "user": "toddpocuca",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3760956307,
+    "number": 23040,
+    "title": "Missing batch inference support for multiple images in SAM-3",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23040",
+    "created_at": "2025-12-24T20:23:08Z",
+    "user": "avraham1",
+    "labels": [
+      "enhancement",
+      "solutions"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

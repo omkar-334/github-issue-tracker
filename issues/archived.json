@@ -1,16 +1,16 @@
 [
   {
-    "repo": "pydantic/pydantic",
-    "id": 2020926021,
-    "number": 8277,
-    "title": "Validators execution order",
-    "url": "https://github.com/pydantic/pydantic/issues/8277",
-    "created_at": "2023-12-01T13:53:13Z",
-    "user": "vitalik",
+    "repo": "matplotlib/matplotlib",
+    "id": 1270182684,
+    "number": 23265,
+    "title": "[ENH]:how to Color 3-D Bars by Height like matlab bar3 function?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23265",
+    "created_at": "2022-06-14T02:55:59Z",
+    "user": "renjf1",
     "labels": [
-      "feature request",
-      "documentation",
-      "v3"
+      "New feature",
+      "topic: mplot3d",
+      "topic: color/color & colormaps"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
