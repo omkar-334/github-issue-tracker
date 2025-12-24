@@ -36631,5 +36631,112 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3759821157,
+    "number": 31272,
+    "title": "[Performance]: b200x8 deepseek-ai/DeepSeek-V3.2-Exp max perf",
+    "url": "https://github.com/vllm-project/vllm/issues/31272",
+    "created_at": "2025-12-24T09:48:01Z",
+    "user": "evgeniiperepelkin",
+    "labels": [
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3759824493,
+    "number": 23034,
+    "title": "Training hangs after scanning training images",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23034",
+    "created_at": "2025-12-24T09:49:09Z",
+    "user": "marcmk6",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3759831059,
+    "number": 31273,
+    "title": "[Bug]:OOM during weight loading on H20 (141GB) in v0.13.0, but works in v0.12.0 (Qwen2.5-72B FP8)",
+    "url": "https://github.com/vllm-project/vllm/issues/31273",
+    "created_at": "2025-12-24T09:52:00Z",
+    "user": "Sean-LL",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "id": 3759831621,
+    "number": 20409,
+    "title": "[Feature Request]: Support Streaming Tool Results (Preliminary Tool Results)",
+    "url": "https://github.com/run-llama/llama_index/issues/20409",
+    "created_at": "2025-12-24T09:52:16Z",
+    "user": "zxzinn",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/trl",
+    "id": 3759840601,
+    "number": 4748,
+    "title": "CI fails with test dependencies: AssertionError: Parameter has not changed",
+    "url": "https://github.com/huggingface/trl/issues/4748",
+    "created_at": "2025-12-24T09:56:25Z",
+    "user": "albertvillanova",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3759880495,
+    "number": 59646,
+    "title": "Abnormal GPU Memory Usage (deepspeed&trl)",
+    "url": "https://github.com/ray-project/ray/issues/59646",
+    "created_at": "2025-12-24T10:14:02Z",
+    "user": "markoov",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3759911586,
+    "number": 31276,
+    "title": "[Bug]: Stuck with a loop when tensor_parallel_size=2",
+    "url": "https://github.com/vllm-project/vllm/issues/31276",
+    "created_at": "2025-12-24T10:26:40Z",
+    "user": "RyanLoil",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
