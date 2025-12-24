@@ -4473,6 +4473,24 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 2942682159,
+      "number": 21909,
+      "title": "datetime_range doesn't preserve time zone",
+      "url": "https://github.com/pola-rs/polars/issues/21909",
+      "created_at": "2025-03-24T09:58:21Z",
+      "user": "Itayazolay",
+      "labels": [
+        "bug",
+        "python",
+        "A-temporal",
+        "P-low"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "fastapi/fastapi",
       "id": 2942725856,
       "number": 13533,
@@ -30208,6 +30226,28 @@
       "labels": [
         "feature",
         "P3"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3474995443,
+      "number": 164402,
+      "title": "NCCL-2.28.3 build locally is unusable on H100",
+      "url": "https://github.com/pytorch/pytorch/issues/164402",
+      "created_at": "2025-10-01T20:20:58Z",
+      "user": "malfet",
+      "labels": [
+        "high priority",
+        "module: build",
+        "module: ci",
+        "triaged",
+        "module: nccl",
+        "module: regression",
+        "module: third_party",
+        "actionable"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -94860,6 +94900,21 @@
       "archived": false
     },
     {
+      "repo": "openml/openml-python",
+      "id": 3756287046,
+      "number": 1537,
+      "title": "[ENH] Improve `NotImplementedError` Messages",
+      "url": "https://github.com/openml/openml-python/issues/1537",
+      "created_at": "2025-12-23T06:42:35Z",
+      "user": "SimonBlanke",
+      "labels": [
+        "Good First Issue"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3756312154,
       "number": 31205,
@@ -97411,8 +97466,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3761108533,
+      "number": 59655,
+      "title": "[Core] More co-operative logging setup in Python",
+      "url": "https://github.com/ray-project/ray/issues/59655",
+      "created_at": "2025-12-24T22:31:49Z",
+      "user": "khoover",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761129609,
+      "number": 31325,
+      "title": "[Bug]: Qwen3-32B Quality Degeneration on Offline Generate",
+      "url": "https://github.com/vllm-project/vllm/issues/31325",
+      "created_at": "2025-12-24T22:59:49Z",
+      "user": "thavens",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-24T22:28:13Z",
-  "total_count": 6410
+  "last_updated": "2025-12-24T23:26:57Z",
+  "total_count": 6415
 }

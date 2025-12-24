@@ -147,6 +147,28 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3474995443,
+    "number": 164402,
+    "title": "NCCL-2.28.3 build locally is unusable on H100",
+    "url": "https://github.com/pytorch/pytorch/issues/164402",
+    "created_at": "2025-10-01T20:20:58Z",
+    "user": "malfet",
+    "labels": [
+      "high priority",
+      "module: build",
+      "module: ci",
+      "triaged",
+      "module: nccl",
+      "module: regression",
+      "module: third_party",
+      "actionable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3475105167,
     "number": 5360,

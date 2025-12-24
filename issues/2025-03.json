@@ -1339,6 +1339,24 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2942682159,
+    "number": 21909,
+    "title": "datetime_range doesn't preserve time zone",
+    "url": "https://github.com/pola-rs/polars/issues/21909",
+    "created_at": "2025-03-24T09:58:21Z",
+    "user": "Itayazolay",
+    "labels": [
+      "bug",
+      "python",
+      "A-temporal",
+      "P-low"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "fastapi/fastapi",
     "id": 2942725856,
     "number": 13533,

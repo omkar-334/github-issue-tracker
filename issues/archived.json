@@ -1,17 +1,16 @@
 [
   {
-    "repo": "dagster-io/dagster",
-    "id": 2734295061,
-    "number": 26421,
-    "title": "Partitions named after URLS prevent graph assets from running.",
-    "url": "https://github.com/dagster-io/dagster/issues/26421",
-    "created_at": "2024-12-11T23:59:28Z",
-    "user": "IanGallacher",
+    "repo": "matplotlib/matplotlib",
+    "id": 1270182684,
+    "number": 23265,
+    "title": "[ENH]:how to Color 3-D Bars by Height like matlab bar3 function?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/23265",
+    "created_at": "2022-06-14T02:55:59Z",
+    "user": "renjf1",
     "labels": [
-      "type: bug",
-      "area: partitions",
-      "area: asset",
-      "stale"
+      "New feature",
+      "topic: mplot3d",
+      "topic: color/color & colormaps"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
