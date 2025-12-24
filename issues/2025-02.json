@@ -375,6 +375,22 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 2840339037,
+    "number": 2808,
+    "title": "PPO trainer does not evaluate even if I have set eval_strategy and eval_steps",
+    "url": "https://github.com/huggingface/trl/issues/2808",
+    "created_at": "2025-02-09T00:07:57Z",
+    "user": "ruiqi-zhong",
+    "labels": [
+      "🐛 bug",
+      "🏋 PPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/sktime",
     "id": 2842193996,
     "number": 7802,
