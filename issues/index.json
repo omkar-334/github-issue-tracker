@@ -97645,8 +97645,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3761403222,
+      "number": 20413,
+      "title": "[Feature Request]: Opportunity",
+      "url": "https://github.com/run-llama/llama_index/issues/20413",
+      "created_at": "2025-12-25T04:56:34Z",
+      "user": "MrSac-creator",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T04:45:02Z",
-  "total_count": 6426
+  "last_updated": "2025-12-25T05:32:24Z",
+  "total_count": 6427
 }
