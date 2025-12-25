@@ -17014,6 +17014,24 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3277703258,
+      "number": 21948,
+      "title": "[Bug]: Add tests for all parallel sampling parameter combinations",
+      "url": "https://github.com/vllm-project/vllm/issues/21948",
+      "created_at": "2025-07-30T16:20:13Z",
+      "user": "njhill",
+      "labels": [
+        "bug",
+        "good first issue",
+        "keep-open",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3278104543,
       "number": 21530,
@@ -75538,6 +75556,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3719157400,
+      "number": 30485,
+      "title": "[Feature]: Support for GGUF qwen3vl models",
+      "url": "https://github.com/vllm-project/vllm/issues/30485",
+      "created_at": "2025-12-11T12:17:32Z",
+      "user": "arno4000",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "dmlc/xgboost",
       "id": 3719256161,
       "number": 11860,
@@ -97661,8 +97694,81 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3761449089,
+      "number": 171290,
+      "title": "DISABLED test_comprehensive_fft_hfft2_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/171290",
+      "created_at": "2025-12-25T05:47:52Z",
+      "user": "etaf",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3761449329,
+      "number": 3813,
+      "title": "Bug: llama_model_load: error loading model: error loading model architecture: unknown model architecture: 'qwen3vlmoe'",
+      "url": "https://github.com/browser-use/browser-use/issues/3813",
+      "created_at": "2025-12-25T05:48:09Z",
+      "user": "GSHF",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3761490717,
+      "number": 22189,
+      "title": "Prefer list repetition/multiplication over list comprehension",
+      "url": "https://github.com/astral-sh/ruff/issues/22189",
+      "created_at": "2025-12-25T06:32:29Z",
+      "user": "injust",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3761496273,
+      "number": 43037,
+      "title": "DeepSeek v3.2 support",
+      "url": "https://github.com/huggingface/transformers/issues/43037",
+      "created_at": "2025-12-25T06:38:29Z",
+      "user": "freedom-cui",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3761496416,
+      "number": 22190,
+      "title": "Prefer `itertools.repeat` over generator expressions (`foo for _ in range(n)`)",
+      "url": "https://github.com/astral-sh/ruff/issues/22190",
+      "created_at": "2025-12-25T06:38:38Z",
+      "user": "injust",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T05:32:24Z",
-  "total_count": 6427
+  "last_updated": "2025-12-25T06:42:50Z",
+  "total_count": 6434
 }

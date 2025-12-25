@@ -4346,6 +4346,24 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3277703258,
+    "number": 21948,
+    "title": "[Bug]: Add tests for all parallel sampling parameter combinations",
+    "url": "https://github.com/vllm-project/vllm/issues/21948",
+    "created_at": "2025-07-30T16:20:13Z",
+    "user": "njhill",
+    "labels": [
+      "bug",
+      "good first issue",
+      "keep-open",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3278104543,
     "number": 21530,

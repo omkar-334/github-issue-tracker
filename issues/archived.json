@@ -1,17 +1,17 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 2680980753,
-    "number": 141287,
-    "title": "MPS operator coverage tracking issue (2.6+ version)",
-    "url": "https://github.com/pytorch/pytorch/issues/141287",
-    "created_at": "2024-11-21T21:15:46Z",
-    "user": "malfet",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 1211220334,
+    "number": 23180,
+    "title": "Investigate SAG/SAGA solver",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/23180",
+    "created_at": "2022-04-21T15:42:38Z",
+    "user": "lorentzenchr",
     "labels": [
-      "feature",
-      "triaged",
-      "tracker",
-      "module: mps"
+      "Bug",
+      "Moderate",
+      "help wanted",
+      "module:linear_model"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
