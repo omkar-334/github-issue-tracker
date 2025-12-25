@@ -38037,5 +38037,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3762185275,
+    "number": 31361,
+    "title": "[Usage]: Question about the dummy run。It seems the dummy run use different precision?",
+    "url": "https://github.com/vllm-project/vllm/issues/31361",
+    "created_at": "2025-12-25T16:38:03Z",
+    "user": "Dingjifeng",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3762196897,
+    "number": 3779,
+    "title": "[Bug] ValueError: passed inputs_embeds to .generate() when using LlamaForCausalLM with Unsloth",
+    "url": "https://github.com/unslothai/unsloth/issues/3779",
+    "created_at": "2025-12-25T16:53:52Z",
+    "user": "Pioneer-Weirdo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

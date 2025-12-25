@@ -69,6 +69,21 @@
     "archived": false
   },
   {
+    "repo": "shap/shap",
+    "id": 3284298793,
+    "number": 4146,
+    "title": "BUG: shap plot text not color in highlightings in Colab",
+    "url": "https://github.com/shap/shap/issues/4146",
+    "created_at": "2025-08-01T15:25:04Z",
+    "user": "NataliaSalaberry",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3284890301,
     "number": 7055,
