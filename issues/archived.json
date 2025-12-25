@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2575242025,
+    "number": 137574,
+    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
+    "url": "https://github.com/pytorch/pytorch/issues/137574",
+    "created_at": "2024-10-09T08:47:36Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "triaged",
+      "enhancement",
+      "module: sdpa"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

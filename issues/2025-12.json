@@ -38330,5 +38330,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3762410863,
+    "number": 32947,
+    "title": "clone: treat class-valued parameters as non-estimators (avoid TypeError) [swev-id: scikit-learn__scikit-learn-12585]",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32947",
+    "created_at": "2025-12-25T22:32:07Z",
+    "user": "rowan-stein",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3762418468,
+    "number": 19630,
+    "title": "[FR] Add Python 3.12 to CI test matrix",
+    "url": "https://github.com/mlflow/mlflow/issues/19630",
+    "created_at": "2025-12-25T22:46:14Z",
+    "user": "mr-brobot",
+    "labels": [
+      "domain/platform"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
