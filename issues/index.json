@@ -98461,8 +98461,68 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "stanfordnlp/dspy",
+      "id": 3762299271,
+      "number": 9142,
+      "title": "[Bug] `apply_sync_streaming` swallows exceptions",
+      "url": "https://github.com/stanfordnlp/dspy/issues/9142",
+      "created_at": "2025-12-25T19:24:53Z",
+      "user": "max-muoto",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3762308107,
+      "number": 4751,
+      "title": "[Feature Request] Add max_tool_iterations parameter to GRPOTrainer",
+      "url": "https://github.com/huggingface/trl/issues/4751",
+      "created_at": "2025-12-25T19:39:09Z",
+      "user": "austinmw",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pymc-devs/pymc",
+      "id": 3762311665,
+      "number": 8022,
+      "title": "BUG: `sample_smc` performance degredation in `5.27.0`",
+      "url": "https://github.com/pymc-devs/pymc/issues/8022",
+      "created_at": "2025-12-25T19:45:01Z",
+      "user": "tvwenger",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3762314114,
+      "number": 19628,
+      "title": "Fix Python 3.12 DeprecationWarning from `generator.throw()` in tracing",
+      "url": "https://github.com/mlflow/mlflow/issues/19628",
+      "created_at": "2025-12-25T19:49:08Z",
+      "user": "mr-brobot",
+      "labels": [
+        "rn/bug-fix",
+        "area/build",
+        "area/tracing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T19:23:31Z",
-  "total_count": 6481
+  "last_updated": "2025-12-25T20:31:47Z",
+  "total_count": 6485
 }
