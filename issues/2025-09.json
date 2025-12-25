@@ -1935,6 +1935,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3393315862,
+    "number": 24430,
+    "title": "[Bug]: torch.AcceleratorError: CUDA error: an illegal memory access was encountered",
+    "url": "https://github.com/vllm-project/vllm/issues/24430",
+    "created_at": "2025-09-08T09:09:42Z",
+    "user": "sleepwalker2017",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3393511246,
     "number": 14321,

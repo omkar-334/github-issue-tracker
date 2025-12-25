@@ -37623,5 +37623,82 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3761579473,
+    "number": 31333,
+    "title": "[Bug]: The base image used by rocm Docker is 7.0-complete, and rocm 7.0 does not support GFX1150.",
+    "url": "https://github.com/vllm-project/vllm/issues/31333",
+    "created_at": "2025-12-25T07:51:18Z",
+    "user": "Uhao-P",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3761580220,
+    "number": 31334,
+    "title": "[Bug]: vllm+ray：vllm serve DeepSeek-V3.2V-AWQ ERROR.",
+    "url": "https://github.com/vllm-project/vllm/issues/31334",
+    "created_at": "2025-12-25T07:51:48Z",
+    "user": "F0undLinks",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3761584613,
+    "number": 23044,
+    "title": "Custom model finetune problem in ddp",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23044",
+    "created_at": "2025-12-25T07:55:10Z",
+    "user": "avenger123456",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3761593046,
+    "number": 59658,
+    "title": "[Core] How to change the cwd of a Ray subprocess?",
+    "url": "https://github.com/ray-project/ray/issues/59658",
+    "created_at": "2025-12-25T08:02:42Z",
+    "user": "sunran1203",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3761617476,
+    "number": 3775,
+    "title": "[Bug]AttributeError: GptOssExperts has no attribute 'down_projs' when loading gpt-oss-20b on RTX 5090",
+    "url": "https://github.com/unslothai/unsloth/issues/3775",
+    "created_at": "2025-12-25T08:23:29Z",
+    "user": "BryceSWNS",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

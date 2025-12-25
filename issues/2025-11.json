@@ -4051,6 +4051,19 @@
     "archived": false
   },
   {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3610585524,
+    "number": 7684,
+    "title": "[AutoTP + DS2] no memory reduction when using auto = 4",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7684",
+    "created_at": "2025-11-11T03:54:53Z",
+    "user": "jiaqiw09",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3610620455,
     "number": 63071,
