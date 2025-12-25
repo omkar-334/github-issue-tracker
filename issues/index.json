@@ -95266,6 +95266,19 @@
     },
     {
       "repo": "openml/openml-python",
+      "id": 3756575927,
+      "number": 1544,
+      "title": "[MNT] Local pytest failures despite CI passing on main",
+      "url": "https://github.com/openml/openml-python/issues/1544",
+      "created_at": "2025-12-23T08:38:05Z",
+      "user": "jgyasu",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
       "id": 3756597056,
       "number": 1545,
       "title": "[ENH] Extension Module Tests (or Examples?)",
@@ -98043,8 +98056,56 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3761795345,
+      "number": 23047,
+      "title": "export yolov11 segmentation model to tensorRT",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23047",
+      "created_at": "2025-12-25T10:48:48Z",
+      "user": "muhammadtarek98",
+      "labels": [
+        "bug",
+        "segment",
+        "exports",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3761801871,
+      "number": 43039,
+      "title": "When using the Liger Kernel, torch.nn.functional.cross_entropy is called",
+      "url": "https://github.com/huggingface/transformers/issues/43039",
+      "created_at": "2025-12-25T10:55:29Z",
+      "user": "yurkoff-mv",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761806385,
+      "number": 31345,
+      "title": "[Bug]: The ‘’draft_tensor_parallel_size‘’ parameter of the Eagel3 draft model does not take effect",
+      "url": "https://github.com/vllm-project/vllm/issues/31345",
+      "created_at": "2025-12-25T10:59:25Z",
+      "user": "zhaomingyu13",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T10:30:47Z",
-  "total_count": 6453
+  "last_updated": "2025-12-25T11:25:32Z",
+  "total_count": 6457
 }
