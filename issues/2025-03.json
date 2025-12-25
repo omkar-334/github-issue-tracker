@@ -692,6 +692,21 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2914805840,
+    "number": 21723,
+    "title": "Allow negative indices for lazyframe head",
+    "url": "https://github.com/pola-rs/polars/issues/21723",
+    "created_at": "2025-03-12T18:19:57Z",
+    "user": "IlanCosman",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 2915152151,
     "number": 1998,

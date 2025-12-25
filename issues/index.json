@@ -3780,6 +3780,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 2914805840,
+      "number": 21723,
+      "title": "Allow negative indices for lazyframe head",
+      "url": "https://github.com/pola-rs/polars/issues/21723",
+      "created_at": "2025-03-12T18:19:57Z",
+      "user": "IlanCosman",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 2915152151,
       "number": 1998,
@@ -98521,8 +98536,50 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3762349288,
+      "number": 32946,
+      "title": "GridSearchCV.verbose documentation does not match actual behavior (values >3, >10)",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32946",
+      "created_at": "2025-12-25T20:46:41Z",
+      "user": "Gabriel-Kissin",
+      "labels": [
+        "Documentation",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762349612,
+      "number": 171302,
+      "title": "Make ConcatOptim class for using multiple optimizers as one",
+      "url": "https://github.com/pytorch/pytorch/issues/171302",
+      "created_at": "2025-12-25T20:47:17Z",
+      "user": "oilyraisin",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras",
+      "id": 3762355234,
+      "number": 21954,
+      "title": "Usages of Keras Augmentaiton Layers",
+      "url": "https://github.com/keras-team/keras/issues/21954",
+      "created_at": "2025-12-25T20:57:20Z",
+      "user": "innat",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T20:31:47Z",
-  "total_count": 6485
+  "last_updated": "2025-12-25T21:26:44Z",
+  "total_count": 6489
 }
