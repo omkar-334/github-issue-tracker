@@ -18711,6 +18711,22 @@
       "archived": false
     },
     {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3312940556,
+      "number": 7484,
+      "title": "[BUG] UlyssesSPDataLoaderAdapter returns duplicate data",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7484",
+      "created_at": "2025-08-12T07:34:52Z",
+      "user": "chen-yingfa",
+      "labels": [
+        "bug",
+        "training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3314369323,
       "number": 918,
@@ -97898,8 +97914,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3761676834,
+      "number": 3776,
+      "title": "[Bug] FBGEMM on the L40s cannot load",
+      "url": "https://github.com/unslothai/unsloth/issues/3776",
+      "created_at": "2025-12-25T09:08:32Z",
+      "user": "karsarobert",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761683252,
+      "number": 31337,
+      "title": "[Bug]: Failed to capture CUDA kernel data and GPU memory data when running vllm with tensor_parallel_size=1",
+      "url": "https://github.com/vllm-project/vllm/issues/31337",
+      "created_at": "2025-12-25T09:13:27Z",
+      "user": "EmperorKaiser",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T08:38:03Z",
-  "total_count": 6443
+  "last_updated": "2025-12-25T09:32:00Z",
+  "total_count": 6446
 }
