@@ -97767,8 +97767,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3761526992,
+      "number": 12889,
+      "title": "Question about qwen-image-edit-2511 loading warning",
+      "url": "https://github.com/huggingface/diffusers/issues/12889",
+      "created_at": "2025-12-25T07:06:28Z",
+      "user": "wizardbob",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761549523,
+      "number": 31331,
+      "title": "[New Model]: Support molmo2",
+      "url": "https://github.com/vllm-project/vllm/issues/31331",
+      "created_at": "2025-12-25T07:25:55Z",
+      "user": "tunglinwood",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T06:42:50Z",
-  "total_count": 6434
+  "last_updated": "2025-12-25T07:30:03Z",
+  "total_count": 6436
 }

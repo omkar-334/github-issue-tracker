@@ -1,17 +1,52 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 1211220334,
-    "number": 23180,
-    "title": "Investigate SAG/SAGA solver",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/23180",
-    "created_at": "2022-04-21T15:42:38Z",
-    "user": "lorentzenchr",
+    "repo": "pandas-dev/pandas",
+    "id": 1181203886,
+    "number": 46512,
+    "title": "BUG: Inconsistency in DataFrame.where between inplace and not inplace with na like value for StringArray",
+    "url": "https://github.com/pandas-dev/pandas/issues/46512",
+    "created_at": "2022-03-25T19:44:09Z",
+    "user": "simonjayhawkins",
     "labels": [
       "Bug",
-      "Moderate",
-      "help wanted",
-      "module:linear_model"
+      "Strings",
+      "good first issue",
+      "ExtensionArray",
+      "Needs Tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 1534172963,
+    "number": 50767,
+    "title": "ENH: Change ExtensionOpsMixin behaviour to not add new operator method if one is already defined on the ExtensionArray class",
+    "url": "https://github.com/pandas-dev/pandas/issues/50767",
+    "created_at": "2023-01-16T02:40:16Z",
+    "user": "Finndersen",
+    "labels": [
+      "Enhancement",
+      "Numeric Operations",
+      "good first issue",
+      "ExtensionArray"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 2393299935,
+    "number": 6165,
+    "title": "[Feature]: Return hidden states (in progress?)",
+    "url": "https://github.com/vllm-project/vllm/issues/6165",
+    "created_at": "2024-07-06T01:26:10Z",
+    "user": "Elanmarkowitz",
+    "labels": [
+      "feature request",
+      "unstale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
