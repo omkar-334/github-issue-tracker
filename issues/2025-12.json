@@ -38271,5 +38271,64 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3762381764,
+    "number": 5155,
+    "title": "Add support for `out_sharding` in more layers",
+    "url": "https://github.com/google/flax/issues/5155",
+    "created_at": "2025-12-25T21:40:30Z",
+    "user": "jackopenn",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3762385069,
+    "number": 25881,
+    "title": "`struct.json_encode` converts `Decimal` values into null",
+    "url": "https://github.com/pola-rs/polars/issues/25881",
+    "created_at": "2025-12-25T21:46:15Z",
+    "user": "cmdlineluser",
+    "labels": [
+      "bug",
+      "python",
+      "A-dtype-decimal",
+      "needs triage",
+      "A-dtype-struct",
+      "A-io-json"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 3762394289,
+    "number": 3481,
+    "title": "Trouble running Decontamination",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3481",
+    "created_at": "2025-12-25T22:03:17Z",
+    "user": "HibaPro",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3762398714,
+    "number": 34484,
+    "title": "Add langchain-receipts: Cryptographic audit trails for agents",
+    "url": "https://github.com/langchain-ai/langchain/issues/34484",
+    "created_at": "2025-12-25T22:10:20Z",
+    "user": "805-ai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
