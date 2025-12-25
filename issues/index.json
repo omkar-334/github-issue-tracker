@@ -26413,6 +26413,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3422637689,
+      "number": 24967,
+      "title": "[Bug]: ValueError: Model architectures ['EagleQwen2ForCausalLM'] are not supported for now.  vllm not loading with EAGLE  spec decode using drafter model  EAGLE-Qwen2-7B-Instruct and main model Qwen2-7B-Instruct",
+      "url": "https://github.com/vllm-project/vllm/issues/24967",
+      "created_at": "2025-09-16T14:53:22Z",
+      "user": "lokhachandra",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3422867986,
       "number": 32977,
@@ -29552,6 +29567,21 @@
       "user": "jagerber48",
       "labels": [
         "01 - Enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3463295566,
+      "number": 25853,
+      "title": "[Usage]: ​​How to Add torch.cuda.nvtx Code in vLLM to Monitor Model GPU Usage​​",
+      "url": "https://github.com/vllm-project/vllm/issues/25853",
+      "created_at": "2025-09-29T05:19:13Z",
+      "user": "TTlovelearing",
+      "labels": [
+        "usage"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -97944,8 +97974,77 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761717848,
+      "number": 31342,
+      "title": "[Bug]: vllm profiler cannot working",
+      "url": "https://github.com/vllm-project/vllm/issues/31342",
+      "created_at": "2025-12-25T09:43:37Z",
+      "user": "lengrongfu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3761738551,
+      "number": 3543,
+      "title": "[MXLinear]Where is the operator call for implementing MXFP8 in NVD?",
+      "url": "https://github.com/pytorch/ao/issues/3543",
+      "created_at": "2025-12-25T09:58:57Z",
+      "user": "LucaHW",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3761754145,
+      "number": 31344,
+      "title": "[Usage]: how to pass param logits_processors in  AsyncEngineArgs?",
+      "url": "https://github.com/vllm-project/vllm/issues/31344",
+      "created_at": "2025-12-25T10:12:02Z",
+      "user": "cqray1990",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3761770296,
+      "number": 8429,
+      "title": "Feature - Add optional chunk_size parameter to betweenness_centrality for memory efficiency",
+      "url": "https://github.com/networkx/networkx/issues/8429",
+      "created_at": "2025-12-25T10:24:58Z",
+      "user": "samay2504",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "keras-team/keras-hub",
+      "id": 3761771441,
+      "number": 2498,
+      "title": "Shape mismatch error when using ReversibleEmbedding",
+      "url": "https://github.com/keras-team/keras-hub/issues/2498",
+      "created_at": "2025-12-25T10:25:36Z",
+      "user": "HooM4N",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T09:32:00Z",
-  "total_count": 6446
+  "last_updated": "2025-12-25T10:30:47Z",
+  "total_count": 6453
 }
