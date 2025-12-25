@@ -2118,6 +2118,23 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3594860287,
+    "number": 58426,
+    "title": "[Compiled Graph] Unstable Network Conditions Cause Hang with vLLM v1 API in Cross-Node Pipeline Parallelism",
+    "url": "https://github.com/ray-project/ray/issues/58426",
+    "created_at": "2025-11-06T09:15:24Z",
+    "user": "Mei-pris",
+    "labels": [
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3594878556,
     "number": 3541,

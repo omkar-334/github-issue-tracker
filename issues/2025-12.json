@@ -38138,5 +38138,36 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3762281270,
+    "number": 8021,
+    "title": "BUG: Installation `ImportError` on `pymc==5.26.*`",
+    "url": "https://github.com/pymc-devs/pymc/issues/8021",
+    "created_at": "2025-12-25T18:56:15Z",
+    "user": "tvwenger",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3762292132,
+    "number": 7746,
+    "title": "[BUG] Dtype mismatch (bf16 vs fp32) when resuming Muon optimizer from checkpoint",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7746",
+    "created_at": "2025-12-25T19:13:53Z",
+    "user": "literid",
+    "labels": [
+      "bug",
+      "training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
