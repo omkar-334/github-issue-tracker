@@ -37361,5 +37361,44 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3761160035,
+    "number": 22186,
+    "title": "This bad python code is passed as ok",
+    "url": "https://github.com/astral-sh/ruff/issues/22186",
+    "created_at": "2025-12-24T23:48:43Z",
+    "user": "Alexey-T",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3761160151,
+    "number": 22187,
+    "title": "possible PLC2701 false positive",
+    "url": "https://github.com/astral-sh/ruff/issues/22187",
+    "created_at": "2025-12-24T23:48:53Z",
+    "user": "dotysan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3761172921,
+    "number": 22188,
+    "title": "FAST002 (FastAPI dependency without `Annotated`) could be made even smarter",
+    "url": "https://github.com/astral-sh/ruff/issues/22188",
+    "created_at": "2025-12-25T00:10:29Z",
+    "user": "tuttle",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

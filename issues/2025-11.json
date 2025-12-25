@@ -9030,6 +9030,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3640622080,
+    "number": 28976,
+    "title": "[Bug]: kimi-k2-thinking running 500 error",
+    "url": "https://github.com/vllm-project/vllm/issues/28976",
+    "created_at": "2025-11-19T01:22:54Z",
+    "user": "QiyaoHuang",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3640869536,
     "number": 2755,
@@ -14043,6 +14058,23 @@
     "labels": [
       "Docs",
       "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3659599196,
+    "number": 22785,
+    "title": "Training epochs show high mAP, but final Validating best.pt line gives near-zero mAP for the same dataset; reproduced on YOLOv11-seg & YOLOv8-seg, Ultralytics 8.3.228",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22785",
+    "created_at": "2025-11-24T16:19:00Z",
+    "user": "semihozenc",
+    "labels": [
+      "bug",
+      "Stale",
+      "segment"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
