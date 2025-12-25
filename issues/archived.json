@@ -1,5 +1,21 @@
 [
   {
+    "repo": "unslothai/unsloth",
+    "id": 2021808081,
+    "number": 4,
+    "title": "Apple Silicon Support",
+    "url": "https://github.com/unslothai/unsloth/issues/4",
+    "created_at": "2023-12-02T02:14:16Z",
+    "user": "nicosuave",
+    "labels": [
+      "on roadmap",
+      "help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
     "repo": "astral-sh/ruff",
     "id": 2206313455,
     "number": 10578,
