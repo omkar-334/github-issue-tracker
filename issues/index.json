@@ -98314,6 +98314,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3762128986,
+      "number": 3777,
+      "title": "[Bug] NameError: name 'psutil' is not defined in UnslothSFTTrainer._prepare_dataset (Windows environment)",
+      "url": "https://github.com/unslothai/unsloth/issues/3777",
+      "created_at": "2025-12-25T15:28:38Z",
+      "user": "midorin-Linux",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3762185275,
       "number": 31361,
@@ -98342,8 +98357,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3762222664,
+      "number": 30899,
+      "title": "[Bug]: plot_directive does not raise warning or error when the code it runs fails",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30899",
+      "created_at": "2025-12-25T17:29:27Z",
+      "user": "kratsg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "py-why/dowhy",
+      "id": 3762242110,
+      "number": 1376,
+      "title": "SyntaxWarning: invalid escape sequences (Python 3.12+)",
+      "url": "https://github.com/py-why/dowhy/issues/1376",
+      "created_at": "2025-12-25T17:56:36Z",
+      "user": "ghilesmeddour",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762244785,
+      "number": 171298,
+      "title": "torch.utils.cpp_extension.load with ccache not caching nvcc invocations",
+      "url": "https://github.com/pytorch/pytorch/issues/171298",
+      "created_at": "2025-12-25T18:00:52Z",
+      "user": "hyln9",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3762257558,
+      "number": 25880,
+      "title": "Advice re ITables' interactive rendering of Polars DataFrames",
+      "url": "https://github.com/pola-rs/polars/issues/25880",
+      "created_at": "2025-12-25T18:19:54Z",
+      "user": "mwouts",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T17:25:42Z",
-  "total_count": 6473
+  "last_updated": "2025-12-25T18:39:27Z",
+  "total_count": 6478
 }
