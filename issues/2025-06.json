@@ -3049,5 +3049,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3189808640,
+    "number": 2846,
+    "title": "[Bug] vllm fast inference \"true\" does not load vllm engine when parameter full_finetuning = True is set when using GRPO",
+    "url": "https://github.com/unslothai/unsloth/issues/2846",
+    "created_at": "2025-06-30T20:44:22Z",
+    "user": "xyehya",
+    "labels": [
+      "on roadmap"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

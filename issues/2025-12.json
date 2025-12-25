@@ -37400,5 +37400,98 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3761273119,
+    "number": 171282,
+    "title": "[Inconsistency][Inductor] binary_cross_entropy_with_logits returns different dtypes between Eager and Inductor",
+    "url": "https://github.com/pytorch/pytorch/issues/171282",
+    "created_at": "2025-12-25T02:07:05Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3761280907,
+    "number": 171283,
+    "title": "aten.uniform cannot be called with keyword argument from",
+    "url": "https://github.com/pytorch/pytorch/issues/171283",
+    "created_at": "2025-12-25T02:17:31Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3761304716,
+    "number": 171284,
+    "title": "Segmentation fault (core dumped)",
+    "url": "https://github.com/pytorch/pytorch/issues/171284",
+    "created_at": "2025-12-25T02:46:33Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3761316132,
+    "number": 3333,
+    "title": "Support gpt-oss mxfp4 format qat",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3333",
+    "created_at": "2025-12-25T03:02:15Z",
+    "user": "shelterwff-byte",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3761318701,
+    "number": 171286,
+    "title": "Memory Viz Y-Axis Uses SI Units (GB) Instead of Binary Units (GiB)",
+    "url": "https://github.com/pytorch/pytorch/issues/171286",
+    "created_at": "2025-12-25T03:05:41Z",
+    "user": "alpha0422",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "catboost/catboost",
+    "id": 3761323504,
+    "number": 2985,
+    "title": "How to deal with feature selection bias towards first features?",
+    "url": "https://github.com/catboost/catboost/issues/2985",
+    "created_at": "2025-12-25T03:12:24Z",
+    "user": "asdsadsaasd12312132",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3761340376,
+    "number": 1918,
+    "title": "do we have plan support java ，we need you",
+    "url": "https://github.com/huggingface/tokenizers/issues/1918",
+    "created_at": "2025-12-25T03:35:29Z",
+    "user": "mullerhai",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
