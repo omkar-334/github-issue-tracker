@@ -98198,8 +98198,62 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3761985666,
+      "number": 30897,
+      "title": "[Bug] inset_axes fails under inline backend with bbox_inches=tight (renderer None)",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30897",
+      "created_at": "2025-12-25T13:12:06Z",
+      "user": "rowan-stein",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3761987479,
+      "number": 30898,
+      "title": "[Bug]: Blitting + draw_event behaves inconsistently between QtAgg and TkAgg backends #29928",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30898",
+      "created_at": "2025-12-25T13:13:24Z",
+      "user": "mitra-gayathri",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3761999467,
+      "number": 16395,
+      "title": "[Exynos] Failed to run exynos backend on real phone.",
+      "url": "https://github.com/pytorch/executorch/issues/16395",
+      "created_at": "2025-12-25T13:20:55Z",
+      "user": "allenaann",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3762017121,
+      "number": 31352,
+      "title": "[Bug]: Behavior change 0.11.2 vs 0.12 (and up)",
+      "url": "https://github.com/vllm-project/vllm/issues/31352",
+      "created_at": "2025-12-25T13:35:03Z",
+      "user": "vince62s",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T12:54:10Z",
-  "total_count": 6463
+  "last_updated": "2025-12-25T13:39:04Z",
+  "total_count": 6467
 }
