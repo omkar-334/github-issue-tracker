@@ -2994,6 +2994,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3250781396,
+    "number": 23364,
+    "title": "DOC: add a demo for the connection between spline coefficients and control points",
+    "url": "https://github.com/scipy/scipy/issues/23364",
+    "created_at": "2025-07-22T02:48:00Z",
+    "user": "konhero",
+    "labels": [
+      "scipy.interpolate",
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3251410484,
     "number": 158827,

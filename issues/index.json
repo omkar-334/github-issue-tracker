@@ -15662,6 +15662,22 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 3250781396,
+      "number": 23364,
+      "title": "DOC: add a demo for the connection between spline coefficients and control points",
+      "url": "https://github.com/scipy/scipy/issues/23364",
+      "created_at": "2025-07-22T02:48:00Z",
+      "user": "konhero",
+      "labels": [
+        "scipy.interpolate",
+        "Documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3251410484,
       "number": 158827,
@@ -96606,6 +96622,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3759108397,
+      "number": 171236,
+      "title": "DISABLED test_comprehensive_fft_fftn_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+      "url": "https://github.com/pytorch/pytorch/issues/171236",
+      "created_at": "2025-12-24T03:42:21Z",
+      "user": "chuanqi129",
+      "labels": [
+        "triaged",
+        "skipped",
+        "module: xpu"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3759126568,
       "number": 59640,
@@ -98104,8 +98137,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3761899685,
+      "number": 171296,
+      "title": "NVIDIA RTX 5060 NOT COMPATIBLE WITH PYTORCH VERSION",
+      "url": "https://github.com/pytorch/pytorch/issues/171296",
+      "created_at": "2025-12-25T12:14:10Z",
+      "user": "testgithubrites",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3761908744,
+      "number": 13461,
+      "title": "400: 'NoneType' object does not support item assignment - Authlib>=1.6.*",
+      "url": "https://github.com/streamlit/streamlit/issues/13461",
+      "created_at": "2025-12-25T12:19:51Z",
+      "user": "royassis",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3761916358,
+      "number": 59661,
+      "title": "[Core] `ray.init()` before TensorFlow import causes tf.data pipeline deadlock on macOS",
+      "url": "https://github.com/ray-project/ray/issues/59661",
+      "created_at": "2025-12-25T12:25:07Z",
+      "user": "pguijas",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3761936776,
+      "number": 63484,
+      "title": "BUG: pd.api.types.pandas_dtype raise different exception with numpy=2.4.0",
+      "url": "https://github.com/pandas-dev/pandas/issues/63484",
+      "created_at": "2025-12-25T12:38:52Z",
+      "user": "zhengruifeng",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T11:25:32Z",
-  "total_count": 6457
+  "last_updated": "2025-12-25T12:54:10Z",
+  "total_count": 6463
 }
