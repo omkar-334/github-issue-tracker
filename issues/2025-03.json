@@ -441,6 +441,22 @@
     "archived": false
   },
   {
+    "repo": "statsmodels/statsmodels",
+    "id": 2904822201,
+    "number": 9527,
+    "title": "DOC: IV2SLS with AR(1) errors, IVGMM",
+    "url": "https://github.com/statsmodels/statsmodels/issues/9527",
+    "created_at": "2025-03-08T14:27:32Z",
+    "user": "josef-pkt",
+    "labels": [
+      "comp-docs",
+      "comp-regression"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2904825118,
     "number": 3088,

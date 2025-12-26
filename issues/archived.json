@@ -1,18 +1,14 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 1747472486,
-    "number": 26092,
-    "title": "[Bug]: alpha array-type not working with RGB image in imshow()",
-    "url": "https://github.com/matplotlib/matplotlib/issues/26092",
-    "created_at": "2023-06-08T09:26:24Z",
-    "user": "patquem",
+    "repo": "astral-sh/ruff",
+    "id": 2119658799,
+    "number": 9848,
+    "title": "New rule: disallow code in `__init__` modules",
+    "url": "https://github.com/astral-sh/ruff/issues/9848",
+    "created_at": "2024-02-05T23:32:34Z",
+    "user": "samueljsb",
     "labels": [
-      "status: confirmed bug",
-      "topic: color/alpha",
-      "Difficulty: Medium",
-      "Good first issue",
-      "topic: images"
+      "rule"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
