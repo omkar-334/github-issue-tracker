@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1747472486,
+    "number": 26092,
+    "title": "[Bug]: alpha array-type not working with RGB image in imshow()",
+    "url": "https://github.com/matplotlib/matplotlib/issues/26092",
+    "created_at": "2023-06-08T09:26:24Z",
+    "user": "patquem",
+    "labels": [
+      "status: confirmed bug",
+      "topic: color/alpha",
+      "Difficulty: Medium",
+      "Good first issue",
+      "topic: images"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

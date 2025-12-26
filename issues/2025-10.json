@@ -6680,6 +6680,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3554402889,
+    "number": 62870,
+    "title": "ENH: Double-double arithmetic for precision operations with float64s",
+    "url": "https://github.com/pandas-dev/pandas/issues/62870",
+    "created_at": "2025-10-26T20:08:02Z",
+    "user": "eicchen",
+    "labels": [
+      "Enhancement",
+      "Numeric stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3554481670,
     "number": 23868,
