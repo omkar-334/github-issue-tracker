@@ -100278,8 +100278,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3763647276,
+      "number": 12612,
+      "title": "How to hide the gr.File after triggering gr.delete()",
+      "url": "https://github.com/gradio-app/gradio/issues/12612",
+      "created_at": "2025-12-26T15:37:07Z",
+      "user": "locitran",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3763651984,
+      "number": 43051,
+      "title": "Tensor item cannot be called",
+      "url": "https://github.com/huggingface/transformers/issues/43051",
+      "created_at": "2025-12-26T15:41:12Z",
+      "user": "lumideez",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3763682944,
+      "number": 31389,
+      "title": "[Bug]: Byte fallback is not properly handled when using outlines",
+      "url": "https://github.com/vllm-project/vllm/issues/31389",
+      "created_at": "2025-12-26T16:08:23Z",
+      "user": "Alnusjaponica",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T15:30:00Z",
-  "total_count": 6601
+  "last_updated": "2025-12-26T16:33:46Z",
+  "total_count": 6604
 }
