@@ -1,16 +1,16 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 2575242025,
-    "number": 137574,
-    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
-    "url": "https://github.com/pytorch/pytorch/issues/137574",
-    "created_at": "2024-10-09T08:47:36Z",
-    "user": "vadimkantorov",
+    "repo": "pytorch/executorch",
+    "id": 2758719788,
+    "number": 7437,
+    "title": "Follow the guide of qnn Android demo to run until coredump occurs during qnn model quantization",
+    "url": "https://github.com/pytorch/executorch/issues/7437",
+    "created_at": "2024-12-25T10:40:17Z",
+    "user": "AndreaChiChengdu",
     "labels": [
+      "partner: qualcomm",
       "triaged",
-      "enhancement",
-      "module: sdpa"
+      "module: qnn"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -1,23 +1,6 @@
 {
   "issues": [
     {
-      "repo": "pytorch/executorch",
-      "id": 2758719788,
-      "number": 7437,
-      "title": "Follow the guide of qnn Android demo to run until coredump occurs during qnn model quantization",
-      "url": "https://github.com/pytorch/executorch/issues/7437",
-      "created_at": "2024-12-25T10:40:17Z",
-      "user": "AndreaChiChengdu",
-      "labels": [
-        "partner: qualcomm",
-        "triaged",
-        "module: qnn"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "pytorch/torchtitan",
       "id": 2759902633,
       "number": 760,
@@ -98685,8 +98668,97 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3762449797,
+      "number": 59663,
+      "title": "[Core] The sample code runs longer and freezes the system for about a minute on an M3 Pro after version `2.48`.",
+      "url": "https://github.com/ray-project/ray/issues/59663",
+      "created_at": "2025-12-25T23:45:30Z",
+      "user": "muzam1l",
+      "labels": [
+        "bug",
+        "triage",
+        "performance",
+        "core",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3762523337,
+      "number": 59664,
+      "title": "[<Ray component: Core|RLlib|etc...>] IOError: Connection reset by peer Failed to announce driver's port to raylet and GCS  &&  Failed to register worker to Raylet: IOError: Failed to read data from the socket: End of file worker_id...",
+      "url": "https://github.com/ray-project/ray/issues/59664",
+      "created_at": "2025-12-26T01:38:53Z",
+      "user": "Togetabetterplace",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762530669,
+      "number": 171306,
+      "title": "The precision of pow(x, 0.5) and libdevice.sqrt is inconsistent.",
+      "url": "https://github.com/pytorch/pytorch/issues/171306",
+      "created_at": "2025-12-26T01:48:36Z",
+      "user": "markc-614",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3762533133,
+      "number": 31368,
+      "title": "[Performance]: DeepSeek-v3.2 throughput&TTFT&TPOT is much slower than DeepSeek-v3.1 on 8*H200",
+      "url": "https://github.com/vllm-project/vllm/issues/31368",
+      "created_at": "2025-12-26T01:51:47Z",
+      "user": "princepride",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762536695,
+      "number": 171307,
+      "title": "`@pytorchbot  merge -r` failed due to failed basic CIs.",
+      "url": "https://github.com/pytorch/pytorch/issues/171307",
+      "created_at": "2025-12-26T01:56:41Z",
+      "user": "KarhouTam",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3762538433,
+      "number": 16397,
+      "title": "XNNPACK is not taking effect on Android and x86 platforms.",
+      "url": "https://github.com/pytorch/executorch/issues/16397",
+      "created_at": "2025-12-26T01:58:45Z",
+      "user": "owen-532",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-25T23:27:38Z",
-  "total_count": 6496
+  "last_updated": "2025-12-26T02:03:04Z",
+  "total_count": 6501
 }
