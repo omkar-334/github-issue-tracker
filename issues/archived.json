@@ -1,31 +1,17 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "pytorch/pytorch",
+    "id": 779646995,
+    "number": 50112,
+    "title": "need a clear guide for when and how to use torch.cuda.set_device()",
+    "url": "https://github.com/pytorch/pytorch/issues/50112",
+    "created_at": "2021-01-05T22:11:26Z",
+    "user": "stas00",
     "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "vllm-project/vllm",
-    "id": 2252314187,
-    "number": 4194,
-    "title": "[RFC]: Multi-modality Support on vLLM",
-    "url": "https://github.com/vllm-project/vllm/issues/4194",
-    "created_at": "2024-04-19T07:51:48Z",
-    "user": "ywang96",
-    "labels": [
-      "RFC",
-      "keep-open",
-      "multi-modality"
+      "module: docs",
+      "module: cuda",
+      "triaged",
+      "needs design"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
