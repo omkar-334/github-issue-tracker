@@ -1253,6 +1253,23 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 2933911028,
+    "number": 3119,
+    "title": "[GRPO Trainer] NCCL communication timeout when training on multiple machines with deepspeed zero2 config",
+    "url": "https://github.com/huggingface/trl/issues/3119",
+    "created_at": "2025-03-20T03:23:40Z",
+    "user": "Saturnoul",
+    "labels": [
+      "🐛 bug",
+      "🚀 deepspeed",
+      "🏋 GRPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2936220092,
     "number": 3893,

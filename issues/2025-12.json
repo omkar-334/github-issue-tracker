@@ -38644,5 +38644,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3762640409,
+    "number": 34487,
+    "title": "Feature Request: Add StreamEventName Literal type for type-safe event handling in astream_events",
+    "url": "https://github.com/langchain-ai/langchain/issues/34487",
+    "created_at": "2025-12-26T03:47:33Z",
+    "user": "donggyun112",
+    "labels": [
+      "core",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
