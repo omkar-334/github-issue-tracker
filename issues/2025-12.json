@@ -38904,5 +38904,72 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3763152863,
+    "number": 1563,
+    "title": "Add `__repr__` Methods to `OpenMLSplit`",
+    "url": "https://github.com/openml/openml-python/issues/1563",
+    "created_at": "2025-12-26T09:44:05Z",
+    "user": "SimonBlanke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3763176502,
+    "number": 1920,
+    "title": "[Docs] [Bug] Latest docs on huggingface.co and latest github release don't match",
+    "url": "https://github.com/huggingface/tokenizers/issues/1920",
+    "created_at": "2025-12-26T10:00:07Z",
+    "user": "tomschelsen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3763183796,
+    "number": 43048,
+    "title": "Need to understand difference between TP support via transformers code v/s Pytorch's native parallelize_module API.",
+    "url": "https://github.com/huggingface/transformers/issues/43048",
+    "created_at": "2025-12-26T10:05:38Z",
+    "user": "quic-meetkuma",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3763206807,
+    "number": 1564,
+    "title": "[ENH] Improve Global Config Architecture",
+    "url": "https://github.com/openml/openml-python/issues/1564",
+    "created_at": "2025-12-26T10:19:42Z",
+    "user": "SimonBlanke",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3763216891,
+    "number": 31387,
+    "title": "[Feature]: Use Kimi to support to deploy fp8 model in 8xA100-PCIE-40GB GPU",
+    "url": "https://github.com/vllm-project/vllm/issues/31387",
+    "created_at": "2025-12-26T10:24:40Z",
+    "user": "shiwanghua",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

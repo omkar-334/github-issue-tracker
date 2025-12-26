@@ -6704,6 +6704,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3625818184,
+    "number": 167836,
+    "title": "GradTrackingTensor.tolist() not working on MacOS",
+    "url": "https://github.com/pytorch/pytorch/issues/167836",
+    "created_at": "2025-11-14T14:17:51Z",
+    "user": "ysalire",
+    "labels": [
+      "triaged",
+      "module: mps",
+      "module: functorch",
+      "module: PrivateUse1"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3625962949,
     "number": 30216,

@@ -475,6 +475,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3291336642,
+    "number": 22225,
+    "title": "[Bug]: VLLM v0.10.0  failed to deploy the qwen3-30b-moe model. The error is AttributeError: '_OpNamespace' '_moe_C' object has no attribute 'topk_softmax'.",
+    "url": "https://github.com/vllm-project/vllm/issues/22225",
+    "created_at": "2025-08-05T02:36:47Z",
+    "user": "controlRun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "dask/dask",
     "id": 3291557422,
     "number": 12042,

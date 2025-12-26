@@ -1719,6 +1719,24 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2954503908,
+    "number": 15647,
+    "title": "[Performance]: Update Cascade Attention Heuristics for FA3",
+    "url": "https://github.com/vllm-project/vllm/issues/15647",
+    "created_at": "2025-03-27T22:02:43Z",
+    "user": "WoosukKwon",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "feature request",
+      "unstale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 2954741442,
     "number": 2172,

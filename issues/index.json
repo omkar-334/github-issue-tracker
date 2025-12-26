@@ -4808,6 +4808,24 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2954503908,
+      "number": 15647,
+      "title": "[Performance]: Update Cascade Attention Heuristics for FA3",
+      "url": "https://github.com/vllm-project/vllm/issues/15647",
+      "created_at": "2025-03-27T22:02:43Z",
+      "user": "WoosukKwon",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature request",
+        "unstale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 2954741442,
       "number": 2172,
@@ -7809,6 +7827,21 @@
       "user": "clairvoyante",
       "labels": [
         "feature_request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3055407714,
+      "number": 17972,
+      "title": "[Bug]: vLLM server hangs and timeouts after initial requests",
+      "url": "https://github.com/vllm-project/vllm/issues/17972",
+      "created_at": "2025-05-12T01:41:55Z",
+      "user": "samuellimabraz",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17779,6 +17812,21 @@
       "url": "https://github.com/huggingface/lighteval/issues/897",
       "created_at": "2025-08-05T01:35:22Z",
       "user": "huaanrui",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3291336642,
+      "number": 22225,
+      "title": "[Bug]: VLLM v0.10.0  failed to deploy the qwen3-30b-moe model. The error is AttributeError: '_OpNamespace' '_moe_C' object has no attribute 'topk_softmax'.",
+      "url": "https://github.com/vllm-project/vllm/issues/22225",
+      "created_at": "2025-08-05T02:36:47Z",
+      "user": "controlRun",
       "labels": [
         "bug"
       ],
@@ -46904,6 +46952,24 @@
       "labels": [
         "question",
         "Stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3625818184,
+      "number": 167836,
+      "title": "GradTrackingTensor.tolist() not working on MacOS",
+      "url": "https://github.com/pytorch/pytorch/issues/167836",
+      "created_at": "2025-11-14T14:17:51Z",
+      "user": "ysalire",
+      "labels": [
+        "triaged",
+        "module: mps",
+        "module: functorch",
+        "module: PrivateUse1"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -99818,8 +99884,75 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3763152863,
+      "number": 1563,
+      "title": "Add `__repr__` Methods to `OpenMLSplit`",
+      "url": "https://github.com/openml/openml-python/issues/1563",
+      "created_at": "2025-12-26T09:44:05Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/tokenizers",
+      "id": 3763176502,
+      "number": 1920,
+      "title": "[Docs] [Bug] Latest docs on huggingface.co and latest github release don't match",
+      "url": "https://github.com/huggingface/tokenizers/issues/1920",
+      "created_at": "2025-12-26T10:00:07Z",
+      "user": "tomschelsen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3763183796,
+      "number": 43048,
+      "title": "Need to understand difference between TP support via transformers code v/s Pytorch's native parallelize_module API.",
+      "url": "https://github.com/huggingface/transformers/issues/43048",
+      "created_at": "2025-12-26T10:05:38Z",
+      "user": "quic-meetkuma",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3763206807,
+      "number": 1564,
+      "title": "[ENH] Improve Global Config Architecture",
+      "url": "https://github.com/openml/openml-python/issues/1564",
+      "created_at": "2025-12-26T10:19:42Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3763216891,
+      "number": 31387,
+      "title": "[Feature]: Use Kimi to support to deploy fp8 model in 8xA100-PCIE-40GB GPU",
+      "url": "https://github.com/vllm-project/vllm/issues/31387",
+      "created_at": "2025-12-26T10:24:40Z",
+      "user": "shiwanghua",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T09:31:23Z",
-  "total_count": 6570
+  "last_updated": "2025-12-26T10:31:10Z",
+  "total_count": 6579
 }

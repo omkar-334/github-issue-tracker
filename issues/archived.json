@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2119658799,
-    "number": 9848,
-    "title": "New rule: disallow code in `__init__` modules",
-    "url": "https://github.com/astral-sh/ruff/issues/9848",
-    "created_at": "2024-02-05T23:32:34Z",
-    "user": "samueljsb",
-    "labels": [
-      "rule"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

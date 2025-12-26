@@ -789,6 +789,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3055407714,
+    "number": 17972,
+    "title": "[Bug]: vLLM server hangs and timeouts after initial requests",
+    "url": "https://github.com/vllm-project/vllm/issues/17972",
+    "created_at": "2025-05-12T01:41:55Z",
+    "user": "samuellimabraz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3056396463,
     "number": 1777,
