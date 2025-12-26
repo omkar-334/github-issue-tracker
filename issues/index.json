@@ -2348,6 +2348,22 @@
       "archived": false
     },
     {
+      "repo": "sktime/sktime",
+      "id": 2854482916,
+      "number": 7829,
+      "title": "[BUG] Train/Test Split in GlobalForecaster (TinyTimesMixer) lead to empty  train/test sets.",
+      "url": "https://github.com/sktime/sktime/issues/7829",
+      "created_at": "2025-02-14T18:43:35Z",
+      "user": "benHeid",
+      "labels": [
+        "bug",
+        "module:forecasting"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2855821215,
       "number": 147274,
@@ -100516,8 +100532,100 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3763862693,
+      "number": 59683,
+      "title": "[Data] Introduce seams to `DefaultAutoscaler2` to make it more testable",
+      "url": "https://github.com/ray-project/ray/issues/59683",
+      "created_at": "2025-12-26T18:47:36Z",
+      "user": "bveeramani",
+      "labels": [
+        "P2",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3763868353,
+      "number": 19649,
+      "title": "[BUG] In MLflow GenAI Tracing, token usage is inflated for streaming traces",
+      "url": "https://github.com/mlflow/mlflow/issues/19649",
+      "created_at": "2025-12-26T18:52:27Z",
+      "user": "AMRUTH-ASHOK",
+      "labels": [
+        "bug",
+        "area/tracing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3763869643,
+      "number": 59684,
+      "title": "[Data] Remove constructor from `ClusterAutoscaler` base class",
+      "url": "https://github.com/ray-project/ray/issues/59684",
+      "created_at": "2025-12-26T18:53:44Z",
+      "user": "bveeramani",
+      "labels": [
+        "P2",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3763871323,
+      "number": 59685,
+      "title": "[Data] `AutoscalingCoordinator` double-allocates resources if there are multiple datasets",
+      "url": "https://github.com/ray-project/ray/issues/59685",
+      "created_at": "2025-12-26T18:55:21Z",
+      "user": "bveeramani",
+      "labels": [
+        "P2",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3763874090,
+      "number": 19650,
+      "title": "[BUG] Invalid experiment_id returns 500 instead of 400",
+      "url": "https://github.com/mlflow/mlflow/issues/19650",
+      "created_at": "2025-12-26T18:58:06Z",
+      "user": "rd-pong",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3763874967,
+      "number": 43052,
+      "title": "Missing import of torch in distilbert docs",
+      "url": "https://github.com/huggingface/transformers/issues/43052",
+      "created_at": "2025-12-26T18:59:00Z",
+      "user": "PredictiveManish",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T18:39:19Z",
-  "total_count": 6617
+  "last_updated": "2025-12-26T19:24:23Z",
+  "total_count": 6624
 }

@@ -626,6 +626,22 @@
     "archived": false
   },
   {
+    "repo": "sktime/sktime",
+    "id": 2854482916,
+    "number": 7829,
+    "title": "[BUG] Train/Test Split in GlobalForecaster (TinyTimesMixer) lead to empty  train/test sets.",
+    "url": "https://github.com/sktime/sktime/issues/7829",
+    "created_at": "2025-02-14T18:43:35Z",
+    "user": "benHeid",
+    "labels": [
+      "bug",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 2855821215,
     "number": 147274,
