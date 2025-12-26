@@ -1878,6 +1878,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/diffusers",
+      "id": 2829138521,
+      "number": 10712,
+      "title": "StableDiffusion3 pipeline RuntimeError when using prompt_embeds",
+      "url": "https://github.com/huggingface/diffusers/issues/10712",
+      "created_at": "2025-02-04T04:58:29Z",
+      "user": "pjjajal",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 2829931948,
       "number": 8240,
@@ -22538,6 +22553,21 @@
       "archived": false
     },
     {
+      "repo": "google-deepmind/optax",
+      "id": 3380824466,
+      "number": 1414,
+      "title": "Honor the dtype in the function signature in `inject_hyperparams`.",
+      "url": "https://github.com/google-deepmind/optax/issues/1414",
+      "created_at": "2025-09-03T18:22:46Z",
+      "user": "sizhit2",
+      "labels": [
+        "type:feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3380836452,
       "number": 14218,
@@ -35372,6 +35402,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3527196572,
+      "number": 27116,
+      "title": "[Bug]: vLLM failure (ray.exceptions.RayChannelTimeoutError) observed since v0.10.2, with tp=8, pp=4",
+      "url": "https://github.com/vllm-project/vllm/issues/27116",
+      "created_at": "2025-10-17T18:57:41Z",
+      "user": "TheRValiquette",
+      "labels": [
+        "bug",
+        "ray"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "networkx/networkx",
       "id": 3527294157,
       "number": 8323,
@@ -48140,6 +48186,21 @@
       "archived": false
     },
     {
+      "repo": "google-deepmind/optax",
+      "id": 3632068365,
+      "number": 1498,
+      "title": "Should `tree_sum` use `jax.tree.reduce_associative`?",
+      "url": "https://github.com/google-deepmind/optax/issues/1498",
+      "created_at": "2025-11-17T07:22:54Z",
+      "user": "SobhanMP",
+      "labels": [
+        "type:support"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3632139612,
       "number": 16718,
@@ -55469,6 +55530,24 @@
       "created_at": "2025-11-25T16:37:20Z",
       "user": "tomaarsen",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3663914349,
+      "number": 25492,
+      "title": "Features lazy + range have an undeclared dependency on moment",
+      "url": "https://github.com/pola-rs/polars/issues/25492",
+      "created_at": "2025-11-25T17:14:53Z",
+      "user": "drhagen",
+      "labels": [
+        "bug",
+        "rust",
+        "accepted",
+        "P-low"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -100738,8 +100817,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "dmlc/xgboost",
+      "id": 3764048054,
+      "number": 11892,
+      "title": "AFT Survival Loss Scale Parameter is no longer in the docs",
+      "url": "https://github.com/dmlc/xgboost/issues/11892",
+      "created_at": "2025-12-26T21:49:31Z",
+      "user": "bblodfon",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3764075422,
+      "number": 171355,
+      "title": "torch.utils.checkpoint.CheckpointError with qwen3 MoE",
+      "url": "https://github.com/pytorch/pytorch/issues/171355",
+      "created_at": "2025-12-26T22:23:44Z",
+      "user": "ojh31",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T21:26:27Z",
-  "total_count": 6632
+  "last_updated": "2025-12-26T22:28:12Z",
+  "total_count": 6639
 }

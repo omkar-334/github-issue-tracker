@@ -4442,6 +4442,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3527196572,
+    "number": 27116,
+    "title": "[Bug]: vLLM failure (ray.exceptions.RayChannelTimeoutError) observed since v0.10.2, with tp=8, pp=4",
+    "url": "https://github.com/vllm-project/vllm/issues/27116",
+    "created_at": "2025-10-17T18:57:41Z",
+    "user": "TheRValiquette",
+    "labels": [
+      "bug",
+      "ray"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "networkx/networkx",
     "id": 3527294157,
     "number": 8323,
