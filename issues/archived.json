@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "pytorch/pytorch",
+    "id": 1443979898,
+    "number": 88810,
+    "title": "Return the attention weights using the Transformer Encoder class. ",
+    "url": "https://github.com/pytorch/pytorch/issues/88810",
+    "created_at": "2022-11-10T14:13:50Z",
+    "user": "PaulOppelt",
+    "labels": [
+      "module: nn",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
