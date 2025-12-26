@@ -1,15 +1,29 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1443979898,
-    "number": 88810,
-    "title": "Return the attention weights using the Transformer Encoder class. ",
-    "url": "https://github.com/pytorch/pytorch/issues/88810",
-    "created_at": "2022-11-10T14:13:50Z",
-    "user": "PaulOppelt",
+    "repo": "huggingface/transformers",
+    "id": 2052332919,
+    "number": 28180,
+    "title": "Verify interpolation of image processors",
+    "url": "https://github.com/huggingface/transformers/issues/28180",
+    "created_at": "2023-12-21T12:26:51Z",
+    "user": "NielsRogge",
     "labels": [
-      "module: nn",
-      "triaged"
+      "Good First Issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

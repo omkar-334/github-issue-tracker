@@ -8155,6 +8155,19 @@
       "archived": false
     },
     {
+      "repo": "open-mmlab/mmcv",
+      "id": 3068501490,
+      "number": 3283,
+      "title": "[Bug] 5090显卡无法适配",
+      "url": "https://github.com/open-mmlab/mmcv/issues/3283",
+      "created_at": "2025-05-16T09:38:47Z",
+      "user": "KindledLwyKernel",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/vision",
       "id": 3068982464,
       "number": 9071,
@@ -23245,6 +23258,22 @@
         "bug",
         "stale",
         "gpt-oss"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3387802516,
+      "number": 9769,
+      "title": "Reducing coupling between `OpenAIChatGenerator` and core integrations",
+      "url": "https://github.com/deepset-ai/haystack/issues/9769",
+      "created_at": "2025-09-05T14:40:55Z",
+      "user": "anakin87",
+      "labels": [
+        "type:enhancement",
+        "P2"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -69859,6 +69888,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3704789475,
+      "number": 30238,
+      "title": "[Bug]: Kimi-K2-Thinking vLLM self host tool call fail",
+      "url": "https://github.com/vllm-project/vllm/issues/30238",
+      "created_at": "2025-12-08T06:01:32Z",
+      "user": "cyysky",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3704817262,
       "number": 59259,
@@ -99543,8 +99587,108 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3762796968,
+      "number": 3547,
+      "title": "Support gpt-oss mxfp4 format qat",
+      "url": "https://github.com/pytorch/ao/issues/3547",
+      "created_at": "2025-12-26T06:03:26Z",
+      "user": "shelterwff-byte",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3762799612,
+      "number": 22201,
+      "title": "Warn or autofix \"return <Exception>\"",
+      "url": "https://github.com/astral-sh/ruff/issues/22201",
+      "created_at": "2025-12-26T06:05:41Z",
+      "user": "andrewwillowen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3762802853,
+      "number": 3648,
+      "title": "  On slow internet 1) Not refresh download link  ",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3648",
+      "created_at": "2025-12-26T06:08:24Z",
+      "user": "Uglevod",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3762803829,
+      "number": 31377,
+      "title": "[Bug]: torch.ops._C.static_scaled_fp8_quant IMA error",
+      "url": "https://github.com/vllm-project/vllm/issues/31377",
+      "created_at": "2025-12-26T06:09:13Z",
+      "user": "BoyuanFeng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762815551,
+      "number": 171312,
+      "title": "Allowing MP<PP for GPipe!",
+      "url": "https://github.com/pytorch/pytorch/issues/171312",
+      "created_at": "2025-12-26T06:15:40Z",
+      "user": "KimbingNg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3762817917,
+      "number": 43045,
+      "title": "Multimodal chat sample",
+      "url": "https://github.com/huggingface/transformers/issues/43045",
+      "created_at": "2025-12-26T06:16:53Z",
+      "user": "Wovchena",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3762841750,
+      "number": 20416,
+      "title": "[Bug]: Updating ReActAgent's system_prompt does not function correctly",
+      "url": "https://github.com/run-llama/llama_index/issues/20416",
+      "created_at": "2025-12-26T06:33:17Z",
+      "user": "AkshitGulyan",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T05:30:52Z",
-  "total_count": 6551
+  "last_updated": "2025-12-26T06:42:52Z",
+  "total_count": 6561
 }
