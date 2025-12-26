@@ -39072,5 +39072,80 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3763310649,
+    "number": 34491,
+    "title": "In streaming mode, allow the agent to output content only in the final response",
+    "url": "https://github.com/langchain-ai/langchain/issues/34491",
+    "created_at": "2025-12-26T11:27:56Z",
+    "user": "worldback",
+    "labels": [
+      "langchain",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3763343389,
+    "number": 24237,
+    "title": "BUG: signal.tf2zpk memory leak",
+    "url": "https://github.com/scipy/scipy/issues/24237",
+    "created_at": "2025-12-26T11:53:56Z",
+    "user": "KILABRZ",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3763362826,
+    "number": 171323,
+    "title": "Segmentation fault when calling `torch.tensor()` after importing xgboost",
+    "url": "https://github.com/pytorch/pytorch/issues/171323",
+    "created_at": "2025-12-26T12:05:48Z",
+    "user": "pguijas",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3763374862,
+    "number": 34494,
+    "title": "Centralize pyproject.toml tool configurations",
+    "url": "https://github.com/langchain-ai/langchain/issues/34494",
+    "created_at": "2025-12-26T12:12:06Z",
+    "user": "mishrapravin114",
+    "labels": [
+      "core",
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3763391334,
+    "number": 3783,
+    "title": "[Bug] llava1.5-7b-hf ValueError: Image features and image tokens do not match: tokens: 575, features 2359296",
+    "url": "https://github.com/unslothai/unsloth/issues/3783",
+    "created_at": "2025-12-26T12:24:00Z",
+    "user": "Zuozhuo",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

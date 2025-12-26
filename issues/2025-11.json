@@ -534,6 +534,25 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3581901601,
+    "number": 166853,
+    "title": "torch.randn on CPU is not accurate with dtype=bfloat16",
+    "url": "https://github.com/pytorch/pytorch/issues/166853",
+    "created_at": "2025-11-03T12:41:14Z",
+    "user": "constroy",
+    "labels": [
+      "triaged",
+      "module: random",
+      "module: bfloat16",
+      "actionable",
+      "module: correctness (silent)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3581975961,
     "number": 3505,

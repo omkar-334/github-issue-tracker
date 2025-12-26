@@ -19403,6 +19403,22 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3324957085,
+      "number": 160732,
+      "title": "GLOO backend should have MPS capability",
+      "url": "https://github.com/pytorch/pytorch/issues/160732",
+      "created_at": "2025-08-15T10:27:52Z",
+      "user": "jemrobinson",
+      "labels": [
+        "oncall: distributed",
+        "module: mps"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3325344123,
       "number": 160739,
       "title": "ConvTranspose 3D with BF16 or FP16 types is not supported on MPS",
@@ -40767,6 +40783,25 @@
       "created_at": "2025-11-03T11:42:37Z",
       "user": "Aaronhuang-778",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3581901601,
+      "number": 166853,
+      "title": "torch.randn on CPU is not accurate with dtype=bfloat16",
+      "url": "https://github.com/pytorch/pytorch/issues/166853",
+      "created_at": "2025-11-03T12:41:14Z",
+      "user": "constroy",
+      "labels": [
+        "triaged",
+        "module: random",
+        "module: bfloat16",
+        "actionable",
+        "module: correctness (silent)"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -100052,8 +100087,83 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3763310649,
+      "number": 34491,
+      "title": "In streaming mode, allow the agent to output content only in the final response",
+      "url": "https://github.com/langchain-ai/langchain/issues/34491",
+      "created_at": "2025-12-26T11:27:56Z",
+      "user": "worldback",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3763343389,
+      "number": 24237,
+      "title": "BUG: signal.tf2zpk memory leak",
+      "url": "https://github.com/scipy/scipy/issues/24237",
+      "created_at": "2025-12-26T11:53:56Z",
+      "user": "KILABRZ",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3763362826,
+      "number": 171323,
+      "title": "Segmentation fault when calling `torch.tensor()` after importing xgboost",
+      "url": "https://github.com/pytorch/pytorch/issues/171323",
+      "created_at": "2025-12-26T12:05:48Z",
+      "user": "pguijas",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3763374862,
+      "number": 34494,
+      "title": "Centralize pyproject.toml tool configurations",
+      "url": "https://github.com/langchain-ai/langchain/issues/34494",
+      "created_at": "2025-12-26T12:12:06Z",
+      "user": "mishrapravin114",
+      "labels": [
+        "core",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3763391334,
+      "number": 3783,
+      "title": "[Bug] llava1.5-7b-hf ValueError: Image features and image tokens do not match: tokens: 575, features 2359296",
+      "url": "https://github.com/unslothai/unsloth/issues/3783",
+      "created_at": "2025-12-26T12:24:00Z",
+      "user": "Zuozhuo",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T11:26:44Z",
-  "total_count": 6586
+  "last_updated": "2025-12-26T12:55:19Z",
+  "total_count": 6593
 }
