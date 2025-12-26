@@ -1,14 +1,16 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "pytorch/pytorch",
+    "id": 226235584,
+    "number": 1468,
+    "title": "avg_pool functions hold input for backward",
+    "url": "https://github.com/pytorch/pytorch/issues/1468",
+    "created_at": "2017-05-04T10:17:37Z",
+    "user": "szagoruyko",
     "labels": [
-      "internal"
+      "feature",
+      "triaged",
+      "module: pooling"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

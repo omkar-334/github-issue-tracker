@@ -100843,8 +100843,54 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3764082443,
+      "number": 171356,
+      "title": "`torch.clip` has checks for float16 scalar overflow on CPU but not on GPU",
+      "url": "https://github.com/pytorch/pytorch/issues/171356",
+      "created_at": "2025-12-26T22:32:48Z",
+      "user": "jiren-the-gray",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3764108607,
+      "number": 63489,
+      "title": "ENH: drop function should take kwarg rows",
+      "url": "https://github.com/pandas-dev/pandas/issues/63489",
+      "created_at": "2025-12-26T23:06:58Z",
+      "user": "hasandiwan",
+      "labels": [
+        "Enhancement",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3764114633,
+      "number": 22216,
+      "title": "Consider respecting `lint.pydocstyle.property-decorators` in `RUF066`",
+      "url": "https://github.com/astral-sh/ruff/issues/22216",
+      "created_at": "2025-12-26T23:16:00Z",
+      "user": "ntBre",
+      "labels": [
+        "rule",
+        "configuration",
+        "preview"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T22:28:12Z",
-  "total_count": 6639
+  "last_updated": "2025-12-26T23:27:20Z",
+  "total_count": 6642
 }
