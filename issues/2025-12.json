@@ -39209,5 +39209,44 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3763582362,
+    "number": 171327,
+    "title": "bceloss provides too huge grad. Imo, it's bad.",
+    "url": "https://github.com/pytorch/pytorch/issues/171327",
+    "created_at": "2025-12-26T14:47:00Z",
+    "user": "YagaoDirac",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3763628001,
+    "number": 22209,
+    "title": "ty: Type Hint does not work very well",
+    "url": "https://github.com/astral-sh/ruff/issues/22209",
+    "created_at": "2025-12-26T15:22:22Z",
+    "user": "Decodetalkers",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3763628119,
+    "number": 7433,
+    "title": "[ENH] Reduce size of memoryviewslice struct",
+    "url": "https://github.com/cython/cython/issues/7433",
+    "created_at": "2025-12-26T15:22:28Z",
+    "user": "da-woods",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
