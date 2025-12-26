@@ -39547,5 +39547,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "id": 3763958586,
+    "number": 9723,
+    "title": "Feature Request: Fama-Macbeth for two-stage regression with HAC standard errors",
+    "url": "https://github.com/statsmodels/statsmodels/issues/9723",
+    "created_at": "2025-12-26T20:15:31Z",
+    "user": "gaixen",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "astral-sh/ruff",
-    "id": 1847584285,
-    "number": 6514,
-    "title": "[Proposal] Mirror isort's float-to-top feature to autofix simple cases of E402",
-    "url": "https://github.com/astral-sh/ruff/issues/6514",
-    "created_at": "2023-08-12T00:14:00Z",
-    "user": "SummerStorm",
-    "labels": [
-      "fixes"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]

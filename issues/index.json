@@ -3308,6 +3308,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2893030083,
+      "number": 148420,
+      "title": "Float8_e4m3fn",
+      "url": "https://github.com/pytorch/pytorch/issues/148420",
+      "created_at": "2025-03-04T05:49:15Z",
+      "user": "wangcheng2013",
+      "labels": [
+        "triaged",
+        "module: mps",
+        "module: floatx (formerly float8)"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 2893975693,
       "number": 13763,
@@ -100624,8 +100641,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "statsmodels/statsmodels",
+      "id": 3763958586,
+      "number": 9723,
+      "title": "Feature Request: Fama-Macbeth for two-stage regression with HAC standard errors",
+      "url": "https://github.com/statsmodels/statsmodels/issues/9723",
+      "created_at": "2025-12-26T20:15:31Z",
+      "user": "gaixen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T19:24:23Z",
-  "total_count": 6624
+  "last_updated": "2025-12-26T20:31:17Z",
+  "total_count": 6626
 }
