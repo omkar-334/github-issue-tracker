@@ -12202,6 +12202,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3171875487,
+      "number": 20020,
+      "title": "[Feature]: Can we release a wheel for x86 CPU based inferencing",
+      "url": "https://github.com/vllm-project/vllm/issues/20020",
+      "created_at": "2025-06-24T12:46:47Z",
+      "user": "ericcurtin",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3172905858,
       "number": 6990,
@@ -12363,6 +12379,22 @@
       "created_at": "2025-06-26T11:40:26Z",
       "user": "sebv004",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3180298673,
+      "number": 20149,
+      "title": "[Feature]: Add Support for Updating Lora Weights",
+      "url": "https://github.com/vllm-project/vllm/issues/20149",
+      "created_at": "2025-06-26T20:18:59Z",
+      "user": "alex-jw-brooks",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -16878,6 +16910,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3274805628,
+      "number": 21864,
+      "title": "[Bug]: GPU OOM when processing AWQ Marlin weights with UVA CPU Offload",
+      "url": "https://github.com/vllm-project/vllm/issues/21864",
+      "created_at": "2025-07-29T19:55:57Z",
+      "user": "averageFOSSenjoyer",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 3274866385,
       "number": 2349,
@@ -17460,6 +17508,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3287781487,
+      "number": 22162,
+      "title": "[Usage]: multi-lora for vision language model",
+      "url": "https://github.com/vllm-project/vllm/issues/22162",
+      "created_at": "2025-08-04T02:07:10Z",
+      "user": "PizzaSnow",
+      "labels": [
+        "usage",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3288589593,
       "number": 7072,
@@ -17680,6 +17744,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3291891262,
+      "number": 22239,
+      "title": "[Performance]: vllm v0.10.0 seems to be much slower than vllm v0.8.5 when using Qwen3-30B-A3B-int4",
+      "url": "https://github.com/vllm-project/vllm/issues/22239",
+      "created_at": "2025-08-05T07:15:59Z",
+      "user": "alanayu",
+      "labels": [
+        "performance",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3292284864,
       "number": 22245,
       "title": "[Bug]: VLLM_ROCM_USE_AITER=1 hit device_gemm with the specified compilation parameters does not support this GEMM problem for Qwen3-235B-A22B",
@@ -17855,6 +17935,22 @@
       "created_at": "2025-08-05T19:40:19Z",
       "user": "imran3180",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3294630002,
+      "number": 22284,
+      "title": "[Bug] [gpt-oss-20b] [Responses API]: Could not parse header: too many tokens remaining after extracting content-type and recipient",
+      "url": "https://github.com/vllm-project/vllm/issues/22284",
+      "created_at": "2025-08-05T22:41:19Z",
+      "user": "cadedaniel",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -19061,6 +19157,23 @@
       "created_at": "2025-08-13T23:52:31Z",
       "user": "crawftv",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3321228364,
+      "number": 22885,
+      "title": "[Bug]: tool_calls content loss } when use hermes_tool_parser",
+      "url": "https://github.com/vllm-project/vllm/issues/22885",
+      "created_at": "2025-08-14T08:05:59Z",
+      "user": "394988736",
+      "labels": [
+        "bug",
+        "stale",
+        "tool-calling"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -21128,6 +21241,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3366557581,
+      "number": 23935,
+      "title": "[Bug]: No platform detected, vLLM is running on UnspecifiedPlatform in Docker with Kubernetes, Nvidia L4",
+      "url": "https://github.com/vllm-project/vllm/issues/23935",
+      "created_at": "2025-08-29T11:37:46Z",
+      "user": "a1expol",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3366993567,
       "number": 23943,
       "title": "[Feature]: Any plans to add nvidia/parakeet-tdt-0.6b-v3 to vllm?",
@@ -21868,6 +21997,22 @@
         "bug",
         "mlops user request",
         "llm translation",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3376637002,
+      "number": 24112,
+      "title": "[RFC]:  Improve MoE triton kernel tuning",
+      "url": "https://github.com/vllm-project/vllm/issues/24112",
+      "created_at": "2025-09-02T16:00:59Z",
+      "user": "jeejeelee",
+      "labels": [
+        "RFC",
         "stale"
       ],
       "has_linked_pr": false,
@@ -23909,6 +24054,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3396788969,
+      "number": 24484,
+      "title": "[RFC]: Enhancing the Pluggable Scheduler with a Workload-Aware Adaptive Policy",
+      "url": "https://github.com/vllm-project/vllm/issues/24484",
+      "created_at": "2025-09-09T06:05:32Z",
+      "user": "sidikbro",
+      "labels": [
+        "RFC",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "prefecthq/prefect",
       "id": 3396789221,
       "number": 18894,
@@ -25544,6 +25705,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3411770470,
+      "number": 24779,
+      "title": "[CI]: Each test has about 4-5min of setup time",
+      "url": "https://github.com/vllm-project/vllm/issues/24779",
+      "created_at": "2025-09-12T19:50:13Z",
+      "user": "afeldman-nm",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3411806294,
       "number": 3096,
@@ -26233,6 +26410,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3419462169,
+      "number": 24916,
+      "title": "[Feature]: Make FP8 Attention fast for GPT-OSS w/ FA3 on Hopper",
+      "url": "https://github.com/vllm-project/vllm/issues/24916",
+      "created_at": "2025-09-15T20:47:10Z",
+      "user": "jmkuebler",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3419469720,
       "number": 30563,
@@ -26707,6 +26900,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3424043274,
+      "number": 25004,
+      "title": "[CI]: Test container layer caching optimization",
+      "url": "https://github.com/vllm-project/vllm/issues/25004",
+      "created_at": "2025-09-16T23:35:20Z",
+      "user": "njhill",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3424284508,
       "number": 25015,
       "title": "[Usage]: How to profile vllm with Nsight Compute CLI?",
@@ -27139,6 +27348,22 @@
       "labels": [
         "topic: color/color & colormaps",
         "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3427986046,
+      "number": 25108,
+      "title": "[Bug]: vLLM chat breaks during multi-turn chat",
+      "url": "https://github.com/vllm-project/vllm/issues/25108",
+      "created_at": "2025-09-17T22:35:34Z",
+      "user": "RobotSail",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -27681,6 +27906,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3433390516,
+      "number": 25241,
+      "title": "[Usage]: how to make one quantized model(w4a FP8). I used llm-compressor make one. But it not work in vllm 0.10.2.",
+      "url": "https://github.com/vllm-project/vllm/issues/25241",
+      "created_at": "2025-09-19T08:20:25Z",
+      "user": "workcode-del",
+      "labels": [
+        "usage",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3433442789,
       "number": 14432,
@@ -28077,6 +28318,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3439927566,
+      "number": 25372,
+      "title": "[Feature]: call internal function `_register_fake` may violate style guide.",
+      "url": "https://github.com/vllm-project/vllm/issues/25372",
+      "created_at": "2025-09-22T09:15:20Z",
+      "user": "ijpq",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3439932266,
       "number": 25373,
       "title": "[Feature]: Optimize Tokenization and First Token Generation Redundancy Between Prefill and Decode Stages in Disaggregated Prefill",
@@ -28328,6 +28585,22 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3443690109,
+      "number": 25450,
+      "title": "[Feature]: Standalone Encoder Benchmark",
+      "url": "https://github.com/vllm-project/vllm/issues/25450",
+      "created_at": "2025-09-23T05:02:35Z",
+      "user": "ywang96",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3443795087,
       "number": 25452,
       "title": "[Usage]:  Autoscaling vLLM with kuberay (pipeline parallel",
@@ -28471,6 +28744,22 @@
       "user": "jeanschmidt",
       "labels": [
         "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3445721078,
+      "number": 25482,
+      "title": "[Bug]: V1 scheduler is crashing in concurrent scenarios",
+      "url": "https://github.com/vllm-project/vllm/issues/25482",
+      "created_at": "2025-09-23T15:17:57Z",
+      "user": "jaluma",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -28690,6 +28979,38 @@
       "user": "weixuansun",
       "labels": [
         "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3447511622,
+      "number": 25539,
+      "title": "[Bug]:When there is an enum type with Chinese values in the response_format schema, a decoding error occurs during output.",
+      "url": "https://github.com/vllm-project/vllm/issues/25539",
+      "created_at": "2025-09-24T03:52:13Z",
+      "user": "tianqihou",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3447532673,
+      "number": 25540,
+      "title": "[Performance]: Qwen/Qwen3-235B-A22B-Instruct-2507-FP8 performance is worse than Qwen/Qwen3-235B-A22B-Instruct-2507 (bf16)",
+      "url": "https://github.com/vllm-project/vllm/issues/25540",
+      "created_at": "2025-09-24T04:02:00Z",
+      "user": "pinak-p",
+      "labels": [
+        "performance",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29028,6 +29349,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3451572527,
+      "number": 25620,
+      "title": "[Performance]: `vllm --version` is too slow",
+      "url": "https://github.com/vllm-project/vllm/issues/25620",
+      "created_at": "2025-09-25T02:18:25Z",
+      "user": "yyzxw",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/transformers",
       "id": 3451662789,
       "number": 41141,
@@ -29039,6 +29376,54 @@
         "Documentation",
         "Feature request",
         "Tensor Parallel"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3451720244,
+      "number": 25626,
+      "title": "[Bug]: How to debug why child process become defunct process when using vllm deploy LLM model",
+      "url": "https://github.com/vllm-project/vllm/issues/25626",
+      "created_at": "2025-09-25T03:25:35Z",
+      "user": "haifzhu",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3451903902,
+      "number": 25638,
+      "title": "[Bug]: AttributeError: 'NoneType' object has no attribute 'is_sym' -tp 4 run Qwen3-Next-80B-A3B-Instruct-int4-AutoRound",
+      "url": "https://github.com/vllm-project/vllm/issues/25638",
+      "created_at": "2025-09-25T05:01:16Z",
+      "user": "lsm03624",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3451931876,
+      "number": 25639,
+      "title": "[Bug]: vllm deepseek r1 Output is chaotic",
+      "url": "https://github.com/vllm-project/vllm/issues/25639",
+      "created_at": "2025-09-25T05:16:23Z",
+      "user": "danfeihu",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29091,6 +29476,38 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3452518396,
+      "number": 25650,
+      "title": "[Bug]: Pipeline parallel (pp>1) crashes with CUDA illegal memory access",
+      "url": "https://github.com/vllm-project/vllm/issues/25650",
+      "created_at": "2025-09-25T08:23:21Z",
+      "user": "zhanghb55",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3452551660,
+      "number": 25653,
+      "title": "[Bug]:  AttributeError: MoE Model GptOssForCausalLM does not support BitsAndBytes quantization yet.",
+      "url": "https://github.com/vllm-project/vllm/issues/25653",
+      "created_at": "2025-09-25T08:30:46Z",
+      "user": "wang824892540",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/ao",
       "id": 3453457899,
       "number": 3062,
@@ -29133,6 +29550,38 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3454087037,
+      "number": 25679,
+      "title": "[CI Failure]: Cascade attention E2E test fails with FlashInfer backend",
+      "url": "https://github.com/vllm-project/vllm/issues/25679",
+      "created_at": "2025-09-25T15:13:42Z",
+      "user": "MatthewBonanni",
+      "labels": [
+        "stale",
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3454098824,
+      "number": 25680,
+      "title": "[Bug]: IndexError when running DeepSeek-V2-Lite with deepep_low_latency and enable-expert-parallel",
+      "url": "https://github.com/vllm-project/vllm/issues/25680",
+      "created_at": "2025-09-25T15:17:17Z",
+      "user": "ElizaWszola",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3454417338,
       "number": 30602,
@@ -29161,6 +29610,22 @@
         "oncall: pt2",
         "module: inductor",
         "topic: fuzzer"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3454581602,
+      "number": 25697,
+      "title": "[Bug][gpt-oss] streaming/tools RuntimeError: Attempted to exit cancel scope in a different task than it was entered in",
+      "url": "https://github.com/vllm-project/vllm/issues/25697",
+      "created_at": "2025-09-25T17:55:45Z",
+      "user": "qandrew",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -29297,6 +29762,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3456052121,
+      "number": 25747,
+      "title": "[Bug]: GLM-4.5V stuck on Ada series GPU",
+      "url": "https://github.com/vllm-project/vllm/issues/25747",
+      "created_at": "2025-09-26T07:02:50Z",
+      "user": "yry0008",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "matplotlib/matplotlib",
       "id": 3456114272,
       "number": 30604,
@@ -29307,6 +29788,38 @@
       "labels": [
         "New feature",
         "topic: rcparams"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3456464230,
+      "number": 25756,
+      "title": "[Usage]: how to do token prune",
+      "url": "https://github.com/vllm-project/vllm/issues/25756",
+      "created_at": "2025-09-26T08:57:17Z",
+      "user": "betacatZ",
+      "labels": [
+        "usage",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3456817399,
+      "number": 25760,
+      "title": "[Bug]: Qwen3-Next-80B-A3B-Thinking-FP8 fails using flashinfer and `qwen3_next_mtp` spec decode",
+      "url": "https://github.com/vllm-project/vllm/issues/25760",
+      "created_at": "2025-09-26T10:08:29Z",
+      "user": "JaheimLee",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -98757,8 +99270,203 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3762547676,
+      "number": 171309,
+      "title": "torch._dynamo.exc.PackageError: Cannot resolve a fully qualified name for @classmethod",
+      "url": "https://github.com/pytorch/pytorch/issues/171309",
+      "created_at": "2025-12-26T02:09:35Z",
+      "user": "PannenetsF",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3762549153,
+      "number": 32949,
+      "title": "BUG: HuberRegressor fails with boolean feature matrix",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32949",
+      "created_at": "2025-12-26T02:11:28Z",
+      "user": "casey-brooks",
+      "labels": [
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/tokenizers",
+      "id": 3762557497,
+      "number": 1919,
+      "title": "De/tokenization on CUDA",
+      "url": "https://github.com/huggingface/tokenizers/issues/1919",
+      "created_at": "2025-12-26T02:20:49Z",
+      "user": "vadimkantorov",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3762562762,
+      "number": 12891,
+      "title": "not support load  Qwen-Image-Edit-2511 gguf or fp8 safetensors？",
+      "url": "https://github.com/huggingface/diffusers/issues/12891",
+      "created_at": "2025-12-26T02:26:44Z",
+      "user": "zhaoyun0071",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3762571624,
+      "number": 59665,
+      "title": "[<Ray component: Core|RLlib|etc...>] RpcError: Running out of retries to initialize the metrics agent. rpc_code: 14",
+      "url": "https://github.com/ray-project/ray/issues/59665",
+      "created_at": "2025-12-26T02:36:50Z",
+      "user": "WudiJoey",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3762572171,
+      "number": 59666,
+      "title": "[core] Make Raylet the sole writer to GCS (remove dashboard agent writes)",
+      "url": "https://github.com/ray-project/ray/issues/59666",
+      "created_at": "2025-12-26T02:37:29Z",
+      "user": "Yicheng-Lu-llll",
+      "labels": [
+        "P1",
+        "core",
+        "contribution-welcome"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Nixtla/neuralforecast",
+      "id": 3762576165,
+      "number": 1426,
+      "title": "Potential misleading Epoch counter in progress bar",
+      "url": "https://github.com/Nixtla/neuralforecast/issues/1426",
+      "created_at": "2025-12-26T02:42:06Z",
+      "user": "Charles-T",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3762591934,
+      "number": 31371,
+      "title": "[Feature]: Sort blocks by block_id in FreeKVCacheBlockQueue.append_n to enable contiguous allocation",
+      "url": "https://github.com/vllm-project/vllm/issues/31371",
+      "created_at": "2025-12-26T02:58:59Z",
+      "user": "xiaguan",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3762599696,
+      "number": 32950,
+      "title": "AttributeError: cross_val_predict(method='predict_proba') with MultiOutputClassifier (swev-id: scikit-learn__scikit-learn-14629)",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32950",
+      "created_at": "2025-12-26T03:07:11Z",
+      "user": "rowan-stein",
+      "labels": [
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3762604669,
+      "number": 13466,
+      "title": "For deferred download with `st.download_button`, pipe errors to the script thread",
+      "url": "https://github.com/streamlit/streamlit/issues/13466",
+      "created_at": "2025-12-26T03:12:03Z",
+      "user": "sfc-gh-dmatthews",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3762606616,
+      "number": 59667,
+      "title": "In Ray's large-scale submission of actor tasks, some tasks may be missed.",
+      "url": "https://github.com/ray-project/ray/issues/59667",
+      "created_at": "2025-12-26T03:14:30Z",
+      "user": "HQF2017",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3762620637,
+      "number": 23054,
+      "title": "C++ ONNX Inference Gives Different Results Compared to Python for Ultralytics YOLOv11 Classify Model",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23054",
+      "created_at": "2025-12-26T03:27:31Z",
+      "user": "154775258",
+      "labels": [
+        "question",
+        "classify",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3762626411,
+      "number": 23055,
+      "title": "export onnx have some bug",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23055",
+      "created_at": "2025-12-26T03:33:03Z",
+      "user": "WangHHY19931001",
+      "labels": [
+        "bug",
+        "detect",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T02:03:04Z",
-  "total_count": 6501
+  "last_updated": "2025-12-26T03:44:03Z",
+  "total_count": 6546
 }

@@ -1,17 +1,124 @@
 [
   {
-    "repo": "pytorch/executorch",
-    "id": 2758719788,
-    "number": 7437,
-    "title": "Follow the guide of qnn Android demo to run until coredump occurs during qnn model quantization",
-    "url": "https://github.com/pytorch/executorch/issues/7437",
-    "created_at": "2024-12-25T10:40:17Z",
-    "user": "AndreaChiChengdu",
+    "repo": "pytorch/pytorch",
+    "id": 1313230775,
+    "number": 81876,
+    "title": "dtype mismatch when after using auto mixed precision",
+    "url": "https://github.com/pytorch/pytorch/issues/81876",
+    "created_at": "2022-07-21T13:05:41Z",
+    "user": "shamafiras",
     "labels": [
-      "partner: qualcomm",
       "triaged",
-      "module: qnn"
+      "module: amp (automated mixed precision)"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1388009763,
+    "number": 24021,
+    "title": "[Bug]: `plot` and `fill_between` have different x extents in PNG",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24021",
+    "created_at": "2022-09-27T16:05:54Z",
+    "user": "jsw-fnal",
+    "labels": [
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1388153971,
+    "number": 24022,
+    "title": "[Doc]: marker clipping inconsistency....",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24022",
+    "created_at": "2022-09-27T17:58:21Z",
+    "user": "jklymak",
+    "labels": [
+      "Documentation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1389901339,
+    "number": 24036,
+    "title": "[MNT]: Consolidate SpanSelector and RangeSlider code",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24036",
+    "created_at": "2022-09-28T20:20:10Z",
+    "user": "ianhi",
+    "labels": [
+      "topic: widgets/UI",
+      "Maintenance",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1389960233,
+    "number": 24038,
+    "title": "[ENH]: See through SpanSelector",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24038",
+    "created_at": "2022-09-28T21:21:51Z",
+    "user": "ianhi",
+    "labels": [
+      "New feature",
+      "topic: widgets/UI",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1389965417,
+    "number": 24039,
+    "title": "[MNT]: Allow adding additional callbacks to SpanSelector ",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24039",
+    "created_at": "2022-09-28T21:28:05Z",
+    "user": "ianhi",
+    "labels": [
+      "topic: widgets/UI",
+      "Maintenance",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

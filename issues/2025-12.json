@@ -38449,5 +38449,200 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3762547676,
+    "number": 171309,
+    "title": "torch._dynamo.exc.PackageError: Cannot resolve a fully qualified name for @classmethod",
+    "url": "https://github.com/pytorch/pytorch/issues/171309",
+    "created_at": "2025-12-26T02:09:35Z",
+    "user": "PannenetsF",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3762549153,
+    "number": 32949,
+    "title": "BUG: HuberRegressor fails with boolean feature matrix",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32949",
+    "created_at": "2025-12-26T02:11:28Z",
+    "user": "casey-brooks",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3762557497,
+    "number": 1919,
+    "title": "De/tokenization on CUDA",
+    "url": "https://github.com/huggingface/tokenizers/issues/1919",
+    "created_at": "2025-12-26T02:20:49Z",
+    "user": "vadimkantorov",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3762562762,
+    "number": 12891,
+    "title": "not support load  Qwen-Image-Edit-2511 gguf or fp8 safetensors？",
+    "url": "https://github.com/huggingface/diffusers/issues/12891",
+    "created_at": "2025-12-26T02:26:44Z",
+    "user": "zhaoyun0071",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3762571624,
+    "number": 59665,
+    "title": "[<Ray component: Core|RLlib|etc...>] RpcError: Running out of retries to initialize the metrics agent. rpc_code: 14",
+    "url": "https://github.com/ray-project/ray/issues/59665",
+    "created_at": "2025-12-26T02:36:50Z",
+    "user": "WudiJoey",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3762572171,
+    "number": 59666,
+    "title": "[core] Make Raylet the sole writer to GCS (remove dashboard agent writes)",
+    "url": "https://github.com/ray-project/ray/issues/59666",
+    "created_at": "2025-12-26T02:37:29Z",
+    "user": "Yicheng-Lu-llll",
+    "labels": [
+      "P1",
+      "core",
+      "contribution-welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Nixtla/neuralforecast",
+    "id": 3762576165,
+    "number": 1426,
+    "title": "Potential misleading Epoch counter in progress bar",
+    "url": "https://github.com/Nixtla/neuralforecast/issues/1426",
+    "created_at": "2025-12-26T02:42:06Z",
+    "user": "Charles-T",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3762591934,
+    "number": 31371,
+    "title": "[Feature]: Sort blocks by block_id in FreeKVCacheBlockQueue.append_n to enable contiguous allocation",
+    "url": "https://github.com/vllm-project/vllm/issues/31371",
+    "created_at": "2025-12-26T02:58:59Z",
+    "user": "xiaguan",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3762599696,
+    "number": 32950,
+    "title": "AttributeError: cross_val_predict(method='predict_proba') with MultiOutputClassifier (swev-id: scikit-learn__scikit-learn-14629)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32950",
+    "created_at": "2025-12-26T03:07:11Z",
+    "user": "rowan-stein",
+    "labels": [
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3762604669,
+    "number": 13466,
+    "title": "For deferred download with `st.download_button`, pipe errors to the script thread",
+    "url": "https://github.com/streamlit/streamlit/issues/13466",
+    "created_at": "2025-12-26T03:12:03Z",
+    "user": "sfc-gh-dmatthews",
+    "labels": [
+      "type:enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3762606616,
+    "number": 59667,
+    "title": "In Ray's large-scale submission of actor tasks, some tasks may be missed.",
+    "url": "https://github.com/ray-project/ray/issues/59667",
+    "created_at": "2025-12-26T03:14:30Z",
+    "user": "HQF2017",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3762620637,
+    "number": 23054,
+    "title": "C++ ONNX Inference Gives Different Results Compared to Python for Ultralytics YOLOv11 Classify Model",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23054",
+    "created_at": "2025-12-26T03:27:31Z",
+    "user": "154775258",
+    "labels": [
+      "question",
+      "classify",
+      "exports"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3762626411,
+    "number": 23055,
+    "title": "export onnx have some bug",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23055",
+    "created_at": "2025-12-26T03:33:03Z",
+    "user": "WangHHY19931001",
+    "labels": [
+      "bug",
+      "detect",
+      "exports"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

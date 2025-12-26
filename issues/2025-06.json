@@ -2584,6 +2584,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3171875487,
+    "number": 20020,
+    "title": "[Feature]: Can we release a wheel for x86 CPU based inferencing",
+    "url": "https://github.com/vllm-project/vllm/issues/20020",
+    "created_at": "2025-06-24T12:46:47Z",
+    "user": "ericcurtin",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3172905858,
     "number": 6990,
@@ -2745,6 +2761,22 @@
     "created_at": "2025-06-26T11:40:26Z",
     "user": "sebv004",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3180298673,
+    "number": 20149,
+    "title": "[Feature]: Add Support for Updating Lora Weights",
+    "url": "https://github.com/vllm-project/vllm/issues/20149",
+    "created_at": "2025-06-26T20:18:59Z",
+    "user": "alex-jw-brooks",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

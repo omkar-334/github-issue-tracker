@@ -257,6 +257,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3287781487,
+    "number": 22162,
+    "title": "[Usage]: multi-lora for vision language model",
+    "url": "https://github.com/vllm-project/vllm/issues/22162",
+    "created_at": "2025-08-04T02:07:10Z",
+    "user": "PizzaSnow",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "cython/cython",
     "id": 3288589593,
     "number": 7072,
@@ -477,6 +493,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3291891262,
+    "number": 22239,
+    "title": "[Performance]: vllm v0.10.0 seems to be much slower than vllm v0.8.5 when using Qwen3-30B-A3B-int4",
+    "url": "https://github.com/vllm-project/vllm/issues/22239",
+    "created_at": "2025-08-05T07:15:59Z",
+    "user": "alanayu",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3292284864,
     "number": 22245,
     "title": "[Bug]: VLLM_ROCM_USE_AITER=1 hit device_gemm with the specified compilation parameters does not support this GEMM problem for Qwen3-235B-A22B",
@@ -652,6 +684,22 @@
     "created_at": "2025-08-05T19:40:19Z",
     "user": "imran3180",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3294630002,
+    "number": 22284,
+    "title": "[Bug] [gpt-oss-20b] [Responses API]: Could not parse header: too many tokens remaining after extracting content-type and recipient",
+    "url": "https://github.com/vllm-project/vllm/issues/22284",
+    "created_at": "2025-08-05T22:41:19Z",
+    "user": "cadedaniel",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -1858,6 +1906,23 @@
     "created_at": "2025-08-13T23:52:31Z",
     "user": "crawftv",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3321228364,
+    "number": 22885,
+    "title": "[Bug]: tool_calls content loss } when use hermes_tool_parser",
+    "url": "https://github.com/vllm-project/vllm/issues/22885",
+    "created_at": "2025-08-14T08:05:59Z",
+    "user": "394988736",
+    "labels": [
+      "bug",
+      "stale",
+      "tool-calling"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -3919,6 +3984,22 @@
     "created_at": "2025-08-29T09:23:44Z",
     "user": "mengxiaosen-patsnap",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3366557581,
+    "number": 23935,
+    "title": "[Bug]: No platform detected, vLLM is running on UnspecifiedPlatform in Docker with Kubernetes, Nvidia L4",
+    "url": "https://github.com/vllm-project/vllm/issues/23935",
+    "created_at": "2025-08-29T11:37:46Z",
+    "user": "a1expol",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

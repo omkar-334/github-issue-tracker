@@ -410,6 +410,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3376637002,
+    "number": 24112,
+    "title": "[RFC]:  Improve MoE triton kernel tuning",
+    "url": "https://github.com/vllm-project/vllm/issues/24112",
+    "created_at": "2025-09-02T16:00:59Z",
+    "user": "jeejeelee",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3376821689,
     "number": 14180,
@@ -2444,6 +2460,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3396788969,
+    "number": 24484,
+    "title": "[RFC]: Enhancing the Pluggable Scheduler with a Workload-Aware Adaptive Policy",
+    "url": "https://github.com/vllm-project/vllm/issues/24484",
+    "created_at": "2025-09-09T06:05:32Z",
+    "user": "sidikbro",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "prefecthq/prefect",
     "id": 3396789221,
     "number": 18894,
@@ -4079,6 +4111,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3411770470,
+    "number": 24779,
+    "title": "[CI]: Each test has about 4-5min of setup time",
+    "url": "https://github.com/vllm-project/vllm/issues/24779",
+    "created_at": "2025-09-12T19:50:13Z",
+    "user": "afeldman-nm",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3411806294,
     "number": 3096,
@@ -4768,6 +4816,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3419462169,
+    "number": 24916,
+    "title": "[Feature]: Make FP8 Attention fast for GPT-OSS w/ FA3 on Hopper",
+    "url": "https://github.com/vllm-project/vllm/issues/24916",
+    "created_at": "2025-09-15T20:47:10Z",
+    "user": "jmkuebler",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3419469720,
     "number": 30563,
@@ -5242,6 +5306,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3424043274,
+    "number": 25004,
+    "title": "[CI]: Test container layer caching optimization",
+    "url": "https://github.com/vllm-project/vllm/issues/25004",
+    "created_at": "2025-09-16T23:35:20Z",
+    "user": "njhill",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3424284508,
     "number": 25015,
     "title": "[Usage]: How to profile vllm with Nsight Compute CLI?",
@@ -5674,6 +5754,22 @@
     "labels": [
       "topic: color/color & colormaps",
       "Maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3427986046,
+    "number": 25108,
+    "title": "[Bug]: vLLM chat breaks during multi-turn chat",
+    "url": "https://github.com/vllm-project/vllm/issues/25108",
+    "created_at": "2025-09-17T22:35:34Z",
+    "user": "RobotSail",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -6216,6 +6312,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3433390516,
+    "number": 25241,
+    "title": "[Usage]: how to make one quantized model(w4a FP8). I used llm-compressor make one. But it not work in vllm 0.10.2.",
+    "url": "https://github.com/vllm-project/vllm/issues/25241",
+    "created_at": "2025-09-19T08:20:25Z",
+    "user": "workcode-del",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3433442789,
     "number": 14432,
@@ -6612,6 +6724,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3439927566,
+    "number": 25372,
+    "title": "[Feature]: call internal function `_register_fake` may violate style guide.",
+    "url": "https://github.com/vllm-project/vllm/issues/25372",
+    "created_at": "2025-09-22T09:15:20Z",
+    "user": "ijpq",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3439932266,
     "number": 25373,
     "title": "[Feature]: Optimize Tokenization and First Token Generation Redundancy Between Prefill and Decode Stages in Disaggregated Prefill",
@@ -6863,6 +6991,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3443690109,
+    "number": 25450,
+    "title": "[Feature]: Standalone Encoder Benchmark",
+    "url": "https://github.com/vllm-project/vllm/issues/25450",
+    "created_at": "2025-09-23T05:02:35Z",
+    "user": "ywang96",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3443795087,
     "number": 25452,
     "title": "[Usage]:  Autoscaling vLLM with kuberay (pipeline parallel",
@@ -7006,6 +7150,22 @@
     "user": "jeanschmidt",
     "labels": [
       "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3445721078,
+    "number": 25482,
+    "title": "[Bug]: V1 scheduler is crashing in concurrent scenarios",
+    "url": "https://github.com/vllm-project/vllm/issues/25482",
+    "created_at": "2025-09-23T15:17:57Z",
+    "user": "jaluma",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7225,6 +7385,38 @@
     "user": "weixuansun",
     "labels": [
       "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3447511622,
+    "number": 25539,
+    "title": "[Bug]:When there is an enum type with Chinese values in the response_format schema, a decoding error occurs during output.",
+    "url": "https://github.com/vllm-project/vllm/issues/25539",
+    "created_at": "2025-09-24T03:52:13Z",
+    "user": "tianqihou",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3447532673,
+    "number": 25540,
+    "title": "[Performance]: Qwen/Qwen3-235B-A22B-Instruct-2507-FP8 performance is worse than Qwen/Qwen3-235B-A22B-Instruct-2507 (bf16)",
+    "url": "https://github.com/vllm-project/vllm/issues/25540",
+    "created_at": "2025-09-24T04:02:00Z",
+    "user": "pinak-p",
+    "labels": [
+      "performance",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7563,6 +7755,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3451572527,
+    "number": 25620,
+    "title": "[Performance]: `vllm --version` is too slow",
+    "url": "https://github.com/vllm-project/vllm/issues/25620",
+    "created_at": "2025-09-25T02:18:25Z",
+    "user": "yyzxw",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3451662789,
     "number": 41141,
@@ -7574,6 +7782,54 @@
       "Documentation",
       "Feature request",
       "Tensor Parallel"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3451720244,
+    "number": 25626,
+    "title": "[Bug]: How to debug why child process become defunct process when using vllm deploy LLM model",
+    "url": "https://github.com/vllm-project/vllm/issues/25626",
+    "created_at": "2025-09-25T03:25:35Z",
+    "user": "haifzhu",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3451903902,
+    "number": 25638,
+    "title": "[Bug]: AttributeError: 'NoneType' object has no attribute 'is_sym' -tp 4 run Qwen3-Next-80B-A3B-Instruct-int4-AutoRound",
+    "url": "https://github.com/vllm-project/vllm/issues/25638",
+    "created_at": "2025-09-25T05:01:16Z",
+    "user": "lsm03624",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3451931876,
+    "number": 25639,
+    "title": "[Bug]: vllm deepseek r1 Output is chaotic",
+    "url": "https://github.com/vllm-project/vllm/issues/25639",
+    "created_at": "2025-09-25T05:16:23Z",
+    "user": "danfeihu",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7626,6 +7882,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3452518396,
+    "number": 25650,
+    "title": "[Bug]: Pipeline parallel (pp>1) crashes with CUDA illegal memory access",
+    "url": "https://github.com/vllm-project/vllm/issues/25650",
+    "created_at": "2025-09-25T08:23:21Z",
+    "user": "zhanghb55",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3452551660,
+    "number": 25653,
+    "title": "[Bug]:  AttributeError: MoE Model GptOssForCausalLM does not support BitsAndBytes quantization yet.",
+    "url": "https://github.com/vllm-project/vllm/issues/25653",
+    "created_at": "2025-09-25T08:30:46Z",
+    "user": "wang824892540",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3453457899,
     "number": 3062,
@@ -7668,6 +7956,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3454087037,
+    "number": 25679,
+    "title": "[CI Failure]: Cascade attention E2E test fails with FlashInfer backend",
+    "url": "https://github.com/vllm-project/vllm/issues/25679",
+    "created_at": "2025-09-25T15:13:42Z",
+    "user": "MatthewBonanni",
+    "labels": [
+      "stale",
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3454098824,
+    "number": 25680,
+    "title": "[Bug]: IndexError when running DeepSeek-V2-Lite with deepep_low_latency and enable-expert-parallel",
+    "url": "https://github.com/vllm-project/vllm/issues/25680",
+    "created_at": "2025-09-25T15:17:17Z",
+    "user": "ElizaWszola",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3454417338,
     "number": 30602,
@@ -7696,6 +8016,22 @@
       "oncall: pt2",
       "module: inductor",
       "topic: fuzzer"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3454581602,
+    "number": 25697,
+    "title": "[Bug][gpt-oss] streaming/tools RuntimeError: Attempted to exit cancel scope in a different task than it was entered in",
+    "url": "https://github.com/vllm-project/vllm/issues/25697",
+    "created_at": "2025-09-25T17:55:45Z",
+    "user": "qandrew",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7832,6 +8168,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3456052121,
+    "number": 25747,
+    "title": "[Bug]: GLM-4.5V stuck on Ada series GPU",
+    "url": "https://github.com/vllm-project/vllm/issues/25747",
+    "created_at": "2025-09-26T07:02:50Z",
+    "user": "yry0008",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "matplotlib/matplotlib",
     "id": 3456114272,
     "number": 30604,
@@ -7842,6 +8194,38 @@
     "labels": [
       "New feature",
       "topic: rcparams"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3456464230,
+    "number": 25756,
+    "title": "[Usage]: how to do token prune",
+    "url": "https://github.com/vllm-project/vllm/issues/25756",
+    "created_at": "2025-09-26T08:57:17Z",
+    "user": "betacatZ",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3456817399,
+    "number": 25760,
+    "title": "[Bug]: Qwen3-Next-80B-A3B-Thinking-FP8 fails using flashinfer and `qwen3_next_mtp` spec decode",
+    "url": "https://github.com/vllm-project/vllm/issues/25760",
+    "created_at": "2025-09-26T10:08:29Z",
+    "user": "JaheimLee",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
