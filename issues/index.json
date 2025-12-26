@@ -9984,6 +9984,22 @@
       "archived": false
     },
     {
+      "repo": "networkx/networkx",
+      "id": 3113923265,
+      "number": 8093,
+      "title": "relabel_nodes changes attributes",
+      "url": "https://github.com/networkx/networkx/issues/8093",
+      "created_at": "2025-06-03T13:13:39Z",
+      "user": "daleschyov",
+      "labels": [
+        "type: Documentation",
+        "Question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 3114469396,
       "number": 10095,
@@ -20337,6 +20353,21 @@
         "stat:awaiting keras-eng",
         "type:Bug",
         "backend:jax"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "networkx/networkx",
+      "id": 3342839109,
+      "number": 8204,
+      "title": "add pydot to documentation",
+      "url": "https://github.com/networkx/networkx/issues/8204",
+      "created_at": "2025-08-21T18:52:09Z",
+      "user": "FeelUsM",
+      "labels": [
+        "type: Documentation"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -72353,6 +72384,22 @@
       "archived": false
     },
     {
+      "repo": "arviz-devs/arviz",
+      "id": 3710557557,
+      "number": 2498,
+      "title": "Conda forge packages for arvizverse",
+      "url": "https://github.com/arviz-devs/arviz/issues/2498",
+      "created_at": "2025-12-09T11:59:44Z",
+      "user": "OriolAbril",
+      "labels": [
+        "Help Wanted",
+        "Discussion"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3710592498,
       "number": 59305,
@@ -100351,8 +100398,126 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3763777533,
+      "number": 59681,
+      "title": "Additional Overhead in Ray Serve LLM than Bare vLLM images",
+      "url": "https://github.com/ray-project/ray/issues/59681",
+      "created_at": "2025-12-26T17:31:27Z",
+      "user": "Blaze-DSP",
+      "labels": [
+        "bug",
+        "P0",
+        "llm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3763781467,
+      "number": 3649,
+      "title": "Improve exception handling in hf_raise_for_status warning header parsing",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3649",
+      "created_at": "2025-12-26T17:35:00Z",
+      "user": "mishrapravin114",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3763789380,
+      "number": 31394,
+      "title": "[Bug]: accuracy issue with VLLM_USE_FLASHINFER_MOE_FP8=1 for Qwen3-Coder-480B-A35B-Instruct-FP8",
+      "url": "https://github.com/vllm-project/vllm/issues/31394",
+      "created_at": "2025-12-26T17:42:01Z",
+      "user": "mxz297",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3763794551,
+      "number": 3549,
+      "title": "mxfp8 inference does not work with vllm bench throughput",
+      "url": "https://github.com/pytorch/ao/issues/3549",
+      "created_at": "2025-12-26T17:46:42Z",
+      "user": "vkuzo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3763797358,
+      "number": 3550,
+      "title": "int4 weight float8 rowwise activation workflow doesn't work with HF accelerate",
+      "url": "https://github.com/pytorch/ao/issues/3550",
+      "created_at": "2025-12-26T17:49:19Z",
+      "user": "vkuzo",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3763799517,
+      "number": 3785,
+      "title": "[Feature] Fine-Tune Qwen3-VL on Video Dataset?",
+      "url": "https://github.com/unslothai/unsloth/issues/3785",
+      "created_at": "2025-12-26T17:51:05Z",
+      "user": "Arslan-Mehmood1",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3763809197,
+      "number": 34109,
+      "title": "jax-metal fails to run on recent macOS",
+      "url": "https://github.com/jax-ml/jax/issues/34109",
+      "created_at": "2025-12-26T18:00:01Z",
+      "user": "FlorinAndrei",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3763848383,
+      "number": 59682,
+      "title": "[Data] `DefaultAutoscalerV2` doesn't scale nodes from zero",
+      "url": "https://github.com/ray-project/ray/issues/59682",
+      "created_at": "2025-12-26T18:34:19Z",
+      "user": "bveeramani",
+      "labels": [
+        "bug",
+        "P1",
+        "data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T17:25:16Z",
-  "total_count": 6606
+  "last_updated": "2025-12-26T18:39:19Z",
+  "total_count": 6617
 }
