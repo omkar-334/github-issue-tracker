@@ -39560,5 +39560,72 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3763988651,
+    "number": 59695,
+    "title": "[Serve] add exception type as a tag in replica side error metrics",
+    "url": "https://github.com/ray-project/ray/issues/59695",
+    "created_at": "2025-12-26T20:43:31Z",
+    "user": "abrarsheikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3763991285,
+    "number": 171340,
+    "title": "tlparse",
+    "url": "https://github.com/pytorch/pytorch/issues/171340",
+    "created_at": "2025-12-26T20:46:11Z",
+    "user": "yushangdi",
+    "labels": [
+      "release-feature-request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3763995882,
+    "number": 59698,
+    "title": "[Serve] Emit ray_serve_deployment_max_queued_requests",
+    "url": "https://github.com/ray-project/ray/issues/59698",
+    "created_at": "2025-12-26T20:50:54Z",
+    "user": "abrarsheikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3764004188,
+    "number": 59699,
+    "title": "[Serve] Emit replica state over time metric",
+    "url": "https://github.com/ray-project/ray/issues/59699",
+    "created_at": "2025-12-26T20:59:52Z",
+    "user": "abrarsheikh",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "google-deepmind/chex",
+    "id": 3764018574,
+    "number": 422,
+    "title": "jax 0.8.2 incpatibility",
+    "url": "https://github.com/google-deepmind/chex/issues/422",
+    "created_at": "2025-12-26T21:14:41Z",
+    "user": "GaetanLepage",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
