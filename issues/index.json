@@ -99951,8 +99951,109 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3763234877,
+      "number": 3820,
+      "title": "Feature Request: Improve the output DOMInteractedElement for special cases (iframes, shadow DOM, shadow DOM in iframes, iframes in shadow DOM, etc.)",
+      "url": "https://github.com/browser-use/browser-use/issues/3820",
+      "created_at": "2025-12-26T10:35:48Z",
+      "user": "pndhuy150902",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3763241633,
+      "number": 22204,
+      "title": "FURB192 fix should always be unsafe?",
+      "url": "https://github.com/astral-sh/ruff/issues/22204",
+      "created_at": "2025-12-26T10:40:28Z",
+      "user": "harupy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3763244916,
+      "number": 3781,
+      "title": "[Bug] fast rope backpropagation broken for zero strided tensors",
+      "url": "https://github.com/unslothai/unsloth/issues/3781",
+      "created_at": "2025-12-26T10:42:40Z",
+      "user": "f14-bertolotti",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openai/openai-python",
+      "id": 3763259394,
+      "number": 2806,
+      "title": "gemini-3-flash-preview openai compatible tool call error",
+      "url": "https://github.com/openai/openai-python/issues/2806",
+      "created_at": "2025-12-26T10:52:58Z",
+      "user": "shaunyang12",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3763288326,
+      "number": 12609,
+      "title": "Docs: Update serving docs instructions",
+      "url": "https://github.com/gradio-app/gradio/issues/12609",
+      "created_at": "2025-12-26T11:12:10Z",
+      "user": "Samoed",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dmlc/xgboost",
+      "id": 3763293344,
+      "number": 11891,
+      "title": "Quick question: Can I compile with Cuda 13.1 ?",
+      "url": "https://github.com/dmlc/xgboost/issues/11891",
+      "created_at": "2025-12-26T11:16:03Z",
+      "user": "15mmerits",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3763298467,
+      "number": 34490,
+      "title": "ShellToolMiddleware does not work with InMemorySaver",
+      "url": "https://github.com/langchain-ai/langchain/issues/34490",
+      "created_at": "2025-12-26T11:18:49Z",
+      "user": "XiaoLiuAI",
+      "labels": [
+        "bug",
+        "core",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T10:31:10Z",
-  "total_count": 6579
+  "last_updated": "2025-12-26T11:26:44Z",
+  "total_count": 6586
 }
