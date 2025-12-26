@@ -1,17 +1,16 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 779646995,
-    "number": 50112,
-    "title": "need a clear guide for when and how to use torch.cuda.set_device()",
-    "url": "https://github.com/pytorch/pytorch/issues/50112",
-    "created_at": "2021-01-05T22:11:26Z",
-    "user": "stas00",
+    "repo": "scipy/scipy",
+    "id": 2342043702,
+    "number": 20930,
+    "title": "ENH: integrate: add array API standard support",
+    "url": "https://github.com/scipy/scipy/issues/20930",
+    "created_at": "2024-06-09T06:11:06Z",
+    "user": "mdhaber",
     "labels": [
-      "module: docs",
-      "module: cuda",
-      "triaged",
-      "needs design"
+      "enhancement",
+      "scipy.integrate",
+      "array types"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
