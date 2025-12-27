@@ -1,13 +1,16 @@
 [
   {
-    "repo": "fastapi/fastapi",
-    "id": 1922795955,
-    "number": 10370,
-    "title": "🚀 Roadmap",
-    "url": "https://github.com/fastapi/fastapi/issues/10370",
-    "created_at": "2023-10-02T21:54:54Z",
-    "user": "tiangolo",
-    "labels": [],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2149576701,
+    "number": 28507,
+    "title": "Allow `RandomForest*` and `ExtraTrees*` to have a higher max_samples than 1.0 when `bootstrap=True`",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/28507",
+    "created_at": "2024-02-22T17:36:36Z",
+    "user": "adam2392",
+    "labels": [
+      "New Feature",
+      "Needs Decision"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

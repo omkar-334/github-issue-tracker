@@ -53305,6 +53305,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653553048,
+      "number": 168753,
+      "title": "Test: TestFX.test_profiler_nested_graph_modules",
+      "url": "https://github.com/pytorch/pytorch/issues/168753",
+      "created_at": "2025-11-22T01:07:50Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653553915,
       "number": 168774,
       "title": "Test: TestMatmulCuda.test_cublas_addmm",
@@ -101436,8 +101453,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3764902844,
+      "number": 5158,
+      "title": "Outdated docs for Scan over layers",
+      "url": "https://github.com/google/flax/issues/5158",
+      "created_at": "2025-12-27T16:34:40Z",
+      "user": "giovannic",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/datasets",
+      "id": 3764913807,
+      "number": 7917,
+      "title": "IterableDataset supports automatic sharding",
+      "url": "https://github.com/huggingface/datasets/issues/7917",
+      "created_at": "2025-12-27T16:48:29Z",
+      "user": "howitry",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T16:33:41Z",
-  "total_count": 6678
+  "last_updated": "2025-12-27T17:25:26Z",
+  "total_count": 6681
 }

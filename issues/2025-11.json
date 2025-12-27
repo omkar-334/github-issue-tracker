@@ -12742,6 +12742,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653553048,
+    "number": 168753,
+    "title": "Test: TestFX.test_profiler_nested_graph_modules",
+    "url": "https://github.com/pytorch/pytorch/issues/168753",
+    "created_at": "2025-11-22T01:07:50Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653553915,
     "number": 168774,
     "title": "Test: TestMatmulCuda.test_cublas_addmm",
