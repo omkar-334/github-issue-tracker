@@ -19708,6 +19708,21 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3326011994,
+      "number": 24081,
+      "title": "Polars LazyFrame Sink to Arrow RecordBatchReader",
+      "url": "https://github.com/pola-rs/polars/issues/24081",
+      "created_at": "2025-08-15T18:36:55Z",
+      "user": "J-Meyers",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numba/numba",
       "id": 3326200844,
       "number": 10182,
@@ -28757,6 +28772,23 @@
       "user": "JuanjoInsud",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3440498521,
+      "number": 163504,
+      "title": "[MPS] Unexpected behavior in torch.nn.functional.one_hot  when target values exceed num_classes in MPS",
+      "url": "https://github.com/pytorch/pytorch/issues/163504",
+      "created_at": "2025-09-22T11:31:39Z",
+      "user": "233yun",
+      "labels": [
+        "module: error checking",
+        "triaged",
+        "module: mps"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -101479,8 +101511,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3764952992,
+      "number": 171385,
+      "title": "Eradicate hardcoded `/tmp/` path in PyTorch codebase",
+      "url": "https://github.com/pytorch/pytorch/issues/171385",
+      "created_at": "2025-12-27T17:43:57Z",
+      "user": "Skylion007",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3764953618,
+      "number": 32957,
+      "title": "DOC: First example for SimpleImputer is unclear",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32957",
+      "created_at": "2025-12-27T17:44:55Z",
+      "user": "sateeshkumarb",
+      "labels": [
+        "Documentation",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3764970761,
+      "number": 3788,
+      "title": "[Bug] Unable to load models with FastVisionModel locally",
+      "url": "https://github.com/unslothai/unsloth/issues/3788",
+      "created_at": "2025-12-27T18:09:46Z",
+      "user": "ZakariaBenmou",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3764981732,
+      "number": 31414,
+      "title": "[Feature][Cleanup]: Unify `vllm.utils.flashinfer` and `vllm.model_executor.layers.quantization.utils.flashinfer_utils`",
+      "url": "https://github.com/vllm-project/vllm/issues/31414",
+      "created_at": "2025-12-27T18:27:00Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T17:25:26Z",
-  "total_count": 6681
+  "last_updated": "2025-12-27T18:38:05Z",
+  "total_count": 6687
 }

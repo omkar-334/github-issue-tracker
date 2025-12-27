@@ -6818,6 +6818,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3440498521,
+    "number": 163504,
+    "title": "[MPS] Unexpected behavior in torch.nn.functional.one_hot  when target values exceed num_classes in MPS",
+    "url": "https://github.com/pytorch/pytorch/issues/163504",
+    "created_at": "2025-09-22T11:31:39Z",
+    "user": "233yun",
+    "labels": [
+      "module: error checking",
+      "triaged",
+      "module: mps"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3441077026,
     "number": 163510,
     "title": "building pytorch c++ extension with cuda 13 causes unexpected behavior when pytorch is built with cuda 12.8",

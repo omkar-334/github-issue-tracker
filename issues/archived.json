@@ -1,15 +1,14 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2149576701,
-    "number": 28507,
-    "title": "Allow `RandomForest*` and `ExtraTrees*` to have a higher max_samples than 1.0 when `bootstrap=True`",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/28507",
-    "created_at": "2024-02-22T17:36:36Z",
-    "user": "adam2392",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "New Feature",
-      "Needs Decision"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
