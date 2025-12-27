@@ -6742,6 +6742,21 @@
       "archived": false
     },
     {
+      "repo": "google-deepmind/optax",
+      "id": 3022787185,
+      "number": 1280,
+      "title": "Add missing projections from jaxopt",
+      "url": "https://github.com/google-deepmind/optax/issues/1280",
+      "created_at": "2025-04-27T05:34:14Z",
+      "user": "carlosgmartin",
+      "labels": [
+        "type:feature"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "explosion/spaCy",
       "id": 3023321468,
       "number": 13809,
@@ -101269,8 +101284,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3764544149,
+      "number": 7747,
+      "title": "[BUG]MoE router parameters are forced to bf16 under DeepSpeed bf16, causing dtype mismatch in fp32 routing logic",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7747",
+      "created_at": "2025-12-27T07:51:13Z",
+      "user": "tangefly",
+      "labels": [
+        "bug",
+        "training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T07:27:07Z",
-  "total_count": 6667
+  "last_updated": "2025-12-27T08:36:39Z",
+  "total_count": 6669
 }

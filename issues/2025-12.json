@@ -39914,5 +39914,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3764544149,
+    "number": 7747,
+    "title": "[BUG]MoE router parameters are forced to bf16 under DeepSpeed bf16, causing dtype mismatch in fp32 routing logic",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7747",
+    "created_at": "2025-12-27T07:51:13Z",
+    "user": "tangefly",
+    "labels": [
+      "bug",
+      "training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

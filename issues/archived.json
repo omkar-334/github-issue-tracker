@@ -1,18 +1,1 @@
-[
-  {
-    "repo": "optuna/optuna",
-    "id": 1194438464,
-    "number": 3450,
-    "title": "[RFC] Enable trial report multiple intermediate values by `trial.report`",
-    "url": "https://github.com/optuna/optuna/issues/3450",
-    "created_at": "2022-04-06T10:58:22Z",
-    "user": "nzw0301",
-    "labels": [
-      "feature",
-      "needs-discussion"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
