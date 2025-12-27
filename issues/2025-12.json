@@ -40319,5 +40319,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765145672,
+    "number": 171392,
+    "title": "[Bug] c10::SmallVector: getNewCapacity has unused TSize parameter — remove or use for overflow-safety?",
+    "url": "https://github.com/pytorch/pytorch/issues/171392",
+    "created_at": "2025-12-27T22:54:34Z",
+    "user": "yewentao256",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

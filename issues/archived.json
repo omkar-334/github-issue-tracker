@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "langchain-ai/langchain",
-    "id": 2602684383,
-    "number": 27510,
-    "title": "Cannot inspect schema when working with special type annotations",
-    "url": "https://github.com/langchain-ai/langchain/issues/27510",
-    "created_at": "2024-10-21T14:09:51Z",
-    "user": "eyurtsev",
-    "labels": [
-      "core"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
