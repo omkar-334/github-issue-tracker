@@ -2128,6 +2128,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3162314335,
+    "number": 19896,
+    "title": "[Feature]: EXL3 support",
+    "url": "https://github.com/vllm-project/vllm/issues/19896",
+    "created_at": "2025-06-20T08:07:35Z",
+    "user": "Teeeto",
+    "labels": [
+      "feature request",
+      "unstale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 3162534559,
     "number": 23195,
