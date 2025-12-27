@@ -4051,6 +4051,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3366238375,
+    "number": 23923,
+    "title": "[Feature]: Allow usage of chat_template_kwargs and add_generation_prompt in /embeddings endpoint",
+    "url": "https://github.com/vllm-project/vllm/issues/23923",
+    "created_at": "2025-08-29T09:48:57Z",
+    "user": "biba10",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3366557581,
     "number": 23935,
     "title": "[Bug]: No platform detected, vLLM is running on UnspecifiedPlatform in Docker with Kubernetes, Nvidia L4",

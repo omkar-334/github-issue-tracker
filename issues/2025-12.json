@@ -40195,5 +40195,101 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3765061953,
+    "number": 22230,
+    "title": "Use PEP 798 in RUF017 autofix",
+    "url": "https://github.com/astral-sh/ruff/issues/22230",
+    "created_at": "2025-12-27T20:32:23Z",
+    "user": "hauntsaninja",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "psf/black",
+    "id": 3765064547,
+    "number": 4926,
+    "title": "Split the Build and Publish workflow into more jobs",
+    "url": "https://github.com/psf/black/issues/4926",
+    "created_at": "2025-12-27T20:36:39Z",
+    "user": "cobaltt7",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3765071495,
+    "number": 59729,
+    "title": "[Data] Split `test_sort.py` into smaller test modules to improve CI parallelization",
+    "url": "https://github.com/ray-project/ray/issues/59729",
+    "created_at": "2025-12-27T20:46:44Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3765071864,
+    "number": 3651,
+    "title": "Allow custom endpoints for jobs APIs",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3651",
+    "created_at": "2025-12-27T20:47:20Z",
+    "user": "rezass",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3765083067,
+    "number": 31422,
+    "title": "[Bug]: Model returns junk when using tensor_parallel == 2 with gpt-oss,",
+    "url": "https://github.com/vllm-project/vllm/issues/31422",
+    "created_at": "2025-12-27T21:06:28Z",
+    "user": "vgoklani",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765088373,
+    "number": 171389,
+    "title": "SDPA produces NaN with torch.compile mode=“max-autotune-no-cudagraphs” when batch_size × seq_len == 65536 (64k)",
+    "url": "https://github.com/pytorch/pytorch/issues/171389",
+    "created_at": "2025-12-27T21:14:58Z",
+    "user": "vgoklani",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "id": 3765091160,
+    "number": 1922,
+    "title": "[Node.js] Cannot find module 'tokenizers-darwin-arm64' after npm install on macOS (Apple Silicon)",
+    "url": "https://github.com/huggingface/tokenizers/issues/1922",
+    "created_at": "2025-12-27T21:19:23Z",
+    "user": "uasan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
