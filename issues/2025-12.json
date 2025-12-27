@@ -39774,5 +39774,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3764217135,
+    "number": 12895,
+    "title": "StableDiffusion3Pipeline crashes with AttributeError: 'NoneType' object has no attribute 'ndim' when using num_images_per_prompt with batched prompts",
+    "url": "https://github.com/huggingface/diffusers/issues/12895",
+    "created_at": "2025-12-27T02:04:42Z",
+    "user": "FredyRivera-dev",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3764247783,
+    "number": 12896,
+    "title": "The same WAN 2.2 i2v script (Almost) works in CUDA, bur fails in MPS",
+    "url": "https://github.com/huggingface/diffusers/issues/12896",
+    "created_at": "2025-12-27T02:57:36Z",
+    "user": "kerufu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3764255245,
+    "number": 31398,
+    "title": "[Doc]: Eagle3 with tensor parallelism",
+    "url": "https://github.com/vllm-project/vllm/issues/31398",
+    "created_at": "2025-12-27T03:10:50Z",
+    "user": "JSYRD",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

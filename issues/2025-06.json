@@ -2034,6 +2034,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3160288350,
+    "number": 19861,
+    "title": "[Bug]: max_completion_tokens doesn't work as max",
+    "url": "https://github.com/vllm-project/vllm/issues/19861",
+    "created_at": "2025-06-19T13:08:46Z",
+    "user": "cfytrok3",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3160431458,
     "number": 11886,

@@ -5005,6 +5005,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2959236940,
+      "number": 15781,
+      "title": "[Feature]: Implementation of Zero Overhead Scheduling",
+      "url": "https://github.com/vllm-project/vllm/issues/15781",
+      "created_at": "2025-03-31T01:03:44Z",
+      "user": "lizhigong1988",
+      "labels": [
+        "feature request",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2960400404,
       "number": 150296,
@@ -7270,6 +7286,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3038134765,
+      "number": 17639,
+      "title": "[Bug]: Unable to run Qwen3 on Turing GPUs after upgrading to torch 2.7.0",
+      "url": "https://github.com/vllm-project/vllm/issues/17639",
+      "created_at": "2025-05-04T17:27:13Z",
+      "user": "sgsdxzy",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/accelerate",
       "id": 3039120873,
       "number": 3547,
@@ -8012,6 +8044,22 @@
       "labels": [
         "best practice",
         "community help wanted"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3062092783,
+      "number": 18121,
+      "title": "[Usage]: Set the kv cache size",
+      "url": "https://github.com/vllm-project/vllm/issues/18121",
+      "created_at": "2025-05-14T07:20:13Z",
+      "user": "FeliceSchena",
+      "labels": [
+        "usage",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -9058,6 +9106,23 @@
       "labels": [
         "usage",
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3086634047,
+      "number": 18619,
+      "title": "[Bug][PERF]: Qwen2.5 performance degradation 0.8.4 -> 0.8.5",
+      "url": "https://github.com/vllm-project/vllm/issues/18619",
+      "created_at": "2025-05-23T14:48:43Z",
+      "user": "vadiklyutiy",
+      "labels": [
+        "bug",
+        "stale",
+        "qwen"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -11790,6 +11855,22 @@
       "user": "wangshiphys",
       "labels": [
         "bug - typing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3160288350,
+      "number": 19861,
+      "title": "[Bug]: max_completion_tokens doesn't work as max",
+      "url": "https://github.com/vllm-project/vllm/issues/19861",
+      "created_at": "2025-06-19T13:08:46Z",
+      "user": "cfytrok3",
+      "labels": [
+        "bug",
+        "stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -35419,6 +35500,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3527388143,
+      "number": 165785,
+      "title": "Harden CuTeDSL Inductor Path",
+      "url": "https://github.com/pytorch/pytorch/issues/165785",
+      "created_at": "2025-10-17T20:07:48Z",
+      "user": "NikhilAPatel",
+      "labels": [
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3527563727,
       "number": 1914,
@@ -35442,6 +35540,24 @@
       "labels": [
         "bug",
         "maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3527735692,
+      "number": 165798,
+      "title": "matmul/mm/bmm crashes on CUDA 13.0 + Libtorch 2.9 on Ubuntu 24.04",
+      "url": "https://github.com/pytorch/pytorch/issues/165798",
+      "created_at": "2025-10-17T22:30:05Z",
+      "user": "miriameng",
+      "labels": [
+        "needs reproduction",
+        "module: binaries",
+        "module: cpp",
+        "triaged"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -100980,8 +101096,51 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3764217135,
+      "number": 12895,
+      "title": "StableDiffusion3Pipeline crashes with AttributeError: 'NoneType' object has no attribute 'ndim' when using num_images_per_prompt with batched prompts",
+      "url": "https://github.com/huggingface/diffusers/issues/12895",
+      "created_at": "2025-12-27T02:04:42Z",
+      "user": "FredyRivera-dev",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3764247783,
+      "number": 12896,
+      "title": "The same WAN 2.2 i2v script (Almost) works in CUDA, bur fails in MPS",
+      "url": "https://github.com/huggingface/diffusers/issues/12896",
+      "created_at": "2025-12-27T02:57:36Z",
+      "user": "kerufu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3764255245,
+      "number": 31398,
+      "title": "[Doc]: Eagle3 with tensor parallelism",
+      "url": "https://github.com/vllm-project/vllm/issues/31398",
+      "created_at": "2025-12-27T03:10:50Z",
+      "user": "JSYRD",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T02:01:06Z",
-  "total_count": 6648
+  "last_updated": "2025-12-27T03:41:09Z",
+  "total_count": 6658
 }

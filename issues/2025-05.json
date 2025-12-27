@@ -176,6 +176,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3038134765,
+    "number": 17639,
+    "title": "[Bug]: Unable to run Qwen3 on Turing GPUs after upgrading to torch 2.7.0",
+    "url": "https://github.com/vllm-project/vllm/issues/17639",
+    "created_at": "2025-05-04T17:27:13Z",
+    "user": "sgsdxzy",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/accelerate",
     "id": 3039120873,
     "number": 3547,
@@ -918,6 +934,22 @@
     "labels": [
       "best practice",
       "community help wanted"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3062092783,
+    "number": 18121,
+    "title": "[Usage]: Set the kv cache size",
+    "url": "https://github.com/vllm-project/vllm/issues/18121",
+    "created_at": "2025-05-14T07:20:13Z",
+    "user": "FeliceSchena",
+    "labels": [
+      "usage",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1964,6 +1996,23 @@
     "labels": [
       "usage",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3086634047,
+    "number": 18619,
+    "title": "[Bug][PERF]: Qwen2.5 performance degradation 0.8.4 -> 0.8.5",
+    "url": "https://github.com/vllm-project/vllm/issues/18619",
+    "created_at": "2025-05-23T14:48:43Z",
+    "user": "vadiklyutiy",
+    "labels": [
+      "bug",
+      "stale",
+      "qwen"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

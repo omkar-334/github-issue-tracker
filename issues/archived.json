@@ -1,30 +1,58 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 2754742434,
-    "number": 14149,
-    "title": "server side metrics ",
-    "url": "https://github.com/mlflow/mlflow/issues/14149",
-    "created_at": "2024-12-22T16:46:44Z",
-    "user": "MohamedKHALILRouissi",
+    "repo": "optuna/optuna",
+    "id": 1194438464,
+    "number": 3450,
+    "title": "[RFC] Enable trial report multiple intermediate values by `trial.report`",
+    "url": "https://github.com/optuna/optuna/issues/3450",
+    "created_at": "2022-04-06T10:58:22Z",
+    "user": "nzw0301",
     "labels": [
-      "stale"
+      "feature",
+      "needs-discussion"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/torchtitan",
-    "id": 2759902633,
-    "number": 760,
-    "title": "DeepSeek V3 Support",
-    "url": "https://github.com/pytorch/torchtitan/issues/760",
-    "created_at": "2024-12-26T15:44:12Z",
-    "user": "casper-hansen",
+    "repo": "unslothai/unsloth",
+    "id": 2021808081,
+    "number": 4,
+    "title": "Apple Silicon Support",
+    "url": "https://github.com/unslothai/unsloth/issues/4",
+    "created_at": "2023-12-02T02:14:16Z",
+    "user": "nicosuave",
     "labels": [
-      "enhancement"
+      "on roadmap",
+      "help wanted"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
