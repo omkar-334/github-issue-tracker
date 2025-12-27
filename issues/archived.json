@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "repo": "facebookresearch/faiss",
+    "id": 2019401960,
+    "number": 3152,
+    "title": "pip (pypi) installation support",
+    "url": "https://github.com/facebookresearch/faiss/issues/3152",
+    "created_at": "2023-11-30T19:57:15Z",
+    "user": "hakan-77",
+    "labels": [
+      "install",
+      "backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
