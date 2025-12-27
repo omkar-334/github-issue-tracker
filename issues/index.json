@@ -53121,6 +53121,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653551541,
+      "number": 168722,
+      "title": "Test: TestCudaMallocAsync.test_device_memory_used",
+      "url": "https://github.com/pytorch/pytorch/issues/168722",
+      "created_at": "2025-11-22T01:07:03Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653552703,
       "number": 168743,
       "title": "Test: TestCudaPrimaryCtx.test_set_device_0",
@@ -101155,8 +101172,63 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3764408444,
+      "number": 13473,
+      "title": "Issue with MIME type ('text/plain') when using local echarts.min.js in Streamlit",
+      "url": "https://github.com/streamlit/streamlit/issues/13473",
+      "created_at": "2025-12-27T05:37:57Z",
+      "user": "exam-ple",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3764451831,
+      "number": 171370,
+      "title": "Inductor fails on aten.unfold_backward while eager backend works",
+      "url": "https://github.com/pytorch/pytorch/issues/171370",
+      "created_at": "2025-12-27T06:13:00Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3764461649,
+      "number": 59714,
+      "title": "[Serve] Refactor MockTaskProcessorAdapter to use instance attributes instead of class attributes",
+      "url": "https://github.com/ray-project/ray/issues/59714",
+      "created_at": "2025-12-27T06:23:27Z",
+      "user": "krisselberg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3764471192,
+      "number": 171375,
+      "title": "aten.lift triggers internal assert failure in Inductor functionalization pass",
+      "url": "https://github.com/pytorch/pytorch/issues/171375",
+      "created_at": "2025-12-27T06:35:39Z",
+      "user": "jikechao",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T05:29:51Z",
-  "total_count": 6659
+  "last_updated": "2025-12-27T06:41:04Z",
+  "total_count": 6664
 }
