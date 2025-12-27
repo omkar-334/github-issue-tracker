@@ -1,17 +1,1 @@
-[
-  {
-    "repo": "networkx/networkx",
-    "id": 1211797793,
-    "number": 5568,
-    "title": "The `maximal_independent_set` function does not always generate a *maximal* independent set for selected node(s).",
-    "url": "https://github.com/networkx/networkx/issues/5568",
-    "created_at": "2022-04-22T04:20:02Z",
-    "user": "daytonb",
-    "labels": [
-      "type: Documentation"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  }
-]
+[]
