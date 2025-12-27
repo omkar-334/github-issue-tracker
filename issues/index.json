@@ -101777,8 +101777,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3765095835,
+      "number": 31424,
+      "title": "[Bug]: NVIDIA NGC container nvcr.io/nvidia/vllm:25.12-py3 ships outdated vLLM 0.11.1 instead of 0.13.x",
+      "url": "https://github.com/vllm-project/vllm/issues/31424",
+      "created_at": "2025-12-27T21:27:38Z",
+      "user": "vgoklani",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dmlc/xgboost",
+      "id": 3765101673,
+      "number": 11893,
+      "title": "Serializing `xgb.DMatrix`",
+      "url": "https://github.com/dmlc/xgboost/issues/11893",
+      "created_at": "2025-12-27T21:37:25Z",
+      "user": "bblodfon",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T21:25:52Z",
-  "total_count": 6701
+  "last_updated": "2025-12-27T22:27:14Z",
+  "total_count": 6703
 }
