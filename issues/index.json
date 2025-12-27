@@ -5817,6 +5817,23 @@
       "archived": false
     },
     {
+      "repo": "langchain-ai/langchain",
+      "id": 2988779587,
+      "number": 30791,
+      "title": "core: task not awaited in `create_base_retry_decorator`",
+      "url": "https://github.com/langchain-ai/langchain/issues/30791",
+      "created_at": "2025-04-11T14:07:55Z",
+      "user": "cbornet",
+      "labels": [
+        "bug",
+        "investigate",
+        "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 2988837503,
       "number": 151110,
@@ -101332,6 +101349,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2025-12-27T09:29:28Z",
-  "total_count": 6671
+  "last_updated": "2025-12-27T10:29:25Z",
+  "total_count": 6672
 }
