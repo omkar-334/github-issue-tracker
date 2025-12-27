@@ -49,6 +49,23 @@
       "archived": false
     },
     {
+      "repo": "dagster-io/dagster",
+      "id": 2760684458,
+      "number": 26732,
+      "title": "Concurrency limit for maximal different values per tag",
+      "url": "https://github.com/dagster-io/dagster/issues/26732",
+      "created_at": "2024-12-27T10:12:45Z",
+      "user": "OneCyrus",
+      "labels": [
+        "type: feature-request",
+        "area: concurrency",
+        "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 2760786893,
       "number": 22200,
@@ -101347,8 +101364,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3764698306,
+      "number": 22221,
+      "title": "F401 fix causes infinite loop adding duplicates to `__all__`",
+      "url": "https://github.com/astral-sh/ruff/issues/22221",
+      "created_at": "2025-12-27T11:36:08Z",
+      "user": "harupy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3764710186,
+      "number": 22223,
+      "title": "TC002 conflicts with TC004",
+      "url": "https://github.com/astral-sh/ruff/issues/22223",
+      "created_at": "2025-12-27T11:56:03Z",
+      "user": "Samoed",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-27T11:24:13Z",
-  "total_count": 6672
+  "last_updated": "2025-12-27T12:52:29Z",
+  "total_count": 6675
 }
