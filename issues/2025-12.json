@@ -39930,5 +39930,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3764583354,
+    "number": 43054,
+    "title": "text embedding of siglip2 is much worse than siglip",
+    "url": "https://github.com/huggingface/transformers/issues/43054",
+    "created_at": "2025-12-27T08:46:30Z",
+    "user": "fancyerii",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3764593045,
+    "number": 31404,
+    "title": "[Bug]: MM cache AssertionError crashes engine, causes request aborts",
+    "url": "https://github.com/vllm-project/vllm/issues/31404",
+    "created_at": "2025-12-27T08:59:58Z",
+    "user": "shirejoni",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
