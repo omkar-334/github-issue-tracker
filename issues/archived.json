@@ -1,44 +1,12 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1049483782,
-    "number": 68110,
-    "title": "zeta(1/2) returns nan",
-    "url": "https://github.com/pytorch/pytorch/issues/68110",
-    "created_at": "2021-11-10T07:24:23Z",
-    "user": "ghost",
-    "labels": [
-      "triaged",
-      "module: special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 1052869507,
-    "number": 15036,
-    "title": "BUG: zeta(1/2, 1) returns nan",
-    "url": "https://github.com/scipy/scipy/issues/15036",
-    "created_at": "2021-11-14T07:21:33Z",
-    "user": "ghost",
-    "labels": [
-      "defect",
-      "scipy.special"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "fastai/fastai",
-    "id": 1876472086,
-    "number": 3952,
-    "title": "RuntimeError: The MPS backend is supported on MacOS 12.3+.Current OS version can be queried using `sw_vers`",
-    "url": "https://github.com/fastai/fastai/issues/3952",
-    "created_at": "2023-09-01T00:22:32Z",
-    "user": "baida21",
+    "repo": "fastapi/fastapi",
+    "id": 1922795955,
+    "number": 10370,
+    "title": "🚀 Roadmap",
+    "url": "https://github.com/fastapi/fastapi/issues/10370",
+    "created_at": "2023-10-02T21:54:54Z",
+    "user": "tiangolo",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
