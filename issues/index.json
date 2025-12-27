@@ -1,21 +1,6 @@
 {
   "issues": [
     {
-      "repo": "pytorch/torchtitan",
-      "id": 2759902633,
-      "number": 760,
-      "title": "DeepSeek V3 Support",
-      "url": "https://github.com/pytorch/torchtitan/issues/760",
-      "created_at": "2024-12-26T15:44:12Z",
-      "user": "casper-hansen",
-      "labels": [
-        "enhancement"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "pytorch/pytorch",
       "id": 2760268096,
       "number": 143887,
@@ -49717,6 +49702,21 @@
       "archived": false
     },
     {
+      "repo": "dagster-io/dagster",
+      "id": 3641852490,
+      "number": 32853,
+      "title": "asset_sensor only processes last one materialization event  when multiple partitions complete between the frequency time",
+      "url": "https://github.com/dagster-io/dagster/issues/32853",
+      "created_at": "2025-11-19T09:29:05Z",
+      "user": "wanxi50",
+      "labels": [
+        "type: bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3641896439,
       "number": 3617,
@@ -56392,6 +56392,22 @@
       "labels": [
         "Master Tracker",
         "inplace"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3666747851,
+      "number": 22806,
+      "title": "Hyperparameter settings during verification",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22806",
+      "created_at": "2025-11-26T09:51:52Z",
+      "user": "cainiao123s",
+      "labels": [
+        "question",
+        "Stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -100889,8 +100905,83 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3764134099,
+      "number": 30525,
+      "title": "TYP: Incorrect type hint from ndarray.tolist()",
+      "url": "https://github.com/numpy/numpy/issues/30525",
+      "created_at": "2025-12-26T23:43:45Z",
+      "user": "BillTompkins",
+      "labels": [
+        "41 - Static typing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3764157393,
+      "number": 20419,
+      "title": "[Feature Request]: Llamaparse Event driven ingestion",
+      "url": "https://github.com/run-llama/llama_index/issues/20419",
+      "created_at": "2025-12-27T00:17:25Z",
+      "user": "aluxf",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "kedro-org/kedro",
+      "id": 3764159205,
+      "number": 5295,
+      "title": "ci: Nightly build failure on `develop`",
+      "url": "https://github.com/kedro-org/kedro/issues/5295",
+      "created_at": "2025-12-27T00:20:19Z",
+      "user": "github-actions[bot]",
+      "labels": [
+        "develop nightly build"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3764168395,
+      "number": 22218,
+      "title": "`redefined-loop-name` warns on tuple unpacking swap",
+      "url": "https://github.com/astral-sh/ruff/issues/22218",
+      "created_at": "2025-12-27T00:35:17Z",
+      "user": "injust",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unit8co/darts",
+      "id": 3764208913,
+      "number": 2981,
+      "title": "[QUESTION] Accelerating Historical Forecasts with LightGBM",
+      "url": "https://github.com/unit8co/darts/issues/2981",
+      "created_at": "2025-12-27T01:49:35Z",
+      "user": "Cajeux1999",
+      "labels": [
+        "question",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-26T23:27:20Z",
-  "total_count": 6642
+  "last_updated": "2025-12-27T02:01:06Z",
+  "total_count": 6648
 }
