@@ -40131,5 +40131,69 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/evaluate",
+    "id": 3765030664,
+    "number": 724,
+    "title": "Proposal: Make SQuAD QA F1 logic reusable as a generic QA metric in `evaluate`",
+    "url": "https://github.com/huggingface/evaluate/issues/724",
+    "created_at": "2025-12-27T19:43:48Z",
+    "user": "Ayesha-Imr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3765032430,
+    "number": 23066,
+    "title": "I am training YOLO with just one class and I am getting cl_loss >1. What must I do?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23066",
+    "created_at": "2025-12-27T19:46:29Z",
+    "user": "aialves",
+    "labels": [
+      "question",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3765045076,
+    "number": 59726,
+    "title": "[Data][CI] Empty workers in `test_in_docker` sharding",
+    "url": "https://github.com/ray-project/ray/issues/59726",
+    "created_at": "2025-12-27T20:06:15Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data",
+      "ci"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3765057889,
+    "number": 59727,
+    "title": "[Data][CI] Clean up Miniforge installer and conda cache in `base_test` Docker image",
+    "url": "https://github.com/ray-project/ray/issues/59727",
+    "created_at": "2025-12-27T20:26:33Z",
+    "user": "bveeramani",
+    "labels": [
+      "good-first-issue",
+      "data",
+      "ci"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
