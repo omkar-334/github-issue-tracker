@@ -4110,6 +4110,24 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3367874899,
+    "number": 21131,
+    "title": "Lightning+DDP: use_distributed_sampler=True always shuffles data in DDP despite using custom sampler",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21131",
+    "created_at": "2025-08-29T19:29:30Z",
+    "user": "dmholtz",
+    "labels": [
+      "bug",
+      "distributed",
+      "data handling",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3368332269,
     "number": 23970,

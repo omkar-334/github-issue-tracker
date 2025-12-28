@@ -21612,6 +21612,24 @@
       "archived": false
     },
     {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3367874899,
+      "number": 21131,
+      "title": "Lightning+DDP: use_distributed_sampler=True always shuffles data in DDP despite using custom sampler",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21131",
+      "created_at": "2025-08-29T19:29:30Z",
+      "user": "dmholtz",
+      "labels": [
+        "bug",
+        "distributed",
+        "data handling",
+        "ver: 2.5.x"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3368332269,
       "number": 23970,
@@ -51847,6 +51865,23 @@
       "user": "adaminsky",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3652831534,
+      "number": 21371,
+      "title": "Broken URLs on NeptuneLogger documentation page",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21371",
+      "created_at": "2025-11-21T19:21:29Z",
+      "user": "aknierim",
+      "labels": [
+        "good first issue",
+        "docs",
+        "logger: neptune"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -102086,8 +102121,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3765520274,
+      "number": 16406,
+      "title": "Same code but different loss on Intel vs ARM",
+      "url": "https://github.com/pytorch/executorch/issues/16406",
+      "created_at": "2025-12-28T09:57:55Z",
+      "user": "berndporr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "facebookresearch/faiss",
+      "id": 3765539301,
+      "number": 4742,
+      "title": "GpuIndexCagra fails search if the source IndexHNSWCagra is destroyed after copyFrom",
+      "url": "https://github.com/facebookresearch/faiss/issues/4742",
+      "created_at": "2025-12-28T10:22:47Z",
+      "user": "mageirakos",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-28T09:29:42Z",
-  "total_count": 6722
+  "last_updated": "2025-12-28T10:29:38Z",
+  "total_count": 6726
 }

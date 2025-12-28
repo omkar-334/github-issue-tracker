@@ -11232,6 +11232,23 @@
     "archived": false
   },
   {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3652831534,
+    "number": 21371,
+    "title": "Broken URLs on NeptuneLogger documentation page",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21371",
+    "created_at": "2025-11-21T19:21:29Z",
+    "user": "aknierim",
+    "labels": [
+      "good first issue",
+      "docs",
+      "logger: neptune"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3652855864,
     "number": 63169,
