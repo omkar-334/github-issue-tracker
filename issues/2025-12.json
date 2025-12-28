@@ -40703,5 +40703,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "keras-team/autokeras",
+    "id": 3765779829,
+    "number": 1961,
+    "title": "Bug: Inconsistent Python version requirements due to keras>=3.0.0 dependency",
+    "url": "https://github.com/keras-team/autokeras/issues/1961",
+    "created_at": "2025-12-28T15:54:53Z",
+    "user": "Anselmoo",
+    "labels": [
+      "bug report"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765787285,
+    "number": 171415,
+    "title": "Important behavior incoherence on cpu/gpu.",
+    "url": "https://github.com/pytorch/pytorch/issues/171415",
+    "created_at": "2025-12-28T16:04:16Z",
+    "user": "YagaoDirac",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

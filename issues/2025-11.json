@@ -11377,6 +11377,22 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3653150508,
+    "number": 19509,
+    "title": "Artifacts cannot be distinguished in new flow fiew",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19509",
+    "created_at": "2025-11-21T21:35:01Z",
+    "user": "mskem-reify",
+    "labels": [
+      "bug",
+      "ui"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "google/flax",
     "id": 3653153446,
     "number": 5107,

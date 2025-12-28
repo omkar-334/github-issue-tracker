@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "repo": "scipy/scipy",
+    "id": 2342043702,
+    "number": 20930,
+    "title": "ENH: integrate: add array API standard support",
+    "url": "https://github.com/scipy/scipy/issues/20930",
+    "created_at": "2024-06-09T06:11:06Z",
+    "user": "mdhaber",
+    "labels": [
+      "enhancement",
+      "scipy.integrate",
+      "array types"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
