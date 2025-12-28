@@ -40731,5 +40731,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3765814662,
+    "number": 22236,
+    "title": "PT006 doesn't allow any argnames besides tuple in pytest.mark.parametrize",
+    "url": "https://github.com/astral-sh/ruff/issues/22236",
+    "created_at": "2025-12-28T16:39:35Z",
+    "user": "cgoldberg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3765816029,
+    "number": 21454,
+    "title": "DistributedSamplerWrapper does not pass on the `.set_epoch` call to the underlying sampler",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21454",
+    "created_at": "2025-12-28T16:41:26Z",
+    "user": "mojtababahrami",
+    "labels": [
+      "bug",
+      "needs triage",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

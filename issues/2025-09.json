@@ -6045,6 +6045,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3430521255,
+    "number": 25172,
+    "title": "[Feature]: FlexAttention + encoder_decoder support",
+    "url": "https://github.com/vllm-project/vllm/issues/25172",
+    "created_at": "2025-09-18T13:59:45Z",
+    "user": "JakubCerven",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3430778979,
     "number": 25176,
     "title": "[Bug]: Internvl3-2B/8B can't inference with video input when combined with AsyncLLMEngine",
