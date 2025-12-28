@@ -1,29 +1,16 @@
 [
   {
-    "repo": "mlflow/mlflow",
-    "id": 1877975015,
-    "number": 9513,
-    "title": "Official Mlflow docker image does not support postgres",
-    "url": "https://github.com/mlflow/mlflow/issues/9513",
-    "created_at": "2023-09-01T19:51:36Z",
-    "user": "benelot",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2557980708,
-    "number": 137068,
-    "title": "UserWarning: Graph break due to unsupported builtin time.time",
-    "url": "https://github.com/pytorch/pytorch/issues/137068",
-    "created_at": "2024-10-01T01:37:07Z",
-    "user": "drtonyr",
+    "repo": "deepset-ai/haystack",
+    "id": 2469872761,
+    "number": 8245,
+    "title": "feat: support bi-encoder models in TransformerSimilarityRanker",
+    "url": "https://github.com/deepset-ai/haystack/issues/8245",
+    "created_at": "2024-08-16T09:23:19Z",
+    "user": "Amnah199",
     "labels": [
-      "triaged",
-      "oncall: pt2",
-      "module: dynamo"
+      "type:feature",
+      "Contributions wanted!",
+      "P3"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
