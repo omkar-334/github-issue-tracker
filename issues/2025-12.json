@@ -40792,5 +40792,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765911824,
+    "number": 171417,
+    "title": "ONNX export fails with certain aliased operators",
+    "url": "https://github.com/pytorch/pytorch/issues/171417",
+    "created_at": "2025-12-28T18:51:16Z",
+    "user": "tempstudio",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3765921953,
+    "number": 22237,
+    "title": "Ruff format: Blank line after \"class\" keyword",
+    "url": "https://github.com/astral-sh/ruff/issues/22237",
+    "created_at": "2025-12-28T19:05:09Z",
+    "user": "danijar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
