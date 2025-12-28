@@ -566,6 +566,24 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3581985390,
+    "number": 25142,
+    "title": "A `RuntimeError` (New size must be smaller) occurs when using the GPU engine",
+    "url": "https://github.com/pola-rs/polars/issues/25142",
+    "created_at": "2025-11-03T13:05:12Z",
+    "user": "asddfl",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage",
+      "A-gpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3582004238,
     "number": 12911,

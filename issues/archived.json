@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 1281276582,
+    "number": 13378,
+    "title": "Add `enable_device_summary` flag to disable device printout",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/13378",
+    "created_at": "2022-06-22T23:40:11Z",
+    "user": "CompRhys",
+    "labels": [
+      "feature",
+      "good first issue",
+      "callback",
+      "trainer: argument"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]

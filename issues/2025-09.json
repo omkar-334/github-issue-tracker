@@ -5416,6 +5416,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3424628263,
+    "number": 62357,
+    "title": "DOC: Ensure guides are linked from relevant API docs",
+    "url": "https://github.com/pandas-dev/pandas/issues/62357",
+    "created_at": "2025-09-17T04:38:46Z",
+    "user": "afeld",
+    "labels": [
+      "Docs",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3424711502,
     "number": 25039,
