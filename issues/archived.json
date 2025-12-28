@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2586343929,
+    "number": 137892,
+    "title": "DISABLED test_post_accumulate_grad_hook_e2e (__main__.TestAutograd)",
+    "url": "https://github.com/pytorch/pytorch/issues/137892",
+    "created_at": "2024-10-14T15:10:21Z",
+    "user": "huydhn",
+    "labels": [
+      "triaged",
+      "skipped",
+      "oncall: pt2",
+      "module: dynamo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
