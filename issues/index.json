@@ -42854,6 +42854,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3595432826,
+      "number": 28207,
+      "title": "[Bug]: CUDA Graph Capture Issue: Unexpected Prefill Branches in Uniform Decode Graphs when MTP=2",
+      "url": "https://github.com/vllm-project/vllm/issues/28207",
+      "created_at": "2025-11-06T11:41:47Z",
+      "user": "zhyajie",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3595497460,
       "number": 3562,
@@ -102492,8 +102507,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3765857356,
+      "number": 13476,
+      "title": "Nimchand",
+      "url": "https://github.com/streamlit/streamlit/issues/13476",
+      "created_at": "2025-12-28T17:37:09Z",
+      "user": "nimchand75",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3765891899,
+      "number": 12616,
+      "title": "[Docs] \"Event Listeners\" table unreadable in Dark Mode on Code component page",
+      "url": "https://github.com/gradio-app/gradio/issues/12616",
+      "created_at": "2025-12-28T18:24:41Z",
+      "user": "KarthikReddyMaru",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-28T17:26:25Z",
-  "total_count": 6749
+  "last_updated": "2025-12-28T18:39:17Z",
+  "total_count": 6752
 }

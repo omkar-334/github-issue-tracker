@@ -2184,6 +2184,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3595432826,
+    "number": 28207,
+    "title": "[Bug]: CUDA Graph Capture Issue: Unexpected Prefill Branches in Uniform Decode Graphs when MTP=2",
+    "url": "https://github.com/vllm-project/vllm/issues/28207",
+    "created_at": "2025-11-06T11:41:47Z",
+    "user": "zhyajie",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "unslothai/unsloth",
     "id": 3595497460,
     "number": 3562,
