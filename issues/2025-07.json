@@ -2102,6 +2102,19 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3236556437,
+    "number": 23617,
+    "title": "Implementation question from a downstream Rust crate",
+    "url": "https://github.com/pola-rs/polars/issues/23617",
+    "created_at": "2025-07-16T16:13:54Z",
+    "user": "jmcnamara",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "prefecthq/prefect",
     "id": 3236618558,
     "number": 18523,

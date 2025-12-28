@@ -40494,5 +40494,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3765489462,
+    "number": 7918,
+    "title": "datasets.load_from_disk doesn't show progress bar",
+    "url": "https://github.com/huggingface/datasets/issues/7918",
+    "created_at": "2025-12-28T09:14:41Z",
+    "user": "Tommigun1980",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765492071,
+    "number": 171401,
+    "title": "Feedback about Flatten",
+    "url": "https://github.com/pytorch/pytorch/issues/171401",
+    "created_at": "2025-12-28T09:18:30Z",
+    "user": "martosc",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
