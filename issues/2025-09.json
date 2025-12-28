@@ -850,6 +850,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3381392384,
+    "number": 24198,
+    "title": "[Feature][gpt-oss]: Browser Tool Test Enhancement",
+    "url": "https://github.com/vllm-project/vllm/issues/24198",
+    "created_at": "2025-09-03T21:42:23Z",
+    "user": "heheda12345",
+    "labels": [
+      "feature request",
+      "stale",
+      "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3381458269,
     "number": 14224,
@@ -7471,6 +7488,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3447990646,
+    "number": 25549,
+    "title": "[Bug]: qwen3-next tool_call error  invalid output: !!!!!!!!",
+    "url": "https://github.com/vllm-project/vllm/issues/25549",
+    "created_at": "2025-09-24T07:00:34Z",
+    "user": "fengyang95",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/smolagents",
     "id": 3448027415,
     "number": 1783,
@@ -7526,6 +7559,22 @@
     "labels": [
       "stat:awaiting keras-eng",
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3448787173,
+    "number": 25576,
+    "title": "[Doc]: https://docs.vllm.ai/en/v0.6.5/getting_started/installation.html",
+    "url": "https://github.com/vllm-project/vllm/issues/25576",
+    "created_at": "2025-09-24T10:31:15Z",
+    "user": "cjg-aussee-ai",
+    "labels": [
+      "documentation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -8429,6 +8478,22 @@
     "user": "schoelle",
     "labels": [
       "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3459402047,
+    "number": 25793,
+    "title": "VLLM offline inference raise except when using qianfan-vl",
+    "url": "https://github.com/vllm-project/vllm/issues/25793",
+    "created_at": "2025-09-26T23:53:00Z",
+    "user": "cqray1990",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

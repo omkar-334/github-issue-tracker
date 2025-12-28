@@ -9232,6 +9232,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3641227116,
+    "number": 22720,
+    "title": "Help with hyper-parametric tuning for yolo11",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22720",
+    "created_at": "2025-11-19T06:15:40Z",
+    "user": "sarabhan",
+    "labels": [
+      "Stale",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3641316914,
     "number": 3559,
@@ -14809,6 +14826,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3661715823,
+    "number": 22791,
+    "title": "memory leak",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22791",
+    "created_at": "2025-11-25T06:44:42Z",
+    "user": "wujingtao0730",
+    "labels": [
+      "bug",
+      "Stale",
+      "segment",
+      "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3661999810,
     "number": 169050,
@@ -17263,6 +17298,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3669558389,
+    "number": 22815,
+    "title": "YOLOV8 classification problem",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22815",
+    "created_at": "2025-11-27T01:39:57Z",
+    "user": "0zxq0",
+    "labels": [
+      "question",
+      "Stale",
+      "classify",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3669559095,
     "number": 169154,
@@ -17546,6 +17599,23 @@
     "labels": [
       "bug",
       "llm translation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3670209322,
+    "number": 22818,
+    "title": "The image and label quantities of the yolo-OBB task multi-scale segmentation DOTA1.0 dataset do not match, and some label values exceed the range of [0,1].",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22818",
+    "created_at": "2025-11-27T07:35:52Z",
+    "user": "tianer66",
+    "labels": [
+      "question",
+      "Stale",
+      "OBB"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
