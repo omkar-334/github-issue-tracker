@@ -12844,6 +12844,23 @@
   },
   {
     "repo": "pytorch/pytorch",
+    "id": 3653554960,
+    "number": 168799,
+    "title": "Test: TestNN.test_broadcast_double_backwards_gpu",
+    "url": "https://github.com/pytorch/pytorch/issues/168799",
+    "created_at": "2025-11-22T01:09:03Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
     "id": 3653554994,
     "number": 168800,
     "title": "Test: TestNN.test_batchnorm",
@@ -12900,6 +12917,23 @@
     "title": "Test: TestCommon.test_python_ref_executor",
     "url": "https://github.com/pytorch/pytorch/issues/168816",
     "created_at": "2025-11-22T01:09:29Z",
+    "user": "jeffdaily",
+    "labels": [
+      "module: rocm",
+      "triaged",
+      "rocm-skipped-tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3653555929,
+    "number": 168818,
+    "title": "Test: TestOutDtypeOp.test_out_dtype_inductor_decomp",
+    "url": "https://github.com/pytorch/pytorch/issues/168818",
+    "created_at": "2025-11-22T01:09:32Z",
     "user": "jeffdaily",
     "labels": [
       "module: rocm",

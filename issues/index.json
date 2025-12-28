@@ -53515,6 +53515,23 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3653554960,
+      "number": 168799,
+      "title": "Test: TestNN.test_broadcast_double_backwards_gpu",
+      "url": "https://github.com/pytorch/pytorch/issues/168799",
+      "created_at": "2025-11-22T01:09:03Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3653554994,
       "number": 168800,
       "title": "Test: TestNN.test_batchnorm",
@@ -53571,6 +53588,23 @@
       "title": "Test: TestCommon.test_python_ref_executor",
       "url": "https://github.com/pytorch/pytorch/issues/168816",
       "created_at": "2025-11-22T01:09:29Z",
+      "user": "jeffdaily",
+      "labels": [
+        "module: rocm",
+        "triaged",
+        "rocm-skipped-tests"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3653555929,
+      "number": 168818,
+      "title": "Test: TestOutDtypeOp.test_out_dtype_inductor_decomp",
+      "url": "https://github.com/pytorch/pytorch/issues/168818",
+      "created_at": "2025-11-22T01:09:32Z",
       "user": "jeffdaily",
       "labels": [
         "module: rocm",
@@ -102313,8 +102347,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3765715322,
+      "number": 171412,
+      "title": "[Feature Request][DCP] Add \"Broadcast Load\" arg to dcp.load for HSDP storage optimization",
+      "url": "https://github.com/pytorch/pytorch/issues/171412",
+      "created_at": "2025-12-28T14:31:55Z",
+      "user": "niyunsheng",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3765723330,
+      "number": 13475,
+      "title": "Control + F in st.pdf",
+      "url": "https://github.com/streamlit/streamlit/issues/13475",
+      "created_at": "2025-12-28T14:42:43Z",
+      "user": "CoolShades",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3765741047,
+      "number": 31454,
+      "title": "[Feature]: Support per-layer MLP sizes for Qwen2.5 ModelOpt/GradNAS pruned checkpoints",
+      "url": "https://github.com/vllm-project/vllm/issues/31454",
+      "created_at": "2025-12-28T15:04:51Z",
+      "user": "CedricHwong",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "microsoft/LightGBM",
+      "id": 3765744892,
+      "number": 7112,
+      "title": "R package cannot be built with GPU (OpenCL/CUDA) on Linux (v4.6.0)",
+      "url": "https://github.com/microsoft/LightGBM/issues/7112",
+      "created_at": "2025-12-28T15:09:22Z",
+      "user": "15mmerits",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-28T14:27:17Z",
-  "total_count": 6737
+  "last_updated": "2025-12-28T15:28:30Z",
+  "total_count": 6743
 }
