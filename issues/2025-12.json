@@ -40546,5 +40546,63 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3765542099,
+    "number": 171404,
+    "title": "Urgent Request for Support of NVIDIA RTX 5070 Ti (sm_120) in PyTorch",
+    "url": "https://github.com/pytorch/pytorch/issues/171404",
+    "created_at": "2025-12-28T10:27:00Z",
+    "user": "Aryen90",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3765552229,
+    "number": 31450,
+    "title": "[Feature]: vLLM should apply to Docker Open Source Program for removing image pull limits",
+    "url": "https://github.com/vllm-project/vllm/issues/31450",
+    "created_at": "2025-12-28T10:42:09Z",
+    "user": "ehfd",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3765570099,
+    "number": 32961,
+    "title": "Consistent HTTP 403 Figshare error since December 27",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32961",
+    "created_at": "2025-12-28T11:08:40Z",
+    "user": "lesteve",
+    "labels": [
+      "Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 3765576732,
+    "number": 33134,
+    "title": "kubernetesjsonschema.dev is down",
+    "url": "https://github.com/dagster-io/dagster/issues/33134",
+    "created_at": "2025-12-28T11:18:24Z",
+    "user": "giautm",
+    "labels": [
+      "type: bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

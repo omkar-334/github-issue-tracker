@@ -1,40 +1,5 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 1095656598,
-    "number": 22136,
-    "title": "Net benefit curve and decision curve analysis",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/22136",
-    "created_at": "2022-01-06T20:11:06Z",
-    "user": "Morgan243",
-    "labels": [
-      "New Feature",
-      "module:metrics",
-      "Needs Decision - Include Feature"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 1240333853,
-    "number": 77764,
-    "title": "General MPS op coverage tracking issue",
-    "url": "https://github.com/pytorch/pytorch/issues/77764",
-    "created_at": "2022-05-18T18:12:47Z",
-    "user": "albanD",
-    "labels": [
-      "feature",
-      "triaged",
-      "tracker",
-      "module: mps"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "pytorch/pytorch",
     "id": 1967825857,
     "number": 112377,
@@ -45,22 +10,6 @@
     "labels": [
       "triaged",
       "module: CUDACachingAllocator"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "chroma-core/chroma",
-    "id": 2351834003,
-    "number": 2334,
-    "title": "[BLD] add flake8 rule to ban relative imports",
-    "url": "https://github.com/chroma-core/chroma/issues/2334",
-    "created_at": "2024-06-13T18:45:43Z",
-    "user": "codetheweb",
-    "labels": [
-      "good first issue",
-      "by-chroma"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
