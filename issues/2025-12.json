@@ -39906,6 +39906,19 @@
     "archived": false
   },
   {
+    "repo": "networkx/networkx",
+    "id": 3764473024,
+    "number": 8436,
+    "title": "Bug: Documentation build fails/warns for missing optional dependencies in examples",
+    "url": "https://github.com/networkx/networkx/issues/8436",
+    "created_at": "2025-12-27T06:38:25Z",
+    "user": "Ravichandranayakar",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3764494066,
     "number": 171376,
@@ -40601,6 +40614,19 @@
     "labels": [
       "type: bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3765592529,
+    "number": 30531,
+    "title": "FWIW, often `functools.reduce()` is probably better... but I guess this is still the saner thing to recommend.",
+    "url": "https://github.com/numpy/numpy/issues/30531",
+    "created_at": "2025-12-28T11:42:11Z",
+    "user": "taqwim789-star",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

@@ -4436,5 +4436,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3370744293,
+    "number": 32062,
+    "title": "Regressor Prediction Makes a Negative Y Offset",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32062",
+    "created_at": "2025-08-31T22:44:45Z",
+    "user": "mifth",
+    "labels": [
+      "Bug",
+      "Needs Investigation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
