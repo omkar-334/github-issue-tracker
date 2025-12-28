@@ -1,100 +1,43 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 2760268096,
-    "number": 143887,
-    "title": "`torch.accelerator` cross-device utilities and properties",
-    "url": "https://github.com/pytorch/pytorch/issues/143887",
-    "created_at": "2024-12-27T01:12:30Z",
-    "user": "stas00",
-    "labels": [
-      "triaged",
-      "module: accelerator"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pola-rs/polars",
-    "id": 2760295377,
-    "number": 20470,
-    "title": "sink_parquet on LazyFrame constructed from Python IO plugin source",
-    "url": "https://github.com/pola-rs/polars/issues/20470",
-    "created_at": "2024-12-27T02:04:40Z",
-    "user": "charley3c",
-    "labels": [
-      "enhancement"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "scipy/scipy",
-    "id": 2760316976,
-    "number": 22194,
-    "title": "RFC: stats: sunsetting `scipy.stats.mstats`",
-    "url": "https://github.com/scipy/scipy/issues/22194",
-    "created_at": "2024-12-27T02:43:35Z",
+    "id": 2342043702,
+    "number": 20930,
+    "title": "ENH: integrate: add array API standard support",
+    "url": "https://github.com/scipy/scipy/issues/20930",
+    "created_at": "2024-06-09T06:11:06Z",
     "user": "mdhaber",
     "labels": [
-      "scipy.stats",
-      "deprecated",
-      "RFC"
+      "enhancement",
+      "scipy.integrate",
+      "array types"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "dagster-io/dagster",
-    "id": 2760684458,
-    "number": 26732,
-    "title": "Concurrency limit for maximal different values per tag",
-    "url": "https://github.com/dagster-io/dagster/issues/26732",
-    "created_at": "2024-12-27T10:12:45Z",
-    "user": "OneCyrus",
-    "labels": [
-      "type: feature-request",
-      "area: concurrency",
-      "stale"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "scipy/scipy",
-    "id": 2760786893,
-    "number": 22200,
-    "title": "BUG (DOC?): `linalg.qr_update` fails for `k > M - N`,  `M > N`",
-    "url": "https://github.com/scipy/scipy/issues/22200",
-    "created_at": "2024-12-27T11:49:33Z",
-    "user": "mdhaber",
-    "labels": [
-      "defect",
-      "scipy.linalg",
-      "Documentation"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/torchchat",
-    "id": 2761127837,
-    "number": 1444,
-    "title": "We still don't use BFDOT on macOS CPU because Apple compiler used for PyTorch wheel is outdated",
-    "url": "https://github.com/pytorch/torchchat/issues/1444",
-    "created_at": "2024-12-27T17:40:21Z",
-    "user": "swolchok",
-    "labels": [
-      "performance",
-      "Known Gaps",
-      "MPS/Metal",
-      "triaged"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
