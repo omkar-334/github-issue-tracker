@@ -6786,6 +6786,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3439791781,
+    "number": 163501,
+    "title": "Registration Error with const SymIntArrayRef&in PyTorch 2.5+",
+    "url": "https://github.com/pytorch/pytorch/issues/163501",
+    "created_at": "2025-09-22T08:40:34Z",
+    "user": "shaoyf42",
+    "labels": [
+      "module: cpp-extensions",
+      "triaged",
+      "module: regression",
+      "module: dispatch",
+      "module: dynamic shapes",
+      "llm-amenable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3439852754,
     "number": 25371,
