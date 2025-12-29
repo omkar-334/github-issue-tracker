@@ -41598,5 +41598,99 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3767573214,
+    "number": 19667,
+    "title": "[FR] Can't specify params when running inference on MLServer",
+    "url": "https://github.com/mlflow/mlflow/issues/19667",
+    "created_at": "2025-12-29T14:37:57Z",
+    "user": "dubovikmaster",
+    "labels": [
+      "enhancement",
+      "area/scoring",
+      "domain/genai",
+      "domain/deep-learning",
+      "domain/classical-ml"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3767588609,
+    "number": 43064,
+    "title": "Trainer.train() using v5 + FSDP2 + PEFT + cpu_ram_efficient_loading=True results in wrong optimizer states/params on all but 0th rank",
+    "url": "https://github.com/huggingface/transformers/issues/43064",
+    "created_at": "2025-12-29T14:44:46Z",
+    "user": "d5031",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3767593118,
+    "number": 31501,
+    "title": "[Bug]: --stream-interval > 1 causes tool call arguments to be empty/lost",
+    "url": "https://github.com/vllm-project/vllm/issues/31501",
+    "created_at": "2025-12-29T14:46:56Z",
+    "user": "ktsaou",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3767660218,
+    "number": 19669,
+    "title": "[DOC-FIX] Describe pandas representation of mlflow.genai.evaluate results (EvaluationResult)",
+    "url": "https://github.com/mlflow/mlflow/issues/19669",
+    "created_at": "2025-12-29T15:17:24Z",
+    "user": "jaceklaskowski",
+    "labels": [
+      "area/docs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "kedro-org/kedro",
+    "id": 3767675542,
+    "number": 5297,
+    "title": "Catalog Factory wrongly parsing SQLAlchemy URL DB string connection",
+    "url": "https://github.com/kedro-org/kedro/issues/5297",
+    "created_at": "2025-12-29T15:23:53Z",
+    "user": "bernardompolimpio",
+    "labels": [
+      "Community"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3767682077,
+    "number": 25895,
+    "title": "Library doesnt compile, the type DataType isnt declared in some file src/dispatch/datetime.rs.",
+    "url": "https://github.com/pola-rs/polars/issues/25895",
+    "created_at": "2025-12-29T15:26:51Z",
+    "user": "ghasaqillayl",
+    "labels": [
+      "bug",
+      "rust",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

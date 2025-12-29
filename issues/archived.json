@@ -1,13 +1,15 @@
 [
   {
-    "repo": "arviz-devs/arviz",
-    "id": 953549676,
-    "number": 1748,
-    "title": "Add property to remember the list of free RVs",
-    "url": "https://github.com/arviz-devs/arviz/issues/1748",
-    "created_at": "2021-07-27T06:27:54Z",
-    "user": "michaelosthege",
-    "labels": [],
+    "repo": "scikit-image/scikit-image",
+    "id": 1941703925,
+    "number": 7205,
+    "title": "Circular thresholding (e.g. for hue or orientation features)",
+    "url": "https://github.com/scikit-image/scikit-image/issues/7205",
+    "created_at": "2023-10-13T10:42:55Z",
+    "user": "pohlt",
+    "labels": [
+      ":pray: Feature request"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

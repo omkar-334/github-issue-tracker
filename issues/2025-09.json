@@ -6410,6 +6410,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3433313791,
+    "number": 19906,
+    "title": "[Bug]: Handoff Issue: System Replies with Function Agent Message Instead of Response",
+    "url": "https://github.com/run-llama/llama_index/issues/19906",
+    "created_at": "2025-09-19T07:55:34Z",
+    "user": "DecoyGit",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3433390516,
     "number": 25241,
