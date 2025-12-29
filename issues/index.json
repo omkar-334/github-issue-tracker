@@ -103464,8 +103464,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3766980180,
+      "number": 31490,
+      "title": "[Performance]: The prefill phase in the disaggregated_serving_p2p_nccl_xpyd example exhibits poor performance",
+      "url": "https://github.com/vllm-project/vllm/issues/31490",
+      "created_at": "2025-12-29T10:03:46Z",
+      "user": "leefty-1024",
+      "labels": [
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3766981248,
+      "number": 171451,
+      "title": "[XPU] torch.xpu.memory_allocated/memory_reserved report wrong memory size",
+      "url": "https://github.com/pytorch/pytorch/issues/171451",
+      "created_at": "2025-12-29T10:04:17Z",
+      "user": "majing921201",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3766990902,
+      "number": 25893,
+      "title": "json_decode ComputeError when casting empty struct or list to string; inconsistent behavior with read_ndjson",
+      "url": "https://github.com/pola-rs/polars/issues/25893",
+      "created_at": "2025-12-29T10:08:39Z",
+      "user": "jcmuel",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-dtype-struct",
+        "A-io-json"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T09:40:33Z",
-  "total_count": 6812
+  "last_updated": "2025-12-29T10:32:48Z",
+  "total_count": 6815
 }
