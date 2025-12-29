@@ -1,14 +1,14 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 481277499,
-    "number": 24422,
-    "title": "Label tracking meta-issue (edit me to get automatically CC'ed on issues! cc bot)",
-    "url": "https://github.com/pytorch/pytorch/issues/24422",
-    "created_at": "2019-08-15T18:28:22Z",
-    "user": "ezyang",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "triaged"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

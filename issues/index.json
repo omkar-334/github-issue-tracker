@@ -20165,6 +20165,21 @@
       "archived": false
     },
     {
+      "repo": "unslothai/unsloth",
+      "id": 3334892907,
+      "number": 3188,
+      "title": "[Feature] Request: Support for Text-to-Image and Image-Text-to-Image Generation Models",
+      "url": "https://github.com/unslothai/unsloth/issues/3188",
+      "created_at": "2025-08-19T15:56:10Z",
+      "user": "shirsh10mall",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3335301438,
       "number": 13522,
@@ -103079,8 +103094,71 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3766463981,
+      "number": 23070,
+      "title": "mAP printing precision configuration",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23070",
+      "created_at": "2025-12-29T05:38:56Z",
+      "user": "apiszcz",
+      "labels": [
+        "question",
+        "detect",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3766474117,
+      "number": 3825,
+      "title": "Feature Request: realistic typing speed ",
+      "url": "https://github.com/browser-use/browser-use/issues/3825",
+      "created_at": "2025-12-29T05:46:02Z",
+      "user": "mikolaj-jpg",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3766526492,
+      "number": 8347,
+      "title": "Changed selected defaults for Panel 2.0",
+      "url": "https://github.com/holoviz/panel/issues/8347",
+      "created_at": "2025-12-29T06:16:35Z",
+      "user": "MarcSkovMadsen",
+      "labels": [
+        "TRIAGE"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3766552122,
+      "number": 34517,
+      "title": "from langchain.agents.middleware import SummarizationMiddleware it's DEFAULT_SUMMARY_PROMPT  has some wrong",
+      "url": "https://github.com/langchain-ai/langchain/issues/34517",
+      "created_at": "2025-12-29T06:26:12Z",
+      "user": "lsc13020528317",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T05:37:25Z",
-  "total_count": 6787
+  "last_updated": "2025-12-29T06:45:58Z",
+  "total_count": 6792
 }
