@@ -40684,6 +40684,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3765640956,
+    "number": 19989,
+    "title": "Terminal is staying stuck when running cli command  prefect deployment run --watch",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19989",
+    "created_at": "2025-12-28T12:51:02Z",
+    "user": "Leib-Flexor",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pola-rs/polars",
     "id": 3765684681,
     "number": 25888,
@@ -41552,6 +41567,19 @@
       "rule",
       "type-inference"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3767416844,
+    "number": 3710,
+    "title": "[DCP] Add DefaultStager example to distributed async checkpoint recipe",
+    "url": "https://github.com/pytorch/tutorials/issues/3710",
+    "created_at": "2025-12-29T13:28:55Z",
+    "user": "niyunsheng",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

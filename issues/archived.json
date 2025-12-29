@@ -1,17 +1,15 @@
 [
   {
-    "repo": "pyro-ppl/pyro",
-    "id": 371247665,
-    "number": 1461,
-    "title": "Call for User-Contributed Examples and Tutorials!",
-    "url": "https://github.com/pyro-ppl/pyro/issues/1461",
-    "created_at": "2018-10-17T20:11:26Z",
-    "user": "martinjankowiak",
+    "repo": "streamlit/streamlit",
+    "id": 696157713,
+    "number": 1980,
+    "title": "2nd Sidebar (on right side)",
+    "url": "https://github.com/streamlit/streamlit/issues/1980",
+    "created_at": "2020-09-08T20:31:08Z",
+    "user": "cojacoo",
     "labels": [
-      "help wanted",
-      "documentation",
-      "Examples",
-      "good first issue"
+      "type:enhancement",
+      "area:layout"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -19,48 +17,48 @@
   },
   {
     "repo": "matplotlib/matplotlib",
-    "id": 965130827,
-    "number": 20821,
-    "title": "[MNT]: mathtext.MathTextParser is slow",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20821",
-    "created_at": "2021-08-10T16:45:44Z",
-    "user": "HDembinski",
-    "labels": [
-      "Performance",
-      "topic: text/mathtext",
-      "keep"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1125218960,
-    "number": 22416,
-    "title": "[MNT]: Does postscript output with usetex always need to be ghostscript-distilled?",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22416",
-    "created_at": "2022-02-06T14:32:50Z",
+    "id": 894199976,
+    "number": 20255,
+    "title": "Prevent tick overstriking in polar axisartist axes.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20255",
+    "created_at": "2021-05-18T09:55:09Z",
     "user": "anntzer",
     "labels": [
-      "backend: ps",
-      "Maintenance",
-      "keep"
+      "New feature",
+      "topic: mpl_toolkit",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "huggingface/transformers",
+    "id": 2052332919,
+    "number": 28180,
+    "title": "Verify interpolation of image processors",
+    "url": "https://github.com/huggingface/transformers/issues/28180",
+    "created_at": "2023-12-21T12:26:51Z",
+    "user": "NielsRogge",
     "labels": [
-      "internal"
+      "Good First Issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2152958492,
+    "number": 120587,
+    "title": "Type hints on nn.Module.__setattr__ value ",
+    "url": "https://github.com/pytorch/pytorch/issues/120587",
+    "created_at": "2024-02-25T21:56:02Z",
+    "user": "fzimmermann89",
+    "labels": [
+      "module: nn",
+      "module: typing",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
