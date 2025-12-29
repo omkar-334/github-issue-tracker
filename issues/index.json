@@ -104062,8 +104062,69 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scikit-image/scikit-image",
+      "id": 3767943673,
+      "number": 7997,
+      "title": "create-an-issue action needs checkout to access MAIN_FAIL_TEMPLATE.md",
+      "url": "https://github.com/scikit-image/scikit-image/issues/7997",
+      "created_at": "2025-12-29T17:27:40Z",
+      "user": "lagru",
+      "labels": [
+        ":robot: type: Infrastructure",
+        "CI failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3767952949,
+      "number": 22284,
+      "title": "Consider replacing bincode",
+      "url": "https://github.com/astral-sh/ruff/issues/22284",
+      "created_at": "2025-12-29T17:32:09Z",
+      "user": "MichaReiser",
+      "labels": [
+        "internal"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pymc-devs/pymc",
+      "id": 3767972773,
+      "number": 8024,
+      "title": "BUG: `model_to_graphviz` fails with `Flat` variables",
+      "url": "https://github.com/pymc-devs/pymc/issues/8024",
+      "created_at": "2025-12-29T17:43:20Z",
+      "user": "rrebane",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3768018285,
+      "number": 34117,
+      "title": "[TPU][Mosaic] The mosaic IR dump is using a filename that is too large",
+      "url": "https://github.com/jax-ml/jax/issues/34117",
+      "created_at": "2025-12-29T18:09:18Z",
+      "user": "patrick-toulme",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T17:27:00Z",
-  "total_count": 6851
+  "last_updated": "2025-12-29T18:40:58Z",
+  "total_count": 6855
 }

@@ -1,16 +1,16 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1565235122,
-    "number": 93531,
-    "title": "TorchInductor CPU Performance Dashboard",
-    "url": "https://github.com/pytorch/pytorch/issues/93531",
-    "created_at": "2022-10-13T02:29:48Z",
-    "user": "blzheng",
+    "repo": "matplotlib/matplotlib",
+    "id": 1408588615,
+    "number": 24159,
+    "title": "[Doc]: clarify which writers animation.save supports",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24159",
+    "created_at": "2022-10-14T00:44:17Z",
+    "user": "story645",
     "labels": [
-      "triaged",
-      "oncall: pt2",
-      "oncall: cpu inductor"
+      "Documentation",
+      "topic: animation",
+      "keep"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -32,33 +32,17 @@
     "archived": true
   },
   {
-    "repo": "psf/black",
-    "id": 2279492407,
-    "number": 4349,
-    "title": "Unnecessary parentheses added to expression in indexed assignment",
-    "url": "https://github.com/psf/black/issues/4349",
-    "created_at": "2024-05-05T11:59:12Z",
-    "user": "Pabloo22",
+    "repo": "scipy/scipy",
+    "id": 2254762707,
+    "number": 20544,
+    "title": "ENH: stats: add array API-support",
+    "url": "https://github.com/scipy/scipy/issues/20544",
+    "created_at": "2024-04-20T23:32:00Z",
+    "user": "mdhaber",
     "labels": [
-      "T: bug",
-      "F: parentheses"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "id": 2629962561,
-    "number": 9770,
-    "title": "Allow using custom images for `icon` parameters",
-    "url": "https://github.com/streamlit/streamlit/issues/9770",
-    "created_at": "2024-11-01T22:27:56Z",
-    "user": "jrieke",
-    "labels": [
-      "type:enhancement",
-      "good first issue",
-      "area:widgets"
+      "scipy.stats",
+      "enhancement",
+      "array types"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
