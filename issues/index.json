@@ -1,64 +1,6 @@
 {
   "issues": [
     {
-      "repo": "facebookresearch/fairseq",
-      "id": 2761622854,
-      "number": 5576,
-      "title": "MMS TTS tutorial",
-      "url": "https://github.com/facebookresearch/fairseq/issues/5576",
-      "created_at": "2024-12-28T08:06:46Z",
-      "user": "ARTHARKING55",
-      "labels": [
-        "bug",
-        "needs triage"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "skorch-dev/skorch",
-      "id": 2761644189,
-      "number": 1083,
-      "title": "Unable to use packed sequence for GridSearchCV",
-      "url": "https://github.com/skorch-dev/skorch/issues/1083",
-      "created_at": "2024-12-28T09:21:54Z",
-      "user": "nafraw",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "pytorch/audio",
-      "id": 2761891850,
-      "number": 3867,
-      "title": "Add support for Pseudo Quadrature Mirror Filter",
-      "url": "https://github.com/pytorch/audio/issues/3867",
-      "created_at": "2024-12-28T19:57:04Z",
-      "user": "uis246",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "astral-sh/ruff",
-      "id": 2761948511,
-      "number": 15169,
-      "title": "Feature Request: Warn when instance attribute shadows class attribute",
-      "url": "https://github.com/astral-sh/ruff/issues/15169",
-      "created_at": "2024-12-28T20:59:47Z",
-      "user": "alippai",
-      "labels": [
-        "rule",
-        "type-inference"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "3b1b/manim",
       "id": 2762309859,
       "number": 2285,
@@ -2095,6 +2037,23 @@
         "llm",
         "stability",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "bokeh/bokeh",
+      "id": 2844874473,
+      "number": 14312,
+      "title": "Figure out how to apply hatch visuals in CSS rendering mode",
+      "url": "https://github.com/bokeh/bokeh/issues/14312",
+      "created_at": "2025-02-11T09:51:50Z",
+      "user": "mattpap",
+      "labels": [
+        "type: task",
+        "reso: completed",
+        "tag: component: bokehjs"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -33483,6 +33442,23 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3500941160,
+      "number": 165111,
+      "title": "[RFC] Cuda support matrix for Release 2.10. Deprecate CUDA 12.6 from CI/CD",
+      "url": "https://github.com/pytorch/pytorch/issues/165111",
+      "created_at": "2025-10-10T00:04:12Z",
+      "user": "atalman",
+      "labels": [
+        "oncall: releng",
+        "triaged",
+        "release-feature-request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ultralytics/ultralytics",
       "id": 3501000271,
       "number": 22334,
@@ -55815,6 +55791,22 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3662448420,
+      "number": 22793,
+      "title": "add: show_fps on CLI",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22793",
+      "created_at": "2025-11-25T10:29:29Z",
+      "user": "PrashantDixit0",
+      "labels": [
+        "enhancement",
+        "Stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchtitan",
       "id": 3662464527,
       "number": 2086,
@@ -58947,6 +58939,24 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3671016768,
+      "number": 22821,
+      "title": "Help Needed: Multiple YOLO Model Instances Causing GPU Overload With Multi-Camera Real-Time CCTV Streams",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22821",
+      "created_at": "2025-11-27T11:30:18Z",
+      "user": "james-zst",
+      "labels": [
+        "question",
+        "Stale",
+        "detect",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3671025629,
       "number": 17196,
@@ -59309,6 +59319,23 @@
         "enhancement",
         "good first issue",
         "module:models"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3671899100,
+      "number": 22822,
+      "title": "support new gpu for yolo",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22822",
+      "created_at": "2025-11-27T14:39:42Z",
+      "user": "hzdzkjdxyjs",
+      "labels": [
+        "enhancement",
+        "question",
+        "Stale"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -59890,6 +59917,23 @@
       "user": "pritamdodeja",
       "labels": [
         "type:bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3673574332,
+      "number": 22826,
+      "title": "YOLOv8 custom training issue: Model misclassifies random objects with high confidence",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22826",
+      "created_at": "2025-11-28T04:28:21Z",
+      "user": "ritageelsayed350-byte",
+      "labels": [
+        "Stale",
+        "detect",
+        "advice needed"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -102711,8 +102755,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "EleutherAI/lm-evaluation-harness",
+      "id": 3766106066,
+      "number": 3483,
+      "title": "Ministral-3 / Mistral3 models fail to load: AutoModelForCausalLM incompatible with Mistral3ForConditionalGeneration",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3483",
+      "created_at": "2025-12-28T23:30:26Z",
+      "user": "medhakimbedhief",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3766173220,
+      "number": 4759,
+      "title": "[Feature Discussion] Supervised Reinforcement Learning (SRL) - Step-Level Training for Reasoning",
+      "url": "https://github.com/huggingface/trl/issues/4759",
+      "created_at": "2025-12-29T00:54:59Z",
+      "user": "s23deepak",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3766225684,
+      "number": 23068,
+      "title": "Fine tune yolo11-cls.pt",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23068",
+      "created_at": "2025-12-29T01:55:24Z",
+      "user": "sasuke00",
+      "labels": [
+        "question",
+        "classify",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3766225774,
+      "number": 4760,
+      "title": "example code  Error",
+      "url": "https://github.com/huggingface/trl/issues/4760",
+      "created_at": "2025-12-29T01:55:30Z",
+      "user": "ciaoyizhen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-28T23:27:53Z",
-  "total_count": 6763
+  "last_updated": "2025-12-29T02:13:30Z",
+  "total_count": 6769
 }

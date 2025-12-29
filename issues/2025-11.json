@@ -15026,6 +15026,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3662448420,
+    "number": 22793,
+    "title": "add: show_fps on CLI",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22793",
+    "created_at": "2025-11-25T10:29:29Z",
+    "user": "PrashantDixit0",
+    "labels": [
+      "enhancement",
+      "Stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/torchtitan",
     "id": 3662464527,
     "number": 2086,
@@ -18158,6 +18174,24 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3671016768,
+    "number": 22821,
+    "title": "Help Needed: Multiple YOLO Model Instances Causing GPU Overload With Multi-Camera Real-Time CCTV Streams",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22821",
+    "created_at": "2025-11-27T11:30:18Z",
+    "user": "james-zst",
+    "labels": [
+      "question",
+      "Stale",
+      "detect",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3671025629,
     "number": 17196,
@@ -18520,6 +18554,23 @@
       "enhancement",
       "good first issue",
       "module:models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3671899100,
+    "number": 22822,
+    "title": "support new gpu for yolo",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22822",
+    "created_at": "2025-11-27T14:39:42Z",
+    "user": "hzdzkjdxyjs",
+    "labels": [
+      "enhancement",
+      "question",
+      "Stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -19101,6 +19152,23 @@
     "user": "pritamdodeja",
     "labels": [
       "type:bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3673574332,
+    "number": 22826,
+    "title": "YOLOv8 custom training issue: Model misclassifies random objects with high confidence",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22826",
+    "created_at": "2025-11-28T04:28:21Z",
+    "user": "ritageelsayed350-byte",
+    "labels": [
+      "Stale",
+      "detect",
+      "advice needed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

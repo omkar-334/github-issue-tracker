@@ -477,6 +477,23 @@
     "archived": false
   },
   {
+    "repo": "bokeh/bokeh",
+    "id": 2844874473,
+    "number": 14312,
+    "title": "Figure out how to apply hatch visuals in CSS rendering mode",
+    "url": "https://github.com/bokeh/bokeh/issues/14312",
+    "created_at": "2025-02-11T09:51:50Z",
+    "user": "mattpap",
+    "labels": [
+      "type: task",
+      "reso: completed",
+      "tag: component: bokehjs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2844934594,
     "number": 1767,
