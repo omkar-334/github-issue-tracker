@@ -15257,6 +15257,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3233263529,
+      "number": 39437,
+      "title": "Support for per-token latency tracking in `generate()` (suggested options: using callback, profiler class, or using a config flag)",
+      "url": "https://github.com/huggingface/transformers/issues/39437",
+      "created_at": "2025-07-15T18:15:51Z",
+      "user": "spsagar13",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchtune",
       "id": 3233407797,
       "number": 2883,
@@ -104317,8 +104332,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3768377561,
+      "number": 31507,
+      "title": "[CI Failure]:  mi325_1: Model Executor Test",
+      "url": "https://github.com/vllm-project/vllm/issues/31507",
+      "created_at": "2025-12-29T21:28:07Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "bokeh/bokeh",
+      "id": 3768381404,
+      "number": 14762,
+      "title": "Expose what the bokeh theme entails",
+      "url": "https://github.com/bokeh/bokeh/issues/14762",
+      "created_at": "2025-12-29T21:30:55Z",
+      "user": "ahuang11",
+      "labels": [
+        "type: discussion"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T21:27:34Z",
-  "total_count": 6867
+  "last_updated": "2025-12-29T22:28:36Z",
+  "total_count": 6870
 }
