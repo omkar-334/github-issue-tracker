@@ -392,6 +392,23 @@
     "archived": false
   },
   {
+    "repo": "microsoft/LightGBM",
+    "id": 2782781216,
+    "number": 6786,
+    "title": "[GPU] [C++] building with Boost 1.86+ fails",
+    "url": "https://github.com/microsoft/LightGBM/issues/6786",
+    "created_at": "2025-01-13T00:25:47Z",
+    "user": "nipnipj",
+    "labels": [
+      "bug",
+      "r-package",
+      "gpu (OpenCL)"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2785313132,
     "number": 1752,

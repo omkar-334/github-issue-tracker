@@ -1406,6 +1406,24 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2941309872,
+    "number": 15360,
+    "title": "[Bug]: vLLM v1 hanging during Torch compilation",
+    "url": "https://github.com/vllm-project/vllm/issues/15360",
+    "created_at": "2025-03-23T16:41:41Z",
+    "user": "rishic3",
+    "labels": [
+      "bug",
+      "torch.compile",
+      "stale",
+      "needs reproduction"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "google/flax",
     "id": 2942607644,
     "number": 4644,

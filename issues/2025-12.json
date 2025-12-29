@@ -41153,5 +41153,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766665243,
+    "number": 31479,
+    "title": "[Feature]: Enable LoRA support for tower and connector in more MM models",
+    "url": "https://github.com/vllm-project/vllm/issues/31479",
+    "created_at": "2025-12-29T07:28:52Z",
+    "user": "jeejeelee",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

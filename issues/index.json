@@ -438,6 +438,23 @@
       "archived": false
     },
     {
+      "repo": "microsoft/LightGBM",
+      "id": 2782781216,
+      "number": 6786,
+      "title": "[GPU] [C++] building with Boost 1.86+ fails",
+      "url": "https://github.com/microsoft/LightGBM/issues/6786",
+      "created_at": "2025-01-13T00:25:47Z",
+      "user": "nipnipj",
+      "labels": [
+        "bug",
+        "r-package",
+        "gpu (OpenCL)"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2785313132,
       "number": 1752,
@@ -2468,6 +2485,22 @@
       "archived": false
     },
     {
+      "repo": "microsoft/LightGBM",
+      "id": 2866848384,
+      "number": 6839,
+      "title": "arrow.h brings lots of C++ to the c_api.h header",
+      "url": "https://github.com/microsoft/LightGBM/issues/6839",
+      "created_at": "2025-02-20T17:35:28Z",
+      "user": "Ten0",
+      "labels": [
+        "bug",
+        "awaiting response"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numpy/numpy",
       "id": 2866986492,
       "number": 28365,
@@ -4430,6 +4463,24 @@
       "labels": [
         "bug",
         "stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 2941309872,
+      "number": 15360,
+      "title": "[Bug]: vLLM v1 hanging during Torch compilation",
+      "url": "https://github.com/vllm-project/vllm/issues/15360",
+      "created_at": "2025-03-23T16:41:41Z",
+      "user": "rishic3",
+      "labels": [
+        "bug",
+        "torch.compile",
+        "stale",
+        "needs reproduction"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -103157,8 +103208,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3766665243,
+      "number": 31479,
+      "title": "[Feature]: Enable LoRA support for tower and connector in more MM models",
+      "url": "https://github.com/vllm-project/vllm/issues/31479",
+      "created_at": "2025-12-29T07:28:52Z",
+      "user": "jeejeelee",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T06:45:58Z",
-  "total_count": 6792
+  "last_updated": "2025-12-29T07:34:43Z",
+  "total_count": 6796
 }
