@@ -103971,8 +103971,84 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3767686605,
+      "number": 43065,
+      "title": "Dummy `nn.Conv2d` in `Sam3PixelDecoder`",
+      "url": "https://github.com/huggingface/transformers/issues/43065",
+      "created_at": "2025-12-29T15:28:42Z",
+      "user": "james77777778",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3767688104,
+      "number": 19670,
+      "title": "[FR] Add `AsyncResponsesAgent` for Native Async Support",
+      "url": "https://github.com/mlflow/mlflow/issues/19670",
+      "created_at": "2025-12-29T15:29:23Z",
+      "user": "mr-brobot",
+      "labels": [
+        "area/scoring",
+        "domain/genai"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3767738003,
+      "number": 30543,
+      "title": "BUG: Inconsistent results between `np.sum(arr[:, i])` and `np.sum(arr, axis=0)[i]` for large `float32` arrays on Windows with OpenBLAS",
+      "url": "https://github.com/numpy/numpy/issues/30543",
+      "created_at": "2025-12-29T15:53:16Z",
+      "user": "waxwel",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "prefecthq/prefect",
+      "id": 3767768908,
+      "number": 20001,
+      "title": "prefect-github does not allow cloning a non-standard branch without adding the branch name to the path",
+      "url": "https://github.com/PrefectHQ/prefect/issues/20001",
+      "created_at": "2025-12-29T16:08:10Z",
+      "user": "aidan-aisy",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3767790619,
+      "number": 3802,
+      "title": "[Bug] Unsloth + vLLM fast_generate() ignores LoRA on Gemma 3 270M",
+      "url": "https://github.com/unslothai/unsloth/issues/3802",
+      "created_at": "2025-12-29T16:17:46Z",
+      "user": "Zajaczkowskim",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T15:32:41Z",
-  "total_count": 6845
+  "last_updated": "2025-12-29T16:36:14Z",
+  "total_count": 6850
 }
