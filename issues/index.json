@@ -17142,6 +17142,24 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3265967562,
+      "number": 12045,
+      "title": "Memory leak when using `@keras.saving.register_keras_serializable` with Streamlit",
+      "url": "https://github.com/streamlit/streamlit/issues/12045",
+      "created_at": "2025-07-26T18:30:51Z",
+      "user": "Napuh",
+      "labels": [
+        "type:bug",
+        "status:confirmed",
+        "priority:P3",
+        "area:integrations"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3266106813,
       "number": 21520,
@@ -58357,6 +58375,21 @@
       "created_at": "2025-11-26T18:53:38Z",
       "user": "sadaisystems",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668699603,
+      "number": 29530,
+      "title": "[CI Failure]: mi325_4: NixlConnector PD accuracy tests (Distributed)",
+      "url": "https://github.com/vllm-project/vllm/issues/29530",
+      "created_at": "2025-11-26T18:57:29Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -104254,8 +104287,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3768325541,
+      "number": 2184,
+      "title": "bug in parallelize llama4 with tensor_parallel_degree=1",
+      "url": "https://github.com/pytorch/torchtitan/issues/2184",
+      "created_at": "2025-12-29T20:56:08Z",
+      "user": "danielvegamyhre",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3768348812,
+      "number": 12617,
+      "title": "Column takes up width when toggling visibility to False or \"hidden\"",
+      "url": "https://github.com/gradio-app/gradio/issues/12617",
+      "created_at": "2025-12-29T21:10:49Z",
+      "user": "MasonFlint44",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T20:33:06Z",
-  "total_count": 6863
+  "last_updated": "2025-12-29T21:27:34Z",
+  "total_count": 6867
 }

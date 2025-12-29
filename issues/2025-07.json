@@ -3950,6 +3950,24 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3265967562,
+    "number": 12045,
+    "title": "Memory leak when using `@keras.saving.register_keras_serializable` with Streamlit",
+    "url": "https://github.com/streamlit/streamlit/issues/12045",
+    "created_at": "2025-07-26T18:30:51Z",
+    "user": "Napuh",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "area:integrations"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3266106813,
     "number": 21520,

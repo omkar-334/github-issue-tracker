@@ -41907,5 +41907,35 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3768325541,
+    "number": 2184,
+    "title": "bug in parallelize llama4 with tensor_parallel_degree=1",
+    "url": "https://github.com/pytorch/torchtitan/issues/2184",
+    "created_at": "2025-12-29T20:56:08Z",
+    "user": "danielvegamyhre",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "id": 3768348812,
+    "number": 12617,
+    "title": "Column takes up width when toggling visibility to False or \"hidden\"",
+    "url": "https://github.com/gradio-app/gradio/issues/12617",
+    "created_at": "2025-12-29T21:10:49Z",
+    "user": "MasonFlint44",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

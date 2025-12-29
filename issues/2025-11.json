@@ -17162,6 +17162,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3668699603,
+    "number": 29530,
+    "title": "[CI Failure]: mi325_4: NixlConnector PD accuracy tests (Distributed)",
+    "url": "https://github.com/vllm-project/vllm/issues/29530",
+    "created_at": "2025-11-26T18:57:29Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3668726716,
     "number": 29533,
     "title": "[CI Failure]: mi325_1: Transformers Nightly Models Test",
