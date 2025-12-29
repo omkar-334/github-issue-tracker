@@ -19182,6 +19182,21 @@
       "archived": false
     },
     {
+      "repo": "triton-lang/triton",
+      "id": 3310025065,
+      "number": 7817,
+      "title": "Assertion error in `ScanOpToLLVM` when broadcasting result of cumsum",
+      "url": "https://github.com/triton-lang/triton/issues/7817",
+      "created_at": "2025-08-11T13:18:06Z",
+      "user": "mrTsjolder",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "cython/cython",
       "id": 3310534109,
       "number": 7085,
@@ -101085,6 +101100,19 @@
     },
     {
       "repo": "openml/openml-python",
+      "id": 3763122986,
+      "number": 1562,
+      "title": "[ENH] Add `OpenMLAuthenticationError` and improve Error Message When API Key is Invalid",
+      "url": "https://github.com/openml/openml-python/issues/1562",
+      "created_at": "2025-12-26T09:29:38Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
       "id": 3763152863,
       "number": 1563,
       "title": "Add `__repr__` Methods to `OpenMLSplit`",
@@ -103511,8 +103539,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3767049248,
+      "number": 23072,
+      "title": "does yolo12 support  pytorch2 inductor AOT mode export ?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23072",
+      "created_at": "2025-12-29T10:34:43Z",
+      "user": "mullerhai",
+      "labels": [
+        "dependencies",
+        "exports",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3767055012,
+      "number": 3797,
+      "title": "[Feature Request]: Support for T5/ByT5 (Encoder-Decoder) Architecture",
+      "url": "https://github.com/unslothai/unsloth/issues/3797",
+      "created_at": "2025-12-29T10:37:32Z",
+      "user": "shelterwff-byte",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3767085106,
+      "number": 13480,
+      "title": "TypeError: cannot pickle 'function' object / st.cache_resource conflates object hashing with serialization?",
+      "url": "https://github.com/streamlit/streamlit/issues/13480",
+      "created_at": "2025-12-29T10:51:53Z",
+      "user": "MacroBull",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3767109520,
+      "number": 21459,
+      "title": "Fabric.load is missing the weights_only argument",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21459",
+      "created_at": "2025-12-29T11:01:53Z",
+      "user": "fzehracetin",
+      "labels": [
+        "refactor",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3767148707,
+      "number": 43062,
+      "title": "GemmaTokenizer - unclear purpose of Split pre_tokenizer on whitespace",
+      "url": "https://github.com/huggingface/transformers/issues/43062",
+      "created_at": "2025-12-29T11:18:40Z",
+      "user": "biuq",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T10:32:48Z",
-  "total_count": 6815
+  "last_updated": "2025-12-29T11:27:52Z",
+  "total_count": 6822
 }
