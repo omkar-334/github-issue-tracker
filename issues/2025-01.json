@@ -586,6 +586,22 @@
     "archived": false
   },
   {
+    "repo": "huggingface/trl",
+    "id": 2789179670,
+    "number": 2570,
+    "title": "ORPO on SFT dataset",
+    "url": "https://github.com/huggingface/trl/issues/2570",
+    "created_at": "2025-01-15T08:46:24Z",
+    "user": "vitalyshalumov",
+    "labels": [
+      "❓ question",
+      "🏋 ORPO"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "3b1b/manim",
     "id": 2789185545,
     "number": 2303,

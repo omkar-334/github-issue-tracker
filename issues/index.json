@@ -632,6 +632,22 @@
       "archived": false
     },
     {
+      "repo": "huggingface/trl",
+      "id": 2789179670,
+      "number": 2570,
+      "title": "ORPO on SFT dataset",
+      "url": "https://github.com/huggingface/trl/issues/2570",
+      "created_at": "2025-01-15T08:46:24Z",
+      "user": "vitalyshalumov",
+      "labels": [
+        "❓ question",
+        "🏋 ORPO"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "3b1b/manim",
       "id": 2789185545,
       "number": 2303,
@@ -5358,6 +5374,23 @@
         "bug",
         "investigate",
         "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 2973763618,
+      "number": 3237,
+      "title": "ORPO doesn't work with multi-gpu (Deepspeed)",
+      "url": "https://github.com/huggingface/trl/issues/3237",
+      "created_at": "2025-04-05T02:25:49Z",
+      "user": "kevinlu1248",
+      "labels": [
+        "🐛 bug",
+        "🚀 deepspeed",
+        "🏋 ORPO"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -10655,6 +10688,25 @@
       "user": "lyle-sec",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3124641466,
+      "number": 53608,
+      "title": "[Ray Core/Dashboard] - Installing Ray via UV breaks dashboard.",
+      "url": "https://github.com/ray-project/ray/issues/53608",
+      "created_at": "2025-06-06T12:28:22Z",
+      "user": "dom-nura",
+      "labels": [
+        "bug",
+        "P1",
+        "dashboard",
+        "core",
+        "stability"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -77812,6 +77864,22 @@
       "archived": false
     },
     {
+      "repo": "microsoft/LightGBM",
+      "id": 3719337256,
+      "number": 7103,
+      "title": "how to use customized metrics for early stop",
+      "url": "https://github.com/microsoft/LightGBM/issues/7103",
+      "created_at": "2025-12-11T13:06:50Z",
+      "user": "ieipi",
+      "labels": [
+        "question",
+        "awaiting response"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3719339983,
       "number": 170184,
@@ -104123,8 +104191,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3768083926,
+      "number": 1573,
+      "title": "[MNT] remove no longer existing jobs from required list in CI",
+      "url": "https://github.com/openml/openml-python/issues/1573",
+      "created_at": "2025-12-29T18:45:31Z",
+      "user": "fkiraly",
+      "labels": [
+        "maintenance & CI"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T18:40:58Z",
-  "total_count": 6855
+  "last_updated": "2025-12-29T19:24:24Z",
+  "total_count": 6860
 }

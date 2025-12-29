@@ -732,6 +732,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3124641466,
+    "number": 53608,
+    "title": "[Ray Core/Dashboard] - Installing Ray via UV breaks dashboard.",
+    "url": "https://github.com/ray-project/ray/issues/53608",
+    "created_at": "2025-06-06T12:28:22Z",
+    "user": "dom-nura",
+    "labels": [
+      "bug",
+      "P1",
+      "dashboard",
+      "core",
+      "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3124734688,
     "number": 3257,

@@ -15549,6 +15549,22 @@
     "archived": false
   },
   {
+    "repo": "microsoft/LightGBM",
+    "id": 3719337256,
+    "number": 7103,
+    "title": "how to use customized metrics for early stop",
+    "url": "https://github.com/microsoft/LightGBM/issues/7103",
+    "created_at": "2025-12-11T13:06:50Z",
+    "user": "ieipi",
+    "labels": [
+      "question",
+      "awaiting response"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3719339983,
     "number": 170184,
@@ -41840,6 +41856,21 @@
     "user": "patrick-toulme",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "openml/openml-python",
+    "id": 3768083926,
+    "number": 1573,
+    "title": "[MNT] remove no longer existing jobs from required list in CI",
+    "url": "https://github.com/openml/openml-python/issues/1573",
+    "created_at": "2025-12-29T18:45:31Z",
+    "user": "fkiraly",
+    "labels": [
+      "maintenance & CI"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
