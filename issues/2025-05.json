@@ -248,6 +248,22 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3040983507,
+    "number": 11277,
+    "title": "[Coming soon] Persist widget identity when key is set, even if the parameters change",
+    "url": "https://github.com/streamlit/streamlit/issues/11277",
+    "created_at": "2025-05-05T22:33:22Z",
+    "user": "jrieke",
+    "labels": [
+      "type:enhancement",
+      "area:widgets"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3041033893,
     "number": 31121,

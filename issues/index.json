@@ -2871,6 +2871,24 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 2880589962,
+      "number": 21469,
+      "title": "pl.len() high memory usage",
+      "url": "https://github.com/pola-rs/polars/issues/21469",
+      "created_at": "2025-02-26T07:52:12Z",
+      "user": "damien-mai",
+      "labels": [
+        "bug",
+        "python",
+        "P-high",
+        "needs repro"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 2880792901,
       "number": 8725,
@@ -7390,6 +7408,22 @@
       "user": "igor-susic1",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3040983507,
+      "number": 11277,
+      "title": "[Coming soon] Persist widget identity when key is set, even if the parameters change",
+      "url": "https://github.com/streamlit/streamlit/issues/11277",
+      "created_at": "2025-05-05T22:33:22Z",
+      "user": "jrieke",
+      "labels": [
+        "type:enhancement",
+        "area:widgets"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -33946,6 +33980,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3504617625,
+      "number": 26605,
+      "title": "[Bug]: DeepSeek v3.2 hits IMA on DP/EP setup",
+      "url": "https://github.com/vllm-project/vllm/issues/26605",
+      "created_at": "2025-10-10T22:04:52Z",
+      "user": "MatthewBonanni",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 3504766822,
       "number": 15031,
@@ -39287,6 +39336,19 @@
       "labels": [
         "bug"
       ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Kludex/starlette",
+      "id": 3564842057,
+      "number": 3048,
+      "title": "Can not use `send_denial_response` with `StreamingResponse`",
+      "url": "https://github.com/Kludex/starlette/issues/3048",
+      "created_at": "2025-10-29T08:14:32Z",
+      "user": "Kludex",
+      "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -103311,8 +103373,99 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "axolotl-ai-cloud/axolotl",
+      "id": 3766808875,
+      "number": 3336,
+      "title": "B200 and B300 incompatibility problem within axolotl framework",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3336",
+      "created_at": "2025-12-29T08:48:05Z",
+      "user": "RenIII2211",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3766811848,
+      "number": 9118,
+      "title": "Cache key for autotuner does not change when do_bench's implementation is modified",
+      "url": "https://github.com/triton-lang/triton/issues/9118",
+      "created_at": "2025-12-29T08:49:51Z",
+      "user": "lifengxiang1025",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3766861118,
+      "number": 31485,
+      "title": "[Feature]: Support Tool Calling with transformers 5.x for GLM-4.6V Models",
+      "url": "https://github.com/vllm-project/vllm/issues/31485",
+      "created_at": "2025-12-29T09:14:18Z",
+      "user": "tamthaihoangminh",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3766902134,
+      "number": 25892,
+      "title": "`scan_csv` should raise on empty file when `has_header=True`",
+      "url": "https://github.com/pola-rs/polars/issues/25892",
+      "created_at": "2025-12-29T09:29:25Z",
+      "user": "nameexhaustion",
+      "labels": [
+        "python",
+        "regression",
+        "accepted",
+        "A-io-csv"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3766905488,
+      "number": 31486,
+      "title": "[Feature]: GLM 4.7 vocab padding feature",
+      "url": "https://github.com/vllm-project/vllm/issues/31486",
+      "created_at": "2025-12-29T09:30:35Z",
+      "user": "H100-H200-B200",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3766914351,
+      "number": 12900,
+      "title": "[Bug]: OOM of Qwen-Image (2048px) generation using Qwen/Qwen-Image",
+      "url": "https://github.com/huggingface/diffusers/issues/12900",
+      "created_at": "2025-12-29T09:33:42Z",
+      "user": "LJH-LBJ",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T08:41:50Z",
-  "total_count": 6802
+  "last_updated": "2025-12-29T09:40:33Z",
+  "total_count": 6812
 }

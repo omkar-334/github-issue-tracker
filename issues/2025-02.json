@@ -1240,6 +1240,24 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 2880589962,
+    "number": 21469,
+    "title": "pl.len() high memory usage",
+    "url": "https://github.com/pola-rs/polars/issues/21469",
+    "created_at": "2025-02-26T07:52:12Z",
+    "user": "damien-mai",
+    "labels": [
+      "bug",
+      "python",
+      "P-high",
+      "needs repro"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 2880792901,
     "number": 8725,

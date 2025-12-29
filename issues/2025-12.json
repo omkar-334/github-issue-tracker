@@ -41240,5 +41240,96 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "axolotl-ai-cloud/axolotl",
+    "id": 3766808875,
+    "number": 3336,
+    "title": "B200 and B300 incompatibility problem within axolotl framework",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3336",
+    "created_at": "2025-12-29T08:48:05Z",
+    "user": "RenIII2211",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "triton-lang/triton",
+    "id": 3766811848,
+    "number": 9118,
+    "title": "Cache key for autotuner does not change when do_bench's implementation is modified",
+    "url": "https://github.com/triton-lang/triton/issues/9118",
+    "created_at": "2025-12-29T08:49:51Z",
+    "user": "lifengxiang1025",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766861118,
+    "number": 31485,
+    "title": "[Feature]: Support Tool Calling with transformers 5.x for GLM-4.6V Models",
+    "url": "https://github.com/vllm-project/vllm/issues/31485",
+    "created_at": "2025-12-29T09:14:18Z",
+    "user": "tamthaihoangminh",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3766902134,
+    "number": 25892,
+    "title": "`scan_csv` should raise on empty file when `has_header=True`",
+    "url": "https://github.com/pola-rs/polars/issues/25892",
+    "created_at": "2025-12-29T09:29:25Z",
+    "user": "nameexhaustion",
+    "labels": [
+      "python",
+      "regression",
+      "accepted",
+      "A-io-csv"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766905488,
+    "number": 31486,
+    "title": "[Feature]: GLM 4.7 vocab padding feature",
+    "url": "https://github.com/vllm-project/vllm/issues/31486",
+    "created_at": "2025-12-29T09:30:35Z",
+    "user": "H100-H200-B200",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3766914351,
+    "number": 12900,
+    "title": "[Bug]: OOM of Qwen-Image (2048px) generation using Qwen/Qwen-Image",
+    "url": "https://github.com/huggingface/diffusers/issues/12900",
+    "created_at": "2025-12-29T09:33:42Z",
+    "user": "LJH-LBJ",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

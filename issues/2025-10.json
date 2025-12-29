@@ -2547,6 +2547,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3504617625,
+    "number": 26605,
+    "title": "[Bug]: DeepSeek v3.2 hits IMA on DP/EP setup",
+    "url": "https://github.com/vllm-project/vllm/issues/26605",
+    "created_at": "2025-10-10T22:04:52Z",
+    "user": "MatthewBonanni",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/executorch",
     "id": 3504766822,
     "number": 15031,
@@ -7888,6 +7903,19 @@
     "labels": [
       "bug"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Kludex/starlette",
+    "id": 3564842057,
+    "number": 3048,
+    "title": "Can not use `send_denial_response` with `StreamingResponse`",
+    "url": "https://github.com/Kludex/starlette/issues/3048",
+    "created_at": "2025-10-29T08:14:32Z",
+    "user": "Kludex",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
