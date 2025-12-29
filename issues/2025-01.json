@@ -282,6 +282,22 @@
     "archived": false
   },
   {
+    "repo": "dask/dask",
+    "id": 2773788748,
+    "number": 11643,
+    "title": "Error using db.from_delayed with sparse arrays",
+    "url": "https://github.com/dask/dask/issues/11643",
+    "created_at": "2025-01-07T21:37:28Z",
+    "user": "joshua-gould",
+    "labels": [
+      "delayed",
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-tuner",
     "id": 2774977533,
     "number": 1037,
@@ -433,6 +449,22 @@
     "labels": [
       "stat:awaiting response from contributor",
       "type:support"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "dask/dask",
+    "id": 2788203862,
+    "number": 11671,
+    "title": "to_sql method returns \"AttributeError: 'Engine' object has no attribute 'cursor'\" whenever pandas>2.0.0",
+    "url": "https://github.com/dask/dask/issues/11671",
+    "created_at": "2025-01-14T20:18:01Z",
+    "user": "fabclmnt",
+    "labels": [
+      "dataframe",
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

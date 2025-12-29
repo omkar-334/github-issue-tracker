@@ -20,74 +20,127 @@
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "matplotlib/matplotlib",
+    "id": 894199976,
+    "number": 20255,
+    "title": "floating_axes could better integrate ExtremeFinderCycle functionality",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20255",
+    "created_at": "2021-05-18T09:55:09Z",
+    "user": "anntzer",
     "labels": [
-      "internal"
+      "New feature",
+      "topic: mpl_toolkit",
+      "status: inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "facebookresearch/fairseq",
-    "id": 2761622854,
-    "number": 5576,
-    "title": "MMS TTS tutorial",
-    "url": "https://github.com/facebookresearch/fairseq/issues/5576",
-    "created_at": "2024-12-28T08:06:46Z",
-    "user": "ARTHARKING55",
+    "repo": "matplotlib/matplotlib",
+    "id": 965130827,
+    "number": 20821,
+    "title": "[MNT]: mathtext.MathTextParser is slow",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20821",
+    "created_at": "2021-08-10T16:45:44Z",
+    "user": "HDembinski",
+    "labels": [
+      "Performance",
+      "topic: text/mathtext",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1202438704,
+    "number": 22834,
+    "title": "[Doc]: Animation api docs list api and examples at the same heading level",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22834",
+    "created_at": "2022-04-12T21:57:17Z",
+    "user": "anntzer",
+    "labels": [
+      "Documentation",
+      "topic: animation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1408588615,
+    "number": 24159,
+    "title": "[Doc]: clarify which writers animation.save supports",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24159",
+    "created_at": "2022-10-14T00:44:17Z",
+    "user": "story645",
+    "labels": [
+      "Documentation",
+      "topic: animation",
+      "status: inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "shap/shap",
+    "id": 1808548440,
+    "number": 3099,
+    "title": "BUG:  multi-dimensional features. ambiguous Boolean definition of array ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()",
+    "url": "https://github.com/shap/shap/issues/3099",
+    "created_at": "2023-07-17T20:17:51Z",
+    "user": "mustafaghaliUnity",
     "labels": [
       "bug",
-      "needs triage"
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "skorch-dev/skorch",
-    "id": 2761644189,
-    "number": 1083,
-    "title": "Unable to use packed sequence for GridSearchCV",
-    "url": "https://github.com/skorch-dev/skorch/issues/1083",
-    "created_at": "2024-12-28T09:21:54Z",
-    "user": "nafraw",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/audio",
-    "id": 2761891850,
-    "number": 3867,
-    "title": "Add support for Pseudo Quadrature Mirror Filter",
-    "url": "https://github.com/pytorch/audio/issues/3867",
-    "created_at": "2024-12-28T19:57:04Z",
-    "user": "uis246",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "astral-sh/ruff",
-    "id": 2761948511,
-    "number": 15169,
-    "title": "Feature Request: Warn when instance attribute shadows class attribute",
-    "url": "https://github.com/astral-sh/ruff/issues/15169",
-    "created_at": "2024-12-28T20:59:47Z",
-    "user": "alippai",
+    "repo": "vllm-project/vllm",
+    "id": 2412182377,
+    "number": 6486,
+    "title": "[Bug]: No module named `jsonschema.protocols`. ",
+    "url": "https://github.com/vllm-project/vllm/issues/6486",
+    "created_at": "2024-07-16T23:06:32Z",
+    "user": "eff-kay",
     "labels": [
-      "rule",
-      "type-inference"
+      "bug",
+      "stale"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

@@ -39864,6 +39864,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3764336452,
+    "number": 171366,
+    "title": "[Inconsistency] aten.view_copy produces inconsistent output shapes between eager and inductor",
+    "url": "https://github.com/pytorch/pytorch/issues/171366",
+    "created_at": "2025-12-27T04:36:25Z",
+    "user": "jikechao",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3764408444,
     "number": 13473,
@@ -40897,6 +40910,110 @@
     "created_at": "2025-12-29T01:55:30Z",
     "user": "ciaoyizhen",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3766260642,
+    "number": 171441,
+    "title": "Some B200 runners are down due to network issues",
+    "url": "https://github.com/pytorch/pytorch/issues/171441",
+    "created_at": "2025-12-29T02:30:00Z",
+    "user": "huydhn",
+    "labels": [
+      "ci: sev"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766273427,
+    "number": 31467,
+    "title": "[RFC]: A Triton operator dispatch mechanism through modified `CustomOp`",
+    "url": "https://github.com/vllm-project/vllm/issues/31467",
+    "created_at": "2025-12-29T02:44:13Z",
+    "user": "MengqingCao",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3766299135,
+    "number": 3791,
+    "title": "[Bug] Cannot Load Qwen3Guard",
+    "url": "https://github.com/unslothai/unsloth/issues/3791",
+    "created_at": "2025-12-29T03:10:54Z",
+    "user": "Calandracas606",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766302899,
+    "number": 31469,
+    "title": "[Feature]: Optimize the definition of the fake function in the code.",
+    "url": "https://github.com/vllm-project/vllm/issues/31469",
+    "created_at": "2025-12-29T03:14:26Z",
+    "user": "lengrongfu",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3766304317,
+    "number": 59738,
+    "title": "`symmetric-run` hangs on multi-node SLURM clusters due to falsy empty list check",
+    "url": "https://github.com/ray-project/ray/issues/59738",
+    "created_at": "2025-12-29T03:15:53Z",
+    "user": "denizyuret",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3766322373,
+    "number": 19992,
+    "title": "mypy complains about coroutine unused when calling `Block.save`",
+    "url": "https://github.com/PrefectHQ/prefect/issues/19992",
+    "created_at": "2025-12-29T03:31:39Z",
+    "user": "EdgarDegas",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3766337564,
+    "number": 23069,
+    "title": "About batch matching while calculating confusion_matrix",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23069",
+    "created_at": "2025-12-29T03:48:14Z",
+    "user": "bright2311",
+    "labels": [
+      "question",
+      "detect"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
