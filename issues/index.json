@@ -104362,8 +104362,99 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532654,
+      "number": 19679,
+      "title": "Skill Grading Report: fetch-unresolved-comments - Score 69/100 (D)",
+      "url": "https://github.com/mlflow/mlflow/issues/19679",
+      "created_at": "2025-12-29T23:17:39Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532692,
+      "number": 19680,
+      "title": " [-claude__skills__fetch-unresolved-comments] Fix #1: Description needs trigger phrases",
+      "url": "https://github.com/mlflow/mlflow/issues/19680",
+      "created_at": "2025-12-29T23:17:41Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532756,
+      "number": 19681,
+      "title": " [-claude__skills__fetch-unresolved-comments] Fix #1: Verbose JSON example bloats SKILL.md",
+      "url": "https://github.com/mlflow/mlflow/issues/19681",
+      "created_at": "2025-12-29T23:17:43Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532801,
+      "number": 19682,
+      "title": " [-claude__skills__fetch-unresolved-comments] Fix #2: Second-person voice in When to Use",
+      "url": "https://github.com/mlflow/mlflow/issues/19682",
+      "created_at": "2025-12-29T23:17:45Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532844,
+      "number": 19683,
+      "title": " [-claude__skills__fetch-unresolved-comments] Fix #3: Missing error recovery guidance",
+      "url": "https://github.com/mlflow/mlflow/issues/19683",
+      "created_at": "2025-12-29T23:17:47Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532890,
+      "number": 19684,
+      "title": " [-claude__skills__fetch-unresolved-comments] Fix #4: Step 1 has complex nested logic",
+      "url": "https://github.com/mlflow/mlflow/issues/19684",
+      "created_at": "2025-12-29T23:17:49Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3768532951,
+      "number": 19685,
+      "title": "Add Skilz Universal Installer Instructions to README",
+      "url": "https://github.com/mlflow/mlflow/issues/19685",
+      "created_at": "2025-12-29T23:17:52Z",
+      "user": "RichardHightower",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T22:28:36Z",
-  "total_count": 6870
+  "last_updated": "2025-12-29T23:28:27Z",
+  "total_count": 6877
 }
