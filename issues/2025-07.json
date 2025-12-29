@@ -134,6 +134,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 3193200250,
+    "number": 19075,
+    "title": "BLE001 false-positive with Loguru",
+    "url": "https://github.com/astral-sh/ruff/issues/19075",
+    "created_at": "2025-07-01T17:01:21Z",
+    "user": "jsleb333",
+    "labels": [
+      "rule",
+      "needs-decision"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3193239035,
     "number": 7664,

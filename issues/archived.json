@@ -13,5 +13,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "id": 2697096381,
+    "number": 6731,
+    "title": "[RFC] make `deterministic` parameter more thorough?",
+    "url": "https://github.com/microsoft/LightGBM/issues/6731",
+    "created_at": "2024-11-27T04:55:52Z",
+    "user": "jameslamb",
+    "labels": [
+      "awaiting review",
+      "maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
   }
 ]

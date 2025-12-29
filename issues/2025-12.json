@@ -13344,6 +13344,22 @@
     "archived": false
   },
   {
+    "repo": "microsoft/LightGBM",
+    "id": 3714434942,
+    "number": 7102,
+    "title": "LightGBM model giving different results in different environments",
+    "url": "https://github.com/microsoft/LightGBM/issues/7102",
+    "created_at": "2025-12-10T09:53:40Z",
+    "user": "sumeetlohar7",
+    "labels": [
+      "question",
+      "awaiting response"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 3714486770,
     "number": 21914,
@@ -41871,6 +41887,22 @@
     "user": "fkiraly",
     "labels": [
       "maintenance & CI"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3768184748,
+    "number": 171471,
+    "title": "[ONNX] Exporter fails some torchvision models",
+    "url": "https://github.com/pytorch/pytorch/issues/171471",
+    "created_at": "2025-12-29T19:37:52Z",
+    "user": "justinchuby",
+    "labels": [
+      "module: onnx",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

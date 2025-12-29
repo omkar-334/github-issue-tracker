@@ -13326,6 +13326,22 @@
       "archived": false
     },
     {
+      "repo": "astral-sh/ruff",
+      "id": 3193200250,
+      "number": 19075,
+      "title": "BLE001 false-positive with Loguru",
+      "url": "https://github.com/astral-sh/ruff/issues/19075",
+      "created_at": "2025-07-01T17:01:21Z",
+      "user": "jsleb333",
+      "labels": [
+        "rule",
+        "needs-decision"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/datasets",
       "id": 3193239035,
       "number": 7664,
@@ -75659,6 +75675,22 @@
       "archived": false
     },
     {
+      "repo": "microsoft/LightGBM",
+      "id": 3714434942,
+      "number": 7102,
+      "title": "LightGBM model giving different results in different environments",
+      "url": "https://github.com/microsoft/LightGBM/issues/7102",
+      "created_at": "2025-12-10T09:53:40Z",
+      "user": "sumeetlohar7",
+      "labels": [
+        "question",
+        "awaiting response"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 3714486770,
       "number": 21914,
@@ -104206,8 +104238,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3768184748,
+      "number": 171471,
+      "title": "[ONNX] Exporter fails some torchvision models",
+      "url": "https://github.com/pytorch/pytorch/issues/171471",
+      "created_at": "2025-12-29T19:37:52Z",
+      "user": "justinchuby",
+      "labels": [
+        "module: onnx",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T19:24:24Z",
-  "total_count": 6860
+  "last_updated": "2025-12-29T20:33:06Z",
+  "total_count": 6863
 }
