@@ -538,6 +538,22 @@
     "archived": false
   },
   {
+    "repo": "dagster-io/dagster",
+    "id": 3049286080,
+    "number": 29870,
+    "title": "dagster-dbt project prepare-and-package failing in latest version",
+    "url": "https://github.com/dagster-io/dagster/issues/29870",
+    "created_at": "2025-05-08T15:02:23Z",
+    "user": "ReneP92",
+    "labels": [
+      "type: bug",
+      "integration: dbt"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3049468862,
     "number": 3215,

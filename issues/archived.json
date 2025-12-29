@@ -1,65 +1,13 @@
 [
   {
-    "repo": "streamlit/streamlit",
-    "id": 696157713,
-    "number": 1980,
-    "title": "2nd Sidebar (on right side)",
-    "url": "https://github.com/streamlit/streamlit/issues/1980",
-    "created_at": "2020-09-08T20:31:08Z",
-    "user": "cojacoo",
-    "labels": [
-      "type:enhancement",
-      "area:layout"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 894199976,
-    "number": 20255,
-    "title": "Prevent tick overstriking in polar axisartist axes.",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20255",
-    "created_at": "2021-05-18T09:55:09Z",
-    "user": "anntzer",
-    "labels": [
-      "New feature",
-      "topic: mpl_toolkit",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "huggingface/transformers",
-    "id": 2052332919,
-    "number": 28180,
-    "title": "Verify interpolation of image processors",
-    "url": "https://github.com/huggingface/transformers/issues/28180",
-    "created_at": "2023-12-21T12:26:51Z",
-    "user": "NielsRogge",
-    "labels": [
-      "Good First Issue"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "id": 2152958492,
-    "number": 120587,
-    "title": "Type hints on nn.Module.__setattr__ value ",
-    "url": "https://github.com/pytorch/pytorch/issues/120587",
-    "created_at": "2024-02-25T21:56:02Z",
-    "user": "fzimmermann89",
-    "labels": [
-      "module: nn",
-      "module: typing",
-      "triaged"
-    ],
+    "repo": "arviz-devs/arviz",
+    "id": 953549676,
+    "number": 1748,
+    "title": "Add property to remember the list of free RVs",
+    "url": "https://github.com/arviz-devs/arviz/issues/1748",
+    "created_at": "2021-07-27T06:27:54Z",
+    "user": "michaelosthege",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

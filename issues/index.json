@@ -7751,6 +7751,22 @@
       "archived": false
     },
     {
+      "repo": "dagster-io/dagster",
+      "id": 3049286080,
+      "number": 29870,
+      "title": "dagster-dbt project prepare-and-package failing in latest version",
+      "url": "https://github.com/dagster-io/dagster/issues/29870",
+      "created_at": "2025-05-08T15:02:23Z",
+      "user": "ReneP92",
+      "labels": [
+        "type: bug",
+        "integration: dbt"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3049468862,
       "number": 3215,
@@ -38949,6 +38965,21 @@
         "oncall: pt2",
         "module: inductor",
         "internal ramp-up task"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3560339150,
+      "number": 27641,
+      "title": "[Bug]: Streaming tool call randomly failed when using gpt-oss-120b/20b",
+      "url": "https://github.com/vllm-project/vllm/issues/27641",
+      "created_at": "2025-10-28T08:18:34Z",
+      "user": "dayeguilaiye",
+      "labels": [
+        "bug"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -103815,8 +103846,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "axolotl-ai-cloud/axolotl",
+      "id": 3767472122,
+      "number": 3337,
+      "title": "Add Scaling Softmax for tuning new Mistral models (Devstral, Ministral3 arch)",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl/issues/3337",
+      "created_at": "2025-12-29T13:52:30Z",
+      "user": "TheLocalDrummer",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T13:44:45Z",
-  "total_count": 6835
+  "last_updated": "2025-12-29T14:31:00Z",
+  "total_count": 6838
 }
