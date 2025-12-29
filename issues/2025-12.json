@@ -39486,6 +39486,19 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3763849928,
+    "number": 3786,
+    "title": "Support for TRL GRPOTrainer with tools= argument (requires transformers 5.0)",
+    "url": "https://github.com/unslothai/unsloth/issues/3786",
+    "created_at": "2025-12-26T18:35:46Z",
+    "user": "austinmw",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3763862693,
     "number": 59683,
@@ -41013,6 +41026,66 @@
     "labels": [
       "question",
       "detect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "id": 3766377494,
+    "number": 7113,
+    "title": "[R-package] [ci] rchk jobs failing:",
+    "url": "https://github.com/microsoft/LightGBM/issues/7113",
+    "created_at": "2025-12-29T04:25:24Z",
+    "user": "jameslamb",
+    "labels": [
+      "r-package",
+      "blocking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3766378076,
+    "number": 19661,
+    "title": "Support for R in MLflow (with LLM's Support in R)",
+    "url": "https://github.com/mlflow/mlflow/issues/19661",
+    "created_at": "2025-12-29T04:25:54Z",
+    "user": "arunrajes",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766410474,
+    "number": 31474,
+    "title": "[Feature]: GLM 4.7 vocab padding feature",
+    "url": "https://github.com/vllm-project/vllm/issues/31474",
+    "created_at": "2025-12-29T04:55:28Z",
+    "user": "H100-H200-B200",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766429798,
+    "number": 31475,
+    "title": "[Bug]: FP8 inference much slower than BF16 on MI300X for GLM-4.7 and MiniMax-M2.1",
+    "url": "https://github.com/vllm-project/vllm/issues/31475",
+    "created_at": "2025-12-29T05:11:55Z",
+    "user": "ehartford",
+    "labels": [
+      "bug",
+      "rocm"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

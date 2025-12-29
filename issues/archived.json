@@ -1,146 +1,15 @@
 [
   {
     "repo": "pytorch/pytorch",
-    "id": 362674885,
-    "number": 11936,
-    "title": "torch.bmm doesn't support CUDA uint8 (byte) tensor",
-    "url": "https://github.com/pytorch/pytorch/issues/11936",
-    "created_at": "2018-09-21T15:49:16Z",
-    "user": "Strasser-Pablo",
+    "id": 481277499,
+    "number": 24422,
+    "title": "Label tracking meta-issue (edit me to get automatically CC'ed on issues! cc bot)",
+    "url": "https://github.com/pytorch/pytorch/issues/24422",
+    "created_at": "2019-08-15T18:28:22Z",
+    "user": "ezyang",
     "labels": [
-      "todo",
-      "module: bootcamp",
-      "module: cuda",
-      "triaged",
-      "enhancement",
-      "module: linear algebra"
+      "triaged"
     ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 894199976,
-    "number": 20255,
-    "title": "floating_axes could better integrate ExtremeFinderCycle functionality",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20255",
-    "created_at": "2021-05-18T09:55:09Z",
-    "user": "anntzer",
-    "labels": [
-      "New feature",
-      "topic: mpl_toolkit",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 965130827,
-    "number": 20821,
-    "title": "[MNT]: mathtext.MathTextParser is slow",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20821",
-    "created_at": "2021-08-10T16:45:44Z",
-    "user": "HDembinski",
-    "labels": [
-      "Performance",
-      "topic: text/mathtext",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1202438704,
-    "number": 22834,
-    "title": "[Doc]: Animation api docs list api and examples at the same heading level",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22834",
-    "created_at": "2022-04-12T21:57:17Z",
-    "user": "anntzer",
-    "labels": [
-      "Documentation",
-      "topic: animation",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "id": 1408588615,
-    "number": 24159,
-    "title": "[Doc]: clarify which writers animation.save supports",
-    "url": "https://github.com/matplotlib/matplotlib/issues/24159",
-    "created_at": "2022-10-14T00:44:17Z",
-    "user": "story645",
-    "labels": [
-      "Documentation",
-      "topic: animation",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "shap/shap",
-    "id": 1808548440,
-    "number": 3099,
-    "title": "BUG:  multi-dimensional features. ambiguous Boolean definition of array ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()",
-    "url": "https://github.com/shap/shap/issues/3099",
-    "created_at": "2023-07-17T20:17:51Z",
-    "user": "mustafaghaliUnity",
-    "labels": [
-      "bug",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "vllm-project/vllm",
-    "id": 2412182377,
-    "number": 6486,
-    "title": "[Bug]: No module named `jsonschema.protocols`. ",
-    "url": "https://github.com/vllm-project/vllm/issues/6486",
-    "created_at": "2024-07-16T23:06:32Z",
-    "user": "eff-kay",
-    "labels": [
-      "bug",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2512178084,
-    "number": 29802,
-    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
-    "created_at": "2024-09-08T03:35:56Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2541476010,
-    "number": 29909,
-    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
-    "created_at": "2024-09-23T03:06:33Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
