@@ -460,6 +460,25 @@
     "archived": false
   },
   {
+    "repo": "pola-rs/polars",
+    "id": 3376944399,
+    "number": 24330,
+    "title": "`lit(None).repeat_by` PanicException",
+    "url": "https://github.com/pola-rs/polars/issues/24330",
+    "created_at": "2025-09-02T17:37:03Z",
+    "user": "cmdlineluser",
+    "labels": [
+      "bug",
+      "python",
+      "accepted",
+      "P-high",
+      "A-panic"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3377004925,
     "number": 14182,

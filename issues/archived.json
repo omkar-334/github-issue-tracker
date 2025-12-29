@@ -1,14 +1,16 @@
 [
   {
-    "repo": "jax-ml/jax",
-    "id": 2192415169,
-    "number": 20293,
-    "title": "Support profiling without source code changes",
-    "url": "https://github.com/jax-ml/jax/issues/20293",
-    "created_at": "2024-03-18T14:42:50Z",
-    "user": "cheshire",
+    "repo": "pyro-ppl/pyro",
+    "id": 371247665,
+    "number": 1461,
+    "title": "Call for User-Contributed Examples and Tutorials!",
+    "url": "https://github.com/pyro-ppl/pyro/issues/1461",
+    "created_at": "2018-10-17T20:11:26Z",
+    "user": "martinjankowiak",
     "labels": [
-      "enhancement",
+      "help wanted",
+      "documentation",
+      "Examples",
       "good first issue"
     ],
     "has_linked_pr": false,
@@ -16,18 +18,49 @@
     "archived": true
   },
   {
-    "repo": "pandas-dev/pandas",
-    "id": 2524468512,
-    "number": 59788,
-    "title": "DOC: Series.update throws a `FutureWarning` about `def[col] = df[col].method` but `.update` returns `None` and works `inplace`",
-    "url": "https://github.com/pandas-dev/pandas/issues/59788",
-    "created_at": "2024-09-13T10:16:43Z",
-    "user": "spawn-guy",
+    "repo": "matplotlib/matplotlib",
+    "id": 965130827,
+    "number": 20821,
+    "title": "[MNT]: mathtext.MathTextParser is slow",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20821",
+    "created_at": "2021-08-10T16:45:44Z",
+    "user": "HDembinski",
     "labels": [
-      "Needs Discussion",
-      "Warnings",
-      "Copy / view semantics",
-      "combine/combine_first/update"
+      "Performance",
+      "topic: text/mathtext",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1125218960,
+    "number": 22416,
+    "title": "[MNT]: Does postscript output with usetex always need to be ghostscript-distilled?",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22416",
+    "created_at": "2022-02-06T14:32:50Z",
+    "user": "anntzer",
+    "labels": [
+      "backend: ps",
+      "Maintenance",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

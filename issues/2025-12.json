@@ -41468,5 +41468,92 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "id": 3767179018,
+    "number": 2183,
+    "title": "[RFC] Introduce a Plugin-Mechanism for hardware-specific optimazations",
+    "url": "https://github.com/pytorch/torchtitan/issues/2183",
+    "created_at": "2025-12-29T11:32:39Z",
+    "user": "hahazhky",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3767215767,
+    "number": 3798,
+    "title": "fix: inputs_embeds ignored when input_ids is not None in _fast_prepare_inputs_for_generation",
+    "url": "https://github.com/unslothai/unsloth/issues/3798",
+    "created_at": "2025-12-29T11:50:29Z",
+    "user": "majiayu000",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3767231193,
+    "number": 3800,
+    "title": "[Bug] NameError: name 'psutil' is not defined",
+    "url": "https://github.com/unslothai/unsloth/issues/3800",
+    "created_at": "2025-12-29T11:58:08Z",
+    "user": "Romiroz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "numpy/numpy",
+    "id": 3767277902,
+    "number": 30540,
+    "title": "BUG: data races in `PyArray_UpdateFlags`",
+    "url": "https://github.com/numpy/numpy/issues/30540",
+    "created_at": "2025-12-29T12:20:45Z",
+    "user": "kumaraditya303",
+    "labels": [
+      "00 - Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3767288799,
+    "number": 31495,
+    "title": "[Bug]: GPT-OSS-120b giving incomplete responses with gibberish \\xa0\\u200b ending characters",
+    "url": "https://github.com/vllm-project/vllm/issues/31495",
+    "created_at": "2025-12-29T12:26:12Z",
+    "user": "rhajou",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3767301169,
+    "number": 22242,
+    "title": "New rule - Reimport detection",
+    "url": "https://github.com/astral-sh/ruff/issues/22242",
+    "created_at": "2025-12-29T12:31:57Z",
+    "user": "spaceby",
+    "labels": [
+      "rule",
+      "type-inference"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
