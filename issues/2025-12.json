@@ -41168,5 +41168,77 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3766689709,
+    "number": 16407,
+    "title": "examples/qualcomm/qaihub_scripts/stable_diffusion runtime error",
+    "url": "https://github.com/pytorch/executorch/issues/16407",
+    "created_at": "2025-12-29T07:43:07Z",
+    "user": "huahai2022",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3766725485,
+    "number": 7749,
+    "title": "[BUG] Grad norm value differs significantly across DeepSpeed version",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7749",
+    "created_at": "2025-12-29T08:04:05Z",
+    "user": "npurson",
+    "labels": [
+      "bug",
+      "training"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "id": 3766777754,
+    "number": 12899,
+    "title": "Training script of  z-image controlnet?",
+    "url": "https://github.com/huggingface/diffusers/issues/12899",
+    "created_at": "2025-12-29T08:30:09Z",
+    "user": "universewill",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766781207,
+    "number": 31483,
+    "title": "[RFC]: a efficient adaptive rejection sampling for accelerating speculative decoding.",
+    "url": "https://github.com/vllm-project/vllm/issues/31483",
+    "created_at": "2025-12-29T08:31:57Z",
+    "user": "sunchendd",
+    "labels": [
+      "RFC"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3766788806,
+    "number": 31484,
+    "title": "[Usage]: RuntimeError when running Qwen2.5-VL-7B-Instruct with vllm: Potential version incompatibility",
+    "url": "https://github.com/vllm-project/vllm/issues/31484",
+    "created_at": "2025-12-29T08:36:11Z",
+    "user": "puyuan1996",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
