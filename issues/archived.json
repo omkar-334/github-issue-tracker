@@ -1,14 +1,31 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 1564728691,
-    "number": 2402,
-    "title": "Implement remaining `pycodestyle` rules",
-    "url": "https://github.com/astral-sh/ruff/issues/2402",
-    "created_at": "2023-01-31T17:28:09Z",
-    "user": "charliermarsh",
+    "repo": "pytorch/pytorch",
+    "id": 2643565947,
+    "number": 140130,
+    "title": "[onnx] [njt] [feature request] Export NJT-enabled SDPA / MHA ops to ORT's PackingMode Attention",
+    "url": "https://github.com/pytorch/pytorch/issues/140130",
+    "created_at": "2024-11-08T10:18:00Z",
+    "user": "vadimkantorov",
     "labels": [
-      "plugin"
+      "module: onnx",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "openai/openai-python",
+    "id": 2731514170,
+    "number": 1937,
+    "title": "types: Missing type for batch request input and output objects",
+    "url": "https://github.com/openai/openai-python/issues/1937",
+    "created_at": "2024-12-11T00:14:04Z",
+    "user": "alugowski",
+    "labels": [
+      "enhancement",
+      "openapi"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

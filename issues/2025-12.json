@@ -43142,5 +43142,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771234584,
+    "number": 171537,
+    "title": "`torch.compile(dynamic=True)` + `torch.func` triggers internal assertion error.",
+    "url": "https://github.com/pytorch/pytorch/issues/171537",
+    "created_at": "2025-12-30T20:35:47Z",
+    "user": "rwkeane",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771252877,
+    "number": 171538,
+    "title": "[ONNX] fails with \"uninitialized initializer values\" for view/flatten/reduction operations",
+    "url": "https://github.com/pytorch/pytorch/issues/171538",
+    "created_at": "2025-12-30T20:45:02Z",
+    "user": "drewrobson",
+    "labels": [
+      "module: onnx",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3771280736,
+    "number": 1928,
+    "title": "it run good with ollama",
+    "url": "https://github.com/huggingface/smolagents/issues/1928",
+    "created_at": "2025-12-30T21:03:07Z",
+    "user": "kmnnmk212-source",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

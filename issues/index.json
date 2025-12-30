@@ -9508,6 +9508,26 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3088751266,
+      "number": 154312,
+      "title": "torch.logdet produces incorrect results for singular matrices on CUDA vs CPU",
+      "url": "https://github.com/pytorch/pytorch/issues/154312",
+      "created_at": "2025-05-24T21:25:59Z",
+      "user": "ChaitanyaRS06",
+      "labels": [
+        "high priority",
+        "module: cuda",
+        "triaged",
+        "module: NaNs and Infs",
+        "module: linear algebra",
+        "module: correctness (silent)"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/tokenizers",
       "id": 3089272885,
       "number": 1779,
@@ -106426,8 +106446,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771234584,
+      "number": 171537,
+      "title": "`torch.compile(dynamic=True)` + `torch.func` triggers internal assertion error.",
+      "url": "https://github.com/pytorch/pytorch/issues/171537",
+      "created_at": "2025-12-30T20:35:47Z",
+      "user": "rwkeane",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771252877,
+      "number": 171538,
+      "title": "[ONNX] fails with \"uninitialized initializer values\" for view/flatten/reduction operations",
+      "url": "https://github.com/pytorch/pytorch/issues/171538",
+      "created_at": "2025-12-30T20:45:02Z",
+      "user": "drewrobson",
+      "labels": [
+        "module: onnx",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/smolagents",
+      "id": 3771280736,
+      "number": 1928,
+      "title": "it run good with ollama",
+      "url": "https://github.com/huggingface/smolagents/issues/1928",
+      "created_at": "2025-12-30T21:03:07Z",
+      "user": "kmnnmk212-source",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T20:33:03Z",
-  "total_count": 7005
+  "last_updated": "2025-12-30T21:29:05Z",
+  "total_count": 7009
 }
