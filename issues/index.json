@@ -33990,6 +33990,25 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3497535646,
+      "number": 57589,
+      "title": "[Core] [RFC] Support Yuanrong-datasystem (huawei ascend version of nixl) as a new tensor transport backend",
+      "url": "https://github.com/ray-project/ray/issues/57589",
+      "created_at": "2025-10-09T03:48:06Z",
+      "user": "tianyi-ge",
+      "labels": [
+        "enhancement",
+        "P2",
+        "performance",
+        "core",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3497767358,
       "number": 18212,
@@ -58938,6 +58957,36 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3668636300,
+      "number": 29523,
+      "title": "[CI Failure]: mi325_4: Distributed Tests (4 GPUs)",
+      "url": "https://github.com/vllm-project/vllm/issues/29523",
+      "created_at": "2025-11-26T18:33:22Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668642865,
+      "number": 29525,
+      "title": "[CI Failure]: mi325_1: Quantization Test",
+      "url": "https://github.com/vllm-project/vllm/issues/29525",
+      "created_at": "2025-11-26T18:36:00Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3668649275,
       "number": 29526,
       "title": "[CI Failure]: mi325_1: Entrypoints Integration Test (Pooling)",
@@ -59011,6 +59060,22 @@
         "rllib",
         "usability",
         "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3668676826,
+      "number": 29529,
+      "title": "[CI Failure]: mi325_2: Distributed Tests (2 GPUs)",
+      "url": "https://github.com/vllm-project/vllm/issues/29529",
+      "created_at": "2025-11-26T18:49:43Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "rocm",
+        "ci-failure"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -105290,8 +105355,93 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3768987403,
+      "number": 59756,
+      "title": "[Data] Add an option to set override_num_blocks to match the number of files in file-based read APIs",
+      "url": "https://github.com/ray-project/ray/issues/59756",
+      "created_at": "2025-12-30T04:11:16Z",
+      "user": "wingkitlee0",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "id": 3769011312,
+      "number": 3896,
+      "title": "Fail to `load_state` immediately after `save_state` with FSDP plugins.",
+      "url": "https://github.com/huggingface/accelerate/issues/3896",
+      "created_at": "2025-12-30T04:25:13Z",
+      "user": "xiuqhou",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/ao",
+      "id": 3769024638,
+      "number": 3557,
+      "title": "Acc mismatch in tutorials",
+      "url": "https://github.com/pytorch/ao/issues/3557",
+      "created_at": "2025-12-30T04:32:10Z",
+      "user": "xiguadong",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3769071616,
+      "number": 171499,
+      "title": "bug in torch.stack a long 5d video and yields a misordered video output",
+      "url": "https://github.com/pytorch/pytorch/issues/171499",
+      "created_at": "2025-12-30T05:06:55Z",
+      "user": "ziyannchen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3769073806,
+      "number": 3827,
+      "title": "Bug: ...",
+      "url": "https://github.com/browser-use/browser-use/issues/3827",
+      "created_at": "2025-12-30T05:07:51Z",
+      "user": "hlpun",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "triton-lang/triton",
+      "id": 3769089996,
+      "number": 9122,
+      "title": "Triton frontend produces invalid IR when SSA value is defined inside constant-range loop and used after loop exit",
+      "url": "https://github.com/triton-lang/triton/issues/9122",
+      "created_at": "2025-12-30T05:16:39Z",
+      "user": "jikechao",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T04:07:11Z",
-  "total_count": 6930
+  "last_updated": "2025-12-30T05:32:24Z",
+  "total_count": 6940
 }

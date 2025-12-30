@@ -1774,6 +1774,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3497535646,
+    "number": 57589,
+    "title": "[Core] [RFC] Support Yuanrong-datasystem (huawei ascend version of nixl) as a new tensor transport backend",
+    "url": "https://github.com/ray-project/ray/issues/57589",
+    "created_at": "2025-10-09T03:48:06Z",
+    "user": "tianyi-ge",
+    "labels": [
+      "enhancement",
+      "P2",
+      "performance",
+      "core",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "mlflow/mlflow",
     "id": 3497767358,
     "number": 18212,
