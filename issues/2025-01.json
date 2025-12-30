@@ -176,6 +176,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2769798593,
+    "number": 144229,
+    "title": "Issues with onnx package for pytorch build in WIndows 11",
+    "url": "https://github.com/pytorch/pytorch/issues/144229",
+    "created_at": "2025-01-06T04:34:20Z",
+    "user": "jenetscaria-mcw",
+    "labels": [
+      "module: onnx",
+      "module: build",
+      "module: windows",
+      "triaged"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2770195436,
     "number": 22254,

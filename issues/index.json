@@ -192,6 +192,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2769798593,
+      "number": 144229,
+      "title": "Issues with onnx package for pytorch build in WIndows 11",
+      "url": "https://github.com/pytorch/pytorch/issues/144229",
+      "created_at": "2025-01-06T04:34:20Z",
+      "user": "jenetscaria-mcw",
+      "labels": [
+        "module: onnx",
+        "module: build",
+        "module: windows",
+        "triaged"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 2770195436,
       "number": 22254,
@@ -6741,6 +6759,21 @@
       "created_at": "2025-04-24T15:54:59Z",
       "user": "boris-lok-pentadoc",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3018042981,
+      "number": 9309,
+      "title": "Chat generators or Agent should work intelligently around rate limits",
+      "url": "https://github.com/deepset-ai/haystack/issues/9309",
+      "created_at": "2025-04-24T17:56:31Z",
+      "user": "mathislucka",
+      "labels": [
+        "P2"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -104979,6 +105012,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/transformers",
+      "id": 3767691311,
+      "number": 43066,
+      "title": "Wrong tokenizer decoder type in Transformers v5",
+      "url": "https://github.com/huggingface/transformers/issues/43066",
+      "created_at": "2025-12-29T15:31:04Z",
+      "user": "awni",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "numpy/numpy",
       "id": 3767738003,
       "number": 30543,
@@ -105964,8 +106012,64 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "meta-pytorch/torchrec",
+      "id": 3769898741,
+      "number": 3643,
+      "title": "BUG: Unknown type name '__torch__.torch.classes.fbgemm.AtomicCounter'",
+      "url": "https://github.com/meta-pytorch/torchrec/issues/3643",
+      "created_at": "2025-12-30T11:33:33Z",
+      "user": "intfish123",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "chroma-core/chroma",
+      "id": 3769933294,
+      "number": 6098,
+      "title": "[Bug]: posthog is destroying chromadb performance",
+      "url": "https://github.com/chroma-core/chroma/issues/6098",
+      "created_at": "2025-12-30T11:51:16Z",
+      "user": "pourquoi42",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3769942895,
+      "number": 12903,
+      "title": "[Feature Request] Add Implement of 'Kuramoto Orientation Diffusion'",
+      "url": "https://github.com/huggingface/diffusers/issues/12903",
+      "created_at": "2025-12-30T11:55:32Z",
+      "user": "Bili-Sakura",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3770100154,
+      "number": 30911,
+      "title": "[MNT]: move Windows tests to GitHub Actions?",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30911",
+      "created_at": "2025-12-30T12:47:46Z",
+      "user": "rcomer",
+      "labels": [
+        "Maintenance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T11:28:06Z",
-  "total_count": 6975
+  "last_updated": "2025-12-30T12:57:48Z",
+  "total_count": 6982
 }
