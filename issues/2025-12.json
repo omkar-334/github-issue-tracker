@@ -43000,5 +43000,50 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "jax-ml/jax",
+    "id": 3770728607,
+    "number": 34124,
+    "title": "Improve __repr__ for jax.nn functions and initializers",
+    "url": "https://github.com/jax-ml/jax/issues/34124",
+    "created_at": "2025-12-30T16:48:24Z",
+    "user": "hamzamerzic",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3770732447,
+    "number": 3807,
+    "title": "Fail to finetune Qwen3-VL-30B-A3B-Instruct",
+    "url": "https://github.com/unslothai/unsloth/issues/3807",
+    "created_at": "2025-12-30T16:50:04Z",
+    "user": "justStarG",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "py-why/dowhy",
+    "id": 3770792941,
+    "number": 1379,
+    "title": "Is the dowhy example with the Lalonde data really useful to test the library?",
+    "url": "https://github.com/py-why/dowhy/issues/1379",
+    "created_at": "2025-12-30T17:13:55Z",
+    "user": "davideC00",
+    "labels": [
+      "question"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

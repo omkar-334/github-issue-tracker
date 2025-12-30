@@ -15,30 +15,32 @@
     "archived": true
   },
   {
-    "repo": "keras-team/keras",
-    "id": 2254529820,
-    "number": 19571,
-    "title": "MLX Backend ",
-    "url": "https://github.com/keras-team/keras/issues/19571",
-    "created_at": "2024-04-20T12:26:19Z",
-    "user": "lkarthee",
+    "repo": "prefecthq/prefect",
+    "id": 2629255131,
+    "number": 15906,
+    "title": "Opsgenie Transition to Jira Service Management - update/add block to reflect",
+    "url": "https://github.com/PrefectHQ/prefect/issues/15906",
+    "created_at": "2024-11-01T15:19:07Z",
+    "user": "jbnitorum",
     "labels": [
-      "stat:contributions welcome"
+      "enhancement"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 2591796376,
-    "number": 28983,
-    "title": "[Doc]: outdated links for violin/boxplot",
-    "url": "https://github.com/matplotlib/matplotlib/issues/28983",
-    "created_at": "2024-10-16T12:50:26Z",
-    "user": "rcomer",
+    "repo": "scipy/scipy",
+    "id": 2759085097,
+    "number": 22188,
+    "title": "BUG: optimize.milp: segfault from HiGHS",
+    "url": "https://github.com/scipy/scipy/issues/22188",
+    "created_at": "2024-12-25T20:37:15Z",
+    "user": "coreyhahn",
     "labels": [
-      "Documentation"
+      "defect",
+      "scipy.optimize",
+      "upstream bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
