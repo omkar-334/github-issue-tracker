@@ -7476,6 +7476,22 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3629388594,
+    "number": 58665,
+    "title": "Ray Data Q4 Roadmap + Wishlist",
+    "url": "https://github.com/ray-project/ray/issues/58665",
+    "created_at": "2025-11-15T22:55:05Z",
+    "user": "richardliaw",
+    "labels": [
+      "enhancement",
+      "data"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3629701098,
     "number": 3648,

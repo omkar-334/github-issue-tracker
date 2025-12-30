@@ -943,6 +943,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2995500087,
+    "number": 16646,
+    "title": "[Bug]: using TP = 16 to serving deepseek-v3 in 2*H20 On Ray cluster,  get EngineCore exception",
+    "url": "https://github.com/vllm-project/vllm/issues/16646",
+    "created_at": "2025-04-15T07:48:41Z",
+    "user": "Oneal65",
+    "labels": [
+      "bug",
+      "ray",
+      "unstale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 2995862277,
     "number": 3175,

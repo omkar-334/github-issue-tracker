@@ -6090,6 +6090,23 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2995500087,
+      "number": 16646,
+      "title": "[Bug]: using TP = 16 to serving deepseek-v3 in 2*H20 On Ray cluster,  get EngineCore exception",
+      "url": "https://github.com/vllm-project/vllm/issues/16646",
+      "created_at": "2025-04-15T07:48:41Z",
+      "user": "Oneal65",
+      "labels": [
+        "bug",
+        "ray",
+        "unstale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 2995862277,
       "number": 3175,
@@ -49308,6 +49325,22 @@
       "created_at": "2025-11-15T21:48:00Z",
       "user": "naman9271",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3629388594,
+      "number": 58665,
+      "title": "Ray Data Q4 Roadmap + Wishlist",
+      "url": "https://github.com/ray-project/ray/issues/58665",
+      "created_at": "2025-11-15T22:55:05Z",
+      "user": "richardliaw",
+      "labels": [
+        "enhancement",
+        "data"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -105751,8 +105784,127 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/ignite",
+      "id": 3769608057,
+      "number": 3476,
+      "title": "Inconsistent exception handling behaviour",
+      "url": "https://github.com/pytorch/ignite/issues/3476",
+      "created_at": "2025-12-30T09:30:29Z",
+      "user": "qwfy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3769634380,
+      "number": 31526,
+      "title": "[Bug]: kv_connector.get_block_ids_with_load_errors fails to capture load errors in PD separation scenario when P-side uses layer_wise KV cache loading",
+      "url": "https://github.com/vllm-project/vllm/issues/31526",
+      "created_at": "2025-12-30T09:39:48Z",
+      "user": "SpecterCipher",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3769648885,
+      "number": 171519,
+      "title": "DISABLED test_decompose_k_custom_op_autotune_dynamic_config_for_input_shape (__main__.TestCustomOpAutoTune)",
+      "url": "https://github.com/pytorch/pytorch/issues/171519",
+      "created_at": "2025-12-30T09:45:38Z",
+      "user": "jataylo",
+      "labels": [
+        "module: rocm",
+        "skipped"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3769652173,
+      "number": 7752,
+      "title": "[BUG] IndexError in BF16_Optimizer.destroy() when optimizer=None (DummyOptim)",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7752",
+      "created_at": "2025-12-30T09:47:05Z",
+      "user": "ptx9363",
+      "labels": [
+        "bug",
+        "inference"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3769658685,
+      "number": 59762,
+      "title": "[Data] Support label scheduling when using Ray Data",
+      "url": "https://github.com/ray-project/ray/issues/59762",
+      "created_at": "2025-12-30T09:49:43Z",
+      "user": "KunWuLuan",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3769700491,
+      "number": 1580,
+      "title": "[MNT] Refactor `run_flow_on_task`-function",
+      "url": "https://github.com/openml/openml-python/issues/1580",
+      "created_at": "2025-12-30T10:05:17Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3769712714,
+      "number": 19691,
+      "title": "[BUG] Static prefix not applied to health/auth route checks causing 401/403 on /<prefix>/health",
+      "url": "https://github.com/mlflow/mlflow/issues/19691",
+      "created_at": "2025-12-30T10:11:05Z",
+      "user": "voyc-cameron",
+      "labels": [
+        "bug",
+        "area/uiux",
+        "area/tracking"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3769714946,
+      "number": 1581,
+      "title": "[MNT] Replace Assert Statements with Proper Exceptions",
+      "url": "https://github.com/openml/openml-python/issues/1581",
+      "created_at": "2025-12-30T10:12:15Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T09:34:40Z",
-  "total_count": 6961
+  "last_updated": "2025-12-30T10:33:34Z",
+  "total_count": 6971
 }
