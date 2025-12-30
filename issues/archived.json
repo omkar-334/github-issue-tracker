@@ -16,6 +16,22 @@
     "archived": true
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 1920892582,
+    "number": 7742,
+    "title": "Extend `no-return-argument-annotation-in-stub` (`PYI050`) to all name annotations and non-stub files",
+    "url": "https://github.com/astral-sh/ruff/issues/7742",
+    "created_at": "2023-10-01T18:01:27Z",
+    "user": "tjkuson",
+    "labels": [
+      "rule",
+      "needs-decision"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 2761360031,
     "number": 10089,
@@ -26,6 +42,36 @@
     "labels": [
       "type:enhancement",
       "feature:st.session_state"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2762309859,
+    "number": 2285,
+    "title": "manim",
+    "url": "https://github.com/3b1b/manim/issues/2285",
+    "created_at": "2024-12-29T16:02:58Z",
+    "user": "Lucky-hk",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2762426184,
+    "number": 2286,
+    "title": "Docs: Installation for MacOS + conda says to use Python 3.8, but installation fails unless a newer version of python is used",
+    "url": "https://github.com/3b1b/manim/issues/2286",
+    "created_at": "2024-12-29T22:24:17Z",
+    "user": "jcowles",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

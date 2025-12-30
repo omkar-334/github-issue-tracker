@@ -4961,6 +4961,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3693301398,
+    "number": 30031,
+    "title": "[Bug]: Error occurred when I run an simple command: \"TORCH_USE_CUDA_DSA=1 LMCACHE_CHUNK_SIZE=8 vllm serve /home/nbw/model/Qwen2-0.5B/  --port 8000 --kv-transfer-config '{\"kv_connector\":\"LMCacheConnectorV1\", \"kv_role\":\"kv_both\"}'\"",
+    "url": "https://github.com/vllm-project/vllm/issues/30031",
+    "created_at": "2025-12-04T07:29:33Z",
+    "user": "niebowen666",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3693350246,
     "number": 34200,
@@ -42055,6 +42070,81 @@
     "created_at": "2025-12-29T23:17:52Z",
     "user": "RichardHightower",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3768575977,
+    "number": 59749,
+    "title": "[Serve] user logs from deployment require ray.serve namespace",
+    "url": "https://github.com/ray-project/ray/issues/59749",
+    "created_at": "2025-12-29T23:56:45Z",
+    "user": "abrarsheikh",
+    "labels": [
+      "serve",
+      "usability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3768583198,
+    "number": 59750,
+    "title": "[Serve] limit num_workers in replica's ThreadPoolExecutor to num_cpus",
+    "url": "https://github.com/ray-project/ray/issues/59750",
+    "created_at": "2025-12-29T23:59:44Z",
+    "user": "abrarsheikh",
+    "labels": [
+      "serve",
+      "performance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3768589576,
+    "number": 171488,
+    "title": "global dict initialization cause recompilation",
+    "url": "https://github.com/pytorch/pytorch/issues/171488",
+    "created_at": "2025-12-30T00:02:48Z",
+    "user": "guilhermeleobas",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/executorch",
+    "id": 3768709438,
+    "number": 16411,
+    "title": "Errors while trying to create a .pte file for gemma 3",
+    "url": "https://github.com/pytorch/executorch/issues/16411",
+    "created_at": "2025-12-30T01:20:22Z",
+    "user": "Himanshunitrr",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3768741408,
+    "number": 171493,
+    "title": "incorrect fusion and re-ordering of an index_add",
+    "url": "https://github.com/pytorch/pytorch/issues/171493",
+    "created_at": "2025-12-30T01:46:11Z",
+    "user": "sef43",
+    "labels": [
+      "oncall: pt2"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

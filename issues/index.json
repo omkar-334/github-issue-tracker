@@ -1,36 +1,6 @@
 {
   "issues": [
     {
-      "repo": "3b1b/manim",
-      "id": 2762309859,
-      "number": 2285,
-      "title": "manim",
-      "url": "https://github.com/3b1b/manim/issues/2285",
-      "created_at": "2024-12-29T16:02:58Z",
-      "user": "Lucky-hk",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "3b1b/manim",
-      "id": 2762426184,
-      "number": 2286,
-      "title": "Docs: Installation for MacOS + conda says to use Python 3.8, but installation fails unless a newer version of python is used",
-      "url": "https://github.com/3b1b/manim/issues/2286",
-      "created_at": "2024-12-29T22:24:17Z",
-      "user": "jcowles",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "huggingface/optimum",
       "id": 2762992528,
       "number": 2140,
@@ -5656,6 +5626,22 @@
       "user": "ZzEeKkAa",
       "labels": [
         "bug - miscompile"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 2982986083,
+      "number": 22819,
+      "title": "BUG: `stats.qmc.PoissonDisk`: overlapping sampling for negative `l_bounds`, `u_bounds`",
+      "url": "https://github.com/scipy/scipy/issues/22819",
+      "created_at": "2025-04-09T14:18:47Z",
+      "user": "Togela",
+      "labels": [
+        "defect",
+        "scipy.stats"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17152,6 +17138,22 @@
       "created_at": "2025-07-26T13:40:23Z",
       "user": "rishabh16196",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3265840373,
+      "number": 23390,
+      "title": "BUG: stats.sampling: segfault in various classes on osx-arm64",
+      "url": "https://github.com/scipy/scipy/issues/23390",
+      "created_at": "2025-07-26T16:03:40Z",
+      "user": "math-hiyoko",
+      "labels": [
+        "defect",
+        "scipy.stats"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -54438,6 +54440,23 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3653713078,
+      "number": 22751,
+      "title": "image2mask",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22751",
+      "created_at": "2025-11-22T02:47:21Z",
+      "user": "hcscysh",
+      "labels": [
+        "question",
+        "Stale",
+        "segment"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3653774988,
       "number": 12697,
@@ -56378,6 +56397,24 @@
       "labels": [
         "bug",
         "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3662926586,
+      "number": 22795,
+      "title": "Making a standalone YOLOv11 architecture. How to do it? (may apply to other Ultralytics YOLO series)",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22795",
+      "created_at": "2025-11-25T12:44:05Z",
+      "user": "DWSuryo",
+      "labels": [
+        "question",
+        "Stale",
+        "detect",
+        "advice needed"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -60463,6 +60500,23 @@
       "labels": [
         "bug",
         "mlops user request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3673906213,
+      "number": 22828,
+      "title": "How to reduce GFLOPs in custom YOLOv8? + Can I run a full custom model in one .py file?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22828",
+      "created_at": "2025-11-28T07:27:04Z",
+      "user": "KeyzCoder",
+      "labels": [
+        "question",
+        "Stale",
+        "advice needed"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -67335,6 +67389,21 @@
       "created_at": "2025-12-04T07:27:43Z",
       "user": "WhoisZihan",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3693301398,
+      "number": 30031,
+      "title": "[Bug]: Error occurred when I run an simple command: \"TORCH_USE_CUDA_DSA=1 LMCACHE_CHUNK_SIZE=8 vllm serve /home/nbw/model/Qwen2-0.5B/  --port 8000 --kv-transfer-config '{\"kv_connector\":\"LMCacheConnectorV1\", \"kv_role\":\"kv_both\"}'\"",
+      "url": "https://github.com/vllm-project/vllm/issues/30031",
+      "created_at": "2025-12-04T07:29:33Z",
+      "user": "niebowen666",
+      "labels": [
+        "bug"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -104453,8 +104522,83 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3768575977,
+      "number": 59749,
+      "title": "[Serve] user logs from deployment require ray.serve namespace",
+      "url": "https://github.com/ray-project/ray/issues/59749",
+      "created_at": "2025-12-29T23:56:45Z",
+      "user": "abrarsheikh",
+      "labels": [
+        "serve",
+        "usability"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3768583198,
+      "number": 59750,
+      "title": "[Serve] limit num_workers in replica's ThreadPoolExecutor to num_cpus",
+      "url": "https://github.com/ray-project/ray/issues/59750",
+      "created_at": "2025-12-29T23:59:44Z",
+      "user": "abrarsheikh",
+      "labels": [
+        "serve",
+        "performance"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3768589576,
+      "number": 171488,
+      "title": "global dict initialization cause recompilation",
+      "url": "https://github.com/pytorch/pytorch/issues/171488",
+      "created_at": "2025-12-30T00:02:48Z",
+      "user": "guilhermeleobas",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3768709438,
+      "number": 16411,
+      "title": "Errors while trying to create a .pte file for gemma 3",
+      "url": "https://github.com/pytorch/executorch/issues/16411",
+      "created_at": "2025-12-30T01:20:22Z",
+      "user": "Himanshunitrr",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3768741408,
+      "number": 171493,
+      "title": "incorrect fusion and re-ordering of an index_add",
+      "url": "https://github.com/pytorch/pytorch/issues/171493",
+      "created_at": "2025-12-30T01:46:11Z",
+      "user": "sef43",
+      "labels": [
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-29T23:28:27Z",
-  "total_count": 6877
+  "last_updated": "2025-12-30T02:05:05Z",
+  "total_count": 6886
 }

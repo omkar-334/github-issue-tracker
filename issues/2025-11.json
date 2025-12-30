@@ -13204,6 +13204,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3653713078,
+    "number": 22751,
+    "title": "image2mask",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22751",
+    "created_at": "2025-11-22T02:47:21Z",
+    "user": "hcscysh",
+    "labels": [
+      "question",
+      "Stale",
+      "segment"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/diffusers",
     "id": 3653774988,
     "number": 12697,
@@ -15144,6 +15161,24 @@
     "labels": [
       "bug",
       "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3662926586,
+    "number": 22795,
+    "title": "Making a standalone YOLOv11 architecture. How to do it? (may apply to other Ultralytics YOLO series)",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22795",
+    "created_at": "2025-11-25T12:44:05Z",
+    "user": "DWSuryo",
+    "labels": [
+      "question",
+      "Stale",
+      "detect",
+      "advice needed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -19229,6 +19264,23 @@
     "labels": [
       "bug",
       "mlops user request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3673906213,
+    "number": 22828,
+    "title": "How to reduce GFLOPs in custom YOLOv8? + Can I run a full custom model in one .py file?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22828",
+    "created_at": "2025-11-28T07:27:04Z",
+    "user": "KeyzCoder",
+    "labels": [
+      "question",
+      "Stale",
+      "advice needed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

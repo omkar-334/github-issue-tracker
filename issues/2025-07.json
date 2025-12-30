@@ -3965,6 +3965,22 @@
     "archived": false
   },
   {
+    "repo": "scipy/scipy",
+    "id": 3265840373,
+    "number": 23390,
+    "title": "BUG: stats.sampling: segfault in various classes on osx-arm64",
+    "url": "https://github.com/scipy/scipy/issues/23390",
+    "created_at": "2025-07-26T16:03:40Z",
+    "user": "math-hiyoko",
+    "labels": [
+      "defect",
+      "scipy.stats"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3265967562,
     "number": 12045,
