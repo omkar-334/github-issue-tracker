@@ -38941,6 +38941,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3553188614,
+      "number": 27519,
+      "title": "[Bug]: torch._dynamo.exc.FailOnRecompileLimitHit: recompile_limit reached with fullgraph=True on 2x RTX2080Ti",
+      "url": "https://github.com/vllm-project/vllm/issues/27519",
+      "created_at": "2025-10-26T02:05:57Z",
+      "user": "ir1ka",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/sktime",
       "id": 3553298082,
       "number": 9005,
@@ -105096,6 +105111,25 @@
       "archived": false
     },
     {
+      "repo": "pola-rs/polars",
+      "id": 3768462081,
+      "number": 25899,
+      "title": "`read_ndjson` cannot read `u64` not representable as `i64`",
+      "url": "https://github.com/pola-rs/polars/issues/25899",
+      "created_at": "2025-12-29T22:26:14Z",
+      "user": "adienes",
+      "labels": [
+        "bug",
+        "python",
+        "accepted",
+        "P-medium",
+        "A-io-json"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "mlflow/mlflow",
       "id": 3768532654,
       "number": 19679,
@@ -105440,8 +105474,36 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3769168100,
+      "number": 171505,
+      "title": "PyTorch `torch.sparse.spdiags` fails when target shape contains zero dimension",
+      "url": "https://github.com/pytorch/pytorch/issues/171505",
+      "created_at": "2025-12-30T05:55:59Z",
+      "user": "KnightGOKU",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3769259637,
+      "number": 3828,
+      "title": "bu-30b-a3b-preview  output error",
+      "url": "https://github.com/browser-use/browser-use/issues/3828",
+      "created_at": "2025-12-30T06:38:54Z",
+      "user": "scorpiord",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T05:32:24Z",
-  "total_count": 6940
+  "last_updated": "2025-12-30T06:43:43Z",
+  "total_count": 6944
 }
