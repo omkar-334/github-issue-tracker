@@ -221,6 +221,26 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3194253357,
+    "number": 157417,
+    "title": "einops 0.6.1 x torch.compile broken in pytorch nightlies",
+    "url": "https://github.com/pytorch/pytorch/issues/157417",
+    "created_at": "2025-07-02T01:49:54Z",
+    "user": "zou3519",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: dynamic shapes",
+      "module: dynamo",
+      "dynamo-triage-dec2025"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3194389729,
     "number": 3416,
@@ -2559,6 +2579,22 @@
       "core",
       "core-scheduler",
       "stability"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3242835705,
+    "number": 21180,
+    "title": "[Bug]: Dockerfile consolidation",
+    "url": "https://github.com/vllm-project/vllm/issues/21180",
+    "created_at": "2025-07-18T10:58:19Z",
+    "user": "ericcurtin",
+    "labels": [
+      "bug",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

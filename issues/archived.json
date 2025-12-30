@@ -1,15 +1,15 @@
 [
   {
-    "repo": "scipy/scipy",
-    "id": 1522933817,
-    "number": 17738,
-    "title": "DOC: stats: Unexpected warning from Sphinx from a reference in a 'See Also' section",
-    "url": "https://github.com/scipy/scipy/issues/17738",
-    "created_at": "2023-01-06T17:49:59Z",
-    "user": "WarrenWeckesser",
+    "repo": "matplotlib/matplotlib",
+    "id": 894199976,
+    "number": 20255,
+    "title": "Prevent tick overstriking in polar axisartist axes.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20255",
+    "created_at": "2021-05-18T09:55:09Z",
+    "user": "anntzer",
     "labels": [
-      "scipy.stats",
-      "Documentation"
+      "New feature",
+      "topic: mpl_toolkit"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -17,62 +17,41 @@
   },
   {
     "repo": "astral-sh/ruff",
-    "id": 1920892582,
-    "number": 7742,
-    "title": "Extend `no-return-argument-annotation-in-stub` (`PYI050`) to all name annotations and non-stub files",
-    "url": "https://github.com/astral-sh/ruff/issues/7742",
-    "created_at": "2023-10-01T18:01:27Z",
-    "user": "tjkuson",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "rule",
-      "needs-decision"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "streamlit/streamlit",
-    "id": 2761360031,
-    "number": 10089,
-    "title": "Session State convenience function for initialization",
-    "url": "https://github.com/streamlit/streamlit/issues/10089",
-    "created_at": "2024-12-28T00:02:20Z",
-    "user": "sfc-gh-dmatthews",
-    "labels": [
-      "type:enhancement",
-      "feature:st.session_state"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "3b1b/manim",
-    "id": 2762309859,
-    "number": 2285,
-    "title": "manim",
-    "url": "https://github.com/3b1b/manim/issues/2285",
-    "created_at": "2024-12-29T16:02:58Z",
-    "user": "Lucky-hk",
-    "labels": [
-      "bug"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "3b1b/manim",
-    "id": 2762426184,
-    "number": 2286,
-    "title": "Docs: Installation for MacOS + conda says to use Python 3.8, but installation fails unless a newer version of python is used",
-    "url": "https://github.com/3b1b/manim/issues/2286",
-    "created_at": "2024-12-29T22:24:17Z",
-    "user": "jcowles",
-    "labels": [
-      "bug"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

@@ -1926,6 +1926,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3593485661,
+    "number": 167170,
+    "title": "[XPU][Tracker] Enable `torch._scaled_matmul`",
+    "url": "https://github.com/pytorch/pytorch/issues/167170",
+    "created_at": "2025-11-06T01:42:16Z",
+    "user": "Stonepia",
+    "labels": [
+      "triaged",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3593535069,
     "number": 12956,
@@ -17079,6 +17095,21 @@
     "title": "[CI Failure]: mi325_1: Multi-Modal Models Test (Standard)",
     "url": "https://github.com/vllm-project/vllm/issues/29520",
     "created_at": "2025-11-26T18:24:37Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3668615113,
+    "number": 29521,
+    "title": "[CI Failure]: mi325_1: Samplers Test",
+    "url": "https://github.com/vllm-project/vllm/issues/29521",
+    "created_at": "2025-11-26T18:26:45Z",
     "user": "AndreasKaratzas",
     "labels": [
       "ci-failure"

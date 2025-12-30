@@ -49,6 +49,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3372074857,
+    "number": 24039,
+    "title": "[Usage]: how to disable thinking for different model",
+    "url": "https://github.com/vllm-project/vllm/issues/24039",
+    "created_at": "2025-09-01T10:05:52Z",
+    "user": "jiangix-paper",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3372140622,
     "number": 14129,
@@ -2949,6 +2965,23 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3401173720,
+    "number": 24563,
+    "title": "[Usage]: Multiple vLLM processes with different ports on a Ray cluster",
+    "url": "https://github.com/vllm-project/vllm/issues/24563",
+    "created_at": "2025-09-10T06:58:22Z",
+    "user": "toshohirasawa",
+    "labels": [
+      "usage",
+      "ray",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3401182957,
     "number": 3145,
@@ -4449,6 +4482,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3413614543,
+    "number": 24807,
+    "title": "[Installation]: Errors when compiling VLLM from source | pytorch-cuda12.6-cudnn9",
+    "url": "https://github.com/vllm-project/vllm/issues/24807",
+    "created_at": "2025-09-13T14:35:30Z",
+    "user": "Lyken17",
+    "labels": [
+      "installation",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3413936907,
     "number": 960,
@@ -4688,6 +4737,22 @@
     "created_at": "2025-09-15T09:46:40Z",
     "user": "sampathreddyk84",
     "labels": [
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3417218215,
+    "number": 24869,
+    "title": "[Installation]: Assertion Error while serving vllm due to this error : assert param_data.shape == loaded_weight.shape ",
+    "url": "https://github.com/vllm-project/vllm/issues/24869",
+    "created_at": "2025-09-15T10:00:33Z",
+    "user": "VarunUpadhyayShorthillsAI",
+    "labels": [
+      "installation",
       "stale"
     ],
     "has_linked_pr": false,
@@ -6743,6 +6808,22 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3437827627,
+    "number": 25333,
+    "title": "[Bug]: Accuracy Discrepancy in Qwen 4B Embeddings: vLLM vs. Transformers",
+    "url": "https://github.com/vllm-project/vllm/issues/25333",
+    "created_at": "2025-09-21T05:07:31Z",
+    "user": "Alireza3242",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3437975826,
     "number": 25336,
     "title": "[Bug]: metrics",
@@ -7198,6 +7279,23 @@
     "user": "mpjlu",
     "labels": [
       "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3444124670,
+    "number": 25462,
+    "title": "[Usage]: How Do I use Ray to deploy a multi node TP Disaggregated Prefilling ?",
+    "url": "https://github.com/vllm-project/vllm/issues/25462",
+    "created_at": "2025-09-23T07:53:14Z",
+    "user": "yangqinghao-cmss",
+    "labels": [
+      "usage",
+      "ray",
       "stale"
     ],
     "has_linked_pr": false,
@@ -8630,6 +8728,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3459656747,
+    "number": 25797,
+    "title": "[Bug]: Qwen3-Next-80B-A3B-Instruct-AWQ-4bit KeyError: 'layers.45.mlp.shared_expert.down_proj.weight'",
+    "url": "https://github.com/vllm-project/vllm/issues/25797",
+    "created_at": "2025-09-27T03:34:56Z",
+    "user": "xibaoning",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/sentence-transformers",
     "id": 3459974152,
     "number": 3531,
@@ -8689,6 +8803,54 @@
       "usability",
       "core",
       "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3460968675,
+    "number": 25815,
+    "title": "[Performance]: PD Disaggregate deployment  performance issue",
+    "url": "https://github.com/vllm-project/vllm/issues/25815",
+    "created_at": "2025-09-28T02:23:35Z",
+    "user": "wangxiyuan",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3461167640,
+    "number": 25822,
+    "title": "[RFC][Plugin]: support loading kernels from other place",
+    "url": "https://github.com/vllm-project/vllm/issues/25822",
+    "created_at": "2025-09-28T06:26:02Z",
+    "user": "ILikeIneine",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3461785225,
+    "number": 25836,
+    "title": "[Usage]: how to deploy my own multimodal model",
+    "url": "https://github.com/vllm-project/vllm/issues/25836",
+    "created_at": "2025-09-28T12:43:08Z",
+    "user": "AdvancedBot",
+    "labels": [
+      "usage",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -8761,6 +8923,22 @@
     "created_at": "2025-09-29T07:27:26Z",
     "user": "tiankongdeguiji",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3463894322,
+    "number": 25865,
+    "title": "[Bug]: vLLM recognize the bge-m3-korean (embedding model) max length, 512 tokens.",
+    "url": "https://github.com/vllm-project/vllm/issues/25865",
+    "created_at": "2025-09-29T08:49:21Z",
+    "user": "bnuazz15",
+    "labels": [
+      "bug",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -8962,6 +9140,38 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3466122655,
+    "number": 25898,
+    "title": "[Usage]: How to disable the use of chat_template in vllm serve?",
+    "url": "https://github.com/vllm-project/vllm/issues/25898",
+    "created_at": "2025-09-29T18:28:01Z",
+    "user": "noforit",
+    "labels": [
+      "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3466676384,
+    "number": 25907,
+    "title": "[Bug]: qwen3-next CUDA illegal memory access",
+    "url": "https://github.com/vllm-project/vllm/issues/25907",
+    "created_at": "2025-09-29T21:27:17Z",
+    "user": "felixzhu555",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/ao",
     "id": 3466730802,
     "number": 3097,
@@ -9008,6 +9218,70 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3467077530,
+    "number": 25915,
+    "title": "[Performance]: Limited improvements when compared Qwen3 / Qwen3-FP8",
+    "url": "https://github.com/vllm-project/vllm/issues/25915",
+    "created_at": "2025-09-30T00:25:03Z",
+    "user": "Lyken17",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3467331700,
+    "number": 25919,
+    "title": "[Feature]: Upstream some unsloth patches if possible",
+    "url": "https://github.com/vllm-project/vllm/issues/25919",
+    "created_at": "2025-09-30T02:59:43Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3467335539,
+    "number": 25920,
+    "title": "[Bug]: Running qwen3-235b in full graph mode with dp4tp4 and disable chunked_prefill will cause  inference hang",
+    "url": "https://github.com/vllm-project/vllm/issues/25920",
+    "created_at": "2025-09-30T03:02:00Z",
+    "user": "wjx-xin",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3467652395,
+    "number": 25927,
+    "title": "[Feature]: Support EAGLE3 for Qwen3-30B-A3B",
+    "url": "https://github.com/vllm-project/vllm/issues/25927",
+    "created_at": "2025-09-30T05:38:49Z",
+    "user": "lionsheep0724",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3467827198,
     "number": 3211,
@@ -9017,6 +9291,22 @@
     "user": "Tanky-Zhang",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3467871793,
+    "number": 25934,
+    "title": "[Feature]: Jet nemotron models",
+    "url": "https://github.com/vllm-project/vllm/issues/25934",
+    "created_at": "2025-09-30T07:02:10Z",
+    "user": "arunpatala",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9053,6 +9343,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3468230575,
+    "number": 25939,
+    "title": "[RFC][P/D]: Support hybrid and flexible KV Cache transfer timing & pathway at request-level",
+    "url": "https://github.com/vllm-project/vllm/issues/25939",
+    "created_at": "2025-09-30T08:45:13Z",
+    "user": "Shirley1Huang",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "browser-use/browser-use",
     "id": 3468262220,
     "number": 3212,
@@ -9062,6 +9368,22 @@
     "user": "wcbzcy",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3468296918,
+    "number": 25940,
+    "title": "[Feature]: image2text supports SVG image",
+    "url": "https://github.com/vllm-project/vllm/issues/25940",
+    "created_at": "2025-09-30T09:02:17Z",
+    "user": "jfcherng",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9105,6 +9427,22 @@
     "user": "huozuo",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3468574279,
+    "number": 25943,
+    "title": "[Feature]: Disable ANSII colors in logs of OpenAI compatible server",
+    "url": "https://github.com/vllm-project/vllm/issues/25943",
+    "created_at": "2025-09-30T09:59:49Z",
+    "user": "apohllo",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9161,6 +9499,22 @@
     "user": "FredHaa",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3469907346,
+    "number": 25957,
+    "title": "[Feature]: Upgrade as many vLLM built-in logits processors to the new logits processors programming model as possible",
+    "url": "https://github.com/vllm-project/vllm/issues/25957",
+    "created_at": "2025-09-30T14:57:05Z",
+    "user": "afeldman-nm",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -9248,6 +9602,39 @@
     "created_at": "2025-09-30T18:35:41Z",
     "user": "Roadsong",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3470816969,
+    "number": 25979,
+    "title": "[Bug]: EAGLE3 gpt-oss eagle3 failed on high concurrencies",
+    "url": "https://github.com/vllm-project/vllm/issues/25979",
+    "created_at": "2025-09-30T19:30:40Z",
+    "user": "jiahanc",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3471025500,
+    "number": 25985,
+    "title": "[Bug]: IMA with the prefix_prefill::context_attention_fwd kernel when capturing full cudagraphs",
+    "url": "https://github.com/vllm-project/vllm/issues/25985",
+    "created_at": "2025-09-30T20:47:37Z",
+    "user": "SageMoore",
+    "labels": [
+      "bug",
+      "rocm",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

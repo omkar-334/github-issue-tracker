@@ -442,6 +442,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3046676171,
+    "number": 17812,
+    "title": "[Benchmark][V1][Spec Decode][EAGLE] Tracking benchmark for V1 EAGLE",
+    "url": "https://github.com/vllm-project/vllm/issues/17812",
+    "created_at": "2025-05-07T17:24:14Z",
+    "user": "ekagra-ranjan",
+    "labels": [
+      "performance",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numba/numba",
     "id": 3046948378,
     "number": 10066,
@@ -762,6 +778,22 @@
     "user": "tjohnson31415",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3053506178,
+    "number": 17931,
+    "title": "invalid conversion from ‘int’ to ‘CUresult’ {aka ‘cudaError_enum’}",
+    "url": "https://github.com/vllm-project/vllm/issues/17931",
+    "created_at": "2025-05-10T01:26:17Z",
+    "user": "xxm1668",
+    "labels": [
+      "installation",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -1580,6 +1612,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3075249738,
+    "number": 18372,
+    "title": "[Bug]: Dynamic loading LoRA is not working properly",
+    "url": "https://github.com/vllm-project/vllm/issues/18372",
+    "created_at": "2025-05-19T23:50:21Z",
+    "user": "DonghoKang",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3075412665,
     "number": 3233,
@@ -1983,6 +2031,22 @@
     "created_at": "2025-05-22T17:14:14Z",
     "user": "okwilkins",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3084612740,
+    "number": 18571,
+    "title": "[RFC]: Deprecating vLLM V0",
+    "url": "https://github.com/vllm-project/vllm/issues/18571",
+    "created_at": "2025-05-22T21:45:16Z",
+    "user": "WoosukKwon",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
