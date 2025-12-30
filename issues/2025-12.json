@@ -41833,6 +41833,21 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3767832390,
+    "number": 31503,
+    "title": "[Bug]: Value of aborted requests of `vllm:request_success_total` metrics is always zero even if some requests were actually aborted",
+    "url": "https://github.com/vllm-project/vllm/issues/31503",
+    "created_at": "2025-12-29T16:34:47Z",
+    "user": "xTayEx",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-image/scikit-image",
     "id": 3767923830,
     "number": 7996,
@@ -42740,6 +42755,21 @@
     "created_at": "2025-12-30T10:12:15Z",
     "user": "SimonBlanke",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3769871621,
+    "number": 31529,
+    "title": "[Bug]: vllm 0.12.0 fail to start Qwen3-VL-30B-A3B-Thinking",
+    "url": "https://github.com/vllm-project/vllm/issues/31529",
+    "created_at": "2025-12-30T11:20:43Z",
+    "user": "Arashi19901001",
+    "labels": [
+      "bug"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

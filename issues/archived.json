@@ -1,14 +1,31 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "matplotlib/matplotlib",
+    "id": 1880641879,
+    "number": 26693,
+    "title": "[MNT]: `[ci doc]` doesn't skip Github tests.",
+    "url": "https://github.com/matplotlib/matplotlib/issues/26693",
+    "created_at": "2023-09-04T17:04:36Z",
+    "user": "jklymak",
     "labels": [
-      "internal"
+      "Maintenance",
+      "CI: testing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "id": 2642461696,
+    "number": 10790,
+    "title": "Execution order of model validators with model inheritance",
+    "url": "https://github.com/pydantic/pydantic/issues/10790",
+    "created_at": "2024-11-07T23:40:45Z",
+    "user": "pmalic",
+    "labels": [
+      "documentation",
+      "awaiting author response"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

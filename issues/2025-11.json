@@ -2218,6 +2218,22 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3595092379,
+    "number": 167210,
+    "title": "[RFC] Introduce the Unified Memory Pool and Pluggable Allocator in torch.accelerator",
+    "url": "https://github.com/pytorch/pytorch/issues/167210",
+    "created_at": "2025-11-06T10:18:22Z",
+    "user": "guangyey",
+    "labels": [
+      "triaged",
+      "module: accelerator"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3595432826,
     "number": 28207,

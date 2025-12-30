@@ -2496,6 +2496,21 @@
   },
   {
     "repo": "unslothai/unsloth",
+    "id": 3503830500,
+    "number": 3433,
+    "title": "[Bug] AssertionError: No inf checks were recorded for this optimizer when finetune_language_layers=False",
+    "url": "https://github.com/unslothai/unsloth/issues/3433",
+    "created_at": "2025-10-10T17:20:44Z",
+    "user": "humeedat",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
     "id": 3503962105,
     "number": 3434,
     "title": "[Bug] FastModel Doesn't Support MultiGPU Finetuning.",
