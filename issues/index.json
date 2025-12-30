@@ -106068,8 +106068,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "id": 3770164117,
+      "number": 3829,
+      "title": "Bug: Synthetic Events Leak Automation with `isTrusted: true`",
+      "url": "https://github.com/browser-use/browser-use/issues/3829",
+      "created_at": "2025-12-30T13:10:12Z",
+      "user": "mikolaj-jpg",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3770227171,
+      "number": 63511,
+      "title": "ENH: first-class UUID support",
+      "url": "https://github.com/pandas-dev/pandas/issues/63511",
+      "created_at": "2025-12-30T13:36:13Z",
+      "user": "flying-sheep",
+      "labels": [
+        "Enhancement",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T12:57:48Z",
-  "total_count": 6982
+  "last_updated": "2025-12-30T13:43:33Z",
+  "total_count": 6984
 }

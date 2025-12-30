@@ -1,50 +1,30 @@
 [
   {
-    "repo": "streamlit/streamlit",
-    "id": 508224851,
-    "number": 439,
-    "title": "[Coming soon] Support custom HTTP requests",
-    "url": "https://github.com/streamlit/streamlit/issues/439",
-    "created_at": "2019-10-17T04:21:37Z",
-    "user": "tvst",
-    "labels": [
-      "type:enhancement",
-      "area:utilities"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "pytorch/pytorch",
-    "id": 2576813093,
-    "number": 137631,
-    "title": "Issue including and linking libtorch into OMNeT++",
-    "url": "https://github.com/pytorch/pytorch/issues/137631",
-    "created_at": "2024-10-09T19:45:52Z",
-    "user": "yconsj",
+    "id": 1049483782,
+    "number": 68110,
+    "title": "zeta(1/2) returns nan",
+    "url": "https://github.com/pytorch/pytorch/issues/68110",
+    "created_at": "2021-11-10T07:24:23Z",
+    "user": "ghost",
     "labels": [
-      "needs reproduction",
-      "module: windows",
-      "module: cpp",
-      "triaged"
+      "triaged",
+      "module: special"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pydantic/pydantic",
-    "id": 2642461696,
-    "number": 10790,
-    "title": "Execution order of model validators with model inheritance",
-    "url": "https://github.com/pydantic/pydantic/issues/10790",
-    "created_at": "2024-11-07T23:40:45Z",
-    "user": "pmalic",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "documentation",
-      "awaiting author response",
-      "topic-validators-serializers"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
