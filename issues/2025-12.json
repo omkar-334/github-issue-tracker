@@ -43216,5 +43216,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3771463307,
+    "number": 24256,
+    "title": "DOC: 1.17 API changes not mentioned in the 1.17.0rc2 release notes",
+    "url": "https://github.com/scipy/scipy/issues/24256",
+    "created_at": "2025-12-30T22:42:46Z",
+    "user": "jorenham",
+    "labels": [
+      "Documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -1088,6 +1088,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3000493291,
+    "number": 151461,
+    "title": "CreateBlockMask producing invalid XBLOCK shape",
+    "url": "https://github.com/pytorch/pytorch/issues/151461",
+    "created_at": "2025-04-16T19:00:04Z",
+    "user": "drisspg",
+    "labels": [
+      "high priority",
+      "triaged",
+      "actionable",
+      "oncall: pt2",
+      "module: inductor",
+      "vllm-compile",
+      "module: vllm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3000773416,
     "number": 3329,
