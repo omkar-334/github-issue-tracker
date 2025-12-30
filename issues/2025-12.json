@@ -43129,5 +43129,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "id": 3771131560,
+    "number": 11899,
+    "title": "[CI] Bump CUDA requirement to 12.9",
+    "url": "https://github.com/dmlc/xgboost/issues/11899",
+    "created_at": "2025-12-30T19:49:56Z",
+    "user": "trivialfis",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

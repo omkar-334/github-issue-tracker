@@ -220,6 +220,22 @@
     "archived": false
   },
   {
+    "repo": "astral-sh/ruff",
+    "id": 2893393694,
+    "number": 16490,
+    "title": "TC004 diagnostics/docs should clarify that type hints can be executed at run-time",
+    "url": "https://github.com/astral-sh/ruff/issues/16490",
+    "created_at": "2025-03-04T08:30:54Z",
+    "user": "nathanjmcdougall",
+    "labels": [
+      "help wanted",
+      "diagnostics"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2893975693,
     "number": 13763,

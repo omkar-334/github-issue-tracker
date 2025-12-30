@@ -1,20 +1,5 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 869303171,
-    "number": 19995,
-    "title": "Revisit GaussianProcessRegressor for multioutput",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/19995",
-    "created_at": "2021-04-27T22:08:27Z",
-    "user": "glemaitre",
-    "labels": [
-      "module:gaussian_process"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "astral-sh/ruff",
     "id": 1564728691,
     "number": 2402,
@@ -24,22 +9,6 @@
     "user": "charliermarsh",
     "labels": [
       "plugin"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 2537786315,
-    "number": 21591,
-    "title": "ENH: Extend `linprog(method='highs')` to use `x0` argument as initial guess to speed up optimization",
-    "url": "https://github.com/scipy/scipy/issues/21591",
-    "created_at": "2024-09-20T03:50:24Z",
-    "user": "carlosgmartin",
-    "labels": [
-      "enhancement",
-      "scipy.optimize"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
