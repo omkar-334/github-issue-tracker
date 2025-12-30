@@ -105684,8 +105684,75 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3769527241,
+      "number": 1578,
+      "title": "[MNT] Reduce Task Constructor Duplication",
+      "url": "https://github.com/openml/openml-python/issues/1578",
+      "created_at": "2025-12-30T09:01:17Z",
+      "user": "SimonBlanke",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "id": 3769545252,
+      "number": 10288,
+      "title": "Improve Doc Store capabilities: counting operations",
+      "url": "https://github.com/deepset-ai/haystack/issues/10288",
+      "created_at": "2025-12-30T09:08:20Z",
+      "user": "davidsbatista",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3769564513,
+      "number": 20433,
+      "title": "[Question]:  frequent invoking OpenAI triggers 'Event loop is closed' error",
+      "url": "https://github.com/run-llama/llama_index/issues/20433",
+      "created_at": "2025-12-30T09:15:50Z",
+      "user": "justinzyw",
+      "labels": [
+        "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "EleutherAI/lm-evaluation-harness",
+      "id": 3769569405,
+      "number": 3484,
+      "title": "[Bug] SGLang integration error in init",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/3484",
+      "created_at": "2025-12-30T09:17:41Z",
+      "user": "Monstertail",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3769582498,
+      "number": 171516,
+      "title": "How to verify that default_decompositions successfully reduce operators to the Core ATen IR set?",
+      "url": "https://github.com/pytorch/pytorch/issues/171516",
+      "created_at": "2025-12-30T09:22:16Z",
+      "user": "Tongkaio",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T08:39:13Z",
-  "total_count": 6956
+  "last_updated": "2025-12-30T09:34:40Z",
+  "total_count": 6961
 }
