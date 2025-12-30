@@ -1,30 +1,66 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1049483782,
-    "number": 68110,
-    "title": "zeta(1/2) returns nan",
-    "url": "https://github.com/pytorch/pytorch/issues/68110",
-    "created_at": "2021-11-10T07:24:23Z",
-    "user": "ghost",
+    "repo": "matplotlib/matplotlib",
+    "id": 985236363,
+    "number": 20964,
+    "title": "[Bug]: Rounding to pixel boundary misaligns images in vector graphics outputs",
+    "url": "https://github.com/matplotlib/matplotlib/issues/20964",
+    "created_at": "2021-09-01T14:37:28Z",
+    "user": "lschr",
     "labels": [
-      "triaged",
-      "module: special"
+      "status: inactive",
+      "keep",
+      "status: closed as inactive"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "streamlit/streamlit",
+    "id": 2506764275,
+    "number": 9405,
+    "title": "st.dialog Does Not Close Immediately After User Action if Followed by Blocking Operation (e.g. time.sleep(15))",
+    "url": "https://github.com/streamlit/streamlit/issues/9405",
+    "created_at": "2024-09-05T04:52:42Z",
+    "user": "pranay-tibco",
     "labels": [
-      "internal"
+      "type:enhancement",
+      "status:confirmed",
+      "feature:st.dialog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2575242025,
+    "number": 137574,
+    "title": "[feature request] Provide FlexAttention as a new available/selectable backend for SDPA",
+    "url": "https://github.com/pytorch/pytorch/issues/137574",
+    "created_at": "2024-10-09T08:47:36Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "triaged",
+      "enhancement",
+      "module: sdpa"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2643565947,
+    "number": 140130,
+    "title": "[onnx] [njt] [feature request] Export NJT-enabled SDPA / MHA ops to ORT's PackingMode Attention",
+    "url": "https://github.com/pytorch/pytorch/issues/140130",
+    "created_at": "2024-11-08T10:18:00Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "module: onnx",
+      "triaged"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

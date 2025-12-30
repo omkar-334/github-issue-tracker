@@ -106099,8 +106099,53 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3770250194,
+      "number": 13487,
+      "title": "Incomplete type hint for date_input max_value: missing Literal[\"today\"]",
+      "url": "https://github.com/streamlit/streamlit/issues/13487",
+      "created_at": "2025-12-30T13:44:50Z",
+      "user": "rafatoshio",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "matplotlib/matplotlib",
+      "id": 3770277614,
+      "number": 30913,
+      "title": "DEP: sunsetting `dateutil` as a hard dependency ?",
+      "url": "https://github.com/matplotlib/matplotlib/issues/30913",
+      "created_at": "2025-12-30T13:54:03Z",
+      "user": "neutrinoceros",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3770345698,
+      "number": 34542,
+      "title": "AnthropicPromptCachingMiddleware applies cache_control to tool_use/tool_result blocks called by code_execution, causing API errors",
+      "url": "https://github.com/langchain-ai/langchain/issues/34542",
+      "created_at": "2025-12-30T14:18:48Z",
+      "user": "pawel-kotowski",
+      "labels": [
+        "bug",
+        "anthropic"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T13:43:33Z",
-  "total_count": 6984
+  "last_updated": "2025-12-30T14:30:43Z",
+  "total_count": 6987
 }
