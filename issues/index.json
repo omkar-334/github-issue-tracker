@@ -66475,6 +66475,22 @@
       "archived": false
     },
     {
+      "repo": "deepspeedai/DeepSpeed",
+      "id": 3688682028,
+      "number": 7711,
+      "title": "[BUG] OSError: MPI environment variables are not set.",
+      "url": "https://github.com/deepspeedai/DeepSpeed/issues/7711",
+      "created_at": "2025-12-03T06:12:41Z",
+      "user": "Mulbetty",
+      "labels": [
+        "bug",
+        "training"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/lighteval",
       "id": 3688722495,
       "number": 1094,
@@ -105502,8 +105518,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3769303377,
+      "number": 23083,
+      "title": "[Bug] Custom ch param in YAML is overwritten by default ch=3 in DetectionModel initialization (YOLO11-OBB)",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23083",
+      "created_at": "2025-12-30T07:03:03Z",
+      "user": "songxiuqiang",
+      "labels": [
+        "OBB",
+        "detect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3769318614,
+      "number": 24251,
+      "title": "CI: linalg: several test failures for ILP64",
+      "url": "https://github.com/scipy/scipy/issues/24251",
+      "created_at": "2025-12-30T07:12:07Z",
+      "user": "nickodell",
+      "labels": [
+        "defect",
+        "CI"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3769341174,
+      "number": 3805,
+      "title": "Issues fine-tuning VibeVoice with Unsloth (Transformers pinned, errors & GPU requirements)",
+      "url": "https://github.com/unslothai/unsloth/issues/3805",
+      "created_at": "2025-12-30T07:24:38Z",
+      "user": "Diksha06122",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T06:43:43Z",
-  "total_count": 6944
+  "last_updated": "2025-12-30T07:31:45Z",
+  "total_count": 6948
 }
