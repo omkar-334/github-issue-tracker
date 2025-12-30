@@ -15758,6 +15758,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3665088011,
+    "number": 29463,
+    "title": "[CI Failure]: mi325_1: Language Models Tests (Standard)",
+    "url": "https://github.com/vllm-project/vllm/issues/29463",
+    "created_at": "2025-11-26T00:24:27Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3665139712,
     "number": 29467,
     "title": "[CI Failure]: mi325_4: 2 Node Tests (4 GPUs in total)",

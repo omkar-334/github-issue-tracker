@@ -31407,6 +31407,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/executorch",
+      "id": 3461152792,
+      "number": 14644,
+      "title": "Direct conversion of Ultralytics YOLO11n model to Executorch",
+      "url": "https://github.com/pytorch/executorch/issues/14644",
+      "created_at": "2025-09-28T06:14:22Z",
+      "user": "LASTsue",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3461167640,
       "number": 25822,
@@ -57669,6 +57682,21 @@
       "user": "kacheo",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3665088011,
+      "number": 29463,
+      "title": "[CI Failure]: mi325_1: Language Models Tests (Standard)",
+      "url": "https://github.com/vllm-project/vllm/issues/29463",
+      "created_at": "2025-11-26T00:24:27Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -106242,6 +106270,26 @@
       "archived": false
     },
     {
+      "repo": "ray-project/ray",
+      "id": 3770696244,
+      "number": 59764,
+      "title": "[Ray LLM] initialize_node() hangs indefinitely when node has insufficient CPU resources",
+      "url": "https://github.com/ray-project/ray/issues/59764",
+      "created_at": "2025-12-30T16:34:39Z",
+      "user": "toyamagu-2021",
+      "labels": [
+        "bug",
+        "triage",
+        "serve",
+        "llm",
+        "stability",
+        "community-backlog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "jax-ml/jax",
       "id": 3770728607,
       "number": 34124,
@@ -106300,8 +106348,57 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3770979084,
+      "number": 59767,
+      "title": "[train] update tensorflow/keras example and test to be compatible with keras 3",
+      "url": "https://github.com/ray-project/ray/issues/59767",
+      "created_at": "2025-12-30T18:52:33Z",
+      "user": "liulehui",
+      "labels": [
+        "bug",
+        "triage",
+        "docs",
+        "train"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3770989147,
+      "number": 13489,
+      "title": "Access Token Refresh Support",
+      "url": "https://github.com/streamlit/streamlit/issues/13489",
+      "created_at": "2025-12-30T18:57:04Z",
+      "user": "kmcgrady",
+      "labels": [
+        "type:enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771014076,
+      "number": 171534,
+      "title": "Add proper FMA support for Pallas backend",
+      "url": "https://github.com/pytorch/pytorch/issues/171534",
+      "created_at": "2025-12-30T19:05:37Z",
+      "user": "choijon5",
+      "labels": [
+        "module: inductor",
+        "module: pallas"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T18:42:11Z",
-  "total_count": 6997
+  "last_updated": "2025-12-30T19:24:31Z",
+  "total_count": 7003
 }
