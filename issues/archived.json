@@ -1,29 +1,14 @@
 [
   {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1564728691,
+    "number": 2402,
+    "title": "Implement remaining `pycodestyle` rules",
+    "url": "https://github.com/astral-sh/ruff/issues/2402",
+    "created_at": "2023-01-31T17:28:09Z",
+    "user": "charliermarsh",
     "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "prefecthq/prefect",
-    "id": 2629255131,
-    "number": 15906,
-    "title": "Opsgenie Transition to Jira Service Management - update/add block to reflect",
-    "url": "https://github.com/PrefectHQ/prefect/issues/15906",
-    "created_at": "2024-11-01T15:19:07Z",
-    "user": "jbnitorum",
-    "labels": [
-      "enhancement"
+      "plugin"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -31,17 +16,29 @@
   },
   {
     "repo": "scipy/scipy",
-    "id": 2759085097,
-    "number": 22188,
-    "title": "BUG: optimize.milp: segfault from HiGHS",
-    "url": "https://github.com/scipy/scipy/issues/22188",
-    "created_at": "2024-12-25T20:37:15Z",
-    "user": "coreyhahn",
+    "id": 2537786315,
+    "number": 21591,
+    "title": "ENH: Extend `linprog(method='highs')` to use `x0` argument as initial guess to speed up optimization",
+    "url": "https://github.com/scipy/scipy/issues/21591",
+    "created_at": "2024-09-20T03:50:24Z",
+    "user": "carlosgmartin",
     "labels": [
-      "defect",
-      "scipy.optimize",
-      "upstream bug"
+      "enhancement",
+      "scipy.optimize"
     ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "id": 2715259536,
+    "number": 2532,
+    "title": "long-time stuck after running loglikelihood requests",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness/issues/2532",
+    "created_at": "2024-12-03T14:56:34Z",
+    "user": "junming-yang",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
