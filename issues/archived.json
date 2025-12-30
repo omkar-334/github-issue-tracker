@@ -1,30 +1,44 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 985236363,
-    "number": 20964,
-    "title": "[Bug]: Rounding to pixel boundary misaligns images in vector graphics outputs",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20964",
-    "created_at": "2021-09-01T14:37:28Z",
-    "user": "lschr",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "status: inactive",
-      "keep"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 1564728691,
-    "number": 2402,
-    "title": "Implement remaining `pycodestyle` rules",
-    "url": "https://github.com/astral-sh/ruff/issues/2402",
-    "created_at": "2023-01-31T17:28:09Z",
-    "user": "charliermarsh",
+    "repo": "keras-team/keras",
+    "id": 2254529820,
+    "number": 19571,
+    "title": "MLX Backend ",
+    "url": "https://github.com/keras-team/keras/issues/19571",
+    "created_at": "2024-04-20T12:26:19Z",
+    "user": "lkarthee",
     "labels": [
-      "plugin"
+      "stat:contributions welcome"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 2591796376,
+    "number": 28983,
+    "title": "[Doc]: outdated links for violin/boxplot",
+    "url": "https://github.com/matplotlib/matplotlib/issues/28983",
+    "created_at": "2024-10-16T12:50:26Z",
+    "user": "rcomer",
+    "labels": [
+      "Documentation"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
