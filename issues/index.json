@@ -107041,8 +107041,81 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "dagster-io/dagster",
+      "id": 3772205599,
+      "number": 33155,
+      "title": "Can't load asset graph of assets with large number of partitions",
+      "url": "https://github.com/dagster-io/dagster/issues/33155",
+      "created_at": "2025-12-31T07:41:20Z",
+      "user": "jenkoian",
+      "labels": [
+        "type: bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3772210966,
+      "number": 171572,
+      "title": "[Aot-Autograd] [Inductor] After executing `compiled_fw = make_boxed_func(compiled_fw)`, pass fusion fails.",
+      "url": "https://github.com/pytorch/pytorch/issues/171572",
+      "created_at": "2025-12-31T07:45:27Z",
+      "user": "wxsIcey",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/datasets",
+      "id": 3772247021,
+      "number": 7922,
+      "title": "Support Apache TsFile Datasets",
+      "url": "https://github.com/huggingface/datasets/issues/7922",
+      "created_at": "2025-12-31T08:07:51Z",
+      "user": "qiaojialin",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772262512,
+      "number": 31570,
+      "title": "[CI Failure]: Pooling models (Classification model) + tp failure in Full CI run",
+      "url": "https://github.com/vllm-project/vllm/issues/31570",
+      "created_at": "2025-12-31T08:15:06Z",
+      "user": "noooop",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3772296701,
+      "number": 34548,
+      "title": "Support Agent Skills",
+      "url": "https://github.com/langchain-ai/langchain/issues/34548",
+      "created_at": "2025-12-31T08:33:57Z",
+      "user": "Fly-Playgroud",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T07:32:41Z",
-  "total_count": 7046
+  "last_updated": "2025-12-31T08:40:09Z",
+  "total_count": 7051
 }
