@@ -5201,6 +5201,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 2962417404,
+      "number": 15853,
+      "title": "[Bug]: [V1] Testla T4 cannot work for V1",
+      "url": "https://github.com/vllm-project/vllm/issues/15853",
+      "created_at": "2025-04-01T06:37:50Z",
+      "user": "maobaolong",
+      "labels": [
+        "usage",
+        "unstale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 2962850298,
       "number": 5602,
@@ -106907,8 +106923,85 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3772030853,
+      "number": 2894,
+      "title": "Feature: table.optimize can control the use of memory",
+      "url": "https://github.com/lancedb/lancedb/issues/2894",
+      "created_at": "2025-12-31T05:34:43Z",
+      "user": "Flynn-Zh",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772062835,
+      "number": 31567,
+      "title": "[RFC]: Why custom_mask is not exposed on FlashInfer to get more flexible use case?",
+      "url": "https://github.com/vllm-project/vllm/issues/31567",
+      "created_at": "2025-12-31T06:00:07Z",
+      "user": "npuichigo",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3772069189,
+      "number": 171568,
+      "title": "[ROCm][Inductor] Flash/efficient attention meta kernel shape mismatch on CDNA (MI200/MI300)",
+      "url": "https://github.com/pytorch/pytorch/issues/171568",
+      "created_at": "2025-12-31T06:04:58Z",
+      "user": "FIM43-Redeye",
+      "labels": [
+        "module: rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3772088661,
+      "number": 59782,
+      "title": "[Core][Accelerator] Ray Subprocess Not Properly Terminated Warning When Importing Custom Accelerator Package",
+      "url": "https://github.com/ray-project/ray/issues/59782",
+      "created_at": "2025-12-31T06:19:03Z",
+      "user": "daiping8",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3772093839,
+      "number": 23089,
+      "title": "2025年12月31日，当前版本，多张显卡是不能选择某一显卡运行代码。",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23089",
+      "created_at": "2025-12-31T06:22:59Z",
+      "user": "zyc01",
+      "labels": [
+        "question",
+        "dependencies"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T05:34:18Z",
-  "total_count": 7037
+  "last_updated": "2025-12-31T06:43:55Z",
+  "total_count": 7043
 }

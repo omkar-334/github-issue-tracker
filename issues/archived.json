@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "repo": "scipy/scipy",
+    "id": 119199655,
+    "number": 5551,
+    "title": "sparse.linalg.inv returns ndarray for 1 element csc_matrix",
+    "url": "https://github.com/scipy/scipy/issues/5551",
+    "created_at": "2015-11-27T13:52:29Z",
+    "user": "atbug",
+    "labels": [
+      "defect",
+      "scipy.sparse.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
