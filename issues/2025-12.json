@@ -43814,5 +43814,62 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3772508989,
+    "number": 31574,
+    "title": "[Usage]: If vllm surpport load LoRA adapter and DeepSeek-v3.1-termunis at the same time",
+    "url": "https://github.com/vllm-project/vllm/issues/31574",
+    "created_at": "2025-12-31T10:33:52Z",
+    "user": "AIR-hl",
+    "labels": [
+      "usage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 3772528433,
+    "number": 30917,
+    "title": "[Bug]: TimerAsyncio does not work with Python 3.14",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30917",
+    "created_at": "2025-12-31T10:46:01Z",
+    "user": "lahwaacz",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3772530703,
+    "number": 22315,
+    "title": "ANN201 Incorrect autofix return type for raise in loop",
+    "url": "https://github.com/astral-sh/ruff/issues/22315",
+    "created_at": "2025-12-31T10:47:23Z",
+    "user": "spaceby",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3772552845,
+    "number": 63521,
+    "title": "BUG: comparison of categoricals with NA",
+    "url": "https://github.com/pandas-dev/pandas/issues/63521",
+    "created_at": "2025-12-31T11:01:37Z",
+    "user": "lbraglia",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
