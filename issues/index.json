@@ -106850,8 +106850,65 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3771941711,
+      "number": 59778,
+      "title": "[Ray VLLM] vllm error when all ray workers node start sametime but fine when all ray workers node start by sequence",
+      "url": "https://github.com/ray-project/ray/issues/59778",
+      "created_at": "2025-12-31T04:16:24Z",
+      "user": "weiguoli369",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3771980806,
+      "number": 23088,
+      "title": "yolo11跑出的模型转为onnx后精度下降巨大",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23088",
+      "created_at": "2025-12-31T04:52:31Z",
+      "user": "Wenlong914",
+      "labels": [
+        "question",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3772003299,
+      "number": 59780,
+      "title": "[Data][CI] Stop running all ML tests on Data premerge",
+      "url": "https://github.com/ray-project/ray/issues/59780",
+      "created_at": "2025-12-31T05:12:53Z",
+      "user": "bveeramani",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772004026,
+      "number": 31564,
+      "title": "[Bug]: Qwen3-VL-8B-Instruct has accuracy issue - Multi modal accuracy issue",
+      "url": "https://github.com/vllm-project/vllm/issues/31564",
+      "created_at": "2025-12-31T05:13:32Z",
+      "user": "Dineshkumar-Anandan-ZS0367",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T04:05:28Z",
-  "total_count": 7033
+  "last_updated": "2025-12-31T05:34:18Z",
+  "total_count": 7037
 }
