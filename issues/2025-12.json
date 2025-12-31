@@ -44129,5 +44129,22 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3773697407,
+    "number": 25921,
+    "title": "Support compiling in lazy/streaming mode without cloud support",
+    "url": "https://github.com/pola-rs/polars/issues/25921",
+    "created_at": "2025-12-31T21:01:25Z",
+    "user": "jasperswallen",
+    "labels": [
+      "enhancement",
+      "A-streaming",
+      "A-io-cloud"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
