@@ -2014,6 +2014,21 @@
       "archived": false
     },
     {
+      "repo": "browser-use/browser-use",
+      "id": 2838829685,
+      "number": 618,
+      "title": "Mouse hover for tool tips and other information",
+      "url": "https://github.com/browser-use/browser-use/issues/618",
+      "created_at": "2025-02-07T18:36:16Z",
+      "user": "pseudotensor",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/torchchat",
       "id": 2839340282,
       "number": 1491,
@@ -6590,6 +6605,22 @@
       "created_at": "2025-04-22T02:40:04Z",
       "user": "Wawan-gaming",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3010106596,
+      "number": 16966,
+      "title": "[Bug]: vllm 0.8.4 whisper possible memory leak?",
+      "url": "https://github.com/vllm-project/vllm/issues/16966",
+      "created_at": "2025-04-22T07:05:15Z",
+      "user": "shenenqing",
+      "labels": [
+        "bug",
+        "stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -107114,8 +107145,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3772316315,
+      "number": 2970,
+      "title": "Add EWoRA to PEFT",
+      "url": "https://github.com/huggingface/peft/issues/2970",
+      "created_at": "2025-12-31T08:47:34Z",
+      "user": "HarshKohli",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3772357296,
+      "number": 43074,
+      "title": "Issue generate audio Qwen3-Omni",
+      "url": "https://github.com/huggingface/transformers/issues/43074",
+      "created_at": "2025-12-31T09:10:25Z",
+      "user": "Hert4",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3772365550,
+      "number": 23091,
+      "title": "predict方法直接支持处理n张opencv格式的图片组成的shape为(n,H,W,C)的numpy数组",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23091",
+      "created_at": "2025-12-31T09:15:24Z",
+      "user": "johnfans",
+      "labels": [
+        "enhancement",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T08:40:09Z",
-  "total_count": 7051
+  "last_updated": "2025-12-31T09:33:55Z",
+  "total_count": 7056
 }

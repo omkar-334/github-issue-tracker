@@ -1413,6 +1413,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3010106596,
+    "number": 16966,
+    "title": "[Bug]: vllm 0.8.4 whisper possible memory leak?",
+    "url": "https://github.com/vllm-project/vllm/issues/16966",
+    "created_at": "2025-04-22T07:05:15Z",
+    "user": "shenenqing",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras-hub",
     "id": 3010354581,
     "number": 2224,

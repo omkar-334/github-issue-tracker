@@ -43742,5 +43742,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/peft",
+    "id": 3772316315,
+    "number": 2970,
+    "title": "Add EWoRA to PEFT",
+    "url": "https://github.com/huggingface/peft/issues/2970",
+    "created_at": "2025-12-31T08:47:34Z",
+    "user": "HarshKohli",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3772357296,
+    "number": 43074,
+    "title": "Issue generate audio Qwen3-Omni",
+    "url": "https://github.com/huggingface/transformers/issues/43074",
+    "created_at": "2025-12-31T09:10:25Z",
+    "user": "Hert4",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3772365550,
+    "number": 23091,
+    "title": "predict方法直接支持处理n张opencv格式的图片组成的shape为(n,H,W,C)的numpy数组",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23091",
+    "created_at": "2025-12-31T09:15:24Z",
+    "user": "johnfans",
+    "labels": [
+      "enhancement",
+      "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
