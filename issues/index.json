@@ -107000,8 +107000,49 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/torchtitan",
+      "id": 3772119959,
+      "number": 2189,
+      "title": "RuntimeError: \"Cannot redistribute to Partial\" when increasing sequence length from 4k to 8k with MoE",
+      "url": "https://github.com/pytorch/torchtitan/issues/2189",
+      "created_at": "2025-12-31T06:41:52Z",
+      "user": "HzZHoO",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3772138774,
+      "number": 171570,
+      "title": "Unexpected type conversion during torch model to onnx",
+      "url": "https://github.com/pytorch/pytorch/issues/171570",
+      "created_at": "2025-12-31T06:55:36Z",
+      "user": "JohnHerry",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "id": 3772168666,
+      "number": 20437,
+      "title": "[Question]: can QueryBoundle be used in chat engine?",
+      "url": "https://github.com/run-llama/llama_index/issues/20437",
+      "created_at": "2025-12-31T07:15:33Z",
+      "user": "justinzyw",
+      "labels": [
+        "question"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T06:43:55Z",
-  "total_count": 7043
+  "last_updated": "2025-12-31T07:32:41Z",
+  "total_count": 7046
 }
