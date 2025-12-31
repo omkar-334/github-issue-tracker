@@ -107419,8 +107419,51 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3772775967,
+      "number": 43075,
+      "title": "FlexAttention backend support for sequence packing",
+      "url": "https://github.com/huggingface/transformers/issues/43075",
+      "created_at": "2025-12-31T13:05:30Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "Feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3772783298,
+      "number": 22316,
+      "title": "Enforce consistent prefixes across implicitly concatenated strings",
+      "url": "https://github.com/astral-sh/ruff/issues/22316",
+      "created_at": "2025-12-31T13:09:27Z",
+      "user": "GideonBear",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772820105,
+      "number": 31579,
+      "title": "[Bug]: `VLLM_FLOAT32_MATMUL_PRECISION=tf32` does not set cublas tf32 matmul",
+      "url": "https://github.com/vllm-project/vllm/issues/31579",
+      "created_at": "2025-12-31T13:27:21Z",
+      "user": "cjackal",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T12:57:01Z",
-  "total_count": 7071
+  "last_updated": "2025-12-31T13:40:22Z",
+  "total_count": 7074
 }
