@@ -2792,6 +2792,23 @@
       "archived": false
     },
     {
+      "repo": "scipy/scipy",
+      "id": 2873057861,
+      "number": 22577,
+      "title": "BUG: cython (complex) and stats (nan) tests failing on sparc64",
+      "url": "https://github.com/scipy/scipy/issues/22577",
+      "created_at": "2025-02-23T09:40:03Z",
+      "user": "drew-parsons",
+      "labels": [
+        "defect",
+        "scipy.stats",
+        "scipy.special"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2873299270,
       "number": 1781,
@@ -107876,8 +107893,24 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3773854136,
+      "number": 63527,
+      "title": "BUG: PyArrow-backed datetime index missing numpy-like attributes",
+      "url": "https://github.com/pandas-dev/pandas/issues/63527",
+      "created_at": "2025-12-31T22:50:48Z",
+      "user": "mattharrison",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T22:30:08Z",
-  "total_count": 7099
+  "last_updated": "2025-12-31T23:28:35Z",
+  "total_count": 7101
 }
