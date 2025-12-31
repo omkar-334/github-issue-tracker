@@ -44097,5 +44097,37 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3773494399,
+    "number": 31588,
+    "title": "[Bug]: vLLM SM 12.1 (Blackwell GB10) V1 Engine Bug Report (Relates to: #28589, #31128, #28621, #27679)",
+    "url": "https://github.com/vllm-project/vllm/issues/31588",
+    "created_at": "2025-12-31T19:41:32Z",
+    "user": "ohsono",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3773607339,
+    "number": 59792,
+    "title": "[RFC][Serve] Decoupled Routing Primitives for Ray Serve",
+    "url": "https://github.com/ray-project/ray/issues/59792",
+    "created_at": "2025-12-31T20:23:52Z",
+    "user": "kouroshHakha",
+    "labels": [
+      "enhancement",
+      "serve",
+      "llm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
