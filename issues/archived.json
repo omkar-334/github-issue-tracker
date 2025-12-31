@@ -1,28 +1,32 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 1564728691,
-    "number": 2402,
-    "title": "Implement remaining `pycodestyle` rules",
-    "url": "https://github.com/astral-sh/ruff/issues/2402",
-    "created_at": "2023-01-31T17:28:09Z",
-    "user": "charliermarsh",
+    "repo": "scipy/scipy",
+    "id": 2208082310,
+    "number": 20336,
+    "title": "BUG: optimize.linprog: `HighsStatus.kWarning` hidden from user",
+    "url": "https://github.com/scipy/scipy/issues/20336",
+    "created_at": "2024-03-26T12:14:24Z",
+    "user": "Markus-Weiand",
     "labels": [
-      "plugin"
+      "defect",
+      "scipy.optimize"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "cython/cython",
-    "id": 2622052273,
-    "number": 6468,
-    "title": "Replace GCC __sync atomic builtins with GCC __atomic atomic builtins",
-    "url": "https://github.com/cython/cython/issues/6468",
-    "created_at": "2024-10-29T18:39:33Z",
-    "user": "da-woods",
-    "labels": [],
+    "repo": "chroma-core/chroma",
+    "id": 2527304884,
+    "number": 2801,
+    "title": "Make Jest testing code more idiomatic ",
+    "url": "https://github.com/chroma-core/chroma/issues/2801",
+    "created_at": "2024-09-16T00:43:51Z",
+    "user": "jeffchuber",
+    "labels": [
+      "good first issue",
+      "by-chroma"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

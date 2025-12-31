@@ -1003,6 +1003,22 @@
     "archived": false
   },
   {
+    "repo": "microsoft/LightGBM",
+    "id": 2800147635,
+    "number": 6793,
+    "title": "[python-package] `Booster.refit()` raises a misleading warning when using categorical features",
+    "url": "https://github.com/microsoft/LightGBM/issues/6793",
+    "created_at": "2025-01-20T19:26:41Z",
+    "user": "jameslamb",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "dask/dask",
     "id": 2800504789,
     "number": 11686,

@@ -1004,6 +1004,22 @@
       "archived": false
     },
     {
+      "repo": "microsoft/LightGBM",
+      "id": 2800147635,
+      "number": 6793,
+      "title": "[python-package] `Booster.refit()` raises a misleading warning when using categorical features",
+      "url": "https://github.com/microsoft/LightGBM/issues/6793",
+      "created_at": "2025-01-20T19:26:41Z",
+      "user": "jameslamb",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "dask/dask",
       "id": 2800504789,
       "number": 11686,
@@ -39394,6 +39410,21 @@
       "user": "bhaktatejas922",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3556009874,
+      "number": 25035,
+      "title": "Add 3.14 python support",
+      "url": "https://github.com/pola-rs/polars/issues/25035",
+      "created_at": "2025-10-27T10:08:04Z",
+      "user": "lmocsi",
+      "labels": [
+        "enhancement"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -107309,8 +107340,87 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3772605761,
+      "number": 25914,
+      "title": "`MemSlice::from_arc` is unsound",
+      "url": "https://github.com/pola-rs/polars/issues/25914",
+      "created_at": "2025-12-31T11:35:05Z",
+      "user": "Voultapher",
+      "labels": [
+        "bug",
+        "rust",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3772609828,
+      "number": 19705,
+      "title": "[FR] Ability to pass model_kwargs and tokenizer_kwargs when loading sentencetransformer",
+      "url": "https://github.com/mlflow/mlflow/issues/19705",
+      "created_at": "2025-12-31T11:37:58Z",
+      "user": "slocoro",
+      "labels": [
+        "enhancement",
+        "area/model-registry",
+        "domain/deep-learning"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3772662939,
+      "number": 3808,
+      "title": "[Feature] Create docs for exporting to `ONNX` format for webgpu inference support",
+      "url": "https://github.com/unslothai/unsloth/issues/3808",
+      "created_at": "2025-12-31T12:11:17Z",
+      "user": "homanp",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772702120,
+      "number": 31577,
+      "title": "[Bug]: Memory leak in serving Whisper",
+      "url": "https://github.com/vllm-project/vllm/issues/31577",
+      "created_at": "2025-12-31T12:28:42Z",
+      "user": "parssky",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3772721782,
+      "number": 31578,
+      "title": "[Feature]: New MoELayer",
+      "url": "https://github.com/vllm-project/vllm/issues/31578",
+      "created_at": "2025-12-31T12:40:28Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T11:27:52Z",
-  "total_count": 7064
+  "last_updated": "2025-12-31T12:57:01Z",
+  "total_count": 7071
 }
