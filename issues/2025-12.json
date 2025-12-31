@@ -43298,5 +43298,201 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771780122,
+    "number": 171560,
+    "title": "torch.compile is much slower than AMP for SAM model",
+    "url": "https://github.com/pytorch/pytorch/issues/171560",
+    "created_at": "2025-12-31T02:02:15Z",
+    "user": "HoppeDeng",
+    "labels": [
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3771792429,
+    "number": 63518,
+    "title": "BUG: pd.Grouper converts PyArrow timestamp to numpy datetime64",
+    "url": "https://github.com/pandas-dev/pandas/issues/63518",
+    "created_at": "2025-12-31T02:09:34Z",
+    "user": "mattharrison",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771819978,
+    "number": 171562,
+    "title": "DISABLED test_comprehensive_fft_irfft_xpu_float16 (__main__.TestInductorOpInfoXPU)",
+    "url": "https://github.com/pytorch/pytorch/issues/171562",
+    "created_at": "2025-12-31T02:27:39Z",
+    "user": "guangyey",
+    "labels": [
+      "skipped",
+      "module: xpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "shap/shap",
+    "id": 3771828237,
+    "number": 4241,
+    "title": "BUG: Installation failed",
+    "url": "https://github.com/shap/shap/issues/4241",
+    "created_at": "2025-12-31T02:35:10Z",
+    "user": "khteh",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/vision",
+    "id": 3771829834,
+    "number": 9321,
+    "title": "maskrcnn_resnet50_fpn cannot be exported",
+    "url": "https://github.com/pytorch/vision/issues/9321",
+    "created_at": "2025-12-31T02:36:47Z",
+    "user": "justinchuby",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3771839924,
+    "number": 25909,
+    "title": "Silent Failure: Series.sample() silently returns empty result when n exceeds u32 max + 1",
+    "url": "https://github.com/pola-rs/polars/issues/25909",
+    "created_at": "2025-12-31T02:47:43Z",
+    "user": "hanepudding",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 3771850040,
+    "number": 2415,
+    "title": "Problem determining the table address row",
+    "url": "https://github.com/3b1b/manim/issues/2415",
+    "created_at": "2025-12-31T02:59:41Z",
+    "user": "mohammed-mhmu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771850222,
+    "number": 171563,
+    "title": "Can not use pytest to collect all tests",
+    "url": "https://github.com/pytorch/pytorch/issues/171563",
+    "created_at": "2025-12-31T02:59:52Z",
+    "user": "malofleur",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "id": 3771862610,
+    "number": 23087,
+    "title": "Yolo11-cls heatmap generation",
+    "url": "https://github.com/ultralytics/ultralytics/issues/23087",
+    "created_at": "2025-12-31T03:09:54Z",
+    "user": "sasuke00",
+    "labels": [
+      "enhancement",
+      "classify"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3771895100,
+    "number": 31557,
+    "title": "[Bug]: DeepSeek on B300 reports `invalid numeric default value` error",
+    "url": "https://github.com/vllm-project/vllm/issues/31557",
+    "created_at": "2025-12-31T03:34:24Z",
+    "user": "kebe7jun",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3771896472,
+    "number": 1929,
+    "title": "BUG: SmolagentsInstrumentor causes Error during agent execution (Telemetry with Langfuse)",
+    "url": "https://github.com/huggingface/smolagents/issues/1929",
+    "created_at": "2025-12-31T03:35:08Z",
+    "user": "Parsonlee",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3771902218,
+    "number": 3830,
+    "title": "Feature Request: ...Add Stable Action Sequence Recording and Make the interaction Reproducible",
+    "url": "https://github.com/browser-use/browser-use/issues/3830",
+    "created_at": "2025-12-31T03:39:02Z",
+    "user": "AntsKnows",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "id": 3771912900,
+    "number": 19700,
+    "title": "[BUG] serve-artifacts is not enabled in docker-compose",
+    "url": "https://github.com/mlflow/mlflow/issues/19700",
+    "created_at": "2025-12-31T03:48:12Z",
+    "user": "zjffdu",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
