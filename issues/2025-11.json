@@ -9316,6 +9316,25 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 3641150543,
+    "number": 58772,
+    "title": "[Core] Ray job will be pending if the working directory contains `stat.py`",
+    "url": "https://github.com/ray-project/ray/issues/58772",
+    "created_at": "2025-11-19T05:40:47Z",
+    "user": "Moonquakes",
+    "labels": [
+      "question",
+      "P1",
+      "core",
+      "stability",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3641171473,
     "number": 1886,
