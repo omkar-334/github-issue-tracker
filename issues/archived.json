@@ -1,36 +1,14 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 2102373687,
-    "number": 118387,
-    "title": "Thread local patch on Dynamo/Inductor config",
-    "url": "https://github.com/pytorch/pytorch/issues/118387",
-    "created_at": "2024-01-26T15:06:48Z",
-    "user": "ezyang",
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
     "labels": [
-      "high priority",
-      "feature",
-      "triaged",
-      "module: multithreading",
-      "months",
-      "oncall: pt2",
-      "dynamo-triage-dec2025"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "openai/openai-python",
-    "id": 2731514170,
-    "number": 1937,
-    "title": "types: Missing type for batch request input and output objects",
-    "url": "https://github.com/openai/openai-python/issues/1937",
-    "created_at": "2024-12-11T00:14:04Z",
-    "user": "alugowski",
-    "labels": [
-      "enhancement",
-      "openapi"
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
