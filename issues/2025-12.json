@@ -44039,5 +44039,48 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3773034741,
+    "number": 171577,
+    "title": "Exposing window_size_left and right for varlen attention",
+    "url": "https://github.com/pytorch/pytorch/issues/171577",
+    "created_at": "2025-12-31T15:41:17Z",
+    "user": "francesco-bertolotti",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "id": 3773037130,
+    "number": 6104,
+    "title": "[Bug]: CloudClient ignores CHROMA_API_KEY environment variable",
+    "url": "https://github.com/chroma-core/chroma/issues/6104",
+    "created_at": "2025-12-31T15:43:01Z",
+    "user": "tazarov",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3773064750,
+    "number": 31582,
+    "title": "[Bug]: Cannot run model",
+    "url": "https://github.com/vllm-project/vllm/issues/31582",
+    "created_at": "2025-12-31T16:02:05Z",
+    "user": "frenzybiscuit",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
