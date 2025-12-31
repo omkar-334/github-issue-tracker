@@ -4512,6 +4512,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2936832793,
+      "number": 149681,
+      "title": "Torch.compile is failing if numpy is not installed",
+      "url": "https://github.com/pytorch/pytorch/issues/149681",
+      "created_at": "2025-03-20T23:00:40Z",
+      "user": "atalman",
+      "labels": [
+        "high priority",
+        "module: binaries",
+        "triaged",
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras",
       "id": 2937082010,
       "number": 21078,
@@ -107715,8 +107733,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "id": 3773333830,
+      "number": 2895,
+      "title": "Feature: add prefix filtering to the TableNamesBuilder",
+      "url": "https://github.com/lancedb/lancedb/issues/2895",
+      "created_at": "2025-12-31T18:34:33Z",
+      "user": "yuvalif",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T17:27:05Z",
-  "total_count": 7089
+  "last_updated": "2025-12-31T18:40:21Z",
+  "total_count": 7091
 }
