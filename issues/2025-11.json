@@ -8786,6 +8786,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3638637399,
+    "number": 20279,
+    "title": "[Bug]: QdrantVectorStore crashes with latest qdrant-client – search_batch has been removed",
+    "url": "https://github.com/run-llama/llama_index/issues/20279",
+    "created_at": "2025-11-18T15:01:35Z",
+    "user": "sudeeshnarayanan",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3638703140,
     "number": 30250,
