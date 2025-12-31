@@ -1,21 +1,6 @@
 {
   "issues": [
     {
-      "repo": "huggingface/optimum",
-      "id": 2762992528,
-      "number": 2140,
-      "title": "KeyError: 'swinv2 model type is not supported yet in NormalizedConfig.",
-      "url": "https://github.com/huggingface/optimum/issues/2140",
-      "created_at": "2024-12-30T10:29:14Z",
-      "user": "Billybeast2003",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "3b1b/manim",
       "id": 2764920169,
       "number": 2288,
@@ -57746,6 +57731,21 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3665046687,
+      "number": 29458,
+      "title": "[CI Failure]: mi325_8: Language Models Tests (Extra Standard) %N",
+      "url": "https://github.com/vllm-project/vllm/issues/29458",
+      "created_at": "2025-11-26T00:06:26Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3665088011,
       "number": 29463,
       "title": "[CI Failure]: mi325_1: Language Models Tests (Standard)",
@@ -106556,8 +106556,75 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771574202,
+      "number": 171551,
+      "title": "Simplest cudagraph model fails on second backward pass (unless cudagraph_trees is disabled)",
+      "url": "https://github.com/pytorch/pytorch/issues/171551",
+      "created_at": "2025-12-30T23:38:19Z",
+      "user": "Birch-san",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3771580280,
+      "number": 8353,
+      "title": "Support interactive widgets in Card Header without toggling expand/collapse",
+      "url": "https://github.com/holoviz/panel/issues/8353",
+      "created_at": "2025-12-30T23:42:07Z",
+      "user": "emunsing",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3771681782,
+      "number": 8354,
+      "title": "cached plotly figure with markers styled from polars series only renders properly on first client",
+      "url": "https://github.com/holoviz/panel/issues/8354",
+      "created_at": "2025-12-31T01:01:08Z",
+      "user": "ATL2001",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3771706643,
+      "number": 31555,
+      "title": "[Docs] Feedback for `/en/stable/`MONSTERDOG",
+      "url": "https://github.com/vllm-project/vllm/issues/31555",
+      "created_at": "2025-12-31T01:20:55Z",
+      "user": "s33765387-cpu",
+      "labels": [
+        "documentation"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771714979,
+      "number": 171558,
+      "title": "`torch.sparse.spdiags` produces incorrect results",
+      "url": "https://github.com/pytorch/pytorch/issues/171558",
+      "created_at": "2025-12-31T01:26:23Z",
+      "user": "lakshayg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-30T23:27:46Z",
-  "total_count": 7013
+  "last_updated": "2025-12-31T02:05:20Z",
+  "total_count": 7018
 }

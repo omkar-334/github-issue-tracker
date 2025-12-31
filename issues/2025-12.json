@@ -43231,5 +43231,72 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771574202,
+    "number": 171551,
+    "title": "Simplest cudagraph model fails on second backward pass (unless cudagraph_trees is disabled)",
+    "url": "https://github.com/pytorch/pytorch/issues/171551",
+    "created_at": "2025-12-30T23:38:19Z",
+    "user": "Birch-san",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "holoviz/panel",
+    "id": 3771580280,
+    "number": 8353,
+    "title": "Support interactive widgets in Card Header without toggling expand/collapse",
+    "url": "https://github.com/holoviz/panel/issues/8353",
+    "created_at": "2025-12-30T23:42:07Z",
+    "user": "emunsing",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "holoviz/panel",
+    "id": 3771681782,
+    "number": 8354,
+    "title": "cached plotly figure with markers styled from polars series only renders properly on first client",
+    "url": "https://github.com/holoviz/panel/issues/8354",
+    "created_at": "2025-12-31T01:01:08Z",
+    "user": "ATL2001",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3771706643,
+    "number": 31555,
+    "title": "[Docs] Feedback for `/en/stable/`MONSTERDOG",
+    "url": "https://github.com/vllm-project/vllm/issues/31555",
+    "created_at": "2025-12-31T01:20:55Z",
+    "user": "s33765387-cpu",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3771714979,
+    "number": 171558,
+    "title": "`torch.sparse.spdiags` produces incorrect results",
+    "url": "https://github.com/pytorch/pytorch/issues/171558",
+    "created_at": "2025-12-31T01:26:23Z",
+    "user": "lakshayg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
