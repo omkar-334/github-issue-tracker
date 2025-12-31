@@ -548,6 +548,24 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 2907230404,
+    "number": 10707,
+    "title": "New client_kwargs entry (acr_values) is not accepted, auth fails in st.login()",
+    "url": "https://github.com/streamlit/streamlit/issues/10707",
+    "created_at": "2025-03-10T13:11:56Z",
+    "user": "guntukaramakrishna",
+    "labels": [
+      "type:bug",
+      "priority:P3",
+      "feature:st.login",
+      "feature:authentication"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scikit-learn/scikit-learn",
     "id": 2907437533,
     "number": 30969,

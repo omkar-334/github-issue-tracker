@@ -170,6 +170,24 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 2970960173,
+    "number": 11031,
+    "title": "st.plotly_chart ignores font_family and font_color in fig.update_layout for Sankey diagrams, but fig.show() renders correctly",
+    "url": "https://github.com/streamlit/streamlit/issues/11031",
+    "created_at": "2025-04-04T00:12:58Z",
+    "user": "jjaviergalvez",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P4",
+      "feature:st.plotly_chart"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "sktime/pytorch-forecasting",
     "id": 2971205955,
     "number": 1808,
@@ -213,6 +231,22 @@
       "bug",
       "investigate",
       "core"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2972311377,
+    "number": 17203,
+    "title": "Use new diagnostic functionality",
+    "url": "https://github.com/astral-sh/ruff/issues/17203",
+    "created_at": "2025-04-04T12:56:51Z",
+    "user": "ntBre",
+    "labels": [
+      "tracking",
+      "diagnostics"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

@@ -3682,6 +3682,24 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2907230404,
+      "number": 10707,
+      "title": "New client_kwargs entry (acr_values) is not accepted, auth fails in st.login()",
+      "url": "https://github.com/streamlit/streamlit/issues/10707",
+      "created_at": "2025-03-10T13:11:56Z",
+      "user": "guntukaramakrishna",
+      "labels": [
+        "type:bug",
+        "priority:P3",
+        "feature:st.login",
+        "feature:authentication"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scikit-learn/scikit-learn",
       "id": 2907437533,
       "number": 30969,
@@ -5383,6 +5401,24 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 2970960173,
+      "number": 11031,
+      "title": "st.plotly_chart ignores font_family and font_color in fig.update_layout for Sankey diagrams, but fig.show() renders correctly",
+      "url": "https://github.com/streamlit/streamlit/issues/11031",
+      "created_at": "2025-04-04T00:12:58Z",
+      "user": "jjaviergalvez",
+      "labels": [
+        "type:bug",
+        "status:confirmed",
+        "priority:P4",
+        "feature:st.plotly_chart"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "sktime/pytorch-forecasting",
       "id": 2971205955,
       "number": 1808,
@@ -5426,6 +5462,22 @@
         "bug",
         "investigate",
         "core"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 2972311377,
+      "number": 17203,
+      "title": "Use new diagnostic functionality",
+      "url": "https://github.com/astral-sh/ruff/issues/17203",
+      "created_at": "2025-04-04T12:56:51Z",
+      "user": "ntBre",
+      "labels": [
+        "tracking",
+        "diagnostics"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -17597,6 +17649,26 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3270179946,
+      "number": 12051,
+      "title": "Thread 'ThreadPoolExecutor-4_0': missing ScriptRunContext! This warning can be ignored when running in bare mode.",
+      "url": "https://github.com/streamlit/streamlit/issues/12051",
+      "created_at": "2025-07-28T14:36:00Z",
+      "user": "mohankumarelec",
+      "labels": [
+        "type:bug",
+        "status:confirmed",
+        "priority:P3",
+        "area:threading/processing",
+        "area:integrations",
+        "feature:runtime"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "langchain-ai/langchain",
       "id": 3270603662,
       "number": 32283,
@@ -17994,6 +18066,26 @@
       "user": "RyanSaxe",
       "labels": [
         "type:Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3278371425,
+      "number": 12076,
+      "title": "RuntimeError: Event loop is closed with st.stream_write while using Langgraph astream",
+      "url": "https://github.com/streamlit/streamlit/issues/12076",
+      "created_at": "2025-07-30T20:32:20Z",
+      "user": "amanchaudhary-95",
+      "labels": [
+        "type:bug",
+        "feature:cache",
+        "status:confirmed",
+        "priority:P3",
+        "feature:st.write_stream",
+        "area:threading/processing"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -22815,6 +22907,28 @@
       "archived": false
     },
     {
+      "repo": "streamlit/streamlit",
+      "id": 3372484441,
+      "number": 12390,
+      "title": "Regression in v1.49.0 when showing layered altair chart in dialog - tooltips not showing when a facet option is specified",
+      "url": "https://github.com/streamlit/streamlit/issues/12390",
+      "created_at": "2025-09-01T12:26:10Z",
+      "user": "marawanokasha",
+      "labels": [
+        "type:bug",
+        "type:regression",
+        "status:confirmed",
+        "priority:P3",
+        "feature:st.altair_chart",
+        "feature:st.vega_lite_chart",
+        "upstream",
+        "feature:st.dialog"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3372687106,
       "number": 14137,
@@ -26781,6 +26895,25 @@
       "created_at": "2025-09-12T10:38:11Z",
       "user": "wang824892540",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3410520098,
+      "number": 12514,
+      "title": "Fragments within container disappearing on rerender",
+      "url": "https://github.com/streamlit/streamlit/issues/12514",
+      "created_at": "2025-09-12T13:28:14Z",
+      "user": "JosephMarinier",
+      "labels": [
+        "type:bug",
+        "status:confirmed",
+        "priority:P3",
+        "feature:st.container",
+        "feature:st.fragment"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -107493,8 +107626,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "scipy/scipy",
+      "id": 3772995068,
+      "number": 24261,
+      "title": "BUG: Nix build fails with blas & lapack when these are built with 64 index support",
+      "url": "https://github.com/scipy/scipy/issues/24261",
+      "created_at": "2025-12-31T15:13:55Z",
+      "user": "doronbehar",
+      "labels": [
+        "defect"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2025-12-31T14:30:23Z",
-  "total_count": 7076
+  "last_updated": "2025-12-31T15:30:56Z",
+  "total_count": 7084
 }

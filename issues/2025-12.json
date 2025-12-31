@@ -44024,5 +44024,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3772995068,
+    "number": 24261,
+    "title": "BUG: Nix build fails with blas & lapack when these are built with 64 index support",
+    "url": "https://github.com/scipy/scipy/issues/24261",
+    "created_at": "2025-12-31T15:13:55Z",
+    "user": "doronbehar",
+    "labels": [
+      "defect"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -97,6 +97,28 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3372484441,
+    "number": 12390,
+    "title": "Regression in v1.49.0 when showing layered altair chart in dialog - tooltips not showing when a facet option is specified",
+    "url": "https://github.com/streamlit/streamlit/issues/12390",
+    "created_at": "2025-09-01T12:26:10Z",
+    "user": "marawanokasha",
+    "labels": [
+      "type:bug",
+      "type:regression",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.altair_chart",
+      "feature:st.vega_lite_chart",
+      "upstream",
+      "feature:st.dialog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3372687106,
     "number": 14137,
@@ -4063,6 +4085,25 @@
     "created_at": "2025-09-12T10:38:11Z",
     "user": "wang824892540",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3410520098,
+    "number": 12514,
+    "title": "Fragments within container disappearing on rerender",
+    "url": "https://github.com/streamlit/streamlit/issues/12514",
+    "created_at": "2025-09-12T13:28:14Z",
+    "user": "JosephMarinier",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.container",
+      "feature:st.fragment"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false

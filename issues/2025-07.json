@@ -4168,6 +4168,26 @@
     "archived": false
   },
   {
+    "repo": "streamlit/streamlit",
+    "id": 3270179946,
+    "number": 12051,
+    "title": "Thread 'ThreadPoolExecutor-4_0': missing ScriptRunContext! This warning can be ignored when running in bare mode.",
+    "url": "https://github.com/streamlit/streamlit/issues/12051",
+    "created_at": "2025-07-28T14:36:00Z",
+    "user": "mohankumarelec",
+    "labels": [
+      "type:bug",
+      "status:confirmed",
+      "priority:P3",
+      "area:threading/processing",
+      "area:integrations",
+      "feature:runtime"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "langchain-ai/langchain",
     "id": 3270603662,
     "number": 32283,
@@ -4565,6 +4585,26 @@
     "user": "RyanSaxe",
     "labels": [
       "type:Bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3278371425,
+    "number": 12076,
+    "title": "RuntimeError: Event loop is closed with st.stream_write while using Langgraph astream",
+    "url": "https://github.com/streamlit/streamlit/issues/12076",
+    "created_at": "2025-07-30T20:32:20Z",
+    "user": "amanchaudhary-95",
+    "labels": [
+      "type:bug",
+      "feature:cache",
+      "status:confirmed",
+      "priority:P3",
+      "feature:st.write_stream",
+      "area:threading/processing"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
