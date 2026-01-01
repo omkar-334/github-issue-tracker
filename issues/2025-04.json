@@ -328,6 +328,19 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 2974795423,
+    "number": 29874,
+    "title": "[Bug]: Backgroundcolor of text is set in a too wide range",
+    "url": "https://github.com/matplotlib/matplotlib/issues/29874",
+    "created_at": "2025-04-06T08:27:11Z",
+    "user": "siegbert7",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "explosion/spaCy",
     "id": 2974938515,
     "number": 13790,
@@ -1208,6 +1221,22 @@
     "labels": [
       "bug",
       "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 3003266302,
+    "number": 22853,
+    "title": "BUG: signal.sosfiltfilt: memory leak flagged by memray",
+    "url": "https://github.com/scipy/scipy/issues/22853",
+    "created_at": "2025-04-17T19:18:45Z",
+    "user": "allanah1",
+    "labels": [
+      "defect",
+      "scipy.signal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

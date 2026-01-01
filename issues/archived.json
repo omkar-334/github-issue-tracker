@@ -1,17 +1,49 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 345566678,
-    "number": 11797,
-    "title": "About linestyles: tuple not accepted in rc param file and other inconsistencies",
-    "url": "https://github.com/matplotlib/matplotlib/issues/11797",
-    "created_at": "2018-07-29T22:06:50Z",
-    "user": "ImportanceOfBeingErnest",
+    "repo": "scipy/scipy",
+    "id": 2368609996,
+    "number": 21027,
+    "title": "BUG: linalg.lstsq produces illegal instruction",
+    "url": "https://github.com/scipy/scipy/issues/21027",
+    "created_at": "2024-06-23T15:03:22Z",
+    "user": "mbaudin47",
     "labels": [
-      "API: consistency",
-      "topic: rcparams",
-      "Good first issue",
-      "keep"
+      "defect",
+      "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 2484079962,
+    "number": 134385,
+    "title": "FlopCounterMode doesn't support HOP",
+    "url": "https://github.com/pytorch/pytorch/issues/134385",
+    "created_at": "2024-08-24T00:43:18Z",
+    "user": "yanboliang",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: higher order operators",
+      "module: pt2-dispatcher",
+      "module: flop counter"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "psf/black",
+    "id": 2636740606,
+    "number": 4506,
+    "title": "Test organization improvements",
+    "url": "https://github.com/psf/black/issues/4506",
+    "created_at": "2024-11-05T23:55:39Z",
+    "user": "MeGaGiGaGon",
+    "labels": [
+      "C: maintenance"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

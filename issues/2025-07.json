@@ -3914,6 +3914,19 @@
     "archived": false
   },
   {
+    "repo": "matplotlib/matplotlib",
+    "id": 3263296810,
+    "number": 30355,
+    "title": "[Bug]: violinplot with nan values fails silently",
+    "url": "https://github.com/matplotlib/matplotlib/issues/30355",
+    "created_at": "2025-07-25T13:48:24Z",
+    "user": "lionel42",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pandas-dev/pandas",
     "id": 3263504724,
     "number": 61949,

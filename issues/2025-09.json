@@ -6094,6 +6094,21 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3429257000,
+    "number": 25148,
+    "title": "[Bug]: nccl allReduce error since v0.10.2",
+    "url": "https://github.com/vllm-project/vllm/issues/25148",
+    "created_at": "2025-09-18T08:23:11Z",
+    "user": "wedobetter",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3429484297,
     "number": 25154,
     "title": "[Bug]: AttributeError: 'Parameter' object has no attribute 'load_column_parallel_weight'",
