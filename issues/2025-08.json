@@ -1844,6 +1844,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3317765888,
+    "number": 22808,
+    "title": "[Bug]: Prefix caching with larger batch-sizes and large prompts is much slower and occasionally outputs garbage",
+    "url": "https://github.com/vllm-project/vllm/issues/22808",
+    "created_at": "2025-08-13T10:04:41Z",
+    "user": "mobicham",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pola-rs/polars",
     "id": 3318532102,
     "number": 24046,
@@ -4092,6 +4108,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3362676938,
+    "number": 23820,
+    "title": "[Bug]: Incorrect output throughput calculation for concurrent requests in benchmark_serving.py",
+    "url": "https://github.com/vllm-project/vllm/issues/23820",
+    "created_at": "2025-08-28T10:01:53Z",
+    "user": "z-vishal",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3363792349,
     "number": 940,
@@ -4218,6 +4250,22 @@
     "user": "biba10",
     "labels": [
       "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3366259709,
+    "number": 23925,
+    "title": "[Bug]: _C.abi3.so: undefined symbol: _Z24silu_and_mul_nvfp4_quantRN2at6TensorES1_S1_S1_",
+    "url": "https://github.com/vllm-project/vllm/issues/23925",
+    "created_at": "2025-08-29T09:57:22Z",
+    "user": "Rio-Allen",
+    "labels": [
+      "bug",
       "stale"
     ],
     "has_linked_pr": false,

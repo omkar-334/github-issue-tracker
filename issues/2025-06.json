@@ -1853,6 +1853,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3154475529,
+    "number": 19765,
+    "title": "Vllm + FlexAttention Work Tracking",
+    "url": "https://github.com/vllm-project/vllm/issues/19765",
+    "created_at": "2025-06-17T18:59:16Z",
+    "user": "drisspg",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/vision",
     "id": 3154754914,
     "number": 9109,
