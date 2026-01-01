@@ -108616,8 +108616,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "opencv/opencv-python",
+      "id": 3774824672,
+      "number": 1172,
+      "title": "[Windows] MINGW-W64 experimental build warnings with NumPy 2.2.6 on Python 3.14.2",
+      "url": "https://github.com/opencv/opencv-python/issues/1172",
+      "created_at": "2026-01-01T15:44:36Z",
+      "user": "moizza-nasir",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-01T15:30:49Z",
-  "total_count": 7147
+  "last_updated": "2026-01-01T16:37:02Z",
+  "total_count": 7148
 }
