@@ -472,5 +472,31 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "huggingface/datasets",
+    "id": 3775302438,
+    "number": 7927,
+    "title": "Using Stateful Dataloader with Split Dataset By Node and DCP for DDP",
+    "url": "https://github.com/huggingface/datasets/issues/7927",
+    "created_at": "2026-01-01T22:27:07Z",
+    "user": "conceptofmind",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3775316873,
+    "number": 22334,
+    "title": "SIM105 fix imports `builtins` to access `BaseException`",
+    "url": "https://github.com/astral-sh/ruff/issues/22334",
+    "created_at": "2026-01-01T22:48:54Z",
+    "user": "dscorbett",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
