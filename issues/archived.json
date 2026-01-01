@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "id": 2728723647,
+    "number": 9835,
+    "title": "PyG C++ API",
+    "url": "https://github.com/pyg-team/pytorch_geometric/issues/9835",
+    "created_at": "2024-12-10T01:44:29Z",
+    "user": "mullerhai",
+    "labels": [
+      "feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
