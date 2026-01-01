@@ -717,6 +717,21 @@
     "archived": false
   },
   {
+    "repo": "dmlc/dgl",
+    "id": 3123185647,
+    "number": 7888,
+    "title": "Inquiry about DGL support for NVIDIA Blackwell GPUs",
+    "url": "https://github.com/dmlc/dgl/issues/7888",
+    "created_at": "2025-06-06T00:32:48Z",
+    "user": "liukuozy",
+    "labels": [
+      "stale-issue"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3124489111,
     "number": 11480,
