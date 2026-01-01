@@ -178,5 +178,51 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3774255931,
+    "number": 171594,
+    "title": "Can you tell me which kernel function be used?",
+    "url": "https://github.com/pytorch/pytorch/issues/171594",
+    "created_at": "2026-01-01T07:37:53Z",
+    "user": "lzcchl",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3774294157,
+    "number": 21463,
+    "title": "The training is not working",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21463",
+    "created_at": "2026-01-01T08:19:22Z",
+    "user": "huutuan1705",
+    "labels": [
+      "bug",
+      "needs triage",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3774305622,
+    "number": 21464,
+    "title": "Return Self type in `LightningModule.freeze()` and `LightningModule.unfreeze` method",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21464",
+    "created_at": "2026-01-01T08:31:02Z",
+    "user": "GdoongMathew",
+    "labels": [
+      "feature",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
