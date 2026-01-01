@@ -6215,6 +6215,22 @@
     "archived": false
   },
   {
+    "repo": "run-llama/llama_index",
+    "id": 3430570542,
+    "number": 19899,
+    "title": "[Bug]: TypeError when parsing MCP tool schemas with `additionalProperties: false`",
+    "url": "https://github.com/run-llama/llama_index/issues/19899",
+    "created_at": "2025-09-18T14:11:38Z",
+    "user": "garritfra",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "vllm-project/vllm",
     "id": 3430778979,
     "number": 25176,
