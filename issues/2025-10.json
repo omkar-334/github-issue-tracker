@@ -6198,6 +6198,22 @@
     "archived": false
   },
   {
+    "repo": "pandas-dev/pandas",
+    "id": 3547841333,
+    "number": 62816,
+    "title": "BUG: `.unstack(sort=False)` reorders columns labels without the column values",
+    "url": "https://github.com/pandas-dev/pandas/issues/62816",
+    "created_at": "2025-10-24T06:22:06Z",
+    "user": "aallahyar",
+    "labels": [
+      "Bug",
+      "Reshaping"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3547852147,
     "number": 12854,

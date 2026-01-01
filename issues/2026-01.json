@@ -1,0 +1,75 @@
+[
+  {
+    "repo": "huggingface/smolagents",
+    "id": 3773918598,
+    "number": 1930,
+    "title": "ENH: Handling max output token limit",
+    "url": "https://github.com/huggingface/smolagents/issues/1930",
+    "created_at": "2026-01-01T00:02:18Z",
+    "user": "OscarGarciaF",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3773940517,
+    "number": 3712,
+    "title": "Broken links detected in docs 🔗",
+    "url": "https://github.com/pytorch/tutorials/issues/3712",
+    "created_at": "2026-01-01T00:20:49Z",
+    "user": "github-actions[bot]",
+    "labels": [
+      "incorrect link"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3773967215,
+    "number": 171590,
+    "title": "AssertionError: Attempted setattr on a user-defined object that does not have an AttributeMutation mutation_type",
+    "url": "https://github.com/pytorch/pytorch/issues/171590",
+    "created_at": "2026-01-01T00:58:33Z",
+    "user": "ad8e",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3773969752,
+    "number": 31594,
+    "title": "[Bug]: MiniMax-M2.1 DP8EP Recipe Error on B200",
+    "url": "https://github.com/vllm-project/vllm/issues/31594",
+    "created_at": "2026-01-01T01:01:43Z",
+    "user": "kimbochen",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3774007266,
+    "number": 171591,
+    "title": "PyTorch `torch.ao.nn.quantized.ConvTranspose3d` crashes with floating point exception when `out_channels=0`",
+    "url": "https://github.com/pytorch/pytorch/issues/171591",
+    "created_at": "2026-01-01T01:48:23Z",
+    "user": "KnightGOKU",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  }
+]
