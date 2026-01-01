@@ -57975,6 +57975,21 @@
       "archived": false
     },
     {
+      "repo": "networkx/networkx",
+      "id": 3663377665,
+      "number": 8355,
+      "title": "Performance could be increased for _dijkstra_multisource",
+      "url": "https://github.com/networkx/networkx/issues/8355",
+      "created_at": "2025-11-25T14:47:48Z",
+      "user": "connor-makowski",
+      "labels": [
+        "type: Enhancements"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "unslothai/unsloth",
       "id": 3663391130,
       "number": 3639,
@@ -77429,6 +77444,23 @@
       "created_at": "2025-12-10T10:06:24Z",
       "user": "abheesht17",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3714556258,
+      "number": 25721,
+      "title": "`collect_schema` does not check if `with_row_index` causes a duplicate error",
+      "url": "https://github.com/pola-rs/polars/issues/25721",
+      "created_at": "2025-12-10T10:23:16Z",
+      "user": "cmdlineluser",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -108688,6 +108720,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2026-01-01T17:28:14Z",
-  "total_count": 7152
+  "last_updated": "2026-01-01T18:40:46Z",
+  "total_count": 7154
 }
