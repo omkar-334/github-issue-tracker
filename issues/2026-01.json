@@ -102,5 +102,66 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3774111567,
+    "number": 59796,
+    "title": "[Ray Core] Memory monitor still includes cache when CGroup limit is not set",
+    "url": "https://github.com/ray-project/ray/issues/59796",
+    "created_at": "2026-01-01T04:25:37Z",
+    "user": "XiaoHongbo-Hope",
+    "labels": [
+      "bug",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "catboost/catboost",
+    "id": 3774119169,
+    "number": 2988,
+    "title": "Can't install with python 3.14",
+    "url": "https://github.com/catboost/catboost/issues/2988",
+    "created_at": "2026-01-01T04:38:19Z",
+    "user": "Wuse-MM",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3774147528,
+    "number": 34558,
+    "title": "ToolRuntime isn't injected into BaseTool subclass's _run",
+    "url": "https://github.com/langchain-ai/langchain/issues/34558",
+    "created_at": "2026-01-01T05:19:10Z",
+    "user": "sammyne",
+    "labels": [
+      "bug",
+      "langchain",
+      "openai"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3774154017,
+    "number": 171593,
+    "title": "when using float as dict key, \"unknown source ___as_tensor(self.key).item(), please file a bug\"",
+    "url": "https://github.com/pytorch/pytorch/issues/171593",
+    "created_at": "2026-01-01T05:26:32Z",
+    "user": "ad8e",
+    "labels": [
+      "oncall: pt2"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
