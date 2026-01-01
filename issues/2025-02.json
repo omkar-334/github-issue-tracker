@@ -757,6 +757,23 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 2855983879,
+    "number": 147281,
+    "title": "[inductor][dynamo][fuzzer] `torch.bucketize` causes dynamo maximum recursion depth exceeded error",
+    "url": "https://github.com/pytorch/pytorch/issues/147281",
+    "created_at": "2025-02-16T09:16:48Z",
+    "user": "WLFJ",
+    "labels": [
+      "triaged",
+      "oncall: pt2",
+      "module: dynamo"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/audio",
     "id": 2856534714,
     "number": 3880,
