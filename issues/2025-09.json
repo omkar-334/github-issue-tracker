@@ -8450,6 +8450,21 @@
     "archived": false
   },
   {
+    "repo": "chroma-core/chroma",
+    "id": 3455544903,
+    "number": 5526,
+    "title": "[Bug]: can't ctrl-c out of chroma server",
+    "url": "https://github.com/chroma-core/chroma/issues/5526",
+    "created_at": "2025-09-26T02:16:46Z",
+    "user": "noslouch",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/torchrec",
     "id": 3455646265,
     "number": 3395,

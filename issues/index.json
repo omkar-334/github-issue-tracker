@@ -31408,6 +31408,21 @@
       "archived": false
     },
     {
+      "repo": "chroma-core/chroma",
+      "id": 3455544903,
+      "number": 5526,
+      "title": "[Bug]: can't ctrl-c out of chroma server",
+      "url": "https://github.com/chroma-core/chroma/issues/5526",
+      "created_at": "2025-09-26T02:16:46Z",
+      "user": "noslouch",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "meta-pytorch/torchrec",
       "id": 3455646265,
       "number": 3395,
@@ -108225,8 +108240,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "id": 3774178783,
+      "number": 12905,
+      "title": "Wrong Z_Image guidance scale implementation",
+      "url": "https://github.com/huggingface/diffusers/issues/12905",
+      "created_at": "2026-01-01T06:04:15Z",
+      "user": "Trgtuan10",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-01T05:36:22Z",
-  "total_count": 7121
+  "last_updated": "2026-01-01T06:44:52Z",
+  "total_count": 7123
 }
