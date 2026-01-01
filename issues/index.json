@@ -108779,8 +108779,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3775188399,
+      "number": 25928,
+      "title": "Dynamic partition overwrite",
+      "url": "https://github.com/pola-rs/polars/issues/25928",
+      "created_at": "2026-01-01T20:58:55Z",
+      "user": "duhizjame",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3775199981,
+      "number": 43079,
+      "title": "[Bug] qwen2_5_omni: Hardcoded noise_initialization length of '30000' causes shape mismatch",
+      "url": "https://github.com/huggingface/transformers/issues/43079",
+      "created_at": "2026-01-01T21:08:00Z",
+      "user": "sniper35",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-01T20:33:14Z",
-  "total_count": 7158
+  "last_updated": "2026-01-01T21:28:45Z",
+  "total_count": 7160
 }

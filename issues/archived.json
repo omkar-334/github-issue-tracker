@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "repo": "psf/black",
+    "id": 2636740606,
+    "number": 4506,
+    "title": "Test organization improvements",
+    "url": "https://github.com/psf/black/issues/4506",
+    "created_at": "2024-11-05T23:55:39Z",
+    "user": "MeGaGiGaGon",
+    "labels": [
+      "C: maintenance"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
