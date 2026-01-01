@@ -147,6 +147,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3474532251,
+    "number": 26037,
+    "title": "[Bug]: `vllm serve --help` still spends time on CUDA init",
+    "url": "https://github.com/vllm-project/vllm/issues/26037",
+    "created_at": "2025-10-01T17:55:31Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3474995443,
     "number": 164402,

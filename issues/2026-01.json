@@ -366,5 +366,38 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3774756402,
+    "number": 22328,
+    "title": "Identical/duplicate rules: compare-with-tuple (SIM109) and repeated-equality-comparison (PLR1714)",
+    "url": "https://github.com/astral-sh/ruff/issues/22328",
+    "created_at": "2026-01-01T14:36:34Z",
+    "user": "GideonBear",
+    "labels": [
+      "rule",
+      "breaking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3774767425,
+    "number": 21465,
+    "title": "[Doc] https://lightning.ai/docs/pytorch/stable/ not showing the latest 2.6.0 doc",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21465",
+    "created_at": "2026-01-01T14:49:15Z",
+    "user": "wingkitlee0",
+    "labels": [
+      "bug",
+      "needs triage",
+      "ver: 2.5.x"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
