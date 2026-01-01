@@ -108406,8 +108406,34 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "huggingface/trl",
+      "id": 3774455319,
+      "number": 4767,
+      "title": "Can't find completions in wandb and using IS correction causes loss=0.0",
+      "url": "https://github.com/huggingface/trl/issues/4767",
+      "created_at": "2026-01-01T10:50:39Z",
+      "user": "Aurora-1412",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "facebookresearch/faiss",
+      "id": 3774474189,
+      "number": 4744,
+      "title": "IndexIVFPQ training OOM with smaller nlist (65536) but works with larger nlist (524288) on 120M x 2560d dataset",
+      "url": "https://github.com/facebookresearch/faiss/issues/4744",
+      "created_at": "2026-01-01T11:05:07Z",
+      "user": "ShacklesLay",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-01T10:32:48Z",
-  "total_count": 7133
+  "last_updated": "2026-01-01T11:27:00Z",
+  "total_count": 7135
 }
