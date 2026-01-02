@@ -498,5 +498,47 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3775355098,
+    "number": 171602,
+    "title": "[MPS] grid_sampler_3d produces incorrect results with non-contiguous grid tensor",
+    "url": "https://github.com/pytorch/pytorch/issues/171602",
+    "created_at": "2026-01-01T23:36:07Z",
+    "user": "ctrlaltdilj",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 3775418499,
+    "number": 21466,
+    "title": "Trackio logger",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21466",
+    "created_at": "2026-01-02T01:13:17Z",
+    "user": "edufschmidt",
+    "labels": [
+      "feature",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "psf/black",
+    "id": 3775449034,
+    "number": 4932,
+    "title": "Hola mundo python3 install -e.",
+    "url": "https://github.com/psf/black/issues/4932",
+    "created_at": "2026-01-02T02:00:46Z",
+    "user": "rafaelplacido86882-art",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

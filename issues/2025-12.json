@@ -951,6 +951,22 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3682042568,
+    "number": 22859,
+    "title": "Improve native support for H.264 and H.265 decoding in Ultralytics YOLO pipelines",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22859",
+    "created_at": "2025-12-01T17:23:43Z",
+    "user": "Rasantis",
+    "labels": [
+      "enhancement",
+      "Stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/transformers",
     "id": 3682053383,
     "number": 42533,

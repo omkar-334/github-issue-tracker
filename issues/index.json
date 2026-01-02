@@ -1,36 +1,6 @@
 {
   "issues": [
     {
-      "repo": "3b1b/manim",
-      "id": 2764920169,
-      "number": 2288,
-      "title": "Brace doesn't work with unicode-math",
-      "url": "https://github.com/3b1b/manim/issues/2288",
-      "created_at": "2025-01-01T08:08:33Z",
-      "user": "xiao-ming-hub",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "huggingface/optimum",
-      "id": 2764969850,
-      "number": 2144,
-      "title": "Qwen RuntimeError: The serialized model is larger than the 2GiB",
-      "url": "https://github.com/huggingface/optimum/issues/2144",
-      "created_at": "2025-01-01T09:59:58Z",
-      "user": "santoshk17",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "pytorch/audio",
       "id": 2765321329,
       "number": 3868,
@@ -63171,6 +63141,22 @@
       "archived": false
     },
     {
+      "repo": "ultralytics/ultralytics",
+      "id": 3676453679,
+      "number": 22837,
+      "title": "Default Hyperparameter Selection Inquiry",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22837",
+      "created_at": "2025-11-29T07:21:10Z",
+      "user": "bjh03205",
+      "labels": [
+        "question",
+        "Stale"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/diffusers",
       "id": 3676461764,
       "number": 12745,
@@ -65004,6 +64990,22 @@
       "created_at": "2025-12-01T16:59:13Z",
       "user": "mergennachin",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3682042568,
+      "number": 22859,
+      "title": "Improve native support for H.264 and H.265 decoding in Ultralytics YOLO pipelines",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22859",
+      "created_at": "2025-12-01T17:23:43Z",
+      "user": "Rasantis",
+      "labels": [
+        "enhancement",
+        "Stale"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -108850,8 +108852,50 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3775355098,
+      "number": 171602,
+      "title": "[MPS] grid_sampler_3d produces incorrect results with non-contiguous grid tensor",
+      "url": "https://github.com/pytorch/pytorch/issues/171602",
+      "created_at": "2026-01-01T23:36:07Z",
+      "user": "ctrlaltdilj",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "Lightning-AI/pytorch-lightning",
+      "id": 3775418499,
+      "number": 21466,
+      "title": "Trackio logger",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21466",
+      "created_at": "2026-01-02T01:13:17Z",
+      "user": "edufschmidt",
+      "labels": [
+        "feature",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "psf/black",
+      "id": 3775449034,
+      "number": 4932,
+      "title": "Hola mundo python3 install -e.",
+      "url": "https://github.com/psf/black/issues/4932",
+      "created_at": "2026-01-02T02:00:46Z",
+      "user": "rafaelplacido86882-art",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-01T23:29:11Z",
-  "total_count": 7163
+  "last_updated": "2026-01-02T02:07:12Z",
+  "total_count": 7166
 }

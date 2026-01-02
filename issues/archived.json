@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2752062852,
+    "number": 26621,
+    "title": "Intuitive scheduling with dbt_assets",
+    "url": "https://github.com/dagster-io/dagster/issues/26621",
+    "created_at": "2024-12-20T06:46:44Z",
+    "user": "Auric-Manteo",
+    "labels": [
+      "type: feature-request",
+      "integration: dbt",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "3b1b/manim",
+    "id": 2764920169,
+    "number": 2288,
+    "title": "Brace doesn't work with unicode-math",
+    "url": "https://github.com/3b1b/manim/issues/2288",
+    "created_at": "2025-01-01T08:08:33Z",
+    "user": "xiao-ming-hub",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "huggingface/optimum",
+    "id": 2764969850,
+    "number": 2144,
+    "title": "Qwen RuntimeError: The serialized model is larger than the 2GiB",
+    "url": "https://github.com/huggingface/optimum/issues/2144",
+    "created_at": "2025-01-01T09:59:58Z",
+    "user": "santoshk17",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  }
+]
