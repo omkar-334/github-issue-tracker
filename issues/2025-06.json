@@ -1635,6 +1635,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3146184785,
+    "number": 155992,
+    "title": "[feature request] Native checkpointing to/from `s3://` (DCP / `torch.load` / `torch.save`)",
+    "url": "https://github.com/pytorch/pytorch/issues/155992",
+    "created_at": "2025-06-14T13:41:59Z",
+    "user": "vadimkantorov",
+    "labels": [
+      "feature",
+      "module: serialization",
+      "triaged",
+      "oncall: distributed checkpointing"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "open-mmlab/mmdetection",
     "id": 3147394442,
     "number": 12375,

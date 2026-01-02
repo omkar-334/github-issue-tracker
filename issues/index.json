@@ -11984,6 +11984,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3146184785,
+      "number": 155992,
+      "title": "[feature request] Native checkpointing to/from `s3://` (DCP / `torch.load` / `torch.save`)",
+      "url": "https://github.com/pytorch/pytorch/issues/155992",
+      "created_at": "2025-06-14T13:41:59Z",
+      "user": "vadimkantorov",
+      "labels": [
+        "feature",
+        "module: serialization",
+        "triaged",
+        "oncall: distributed checkpointing"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "open-mmlab/mmdetection",
       "id": 3147394442,
       "number": 12375,
@@ -109430,8 +109448,113 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "id": 3776101113,
+      "number": 63540,
+      "title": "DOC: Fix SA01,EX01 for pandas.DataFrame.from_arrow",
+      "url": "https://github.com/pandas-dev/pandas/issues/63540",
+      "created_at": "2026-01-02T10:42:19Z",
+      "user": "tuhinsharma121",
+      "labels": [
+        "Docs",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3776119505,
+      "number": 34581,
+      "title": "PydanticInvalidForJsonSchema error is raised when trying to get args for a tool that has a tool runtime parameter",
+      "url": "https://github.com/langchain-ai/langchain/issues/34581",
+      "created_at": "2026-01-02T10:53:44Z",
+      "user": "MElkady",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3776124689,
+      "number": 1591,
+      "title": "[ENH] Add `ReprMixin` to share `__repr__` formatting across OpenML classes",
+      "url": "https://github.com/openml/openml-python/issues/1591",
+      "created_at": "2026-01-02T10:56:43Z",
+      "user": "JATAYU000",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3776156535,
+      "number": 1592,
+      "title": "[ENH] V1 → V2 API Migration - datasets",
+      "url": "https://github.com/openml/openml-python/issues/1592",
+      "created_at": "2026-01-02T11:16:15Z",
+      "user": "fkiraly",
+      "labels": [
+        "enhancement",
+        "module:Data"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3776157566,
+      "number": 1593,
+      "title": "[ENH] V1 → V2 API Migration - evaluation measures",
+      "url": "https://github.com/openml/openml-python/issues/1593",
+      "created_at": "2026-01-02T11:16:57Z",
+      "user": "fkiraly",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "openml/openml-python",
+      "id": 3776159364,
+      "number": 1594,
+      "title": "[ENH] V1 → V2 API Migration - studies",
+      "url": "https://github.com/openml/openml-python/issues/1594",
+      "created_at": "2026-01-02T11:18:07Z",
+      "user": "fkiraly",
+      "labels": [
+        "enhancement",
+        "module:Study/Suite"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3776163519,
+      "number": 3657,
+      "title": "[Feature Request] Support explicitly mapping Model IDs to local paths",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3657",
+      "created_at": "2026-01-02T11:20:47Z",
+      "user": "Gianthard-cyh",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T10:31:49Z",
-  "total_count": 7201
+  "last_updated": "2026-01-02T11:27:15Z",
+  "total_count": 7209
 }
