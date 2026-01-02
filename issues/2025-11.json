@@ -15872,11 +15872,41 @@
   },
   {
     "repo": "vllm-project/vllm",
+    "id": 3665057905,
+    "number": 29459,
+    "title": "[CI Failure]: mi325_1: Language Models Test (Extended Generation)",
+    "url": "https://github.com/vllm-project/vllm/issues/29459",
+    "created_at": "2025-11-26T00:10:32Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
     "id": 3665088011,
     "number": 29463,
     "title": "[CI Failure]: mi325_1: Language Models Tests (Standard)",
     "url": "https://github.com/vllm-project/vllm/issues/29463",
     "created_at": "2025-11-26T00:24:27Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3665122330,
+    "number": 29466,
+    "title": "[CI Failure]: mi325_1: Language Models Test (Extended Pooling)",
+    "url": "https://github.com/vllm-project/vllm/issues/29466",
+    "created_at": "2025-11-26T00:41:57Z",
     "user": "AndreasKaratzas",
     "labels": [
       "ci-failure"

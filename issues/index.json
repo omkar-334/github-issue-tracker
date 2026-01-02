@@ -58434,11 +58434,41 @@
     },
     {
       "repo": "vllm-project/vllm",
+      "id": 3665057905,
+      "number": 29459,
+      "title": "[CI Failure]: mi325_1: Language Models Test (Extended Generation)",
+      "url": "https://github.com/vllm-project/vllm/issues/29459",
+      "created_at": "2025-11-26T00:10:32Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
       "id": 3665088011,
       "number": 29463,
       "title": "[CI Failure]: mi325_1: Language Models Tests (Standard)",
       "url": "https://github.com/vllm-project/vllm/issues/29463",
       "created_at": "2025-11-26T00:24:27Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3665122330,
+      "number": 29466,
+      "title": "[CI Failure]: mi325_1: Language Models Test (Extended Pooling)",
+      "url": "https://github.com/vllm-project/vllm/issues/29466",
+      "created_at": "2025-11-26T00:41:57Z",
       "user": "AndreasKaratzas",
       "labels": [
         "ci-failure"
@@ -108894,8 +108924,21 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3775520237,
+      "number": 171604,
+      "title": "NotImplementedError when using AsyncCollectiveTensor with torch.func.jvp",
+      "url": "https://github.com/pytorch/pytorch/issues/171604",
+      "created_at": "2026-01-02T03:39:45Z",
+      "user": "KimbingNg",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T02:07:12Z",
-  "total_count": 7166
+  "last_updated": "2026-01-02T04:09:45Z",
+  "total_count": 7169
 }

@@ -540,5 +540,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3775520237,
+    "number": 171604,
+    "title": "NotImplementedError when using AsyncCollectiveTensor with torch.func.jvp",
+    "url": "https://github.com/pytorch/pytorch/issues/171604",
+    "created_at": "2026-01-02T03:39:45Z",
+    "user": "KimbingNg",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
