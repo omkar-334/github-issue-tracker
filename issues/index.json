@@ -230,6 +230,22 @@
       "archived": false
     },
     {
+      "repo": "prefecthq/prefect",
+      "id": 2771285713,
+      "number": 16626,
+      "title": "clean up `I/O operation on closed file` errors during test suite",
+      "url": "https://github.com/PrefectHQ/prefect/issues/16626",
+      "created_at": "2025-01-06T19:19:14Z",
+      "user": "zzstoatzz",
+      "labels": [
+        "bug",
+        "development"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "facebookresearch/fairseq",
       "id": 2771312637,
       "number": 5588,
@@ -13341,6 +13357,27 @@
       "labels": [
         "feature",
         "accelerator"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3175744219,
+      "number": 156819,
+      "title": "FakeTensorUpdater doesn't support HOPs",
+      "url": "https://github.com/pytorch/pytorch/issues/156819",
+      "created_at": "2025-06-25T13:51:30Z",
+      "user": "zou3519",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: fakeTensor",
+        "module: inductor",
+        "module: pt2-dispatcher",
+        "pt2: ubn"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -110116,8 +110153,39 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3777286647,
+      "number": 3824,
+      "title": "[Bug] RuntimeError: Unsloth: No working quantizer found in llama.cpp",
+      "url": "https://github.com/unslothai/unsloth/issues/3824",
+      "created_at": "2026-01-02T21:32:39Z",
+      "user": "fanttom87",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unit8co/darts",
+      "id": 3777299204,
+      "number": 2982,
+      "title": "[BUG] seems def TimeSeries.to_dataframe(...) is mistakenly removed in the 0.40.0 version.",
+      "url": "https://github.com/unit8co/darts/issues/2982",
+      "created_at": "2026-01-02T21:43:10Z",
+      "user": "sisiAI0x08",
+      "labels": [
+        "bug",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T21:24:37Z",
-  "total_count": 7247
+  "last_updated": "2026-01-02T22:30:01Z",
+  "total_count": 7251
 }

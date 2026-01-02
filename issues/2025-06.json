@@ -2880,6 +2880,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3175744219,
+    "number": 156819,
+    "title": "FakeTensorUpdater doesn't support HOPs",
+    "url": "https://github.com/pytorch/pytorch/issues/156819",
+    "created_at": "2025-06-25T13:51:30Z",
+    "user": "zou3519",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: fakeTensor",
+      "module: inductor",
+      "module: pt2-dispatcher",
+      "pt2: ubn"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3176622947,
     "number": 54101,

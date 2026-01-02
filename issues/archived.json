@@ -1,15 +1,16 @@
 [
   {
     "repo": "matplotlib/matplotlib",
-    "id": 1095247623,
-    "number": 22126,
-    "title": "[ENH]: Support `pandas.NA`",
-    "url": "https://github.com/matplotlib/matplotlib/issues/22126",
-    "created_at": "2022-01-06T11:54:10Z",
-    "user": "randolf-scholz",
+    "id": 345566678,
+    "number": 11797,
+    "title": "About linestyles: tuple not accepted in rc param file and other inconsistencies",
+    "url": "https://github.com/matplotlib/matplotlib/issues/11797",
+    "created_at": "2018-07-29T22:06:50Z",
+    "user": "ImportanceOfBeingErnest",
     "labels": [
-      "New feature",
-      "third-party integration: pandas",
+      "API: consistency",
+      "topic: rcparams",
+      "Good first issue",
       "keep"
     ],
     "has_linked_pr": false,
@@ -17,16 +18,51 @@
     "archived": true
   },
   {
-    "repo": "dagster-io/dagster",
-    "id": 2046759067,
-    "number": 18789,
-    "title": "Batch `ASSET_MATERIALISATION`s and add ability for jobs to respect `BackfillPolicy` of assets",
-    "url": "https://github.com/dagster-io/dagster/issues/18789",
-    "created_at": "2023-12-18T14:13:47Z",
-    "user": "j-blackwell",
+    "repo": "pandas-dev/pandas",
+    "id": 527525211,
+    "number": 29813,
+    "title": "Series.replace not working on slices of heterogenoues types",
+    "url": "https://github.com/pandas-dev/pandas/issues/29813",
+    "created_at": "2019-11-23T07:51:32Z",
+    "user": "bluenote10",
     "labels": [
-      "area: backfill",
-      "stale"
+      "Bug",
+      "Missing-data",
+      "good first issue",
+      "Needs Tests",
+      "replace"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1391233385,
+    "number": 24052,
+    "title": "[Doc]: contour with explicit colors: ignore cmap/norm parameters instead of raising",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24052",
+    "created_at": "2022-09-29T17:28:58Z",
+    "user": "Atcold",
+    "labels": [
+      "API: consistency",
+      "API: changes",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
