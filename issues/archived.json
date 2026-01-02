@@ -1,13 +1,15 @@
 [
   {
-    "repo": "scikit-learn-contrib/imbalanced-learn",
-    "id": 2621146217,
-    "number": 1102,
-    "title": "[ENH] Handling time series/3D data",
-    "url": "https://github.com/scikit-learn-contrib/imbalanced-learn/issues/1102",
-    "created_at": "2024-10-29T12:48:00Z",
-    "user": "jeiglsperger",
-    "labels": [],
+    "repo": "astral-sh/ruff",
+    "id": 2206313455,
+    "number": 10578,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/astral-sh/ruff/issues/10578",
+    "created_at": "2024-03-25T17:34:22Z",
+    "user": "renovate[bot]",
+    "labels": [
+      "internal"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
