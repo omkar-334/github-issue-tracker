@@ -9017,6 +9017,19 @@
     "archived": false
   },
   {
+    "repo": "holoviz/panel",
+    "id": 3462152433,
+    "number": 8223,
+    "title": "Simple Example Apps in Docs",
+    "url": "https://github.com/holoviz/panel/issues/8223",
+    "created_at": "2025-09-28T16:00:53Z",
+    "user": "gjkoplik",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "numpy/numpy",
     "id": 3462292534,
     "number": 29824,

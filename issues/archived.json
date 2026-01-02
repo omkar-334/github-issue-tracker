@@ -1,33 +1,33 @@
 [
   {
-    "repo": "pytorch/pytorch",
-    "id": 1052785126,
-    "number": 68320,
-    "title": "Potential race conditions between multiple workers trying to download and cache the same file in torch.hub.load_state_dict_from_url and torch.hub.download_url_to_file <- duplicate dataset/model downloads across DDP workers",
-    "url": "https://github.com/pytorch/pytorch/issues/68320",
-    "created_at": "2021-11-13T22:04:43Z",
-    "user": "vadimkantorov",
+    "repo": "Lightning-AI/pytorch-lightning",
+    "id": 1629496862,
+    "number": 17127,
+    "title": "Global step reset when restoring checkpoints with trainer.validate",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning/issues/17127",
+    "created_at": "2023-03-17T15:20:41Z",
+    "user": "nicolas-dufour",
     "labels": [
-      "high priority",
-      "triaged",
-      "module: hub",
-      "actionable"
+      "feature",
+      "checkpointing",
+      "loops",
+      "pl"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/pytorch",
-    "id": 1527639060,
-    "number": 91965,
-    "title": "Proxy/cache server option/hooks for downloading model checkpoints and dataset archive files in cloud environment",
-    "url": "https://github.com/pytorch/pytorch/issues/91965",
-    "created_at": "2023-01-10T16:00:35Z",
-    "user": "vadimkantorov",
+    "repo": "streamlit/streamlit",
+    "id": 2635747386,
+    "number": 9786,
+    "title": "Using AppTest, st.dialog does not execute code within st.buttons",
+    "url": "https://github.com/streamlit/streamlit/issues/9786",
+    "created_at": "2024-11-05T15:15:32Z",
+    "user": "michue-work",
     "labels": [
-      "triaged",
-      "module: hub"
+      "type:enhancement",
+      "feature:app-testing"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

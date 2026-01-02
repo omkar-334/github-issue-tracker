@@ -935,6 +935,22 @@
     "archived": false
   },
   {
+    "repo": "unslothai/unsloth",
+    "id": 3129120556,
+    "number": 2707,
+    "title": "[Feature] Diffusion Model Fine tuning",
+    "url": "https://github.com/unslothai/unsloth/issues/2707",
+    "created_at": "2025-06-09T04:42:49Z",
+    "user": "Sweaterdog",
+    "labels": [
+      "feature request",
+      "inactive"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/text-generation-inference",
     "id": 3129249250,
     "number": 3259,

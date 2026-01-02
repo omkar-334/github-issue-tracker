@@ -2503,6 +2503,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3331496400,
+    "number": 23120,
+    "title": "[Bug]: Structured output is not correctly enforced when using GPT-OSS",
+    "url": "https://github.com/vllm-project/vllm/issues/23120",
+    "created_at": "2025-08-18T17:12:22Z",
+    "user": "jmracek",
+    "labels": [
+      "bug",
+      "gpt-oss"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/datasets",
     "id": 3331537762,
     "number": 7739,
