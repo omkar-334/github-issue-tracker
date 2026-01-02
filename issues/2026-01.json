@@ -1284,5 +1284,49 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "id": 3777102161,
+    "number": 13497,
+    "title": "Feature Request: Add required* parameter in st.text_input",
+    "url": "https://github.com/streamlit/streamlit/issues/13497",
+    "created_at": "2026-01-02T19:38:46Z",
+    "user": "vijote",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "id": 3777137772,
+    "number": 8030,
+    "title": "BUG: `sample_smc` stalls on final stage",
+    "url": "https://github.com/pymc-devs/pymc/issues/8030",
+    "created_at": "2026-01-02T19:56:40Z",
+    "user": "tvwenger",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3777174072,
+    "number": 59813,
+    "title": "[Core][Observability] Add 'reprName' to event schema",
+    "url": "https://github.com/ray-project/ray/issues/59813",
+    "created_at": "2026-01-02T20:14:08Z",
+    "user": "chiayi",
+    "labels": [
+      "enhancement",
+      "triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
