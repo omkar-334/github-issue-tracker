@@ -13344,6 +13344,21 @@
       "archived": false
     },
     {
+      "repo": "deepset-ai/haystack",
+      "id": 3182323470,
+      "number": 9561,
+      "title": "Handle Document ids consistently and enable custom `id_hash_keys`",
+      "url": "https://github.com/deepset-ai/haystack/issues/9561",
+      "created_at": "2025-06-27T10:40:00Z",
+      "user": "julian-risch",
+      "labels": [
+        "P2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "keras-team/keras-hub",
       "id": 3183627555,
       "number": 2313,
@@ -46446,6 +46461,24 @@
       "user": "Guido1Alessandro1Trevisan",
       "labels": [
         "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3605712187,
+      "number": 167430,
+      "title": "stride mismatch between eager and compile for _c10d_functional.all_reduce",
+      "url": "https://github.com/pytorch/pytorch/issues/167430",
+      "created_at": "2025-11-10T00:51:22Z",
+      "user": "BoyuanFeng",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: inductor"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -109185,8 +109218,70 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 3775895045,
+      "number": 59805,
+      "title": "[RLlib] Support truly asynchronous training for real-time, non-emulated environments (no environment blocking)",
+      "url": "https://github.com/ray-project/ray/issues/59805",
+      "created_at": "2026-01-02T08:59:48Z",
+      "user": "merhovon",
+      "labels": [
+        "enhancement",
+        "triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3775901809,
+      "number": 25933,
+      "title": "Chained over expressions collapsing to one",
+      "url": "https://github.com/pola-rs/polars/issues/25933",
+      "created_at": "2026-01-02T09:03:50Z",
+      "user": "t-ded",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/executorch",
+      "id": 3775920202,
+      "number": 16426,
+      "title": "Accuracy drop : DeiT-tiny & LLaMA behavior differences between FP / Decomposition / FQ / TOSA",
+      "url": "https://github.com/pytorch/executorch/issues/16426",
+      "created_at": "2026-01-02T09:12:54Z",
+      "user": "hth000",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3775937539,
+      "number": 23106,
+      "title": "如何调整show参数展示出的窗口大小和位置",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23106",
+      "created_at": "2026-01-02T09:20:56Z",
+      "user": "Wenlong914",
+      "labels": [
+        "question",
+        "advice needed"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T08:40:21Z",
-  "total_count": 7185
+  "last_updated": "2026-01-02T09:34:50Z",
+  "total_count": 7191
 }

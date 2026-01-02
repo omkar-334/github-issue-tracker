@@ -3861,6 +3861,24 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3605712187,
+    "number": 167430,
+    "title": "stride mismatch between eager and compile for _c10d_functional.all_reduce",
+    "url": "https://github.com/pytorch/pytorch/issues/167430",
+    "created_at": "2025-11-10T00:51:22Z",
+    "user": "BoyuanFeng",
+    "labels": [
+      "high priority",
+      "triaged",
+      "oncall: pt2",
+      "module: inductor"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ultralytics/ultralytics",
     "id": 3605765230,
     "number": 22640,
