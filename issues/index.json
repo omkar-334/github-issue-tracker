@@ -109738,8 +109738,82 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3776511506,
+      "number": 8356,
+      "title": "AttributeError: 'bool' object has no attribute 'is_set'",
+      "url": "https://github.com/holoviz/panel/issues/8356",
+      "created_at": "2026-01-02T09:04:25Z",
+      "user": "MarcSkovMadsen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "id": 3776513138,
+      "number": 12620,
+      "title": "[Bug] `update_parent_overlap` is not added into resize listner",
+      "url": "https://github.com/gradio-app/gradio/issues/12620",
+      "created_at": "2026-01-02T14:43:39Z",
+      "user": "light-and-ray",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "numpy/numpy",
+      "id": 3776529027,
+      "number": 30561,
+      "title": "BUG: NumPy pixi-packages does not satisfy dependency of pypi packages",
+      "url": "https://github.com/numpy/numpy/issues/30561",
+      "created_at": "2026-01-02T14:53:22Z",
+      "user": "crusaderky",
+      "labels": [
+        "00 - Bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3776564965,
+      "number": 25936,
+      "title": "Reproducible random number generator",
+      "url": "https://github.com/pola-rs/polars/issues/25936",
+      "created_at": "2026-01-02T15:13:40Z",
+      "user": "dpinol",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3776573415,
+      "number": 31624,
+      "title": "[Bug]: ModelOpt Llama-4 Checkpoints Take 5+ minutes to load",
+      "url": "https://github.com/vllm-project/vllm/issues/31624",
+      "created_at": "2026-01-02T15:18:14Z",
+      "user": "robertgshaw2-redhat",
+      "labels": [
+        "bug",
+        "help wanted",
+        "good first issue",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T14:30:24Z",
-  "total_count": 7222
+  "last_updated": "2026-01-02T15:31:54Z",
+  "total_count": 7227
 }
