@@ -1388,5 +1388,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3777406684,
+    "number": 31631,
+    "title": "[CI Failure]:  mi325_1: V1 Test others",
+    "url": "https://github.com/vllm-project/vllm/issues/31631",
+    "created_at": "2026-01-02T22:59:12Z",
+    "user": "AndreasKaratzas",
+    "labels": [
+      "ci-failure"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

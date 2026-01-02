@@ -5005,6 +5005,27 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3614764250,
+    "number": 167613,
+    "title": "UNSTABLE inductor-periodic / inductor-smoke-test / test (inductor_torchbench_smoketest_perf)",
+    "url": "https://github.com/pytorch/pytorch/issues/167613",
+    "created_at": "2025-11-12T03:47:42Z",
+    "user": "zou3519",
+    "labels": [
+      "high priority",
+      "module: ci",
+      "triaged",
+      "module: cuda graphs",
+      "oncall: pt2",
+      "module: inductor",
+      "unstable"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "openai/openai-python",
     "id": 3614784612,
     "number": 2749,

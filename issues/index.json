@@ -31944,6 +31944,21 @@
       "archived": false
     },
     {
+      "repo": "lancedb/lancedb",
+      "id": 3456376421,
+      "number": 2683,
+      "title": "bug(python): Can not use list[LanceModel] inside LanceModel",
+      "url": "https://github.com/lancedb/lancedb/issues/2683",
+      "created_at": "2025-09-26T08:34:05Z",
+      "user": "manhld0206",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3456464230,
       "number": 25756,
@@ -47903,6 +47918,27 @@
       "labels": [
         "topic: mplot3d",
         "status: confirmed bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3614764250,
+      "number": 167613,
+      "title": "UNSTABLE inductor-periodic / inductor-smoke-test / test (inductor_torchbench_smoketest_perf)",
+      "url": "https://github.com/pytorch/pytorch/issues/167613",
+      "created_at": "2025-11-12T03:47:42Z",
+      "user": "zou3519",
+      "labels": [
+        "high priority",
+        "module: ci",
+        "triaged",
+        "module: cuda graphs",
+        "oncall: pt2",
+        "module: inductor",
+        "unstable"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -110184,8 +110220,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3777406684,
+      "number": 31631,
+      "title": "[CI Failure]:  mi325_1: V1 Test others",
+      "url": "https://github.com/vllm-project/vllm/issues/31631",
+      "created_at": "2026-01-02T22:59:12Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "ci-failure"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T22:30:01Z",
-  "total_count": 7251
+  "last_updated": "2026-01-02T23:27:56Z",
+  "total_count": 7254
 }
