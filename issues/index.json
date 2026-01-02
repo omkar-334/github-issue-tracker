@@ -3230,6 +3230,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 2890648304,
+      "number": 148317,
+      "title": "compile SageAttention faing error C2872: “std” for latest torch nightly",
+      "url": "https://github.com/pytorch/pytorch/issues/148317",
+      "created_at": "2025-03-03T09:26:12Z",
+      "user": "NOFOX",
+      "labels": [
+        "module: windows",
+        "triaged",
+        "module: regression",
+        "oncall: pt2"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/executorch",
       "id": 2890747479,
       "number": 8878,
@@ -8156,6 +8174,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3051197201,
+      "number": 17887,
+      "title": "[Feature]: Add Support for thinking_budget for Qwen3 Models",
+      "url": "https://github.com/vllm-project/vllm/issues/17887",
+      "created_at": "2025-05-09T07:04:03Z",
+      "user": "raghavgarg97",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/text-generation-inference",
       "id": 3051211387,
       "number": 3216,
@@ -10226,6 +10259,21 @@
       "user": "Nero10578",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "dmlc/xgboost",
+      "id": 3103763267,
+      "number": 11493,
+      "title": "Feature proposal - groupSHAP",
+      "url": "https://github.com/dmlc/xgboost/issues/11493",
+      "created_at": "2025-05-30T17:08:06Z",
+      "user": "OlivierBinette",
+      "labels": [
+        "feature-request"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -21908,6 +21956,24 @@
       "created_at": "2025-08-25T16:54:57Z",
       "user": "taj54",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3352614340,
+      "number": 17387,
+      "title": "[BUG] SHAP plots in ShapEvaluator trigger FutureWarning about NumPy global RNG (SHAP SPEC 7, NEP 19)",
+      "url": "https://github.com/mlflow/mlflow/issues/17387",
+      "created_at": "2025-08-25T17:20:10Z",
+      "user": "KhalilM94",
+      "labels": [
+        "bug",
+        "help wanted",
+        "has-closing-pr",
+        "area/evaluation"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -106631,6 +106697,19 @@
     },
     {
       "repo": "pytorch/pytorch",
+      "id": 3769112792,
+      "number": 171501,
+      "title": "Several Windows-related GitHub Actions not running — are they intentionally disabled?",
+      "url": "https://github.com/pytorch/pytorch/issues/171501",
+      "created_at": "2025-12-30T05:29:20Z",
+      "user": "vortex-captain",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
       "id": 3769168100,
       "number": 171505,
       "title": "PyTorch `torch.sparse.spdiags` fails when target shape contains zero dimension",
@@ -106898,6 +106977,19 @@
       "url": "https://github.com/pytorch/ignite/issues/3476",
       "created_at": "2025-12-30T09:30:29Z",
       "user": "qwfy",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3769612943,
+      "number": 171517,
+      "title": "FSDP.clip_grad_norm_ rejects mixed-dtype gradients despite documentation and return-dtype semantics suggesting support",
+      "url": "https://github.com/pytorch/pytorch/issues/171517",
+      "created_at": "2025-12-30T09:32:09Z",
+      "user": "LiuZhihao2022",
       "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -107373,6 +107465,19 @@
       "url": "https://github.com/dmlc/xgboost/issues/11899",
       "created_at": "2025-12-30T19:49:56Z",
       "user": "trivialfis",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3771225106,
+      "number": 171536,
+      "title": "`torch.nn.PixelUnshuffle` throws RuntimeError: Stride calculation overflowed on CUDA with empty input and large downscale factor (CPU succeeds)",
+      "url": "https://github.com/pytorch/pytorch/issues/171536",
+      "created_at": "2025-12-30T20:29:29Z",
+      "user": "jiren-the-gray",
       "labels": [],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -108519,6 +108624,19 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3774022891,
+      "number": 171592,
+      "title": "When does it make sense to compile DDP vs not?",
+      "url": "https://github.com/pytorch/pytorch/issues/171592",
+      "created_at": "2026-01-01T02:12:06Z",
+      "user": "conceptofmind",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3774050621,
       "number": 59795,
@@ -109280,8 +109398,40 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3775973112,
+      "number": 25934,
+      "title": "TypeError: len() of unsized object when using `map_elements`",
+      "url": "https://github.com/pola-rs/polars/issues/25934",
+      "created_at": "2026-01-02T09:39:08Z",
+      "user": "ajohnson5",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3776066003,
+      "number": 31623,
+      "title": "[Bug]: Minimax-M2.1 Error loading QKV for partial quantized version",
+      "url": "https://github.com/vllm-project/vllm/issues/31623",
+      "created_at": "2026-01-02T10:25:55Z",
+      "user": "mratsim",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T09:34:50Z",
-  "total_count": 7191
+  "last_updated": "2026-01-02T10:31:49Z",
+  "total_count": 7201
 }

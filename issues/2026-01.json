@@ -73,6 +73,19 @@
     "archived": false
   },
   {
+    "repo": "pytorch/pytorch",
+    "id": 3774022891,
+    "number": 171592,
+    "title": "When does it make sense to compile DDP vs not?",
+    "url": "https://github.com/pytorch/pytorch/issues/171592",
+    "created_at": "2026-01-01T02:12:06Z",
+    "user": "conceptofmind",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "ray-project/ray",
     "id": 3774050621,
     "number": 59795,
@@ -830,6 +843,38 @@
     "labels": [
       "question",
       "advice needed"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3775973112,
+    "number": 25934,
+    "title": "TypeError: len() of unsized object when using `map_elements`",
+    "url": "https://github.com/pola-rs/polars/issues/25934",
+    "created_at": "2026-01-02T09:39:08Z",
+    "user": "ajohnson5",
+    "labels": [
+      "bug",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3776066003,
+    "number": 31623,
+    "title": "[Bug]: Minimax-M2.1 Error loading QKV for partial quantized version",
+    "url": "https://github.com/vllm-project/vllm/issues/31623",
+    "created_at": "2026-01-02T10:25:55Z",
+    "user": "mratsim",
+    "labels": [
+      "bug"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
