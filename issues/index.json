@@ -109123,8 +109123,70 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3775801701,
+      "number": 25930,
+      "title": "test_delta cause ci cd pipeline to fail",
+      "url": "https://github.com/pola-rs/polars/issues/25930",
+      "created_at": "2026-01-02T07:48:48Z",
+      "user": "yonikremer",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3775810474,
+      "number": 34577,
+      "title": "Bug Report: uv sync --dev Fails Due to Insufficient Permissions for Non-Root Users, Causing Dependency Installation Interruption Problem Description",
+      "url": "https://github.com/langchain-ai/langchain/issues/34577",
+      "created_at": "2026-01-02T07:56:14Z",
+      "user": "riunyfir",
+      "labels": [
+        "bug",
+        "langchain"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "id": 3775812958,
+      "number": 34578,
+      "title": "Add Official Support for Conda as an Alternative Dependency Manager in Development/Container Environments",
+      "url": "https://github.com/langchain-ai/langchain/issues/34578",
+      "created_at": "2026-01-02T07:58:22Z",
+      "user": "riunyfir",
+      "labels": [
+        "langchain",
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/datasets",
+      "id": 3775842185,
+      "number": 7928,
+      "title": "`load_dataset` `revision` param not respected when fetching from cache",
+      "url": "https://github.com/huggingface/datasets/issues/7928",
+      "created_at": "2026-01-02T08:20:47Z",
+      "user": "Scott-Simmons",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T07:32:26Z",
-  "total_count": 7181
+  "last_updated": "2026-01-02T08:40:21Z",
+  "total_count": 7185
 }
