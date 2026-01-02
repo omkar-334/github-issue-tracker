@@ -1136,5 +1136,94 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "Nixtla/neuralforecast",
+    "id": 3776606157,
+    "number": 1427,
+    "title": "[<Library component: Model|Core|etc...>]",
+    "url": "https://github.com/Nixtla/neuralforecast/issues/1427",
+    "created_at": "2026-01-02T15:37:48Z",
+    "user": "ishouldhavequit",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "arviz-devs/arviz",
+    "id": 3776609532,
+    "number": 2507,
+    "title": "Do not deprecate `az.from_*` loading functions",
+    "url": "https://github.com/arviz-devs/arviz/issues/2507",
+    "created_at": "2026-01-02T15:39:59Z",
+    "user": "michaelosthege",
+    "labels": [
+      "Feature Request",
+      "Discussion"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3776623596,
+    "number": 7757,
+    "title": "Docs: Megatron tutorial references outdated repository structure",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7757",
+    "created_at": "2026-01-02T15:48:22Z",
+    "user": "kimmeoungjun",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3776625522,
+    "number": 171624,
+    "title": "Teach TorchInductor to generate native `ldexp` code for CUDA and CPU backends instead of relying on the decomposition `x * pow(2, n)`.",
+    "url": "https://github.com/pytorch/pytorch/issues/171624",
+    "created_at": "2026-01-02T15:49:21Z",
+    "user": "cleonard530",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3776655289,
+    "number": 31625,
+    "title": "[Bug][ROCm][AITER]: Speculative Decoding Accuracy Issue with VLLM_ATTENTION_BACKEND=ROCM_AITER_FA",
+    "url": "https://github.com/vllm-project/vllm/issues/31625",
+    "created_at": "2026-01-02T16:02:34Z",
+    "user": "vllmellm",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3776686867,
+    "number": 31626,
+    "title": "[Bug]: Gibberish output on CPU backend when --enforce-eager is enabled (Qwen3-0.6B)",
+    "url": "https://github.com/vllm-project/vllm/issues/31626",
+    "created_at": "2026-01-02T16:19:31Z",
+    "user": "kzwrime",
+    "labels": [
+      "bug",
+      "cpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
