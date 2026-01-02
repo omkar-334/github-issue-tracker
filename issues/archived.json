@@ -1,14 +1,49 @@
 [
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "numpy/numpy",
+    "id": 73082440,
+    "number": 5835,
+    "title": "numpy.cov() and numpy.var() default bias are inconsistent (numpy 1.9.2)",
+    "url": "https://github.com/numpy/numpy/issues/5835",
+    "created_at": "2015-05-04T17:46:16Z",
+    "user": "jg-you",
     "labels": [
-      "internal"
+      "00 - Bug",
+      "component: numpy.lib"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1095247623,
+    "number": 22126,
+    "title": "[ENH]: Support `pandas.NA`",
+    "url": "https://github.com/matplotlib/matplotlib/issues/22126",
+    "created_at": "2022-01-06T11:54:10Z",
+    "user": "randolf-scholz",
+    "labels": [
+      "New feature",
+      "third-party integration: pandas",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "id": 2117386795,
+    "number": 19589,
+    "title": "Allow `Graph-backed assets` to run in a `single process` on any executor",
+    "url": "https://github.com/dagster-io/dagster/issues/19589",
+    "created_at": "2024-02-04T23:39:29Z",
+    "user": "ion-elgreco",
+    "labels": [
+      "type: feature-request",
+      "area: execution",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

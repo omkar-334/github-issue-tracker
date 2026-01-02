@@ -12375,6 +12375,24 @@
       "archived": false
     },
     {
+      "repo": "pytorch/pytorch",
+      "id": 3154981124,
+      "number": 156251,
+      "title": "[dynamic shapes] translation validation failure under `fake_tensor_propagate_real_tensors`",
+      "url": "https://github.com/pytorch/pytorch/issues/156251",
+      "created_at": "2025-06-17T23:20:08Z",
+      "user": "StrongerXi",
+      "labels": [
+        "high priority",
+        "triaged",
+        "oncall: pt2",
+        "module: dynamic shapes"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "vllm-project/vllm",
       "id": 3155696347,
       "number": 19793,
@@ -109917,8 +109935,67 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3776854029,
+      "number": 23109,
+      "title": "[Feature Request] Test Performance Improvements: Session-Scoped Fixtures & Reduced Matrix Tests",
+      "url": "https://github.com/ultralytics/ultralytics/issues/23109",
+      "created_at": "2026-01-02T17:39:12Z",
+      "user": "Theivaprakasham",
+      "labels": [
+        "enhancement",
+        "devops",
+        "exports"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "id": 3776877996,
+      "number": 13496,
+      "title": "`embed_options=dark_theme` is not respected when `config.toml` defines any custom theme.",
+      "url": "https://github.com/streamlit/streamlit/issues/13496",
+      "created_at": "2026-01-02T17:50:58Z",
+      "user": "ranmocy",
+      "labels": [
+        "type:bug",
+        "status:needs-triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/huggingface_hub",
+      "id": 3776957788,
+      "number": 3658,
+      "title": "connect with vsc",
+      "url": "https://github.com/huggingface/huggingface_hub/issues/3658",
+      "created_at": "2026-01-02T18:25:46Z",
+      "user": "Makins18",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "id": 3776969559,
+      "number": 22343,
+      "title": "Consider marking `UP026`'s fix unsafe",
+      "url": "https://github.com/astral-sh/ruff/issues/22343",
+      "created_at": "2026-01-02T18:31:42Z",
+      "user": "robsdedude",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T17:26:29Z",
-  "total_count": 7234
+  "last_updated": "2026-01-02T18:40:33Z",
+  "total_count": 7239
 }
