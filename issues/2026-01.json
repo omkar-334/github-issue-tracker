@@ -629,5 +629,86 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "ray-project/ray",
+    "id": 3775719712,
+    "number": 59804,
+    "title": "Can not run TorchTrainer on 3 node with gpu",
+    "url": "https://github.com/ray-project/ray/issues/59804",
+    "created_at": "2026-01-02T06:42:26Z",
+    "user": "matrixoneken",
+    "labels": [
+      "bug",
+      "question",
+      "triage",
+      "train",
+      "stability",
+      "gpu",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "networkx/networkx",
+    "id": 3775738255,
+    "number": 8442,
+    "title": "bfs_predecessors() iterates over successors instead of predecessors",
+    "url": "https://github.com/networkx/networkx/issues/8442",
+    "created_at": "2026-01-02T06:58:21Z",
+    "user": "fedarko",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "id": 3775738299,
+    "number": 5459,
+    "title": "[BUG]: Customdata ignored on last point of segmented line trace in hover",
+    "url": "https://github.com/plotly/plotly.py/issues/5459",
+    "created_at": "2026-01-02T06:58:23Z",
+    "user": "rafalsza",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3775744487,
+    "number": 3817,
+    "title": "[Bug] Failed to convert to GGUF due to lack of llama.cpp",
+    "url": "https://github.com/unslothai/unsloth/issues/3817",
+    "created_at": "2026-01-02T07:03:11Z",
+    "user": "AlexRice13",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "sktime/sktime",
+    "id": 3775771729,
+    "number": 9198,
+    "title": "[BUG] bug in `DynamicFactor` for non-contiguous index?",
+    "url": "https://github.com/sktime/sktime/issues/9198",
+    "created_at": "2026-01-02T07:24:27Z",
+    "user": "fkiraly",
+    "labels": [
+      "bug",
+      "good first issue",
+      "module:forecasting"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

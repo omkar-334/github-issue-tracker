@@ -2306,6 +2306,19 @@
     "archived": false
   },
   {
+    "repo": "facebookresearch/xformers",
+    "id": 3327109946,
+    "number": 1314,
+    "title": "xformers-0.0.32.post2 ROCm 6.4 with PyTorch 2.8.0 Aborted (core dumped) In WSL2",
+    "url": "https://github.com/facebookresearch/xformers/issues/1314",
+    "created_at": "2025-08-16T10:01:05Z",
+    "user": "yihuishou",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3327318404,
     "number": 160812,
