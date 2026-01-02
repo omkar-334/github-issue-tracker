@@ -1049,5 +1049,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3776411530,
+    "number": 3713,
+    "title": "torchrec tutorial: old cuda version install",
+    "url": "https://github.com/pytorch/tutorials/issues/3713",
+    "created_at": "2026-01-02T13:52:04Z",
+    "user": "seanv507",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
