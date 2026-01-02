@@ -613,5 +613,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3775664190,
+    "number": 32987,
+    "title": "CI : Numerical flakiness in test_enet_ols_consistency",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32987",
+    "created_at": "2026-01-02T06:04:58Z",
+    "user": "gautamvarmadatla",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
