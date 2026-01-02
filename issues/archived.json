@@ -1,47 +1,17 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 946083814,
-    "number": 20655,
-    "title": "Repositioned Axes3d do not scale size with Figure size change",
-    "url": "https://github.com/matplotlib/matplotlib/issues/20655",
-    "created_at": "2021-07-16T08:54:37Z",
-    "user": "JanAlster",
+    "repo": "pytorch/pytorch",
+    "id": 1240333853,
+    "number": 77764,
+    "title": "General MPS op coverage tracking issue",
+    "url": "https://github.com/pytorch/pytorch/issues/77764",
+    "created_at": "2022-05-18T18:12:47Z",
+    "user": "albanD",
     "labels": [
-      "topic: mplot3d",
-      "status: confirmed bug",
-      "status: inactive"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "id": 1550768777,
-    "number": 4972,
-    "title": "Validator for `slice` is missing",
-    "url": "https://github.com/pydantic/pydantic/issues/4972",
-    "created_at": "2023-01-20T12:24:53Z",
-    "user": "caniko",
-    "labels": [
-      "feature request"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "shap/shap",
-    "id": 2062441750,
-    "number": 3447,
-    "title": "KernelExplainer shap_values giving different ndims InvalidArgumentError",
-    "url": "https://github.com/shap/shap/issues/3447",
-    "created_at": "2024-01-02T13:44:16Z",
-    "user": "jgunderson",
-    "labels": [
-      "bug",
-      "stale"
+      "feature",
+      "triaged",
+      "tracker",
+      "module: mps"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -49,41 +19,31 @@
   },
   {
     "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "id": 1645383838,
+    "number": 3792,
+    "title": "Apply `ruff` to `markdown` code blocks",
+    "url": "https://github.com/astral-sh/ruff/issues/3792",
+    "created_at": "2023-03-29T09:26:30Z",
+    "user": "paddyroddy",
     "labels": [
-      "internal"
+      "wish"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2512178084,
-    "number": 29802,
-    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
-    "created_at": "2024-09-08T03:35:56Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 2541476010,
-    "number": 29909,
-    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
-    "created_at": "2024-09-23T03:06:33Z",
-    "user": "scikit-learn-bot",
-    "labels": [],
+    "repo": "astral-sh/ruff",
+    "id": 2665880984,
+    "number": 14398,
+    "title": "Suggestion to improve TRY003 rule",
+    "url": "https://github.com/astral-sh/ruff/issues/14398",
+    "created_at": "2024-11-17T13:19:49Z",
+    "user": "Booplicate",
+    "labels": [
+      "rule",
+      "needs-decision"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

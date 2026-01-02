@@ -108610,6 +108610,22 @@
       "archived": false
     },
     {
+      "repo": "scikit-learn/scikit-learn",
+      "id": 3774312743,
+      "number": 32978,
+      "title": "janitor module conflicts with sklearn cross_val_score",
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/32978",
+      "created_at": "2026-01-01T08:38:44Z",
+      "user": "asdsadsaasd12312132",
+      "labels": [
+        "Bug",
+        "Needs Triage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/trl",
       "id": 3774316016,
       "number": 4766,
@@ -108937,8 +108953,52 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3775565264,
+      "number": 3815,
+      "title": "Bug: any advanced SFT argument triggers internal logic that calls psutil, which is missing in the library.",
+      "url": "https://github.com/unslothai/unsloth/issues/3815",
+      "created_at": "2026-01-02T04:25:58Z",
+      "user": "Manav47699",
+      "labels": [
+        "fixed",
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3775587995,
+      "number": 171606,
+      "title": "cos CPU ops deterministic not ensured",
+      "url": "https://github.com/pytorch/pytorch/issues/171606",
+      "created_at": "2026-01-02T04:53:03Z",
+      "user": "ZhihaoLi1",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3775612668,
+      "number": 31618,
+      "title": "[Bug]: Potential improvements and fixes for sleep/wake_up API",
+      "url": "https://github.com/vllm-project/vllm/issues/31618",
+      "created_at": "2026-01-02T05:19:58Z",
+      "user": "danielhumanmod",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T04:09:45Z",
-  "total_count": 7169
+  "last_updated": "2026-01-02T05:35:19Z",
+  "total_count": 7173
 }
