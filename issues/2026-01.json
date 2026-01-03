@@ -1451,5 +1451,75 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3777583679,
+    "number": 25941,
+    "title": "A new polars-first plotting library-Charton",
+    "url": "https://github.com/pola-rs/polars/issues/25941",
+    "created_at": "2026-01-03T02:21:50Z",
+    "user": "wangjiawen2013",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3777592531,
+    "number": 63551,
+    "title": "ENH: Decay-weighted rolling aggregations with defined behavior for duplicate timestamps",
+    "url": "https://github.com/pandas-dev/pandas/issues/63551",
+    "created_at": "2026-01-03T02:32:57Z",
+    "user": "vkverma9534",
+    "labels": [
+      "Enhancement",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3777595408,
+    "number": 20093,
+    "title": "Erroneous file in docker image from build",
+    "url": "https://github.com/PrefectHQ/prefect/issues/20093",
+    "created_at": "2026-01-03T02:36:18Z",
+    "user": "bdalpe",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "id": 3777612573,
+    "number": 22350,
+    "title": "[Panic] - Error Encountered",
+    "url": "https://github.com/astral-sh/ruff/issues/22350",
+    "created_at": "2026-01-03T03:04:25Z",
+    "user": "orrdjoshua",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3777622548,
+    "number": 43083,
+    "title": "[Bug] Qwen3OmniMoe Loading fails in transformers v5",
+    "url": "https://github.com/huggingface/transformers/issues/43083",
+    "created_at": "2026-01-03T03:20:00Z",
+    "user": "HuiyingLi",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

@@ -390,6 +390,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3477253373,
+    "number": 26091,
+    "title": "[Feature]: GLM thinking budget",
+    "url": "https://github.com/vllm-project/vllm/issues/26091",
+    "created_at": "2025-10-02T12:00:50Z",
+    "user": "Cgrandjean",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/lighteval",
     "id": 3477306372,
     "number": 1002,
@@ -398,6 +414,22 @@
     "created_at": "2025-10-02T12:18:24Z",
     "user": "JIElite",
     "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3477400544,
+    "number": 26094,
+    "title": "[Performance]: preformence of from vllm.platforms import current_platform",
+    "url": "https://github.com/vllm-project/vllm/issues/26094",
+    "created_at": "2025-10-02T12:47:43Z",
+    "user": "yonikremer",
+    "labels": [
+      "performance",
+      "stale"
+    ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
@@ -480,6 +512,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3478207828,
+    "number": 26110,
+    "title": "[RFC]: CI metrics dashboard improvements",
+    "url": "https://github.com/vllm-project/vllm/issues/26110",
+    "created_at": "2025-10-02T16:51:12Z",
+    "user": "rzabarazesh",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "deepspeedai/DeepSpeed",
     "id": 3478212330,
     "number": 7616,
@@ -489,6 +537,22 @@
     "user": "evencogitate",
     "labels": [
       "windows"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3478314465,
+    "number": 26114,
+    "title": "[Performance]: Scheduler.update_from_output optimization",
+    "url": "https://github.com/vllm-project/vllm/issues/26114",
+    "created_at": "2025-10-02T17:23:30Z",
+    "user": "Jialin",
+    "labels": [
+      "performance",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -510,6 +574,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3478786804,
+    "number": 26133,
+    "title": "[RFC]: Support Context Parallelism with Fully Sharded KV Cache and Ring Attention",
+    "url": "https://github.com/vllm-project/vllm/issues/26133",
+    "created_at": "2025-10-02T20:15:54Z",
+    "user": "qiruiyangmeta",
+    "labels": [
+      "RFC",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "axolotl-ai-cloud/axolotl",
     "id": 3478947855,
     "number": 3196,
@@ -519,6 +599,22 @@
     "user": "dstnluong-google",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3479996861,
+    "number": 26157,
+    "title": "[Feature]: Make Custom I/O Processing Plugins More General",
+    "url": "https://github.com/vllm-project/vllm/issues/26157",
+    "created_at": "2025-10-03T06:46:56Z",
+    "user": "alex-jw-brooks",
+    "labels": [
+      "feature request",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -592,6 +688,22 @@
     "user": "arvinder004",
     "labels": [
       "Tests"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3480919013,
+    "number": 26166,
+    "title": "[Performance]: Mistral Small 3.2 throughput v0.10.2",
+    "url": "https://github.com/vllm-project/vllm/issues/26166",
+    "created_at": "2025-10-03T12:28:32Z",
+    "user": "sspeekenbrink",
+    "labels": [
+      "performance",
+      "stale"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
@@ -7027,6 +7139,23 @@
     "user": "bhaktatejas922",
     "labels": [
       "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "id": 3555928585,
+    "number": 9945,
+    "title": "haystack-ai cycle in dependency",
+    "url": "https://github.com/deepset-ai/haystack/issues/9945",
+    "created_at": "2025-10-27T09:47:07Z",
+    "user": "dragonTalon",
+    "labels": [
+      "stale",
+      "P3",
+      "information-needed"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",

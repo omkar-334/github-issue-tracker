@@ -1287,6 +1287,23 @@
     "archived": false
   },
   {
+    "repo": "langchain-ai/langchain",
+    "id": 3137687631,
+    "number": 31569,
+    "title": "`HTMLSemanticPreservingSplitter` Preserved Elements ignores child elements",
+    "url": "https://github.com/langchain-ai/langchain/issues/31569",
+    "created_at": "2025-06-11T18:02:59Z",
+    "user": "strawgate",
+    "labels": [
+      "help wanted",
+      "bug",
+      "text-splitters"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "meta-pytorch/tokenizers",
     "id": 3137788177,
     "number": 83,
@@ -2414,6 +2431,22 @@
     "user": "gaowayne",
     "labels": [
       "usage",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3165968892,
+    "number": 19953,
+    "title": "[Feature]: vllm support for mistral3.1 with no consolidated.safetensors",
+    "url": "https://github.com/vllm-project/vllm/issues/19953",
+    "created_at": "2025-06-22T13:35:25Z",
+    "user": "AbdelrahmanHagrass",
+    "labels": [
+      "feature request",
       "stale"
     ],
     "has_linked_pr": false,

@@ -2849,6 +2849,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3245803931,
+    "number": 21237,
+    "title": "[Bug]: vLLM stops inference",
+    "url": "https://github.com/vllm-project/vllm/issues/21237",
+    "created_at": "2025-07-20T00:42:27Z",
+    "user": "DankoZhang",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "streamlit/streamlit",
     "id": 3246143519,
     "number": 11990,
