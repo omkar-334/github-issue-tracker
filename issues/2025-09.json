@@ -7852,6 +7852,22 @@
     "archived": false
   },
   {
+    "repo": "bokeh/bokeh",
+    "id": 3448237588,
+    "number": 14650,
+    "title": "Unify behavior and API of `Model.select()` and `Plot.select()`",
+    "url": "https://github.com/bokeh/bokeh/issues/14650",
+    "created_at": "2025-09-24T08:04:21Z",
+    "user": "mattpap",
+    "labels": [
+      "type: task",
+      "tag: API: models"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "BerriAI/litellm",
     "id": 3448255831,
     "number": 14849,

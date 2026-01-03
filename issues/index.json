@@ -8816,6 +8816,21 @@
       "archived": false
     },
     {
+      "repo": "prefecthq/prefect",
+      "id": 3068408915,
+      "number": 18082,
+      "title": "No logs from DaskTaskRunner with cluster address set",
+      "url": "https://github.com/PrefectHQ/prefect/issues/18082",
+      "created_at": "2025-05-16T09:02:09Z",
+      "user": "oliver-batchelor",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "open-mmlab/mmcv",
       "id": 3068501490,
       "number": 3283,
@@ -31223,6 +31238,22 @@
       "archived": false
     },
     {
+      "repo": "bokeh/bokeh",
+      "id": 3448237588,
+      "number": 14650,
+      "title": "Unify behavior and API of `Model.select()` and `Plot.select()`",
+      "url": "https://github.com/bokeh/bokeh/issues/14650",
+      "created_at": "2025-09-24T08:04:21Z",
+      "user": "mattpap",
+      "labels": [
+        "type: task",
+        "tag: API: models"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3448255831,
       "number": 14849,
@@ -33820,6 +33851,21 @@
       "archived": false
     },
     {
+      "repo": "bokeh/bokeh",
+      "id": 3477862725,
+      "number": 14657,
+      "title": "JS error when using Composite ticker on dates: `best_ticker` is undefined",
+      "url": "https://github.com/bokeh/bokeh/issues/14657",
+      "created_at": "2025-10-02T15:01:06Z",
+      "user": "rambip",
+      "labels": [
+        "type: discussion"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "stanfordnlp/dspy",
       "id": 3478167157,
       "number": 8891,
@@ -36069,6 +36115,23 @@
       "created_at": "2025-10-11T02:40:42Z",
       "user": "limou102",
       "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "bokeh/bokeh",
+      "id": 3505283949,
+      "number": 14665,
+      "title": "[bokeh-3.8.0.min.js:405] Uncaught (in promise) RangeError: Maximum call stack size exceeded",
+      "url": "https://github.com/bokeh/bokeh/issues/14665",
+      "created_at": "2025-10-11T06:24:05Z",
+      "user": "tankforever",
+      "labels": [
+        "type: bug",
+        "plat: chrome",
+        "tag: component: bokehjs"
+      ],
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
@@ -111157,8 +111220,49 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "google/flax",
+      "id": 3778451041,
+      "number": 5161,
+      "title": "[docs]:  Improve docs for NNX API Reference",
+      "url": "https://github.com/google/flax/issues/5161",
+      "created_at": "2026-01-03T20:10:39Z",
+      "user": "ibbyml",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3778453700,
+      "number": 171655,
+      "title": "Unexpected output when using CUDAExecutionProvider",
+      "url": "https://github.com/pytorch/pytorch/issues/171655",
+      "created_at": "2026-01-03T20:13:13Z",
+      "user": "ashok-arora",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3778465061,
+      "number": 3829,
+      "title": "[Feature]",
+      "url": "https://github.com/unslothai/unsloth/issues/3829",
+      "created_at": "2026-01-03T20:27:22Z",
+      "user": "Durjoy-Dav",
+      "labels": [
+        "feature request"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-03T19:24:06Z",
-  "total_count": 7314
+  "last_updated": "2026-01-03T20:32:13Z",
+  "total_count": 7321
 }

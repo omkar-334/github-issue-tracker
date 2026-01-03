@@ -2014,5 +2014,46 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "google/flax",
+    "id": 3778451041,
+    "number": 5161,
+    "title": "[docs]:  Improve docs for NNX API Reference",
+    "url": "https://github.com/google/flax/issues/5161",
+    "created_at": "2026-01-03T20:10:39Z",
+    "user": "ibbyml",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3778453700,
+    "number": 171655,
+    "title": "Unexpected output when using CUDAExecutionProvider",
+    "url": "https://github.com/pytorch/pytorch/issues/171655",
+    "created_at": "2026-01-03T20:13:13Z",
+    "user": "ashok-arora",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3778465061,
+    "number": 3829,
+    "title": "[Feature]",
+    "url": "https://github.com/unslothai/unsloth/issues/3829",
+    "created_at": "2026-01-03T20:27:22Z",
+    "user": "Durjoy-Dav",
+    "labels": [
+      "feature request"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

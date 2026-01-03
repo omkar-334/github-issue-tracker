@@ -1286,6 +1286,21 @@
     "archived": false
   },
   {
+    "repo": "prefecthq/prefect",
+    "id": 3068408915,
+    "number": 18082,
+    "title": "No logs from DaskTaskRunner with cluster address set",
+    "url": "https://github.com/PrefectHQ/prefect/issues/18082",
+    "created_at": "2025-05-16T09:02:09Z",
+    "user": "oliver-batchelor",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "open-mmlab/mmcv",
     "id": 3068501490,
     "number": 3283,
