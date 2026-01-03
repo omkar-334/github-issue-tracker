@@ -28709,6 +28709,22 @@
       "archived": false
     },
     {
+      "repo": "sktime/sktime",
+      "id": 3423080065,
+      "number": 8810,
+      "title": "[BUG] `AlignerDTW` example fails",
+      "url": "https://github.com/sktime/sktime/issues/8810",
+      "created_at": "2025-09-16T17:02:28Z",
+      "user": "Rorik12358",
+      "labels": [
+        "bug",
+        "module:alignment"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3423202230,
       "number": 14612,
@@ -111110,8 +111126,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3778360836,
+      "number": 3828,
+      "title": "[Bug] Unsloth's gradient checkpointing crashing during GRPO training on evaluation",
+      "url": "https://github.com/unslothai/unsloth/issues/3828",
+      "created_at": "2026-01-03T18:32:18Z",
+      "user": "nafee-ahmed",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-03T17:26:14Z",
-  "total_count": 7311
+  "last_updated": "2026-01-03T18:39:17Z",
+  "total_count": 7313
 }

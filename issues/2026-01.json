@@ -1999,5 +1999,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3778360836,
+    "number": 3828,
+    "title": "[Bug] Unsloth's gradient checkpointing crashing during GRPO training on evaluation",
+    "url": "https://github.com/unslothai/unsloth/issues/3828",
+    "created_at": "2026-01-03T18:32:18Z",
+    "user": "nafee-ahmed",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
