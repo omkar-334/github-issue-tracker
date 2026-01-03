@@ -1727,5 +1727,85 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "cython/cython",
+    "id": 3777895877,
+    "number": 7443,
+    "title": "[BUG] Auto-pickle is inefficient in 3.2",
+    "url": "https://github.com/cython/cython/issues/7443",
+    "created_at": "2026-01-03T09:33:11Z",
+    "user": "scoder",
+    "labels": [
+      "defect",
+      "Code Generation",
+      "Cython Language Feature"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3777909876,
+    "number": 43086,
+    "title": "Add async_stopping_criteria flag to reduce GPU-CPU synchronization overhead",
+    "url": "https://github.com/huggingface/transformers/issues/43086",
+    "created_at": "2026-01-03T09:54:01Z",
+    "user": "AmitMY",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3777911089,
+    "number": 25943,
+    "title": "No cargo \"full\" option",
+    "url": "https://github.com/pola-rs/polars/issues/25943",
+    "created_at": "2026-01-03T09:56:01Z",
+    "user": "edbird",
+    "labels": [
+      "bug",
+      "rust",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3777913417,
+    "number": 25944,
+    "title": "error[E0599]: no method named `ewm_mean` found for reference `&polars::prelude::Series` in the current scope",
+    "url": "https://github.com/pola-rs/polars/issues/25944",
+    "created_at": "2026-01-03T09:59:31Z",
+    "user": "edbird",
+    "labels": [
+      "bug",
+      "rust",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "id": 3777928220,
+    "number": 32989,
+    "title": "enet_path raises ValueError when check_input=False and precompute='auto' (default)",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/32989",
+    "created_at": "2026-01-03T10:18:10Z",
+    "user": "adc-trust-ai",
+    "labels": [
+      "Bug",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
