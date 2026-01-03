@@ -2055,5 +2055,18 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "id": 3778511837,
+    "number": 171656,
+    "title": "torch.distributed.pipelining fails on models having DynamicCache (esp. Llama)",
+    "url": "https://github.com/pytorch/pytorch/issues/171656",
+    "created_at": "2026-01-03T21:32:58Z",
+    "user": "hpcpony",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
