@@ -1551,5 +1551,68 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3777729415,
+    "number": 63553,
+    "title": "DOC: Fix SA01,ES01,PR07 for pandas.util.hash_pandas_object",
+    "url": "https://github.com/pandas-dev/pandas/issues/63553",
+    "created_at": "2026-01-03T05:53:42Z",
+    "user": "tuhinsharma121",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3777752668,
+    "number": 63555,
+    "title": "DOC: Fix SA01 for pandas.StringDtype.na_value",
+    "url": "https://github.com/pandas-dev/pandas/issues/63555",
+    "created_at": "2026-01-03T06:22:24Z",
+    "user": "tuhinsharma121",
+    "labels": [
+      "Docs",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 3777758932,
+    "number": 25942,
+    "title": "Support holiday expressions for business day operations",
+    "url": "https://github.com/pola-rs/polars/issues/25942",
+    "created_at": "2026-01-03T06:30:51Z",
+    "user": "joseph-x-li",
+    "labels": [
+      "enhancement"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "id": 3777768572,
+    "number": 63557,
+    "title": "ENH: Add .center() method to DataFrame/Series for inspecting middle rows.",
+    "url": "https://github.com/pandas-dev/pandas/issues/63557",
+    "created_at": "2026-01-03T06:36:14Z",
+    "user": "stalo6",
+    "labels": [
+      "Enhancement",
+      "Needs Triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
