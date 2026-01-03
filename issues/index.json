@@ -110915,8 +110915,55 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "mlflow/mlflow",
+      "id": 3778053639,
+      "number": 19731,
+      "title": "[FR] Extend S3 presigned URL support to all file sizes with server-side enforcement",
+      "url": "https://github.com/mlflow/mlflow/issues/19731",
+      "created_at": "2026-01-03T13:11:45Z",
+      "user": "youssefcamao",
+      "labels": [
+        "enhancement",
+        "area/tracking",
+        "domain/platform"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3778063954,
+      "number": 31646,
+      "title": "[Usage]: How can I use GPU12 as standalone KV LMCache?",
+      "url": "https://github.com/vllm-project/vllm/issues/31646",
+      "created_at": "2026-01-03T13:25:41Z",
+      "user": "joshuakoh1",
+      "labels": [
+        "usage"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "jax-ml/jax",
+      "id": 3778065400,
+      "number": 34139,
+      "title": "`jnp.sinc`'s gradient has large errors",
+      "url": "https://github.com/jax-ml/jax/issues/34139",
+      "created_at": "2026-01-03T13:27:28Z",
+      "user": "howsiyu",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-03T12:53:55Z",
-  "total_count": 7298
+  "last_updated": "2026-01-03T13:36:43Z",
+  "total_count": 7301
 }
