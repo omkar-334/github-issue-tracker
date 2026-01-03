@@ -1711,5 +1711,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3777868142,
+    "number": 31642,
+    "title": "[Bug]: TypeError in DeviceCommunicatorBase.dispatch due to method signature mismatch",
+    "url": "https://github.com/vllm-project/vllm/issues/31642",
+    "created_at": "2026-01-03T08:54:32Z",
+    "user": "kzwrime",
+    "labels": [
+      "bug",
+      "cpu"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]

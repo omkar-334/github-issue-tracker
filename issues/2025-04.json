@@ -472,6 +472,23 @@
     "archived": false
   },
   {
+    "repo": "kedro-org/kedro",
+    "id": 2980332052,
+    "number": 4648,
+    "title": "Optional dependencies vs. dependency groups in kedro starter",
+    "url": "https://github.com/kedro-org/kedro/issues/4648",
+    "created_at": "2025-04-08T16:30:49Z",
+    "user": "LukasFeb",
+    "labels": [
+      "Help Wanted :pray:",
+      "good first issue",
+      "Hacktoberfest"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "scipy/scipy",
     "id": 2980606657,
     "number": 22816,
