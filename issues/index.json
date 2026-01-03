@@ -20510,6 +20510,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3318817741,
+      "number": 22821,
+      "title": "[Bug]: RuntimeError bug with GLM-4.5V-FP8 on A800",
+      "url": "https://github.com/vllm-project/vllm/issues/22821",
+      "created_at": "2025-08-13T15:02:20Z",
+      "user": "jeejeelee",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "scipy/scipy",
       "id": 3318841701,
       "number": 23460,
@@ -72343,6 +72358,22 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3700814641,
+      "number": 30167,
+      "title": "[Bug][ROCm]: `vision_embeddings` in transformers inaccurate without math SDP",
+      "url": "https://github.com/vllm-project/vllm/issues/30167",
+      "created_at": "2025-12-06T01:54:09Z",
+      "user": "AndreasKaratzas",
+      "labels": [
+        "bug",
+        "rocm"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "ray-project/ray",
       "id": 3700855728,
       "number": 59213,
@@ -110990,8 +111021,23 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3778120555,
+      "number": 31649,
+      "title": "[Bug]: num_accepted=-1 with MTP + CUDA-Graph for Qwen3-Next (concurrent requests = 3)",
+      "url": "https://github.com/vllm-project/vllm/issues/31649",
+      "created_at": "2026-01-03T14:42:03Z",
+      "user": "peakcrosser7",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-03T14:27:26Z",
-  "total_count": 7303
+  "last_updated": "2026-01-03T15:28:34Z",
+  "total_count": 7306
 }
