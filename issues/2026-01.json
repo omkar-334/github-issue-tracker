@@ -1925,5 +1925,63 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "pytorch/tutorials",
+    "id": 3778164598,
+    "number": 3714,
+    "title": "Feedback about Training with PyTorch",
+    "url": "https://github.com/pytorch/tutorials/issues/3714",
+    "created_at": "2026-01-03T15:32:33Z",
+    "user": "Fernan-hub",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3778165540,
+    "number": 34589,
+    "title": "why does Groq does not support IMG inputs ?",
+    "url": "https://github.com/langchain-ai/langchain/issues/34589",
+    "created_at": "2026-01-03T15:33:44Z",
+    "user": "gokul6350",
+    "labels": [
+      "feature request",
+      "groq"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/huggingface_hub",
+    "id": 3778192825,
+    "number": 3659,
+    "title": "ocr",
+    "url": "https://github.com/huggingface/huggingface_hub/issues/3659",
+    "created_at": "2026-01-03T15:57:03Z",
+    "user": "mohamediirfan",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "deepspeedai/DeepSpeed",
+    "id": 3778200464,
+    "number": 7758,
+    "title": "[BUG]inference/v2/kernels/core_ops/cuda_linear /linear_kernels_cuda.cu",
+    "url": "https://github.com/deepspeedai/DeepSpeed/issues/7758",
+    "created_at": "2026-01-03T16:03:49Z",
+    "user": "HolidayXue",
+    "labels": [
+      "bug",
+      "compression"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
