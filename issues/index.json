@@ -38938,6 +38938,22 @@
       "archived": false
     },
     {
+      "repo": "bokeh/bokeh",
+      "id": 3539377149,
+      "number": 14678,
+      "title": "Multi_polygons glyph hover alpha still computed when non visible",
+      "url": "https://github.com/bokeh/bokeh/issues/14678",
+      "created_at": "2025-10-22T06:57:36Z",
+      "user": "tmoulignier",
+      "labels": [
+        "type: bug",
+        "tag: component: bokehjs"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "browser-use/browser-use",
       "id": 3539416160,
       "number": 3380,
@@ -111143,6 +111159,6 @@
       "archived": false
     }
   ],
-  "last_updated": "2026-01-03T18:39:17Z",
-  "total_count": 7313
+  "last_updated": "2026-01-03T19:24:06Z",
+  "total_count": 7314
 }

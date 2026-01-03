@@ -1,46 +1,146 @@
 [
   {
-    "repo": "scikit-learn/scikit-learn",
-    "id": 726314246,
-    "number": 18663,
-    "title": "fit.transform not equal to fit_transform in NMF with solver 'mu' and init 'nndsvda'",
-    "url": "https://github.com/scikit-learn/scikit-learn/issues/18663",
-    "created_at": "2020-10-21T09:41:07Z",
-    "user": "cmarmo",
+    "repo": "bokeh/bokeh",
+    "id": 201653068,
+    "number": 5753,
+    "title": "Float value for `min_interval` disables panning when min_interval hit",
+    "url": "https://github.com/bokeh/bokeh/issues/5753",
+    "created_at": "2017-01-18T18:20:40Z",
+    "user": "brendancol",
     "labels": [
-      "Bug",
-      "module:decomposition"
+      "type: bug",
+      "tag: component: bokehjs"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
+    "repo": "bokeh/bokeh",
+    "id": 378496148,
+    "number": 8408,
+    "title": "CategoricalTicker grid bands should align with categories",
+    "url": "https://github.com/bokeh/bokeh/issues/8408",
+    "created_at": "2018-11-07T22:26:52Z",
+    "user": "chrisjcameron",
     "labels": [
-      "internal"
+      "type: feature",
+      "tag: component: bokehjs"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "cython/cython",
-    "id": 2288668448,
-    "number": 6192,
-    "title": "[BUG] Possible regression in handling of default function arguments",
-    "url": "https://github.com/cython/cython/issues/6192",
-    "created_at": "2024-05-10T00:19:19Z",
-    "user": "aws-taylor",
+    "repo": "bokeh/bokeh",
+    "id": 763973662,
+    "number": 10778,
+    "title": "[BUG] Value and label not synced for Select widget",
+    "url": "https://github.com/bokeh/bokeh/issues/10778",
+    "created_at": "2020-12-12T15:42:03Z",
+    "user": "comatrion",
+    "labels": [
+      "type: bug",
+      "tag: component: server"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "id": 834057264,
+    "number": 11075,
+    "title": " TapTool(behavior='inspect', callback=OpenURL()) doesn't work due to empty selection #6580 [BUG]",
+    "url": "https://github.com/bokeh/bokeh/issues/11075",
+    "created_at": "2021-03-17T18:17:05Z",
+    "user": "jjoonathan",
+    "labels": [
+      "type: bug",
+      "tag: component: bokehjs"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "id": 1389960233,
+    "number": 24038,
+    "title": "[ENH]: See through SpanSelector",
+    "url": "https://github.com/matplotlib/matplotlib/issues/24038",
+    "created_at": "2022-09-28T21:21:51Z",
+    "user": "ianhi",
+    "labels": [
+      "New feature",
+      "topic: widgets/UI",
+      "status: inactive",
+      "keep"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 1827132241,
+    "number": 18983,
+    "title": "BUG: optimize.fsolve: abnormal termination, \"not making good progress\"",
+    "url": "https://github.com/scipy/scipy/issues/18983",
+    "created_at": "2023-07-28T22:03:33Z",
+    "user": "sdh4",
     "labels": [
       "defect",
-      "Type Analysis"
+      "scipy.optimize"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "pola-rs/polars",
+    "id": 2126145886,
+    "number": 14381,
+    "title": "Feature request: `explode` option/alternative that does not map empty lists to `null`",
+    "url": "https://github.com/pola-rs/polars/issues/14381",
+    "created_at": "2024-02-08T22:05:57Z",
+    "user": "Gattocrucco",
+    "labels": [
+      "invalid",
+      "python",
+      "needs triage"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "scipy/scipy",
+    "id": 2368609996,
+    "number": 21027,
+    "title": "BUG: linalg.lstsq: illegal instruction",
+    "url": "https://github.com/scipy/scipy/issues/21027",
+    "created_at": "2024-06-23T15:03:22Z",
+    "user": "mbaudin47",
+    "labels": [
+      "defect",
+      "scipy.linalg"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": true
+  },
+  {
+    "repo": "bokeh/bokeh",
+    "id": 2526645193,
+    "number": 14061,
+    "title": "Clean up Bokeh events API ",
+    "url": "https://github.com/bokeh/bokeh/issues/14061",
+    "created_at": "2024-09-14T22:46:02Z",
+    "user": "bryevdv",
+    "labels": [
+      "type: task",
+      "python"
     ],
     "has_linked_pr": false,
     "linked_pr_url": "",
