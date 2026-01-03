@@ -1882,5 +1882,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "prefecthq/prefect",
+    "id": 3778072140,
+    "number": 20097,
+    "title": "RFC: Enhanced Variables Management UI - Grouping, Hide Values, Copy, Colors",
+    "url": "https://github.com/PrefectHQ/prefect/issues/20097",
+    "created_at": "2026-01-03T13:36:56Z",
+    "user": "nguyenngothuong",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "id": 3778093461,
+    "number": 31647,
+    "title": "[Bug]: TypeError: BatchPrefillWithPagedKVCacheWrapper.plan() got an unexpected keyword argument 'fixed_split_size'",
+    "url": "https://github.com/vllm-project/vllm/issues/31647",
+    "created_at": "2026-01-03T14:06:06Z",
+    "user": "sliedes",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
