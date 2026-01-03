@@ -110551,8 +110551,38 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "id": 3777633410,
+      "number": 3825,
+      "title": "[Bug] Please fill in your issue title here.",
+      "url": "https://github.com/unslothai/unsloth/issues/3825",
+      "created_at": "2026-01-03T03:37:54Z",
+      "user": "shadowlilac-oss",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/datasets",
+      "id": 3777662799,
+      "number": 7931,
+      "title": "Enable CORS + HTTP Range support for browser partial reads on cas-bridge.xethub.hf.co (Parquet row-group access)",
+      "url": "https://github.com/huggingface/datasets/issues/7931",
+      "created_at": "2026-01-03T04:23:54Z",
+      "user": "cornhundred",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-03T03:31:17Z",
-  "total_count": 7274
+  "last_updated": "2026-01-03T04:40:36Z",
+  "total_count": 7276
 }
