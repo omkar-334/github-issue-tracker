@@ -1983,5 +1983,21 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "id": 3778266552,
+    "number": 34590,
+    "title": "Bug Report: `create_agent` Doesn't Persist `None` Values in Command Updates",
+    "url": "https://github.com/langchain-ai/langchain/issues/34590",
+    "created_at": "2026-01-03T16:59:38Z",
+    "user": "stzonis",
+    "labels": [
+      "bug",
+      "langchain"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
