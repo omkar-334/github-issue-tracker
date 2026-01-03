@@ -8123,6 +8123,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3564053832,
+    "number": 27706,
+    "title": "[Bug]: OOM for Qwen2.5-VL-3B and Qwen3-VL-2B when multimodal activated on RX 7800 XT",
+    "url": "https://github.com/vllm-project/vllm/issues/27706",
+    "created_at": "2025-10-29T02:16:00Z",
+    "user": "tobing",
+    "labels": [
+      "bug",
+      "rocm"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/peft",
     "id": 3564202066,
     "number": 2878,
