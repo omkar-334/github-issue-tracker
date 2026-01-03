@@ -2068,5 +2068,20 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "id": 3778573786,
+    "number": 3836,
+    "title": "Links doesn't work on the documentation website",
+    "url": "https://github.com/browser-use/browser-use/issues/3836",
+    "created_at": "2026-01-03T23:03:45Z",
+    "user": "OlekVano",
+    "labels": [
+      "documentation"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
