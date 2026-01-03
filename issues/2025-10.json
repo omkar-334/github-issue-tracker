@@ -8335,6 +8335,23 @@
     "archived": false
   },
   {
+    "repo": "ultralytics/ultralytics",
+    "id": 3567249892,
+    "number": 22527,
+    "title": "How are OKS' sigmas used in custom datasets?",
+    "url": "https://github.com/ultralytics/ultralytics/issues/22527",
+    "created_at": "2025-10-29T18:07:19Z",
+    "user": "ArnauCampanera",
+    "labels": [
+      "question",
+      "Stale",
+      "pose"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/tutorials",
     "id": 3567267435,
     "number": 3627,

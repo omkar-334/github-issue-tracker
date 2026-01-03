@@ -44191,6 +44191,19 @@
     "archived": false
   },
   {
+    "repo": "huggingface/optimum",
+    "id": 3773016099,
+    "number": 2399,
+    "title": "Add T5Gemma2 model support",
+    "url": "https://github.com/huggingface/optimum/issues/2399",
+    "created_at": "2025-12-31T15:28:19Z",
+    "user": "Shine1i",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "pytorch/pytorch",
     "id": 3773034741,
     "number": 171577,

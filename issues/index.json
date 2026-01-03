@@ -1,98 +1,6 @@
 {
   "issues": [
     {
-      "repo": "pytorch/audio",
-      "id": 2765321329,
-      "number": 3868,
-      "title": "Use system-provided libsox",
-      "url": "https://github.com/pytorch/audio/issues/3868",
-      "created_at": "2025-01-02T00:05:51Z",
-      "user": "uis246",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "scikit-learn/scikit-learn",
-      "id": 2765322564,
-      "number": 30567,
-      "title": "Provide wheel for Windows ARM64",
-      "url": "https://github.com/scikit-learn/scikit-learn/issues/30567",
-      "created_at": "2025-01-02T00:09:14Z",
-      "user": "CanePlayz",
-      "labels": [
-        "Build / CI"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "huggingface/optimum",
-      "id": 2765742197,
-      "number": 2145,
-      "title": "cannot quantize bge onnx model(embedding model) without performace loss",
-      "url": "https://github.com/huggingface/optimum/issues/2145",
-      "created_at": "2025-01-02T09:59:15Z",
-      "user": "chuangzhidan",
-      "labels": [
-        "bug"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "dagster-io/dagster",
-      "id": 2766431460,
-      "number": 26789,
-      "title": "View metadata for each partition in Global Assets Lineage",
-      "url": "https://github.com/dagster-io/dagster/issues/26789",
-      "created_at": "2025-01-02T18:05:20Z",
-      "user": "elliottower",
-      "labels": [
-        "type: feature-request",
-        "area: partitions",
-        "area: UI/UX",
-        "stale"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "dagster-io/dagster",
-      "id": 2766545394,
-      "number": 26791,
-      "title": "Dagster-Pipes tutorial bug doing Asset Checks",
-      "url": "https://github.com/dagster-io/dagster/issues/26791",
-      "created_at": "2025-01-02T19:39:16Z",
-      "user": "EvanZ",
-      "labels": [
-        "type: bug",
-        "area: docs",
-        "area: dagster-pipes",
-        "stale"
-      ],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
-      "repo": "3b1b/manim",
-      "id": 2766697754,
-      "number": 2291,
-      "title": "Tablet Events Not Captured in ManimGL Window",
-      "url": "https://github.com/3b1b/manim/issues/2291",
-      "created_at": "2025-01-02T21:59:51Z",
-      "user": "aguemoug",
-      "labels": [],
-      "has_linked_pr": false,
-      "linked_pr_url": "",
-      "archived": false
-    },
-    {
       "repo": "3b1b/manim",
       "id": 2766945868,
       "number": 2292,
@@ -5471,6 +5379,24 @@
       "labels": [
         "fixes",
         "help wanted"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ray-project/ray",
+      "id": 2968999550,
+      "number": 51951,
+      "title": "[Data] Improve the `write_iceberg` API to support the overwrite/create_table write modes",
+      "url": "https://github.com/ray-project/ray/issues/51951",
+      "created_at": "2025-04-03T09:59:42Z",
+      "user": "plotor",
+      "labels": [
+        "enhancement",
+        "P2",
+        "data",
+        "community-backlog"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -41549,6 +41475,23 @@
       "user": "CarlosR759",
       "labels": [
         "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "id": 3567249892,
+      "number": 22527,
+      "title": "How are OKS' sigmas used in custom datasets?",
+      "url": "https://github.com/ultralytics/ultralytics/issues/22527",
+      "created_at": "2025-10-29T18:07:19Z",
+      "user": "ArnauCampanera",
+      "labels": [
+        "question",
+        "Stale",
+        "pose"
       ],
       "has_linked_pr": false,
       "linked_pr_url": "",
@@ -108677,6 +108620,19 @@
       "archived": false
     },
     {
+      "repo": "huggingface/optimum",
+      "id": 3773016099,
+      "number": 2399,
+      "title": "Add T5Gemma2 model support",
+      "url": "https://github.com/huggingface/optimum/issues/2399",
+      "created_at": "2025-12-31T15:28:19Z",
+      "user": "Shine1i",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "pytorch/pytorch",
       "id": 3773034741,
       "number": 171577,
@@ -110235,8 +110191,56 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "pola-rs/polars",
+      "id": 3777463199,
+      "number": 25939,
+      "title": "`(write|sink)_parquet` broken for strings larger than 64 MiB",
+      "url": "https://github.com/pola-rs/polars/issues/25939",
+      "created_at": "2026-01-02T23:58:36Z",
+      "user": "maxtidev",
+      "labels": [
+        "bug",
+        "python",
+        "needs triage",
+        "A-io-parquet"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3777490863,
+      "number": 43082,
+      "title": "chunked prefill implementation is incorrect",
+      "url": "https://github.com/huggingface/transformers/issues/43082",
+      "created_at": "2026-01-03T00:20:27Z",
+      "user": "SmerkyG",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3777494216,
+      "number": 31634,
+      "title": "[RFC]: Decouple page_size_bytes calculation in AttentionSpec for TPU/RPA Compatibility",
+      "url": "https://github.com/vllm-project/vllm/issues/31634",
+      "created_at": "2026-01-03T00:24:35Z",
+      "user": "Lumosis",
+      "labels": [
+        "RFC"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-02T23:27:56Z",
+  "last_updated": "2026-01-03T02:00:54Z",
   "total_count": 7254
 }

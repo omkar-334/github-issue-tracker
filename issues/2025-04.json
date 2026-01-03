@@ -154,6 +154,24 @@
     "archived": false
   },
   {
+    "repo": "ray-project/ray",
+    "id": 2968999550,
+    "number": 51951,
+    "title": "[Data] Improve the `write_iceberg` API to support the overwrite/create_table write modes",
+    "url": "https://github.com/ray-project/ray/issues/51951",
+    "created_at": "2025-04-03T09:59:42Z",
+    "user": "plotor",
+    "labels": [
+      "enhancement",
+      "P2",
+      "data",
+      "community-backlog"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "facebookresearch/fairseq",
     "id": 2969087550,
     "number": 5603,
