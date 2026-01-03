@@ -4746,6 +4746,23 @@
     "archived": false
   },
   {
+    "repo": "sktime/sktime",
+    "id": 3280457284,
+    "number": 8635,
+    "title": "[ENH] complete `sample_weight` rework of forecasting error metrics",
+    "url": "https://github.com/sktime/sktime/issues/8635",
+    "created_at": "2025-07-31T13:20:44Z",
+    "user": "fkiraly",
+    "labels": [
+      "good first issue",
+      "enhancement",
+      "module:metrics&benchmarking"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "huggingface/tokenizers",
     "id": 3280725697,
     "number": 1839,

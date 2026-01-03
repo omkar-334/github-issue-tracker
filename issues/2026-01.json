@@ -1807,5 +1807,33 @@
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "id": 3777953146,
+    "number": 3827,
+    "title": "[Bug] target_gb is zero",
+    "url": "https://github.com/unslothai/unsloth/issues/3827",
+    "created_at": "2026-01-03T10:51:51Z",
+    "user": "Romiroz",
+    "labels": [
+      "bug"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "id": 3777969619,
+    "number": 43089,
+    "title": "Generation overhead:  many GPU syncs per token + PyTorch dispatch overhead",
+    "url": "https://github.com/huggingface/transformers/issues/43089",
+    "created_at": "2026-01-03T11:14:18Z",
+    "user": "AmitMY",
+    "labels": [],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
   }
 ]
