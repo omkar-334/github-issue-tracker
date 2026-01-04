@@ -1,21 +1,5 @@
 [
   {
-    "repo": "matplotlib/matplotlib",
-    "id": 381996311,
-    "number": 12830,
-    "title": "Cannot render Apple Color Emoji in plots",
-    "url": "https://github.com/matplotlib/matplotlib/issues/12830",
-    "created_at": "2018-11-18T20:21:44Z",
-    "user": "brienna",
-    "labels": [
-      "topic: text/fonts",
-      "keep"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
     "repo": "huggingface/datasets",
     "id": 929192329,
     "number": 2547,
@@ -31,94 +15,27 @@
     "archived": true
   },
   {
-    "repo": "astral-sh/ruff",
-    "id": 2206313455,
-    "number": 10578,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/astral-sh/ruff/issues/10578",
-    "created_at": "2024-03-25T17:34:22Z",
-    "user": "renovate[bot]",
-    "labels": [
-      "internal"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "scipy/scipy",
-    "id": 2254762707,
-    "number": 20544,
-    "title": "ENH: stats: add array API-support",
-    "url": "https://github.com/scipy/scipy/issues/20544",
-    "created_at": "2024-04-20T23:32:00Z",
-    "user": "mdhaber",
-    "labels": [
-      "scipy.stats",
-      "enhancement",
-      "array types"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "dagster-io/dagster",
-    "id": 2458065663,
-    "number": 23549,
-    "title": "Dagster schedule ticks that fail and retry should indicate in the tick timeline that they retried",
-    "url": "https://github.com/dagster-io/dagster/issues/23549",
-    "created_at": "2024-08-09T14:33:19Z",
-    "user": "gibsondan",
-    "labels": [
-      "type: feature-request",
-      "area: UI/UX",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "huggingface/diffusers",
-    "id": 2500719304,
-    "number": 9343,
-    "title": "FLUX error when loading with low_cpu_mem_usage=False and ignore_mismatched_sizes=True",
-    "url": "https://github.com/huggingface/diffusers/issues/9343",
-    "created_at": "2024-09-02T11:28:48Z",
-    "user": "primecai",
-    "labels": [
-      "bug",
-      "stale"
-    ],
-    "has_linked_pr": false,
-    "linked_pr_url": "",
-    "archived": true
-  },
-  {
-    "repo": "3b1b/manim",
-    "id": 2766945868,
-    "number": 2292,
-    "title": "Mac run example error",
-    "url": "https://github.com/3b1b/manim/issues/2292",
-    "created_at": "2025-01-03T04:10:36Z",
-    "user": "chenqiang2026",
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2512178084,
+    "number": 29802,
+    "title": "⚠️ CI failed on Linux_Docker.debian_32bit (last failure: Nov 22, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29802",
+    "created_at": "2024-09-08T03:35:56Z",
+    "user": "scikit-learn-bot",
     "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true
   },
   {
-    "repo": "pytorch/tutorials",
-    "id": 2767193553,
-    "number": 3211,
-    "title": "💡 [REQUEST] - Making the tutorial more coherent",
-    "url": "https://github.com/pytorch/tutorials/issues/3211",
-    "created_at": "2025-01-03T08:46:30Z",
-    "user": "LunaticMaestro",
-    "labels": [
-      "nlp"
-    ],
+    "repo": "scikit-learn/scikit-learn",
+    "id": 2541476010,
+    "number": 29909,
+    "title": "⚠️ CI failed on Linux.pymin_conda_forge_openblas_min_dependencies (last failure: Dec 16, 2025) ⚠️",
+    "url": "https://github.com/scikit-learn/scikit-learn/issues/29909",
+    "created_at": "2024-09-23T03:06:33Z",
+    "user": "scikit-learn-bot",
+    "labels": [],
     "has_linked_pr": false,
     "linked_pr_url": "",
     "archived": true

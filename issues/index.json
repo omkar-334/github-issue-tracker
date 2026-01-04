@@ -2803,6 +2803,21 @@
       "archived": false
     },
     {
+      "repo": "huggingface/datasets",
+      "id": 2876281928,
+      "number": 7420,
+      "title": "better correspondence between cached and saved datasets created using from_generator",
+      "url": "https://github.com/huggingface/datasets/issues/7420",
+      "created_at": "2025-02-24T22:14:37Z",
+      "user": "vttrifonov",
+      "labels": [
+        "enhancement"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "huggingface/optimum",
       "id": 2877793665,
       "number": 2200,
@@ -61941,6 +61956,21 @@
       "archived": false
     },
     {
+      "repo": "vllm-project/vllm",
+      "id": 3671140463,
+      "number": 29606,
+      "title": "[Bug]: Florence 2 model in 0.10.2 not working",
+      "url": "https://github.com/vllm-project/vllm/issues/29606",
+      "created_at": "2025-11-27T11:59:34Z",
+      "user": "TheMrguiller",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
       "repo": "BerriAI/litellm",
       "id": 3671173231,
       "number": 17198,
@@ -111309,8 +111339,103 @@
       "has_linked_pr": false,
       "linked_pr_url": "",
       "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3778708633,
+      "number": 31658,
+      "title": "Audio batching fails with variable-length inputs in Ultravox model",
+      "url": "https://github.com/vllm-project/vllm/issues/31658",
+      "created_at": "2026-01-04T02:51:09Z",
+      "user": "AndriiPasternak31",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "holoviz/panel",
+      "id": 3778709584,
+      "number": 8359,
+      "title": "IntInput with value=None displays a placeholder value of 0",
+      "url": "https://github.com/holoviz/panel/issues/8359",
+      "created_at": "2026-01-04T02:52:38Z",
+      "user": "emunsing",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/peft",
+      "id": 3778730096,
+      "number": 2973,
+      "title": "Add BoRA to PEFT",
+      "url": "https://github.com/huggingface/peft/issues/2973",
+      "created_at": "2026-01-04T03:25:56Z",
+      "user": "cxmscb",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3778732149,
+      "number": 171659,
+      "title": "[RFC] RISC-V Architecture Support Roadmap for PyTorch",
+      "url": "https://github.com/pytorch/pytorch/issues/171659",
+      "created_at": "2026-01-04T03:29:29Z",
+      "user": "fernchen",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "id": 3778733473,
+      "number": 171660,
+      "title": "Recurring \"CUDA error: an illegal memory access was encountered\"",
+      "url": "https://github.com/pytorch/pytorch/issues/171660",
+      "created_at": "2026-01-04T03:31:58Z",
+      "user": "mindsofcogsci",
+      "labels": [],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "id": 3778735446,
+      "number": 31661,
+      "title": "[Bug]: t, h, w = image_grid_thw[image_index]   IndexError: list index out of range",
+      "url": "https://github.com/vllm-project/vllm/issues/31661",
+      "created_at": "2026-01-04T03:35:33Z",
+      "user": "chen03191108-lab",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
+    },
+    {
+      "repo": "huggingface/transformers",
+      "id": 3778739234,
+      "number": 43093,
+      "title": "summarization pipeline breaks.",
+      "url": "https://github.com/huggingface/transformers/issues/43093",
+      "created_at": "2026-01-04T03:42:04Z",
+      "user": "jiqing-feng",
+      "labels": [
+        "bug"
+      ],
+      "has_linked_pr": false,
+      "linked_pr_url": "",
+      "archived": false
     }
   ],
-  "last_updated": "2026-01-04T02:35:25Z",
-  "total_count": 7324
+  "last_updated": "2026-01-04T04:19:06Z",
+  "total_count": 7333
 }
