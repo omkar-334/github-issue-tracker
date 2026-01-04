@@ -763,6 +763,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 3206307938,
+    "number": 20520,
+    "title": "[Bug]: Requests that do not return results within 15 minutes are directly aborted, and then the request will be added by vllm again...",
+    "url": "https://github.com/vllm-project/vllm/issues/20520",
+    "created_at": "2025-07-06T08:44:16Z",
+    "user": "XZhang00",
+    "labels": [
+      "bug",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "plotly/plotly.py",
     "id": 3206365115,
     "number": 5266,

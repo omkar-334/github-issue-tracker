@@ -997,6 +997,22 @@
     "archived": false
   },
   {
+    "repo": "vllm-project/vllm",
+    "id": 2994702432,
+    "number": 16621,
+    "title": "[Feature]: Add support for AMD Strix/Strix Halo APU (gfx1150/gfx1151 RDNA 3.5)",
+    "url": "https://github.com/vllm-project/vllm/issues/16621",
+    "created_at": "2025-04-15T01:17:50Z",
+    "user": "deific",
+    "labels": [
+      "feature request",
+      "stale"
+    ],
+    "has_linked_pr": false,
+    "linked_pr_url": "",
+    "archived": false
+  },
+  {
     "repo": "keras-team/keras",
     "id": 2994890222,
     "number": 21167,
